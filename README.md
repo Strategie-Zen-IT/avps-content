@@ -105,13 +105,4 @@ curl -o /dev/null -w '%{http_code}' <asset>    # le HTML publié est minifié : 
 
 ## ✅ Reste à faire
 
-- [ ] Faire pointer `avps.nc` sur GitHub Pages (fichier `CNAME` déjà présent) :
-      enregistrements A vers les IP de GitHub Pages chez le registrar `.nc`, puis activer
-      le domaine personnalisé dans les réglages Pages du dépôt.
-- [ ] Définir la charte d'avps.nc : `themeVariant` utilise pour l'instant les variantes
-      `zen-light` / `zen-dark` livrées par Relearn, et `data/familles_couleurs.yml` une
-      palette provisoire (une couleur par domaine ROME). Le logo
-      `static/assets/logo-avps.svg` est un monogramme provisoire.
-- [ ] Déposer les logos des employeurs dans `static/logos/` (voir le README du dossier).
-- [ ] Remplacer `params.author` par `params.author.name` dans `hugo.toml` (déprécié par
-      Relearn 5.23 ; simple avertissement au build pour l'instant).
+La liste complète et ordonnée est dans [`TODO.md`](TODO.md).
