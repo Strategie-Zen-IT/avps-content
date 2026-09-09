@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Logo provisoire d'avps.nc — un simple monogramme typographique.
+  À remplacer par la charte définitive du site. Volontairement neutre : il ne doit
+  évoquer aucune des collectivités agrégées par le site, sous peine de laisser croire
+  que l'une d'elles en est l'éditrice.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" width="160" height="48" role="img" aria-label="avps.nc">
+  <rect x="0" y="4" width="40" height="40" rx="9" fill="#1F6F8B"/>
+  <path d="M12 33 L20 15 L28 33" fill="none" stroke="#ffffff" stroke-width="3.4"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="15.5" y1="27" x2="24.5" y2="27" stroke="#ffffff" stroke-width="3.4" stroke-linecap="round"/>
+  <text x="50" y="32" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
+        font-size="21" font-weight="700" fill="#1F6F8B">avps<tspan fill="#C8963E">.nc</tspan></text>
+</svg>

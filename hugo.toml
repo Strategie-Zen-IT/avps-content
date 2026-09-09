@@ -1,0 +1,113 @@
+baseURL = 'https://avps.nc'
+locale = 'fr-fr'
+defaultContentLanguage = 'fr'
+title = "Emploi fonctions publiques"
+theme = 'hugo-theme-relearn'
+
+[params]
+  # Options du thème Relearn
+  # ⚠️ Les variantes opt-light / opt-dark de la chaîne OPT n'ont pas été reprises :
+  # c'était la charte de l'OPT (assets/css/theme-opt-*.css, non copiés). En attendant
+  # celle d'avps.nc, on prend deux variantes livrées par Relearn — « zen » est neutre
+  # et lisible. Sans ce changement le build ÉCHOUE : Hugo traite une variante dont le
+  # CSS est absent comme une erreur, pas comme un avertissement.
+  themeVariant = [ "zen-light", "zen-dark" ]
+  landingPageName = "<i class='fa-fw fas fa-home'></i> Bienvenue"
+  collapsibleMenu = true
+  disableShortcutsTitle = true
+  author = "OPT-NC"
+  images = ["/assets/logo-opt.png"]
+
+# ------------------------------------------------------------------------------
+# Taxonomies
+#
+# La chaîne OPT n'avait qu'un `tags` fourre-tout où ville, province, corps et familles
+# se mélangeaient : impossible de lister « tous les AVP de la Province Sud » sans y voir
+# aussi les corps et les métiers. Avec un employeur unique c'était sans conséquence ;
+# ici chaque axe doit être navigable seul.
+#
+# Deux niveaux d'employeur, distincts dans la source open data :
+#   - `collectivites` : l'employeur juridique (libellecollectivite — Nouvelle-Calédonie,
+#     Province Sud, Ville du Mont-Dore, Centre hospitalier territorial…)
+#   - `directions`    : la direction de rattachement AU SEIN de cette collectivité
+#     (libelledirection — Direction des affaires sanitaires et sociales, DITTT…),
+#     complétée depuis le document quand la source ne la donne pas (17 % des cas).
+#
+# `familles` (41 familles RESPNC) structure content/ et le menu ; le reste est transverse.
+# ------------------------------------------------------------------------------
+[taxonomies]
+  famille = 'familles'
+  collectivite = 'collectivites'
+  direction = 'directions'
+  commune = 'communes'
+  province = 'provinces'
+  corps = 'corps'
+  tag = 'tags'
+
+[params.topbar]
+    sidebar = "show"
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-info-circle'></i> À propos"
+pageRef = "/a-propos"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-chart-line'></i> Statistiques"
+pageRef = "/stats"
+weight = 20
+
+[outputFormats.jobs_sitemap]
+  mediaType = "application/xml"
+  baseName = "jobs-sitemap"
+  isHTML = false
+
+[outputFormats.flux_ats]
+  mediaType = "application/xml"
+  baseName = "flux_ats"
+  isHTML = false
+
+[outputFormats.sitemap-index]
+  mediaType = "application/xml"
+  baseName = "sitemap-index"
+  isHTML = false
+
+[outputs]
+  home = ['html', 'rss', 'print','markdown','jobs_sitemap','flux_ats','sitemap-index']
+  page = ['html', 'print','markdown']
+  section = ['html', 'rss', 'print','markdown']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # ✅ Autorise le HTML brut (comme ton footer <center>) dans le Markdown
+
+
+[params.social]
+  facebook  = "https://www.facebook.com/lemondenumeriquedemelanie"
+  youtube   = "https://www.youtube.com/@optimisetonworkspace"
+  linkedin  = "https://www.linkedin.com/company/strategiezenit"
+  tiktok    = "https://www.tiktok.com/discover/melanie-numerique"
+
+[module]
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "layouts"
+    target = "layouts"
+  [[module.mounts]]
+    source = "data"
+    target = "data"
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "i18n"
+    target = "i18n"
+  [[module.mounts]]
+    source = "archetypes"
+    target = "archetypes"

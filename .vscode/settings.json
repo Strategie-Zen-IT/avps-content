@@ -1,0 +1,17 @@
+{
+  // Les fichiers de layouts/ ne sont PAS du HTML : ce sont des templates Go que le
+  // formateur HTML corrompt (voir l'en-tête de .editorconfig pour les deux familles de
+  // dégâts, dont une silencieuse qui passe le build et casse le site en production).
+  // On les associe donc à gotmpl et on désactive le formatage à la sauvegarde.
+  "files.associations": {
+    "**/layouts/**/*.html": "gotmpl",
+    "**/layouts/**/*.xml": "gotmpl"
+  },
+  "[gotmpl]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
+  },
+  "[html]": {
+    "editor.formatOnSave": false
+  }
+}

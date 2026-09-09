@@ -1,0 +1,68 @@
+<source>
+  <publisher>{{ .Site.Title }}</publisher>
+  <publisherurl>{{ .Site.BaseURL }}</publisherurl>
+  <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
+
+  {{/* 🎯 On pilote le flux par les PAGES réelles (et non par les data files) :
+       cela garantit que l'URL diffusée existe vraiment et pointe sur la fiche publiée.
+       Les champs riches (missions, compétences) sont récupérés dans le JSON associé.
+       Les champs simples sont en texte XML échappé ; seule la description (HTML) est en CDATA. */}}
+  {{/* ⚠️ Ce flux n'a PAS de contrôle de date de clôture, contrairement au jobs-sitemap :
+       le filtre des archives est donc ici la SEULE protection contre la diffusion d'une
+       offre close chez Indeed. Ne pas le retirer. */}}
+  {{ range partial "avp-actives.html" .Site.RegularPages }}
+    {{ if .Params.ref }}
+      {{ $page := . }}
+      {{ $key := replace .Params.ref "/" "_" }}
+      {{ with index $.Site.Data.avps $key }}
+    <job>
+      <title>{{ .title | htmlUnescape }}</title>
+      <referencenumber>{{ .identifier }}</referencenumber>
+
+      {{/* ✅ URL canonique réelle de la fiche (et non un chemin /avps/ inexistant) */}}
+      <url>{{ $page.Permalink }}</url>
+
+{{/* ⚠️ L'employeur n'est PAS le site : chaque offre a le sien. Un flux qui
+           annoncerait « avps.nc » comme entreprise recruteuse serait faux chez Indeed,
+           et les candidatures arriveraient au mauvais endroit. On prend donc la
+           collectivité de l'offre, avec la direction en repli. */}}
+      <company>{{ $page.Params.collectivite | default $page.Params.direction | default $.Site.Title }}</company>
+      <pubdate>{{ .datePosted }}</pubdate>
+
+      {{ with .validThrough }}<expirydate>{{ . }}</expirydate>{{ end }}
+
+      {{ $city := "Nouméa" }}
+      {{ if .applicantLocationRequirements }}
+        {{ with .applicantLocationRequirements.address }}{{ $city = .addressLocality }}{{ end }}
+      {{ else if .jobLocation }}
+        {{ with .jobLocation.address }}{{ $city = .addressLocality }}{{ end }}
+      {{ end }}
+      <city>{{ $city }}</city>
+      <country>Nouvelle-Calédonie</country>
+
+      <category>{{ if and .occupationalCategory (gt (len .occupationalCategory) 0) }}{{ index .occupationalCategory 0 | htmlUnescape }}{{ else }}Autres métiers{{ end }}</category>
+
+      <description>{{ "<![CDATA[" | safeHTML }}
+        {{ with .description }}
+          <p><strong>Description du poste :</strong><br>{{ . | htmlUnescape | safeHTML }}</p>
+        {{ end }}
+
+        {{ with .responsibilities }}
+          <p><strong>Missions principales :</strong></p>
+          <ul>
+            {{ range . }}<li>{{ . | htmlUnescape | safeHTML }}</li>{{ end }}
+          </ul>
+        {{ end }}
+
+        {{ with .skills }}
+          <p><strong>Compétences et profil recherché :</strong></p>
+          <ul>
+            {{ range . }}<li>{{ . | htmlUnescape | safeHTML }}</li>{{ end }}
+          </ul>
+        {{ end }}
+      {{ "]]>" | safeHTML }}</description>
+    </job>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</source>

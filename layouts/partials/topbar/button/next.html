@@ -1,0 +1,139 @@
+{{- $onwidths := cond (isset . "onwidths") .onwidths "show" }}
+{{- $onwidthm := cond (isset . "onwidthm") .onwidthm "show" }}
+{{- $onwidthl := cond (isset . "onwidthl") .onwidthl "show" }}
+{{- with .page }}
+    {{- $currentPage := . }}
+    {{- $show := not (.Param "disableNextPrev") }}
+    {{- if $show }}
+        {{- $endarrow := "🡒" }}
+        {{- if eq (.Language.LanguageDirection | default (T "Reading-direction") | default "ltr") "rtl" }}
+            {{- $endarrow = "🡐" }}
+        {{- end }}
+        
+        {{- $s := newScratch }}
+        
+        {{- /* 🔄 VÉRIFICATION DE L'AVP */}}
+        {{- if $currentPage.Params.ref }}
+            {{- $avpPages := where $currentPage.Site.RegularPages "Params.ref" "!=" nil }}
+            {{- $avpPages = sort $avpPages "Date" "desc" }}
+            {{- $avpPages = sort $avpPages "Section" "asc" }}
+            
+            {{- $len := len $avpPages }}
+            {{- if gt $len 0 }}
+                {{- $currentIndex := -1 }}
+                {{- range $index, $page := $avpPages }}
+                    {{- if eq $page.Path $currentPage.Path }}
+                        {{- $currentIndex = $index }}
+                    {{- end }}
+                {{- end }}
+                
+                {{- if gt $currentIndex -1 }}
+                    {{- $nextIndex := add $currentIndex 1 }}
+                    {{- if ge $nextIndex $len }}
+                        {{- $nextIndex = 0 }}
+                    {{- end }}
+                    {{- $s.Set "next" (index $avpPages $nextIndex) }}
+                {{- end }}
+            {{- end }}
+        {{- else }}
+            {{- $nativeNext := partialCached "_relearn/pageNext.gotmpl" . .Path }}
+            {{- if eq .Kind "page" }}
+                {{- if or (not $nativeNext) (not $nativeNext.Path) }}
+                    {{- $nativeNext = .Site.Home }}
+                {{- end }}
+            {{- end }}
+            {{- $s.Set "next" $nativeNext }}
+        {{- end }}
+
+        {{- $next := $s.Get "next" }}
+        {{- $nextTitle := "" }}
+        {{- $href := "" }}
+        {{- if $next }}
+            {{- $nextTitle = partial "title.gotmpl" (dict "page" $next "outputFormat" "html") }}
+            {{- with $next.Path }}
+                {{- $href = . }}
+            {{- end }}
+        {{- end }}
+        
+        {{- if $href }}
+            
+            {{- /* 🎬 1. INJECTION DU BOUTON PLAY */}}
+            {{- if $currentPage.Params.ref }}
+                {{- partial "topbar/func/button.html" (dict
+                    "page" $currentPage
+                    "class" "topbar-button-play"
+                    "href" "#"
+                    "icon" "play"
+                    "onwidths" $onwidths
+                    "onwidthm" $onwidthm
+                    "onwidthl" $onwidthl
+                    "hint" "Lancer le diaporama automatique"
+                )}}
+                
+                <script>
+                  document.addEventListener("DOMContentLoaded", function() {
+                    const playBtn = document.querySelector('.topbar-button-play a, .topbar-button-play button');
+                    if (!playBtn) return;
+                    
+                    const icon = playBtn.querySelector('i');
+                    let isSlideshow = sessionStorage.getItem('avp_slideshow') === 'true';
+                    
+                    if (isSlideshow) {
+                      if (icon) {
+                        icon.classList.remove('fa-play');
+                        icon.classList.add('fa-pause');
+                      }
+                      playBtn.setAttribute('title', 'Arrêter le diaporama');
+                    }
+                    
+                    playBtn.addEventListener('click', function(e) {
+                      e.preventDefault();
+                      isSlideshow = sessionStorage.getItem('avp_slideshow') === 'true';
+                      
+                      if (isSlideshow) {
+                        sessionStorage.setItem('avp_slideshow', 'false');
+                        if (window.avpSlideshowTimeout) clearTimeout(window.avpSlideshowTimeout);
+                        window.location.href = new URL(window.location.href).pathname;
+                      } else {
+                        sessionStorage.setItem('avp_slideshow', 'true');
+                        window.location.href = "{{ $next.RelPermalink }}?slideshow=true";
+                      }
+                    });
+                  });
+                </script>
+            {{- end }}
+
+            {{- /* 🡒 2. RENDU DU BOUTON NEXT NATIF */}}
+            {{- partial "topbar/func/button.html" (dict
+                "page" $currentPage
+                "class" "topbar-button-next"
+                "href" $href
+                "icon" "chevron-right"
+                "onwidths" $onwidths
+                "onwidthm" $onwidthm
+                "onwidthl" $onwidthl
+                "hint" (printf "%s (%s)" $nextTitle ($endarrow | safeHTML))
+            )}}
+
+            {{- /* ⏱️ 3. GESTION DU MINUTEUR DE ZAP ET APPLICATION DU LOOK DIAPORAMA */}}
+            <script>
+              (function() {
+                const urlParams = new URLSearchParams(window.location.search);
+                const isSlideshow = urlParams.get('slideshow') === 'true' || sessionStorage.getItem('avp_slideshow') === 'true';
+                
+                // On applique l'état immédiatement avant le chargement complet pour couper la sidebar
+                document.body.classList.toggle('slideshow-active', isSlideshow);
+
+                if (isSlideshow) {
+                  sessionStorage.setItem('avp_slideshow', 'true');
+                  const tempsAffichage = 8000;
+                  
+                  window.avpSlideshowTimeout = setTimeout(() => {
+                    window.location.href = "{{ $next.RelPermalink }}?slideshow=true";
+                  }, tempsAffichage);
+                }
+              })();
+            </script>
+        {{- end }}
+    {{- end }}
+{{- end }}

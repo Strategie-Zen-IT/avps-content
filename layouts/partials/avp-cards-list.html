@@ -1,0 +1,27 @@
+<div class="avp-cards-list">
+  {{ range . }}
+    <div class="avp-list-card">
+
+      <h3 class="avp-list-card__title">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h3>
+
+      <p class="avp-list-card__meta">
+        <i class="fas fa-barcode"></i> <code>{{ .Params.ref }}</code>
+        <span class="avp-list-card__meta-sep">•</span>
+        <i class="fas fa-calendar-alt"></i> Clôture : <strong>{{ .Params.date_cloture }}</strong>
+      </p>
+
+      {{ if .Params.summary }}
+        <p class="avp-list-card__summary">{{ .Params.summary }}</p>
+      {{ end }}
+
+      <div class="avp-list-card__more">
+        <a href="{{ .RelPermalink }}">
+          Voir la fiche complète <i class="fas fa-arrow-right"></i>
+        </a>
+      </div>
+
+    </div>
+  {{ end }}
+</div>

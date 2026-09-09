@@ -1,0 +1,25 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {{ $now := now }}
+  {{/* 🎯 On retient les pages possédant une référence d'AVP et dont la date de clôture
+       n'est pas dépassée.
+       Depuis le 09/09/2026 les AVP clos ne sont PLUS supprimés du dépôt mais archivés
+       (content/archives/, `archive: true`) : sans ce filtre ils seraient soumis à Google
+       comme des offres ouvertes. Le contrôle de date ci-dessous les écarterait déjà, mais
+       on ne fait pas reposer une soumission externe sur ce seul garde-fou. */}}
+  {{ range partial "avp-actives.html" .Site.RegularPages }}
+    {{ if .Params.ref }}
+      {{ $ouvert := true }}
+      {{ with .Params.date_cloture }}
+        {{ if lt (time.AsTime .) $now }}{{ $ouvert = false }}{{ end }}
+      {{ end }}
+      {{ if $ouvert }}
+    <url>
+      <loc>{{ .Permalink }}</loc>
+      <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</urlset>

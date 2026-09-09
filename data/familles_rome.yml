@@ -1,0 +1,51 @@
+# ⚙️ FICHIER GÉNÉRÉ — ne pas éditer à la main.
+#
+# Source : avps-engine/src/pipeline/ref/famille-code-rome.csv (référentiel RESPNC,
+# 41 familles de métiers de la fonction publique calédonienne).
+# Régénérer avec : python3 scripts/generer_familles.py
+#
+# Code ROME de rattachement de chaque famille. Trois codes sont partagés par deux
+# familles (K1201, K1402, K2501) : c'est normal, la famille est la clé, pas le ROME.
+
+familles:
+  "Action sociale": "K1302"
+  "Administration générale": "K1601"
+  "Agriculture et mer": "A1203"
+  "Animation": "K1206"
+  "Ateliers et véhicules": "I1602"
+  "Aviation civile": "I1503"
+  "Communication": "K1403"
+  "Culture": "K1103"
+  "Développement du territoire": "K1201"
+  "Education": "K2107"
+  "Entretien, surveillance et logistique": "K2503"
+  "Environnement": "K1703"
+  "Espaces verts": "A1207"
+  "Finances et budget": "M1203"
+  "Fiscalité et Trésor / douanes / affaires économiques": "M1204"
+  "Formation professionnelle": "K2110"
+  "Habitat et logement": "K1301"
+  "Imprimerie": "E1303"
+  "Incendie et secours": "K2501"
+  "Infrastructures, réseaux, eaux et assainissements": "I1302"
+  "Ingénierie industrielle minière et énergétique": "I1304"
+  "Ingénierie juridique": "K1901"
+  "Laboratoire": "H2202"
+  "Météo": "K2404"
+  "Patrimoine bâti": "K1205"
+  "Pilotage": "K2102"
+  "Politique de santé publique": "K1402"
+  "Population et affaires funéraires": "K1401"
+  "Postes et télécommunications": "I1306"
+  "Propreté et gestion des déchets": "K1702"
+  "Prévention et sécurité": "K2501"
+  "Ressources Humaines": "M1503"
+  "Restauration collective / hôtellerie": "G1601"
+  "Santé publique inspection et contrôle": "K1402"
+  "Santé publique soins": "J1503"
+  "Santé publique équipements de santé": "J1402"
+  "Système d'information": "M1801"
+  "Topographie et foncier": "I1305"
+  "Transports terrestres et maritimes": "I1201"
+  "Travail": "K2104"
+  "Urbanisme": "K1201"

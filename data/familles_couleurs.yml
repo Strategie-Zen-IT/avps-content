@@ -1,0 +1,53 @@
+# ⚙️ FICHIER GÉNÉRÉ — ne pas éditer à la main.
+#
+# Source : avps-engine/src/pipeline/ref/famille-code-rome.csv (référentiel RESPNC,
+# 41 familles de métiers de la fonction publique calédonienne).
+# Régénérer avec : python3 scripts/generer_familles.py
+#
+# Une couleur par DOMAINE ROME (1re lettre du code), et non par famille : 41 couleurs
+# ne se distinguent pas à l'œil, les 8 domaines du référentiel si.
+# ⚠️ PALETTE PROVISOIRE — à remplacer par la charte d'avps.nc. Les mêmes valeurs sont
+# dans avps-engine/src/pipeline/schema.py (palette des bannières) : garder alignées.
+
+familles:
+  "Action sociale": "#3D5A80"
+  "Administration générale": "#3D5A80"
+  "Agriculture et mer": "#4C8C4A"
+  "Animation": "#3D5A80"
+  "Ateliers et véhicules": "#1F6F8B"
+  "Aviation civile": "#1F6F8B"
+  "Communication": "#3D5A80"
+  "Culture": "#3D5A80"
+  "Développement du territoire": "#3D5A80"
+  "Education": "#3D5A80"
+  "Entretien, surveillance et logistique": "#3D5A80"
+  "Environnement": "#3D5A80"
+  "Espaces verts": "#4C8C4A"
+  "Finances et budget": "#C8963E"
+  "Fiscalité et Trésor / douanes / affaires économiques": "#C8963E"
+  "Formation professionnelle": "#3D5A80"
+  "Habitat et logement": "#3D5A80"
+  "Imprimerie": "#7A5195"
+  "Incendie et secours": "#3D5A80"
+  "Infrastructures, réseaux, eaux et assainissements": "#1F6F8B"
+  "Ingénierie industrielle minière et énergétique": "#1F6F8B"
+  "Ingénierie juridique": "#3D5A80"
+  "Laboratoire": "#B54A6B"
+  "Météo": "#3D5A80"
+  "Patrimoine bâti": "#3D5A80"
+  "Pilotage": "#3D5A80"
+  "Politique de santé publique": "#3D5A80"
+  "Population et affaires funéraires": "#3D5A80"
+  "Postes et télécommunications": "#1F6F8B"
+  "Propreté et gestion des déchets": "#3D5A80"
+  "Prévention et sécurité": "#3D5A80"
+  "Ressources Humaines": "#C8963E"
+  "Restauration collective / hôtellerie": "#EF7B45"
+  "Santé publique inspection et contrôle": "#3D5A80"
+  "Santé publique soins": "#009CAB"
+  "Santé publique équipements de santé": "#009CAB"
+  "Système d'information": "#C8963E"
+  "Topographie et foncier": "#1F6F8B"
+  "Transports terrestres et maritimes": "#1F6F8B"
+  "Travail": "#3D5A80"
+  "Urbanisme": "#3D5A80"

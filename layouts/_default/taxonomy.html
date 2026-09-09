@@ -1,0 +1,84 @@
+{{- define "menu" }}
+    {{- partial "menu.html" . }}
+{{- end }}
+
+{{ define "body" }}
+<div class="avp-taxonomy-container" style="margin-bottom: 3rem; padding: 10px 0;">
+  
+  {{ if eq .Kind "taxonomy" }}
+    
+    <h1 style="color: var(--MAIN-TITLES-color); margin-bottom: 0.5rem; font-size: 2rem;">
+      <i class="fas fa-tags"></i> Index des mots-clés (Filtres RH)
+    </h1>
+    <p style="font-style: italic; color: var(--MAIN-TEXT-color); opacity: 0.7; margin-bottom: 2.5rem;">
+    Cliquez sur un tag pour découvrir les offres d'emploi correspondantes.
+    </p>
+
+    <div class="avp-tags-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1.2rem;">
+      {{ range .Pages }}
+        <a href="{{ .RelPermalink }}">
+          <div class="avp-tag-item-card" style="padding: 1.2rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 4px rgba(0,0,0,0.01);">
+            <span style="font-weight: bold;">
+              <i class="fas fa-tag" style="color: var(--PRIMARY-color); margin-right: 8px; font-size: 0.9rem;"></i>{{ .Title }}
+            </span>
+            <span style="background-color: var(--SECONDARY-color); color: white; padding: 3px 9px; border-radius: 12px; font-size: 0.8rem; font-weight: bold; white-space: nowrap;">
+              {{ len .Pages }} AVP
+            </span>
+          </div>
+        </a>
+      {{ end }}
+    </div>
+
+  {{ else }}
+
+    {{/* Une page de tag présente les offres OUVERTES : les AVP archivés sont écartés
+         du compteur, de la carte et de la liste. */}}
+    {{- $actives := partial "avp-actives.html" .Pages }}
+
+    <h1 style="color: var(--MAIN-TITLES-color); margin-bottom: 0.5rem; font-size: 2rem;">
+      <i class="fas fa-tag"></i> Offres associées au critère : {{ .Title }}
+    </h1>
+    <p style="font-style: italic; color: var(--MAIN-TEXT-color); opacity: 0.7; margin-bottom: 1.5rem;">
+    {{ len $actives }} poste(s) disponible(s).
+    </p>
+
+{{/* Badge de la famille de métier, avec son code ROME.
+          La chaîne OPT mettait ici un lien vers le référentiel des métiers OPT
+          (odata-referentiel-metiers) : ce référentiel ne décrit qu'un employeur et a été
+          retiré. Le référentiel RESPNC qui le remplace n'a pas de page par famille —
+          seulement un PDF par fiche d'emploi, déjà lié depuis chaque offre. D'où un
+          badge informatif et non un lien. */}}
+    {{- $term := or (and .Data .Data.Term) .Title }}
+    {{- $couleur := index $.Site.Data.familles_couleurs.familles $term }}
+    {{- with $couleur }}
+    <p style="margin-bottom: 2.5rem;">
+      <span style="display: inline-flex; align-items: center; gap: 8px; padding: 0.6rem 1rem; background-color: {{ . }}; color: #fff; border-radius: 6px; font-weight: bold;">
+        <i class="fas fa-book" aria-hidden="true"></i>
+        Famille RESPNC « {{ $term }} »{{ with index $.Site.Data.familles_rome.familles $term }} — ROME {{ . }}{{ end }}
+      </span>
+    </p>
+    {{- end }}
+
+    {{/* Carte des offres de ce tag (pins colorés par famille), avant la liste.
+         Les archives sont écartées : une page de tag présente les offres OUVERTES. */}}
+    {{- $hasGeo := false }}
+    {{- range $actives }}{{ if and .Params.latitude .Params.longitude }}{{ $hasGeo = true }}{{ end }}{{- end }}
+    {{- if $hasGeo }}
+    <div style="margin-bottom: 2.5rem;">
+      {{ partial "avp-map.html" (dict
+        "id" (printf "avp-map-%s" (or (and .Data .Data.Term) .Title | urlize))
+        "pages" $actives
+        "fit" true
+        "maxzoom" 15
+      ) }}
+    </div>
+    {{- end }}
+
+    {{ partial "avp-cards-list.html" $actives }}
+
+  {{ end }}
+
+</div>
+
+{{ partial "content-footer.html" . }}
+{{ end }}

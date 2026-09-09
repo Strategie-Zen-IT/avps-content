@@ -1,0 +1,47 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} sur {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>Flux RSS des Avis de Vacances de Poste - {{ .Site.Title }}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>{{ site.Language.Locale | default .Site.LanguageCode }}</language>
+    
+    <image>
+      <url>{{ "assets/logo-avps.svg" | absURL }}</url>
+      <title>{{ .Site.Title }}</title>
+      <link>{{ .Permalink }}</link>
+    </image>
+
+    {{ with .OutputFormats.Get "RSS" }}
+        {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType.Type | safeHTML }}
+    {{ end }}
+    
+    {{ range .Site.RegularPages }}
+      {{/* 🎯 FILTRES D'EXCLUSION : On identifie les pages à ignorer */}}
+      {{ $isMotDrh := eq .Section "mot-drh" }}
+      {{ $isAPropos := in .Permalink "a-propos" }}
+      {{ $is404 := in .Permalink "404" }}
+      {{ $isSearch := in .Permalink "search" }}
+      
+      {{/* Si la page n'est AUCUNE de ces trois-là, on génère l'item RSS */}}
+      {{ if and (not $isMotDrh) (not $isAPropos) (not $is404) (not $isSearch) }}
+      <item>
+        <title>{{ .Title }}</title>
+        <link>{{ .Permalink }}</link>
+        <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+        <guid>{{ .Permalink }}</guid>
+        <description>{{ or .Description .Summary | html }}</description>
+        
+        {{/* 🎯 INJECTION DE L'ILLUSTRATION NANO BANANA DE L'AVP */}}
+        {{ with .Params.featured_image }}
+          {{/* 1. Balise standard RSS 2.0 */}}
+          <enclosure url="{{ . | absURL }}" type="image/png" length="0" />
+          
+          {{/* 2. Balise enrichie Yahoo/Media RSS pour les agrégateurs modernes */}}
+          <media:content url="{{ . | absURL }}" medium="image" type="image/png" width="1200" height="675" />
+        {{ end }}
+      </item>
+      {{ end }}
+    {{ end }}
+  </channel>
+</rss>

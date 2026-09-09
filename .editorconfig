@@ -1,0 +1,39 @@
+# Garde-fou contre la corruption des templates Go de layouts/.
+#
+# Un formateur HTML/JS lancé sur layouts/**/*.html prend les `{{ ... }}` de Hugo pour du
+# JavaScript et les réécrit. Deux familles de dégâts, et c'est la moins visible qui est
+# la plus dangereuse (constaté le 09/09/2026 sur odata-avps) :
+#
+#   - BRUYANT  : un `}}` coupé en `}` + `}` -> Hugo échoue sur `unexpected "}" in operand`.
+#                On le voit tout de suite.
+#   - SILENCIEUX : un espace inséré DANS une chaîne littérale — `{{ "vendor/leaflet.css" }}`
+#                devenu `{{ " vendor/leaflet.css" }}`. `relURL` émet alors une URL en %20
+#                qui répond 404, la carte ne charge plus… et le build passe au vert.
+#                Ce dégât-là part en production sans aucun signal.
+#
+# Après tout reformatage d'un fichier de layouts/, ne pas se contenter du build :
+#   grep -rnE '\{\{ *" +[^"]' layouts/     # espaces en tête de chaîne Go
+#   git diff                               # SANS -w : c'est lui qui masque ce dégât
+#   curl -o /dev/null -w '%{http_code}' …  # le HTML publié est minifié, greper ne suffit pas
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.{yml,yaml,toml,json}]
+indent_style = space
+indent_size = 2
+
+[*.py]
+indent_style = space
+indent_size = 4
+
+# Les templates Hugo : aucun ajustement automatique, aucune coupure de ligne.
+[layouts/**]
+trim_trailing_whitespace = false
+insert_final_newline = false
+max_line_length = off
