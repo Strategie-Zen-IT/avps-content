@@ -1,0 +1,172 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Médecin de santé publique",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "UPASS de La Foa",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable de l'UPASS de La Foa",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Acteurs du secteur social et éducatif de la zone",
+      "UPASS de Bourail"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "inférieure à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Le poste nécessite une autonomie et une capacité d'adaptation. L'attention des candidats est attirée sur le fait que ce poste nécessite un bon niveau en termes d'urgences médicales. Il est spécifié également que les horaires pour permettre la continuité des soins sont de semaine, de nuit et de week-end. Des interventions ponctuelles à l'UPASS de Bourail sont susceptibles d'être demandées dans le cadre de la collaboration entre UPASS de la zone La Foa/Bourail."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955534.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des UPASS, des centres médico-sociaux et des autres sites excentrés. Au sein du pôle santé et territoires de la DPASS, notamment au sein de l'unité provinciale d'actions sanitaire et sociale de La Foa (UPASS), le médecin généraliste retenu travaillera au sein d'une équipe pluridisciplinaire (médecin, infirmières, assistantes sociales, diététicienne, orthophoniste, spécialistes vacataires, etc.), attachée à la synergie médico-sociale et aux démarches continues d'amélioration de la qualité et de l'évaluation des pratiques professionnelles.",
+  "disambiguatingDescription": "Poste de médecin généraliste au sein de l'UPASS de La Foa, rattaché à la DPASS de la Province Sud.",
+  "identifier": "26-0290",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Médecin à l'UPASS de La Foa",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "UPASS de La Foa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "La Foa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.44.71",
+    "email": "patricia.pedre@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-02-27",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme de médecin",
+    "competencyRequired": [
+      "Diplôme de médecin ou de spécialiste en médecine générale ou en médecine d'urgence",
+      "Diplôme d'épidémiologie et/ou de santé publique",
+      "Connaissances de la charte d'Ottawa"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre inférieure à 3 ans",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "UPASS de La Foa",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience en poste isolé ou capacité d'aide médicale urgente souhaitée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "UPASS de La Foa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "La Foa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-07-15",
+  "occupationalCategory": [
+    "Santé publique soins",
+    "Politique de santé publique"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Titulaire du permis de conduire B et d'un véhicule",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Médecin généraliste",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2104",
+      "name": "Médecine générale et spécialisée"
+    }
+  },
+  "responsibilities": [
+    "Assurer la médecine curative et préventive",
+    "Assurer la prise en charge des urgences notamment lors des périodes d'astreintes",
+    "Travailler en équipe avec les acteurs du secteur social et éducatif de la zone",
+    "Participer aux actions de santé publique provinciales et de la Nouvelle-Calédonie (éducation sanitaire, programmes de vaccinations, promotion de la santé, etc.) et travailler en partenariat pour mettre en œuvre les projets",
+    "Émettre des propositions sur la prise en charge efficiente des patients accueillis"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Gestion des urgences",
+    "Gestion de programmes de prévention",
+    "Capacité à mener des projets de santé communautaire",
+    "Connaissances en obstétrique",
+    "Connaissances en pédiatrie",
+    "Connaissances en santé publique (protection maternelle et infantile, médecine scolaire, contraception-IVG dépistage et traitement des IST, etc.)",
+    "Notions du logiciel de gestion des données médicales (ASCLEPIOS)",
+    "Réelles capacités relationnelles et d'accueil",
+    "Grande motivation",
+    "Envie d'entreprendre et d'innover",
+    "Disponibilité",
+    "Ouverture d'esprit",
+    "Capacité d'écoute",
+    "Capacité à travailler en équipe et en synergie médico-sociale",
+    "Capacité d'adaptation",
+    "Force de propositions"
+  ],
+  "specialCommitments": "Astreintes de nuit et de week-end. Interventions ponctuelles à l'UPASS de Bourail.",
+  "title": "Médecin à l'UPASS de La Foa",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-02",
+  "workHours": "Horaires de semaine, de nuit et de week-end pour assurer la continuité des soins",
+  "champs_open_data": 6,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "famille_respnc": "Travail",
+  "famille_source": "respnc",
+  "famille_score": 0.787,
+  "dossier": "travail"
+}
