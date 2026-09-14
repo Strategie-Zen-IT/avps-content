@@ -1,0 +1,151 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 1-Sans diplôme",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Internat de Koumac",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur d'internat",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Travail en station debout et manipulation de charge"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955394.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction de l’enseignement, de la formation, de l’insertion et de la jeunesse de la province Nord compte environ 560 agents. Elle emploi notamment l’ensemble des enseignants du premier degré public (330 enseignants pour 49 écoles), l’ensemble des personnels d’internats provinciaux (172 agents pour 7 internats) et environ 58 agents chargés de l’administration basés à l’hôtel de la province Nord et au centre de formation de Touho. La DEFIJ est chargée d’appliquer les orientations politiques de la province Nord en matière d’enseignement, de formation et d’insertion",
+  "disambiguatingDescription": null,
+  "identifier": "26-1361",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Agent de service en dortoir- Internat de Koumac",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.61.13",
+    "email": "va.tein-bai@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "CAP maintenance et hygiène des locaux",
+    "competencyRequired": [
+      "Connaissance des conditions d’utilisation et de stockage des produits (dosage, toxicité, règles d’utilisation, lecture des fiches techniques des produits…) en fonction des surfaces à traiter et à désinfecter, et des situations",
+      "Maîtrise des techniques et procédures de nettoyage et de désinfection et des spécificités de nettoyage pour chaque espace",
+      "Gestes et postures de la manutention manuelle",
+      "Manipuler et nettoyer des matériels et machines, ou équipements nécessaires",
+      "Règles de sécurité et d’hygiène des locaux (balisage zones glissantes, tri sélectif des déchets, vérifier l’état de propreté des locaux)",
+      "Organiser méthodiquement son travail en fonction du planning et des consignes, contribuer à l’économie d’eau et d’énergie",
+      "Travail en milieu éducatif"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Education",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Internat de Koumac",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Koumac",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-03",
+  "occupationalCategory": [
+    "Entretien, surveillance et logistique"
+  ],
+  "physicalRequirement": "Travail en station debout et manipulation de charge",
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Ouvrier",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1205",
+      "name": "Nettoyage de locaux"
+    }
+  },
+  "responsibilities": [
+    "Nettoyage des surfaces, des locaux et des abords des bâtiments de l’établissement conformément à la réglementation d’hygiène et de sécurité",
+    "Assurer le confort et le bien être des usagers",
+    "Nettoyage et entretien de tous les locaux d’accueil des élèves et de leurs abords immédiats (dortoirs, salles d’activités), administratifs, techniques et spécialisés (informatique, salle informatique, blocs sanitaires)",
+    "Contrôle de l’état de propreté des locaux",
+    "Tri et évacuation des déchets courants",
+    "Entretien courant et rangement du matériel utilisé",
+    "Contrôle et transmission des informations concernant l’approvisionnement en matériel et produits",
+    "Lavage, séchage et repassage des textiles en complément des lingères",
+    "Nettoyage des véhicules",
+    "Entretenir les espaces verts",
+    "Participation aux activités éducatives de l’établissement",
+    "Venir en soutien aux autres services"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Appliquer les règles de sécurité et d’hygiène en vigueur",
+    "Organiser méthodiquement le travail en fonction du planning et des consignes",
+    "Gestes et postures de la manutention manuelle",
+    "Rigueur",
+    "Capacité à travailler en équipe",
+    "Sensibilité éducative",
+    "Sens du dialogue",
+    "Ponctualité",
+    "Assiduité",
+    "Disponibilité",
+    "Discrétion professionnelle"
+  ],
+  "specialCommitments": null,
+  "title": "Agent de service en dortoir- Internat de Koumac",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-02",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "famille_respnc": "Patrimoine bâti",
+  "famille_source": "respnc",
+  "famille_score": 0.796,
+  "dossier": "patrimoine-bati"
+}
