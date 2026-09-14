@@ -1,0 +1,148 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "CMS de TOUHO",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de bureau de proximité des soins",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Chef du Bureau de Proximité de Soins",
+      "Pôle Soins",
+      "DASSPS"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "au moins égale 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Astreinte",
+        "value": "Ce poste est soumis à astreinte de nuit"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952050.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
+  "disambiguatingDescription": null,
+  "identifier": "26-0883",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Infirmier(e) en soins généraux à Touho",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.71.00",
+    "email": "drh-emplois@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-06-05",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'État d'infirmier",
+    "competencyRequired": [
+      "Diplôme d’état infirmier exigé",
+      "Expérience du travail en poste isolé",
+      "Expérience des urgences"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience du travail en poste isolé, Expérience des urgences",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "CMS de TOUHO",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Touho",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Infirmier",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Soins d'infirmiers généraux"
+    }
+  },
+  "responsibilities": [
+    "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
+    "Les actes curatifs (consultations, urgences, soins)",
+    "Les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
+    "Les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
+    "La téléconsultation (en l’absence de médecin en présentiel)",
+    "Assurer l’encadrement des stagiaires, notamment les étudiants infirmiers"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des logiciels de bureautique (Excel et Word)",
+    "Disponibilité",
+    "Rigueur",
+    "Respect de la confidentialité des informations et du secret médical",
+    "Sens des responsabilités",
+    "Goût des relations humaines",
+    "Esprit d’initiative",
+    "Capacité d’écoute",
+    "Goût du travail en équipe"
+  ],
+  "specialCommitments": null,
+  "title": "Infirmier(e) en soins généraux",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
