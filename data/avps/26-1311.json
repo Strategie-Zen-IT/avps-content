@@ -1,0 +1,165 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Major / capitaine",
+    "direction": "SERVICE INTERCOMMUNAL D'INCENDIE ET DE SECOURS",
+    "uniteOrganisationnelle": "Centre de secours SIVM SUD",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur du SIVM SUD",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Direction du SIVM SUD",
+      "Autorités de police administrative compétentes",
+      "Exécutif et directeur"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements fréquents. Aptitude physique et médicale définie réglementairement. Horaires irréguliers en fonction de l'organisation, de l'activité opérationnelle et des obligations de service public."
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le chef de corps est au cœur de la politique de lutte contre les incendies et de protection des personnes et des biens (sécurité civile uniquement) sur les communes de BOULOUPARIS, LA FOA, MOINDOU, FARINO et SARRAMEA. Il gère les ressources, anime les équipes et veille au maintien opérationnel de l'ensemble des moyens d'intervention des centres de secours intercommunaux. Il décline les orientations stratégiques intercommunales et est le garant de la finalité opérationnelle du service qui lui est confié.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1311",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de corps du SIVM SUD",
+  "owner": {
+    "@type": "Organization",
+    "name": "SIVM SUD"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "SIVM LA FOA",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue Soané VIANE",
+      "addressLocality": "La Foa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "79.06.12 / 44.32.28",
+    "email": "secretariat@sivmsud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Textes réglementaires, normes en matière d'incendie et de secours",
+      "Instances et processus de décision des deux CIS",
+      "Cadre juridique de la responsabilité civile et pénale",
+      "Réglementation hygiène, sécurité et formation",
+      "Techniques de management et de gestion de crise",
+      "Procédures administratives et connaissance des institutions",
+      "Potentiel et règlement intérieur du SIS"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "SIVM SUD",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "SIVM SUD"
+  },
+  "incentiveCompensation": null,
+  "industry": "Sécurité civile",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre de secours SIVM SUD",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue Soané VIANE",
+      "addressLocality": "La Foa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-04-01",
+  "occupationalCategory": [
+    "Incendie et secours"
+  ],
+  "physicalRequirement": "Aptitude physique et médicale définie réglementairement",
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "B (Major à Lieutenant) - A (Capitaine)",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1702",
+      "name": "Direction de la sécurité civile et des secours"
+    }
+  },
+  "responsibilities": [
+    "Via une mutualisation des moyens humains et matériels répartie sur les centres de LA FOA et de BOULOUPARIS, en concertation avec la direction du SIVM SUD, il assiste et conseille les autorités de police administrative compétentes, assure le suivi de son service, participe à la préparation et à la gestion des crises et garantit la finalité opérationnelle, en relation avec les services compétents",
+    "Veiller au maintien des qualifications des personnels et à l'entretien des moyens techniques opérationnels du service",
+    "Construire et met en œuvre un programme annuel d'actions préventions en matière de sécurité civile et s'inscrit comme le référent pour les communes précitées en termes de Plan Communal de Sauvegarde (PCS) et Établissements Recevant du Public (ERP)",
+    "Assister les communes pour la définition des plans de réalisation des pare-feux comme pour l'anticipation des risques particuliers (centrale photovoltaïque, industriel, ...) et la mise en œuvre et le suivi de Schéma Directeur Intercommunal de Défense Incendie (SDIDI)",
+    "Assurer la veille règlementaire du service",
+    "Recueillir, produit et transmet les données nécessaires aux renseignements dans le cadre du ou des contrat locaux de sécurité et prévention de la délinquance",
+    "Met en œuvre les diagnostics ou actions de terrain selon les orientations de l'exécutif et du directeur",
+    "Participe aux actions intercommunales valorisant la citoyenneté et la prévention, définies par l'exécutif et le directeur",
+    "Établir des bilans quantifiés des actions menées auprès de l'exécutif et du directeur pour améliorer l'efficacité des équipes sur de terrain"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Conseiller et alerter la direction et les exécutifs sur tous les risques humain, technique ou matériel",
+    "Encadrer et animer les équipes",
+    "Elaborer le règlement intérieur du service et les procédures applicables, et veiller à leur application",
+    "Proposer en continu des améliorations pour le fonctionnement des centres",
+    "Planifier et contrôler la réalisation des tâches à accomplir",
+    "Établir la permanence opérationnelle ; Veiller à l'opérationnalité des locaux, du matériel et du personnel",
+    "Participer à l'analyse des risques et au contrôle des établissements recevant du public (ERP) et des établissements à risques",
+    "Etablir des bilans et rapports relatifs à l'activité des centres, et notamment de la garde",
+    "Bon relationnel",
+    "Sens des responsabilités",
+    "Disponibilité",
+    "Esprit d'analyse et de synthèse",
+    "Sens aigu de la discipline",
+    "Management",
+    "Travail en transversalité",
+    "Gestion de projet"
+  ],
+  "specialCommitments": null,
+  "title": "Chef de corps du SIVM SUD",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-09-25",
+  "workHours": "Horaires irréguliers en fonction de l'organisation, de l'activité opérationnelle et des obligations de service public",
+  "champs_open_data": 8,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "SERVICE INTERCOMMUNAL D'INCENDIE ET DE SECOURS",
+  "direction_source": "document",
+  "famille_respnc": "Incendie et secours",
+  "famille_source": "gemini",
+  "dossier": "incendie-et-secours"
+}
