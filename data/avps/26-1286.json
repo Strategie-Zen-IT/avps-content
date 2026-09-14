@@ -1,0 +1,177 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif",
+    "direction": "SERVICE DES AFFAIRES JURIDIQUES, DES RESSOURCES HUMAINES ET DE LA SOLDE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service des affaires juridiques, des ressources humaines et de la solde",
+    "placeOrganigramme": "Placé sous l'autorité du chef de service des affaires juridiques, des ressources humaines et de la solde",
+    "relationsFonctionnelles": [
+      "Service des Affaires Juridiques, des Ressources Humaines et de la Solde",
+      "Organismes sociaux"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 10 ans pour le recrutement sans concours des adjoints administratifs"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Logiciels spécifiques",
+        "value": "Logiciel OPTIMAL, logiciel BFC"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953286.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La Commune de Lifou recrute un Gestionnaire de Paie, des Carrières et de l'Emploi. Placé sous l'autorité du chef de service des affaires juridiques, des ressources humaines et de la solde, l'agent aura à gérer un portefeuille de dossiers d'agents dans un cadre réglementaire défini. Il devra démontrer sa capacité à travailler dans des contraintes de délais ainsi que sa capacité à organiser ses tâches.",
+  "disambiguatingDescription": "Poste de gestionnaire de paie et carrières au sein de la Commune de Lifou.",
+  "identifier": "26-1286",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Gestionnaire de paie, des carrières et de l'emploi",
+  "owner": {
+    "@type": "Organization",
+    "name": "Commune de Lifou"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "AdministrativeArea",
+    "name": "Zone administrative Wé",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Zone administrative Wé",
+      "addressLocality": "Lifou",
+      "addressRegion": "Province des Îles",
+      "addressCountry": "NC",
+      "province": "province des îles Loyauté"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "79.89.80",
+    "email": "sajrhs@mairie.lifou.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Statuts de la fonction publique (général et particulier)",
+      "Statut des agents contractuels de droit public",
+      "Connaissances des politiques RH en Nouvelle-Calédonie",
+      "Connaissances politiques de la collectivité en matière de ressources humaines",
+      "Maîtriser les processus de gestion de la carrière du personnel communal et de leur rémunération",
+      "Fonctionnement du contrôle de légalité",
+      "Instances, processus et circuits de décision",
+      "Posséder toutes les compétences techniques liées à la préparation de la paie et du paiement des charges sociales",
+      "Réglementation des différentes caisses",
+      "Maîtriser les logiciels spécifiques de gestion des carrières, de paie et de comptabilité (logiciel BFC)",
+      "Maîtrise des techniques de rédactions",
+      "Maîtrise des outils informatiques"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs : au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service des Affaires Juridiques, des Ressources Humaines et de la Solde"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle souhaitée dans la gestion du personnel",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Lifou"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Zone administrative Wé",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Zone administrative Wé",
+      "addressLocality": "Lifou",
+      "addressRegion": "Province des Îles",
+      "addressCountry": "NC",
+      "province": "province des îles Loyauté"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Ressources Humaines"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Gestionnaire de Paie, des Carrières et de l'Emploi",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1503",
+      "name": "Administration des ressources humaines"
+    }
+  },
+  "responsibilities": [
+    "La gestion du recrutement",
+    "Établir les actes administratifs des agents communaux pour la paie et la gestion de leur carrière",
+    "La constitution et la gestion du fichier du personnel",
+    "Gérer les déclarations auprès des organismes sociaux",
+    "Gérer les dossiers d'absentéisme sur le logiciel OPTIMAL",
+    "Participer à la gestion des procédures disciplinaires",
+    "Accueillir, Informer et conseiller le personnel et les encadrants",
+    "Réaliser l'ensemble du processus de paie (saisie, mandatement…)",
+    "Traiter les charges sociales",
+    "Gérer les entretiens annuels d'échanges et s'assurer de leur bonne réalisation"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Faire preuve d'organisation",
+    "Faire preuve de sens relationnel, de rigueur et de discrétion",
+    "Gestion des salaires et des charges sociales",
+    "Faculté d'adaptation pour réagir face aux contraintes de temps",
+    "Connaissance souhaitée du logiciel de paie et de gestion BFC",
+    "Maîtrise de la rédaction administrative",
+    "Sens de l'organisation",
+    "Sens du travail en équipe",
+    "Rigueur",
+    "Réactivité",
+    "Discrétion, respect de la confidentialité",
+    "Sens de la communication",
+    "Esprit d'initiative et sens des relations humaines",
+    "Forte motivation et disponibilité"
+  ],
+  "specialCommitments": null,
+  "title": "Gestionnaire de Paie, des Carrières et de l'Emploi",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "SERVICE DES AFFAIRES JURIDIQUES, DES RESSOURCES HUMAINES ET DE LA SOLDE",
+  "direction_source": "document",
+  "famille_respnc": "Ressources Humaines",
+  "famille_source": "respnc",
+  "famille_score": 0.85,
+  "dossier": "ressources-humaines"
+}
