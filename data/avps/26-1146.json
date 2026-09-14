@@ -1,0 +1,196 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Bureau de l'accueil familial Nord",
+    "nbAgentsEncadres": 4,
+    "superieurHierarchique": "Chef du service de protection de l'enfance",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Magistrats",
+      "Éducateurs",
+      "Psychologues",
+      "Partenaires"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Grande disponibilité ainsi que sur l'obligation de participer au planning des astreintes (week-ends, fériés et nuits). De nombreux déplacements sont à prévoir, notamment sur la zone nord de la province Sud."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953800.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS) et des centres médico-sociaux (CMS) et des autres sites excentrés. Au sein du pôle enfance-famille, le service de la protection de l'enfance (SPE) compte plus de 80 agents répartis en 4 bureaux et 3 structures d'accueil collectif et est en charge de la mise en œuvre de l'ensemble des actions de prévention et de protection de l'enfance. Le/la candidat(e) retenu(e) exercera ses fonctions dans le bureau de l'accueil familial Nord.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1146",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Responsable du bureau accueil familial Nord",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Province Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.45.12",
+    "email": "joelle.muller@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-07-30",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'État d'éducateur spécialisé",
+    "competencyRequired": [
+      "Maîtrise parfaite des enjeux et des outils de la protection de l'enfance",
+      "Bonne connaissance des caractéristiques culturelles et familiales en Nouvelle-Calédonie",
+      "Bonne connaissance du cadre légal de la protection de l'enfance et des acteurs du champ social, éducatif et judiciaire de la Nouvelle-Calédonie",
+      "Connaissance de l'environnement institutionnel de la Nouvelle-Calédonie"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Bureau de l'accueil familial Nord"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Diplôme d'État d'éducateur spécialisé avec expérience avérée et solide expérience d'encadrement.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Bureau de l'accueil familial Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-09-01",
+  "occupationalCategory": [
+    "Action sociale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable socio éducatif",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1302",
+      "name": "Action sociale"
+    }
+  },
+  "responsibilities": [
+    "Garantir un lien de proximité avec les 4 agents du BAF Nord, travailleurs sociaux basés à la Foa et à Bourail",
+    "Apporter son expertise et son soutien techniques aux agents exerçant sous sa responsabilité",
+    "Superviser les éducateurs et les psychologues dans le suivi des projets pour l'enfant",
+    "Animer les réunions éducatives hebdomadaires pour les situations de chaque équipe suivie",
+    "Travailler en étroite collaboration avec les supérieurs hiérarchiques",
+    "Piloter et garantir la mise en œuvre et le suivi des placements familiaux",
+    "Organiser les commissions éducatives et les synthèses avec les partenaires et s'assurer du suivi des décisions prises",
+    "Préparer les dossiers à présenter en commissions des placements en attente",
+    "Garantir le respect des procédures relatives à l'accueil, au séjour et au départ de l'enfant ou du jeune dans le cadre de son placement à la DPASS",
+    "Accompagner le lien avec les magistrats, et participer aux audiences",
+    "Participer à la mise en œuvre des placements en urgence et aux investigations familiales",
+    "Superviser la réalisation et la qualité des écrits professionnels",
+    "Garantir la transmission des informations dans les délais",
+    "Contribuer à l'élaboration des rapports d'activité du service",
+    "Apprécier les demandes de prises en charge financière concernant les enfants avant de les soumettre au chef de service",
+    "Élaborer des contrats jeunes majeurs en lien avec l'éducateur référent et le psychologue et contribuer à leur suivi",
+    "Garantir un lien de proximité et un accompagnement des familles d'accueil notamment en cas de difficultés",
+    "Offrir un soutien renforcé aux nouvelles familles d'accueil",
+    "Organiser des rencontres collectives avec les familles d'accueil et les professionnels du secteur",
+    "Identifier les besoins de formation des familles d'accueil et évaluer les formations proposées",
+    "Tenir à jour le tableau des familles d'accueil et les éléments relatifs à l'évolution de leur situation",
+    "Gérer les situations d'urgence ou de crise durant les placements",
+    "Participer au roulement des astreintes du service",
+    "Participer à l'élaboration du plan de formation du service",
+    "Contribuer à l'élaboration du projet de service et des rapports d'activité",
+    "Participer à la communication des missions du service auprès des partenaires"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Avoir occupé un poste d'assistant socio-éducatif",
+    "Disposer d'une solide expérience d'encadrement",
+    "Maîtriser les techniques de management auprès d'une équipe pluridisciplinaire",
+    "Maîtriser les techniques d'entretiens et les écrits professionnels",
+    "Être en capacité d'accompagner une équipe",
+    "Animer des réunions",
+    "Effectuer une démarche de veille professionnelle",
+    "Piloter des projets",
+    "Forte capacité à la bienveillance envers les personnes accueillies et leur famille",
+    "Esprit de coopération, collaboration et leadership",
+    "Capacité à travailler en équipe et en réseau partenarial",
+    "Qualités relationnelles avérées",
+    "Investissement professionnel important",
+    "Rigueur et organisation",
+    "Capacités à alerter, rendre compte et à proposer des outils d'évaluation",
+    "Sens des responsabilités, esprit d'initiative et d'autonomie",
+    "Adaptabilité",
+    "Disponibilité",
+    "Discrétion, éthique et déontologie"
+  ],
+  "specialCommitments": null,
+  "title": "Responsable du bureau accueil familial Nord",
+  "totalJobOpenings": 2,
+  "validThrough": "2026-10-02",
+  "workHours": "Astreintes (week-ends, nuits et jours fériés)",
+  "champs_open_data": 11,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "action-sociale"
+}
