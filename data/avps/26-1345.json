@@ -1,0 +1,166 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "GROUPEMENT INSERTION EVOLUTION PROFESSIONNELLES DE NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 10,
+    "superieurHierarchique": "Directrice adjointe en charge des finances",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "L’activité du groupement étant déployée sur 5 sites, des déplacements sont à prévoir."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957366.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le Groupement pour l’Insertion et l’Evolution Professionnelles en Nouvelle-Calédonie (GIEP-NC), est constitué d’un ensemble de pôles de compétences pour le développement professionnel, et a pour mission de : informer, orienter et accompagner dans le projet professionnel ; préparer à l’emploi et/ou à une formation qualifiante ; former aux métiers de l’hôtellerie-restauration, de l’industrie, de la maintenance automobile, de la mer et du transport logistique.",
+  "disambiguatingDescription": "Le/La chef du service des moyens généraux pilote, coordonne et contrôle, par l’intermédiaire de son équipe, l’ensemble des activités logistiques, techniques, patrimoniales, assurantielles et administratives relevant de son périmètre.",
+  "identifier": "26-1345",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef du service des moyens généraux",
+  "owner": {
+    "@type": "Organization",
+    "name": "Groupement insertion évolution professionnelles de Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "GIEP-NC",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "10 rue Kataoui Nouville",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "recrutement@giep.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Formation supérieure",
+    "competencyRequired": [
+      "Formation supérieure dans les domaines de la gestion, de la logistique, du patrimoine, du bâtiment ou équivalent",
+      "Connaissance du fonctionnement des établissements publics, des marchés publics, de la gestion patrimoniale"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "GIEP-NC",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Groupement insertion évolution professionnelles de Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "GIEP-NC",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "10 rue Kataoui Nouville",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Administration générale",
+    "Patrimoine bâti"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable administratif",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Direction administrative et financière"
+    }
+  },
+  "responsibilities": [
+    "Encadrer, animer, organiser l'activité du Service des Moyens Généraux et assurer la gestion des agents placés sous son autorité (répartition des tâches, congés, entretiens annuels et continuité du service)",
+    "Planifier et organiser les moyens généraux de l'établissement (locaux, matériels, véhicules, équipements, prestations de services) en fonction des besoins des services et des contraintes budgétaires",
+    "Coordonner les opérations de maintenance, d'entretien, de réhabilitation et d'aménagement des différents sites du GIEP-NC",
+    "Préparer les cahiers des charges, consultations et dossiers nécessaires à la passation et au suivi des marchés, contrats et prestations relevant du service",
+    "Assurer le suivi administratif des contrats de maintenance, d'entretien, de sécurité, de fluides, de services et d'assurances",
+    "Préparer les dossiers relatifs aux assurances et aux sinistres et assurer leur suivi sous l'autorité de la direction",
+    "Assurer le suivi des incidents affectant les biens de l'établissement et effectuer, lorsque nécessaire, les démarches administratives associées",
+    "Organiser et piloter les campagnes d'inventaire physique des biens de l'établissement et veiller à la fiabilisation des données patrimoniales",
+    "Préparer les dossiers de réforme des immobilisations, organiser les commissions de réforme, assurer le suivi des décisions et mettre en œuvre les opérations de cession ou de vente aux enchères des biens réformés",
+    "Assurer la gestion des clés, badges et moyens d'accès de l'ensemble des sites de l'établissement",
+    "Organiser les transferts de matériels et équipements entre les différents sites et pôles",
+    "Concevoir et mettre à jour les tableaux de bord nécessaires au pilotage de l'activité du service",
+    "Rédiger, actualiser et veiller à l'application des procédures internes et modes opératoires relevant du service",
+    "Participer aux projets transversaux de l'établissement impactant les moyens généraux, les infrastructures ou l'organisation des sites",
+    "Assurer un rôle de conseil et d'alerte auprès de la direction dans son domaine de compétences",
+    "Contribuer aux actions de développement durable et d'optimisation des ressources de l'établissement",
+    "Représenter la direction aux assemblées générales ou réunions relatives aux biens immobiliers dont le GIEP-NC est propriétaire ou copropriétaire",
+    "Réaliser toute mission confiée par la direction dans l'intérêt du fonctionnement de l'établissement"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Encadrer et animer une équipe en organisant, planifiant et priorisant les activités du service",
+    "Piloter des projets et coordonner des prestataires",
+    "Élaborer des tableaux de bord et des outils de suivi",
+    "Préparer et suivre des marchés, contrats et prestations",
+    "Utiliser avec aisance les outils bureautiques et numériques",
+    "Qualités relationnelles et force de proposition",
+    "Aptitude au management",
+    "Esprit d'analyse et de synthèse",
+    "Rigueur, sens de l'organisation, autonomie et réactivité",
+    "Sens du service public et discrétion professionnelle"
+  ],
+  "specialCommitments": null,
+  "title": "Chef du service des moyens généraux",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-02",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "GIEP NC",
+  "collectivite": "Groupement insertion évolution professionnelles de Nouvelle-Calédonie",
+  "direction": "GROUPEMENT INSERTION EVOLUTION PROFESSIONNELLES DE NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "administration-generale"
+}
