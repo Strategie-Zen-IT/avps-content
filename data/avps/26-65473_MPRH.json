@@ -1,0 +1,183 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Emploi fonctionnel",
+    "direction": "SECRETARIAT GENERAL DU GOUVERNEMENT DE LA NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaire général du gouvernement",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Directions de la collectivité Nouvelle-Calédonie",
+      "Service de l'aménagement et de la planification (SAP)",
+      "Service de la coordination administrative et des institutions (SCAI)",
+      "Service de coopération régionale et des relations extérieures (SCRRE)",
+      "Service du parc naturel de la mer de Corail et de la pêche (SPNMCP)",
+      "Service du protocole et de la logistique du gouvernement (SPLG)",
+      "Cellule administrative et financière",
+      "Cellule communication",
+      "Cellule habitat et urbanisme",
+      "Antenne des services de la Nouvelle-Calédonie"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "M. Léon WAMYTAN, Secrétaire général du gouvernement de la Nouvelle-Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957366.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité du secrétaire général du gouvernement, le secrétaire général adjoint le seconde dans l'exercice de ses missions et le supplée en cas d'absence ou d'empêchement, dans les conditions fixées par celui-ci.\n\nÀ ce titre, le secrétaire général adjoint peut être chargé de tout ou partie des missions dévolues au secrétaire général du gouvernement ainsi que de toute mission ou de tout projet confié par celui-ci.\n\nIl est particulièrement chargé de piloter la modernisation de l'action publique, d'accompagner la transformation et la réorganisation de l'administration, d'améliorer la performance des politiques publiques et de développer les capacités d'aide à la décision du gouvernement.\n\nIl veille à la conception, à la mise en œuvre et au déploiement de politiques publiques au service des usagers, en garantissant leur cohérence, leur efficacité et leur accessibilité.\n\nÀ ce titre, il anime les travaux de réorganisation de l'administration, accompagne les directions et services dans l'évolution de leurs organisations et contribue à l'optimisation des moyens humains, financiers, numériques et organisationnels.\n\nIl assure également la recherche, l'identification et la mobilisation de financements extérieurs nécessaires à la réalisation des projets prioritaires de la Nouvelle-Calédonie, en lien avec les directions concernées et les partenaires institutionnels, publics et financiers.\n\nIl assure enfin la conception, la préfiguration et le déploiement d'un dispositif intégré d'audit, d'évaluation des politiques publiques et d'inspection générale des services, destiné à renforcer la maîtrise des risques, la qualité de l'action administrative, la performance publique et l'efficience de la dépense.\n\nDans ce cadre, il contribue à l'instauration d'une culture de la performance, de l'évaluation, de la responsabilité et de l'amélioration continue au sein de l'administration, en mettant à la disposition du gouvernement des outils d'analyse, de pilotage et d'aide à la décision permettant d'éclairer les choix publics et d'en mesurer les résultats.\n\nIl participe, aux côtés du secrétaire général, à la coordination des directions et services, au suivi des projets transversaux et à la mise en œuvre des réformes nécessaires à l'adaptation de l'administration aux enjeux institutionnels, économiques, sociaux et financiers de la Nouvelle-Calédonie.\n\nIl exerce ses fonctions dans le respect des attributions du président et des membres du gouvernement et rend compte de ses actions au Secrétaire général du gouvernement.",
+  "disambiguatingDescription": null,
+  "identifier": "26-65473/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Secrétaire général adjoint du gouvernement",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "leon.wamytan@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-07",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Parfaite connaissance de l'organisation, du fonctionnement et de l'environnement institutionnel de la Nouvelle-Calédonie",
+      "Connaissances approfondies en droit public, finances publiques et gestion des collectivités publiques",
+      "Bonne maîtrise des enjeux liés à la conception, à la mise en œuvre et à l'évaluation des politiques publiques",
+      "Connaissance des démarches de modernisation de l'administration, de conduite du changement et d'amélioration de la performance publique",
+      "Bonne compréhension des enjeux stratégiques, organisationnels et humains auxquels sont confrontées les administrations publiques."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Le secrétariat général du gouvernement est composé :\n\n1° des directions de la collectivité Nouvelle-Calédonie ;\n2° du service de l'aménagement et de la planification (SAP) ;\n3° du service de la coordination administrative et des institutions (SCAI) ;\n4° du service de coopération régionale et des relations extérieures (SCRRE) ; 5° du service du parc naturel de la mer de Corail et de la pêche (SPNMCP) ; 6° du service du protocole et de la logistique du gouvernement (SPLG) ;\n7° de la cellule administrative et financière ; 8° de la cellule communication ;\n9° de la cellule habitat et urbanisme ;\n10° de l'antenne des services de la Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience confirmée dans l'exercice de fonctions de direction et de management stratégique",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Grille des emplois fonctionnels disponible sur le site de la DRHFPNC",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Secrétariat général du gouvernement",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Pilotage",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable administratif",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Responsable administratif, administratif de gestion, administratif et financier"
+    }
+  },
+  "responsibilities": [
+    "Seconder le secrétaire général du gouvernement dans l'exercice de ses missions et le suppléer en cas d'absence ou d'empêchement",
+    "Piloter la modernisation de l'action publique, accompagner la transformation et la réorganisation de l'administration, améliorer la performance des politiques publiques et développer les capacités d'aide à la décision du gouvernement",
+    "Veiller à la conception, à la mise en œuvre et au déploiement de politiques publiques au service des usagers, en garantissant leur cohérence, leur efficacité et leur accessibilité",
+    "Animer les travaux de réorganisation de l'administration, accompagner les directions et services dans l'évolution de leurs organisations et contribuer à l'optimisation des moyens humains, financiers, numériques et organisationnels",
+    "Assurer la recherche, l'identification et la mobilisation de financements extérieurs nécessaires à la réalisation des projets prioritaires de la Nouvelle-Calédonie",
+    "Assurer la conception, la préfiguration et le déploiement d'un dispositif intégré d'audit, d'évaluation des politiques publiques et d'inspection générale des services",
+    "Contribuer à l'instauration d'une culture de la performance, de l'évaluation, de la responsabilité et de l'amélioration continue au sein de l'administration",
+    "Participer, aux côtés du secrétaire général, à la coordination des directions et services, au suivi des projets transversaux et à la mise en œuvre des réformes nécessaires",
+    "Exercer ses fonctions dans le respect des attributions du président et des membres du gouvernement et rendre compte de ses actions au Secrétaire général du gouvernement"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Expérience confirmée dans l'exercice de fonctions de direction et de management stratégique",
+    "Capacité à superviser, animer et coordonner l'action de plusieurs directions et services",
+    "Capacité à traduire les orientations du gouvernement en objectifs opérationnels, à en organiser la mise en œuvre et à en assurer le suivi",
+    "Capacité à piloter des politiques publiques, des projets complexes et des dossiers transverses",
+    "Capacité à accompagner les transformations organisationnelles et à mobiliser les services autour d'objectifs communs",
+    "Capacité d'analyse, de synthèse, d'arbitrage et d'aide à la décision",
+    "Aptitude à anticiper les difficultés, à identifier les risques et à proposer des solutions adaptées",
+    "Capacité à représenter l'administration, à conduire des négociations et à intervenir dans un environnement institutionnel complexe",
+    "Excellentes qualités rédactionnelles et orales.",
+    "Sens du service public, loyauté et discrétion professionnelle",
+    "Autorité, leadership et capacité à décider",
+    "Diplomatie, sens de l'écoute et aptitude à la négociation",
+    "Rigueur, sens de l'organisation et capacité d'anticipation",
+    "Réactivité, adaptabilité et capacité à gérer des situations sensibles ou urgentes",
+    "Aptitude au travail collectif et à la coopération",
+    "Grande disponibilité."
+  ],
+  "specialCommitments": null,
+  "title": "Secrétaire général adjoint du gouvernement",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": null,
+  "champs_open_data": 24,
+  "employeur_sigle": "SGGNC",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "SECRETARIAT GENERAL DU GOUVERNEMENT DE LA NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "administration-generale"
+}
