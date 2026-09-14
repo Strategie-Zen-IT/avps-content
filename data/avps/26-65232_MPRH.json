@@ -1,0 +1,184 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif / rédacteur",
+    "direction": "SERVICE DE LA COORDINATION ADMINISTRATIVE ET DES INSTITUTIONS (SCAI)",
+    "uniteOrganisationnelle": "Bureau du courrier",
+    "nbAgentsEncadres": 3,
+    "superieurHierarchique": "Cheffe de service et son adjoint",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Secrétaire général du gouvernement",
+      "SGA",
+      "SGG",
+      "Président du gouvernement",
+      "Membres du gouvernement",
+      "Directions de la Nouvelle-Calédonie"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Informations salaire",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Laurence Dewulf"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953312.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Piloter et suivre le processus de gestion du courrier de la Nouvelle-Calédonie (courrier entrant, sortant et réservé).\nGérer l'administration fonctionnelle de l'outil de courrier CICA\nAssister la cheffe de service et son adjoint dans le traitement de tâches diverses.\nEncadrer 3 agents.",
+  "disambiguatingDescription": null,
+  "identifier": "26-65232/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef du bureau du courrier",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.60.50",
+    "email": "laurence.dewulf@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-26",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Bonne connaissance du fonctionnement de l'administration territoriale et de ses circuits administratifs",
+      "Connaissance de l'organisation politique et administrative de la Nouvelle-Calédonie",
+      "Maîtrise des outils de bureautique (Gsuite,...) et des applications informatiques spécifiques (CICA, GAIAC)",
+      "Charte graphique du gouvernement",
+      "Bon niveau d'orthographe et de grammaire",
+      "Techniques de rédaction administrative."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Le service de la coordination administrative et des institutions (SCAI), composé de 14 agents, assiste le secrétaire général du gouvernement de la Nouvelle-Calédonie dans sa mission de coordination de l'administration. Il a pour objectif de coordonner efficacement l'action administrative en améliorant et simplifiant les circuits de gestion du courrier et des actes du gouvernement.\nA cet effet, le SCAI inscrit son action dans le cadre de la politique de simplification et de dématérialisation impulsée par le gouvernement de la Nouvelle-Calédonie et participe à la promotion du système \"qualité\".",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Bureau du courrier",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre administratif Jacques Iékawé",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "18 avenue Paul Doumer",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Agent de distribution",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2503",
+      "name": "Employé au courrier"
+    }
+  },
+  "responsibilities": [
+    "1° Coordination, suivi et pilotage de l'activité du bureau: lien avec les directions, gestion des hotlines et de l'accompagnement des directions (CICA/circuit du courrier) et des usagers (demandes de subvention)",
+    "2° Rédaction et mise à jour des processus, organisation et animation de réunions de travail avec l'équipe",
+    "3° Courrier arrivé : suivi, contrôle de 1er niveau et correction éventuelle des affectations du courrier \"réservé\" destiné au SGA, SGG et président du gouvernement",
+    "4° Courrier \"signature\" : contrôle qualité des projets de courrier et de texte des directions soumis à la signature du SGA, SGG, président et membres du gouvernement",
+    "5° Courrier \"contentieux\" : gestion de la plateforme télérecours pour son paramétrage organisationnel pour les directions de la Nouvelle-Calédonie qui traitent du contentieux",
+    "6° Suivi de l'évolution et de la maintenance de l'outil CICA, animation du réseau des référents CICA et de la communication autour de l'application (intranet, suivi des formations).",
+    "Participation aux divers projets transverses du service",
+    "Tenue de tableaux de bord et de statistiques, rédaction du rapport d'activité du bureau."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Encadrer une équipe",
+    "Savoir prioriser",
+    "Contrôler et fiabiliser (le circuit courrier)",
+    "Concevoir et alimenter un tableau de bord",
+    "Former sur l'outil CICA",
+    "Communiquer une information, une publication",
+    "Constituer, entretenir et animer un réseau.",
+    "Rigueur",
+    "Sens des responsabilités",
+    "Sens des relations humaines",
+    "Sens de l'initiative",
+    "Avoir l'esprit d'équipe."
+  ],
+  "specialCommitments": null,
+  "title": "Chef du bureau du courrier",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 23,
+  "employeur_sigle": "NOUVELLE-CALEDONIE",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "SERVICE DE LA COORDINATION ADMINISTRATIVE ET DES INSTITUTIONS (SCAI)",
+  "direction_source": "document",
+  "famille_respnc": "Entretien, surveillance et logistique",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "entretien-surveillance-et-logistique"
+}
