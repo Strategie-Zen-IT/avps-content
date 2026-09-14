@@ -1,0 +1,163 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Professeur des écoles",
+    "direction": "UNIVERSITE DE NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": "Département GEA",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directrice de l'IUT",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Services dédiés de l'UNC",
+      "Département GEA",
+      "Entreprises du territoire"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Volume horaire",
+        "value": "384 h éq. TD en anglais"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi",
+        "value": "Cadre de l'enseignement du 2nd degré de la Nouvelle-Calédonie ou du cadre Etat"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952134.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'Université de la Nouvelle-Calédonie recrute un professeur agrégé ou certifié en Anglais pour l'IUT. L'UNC est un établissement pluridisciplinaire répondant aux besoins de formation et de recherche de la Nouvelle-Calédonie.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1349",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Un professeur agrégé ou certifié en Anglais",
+  "owner": {
+    "@type": "Organization",
+    "name": "Université de Nouvelle-Calédonie",
+    "url": "https://unc.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://unc.nc/utile/recrutement/recrutement-emplois-stages/",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Campus de Nouville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "recrutement-enseignants@unc.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Professeur agrégé ou certifié",
+    "competencyRequired": [
+      "Enseignement de l'anglais",
+      "Coordination d'enseignements",
+      "Suivi de stages et alternances"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "L'Université de la Nouvelle-Calédonie est un établissement pluridisciplinaire qui répond notamment aux besoins de formation et de recherche propres à la Nouvelle-Calédonie. Elle veille à accompagner efficacement les évolutions de la Nouvelle-Calédonie et à répondre à ses besoins spécifiques.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Université de la Nouvelle-Calédonie",
+    "url": "https://unc.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Université de Nouvelle-Calédonie",
+    "url": "https://unc.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Éducation",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Campus de Nouville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Education"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Enseignant du 2nd degré",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2107",
+      "name": "Enseignement général du second degré"
+    }
+  },
+  "responsibilities": [
+    "Assurer un enseignement de 384 h éq. TD en anglais sur toutes les formations de l'IUT",
+    "Assurer la coordination des enseignements d'Anglais (contenus, recrutement et suivi des vacataires) et des certifications en Anglais sur l'ensemble de l'IUT",
+    "Assurer la coordination des relations internationales avec les services dédiés de l'UNC pour l'IUT",
+    "Coordonner et suivre des Situations d'Apprentissage et d'Évaluation (SAE)",
+    "Suivre des étudiants en stage et/ou en alternance",
+    "Proposer une pédagogie basée sur l'approche par compétences",
+    "Accompagner les étudiants vers la réussite par un suivi individualisé et faire preuve d'adaptation",
+    "Prendre des responsabilités administratives et/ou pédagogiques inhérentes au fonctionnement du département GEA et de l'IUT",
+    "Participer aux missions collectives telles que le recrutement des étudiants, la communication auprès des publics cibles et les actions en lien avec les entreprises"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Pédagogie basée sur l'approche par compétences",
+    "Adaptation aux publics étudiants",
+    "Accompagnement individualisé",
+    "Coordination pédagogique",
+    "Gestion des relations internationales"
+  ],
+  "specialCommitments": null,
+  "title": "Professeur agrégé ou certifié en Anglais",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-02",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "UNC",
+  "collectivite": "Université de Nouvelle-Calédonie",
+  "direction": "UNIVERSITE DE NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "famille_respnc": "Education",
+  "famille_source": "respnc",
+  "famille_score": 0.945,
+  "dossier": "education"
+}
