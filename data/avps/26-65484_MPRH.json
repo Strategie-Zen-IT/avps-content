@@ -1,0 +1,247 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Conseiller des APS",
+    "direction": "DIRECTION DE LA JEUNESSE ET DES SPORTS",
+    "uniteOrganisationnelle": "Service des sports",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du Service des Sports de la DJSNC",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Ligue Calédonienne de Volley-Ball",
+      "Fédération Française de Volley-Ball",
+      "Direction Technique Nationale",
+      "Service des Sports de la DJSNC"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Bonne condition physique requise. Permis de conduire B obligatoire ; déplacements fréquents sur l'ensemble du territoire (Grande Terre et îles). Horaires atypiques (week-ends, soirées, compétitions) inhérents à l'activité d'encadrement sportif. Capacité à être mobilisé(e) en fonction des impératifs sportifs et institutionnels. Déplacements occasionnels en métropole et dans la zone Océanie-Pacifique."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Informations salaire",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/culture.pdf"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service des sports"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Marc HMAZUN - Chef de service des sports"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952084.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé(e) sous l'autorité du chef du Service des Sports de la DJSNC, le/la Conseiller(ère) Technique Sportif(ve) est mis(e) est placé(e) auprès de la Ligue Calédonienne de Volley-Ball. Il/elle a pour mission principale d'accompagner la stratégie générale de développement de la discipline sur le territoire, d'en renforcer la structuration et d'inscrire le volley-ball calédonien dans un parcours d'excellence cohérent avec les orientations de la Fédération Française de Volley-Ball (FFVB).",
+  "disambiguatingDescription": "Conseiller technique sportif de volley-ball placé auprès de la Ligue Calédonienne de Volley-Ball pour accompagner la stratégie de développement de la discipline.",
+  "identifier": "26-65484/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Conseiller technique sportif de volley-ball",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.07.40",
+    "email": "djsnc@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "DESJEPS (Bac+3 / Niveau 6)",
+    "competencyRequired": [
+      "Diplôme d'État Supérieur de la Jeunesse, de l'Éducation Populaire et du Sport (DESJEPS), spécialité « Performance sportive », mention volley-ball souhaité",
+      "À défaut, diplôme d'État de niveau 6 minimum dans le champ de l'encadrement sportif , assorti d'une expérience significative dans le développement, l'encadrement ou la structuration du volley-ball",
+      "Formation complémentaire ou certification fédérale délivrée par la Fédération Française de Volley-Ball (entraîneur, formateur...) appréciée",
+      "Expérience significative dans l'encadrement, le développement ou la structuration du volley-ball, en tant qu'entraîneur, cadre technique ou responsable de projet.",
+      "Expérience dans la mise en place ou l'animation de dispositifs de formation (jeunes, entraîneurs, dirigeants) ou de parcours de progression sportive appréciée",
+      "Une expérience dans des environnements de performance (structures fédérales, sélections, compétitions de niveau régional ou national) constitue un atout",
+      "Connaissance du mouvement sportif calédonien, océanien et/ou français appréciée",
+      "Techniques du volley-ball et pédagogie des activités physiques et sportives",
+      "Organisation et fonctionnement du mouvement sportif (calédonien, océanien et/ou français)",
+      "Principes de structuration des parcours sportifs, du développement à la performance",
+      "Règlements fédéraux et internationaux du volley-ball",
+      "Techniques de management, d'animation et d'accompagnement des acteurs",
+      "Méthodes de formation, de détection et d'accompagnement des pratiquants",
+      "Environnement institutionnel et fonctionnement des collectivités territoriales",
+      "Techniques d'évaluation, d'organisation et de planification."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La Nouvelle-Calédonie met en œuvre sa politique sportive par l'intermédiaire de la Direction de la Jeunesse et des Sports (DJSNC), chargée d'accompagner le développement des activités physiques et sportives sur le territoire, d'en structurer l'organisation et de soutenir les acteurs du mouvement sportif.\nAu sein de la DJSNC, le Service des sports assure le pilotage et la mise en œuvre des actions relevant du champ des activités physiques et sportives, notamment en matière de développement des pratiques, d'accompagnement des ligues, de structuration des disciplines et du soutien à la performance.  Contexte du poste :\nLa remise en fonction de cette mission constitue un enjeu stratégique pour la Direction de la Jeunesse et des Sports et la Ligue Calédonienne de Volley-Ball, dans un contexte de structuration et de développement de la\ndiscipline à l'échelle territoriale. Les premières dynamiques engagées, notamment l'intégration récente de jeunes sportifs en structures de formation en métropole, confirment le potentiel de la discipline et la nécessité de renforcer l'encadrement technique. Dans cette perspective, la Fédération Française de Volley-Ball, à travers sa Direction Technique Nationale, soutient la mise en place d'un dispositif structuré permettant d'accompagner les parcours vers la performance.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service des sports",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Expérience significative dans l'encadrement, le développement ou la structuration du volley-ball, en tant qu'entraîneur, cadre technique ou responsable de projet. Expérience dans la mise en place ou l'animation de dispositifs de formation ou de parcours de progression sportive appréciée. Une expérience dans des environnements de performance constitue un atout.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-08-28",
+  "occupationalCategory": [
+    "Animation"
+  ],
+  "physicalRequirement": "Bonne condition physique requise",
+  "qualifications": "Permis de conduire B obligatoire",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Conseiller jeunesse et sports",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1206",
+      "name": "Conseiller sportif"
+    }
+  },
+  "responsibilities": [
+    "Développement et structuration de la discipline :",
+    "Contribuer à la mise en œuvre du plan stratégique de développement du volley-ball en Nouvelle-Calédonie en cohérence avec le Projet de Performance Fédéral (PPF) de la FFVB",
+    "Appuyer la LCVB dans la gouvernance et le fonctionnement de la ligue et des clubs",
+    "Participer aux réseaux de développement de la Direction Technique Nationale, représenter la NC au sein du mouvement sportif fédéral",
+    "Contribuer à l'élaboration et au suivi des conventions d'objectifs entre la LCVB et la DJSNC.",
+    "Détection, formation et parcours vers l'excellence :",
+    "Définir et mettre en œuvre une méthodologie calédonienne de détection des talents sur l'ensemble des trois provinces",
+    "Structurer un parcours de formation progressive permettant d'amener les jeunes joueurs et joueuses vers les pôles espoirs métropolitains",
+    "Mettre en place une structure permanente d'entraînement en Nouvelle-Calédonie avec des volumes horaires adaptés à un niveau intermédiaire entre la pratique locale et les exigences des pôles fédéraux",
+    "Porter une attention particulière au développement des postes techniques lacunaires (libéro, passeur) pour lesquels la formation locale est insuffisante",
+    "Assurer un suivi individualisé des sportifs inscrits dans un projet de haute performance, en lien avec la DTN et les structures d'accueil métropolitaines",
+    "Préconiser et mettre en œuvre des créneaux d'entraînement prioritairement dédiés aux jeunes, en amont des seniors.",
+    "Encadrement des sélections et représentation :",
+    "Coordonner et/ou encadrer les sélections territoriales (masculines et féminines) pour les compétitions régionales et internationales (Jeux du Pacifique, championnats d'Océanie...)",
+    "Assurer la liaison opérationnelle entre la LCVB, la DTN de la FFVB et les structures de formation en métropole",
+    "Participer aux réunions de travail, colloques CTS et séminaires d'entraîneurs de pôle prévus annuellement.",
+    "Formation des cadres techniques et des officiels :",
+    "Organiser et animer des formations à destination des entraîneurs de clubs sur l'ensemble du territoire",
+    "Contribuer à la formation des arbitres et des officiels techniques en lien avec la commission compétente de la LCVB",
+    "Développer des ressources pédagogiques adaptées au contexte calédonien.",
+    "Promotion et développement de la pratique pour tous :",
+    "Contribuer au développement d'une pratique inclusive et accessible sur l'ensemble du territoire, en lien avec les politiques publiques territoriales de sport-santé, de cohésion sociale et d'éducation par le sport",
+    "Développer une offre de pratiques diversifiées (loisir, santé, compétition) en cohérence avec les offres promues par la FFVB",
+    "Contribuer à la promotion du volley-ball dans les provinces, notamment auprès des jeunes et dans les établissements scolaires",
+    "Soutenir l'organisation d'événements fédérateurs et d'animations grand public (Fête du Volley, tournois provinciaux...)",
+    "Participer à la valorisation de la pratique féminine et au développement du volley-ball dans les zones éloignées, en cohérence avec les objectifs de mixité et d'équité territoriale.",
+    "Gestion et montage de dossiers :",
+    "Contribuer à la réponse aux appels à projets fédéraux et institutionnels (Agence Nationale du Sport, DJSNC, provinces)",
+    "Participer à l'élaboration des bilans d'activité et des rapports annuels de la ligue",
+    "Assurer une veille sur les financements disponibles et construire des partenariats publics/privés au bénéfice du développement de la discipline.",
+    "Suivi et accompagnement technique des clubs (visites, assistance, conseil)",
+    "Présence aux réunions du Service des Sports de la DJSNC",
+    "Présence aux réunions du comité directeur de la LCVB",
+    "Participation aux travaux des différentes commissions de la ligue sur invitation du bureau directeur",
+    "Possibilité de participation aux réunions des comités directeurs provinciaux sur demande",
+    "Mise en place d'une programmation et d'une planification des regroupements des sélections",
+    "Contribution aux actions de prévention et d'éducation (lutte contre le dopage, fair-play, valeurs du sport)."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Concevoir et piloter un projet de développement sportif",
+    "Adapter les interventions aux publics, niveaux et contextes",
+    "Animer des formations et des séances d'entraînement",
+    "Conduire des réunions et communiquer en équipe",
+    "Mobiliser et coordonner des partenaires multiples",
+    "Produire des bilans d'activité et des rapports techniques",
+    "Répondre à des appels à projets et monter des dossiers",
+    "Respecter les règles de sécurité et d'éthique sportive.",
+    "Sens des responsabilités et forte autonomie dans la conduite des missions",
+    "Capacité à analyser des situations complexes et à formuler des propositions adaptées",
+    "Aptitude à prendre des décisions et à agir dans des environnements contraints ou isolés",
+    "Capacité à mobiliser, fédérer et accompagner des acteurs aux profils variés",
+    "Posture de conseil, d'expertise et d'accompagnement auprès des partenaires institutionnels et associatifs",
+    "Excellentes qualités relationnelles et de communication orale et écrite",
+    "Capacité à travailler en environnement géographiquement isolé et à distance des ressources fédérales métropolitaines",
+    "Aptitude à s'inscrire dans un environnement multiculturel calédonien (mélanésien, polynésien, européen)",
+    "Rigueur, sens de l'organisation et respect des échéances institutionnelles",
+    "Engagement dans une démarche d'amélioration continue et de qualité des actions."
+  ],
+  "specialCommitments": "- Bonne condition physique requise,\n- Permis de conduire B obligatoire ; déplacements fréquents sur l'ensemble du territoire (Grande Terre et îles),\n- Horaires atypiques (week-ends, soirées, compétitions) inhérents à l'activité d'encadrement sportif,\n- Capacité à être mobilisé(e) en fonction des impératifs sportifs et institutionnels,\n- Déplacements occasionnels en métropole et dans la zone Océanie-Pacifique, dans le cadre des missions de représentation, de coordination et de suivi des sportifs et équipes de Nouvelle-Calédonie.",
+  "title": "Conseiller technique sportif de volley-ball",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": "Horaires atypiques (week-ends, soirées, compétitions)",
+  "champs_open_data": 28,
+  "employeur_sigle": "DJS",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE LA JEUNESSE ET DES SPORTS",
+  "direction_source": "source",
+  "famille_respnc": "Animation",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "animation"
+}
