@@ -1,0 +1,182 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Orthophoniste",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Service de Prévention et de Promotion de la Santé",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service de prévention et de promotion de la santé",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Équipes pluridisciplinaires des centres de soins provinciaux",
+      "Professionnels du champ médico-social",
+      "Professionnels de la petite enfance",
+      "Professionnels de l'enseignement"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 10 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Déplacements",
+        "value": "Déplacements fréquents en province Sud, véhicule de service mis à disposition pour les interventions extérieures"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Compensation",
+        "value": "Récupération prévue pour les interventions réalisées en dehors des horaires de travail"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Matériel",
+        "value": "Outils orthophoniques et supports de prévention disponibles"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952060.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS), rattachée au pôle développement et épanouissement de la personne, exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés. L'orthophoniste recruté(e) interviendra principalement sur 2 CMS de Nouméa et du grand Nouméa dans le cadre d'un exercice alliant suivi clinique et actions collectives de prévention.",
+  "disambiguatingDescription": "Poste d'orthophoniste au sein du pôle enfance-famille, alliant suivi clinique et actions collectives de prévention.",
+  "identifier": "26-0791",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Orthophoniste au service de prévention et de promotion de la santé",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.44.61",
+    "email": "frederique.yamamoto@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-05-20",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Certificat de capacité en orthophonie",
+    "competencyRequired": [
+      "Connaissances de la politique de santé publique de la province Sud",
+      "Connaissances des outils et des pratiques de santé publique"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de Prévention et de Promotion de la Santé",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": "Véhicule de service mis à disposition pour les interventions extérieures, récupération prévue pour les interventions réalisées en dehors des horaires de travail",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Titulaire du permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Orthophoniste",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Orthophonie"
+    }
+  },
+  "responsibilities": [
+    "Réaliser des bilans orthophoniques et rédiger les rapports qui en découlent",
+    "Réaliser le suivi orthophonique des enfants dépistés",
+    "Conseiller les parents et les enseignants",
+    "Orienter les enfants dépistés vers les structures de soins appropriées",
+    "Travailler en lien avec les équipes pluridisciplinaires des centres de soins provinciaux et les divers spécialistes",
+    "Réaliser des actions de prévention",
+    "Intervenir en crèches-garderies et écoles maternelles et primaires pour animer des ateliers de prévention auprès des familles sur des thématiques clés : écrans et langage, lecture partagée, repérage précoce des troubles du langage, développement du langage",
+    "Conseiller et accompagner le personnel enseignant dans leur compréhension des étapes du développement langagier, les signaux d'alerte des troubles du langage",
+    "Co-animer des formations adressées aux professionnels du champ médico-social, de la petite enfance et de l'enseignement sur l'impact des écrans sur la santé et les apprentissages scolaires, sur l'alimentation et les troubles de la déglutition",
+    "Intervenir en binôme puéricultrice/orthophoniste lors d'actions de prévention journée sans écran dans les CMS",
+    "Concevoir des outils pédagogiques et des supports de prévention destinés aux professionnels de terrain et aux familles"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des outils et des protocoles orthophoniques",
+    "Maîtrise complète de la discipline orthophonique",
+    "Mise en œuvre des protocoles du métier",
+    "Travail en partenariat avec les équipes des centres médico-sociaux et avec les divers spécialistes",
+    "Bonne organisation",
+    "Autonomie",
+    "Disponibilité",
+    "Mobilité",
+    "Goût pour le contact humain",
+    "Sens de la communication"
+  ],
+  "specialCommitments": "Déplacements fréquents en province Sud",
+  "title": "Orthophoniste au Service de Prévention et de Promotion de la Santé",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": "39h hebdomadaires du lundi au vendredi 7h30-16h",
+  "champs_open_data": 6,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
