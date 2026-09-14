@@ -1,0 +1,146 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Opérateur des APS",
+    "direction": "DIRECTION DES SERVICES D'INCENDIE ET DE SECOURS",
+    "uniteOrganisationnelle": "Service des centres de secours",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de centre et de son adjoint",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "2 en décembre 2026 et 2 en janvier 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Participer à la surveillance toute l'année : en semaine, week-ends et jours fériés."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956346.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La ville de Nouméa recrute 4 nageurs sauveteurs pour son centre de surveillance et de sauvetage nautique. Sous l'autorité du chef de centre et de son adjoint, le nageur sauveteur répond à trois missions principales : la prévention, la surveillance des zones de baignade et l'assistance aux personnes.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1288",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "4 Nageurs sauveteurs centre de surveillance et de sauvetage nautique",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.38.20",
+    "email": "frederic.pascal@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "BNSSA",
+    "competencyRequired": [
+      "Connaissance et utilisation des outils de radiocommunication",
+      "Permis bateau",
+      "CRR",
+      "PSE 2"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Centre de surveillance et de sauvetage nautique"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre de surveillance et de sauvetage nautique",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-02",
+  "occupationalCategory": [
+    "Incendie et secours",
+    "Prévention et sécurité"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "BNSSA (recyclage à jour), Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Nageur sauveteur",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "A1203",
+      "name": "Surveillance de baignade"
+    }
+  },
+  "responsibilities": [
+    "Intervenir rapidement et efficacement lorsqu'un usager est en difficulté dans l'eau ou sur terre",
+    "Pratiquer les gestes de premiers secours lorsque c'est nécessaire",
+    "Prévenir les usagers des risques de la baignade par une information explicite (qualité de l'eau, conditions météorologiques, etc.)",
+    "Sensibiliser le grand public sur les comportements à risques sur les plages et en mer",
+    "Assurer l'évacuation des plages, des zones de baignade et d'activités nautiques définies en cas d'alerte",
+    "Participer aux activités de formation"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Autonomie",
+    "Rigueur",
+    "Esprit d'initiative",
+    "Maîtrise de soi dans les situations de crise, d'urgence ou dangereuses",
+    "Disponibilité",
+    "Réactivité",
+    "Sens aigu du service public",
+    "Discipline"
+  ],
+  "specialCommitments": "Astreintes et surveillance en semaine, week-ends et jours fériés",
+  "title": "4 nageurs sauveteurs",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-09-18",
+  "workHours": "En semaine, week-ends et jours fériés",
+  "champs_open_data": 8,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "DIRECTION DES SERVICES D'INCENDIE ET DE SECOURS",
+  "direction_source": "document",
+  "famille_respnc": "Agriculture et mer",
+  "famille_source": "respnc",
+  "famille_score": 0.756,
+  "dossier": "agriculture-et-mer"
+}
