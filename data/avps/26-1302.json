@@ -1,0 +1,154 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Cadre d'exploitation",
+    "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "Secrétariat générale",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service conformité juridique et réglementaire",
+    "placeOrganigramme": "N-2 (par rapport au Secrétaire général)",
+    "relationsFonctionnelles": [
+      "DPO",
+      "Chef de service",
+      "Directions métiers de l'OPT-NC"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions de travail",
+        "value": "Déplacement sur l’ensemble des directions de l’OPT-NC"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953462.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous l'autorité du chef du service de la conformité juridique et réglementaire, le(a) chargé(e) d'études protection des données contribue au pilotage opérationnel du dispositif RGPD de l'OPT-NC et accompagne les directions métiers dans la conformité de leurs traitements.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1302",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé(e) d'études protection des données - SJ",
+  "owner": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "url": "http://www.opt.nc",
+    "logo": "https://avps.nc/logos/opt.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.82.41",
+    "email": "DRH-candidature@opt.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3",
+    "competencyRequired": [
+      "Formation juridique de niveau bac+3 minimum ou formation supérieure équivalente comportant une composante juridique significative",
+      "Connaissance ou intérêt marqué pour le droit de la protection des données personnelles",
+      "Notions en matière de sécurité des systèmes d’information",
+      "Connaissance des outils bureautiques et de gestion documentaire"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Secrétariat générale"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "À défaut d'une formation juridique bac+3, expérience professionnelle dans un environnement juridique, de conformité ou de contrôle interne",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "url": "http://www.opt.nc",
+    "logo": "https://avps.nc/logos/opt.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Postes et télécommunications",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Immeuble Waruna I",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Immeuble Waruna I",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Ingénierie juridique",
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé d’études juridiques",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1901",
+      "name": "Collaboration juridique"
+    }
+  },
+  "responsibilities": [
+    "Contribuer à la conformité des directions de l’OPT-NC en matière de protection des données personnelles (recenser les traitements de données réalisés, participer à la tenue et à la mise à jour du registre des activités de traitement, vérifier la conformité des traitements, contribuer à l’élaboration et à l’actualisation de la documentation RGPD)",
+    "Accompagner les personnes concernées dans l’exercice de leurs droits (instruire les demandes d’exercice, assurer le suivi et la traçabilité des demandes)",
+    "Contribuer à l’évaluation et à la maîtrise des risques liés aux traitements de données (participer à la conduite des AIPD, rédiger les documents supports et formuler des recommandations, suivre la mise en œuvre des mesures correctives)",
+    "Prévenir et gérer les violations de données personnelles (qualifier les incidents, tenir et mettre à jour le registre des violations de données, préparer les projets de notification, formuler des recommandations pour renforcer les dispositifs de sécurité)",
+    "Conseiller et sensibiliser les directions métiers en matière de protection des données (rédiger les notes, avis et procédures internes, concevoir et animer des actions de sensibilisation à destination des agents, répondre aux sollicitations opérationnelles des directions)",
+    "Assurer une veille en matière de protection des données (évolution des textes, des positions des autorités de contrôle, suivre l’évolution des standards techniques et des bonnes pratiques, diffuser une veille structurée auprès du DPO et du chef de service, contribuer à la constitution et à la mise à jour du fonds documentaire)",
+    "Contribuer au dispositif de contrôle et au reporting de la fonction DPO (participer aux contrôles de conformité des traitements existants, contribuer au suivi des plans d’actions, suivre les indicateurs d’activité, contribuer à la préparation du rapport annuel du DPO)",
+    "Participer aux travaux transverses du Service de la conformité juridique et réglementaire",
+    "Représenter le DPO dans certaines réunions internes ou groupes de travail"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Techniques d’analyse, de qualification des situations",
+    "Techniques de rédaction claire, structurée et opérationnelle (notes, avis, procédures)",
+    "Capacité à conduire des entretiens de recueil d’information auprès d’interlocuteurs variés",
+    "Aisance avec les outils numériques",
+    "Capacité à gérer plusieurs dossiers en parallèle dans le respect des délais",
+    "Rigueur et sens de l’organisation",
+    "Sens aigu de la confidentialité et de la déontologie",
+    "Qualités relationnelles, sens de la pédagogie",
+    "Autonomie, esprit d’initiative et sens du service public",
+    "Curiosité intellectuelle et goût pour la formation continue"
+  ],
+  "specialCommitments": null,
+  "title": "Chargé (e) d’études protection des données - SJ",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "OPT",
+  "collectivite": "Office des postes et télécommunications",
+  "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "famille_respnc": "Ingénierie juridique",
+  "famille_source": "respnc",
+  "famille_score": 0.999,
+  "dossier": "ingenierie-juridique"
+}
