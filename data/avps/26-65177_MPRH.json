@@ -1,0 +1,201 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "DIRECTION DE L'INDUSTRIE, DES MINES ET DE L'ENERGIE",
+    "uniteOrganisationnelle": "Service mines et carrières",
+    "nbAgentsEncadres": 15,
+    "superieurHierarchique": "Directeur de la DIMENC",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "État",
+      "Gouvernement de la Nouvelle-Calédonie",
+      "Province Nord",
+      "Province Sud",
+      "Province des Îles"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre d'ingénieur 2ème grade domaine équipement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements fréquents sur l'ensemble du territoire de la Nouvelle-Calédonie à prévoir ainsi que l'organisation et l'animation de diverses réunions avec les institutions, les professionnels et globalement l'ensemble des acteurs du secteur des mines et des carrières."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Jean-Sébastien BAILLE, Directeur par intérim"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953332.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le chef du service des mines et carrières a pour missions, sous l'autorité hiérarchique du directeur de la DIMENC, mais également sous l'autorité transverse du directeur adjoint :\n- d'assurer la bonne application et animation des politiques publiques et de la règlementation en vigueur sur le champ des mines et des carrières (cf. activités principales ci-dessous) ;\n- de proposer à la direction des évolutions réglementaires et de nouvelles politiques publiques notamment par un regard critique de l'application des politiques publiques sur le terrain au quotidien ;\n- de contribuer, sous le contrôle de la direction, au rôle d'aide à la décision de la DIMENC à ses donneurs d'ordres ;\n- d'œuvrer, sous le contrôle de la direction et par l'activité quotidienne de son service, à créer une relation constructive, pragmatique et de confiance entre l'administration et la profession minière dans une perspective de développement minier durable.",
+  "disambiguatingDescription": null,
+  "identifier": "26-65177/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de service mines et carrières",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.02.38",
+    "email": "jean-sebastien.baille@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-07-24",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Formation technique supérieure (Bac + 5) et expérience professionnelle significative requise dans le domaine",
+      "Très bonne connaissance des réglementations applicables du secteur (schéma de mise en valeur des richesses minières, code minier, codes de environnement, droit du travail)",
+      "Très bonne connaissance du secteur minier néo-calédonien",
+      "Très bonne connaissance des techniques d'exploitation minière et du marché du nickel"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Ingénieur 2ème grade domaine équipement : au moins égale à 5 ans.",
+  "employerOverview": "La Direction de l'Industrie, des Mines et de l'Énergie de la Nouvelle-Calédonie (DIMENC) est une administration centrale et déconcentrée au service de la politique industrielle & énergétique, de la gestion des risques et de la connaissance géologique de la Nouvelle-Calédonie. Elle applique, évalue et conçoit les politiques publiques dans ses domaines de compétences dans la perspective de concilier le développement industriel durable du territoire avec la protection des personnes et des biens et la préservation de l'environnement et des ressources. La DIMENC assure des missions pour le compte de l'État, du gouvernement de la Nouvelle-Calédonie, de la Province Nord, de la Province Sud, et de la Province des Îles. Par son rôle de conseil et d'aide à la décision de ses cinq donneurs d'ordres, notamment concernant le marché mondial des ressources naturelles, la DIMENC contribue à préparer la Nouvelle-Calédonie à surmonter les mutations économiques, technologiques, climatiques et géopolitiques dans ses domaines de compétences.\n\nAu sein de la DIMENC, le service mines et carrières (qui comprend 15 agents) accompagne et soutient le développement durable et responsable de l'exploitation des ressources minérales en Nouvelle-Calédonie. Il assure des missions de contrôle et d'accompagnement de l'activité des industries extractives, mais aussi d'élaboration et d'actualisation de la réglementation et des politiques publiques par une analyse critique des retours du terrain, dans une perspective de développement minier durable du territoire.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service mines et carrières",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle significative requise dans le domaine",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Grille de rémunération de la fonction publique de Nouvelle-Calédonie accessible en ligne",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "DIMENC",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Ingénierie industrielle minière et énergétique",
+    "Environnement"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé d'études industrielles et minières",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "I1304",
+      "name": "Chargé d'études projets industriels"
+    }
+  },
+  "responsibilities": [
+    "Management des agents du service des mines et des carrières",
+    "Assurer les contrôles, inspections et instructions des activités extractives",
+    "Assurer les contrôles, inspections et instructions en matière de droit du travail dans l'industrie extractive",
+    "Contribuer à l'accompagnement et suivi des sites miniers notamment dans une perspective d'amélioration des pratiques et de développement durable",
+    "Assurer le contrôle des cessions de minerais et secrétariat du CCEM",
+    "Assurer l'instructions et gestion des droits sur le sous-sol et secrétariat du CCM et CM",
+    "Etablir et diffuser les statistiques de l'industrie extractive au public et aux donneurs d'ordres de la DIMENC",
+    "Mettre en place une veille technique et réglementaire",
+    "Appuyer la direction dans l'évaluation, la conception et l'évolution des politiques publiques et des réglementations par un regard critique de l'application des politiques publiques sur le terrain au quotidien.",
+    "Participation à la démarche qualité ISO 9001",
+    "Assurer la mise en œuvre de la démarche qualité au sein du service"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Importante compétence de management",
+    "Rigueur et pragmatisme",
+    "Sens de l'organisation",
+    "Excellente capacité d'analyse, de synthèse et de rédaction",
+    "Importante disponibilité (interne et externe)",
+    "Adaptabilité au changement - Polyvalence",
+    "Sens de l'intérêt général",
+    "Esprit de synthèse",
+    "Force de proposition et capacité à rendre compte",
+    "Équilibre entre autonomie et reporting vers la direction",
+    "Sens du travail en équipe",
+    "Capacité d'écoute, de négociation et de persuasion (interne et externe)"
+  ],
+  "specialCommitments": "Pour la réalisation de ces missions, des déplacements fréquents sur l'ensemble du territoire de la Nouvelle-Calédonie sont à prévoir ainsi que l'organisation et l'animation de diverses réunions avec les institutions, les professionnels et globalement l'ensemble des acteurs du secteur des mines et des carrières.",
+  "title": "Chef de service mines et carrières",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": null,
+  "champs_open_data": 28,
+  "employeur_sigle": "DIMENC",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE L'INDUSTRIE, DES MINES ET DE L'ENERGIE",
+  "direction_source": "source",
+  "famille_respnc": "Ingénierie industrielle minière et énergétique",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "ingenierie-industrielle-miniere-et-energetique"
+}
