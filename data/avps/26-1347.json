@@ -1,0 +1,181 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien adjoint",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Service de Gestion des Aires Protégées",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable du Bureau des Techniques et des Publics",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi / Domaine",
+        "value": "Technicien adjoint 1er ou 2ème grade / Economie rurale"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Travail en intérieur et extérieur, horaires atypiques fréquents"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957438.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La Direction du Développement Durable des Territoires de la province Sud (DDDT) est chargée, au sein du pôle transition écologique, de contribuer à la mise en œuvre des politiques publiques en matière de développement des territoires en assurant la transition écologique, la protection et la valorisation des patrimoines naturels et des espaces agricoles. Le Service de Gestion des Aires Protégées (SGAP) est chargé notamment de la mise en œuvre des stratégies élaborées par la direction. L'équipe du parc provincial zoologique et forestier Michel Corbasson élabore et met en œuvre le plan de gestion et le règlement intérieur, l'organisation de l'accueil et de la sécurité du public, l'entretien des aménagements existants et de la surveillance, la gestion de la collection animale, l'organisation et du suivi des travaux botaniques et de la pépinière.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1347",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Agent technique au parc provincial Zoologique et Forestier Michel Corbasson",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.34.80",
+    "email": "aymeric.marchal@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "CAP ou BEP",
+    "competencyRequired": [
+      "CAP ou BEP dans un des domaines suivants : entretien, espaces-verts, maçonnerie, soudure, plomberie",
+      "Bonne maîtrise des techniques d'entretiens d'espaces-verts",
+      "Pratique des techniques VRD et infrastructures souhaitée",
+      "Connaissances souhaitée sur la réglementation en matière de sécurité (EPI)",
+      "Permis de conduire (B) indispensable",
+      "Conduite d'engin souhaité"
+    ]
+  },
+  "eligibilityToWorkRequirement": "au moins égale a 10ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Parc provincial Zoologique et Forestier Michel Corbasson",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Pratique des techniques VRD et infrastructures souhaitée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Environnement",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Parc provincial Zoologique et Forestier Michel Corbasson",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Espaces verts",
+    "Environnement",
+    "Entretien, surveillance et logistique"
+  ],
+  "physicalRequirement": "Bonne condition physique",
+  "qualifications": "Permis de conduire (B) indispensable",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Agent d'entretien des espaces naturels",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "A1207",
+      "name": "Entretien des espaces naturels"
+    }
+  },
+  "responsibilities": [
+    "Travaux de maçonneries et soudures : bâti, y compris les cages, volières et enclos",
+    "Entretien du réseau d'eau, de la voirie, des clôtures, decks et garde-corps",
+    "Entretien des jeux, signalétique et mobilier urbain",
+    "Entretien et ramassage des poubelles et du recyclage selon un planning défini",
+    "Entretien et gestion du site de compostage et de broyage",
+    "Entretien et suivi du matériel : outillage, véhicules et engins",
+    "Entretien d'aménagements paysagers",
+    "Participation aux travaux de restauration écologique des parcelles de forêt sèche",
+    "Entretien et réparation des systèmes d'irrigation et d'arrosage",
+    "Réaliser des permanences de surveillance 1 à 2 week-end par mois ainsi que des jours fériés",
+    "Réaliser éventuellement des permanences au guichet de manière exceptionnelle"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Organiser son travail en autonomie ou en équipe",
+    "Respecter les délais de réalisation fixés",
+    "Rendre compte des difficultés et prises d'initiatives",
+    "Anticiper et gérer des situations difficiles",
+    "Gérer les imprévus",
+    "Respect de la hiérarchie",
+    "Respect des consignes",
+    "Travail et esprit d'équipe",
+    "Sens de l'initiative",
+    "Rigueur et vigilance dans les tâches routinières",
+    "Disponibilité",
+    "Polyvalence",
+    "Confidentialité"
+  ],
+  "specialCommitments": "Permanences de surveillance 1 à 2 week-end par mois ainsi que des jours fériés",
+  "title": "Agent technique au parc provincial Zoologique et Forestier Michel Corbasson",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-02",
+  "workHours": "Horaires atypiques fréquents selon les nécessités du service (amplitude variable, travail un ou deux weekends par mois y compris jours fériés, pics d'activité)",
+  "champs_open_data": 9,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "famille_respnc": "Espaces verts",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "espaces-verts"
+}
