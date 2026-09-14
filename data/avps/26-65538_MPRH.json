@@ -1,0 +1,206 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur / attaché",
+    "direction": "DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "Service de l'économie numérique, des filières d'avenir et des télécommunications",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "institutions",
+      "clusters",
+      "associations",
+      "partenaires économiques"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Pour le recrutement sur titre : Ingénieur 1er et 2e grade du domaine numérique : au moins égale à 5 ans."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi",
+        "value": "Ingénieur / Numérique et SIC ou attaché"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "SERVICE DE L'ÉCONOMIE NUMÉRIQUE, DES FILIÈRES D'AVENIR ET DES"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Bruno FERRANDIS"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953860.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Au sein du service de l'économie numérique, des filières d'avenir et des télécommunications, le(a) chargé(e) de projets est responsable de la mise en œuvre et du suivi des projets qui lui sont confiés, et ce, en fonction des orientations de la Nouvelle-Calédonie en matière d'économie numérique, de filière d'avenir, d'attractivité et d'export.",
+  "disambiguatingDescription": "Au sein du service de l'économie numérique, des filières d'avenir et des télécommunications, le(a) chargé(e) de projets est responsable de la mise en œuvre et du suivi des projets qui lui sont confiés, et ce, en fonction des orientations de la Nouvelle-Calédonie en matière d'économie numérique, de filière d'avenir, d'attractivité et d'export.",
+  "identifier": "26-65538/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé de projets",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "23.22.50",
+    "email": "bruno.ferrandis@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-26",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Diplôme d'une école de commerce ou d'ingénieur souhaité (Bac +5)",
+      "Compréhension des enjeux liés à l'économie numérique, à l'innovation et à l'attractivité des territoires",
+      "Connaissance en conduite de projet et en méthodologies innovantes",
+      "Connaissance de l'environnement socioéconomique calédonien",
+      "Connaissance de l'organisation et du fonctionnement des institutions de la Nouvelle-Calédonie",
+      "Maîtrise des outils bureautiques et collaboratifs",
+      "Qualités rédactionnelles et sens du reporting."
+    ]
+  },
+  "eligibilityToWorkRequirement": "Ingénieur 1er et 2e grade du domaine numérique : au moins égale à 5 ans.",
+  "employerOverview": "La direction des entreprises, de la consommation, de l'attractivité et des télécommunications est responsable de la mise en œuvre de la politique économique du gouvernement de la Nouvelle-Calédonie en matière de marché intérieur, de commerce extérieur, d'économie numérique et d'attractivité, sous réserve des attributions exercées par d'autres directions et services.\n\nElle concourt notamment à la protection de l'ordre public économique et à la dynamisation du marché intérieur par des actions de soutien, de veille et de régulation au bénéfice de l'ensemble des acteurs économiques et notamment du numérique, afin de constituer un environnement favorable au développement économique et à l'attractivité du territoire.\n\nElle a pour missions principales : la protection physique et économique des consommateurs, la régulation et le développement du marché intérieur, l'enregistrement des entreprises commerciales et des sociétés, le développement de l'économie numérique et des filières d'avenir, et l'amélioration de l'attractivité du territoire.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de l'économie numérique, des filières d'avenir et des télécommunications"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Avoir une expérience avérée dans la conduite et le pilotage de projets territoriaux",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Système d'information",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé de projets",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "I1302",
+      "name": "Informaticien analyste, chargé d'études, Informaticien d'application, de développement"
+    }
+  },
+  "responsibilities": [
+    "Sous l'autorité du chef de service, le(a) chargé(e) de projets a pour activités principales :",
+    "Contribuer aux feuilles de route pilotées par le service (Plan Stratégique pour l'Economie Numérique, feuille de route attractivité, export, etc.), et en garantir la pertinence au regard des enjeux territoriaux",
+    "Piloter et coordonner la mise en œuvre des projets ou dispositifs, issus de ces feuilles de route et sous sa responsabilité, en collaboration avec les institutions et les acteurs économiques concernés",
+    "Recueillir et analyser les besoins des acteurs dans le périmètre des actions conduites, afin de les ajuster en conséquence",
+    "Animer et fédérer les réseaux d'acteurs (institutions, clusters, associations, partenaires économiques) et développer des partenariats",
+    "Définir des indicateurs de suivi, assurer le reporting des actions et conseiller la hiérarchie sur les orientations à privilégier.",
+    "Participer à l'évolution des dispositifs et des projets",
+    "Contribuer, en tant que de besoin, à d'autres projets du pôle",
+    "Assurer une veille active dans son domaine d'intervention et proposer les évolutions qui en découlent."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Avoir une expérience avérée dans la conduite et le pilotage de projets territoriaux",
+    "Conduire des réunions multi-partenariales",
+    "Rédiger des documents",
+    "Mettre en place des modalités de suivi des résultats",
+    "Gérer et hiérarchiser des urgences et des échéances.",
+    "Esprit d'équipe, qualités d'écoute et de communication",
+    "Méthode, rigueur, organisation et planification",
+    "Esprit d'analyse et de synthèse, sens du reporting et respect de la hiérarchie",
+    "Autonomie, capacité d'adaptation et réactivité",
+    "Dynamisme, esprit d'initiative et curiosité intellectuelle",
+    "Force de proposition",
+    "Sens de la performance et du service public",
+    "Respect de la confidentialité des données",
+    "Disponibilité et mobilité."
+  ],
+  "specialCommitments": null,
+  "title": "Chargé de projets",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 27,
+  "employeur_sigle": "NOUVELLE-CALEDONIE",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "famille_respnc": "Infrastructures, réseaux, eaux et assainissements",
+  "famille_source": "respnc",
+  "famille_score": 0.873,
+  "dossier": "infrastructures-reseaux-eaux-et-assainissements"
+}
