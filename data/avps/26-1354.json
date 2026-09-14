@@ -1,0 +1,169 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur d'administration générale",
+    "direction": "SECRETARIAT GENERAL",
+    "uniteOrganisationnelle": "Section administrative et comptable",
+    "nbAgentsEncadres": 1,
+    "superieurHierarchique": "Secrétaire général",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt physique",
+        "value": "16, rue du général Mangin Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP K1 - 98849 Nouméa Cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Email de recrutement",
+        "value": "mairie.recrutement@ville-noumea.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952006.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité directe du Secrétaire général, le chef de section assure la gestion administrative et comptable de la section. Agissant en tant qu'assistant de direction, il apporte un soutien direct et indispensable à l'action du secrétariat général en optimisant la gestion et la coordination administrative des dossiers.",
+  "disambiguatingDescription": "Chef de section administrative et comptable au sein du Secrétariat général de la Mairie de Nouméa.",
+  "identifier": "26-1354",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "1 chef de section administrative et comptable",
+  "owner": {
+    "@type": "GovernmentOrganization",
+    "name": "Mairie de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Hôtel de ville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.07.30",
+    "email": "mairie.sg@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac",
+    "competencyRequired": [
+      "Maîtrise de l'organisation et des procédures administratives de la collectivité",
+      "Solides connaissances des institutions de la Nouvelle-Calédonie",
+      "Maîtrise des techniques de communication écrites et orales",
+      "Maîtrise des outils bureautiques et informatiques",
+      "Connaissance des règles budgétaires et comptables de la comptabilité publique",
+      "Connaissance de la réglementation des marchés publics"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Section administrative et comptable"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "GovernmentOrganization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de ville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Administration générale",
+    "Finances et budget"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chef de section administrative et comptable",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1203",
+      "name": "Assistanat de direction"
+    }
+  },
+  "responsibilities": [
+    "Encadrer l'activité de la section composée d'un assistant administratif et comptable (catégorie C)",
+    "Saisir, mettre à jour et/ou sauvegarder les données, les informations et les tableaux dans son domaine",
+    "Prendre des notes et mettre en forme tous types de courriers ou documents",
+    "Traiter des courriers, dossiers et documents (enregistrement, tri, diffusion, archivage)",
+    "Réceptionner et traiter les appels téléphoniques",
+    "Accueillir et prendre en charge les invités aux réunions",
+    "Assurer l'organisation logistique des réunions et des missions (réserver un lieu, convoquer, inviter les participants, préparation des dossiers, etc.)",
+    "Assurer le suivi du budget, des commandes et des factures du secrétariat général",
+    "Réaliser les engagements et le suivi des crédits",
+    "Tenir à jour des tableaux de bords de suivi des engagements et réalisations",
+    "Participer, à son niveau, à l'activité de la cellule de gestion de crise lorsqu'elle est activée (cyclone, etc.)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Loyauté",
+    "Discrétion professionnelle",
+    "Autonomie",
+    "Capacités rédactionnelles",
+    "Capacités relationnelles",
+    "Sens de l'organisation",
+    "Travail en équipe",
+    "Disponibilité"
+  ],
+  "specialCommitments": null,
+  "title": "Chef de section administrative et comptable",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-02",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "SECRETARIAT GENERAL",
+  "direction_source": "document",
+  "famille_respnc": "Finances et budget",
+  "famille_source": "respnc",
+  "famille_score": 0.833,
+  "dossier": "finances-et-budget"
+}
