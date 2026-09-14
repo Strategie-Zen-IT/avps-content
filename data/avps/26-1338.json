@@ -1,0 +1,183 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien",
+    "direction": "DIRECTION DE L'ESPACE PUBLIC",
+    "uniteOrganisationnelle": "Service exploitation de l'espace public",
+    "nbAgentsEncadres": 35,
+    "superieurHierarchique": "Chef de section",
+    "placeOrganigramme": "Sous la responsabilité du chef de section",
+    "relationsFonctionnelles": [
+      "Atelier",
+      "Loueurs",
+      "Autres directions"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 10 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Statut du poste",
+        "value": "Susceptible d'être vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Horaires décalés (6h-14h), astreintes éventuelles"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957152.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction de l'espace public regroupe les métiers en relation avec la création et la gestion des espaces publics (hors construction), et comprend 4 services. Parmi eux, le service exploitation de l'espace public, en charge de l'ensemble des missions liées à l'exploitation du domaine public routier, est composé de quatre sections. La section première intervention dispose d'équipes de régie pour exercer des missions générales d'entretien courant du patrimoine situé sur l'espace public.",
+  "disambiguatingDescription": "Adjoint au chef de section première intervention pour encadrer les équipes, planifier, mettre en œuvre et évaluer le programme des travaux.",
+  "identifier": "26-1338",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de section adjoint",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Mairie de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.07.39",
+    "email": "mairie.recrutement@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac",
+    "competencyRequired": [
+      "Génie civil",
+      "Mécanique du BTP",
+      "Réglementation BTP",
+      "Normes de sécurité liées aux engins",
+      "Outil informatique et pratique des tableaux de bord",
+      "Stratégies et techniques en voirie",
+      "Signalisation routière et signalétique"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre: au moins égale à 10 ans",
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Service exploitation de l'espace public"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience dans un poste similaire serait appréciée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre Technique Municipal",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chef de section adjoint",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Direction de chantier du BTP"
+    }
+  },
+  "responsibilities": [
+    "Encadrer les équipes, planifier, mettre en œuvre et évaluer le programme des travaux",
+    "Organiser les missions client/fournisseur",
+    "Consolider les données de monitoring de l'activité et de la performance de la section",
+    "Planifier et réaliser des travaux en régie et assurer le reporting au chef de section et aux clients",
+    "Superviser l'utilisation quotidienne des engins et véhicules du chantier",
+    "Veiller au respect des rituels de prise de poste",
+    "Anticiper les révisions, piloter les demandes d'intervention auprès de l'atelier ou des loueurs et gérer les pannes avec réactivité",
+    "Effectuer le suivi sous SIG des interventions réalisées et programmées",
+    "Contrôler l'exécution des travaux effectués par des agents d'entretien et d'exploitation ou des entreprises",
+    "Coordonner et superviser l’action des agents placés sous sa responsabilité",
+    "Assurer la suppléance du chef de section lorsque c’est nécessaire",
+    "Gérer l’hygiène, suivre les préconisations EVRP, contrôler et vérifier la signalisation et le respect des clauses de prévention et de sécurité sur les chantiers",
+    "Vérifier le respect des obligations réglementaires",
+    "Assurer la gestion administrative du personnel de la section",
+    "Préparer et suivre l’exécution budgétaire de la section",
+    "Assurer la logistique de la gestion des stocks, le suivi de la maintenance et des investissements matériels",
+    "Elaborer les besoins et le programme d’investissement",
+    "Assurer le relationnel avec les autres directions"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Savoir animer des équipes et des réunions",
+    "Savoir élaborer et mettre en œuvre des outils de reporting",
+    "Savoir évaluer la qualité des travaux réalisés et en rendre compte",
+    "Rigueur",
+    "Organisation",
+    "Autonomie",
+    "Qualité d'écoute",
+    "Communication",
+    "Sens de la négociation",
+    "Disponibilité",
+    "Sens du travail en équipe"
+  ],
+  "specialCommitments": "Astreintes éventuelles",
+  "title": "Chef de section adjoint",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": "Horaires décalés (6h-14h)",
+  "champs_open_data": 7,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "DIRECTION DE L'ESPACE PUBLIC",
+  "direction_source": "document",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.8,
+  "dossier": "administration-generale"
+}
