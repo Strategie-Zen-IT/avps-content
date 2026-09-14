@@ -1,0 +1,181 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "DIRECTION DES SERVICES FISCAUX",
+    "uniteOrganisationnelle": "Service de la fiscalité professionnelle",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service de la fiscalité des professionnels à l'impôt sur les sociétés",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Section IS",
+      "Service d'expertise et de contrôle",
+      "Section CTEP",
+      "CIS"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Vacant à partir du 01/05/2026"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service de la fiscalité professionnelle"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "M. Edmond ROSAIRE, chef du service de la fiscalité des professionnels à l'impôt sur les sociétés"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952012.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Au sein du service de la fiscalité des professionnels à l'impôt sur les sociétés le contrôleur assure l'instruction des demandes de remboursement des crédits de TGC et procède au contrôle approfondi de la TGC des sociétés et autres personnes morales gérées au sein du service. Il établit également les fiches de programmation destinées au service d'expertise et de contrôle et il traite les demandes de report de déficit dans le cadre des opérations de fusion.",
+  "disambiguatingDescription": null,
+  "identifier": "26-63027/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Contrôleur à la section contrôle TGC et programmation",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.76.51",
+    "email": "edmond.rosaire@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-07",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Formation initiale dans le domaine juridique et/ou comptable souhaitée",
+    "competencyRequired": [
+      "Formation initiale dans le domaine juridique et/ou comptable souhaitée",
+      "Techniques de rédaction administrative."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction des services fiscaux, composée de treize services, est chargée d'asseoir, de contrôler et de recouvrer la plupart des impôts en vigueur en Nouvelle-Calédonie. Elle gère ainsi près de 76 % des recettes fiscales de la Nouvelle-Calédonie. Elle assure également une mission foncière, au travers de la gestion du domaine public et privé de la Nouvelle-Calédonie et de la publicité foncière, cette dernière ayant en charge notamment la taxe hypothécaire. Outre ces missions d'exécution, elle est chargée, dans le cadre de la politique poursuivie par le gouvernement de la Nouvelle-Calédonie, de l'élaboration de la législation fiscale ainsi que des mesures d'application.\n\nLe service de la fiscalité professionnelle à l'impôt sur les sociétés (SFPro IS) est chargé des sociétés soumises à l'IS et activités métallurgiques et minières. Il assure l'assiette et le contrôle des différents impôts auxquels sont soumises ces personnes morales et l'instruction des demandes de remboursement de crédit TGC.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de la fiscalité professionnelle"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Informations salaire : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel des impôts",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "13 rue de la Somme",
+      "addressLocality": "Hôtel des impôts 13 rue de la Somme, Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-05-01",
+  "occupationalCategory": [
+    "Fiscalité et Trésor / douanes / affaires économiques"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé de l'assiette des impôts, droits et taxes",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1204",
+      "name": "Agent d'assiette des impôts, Agent de constatation ou d'assiette des impôts"
+    }
+  },
+  "responsibilities": [
+    "Traiter les demandes de remboursement de crédit de TGC : vérification et demande d'information par rapport à la demande, rédaction des décisions y afférentes",
+    "Assurer le contrôle approfondi de la TGC : établir les procédures de rectification et de bulletins de prise en charge, traiter des listes de contrôle établies par le service en liaison avec les gestionnaires de la section IS",
+    "Traiter le contentieux des dossiers faisant suite aux demandes de remboursement de TGC ou aux procédures générées dans le cadre du contrôle",
+    "Rédiger les fiches de programmation pour les besoins du controle sur place portant sur tout impôt et taxes gérés par le SFPRO IS en liaison avec les gestionnaires de la section IS.",
+    "Traiter les demandes de report de déficit dans le cadre des opérations de fusion",
+    "Assurer le renfort du secrétariat et de la section CTEP, à la demande",
+    "Porter assistance à la CIS à la demande (accueil et renseignements des contribuables, gestion des documents."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtriser les délais et anticiper les échéances",
+    "S'adapter aux évolutions (réglementation applicable, outils informatiques utilisés et organisation du service)",
+    "Acquérir rapidement des connaissances techniques nouvelles (des actions de formation existent en interne)",
+    "Accueillir et renseigner les contribuables",
+    "Maîtriser les outils bureautiques.",
+    "Esprit d'analyse et de synthèse, aisance avec les chiffres",
+    "Méthode et sens de l'organisation",
+    "Respect des procédures (délais, formalismes etc...)",
+    "Respect légal du secret professionnel",
+    "Curiosité intellectuelle",
+    "Diplomatie et sens du contact avec un public de professionnels",
+    "Sens du service public",
+    "Autonomie et rigueur",
+    "Sens du travail en équipe et de la solidarité."
+  ],
+  "specialCommitments": null,
+  "title": "Contrôleur à la section contrôle TGC et programmation",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-10-02",
+  "workHours": null,
+  "champs_open_data": 29,
+  "employeur_sigle": "DSF",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES SERVICES FISCAUX",
+  "direction_source": "source",
+  "famille_respnc": "Fiscalité et Trésor / douanes / affaires économiques",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "fiscalite-et-tresor-douanes-affaires-economiques"
+}
