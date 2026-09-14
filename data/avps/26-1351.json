@@ -1,0 +1,173 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Professeur des écoles",
+    "direction": "UNIVERSITE DE NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": "Département Génie Electrique et Informatique Industrielle",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directrice de l'IUT",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Département Génie Electrique et Informatique Industrielle",
+      "Entreprises calédoniennes",
+      "Direction des ressources humaines"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Volume horaire",
+        "value": "384 heures équivalent TD"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Évolution du poste",
+        "value": "Prise de responsabilité progressive au sein du département (responsabilité d'une année d'étude ou d'un parcours)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952134.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'Université de la Nouvelle-Calédonie recrute un professeur agrégé ou certifié en Génie-Electrique ou Sciences Industrielles de l'ingénieur et ingénierie électrique pour l'IUT de Nouvelle-Calédonie. Le poste est à pourvoir au sein du département Génie Electrique et Informatique Industrielle (GEII) à compter du 25 janvier 2027.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1351",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Un professeur agrégé ou certifié en Génie-Electrique ou Sciences Industrielles de l'ingénieur et ingénierie électrique (automatisme et informatique industrielle)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Université de Nouvelle-Calédonie",
+    "url": "https://unc.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://unc.nc/utile/recrutement/recrutement-emplois-stages/",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "recrutement-enseignants@unc.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Logique combinatoire et logique séquentielle",
+      "Principe de base des automates",
+      "Architecture des systèmes automatisés",
+      "Fonctionnement de pré-actionneurs et actionneurs électriques et pneumatiques",
+      "Intégration de l'automate dans un schéma de câblage et son câblage physique",
+      "Programmation d'un automate dans les différents langages SFC, LD, ST, DFB, machine à états",
+      "Logiciels SoMachine, ControlExpert, Machine expert",
+      "Interfaçage Entrée/Sortie TOR et modules E/S analogiques",
+      "Modes de marche et d'arrêt pour la sécurité humaine et matérielle",
+      "Connaissance des bus Ethernet/IP et modbus",
+      "Capteurs industriels, codeur, résolveur",
+      "Supervision, télégestion, réalisation et configuration d'IHM",
+      "Commandes d'axes numériques type Lexium sous SoMove",
+      "Réseaux industriels locaux type CanOpen, ethernet/IP, modbus et dialogue machine à machine",
+      "Vision industrielle, supervision, remontée de données, jumeaux numériques",
+      "Objets connectés",
+      "Sécurité machine et régulation de grandeurs physiques",
+      "Pneumatique connectée",
+      "Robotique industrielle, programmation de trajectoire, cobot"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "L'Université de la Nouvelle-Calédonie est un établissement pluridisciplinaire qui répond notamment aux besoins de formation et de recherche propres à la Nouvelle-Calédonie. Elle compte 250 personnels et 3 500 étudiants répartis sur deux campus.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Département Génie Electrique et Informatique Industrielle",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience dans l'enseignement supérieur ou secondaire en génie électrique, automatisme et informatique industrielle.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Université de Nouvelle-Calédonie",
+    "url": "https://unc.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Éducation",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Campus de Nouville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-25",
+  "occupationalCategory": [
+    "Education"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Enseignant du 2nd degré",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2107",
+      "name": "Enseignement technique et professionnel"
+    }
+  },
+  "responsibilities": [
+    "Assurer son service d'enseignement de 384 heures équivalent TD au sein du département GEII",
+    "Dispenser des cours magistraux, des travaux dirigés, des travaux pratiques et des situations d'apprentissage et d'évaluation",
+    "Participer au recrutement des étudiants",
+    "Assurer la communication auprès des publics cibles",
+    "Assurer le suivi individuel des étudiants",
+    "Assurer le suivi des étudiants en stage et en apprentissage",
+    "Coordonner les intervenants dans son champ disciplinaire",
+    "Mener des actions en lien avec les entreprises calédoniennes",
+    "Participer à l'ensemble des réunions pédagogiques et conseils de département",
+    "Participer aux soutenances de portfolio et de stages",
+    "Participer aux jurys de fin d'année",
+    "Prendre progressivement des responsabilités au sein du département comme la responsabilité d'une année d'étude ou d'un parcours"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Enseigner",
+    "Évaluer",
+    "Accompagner",
+    "Coordonner",
+    "Communiquer",
+    "Travailler en équipe",
+    "S'adapter"
+  ],
+  "specialCommitments": null,
+  "title": "Professeur agrégé ou certifié en Génie-Electrique ou Sciences Industrielles de l'ingénieur et ingénierie électrique (automatisme et informatique industrielle)",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-02",
+  "workHours": "384 heures équivalent TD",
+  "champs_open_data": 8,
+  "employeur_sigle": "UNC",
+  "collectivite": "Université de Nouvelle-Calédonie",
+  "direction": "UNIVERSITE DE NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "famille_respnc": "Education",
+  "famille_source": "respnc",
+  "famille_score": 0.945,
+  "dossier": "education"
+}
