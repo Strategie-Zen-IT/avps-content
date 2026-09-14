@@ -598,3 +598,11 @@
 .avp-info-employeur .avp-employeur-logo {
   margin: 0;              /* le thème centre les images de tableau : on garde le logo à gauche */
 }
+.avp-info-employeur td {
+  justify-content: flex-start !important;
+  text-align: left;
+}
+.avp-info-employeur .avp-employeur-logo {
+  margin: 0 !important;
+  display: inline-block;
+}
