@@ -1,0 +1,176 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Éducateur des APS",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Centre aquatique provincial de Pouembout",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable du centre aquatique provincial de Pouembout",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Service animation des équipements",
+      "Ecoles",
+      "Associations"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Carte professionnelle",
+        "value": "Délivrée par la Direction de la Jeunesse et des Sports de la Nouvelle-Calédonie en cours de validité"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Non spécifiée"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952088.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placée sous l'autorité directe du responsable du centre aquatique provincial de Pouembout, la personne participera à la mise en œuvre de la politique d'animation sportive.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1124",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Maître-nageur sauveteur - Pouembout",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-nord.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Hôtel de la province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "42.67.49",
+    "email": "d.olive@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-07-24",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Brevet d'Etat d'Educateur Sportif des Activités de la Natation (B.E.E.S.A.N) ou BPJEPS AAN",
+    "competencyRequired": [
+      "Brevet d'Etat d'Educateur Sportif des Activités de la Natation (B.E.E.S.A.N)",
+      "BPJEPS AAN ou plus",
+      "Certificat d'Aptitude à Exercer la Profession (C.A.E.P) de Maître-Nageur Sauveteur (M.N.S) à jour",
+      "Diplôme nager forme santé"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre aquatique provincial de Pouembout",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle sur un poste similaire appréciée, expérience confirmée à encadrer des activités aquagym et aqua-bike.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre aquatique provincial de Pouembout",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Pouembout",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Animation",
+    "Education"
+  ],
+  "physicalRequirement": "Bonne condition physique nécessaire à l'exercice de la profession",
+  "qualifications": "Carte professionnelle délivrée par la Direction de la Jeunesse et des Sports de la Nouvelle-Calédonie en cours de validité, Certificat d'Aptitude à Exercer la Profession (C.A.E.P) de Maître-Nageur Sauveteur (M.N.S)",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Animateur Educateur d'équipements sportifs",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1206",
+      "name": "Éducation sportive"
+    }
+  },
+  "responsibilities": [
+    "Accueil et encadrement des groupes scolaires et associatifs",
+    "Accueil et encadrement du public",
+    "Sécurité des publics, surveillance des bassins",
+    "Application du règlement intérieur et du Plan d'organisation de la surveillance et des secours (POSS)",
+    "Participation au contrôle de la qualité des eaux de baignade",
+    "Mise en œuvre des activités aquatiques et des cours proposés par le centre",
+    "Mise en œuvre d'actions de sensibilisation d'hygiène et de sécurité auprès des écoles et des associations",
+    "Participation aux journées spécifiques d'animation",
+    "Participation à l'élaboration des projets d'établissements",
+    "Participation à des formations directement liées à son poste"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Respecter les règles de sécurité",
+    "Capacité de l'analyse de l'urgence",
+    "Adapter les interventions en fonction des publics, des niveaux et des capacités d'apprentissage",
+    "Repérer les comportements à risques, dialoguer et réguler les conflits",
+    "Appliquer et faire appliquer la réglementation en vigueur",
+    "Pratiquer une ou plusieurs disciplines sportives",
+    "Bon contact relationnel avec tous types de publics",
+    "Respect de l'autorité et de la hiérarchie",
+    "Respect des horaires et des plannings",
+    "Sens aigu de la discipline et du service public",
+    "Autonomie, grande disponibilité et polyvalence",
+    "Esprit d'initiative et travail en équipe",
+    "Rigueur, sérieux et discrétion"
+  ],
+  "specialCommitments": "Travail en horaires atypiques, week-end, jours fériés, soirées, vacances",
+  "title": "Maître-nageur sauveteur - Pouembout",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": "Horaires atypiques, week-end, jours fériés, soirées, vacances",
+  "champs_open_data": 6,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "famille_respnc": "Animation",
+  "famille_source": "respnc",
+  "famille_score": 0.881,
+  "dossier": "animation"
+}
