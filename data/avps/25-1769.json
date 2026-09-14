@@ -1,0 +1,157 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Médecin de santé publique",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "UPASS de Nouméa (centre de Montravel)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Médecin responsable du centre de protection maternelle et infantile (PMI)",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Service de protection de l'enfance (SPE)",
+      "Service de prévention et de promotion de la santé (SPPS)",
+      "Médecine scolaire",
+      "Équipe du CMS"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "inférieure à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières",
+        "value": "Le poste nécessite autonomie, capacité d'adaptation et prise d'initiatives en concertation avec le médecin responsable. Le poste est rattaché à l'UPASS de Nouméa (centre de Montravel), et nécessite des déplacements sur tous les sites de la province Sud. Il est envisageable d'être recruté à temps partiel sur ce poste."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953390.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction de l'action sanitaire et sociale (DPASS) est rattachée au pôle développement et épanouissement de la personne de la province Sud et exerce son action sur l'ensemble du territoire provincial, au sein de ses services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS) et de ses centres médico-sociaux et de ses autres sites excentrés. Au sein du pôle santé et territoires, l'unité provinciale d'action sanitaire et sociale (UPASS) de Nouméa comprend l'espace Santé situé au centre-ville, et, sur le site de Montravel, le centre de protection maternelle et infantile (PMI), le centre médico-social de Montravel, et le centre de médecine scolaire.",
+  "disambiguatingDescription": null,
+  "identifier": "25-1769",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Médecin au centre de protection maternelle et infantile",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.44.71",
+    "email": "florence.branchu@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2025-11-07",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaissances de la population néo-calédonienne",
+      "Connaissances de l'allaitement",
+      "Connaissances sur les mécanismes et les théories de l'attachement et des principes de la dynamique familiale et de l'accordage parents-enfants",
+      "Concepts de la promotion de la santé au sens de la Charte d'Ottawa",
+      "Capacités à prendre en charge avec efficacité et bienveillance un public en situation de vulnérabilité",
+      "Capacités à travailler dans le cadre du réseau périnatalité en Nouvelle-Calédonie, des services sociaux et des services de la protection de l'enfance"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "UPASS de Nouméa (centre de Montravel)",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "centre de Montravel",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Médecin",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1402",
+      "name": "Médecine de prévention"
+    }
+  },
+  "responsibilities": [
+    "assurer la vaccination des enfants de 0 à 6 ans dans le cadre de la médecine préventive et curative",
+    "assurer les consultations de suivi des nourrissons et des enfants et de réaliser le dépistage de troubles somatiques et du développement psychomoteur ou du lien d'attachement",
+    "participer au dépistage et à la surveillance des mineurs en danger",
+    "suppléer le médecin responsable lors des commissions de reconnaissance du handicap pour les enfants de 0 à 6 ans (CEJH)",
+    "intervenir lors de séances de promotion de la santé dans le domaine de la PMI en lien avec le service de prévention et de promotion de la santé (SPPS)",
+    "participer à la mise œuvre des référentiels de suivis pédiatriques",
+    "participer à des ateliers de guidance parentale et éducative à destination du public de la PMI en fonction des projets du service",
+    "assurer des liens avec la médecine scolaire pour les enfant suivis à la PMI avec des pathologies ou handicaps pouvant avoir un retentissement sur la scolarité",
+    "collaborer avec l'équipe du CMS"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Expérience en protection maternelle et infantile exigée",
+    "Expérience dans le domaine de la protection de l'enfance",
+    "Maîtrise de la pratique pédiatrique et du domaine de la gynécologie obstétricale",
+    "Sens de l'écoute",
+    "Empathie",
+    "Patience",
+    "Maîtrise de soi",
+    "Capacités à animer et à communiquer avec un public varié",
+    "Capacités à travailler en équipe pluridisciplinaire",
+    "Capacités à répondre aux demandes institutionnelles et aux demandes du responsable de service",
+    "Disponibilité"
+  ],
+  "specialCommitments": null,
+  "title": "Médecin au centre de protection maternelle et infantile",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-02",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 0.869,
+  "dossier": "politique-de-sante-publique"
+}
