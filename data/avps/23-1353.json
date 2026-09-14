@@ -1,0 +1,194 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 2-Diplôme niveau V",
+    "direction": "DIRECTION DE LA POLICE MUNICIPALE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur de la police municipale",
+    "placeOrganigramme": "Placé sous l'autorité du Directeur de la police municipale",
+    "relationsFonctionnelles": [
+      "Brigades de la police municipale",
+      "Population",
+      "Procureur de la République"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Régime de travail",
+        "value": "Travail en régime hebdomadaire ou cyclique selon l'affectation"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Port d'armes",
+        "value": "Aptitude médicale au port d'armes de catégories B et D"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Agrément",
+        "value": "Agrément délivré par le Procureur de la République"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Casier judiciaire",
+        "value": "Casier judiciaire vierge"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956364.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Deuxième commune de Nouvelle Calédonie avec ses 35 000 habitants, DUMBEA s'affiche comme une ville d'avenir, dynamique, vivante et multiculturelle dans laquelle il fait bon vivre. Sa richesse est de réunir à la fois un caractère très urbain au sud et plus rural au nord. Avec cette forte densification des infrastructures et de logements, les actions de tranquillité publique, de sécurité et bon ordre se sont diversifiées et multipliées ces dernières années. Il convient d'assurer également la tranquillité et le respect de l'environnement et des usages dans la partie Nord de la commune qui s'affiche comme le poumon vert de l'agglomération. Placé sous l'autorité du Directeur de la police municipale a pour mission générale d'assurer, en tout temps et sur l'ensemble du territoire communal, le bon ordre, la sûreté, la sécurité et la salubrité publique. Le garde champêtre assure l'ensemble de ces missions en renfort aux brigades, selon un planning bien spécifique.",
+  "disambiguatingDescription": "Poste de Garde champêtre au sein de la Direction de la police municipale de la Ville de Dumbéa.",
+  "identifier": "23-1353",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "1 Garde champêtre",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Dumbéa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Hôtel de Ville de Dumbéa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "66 avenue de la vallée",
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "41.88.88",
+    "email": "courrier@ville-dumbea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Textes législatifs, règlements et codes relevant des compétences de l'activité",
+      "Méthodes et principes de surveillance des lieux sensibles",
+      "Techniques de résolution de conflits",
+      "Techniques de négociation et médiation",
+      "Caractéristiques géographiques et socio-économiques du territoire de compétences",
+      "Pouvoirs de police du Maire et attributions des administrations",
+      "Code de la route",
+      "Acteurs et intervenants de la sécurité et de la prévention",
+      "Code de fonctionnement des institutions judiciaires et des procédures pénales",
+      "Techniques de neutralisation des armes et animaux dangereux",
+      "Bonne maitrise de l'outil informatique et des logiciels Word et Excel sous Windows",
+      "Formation de gardes champêtre"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Deuxième commune de Nouvelle Calédonie avec ses 35 000 habitants, Dumbéa s'affiche comme une ville d'avenir, dynamique, vivante et multiculturelle.",
+  "employmentType": "TEMPORARY",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Direction de la police municipale"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Avoir déjà suivi la formation de gardes champêtre serait un plus.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Dumbéa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Sécurité publique",
+  "jobBenefits": null,
+  "jobDuration": "CDD / Remplacement",
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction de la police municipale",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "66 avenue de la vallée",
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-11-01",
+  "occupationalCategory": [
+    "Prévention et sécurité"
+  ],
+  "physicalRequirement": "Bonne condition physique, Aptitude médicale à l'exercice de l'emploi et au port d'armes de catégories B et D, Visite médicale d'aptitude conforme aux statuts",
+  "qualifications": "Titulaire du permis B, Compétences judiciaires APJA, Agrément délivré par le Procureur de la République, Casier judiciaire vierge",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Garde champêtre",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2501",
+      "name": "Personnel de la sécurité publique"
+    }
+  },
+  "responsibilities": [
+    "Exécuter des missions de prévention, de surveillance du bon ordre, de tranquillité, de la sécurité et de la salubrité publique",
+    "Rechercher et constater les infractions aux lois et règlements dans sa compétence",
+    "Développer une relation de proximité avec la population",
+    "Exercer ses fonctions en brigade administrative, brigade de voie publique, brigade VTT, brigade de surveillance urbaine ou en milieu rural",
+    "Surveillance et prévention des désordres et incivilités sur la voie publique et le parc de Dumbéa",
+    "Opérateur vidéo",
+    "Recherche et constat des infractions relevant des pouvoirs de police du maire, ou du code de la sécurité intérieure",
+    "Rédaction d'écrits de service et comptes rendus d'activité",
+    "Maintien du lien social",
+    "Application de la police funéraire et de l'urbanisme"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": "Agrément délivré par le Procureur de la République et casier judiciaire vierge",
+  "sensoryRequirement": null,
+  "skills": [
+    "Appliquer les missions définies par la hiérarchie",
+    "Reporting, statistiques et tenue des tableaux de bord",
+    "Tenir des permanences au centre de vidéo protection",
+    "Veiller au bon déroulement des manifestations et des cérémonies",
+    "Analyser et gérer les situations",
+    "Réaliser des enquêtes administratives, établir et rédiger des rapports d'activités, des comptes rendus de missions d'ilotage et de prévention",
+    "Porter assistance à des usagers",
+    "Gérer le service des objets trouvés",
+    "Veiller à l'application des règles de sécurité publique",
+    "Sécurité des biens et des personnes",
+    "Respect de la hiérarchie",
+    "Sens aigu de la discipline et du service public en général",
+    "Aptitude au travail en équipe",
+    "Disponibilité et forte motivation",
+    "Respect des mesures de sécurité, du cadre juridique et de la déontologie",
+    "Rigueur face à l'application des procédures",
+    "Diplomatie",
+    "Sens de l'adaptation et de réactivité",
+    "Sens de l'observation et de l'écoute",
+    "Stabilité d'humeur, maîtrise de soi dans les situations d'urgence"
+  ],
+  "specialCommitments": "Disponibilité requise, travail en régime hebdomadaire ou cyclique selon l'affectation",
+  "title": "Garde champêtre",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-02",
+  "workHours": "Régime hebdomadaire ou cyclique selon l'affectation",
+  "champs_open_data": 8,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "DIRECTION DE LA POLICE MUNICIPALE",
+  "direction_source": "document",
+  "famille_respnc": "Prévention et sécurité",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "prevention-et-securite"
+}
