@@ -1,0 +1,179 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Médecin de santé publique",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Unité provinciale d'actions sanitaire et sociale de Bourail",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable de l'UPASS de Bourail",
+    "placeOrganigramme": "Sous l'autorité du responsable de l'UPASS de Bourail",
+    "relationsFonctionnelles": [
+      "Équipe pluridisciplinaire de l'UPASS de Bourail",
+      "Acteurs locaux",
+      "Administrations",
+      "Associations",
+      "Particuliers"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Inférieure à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Le poste nécessite une autonomie et une capacité d'adaptation. Bon niveau requis en termes d'urgences médicales. Horaires de semaine, de nuit et de weekend pour assurer la continuité des soins."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Véhicule",
+        "value": "Titulaire du permis de conduire B et d'un véhicule"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953390.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) recrute un médecin généraliste pour l'unité provinciale d'actions sanitaire et sociale de Bourail (UPASS). Le médecin travaillera au sein d'une équipe pluridisciplinaire attachée à la synergie médico-sociale et aux démarches d'amélioration de la qualité. Une attention particulière est portée à la prévention, à la promotion de la santé ainsi qu'aux différentes priorités de santé publique.",
+  "disambiguatingDescription": null,
+  "identifier": "25-1768",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Médecin à l'UPASS de Bourail",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "UPASS de Bourail",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Bourail",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.46.59",
+    "email": "paola.koteureu@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2025-11-07",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme de médecin",
+    "competencyRequired": [
+      "Diplôme de médecin ou de spécialiste en médecine générale ou en médecine d'urgence",
+      "Diplôme d'épidémiologie et de santé publique",
+      "Connaissances de la charte d'Ottawa"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre inférieure à 3 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "UPASS de Bourail",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience en poste isolé ou capacité d'aide médicale urgente utile",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "UPASS de Bourail",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Bourail",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-03-01",
+  "occupationalCategory": [
+    "Santé publique soins",
+    "Politique de santé publique"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire B et véhicule personnel",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Médecin",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1402",
+      "name": "Médecine générale et spécialisée"
+    }
+  },
+  "responsibilities": [
+    "Assurer la médecine curative, y compris les urgences avec des périodes d'astreintes",
+    "Assurer la médecine préventive, notamment l'activité de protection maternelle et infantile, la médecine scolaire et la contraception",
+    "Participer et, le cas échéant, mener des programmes de santé publique et des projets impliquant plusieurs partenaires",
+    "Proposer des actions de prévention en lien avec les pathologies prédominantes et les problématiques de santé publique rencontrées",
+    "Formuler des propositions d'actions visant à améliorer la prise en charge des patients"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Gestion des urgences",
+    "Gestion de programmes de prévention et de promotion de la santé au sens de la charte d'Ottawa",
+    "Capacité à mener des projets de santé communautaire",
+    "Connaissances en obstétrique",
+    "Connaissances en pédiatrie",
+    "Connaissances en santé publique",
+    "Notions du logiciel de gestion de données médicales ASCLEPIOS",
+    "Réelles capacités relationnelles et d'accueil",
+    "Grande motivation professionnelle",
+    "Envie d'entreprendre et d'innover",
+    "Capacité à s'adapter",
+    "Capacité à travailler en équipe et en synergie médico-sociale",
+    "Disponibilité",
+    "Force de propositions",
+    "Ouverture d'esprit"
+  ],
+  "specialCommitments": "Astreintes de nuit et de week-end",
+  "title": "Médecin à l'UPASS de Bourail",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-02",
+  "workHours": "Horaires de semaine, de nuit et de week-end",
+  "champs_open_data": 6,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 0.869,
+  "dossier": "politique-de-sante-publique"
+}
