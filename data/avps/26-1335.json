@@ -1,0 +1,178 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Service de néonatalogie",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cadre supérieur sage-femme et cadre de santé",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Direction de la coordination des soins",
+      "Cadre supérieur sage-femme",
+      "Cadre de santé",
+      "Professionnels impliqués dans la prise en charge du nouveau-né et de sa mère"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Décembre 2026 et janvier 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953386.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'infirmier(e) réalise des soins infirmiers ainsi que des actions de prévention, de maintien, de relation et d'éducation à la santé visant à maintenir ou restaurer la santé du patient et à l'accompagner. Par ses activités, il/elle contribue également à la prévention, au dépistage, au diagnostic, au traitement et à la recherche.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1335",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "3 Infirmier(e)s en néonatalogie",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": null,
+      "addressRegion": "Nouvelle-Calédonie",
+      "addressCountry": "NC"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.80.00",
+    "email": "recrutement@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'État d'Infirmier",
+    "competencyRequired": [
+      "Formation aux soins d'urgence (AFGSU)",
+      "Connaissances en hygiène hospitalière"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de néonatalogie"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience de 3 ans minimum en service de néonatalogie, avec compétences en réanimation néonatale",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": "Horaires adaptés à l'activité du service (week-ends, nuits, jours fériés et chômés), Primes spécifiques (nuit, week-end, etc.), Reprise d'ancienneté possible selon la réglementation, Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (cadre de la santé de Nouvelle-Calédonie), Prise en charge du billet aller uniquement",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplôme d'État d'Infirmier, Formation aux soins d'urgence (AFGSU)",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Infirmier en soins généraux",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1402",
+      "name": "Soins infirmiers généraux"
+    }
+  },
+  "responsibilities": [
+    "Recueil des données cliniques du nouveau-né, des besoins et des attentes des parents et de leur entourage",
+    "Etablissement du projet de soins et de la planification des activités",
+    "Prise en soin d'enfants nés prématurés, d'enfants présentant des pathologies ou décompensations périnatales : réalisation et contrôle des soins infirmiers",
+    "Surveillance de l'évolution de l'état de santé des nouveau-nés",
+    "Assistance technique lors de soins dispensés par le médecin",
+    "Information et éducation des parents et de l'entourage",
+    "Rédaction et mise à jour du dossier du patient",
+    "Accueil et encadrement pédagogique des étudiants, des stagiaires et des personnels encadrés",
+    "Coordination et organisation des activités et des soins durant l'hospitalisation et lors de la sortie d'un patient ou d'un groupe de patients",
+    "Réalisation d'études et de travaux de recherche et veille professionnelle",
+    "Gestion et contrôle des produits, des matériels et des dispositifs médicaux",
+    "Mise en œuvre des procédures institutionnelles"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Techniques de manutention des patients",
+    "Maîtrise des outils de la démarche qualité"
+  ],
+  "specialCommitments": null,
+  "title": "Infirmier(e)s en néonatalogie",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-09-25",
+  "workHours": "Horaires adaptés à l'activité du service (week-ends, nuits, jours fériés et chômés)",
+  "champs_open_data": 12,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 0.855,
+  "dossier": "politique-de-sante-publique"
+}
