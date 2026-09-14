@@ -1,0 +1,167 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Sergent",
+    "direction": "COMMUNE DE POYA",
+    "uniteOrganisationnelle": "Centre de Première Intervention",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaire général",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Services communaux",
+      "Partenaires opérationnels"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions particulières de l'emploi",
+        "value": "Disponibilité liée aux nécessités opérationnelles, Participation aux gardes et astreintes selon l'organisation du CPI, Horaires irréguliers pouvant comprendre les soirées, nuits, week-ends et jours fériés, Déplacements liés aux interventions, formations, réunions et missions, Participation aux cérémonies officielles, Participation aux formations et exercices opérationnels, Aptitude physique et médicale conforme aux exigences applicables aux fonctions exercées, Port des équipements de protection individuelle, Respect des règles de discipline et des consignes opérationnelles"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957658.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le Centre de Première Intervention (CPI) de Poya assure les missions de secours et d'intervention relevant de ses compétences sur le territoire de la commune. Sous l'autorité du Maire et du Secrétaire général, le Chef du Centre de Première Intervention assure l'organisation, la gestion et le fonctionnement opérationnel du CPI. Il encadre les sapeurs-pompiers placés sous son autorité, organise les gardes et astreintes et veille au maintien de la capacité opérationnelle du centre ainsi qu'à la disponibilité des moyens humains et matériels nécessaires aux interventions.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1283",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de Centre de Prémière Intervention (POYA)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Commune de Poya"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.12.50",
+    "email": "sg@mairie-poya.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaissance des textes réglementaires, normes et procédures applicables en matière d'incendie et de secours",
+      "Connaissance de l'organisation et du fonctionnement d'un Centre de Première Intervention",
+      "Connaissance des règles d'hygiène et de sécurité",
+      "Connaissance des techniques opérationnelles de lutte contre l'incendie et de secours",
+      "Connaissance des techniques de management et d'encadrement d'équipe",
+      "Connaissance des procédures administratives",
+      "Connaissance des responsabilités liées à l'exercice des missions de sécurité civile"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Poya"
+  },
+  "incentiveCompensation": null,
+  "industry": "Sécurité civile",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre de Première Intervention",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Poya",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-11-01",
+  "occupationalCategory": [
+    "Incendie et secours"
+  ],
+  "physicalRequirement": "Aptitude physique et médicale conforme aux exigences applicables aux fonctions exercées",
+  "qualifications": "Port des équipements de protection individuelle, Respect des règles de discipline et des consignes opérationnelles",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chef de centre",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2501",
+      "name": "Direction de la sécurité civile et des secours"
+    }
+  },
+  "responsibilities": [
+    "Assurer le commandement, l'organisation et le fonctionnement du Centre de Première Intervention",
+    "Encadrer, coordonner et animer l'équipe des sapeurs-pompiers",
+    "Organiser et superviser les gardes et astreintes",
+    "Assurer la gestion quotidienne des effectifs opérationnels",
+    "Garantir et maintenir le niveau opérationnel des moyens humains et matériels",
+    "Diriger les personnels et les moyens lors des interventions, selon les qualifications détenues",
+    "Transmettre et faire appliquer les consignes opérationnelles",
+    "Veiller au respect des règles d'hygiène, de santé et de sécurité",
+    "Organiser et suivre les formations, exercices et manœuvres",
+    "Assurer le suivi des véhicules, matériels, équipements et locaux du CPI",
+    "Recenser les besoins en matériels, équipements et formations",
+    "Assurer les tâches de gestion administrative et technique liées au fonctionnement du centre",
+    "Participer à la préparation et à la gestion des situations de crise",
+    "Participer aux retours d'expérience à la suite des interventions",
+    "Assurer les relations avec les services communaux et les partenaires opérationnels",
+    "Rendre compte à l'autorité territoriale du fonctionnement et de l'activité du CPI"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Commander et coordonner une équipe en situation opérationnelle",
+    "Respecter les procédures administratives",
+    "Encadrer, organiser et animer une équipe",
+    "Prendre des décisions rapidement et de manière adaptée",
+    "Conseiller et alerter la hiérarchie et les autorités sur les risques identifiés",
+    "Analyser et déterminer la bonne adéquation objectifs /moyens du CPI",
+    "Élaborer et faire appliquer des procédures et consignes",
+    "Planifier et contrôler la réalisation des missions",
+    "Établir et suivre la permanence opérationnelle",
+    "Veiller à l'opérationnalité des locaux, véhicules, matériels et personnels",
+    "Analyser les risques et proposer des mesures correctives",
+    "Rédiger des bilans, rapports et comptes rendus d'activité",
+    "Travailler en collaboration avec les différents services et partenaires",
+    "Capacités d'encadrement et de commandement",
+    "Solides qualités relationnelles et de leadership",
+    "Aptitude à communiquer et à faire preuve d'autorité",
+    "Sens développé de la pédagogie et du travail en équipe",
+    "Réactivité et esprit d'initiative",
+    "Grande maîtrise de soi",
+    "Autonomie et disponibilité",
+    "Sens aigu des responsabilités et de l'organisation",
+    "Bonne connaissance des règles et procédures applicables en matière d'incendie et de secours"
+  ],
+  "specialCommitments": "Participation aux gardes et astreintes selon l'organisation du CPI",
+  "title": "Chef de Centre de Première Intervention",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-09-18",
+  "workHours": "Horaires irréguliers pouvant comprendre les soirées, nuits, week-ends et jours fériés",
+  "champs_open_data": 8,
+  "employeur_sigle": "COMMUNE-DE-POYA",
+  "collectivite": "Commune de Poya",
+  "direction": "COMMUNE DE POYA",
+  "direction_source": "source",
+  "famille_respnc": "Incendie et secours",
+  "famille_source": "respnc",
+  "famille_score": 0.819,
+  "dossier": "incendie-et-secours"
+}
