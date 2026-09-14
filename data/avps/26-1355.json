@@ -1,0 +1,154 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur d'administration générale",
+    "direction": "DIRECTION DE L'URBANISME",
+    "uniteOrganisationnelle": "Service du domaine et de l'immobilier",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service et son adjoint",
+    "placeOrganigramme": "Sous l'autorité du chef du service et son adjoint",
+    "relationsFonctionnelles": [
+      "Secrétaire général adjoint en charge du pôle aménagement",
+      "Direction de l'urbanisme",
+      "Service du domaine et de l'immobilier"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Documents obligatoires",
+        "value": "Lettre de motivation, CV détaillé, fiche de renseignements, attestation sur l'honneur de non bénéfice de la rupture conventionnelle, photocopie des diplômes"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953284.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune. Placée sous l’autorité du secrétaire général adjoint en charge du pôle aménagement, la direction de l’urbanisme a pour vocation de proposer une vision du développement durable du territoire, accompagnée de ses déclinaisons stratégiques, réglementaires, foncières et opérationnelles. Le service du domaine et de l’immobilier est chargé de la maîtrise du patrimoine municipal et notamment de l’instruction des cessions, des acquisitions, des échanges fonciers, des servitudes et des mises à disposition.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1355",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "1 instructeur patrimoine",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Mairie de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "23.22.44",
+    "email": "marin.courme@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Bac",
+    "competencyRequired": [
+      "Notions juridiques notamment en droit civil, foncier et administratif",
+      "Notions en droit de l’urbanisme",
+      "Pratique des systèmes d’information géographique"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Service du domaine et de l'immobilier"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Topographie et foncier",
+    "Urbanisme"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Instructeur patrimoine",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1503",
+      "name": "Gestion de patrimoine immobilier"
+    }
+  },
+  "responsibilities": [
+    "Mettre en œuvre la politique de la Ville, la réglementation et les procédures en matière de mise à disposition",
+    "Instruire des demandes de mise à disposition et des procédures de recherche des futurs preneurs ou bénéficiaires des mises à disposition de la Ville",
+    "Gérer certains actes, baux et conventions de mise à disposition de la Ville",
+    "Gérer et contrôler l'occupation du patrimoine foncier de la collectivité",
+    "Assurer une relation de proximité et un service de qualité auprès des locataires pour favoriser la satisfaction client",
+    "Apporter une expertise immobilière et foncière",
+    "Suivre et gérer des procédures d'acquisition, de cession, de mise à disposition, de servitudes et rédiger les actes idoines",
+    "Suivre et gérer des procédures de régularisation foncière",
+    "Instruire des dossiers (vérifications administratives, contrôle, relance, traitement, préparation des actes juridiques pour notification)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Rigueur",
+    "Méthode",
+    "Capacités rédactionnelles",
+    "Capacités relationnelles",
+    "Travail en équipe",
+    "Sens du service public"
+  ],
+  "specialCommitments": null,
+  "title": "Instructeur patrimoine",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-02",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "DIRECTION DE L'URBANISME",
+  "direction_source": "document",
+  "famille_respnc": "Ressources Humaines",
+  "famille_source": "respnc",
+  "famille_score": 0.772,
+  "dossier": "ressources-humaines"
+}
