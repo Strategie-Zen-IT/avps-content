@@ -4,9 +4,9 @@ Lancé au build (voir .github/workflows/deploy_site.yaml), avant `hugo`. Le cham
 aux méta-descriptions et aux aperçus de partage : quand le moteur ne l'a pas rempli, on
 le reconstruit depuis le corps de la fiche.
 
-⚠️ La version OPT de ce script portait une liste de 6 dossiers en dur
+⚠️ La version d'origine de ce script portait une liste de 6 dossiers en dur
 (« commercial-et-clientele », « telecommunications »…) — des slugs de familles de métiers
-OPT qui n'existaient même plus dans le contenu, si bien que le script ne traitait plus
+qui n'existaient même plus dans le contenu, si bien que le script ne traitait plus
 aucun fichier en silence. Ici les dossiers sont les 41 familles RESPNC, découvertes à
 l'exécution : on parcourt donc l'arborescence au lieu d'énumérer.
 """

@@ -2,7 +2,7 @@
   Légende cliquable des familles de métier présentes dans un ensemble de pages.
   Contexte attendu (.) : une collection de pages (ex: $pages, ou (slice .Page)).
   Chaque entrée = pastille couleur + nom, lien vers les offres de la famille (page de tag).
-  On réutilise le .RelPermalink réel des pages de tag (préfixe /odata-avps/ + accents corrects).
+  On réutilise le .RelPermalink réel des pages de tag (préfixe de baseURL + accents corrects).
 */ -}}
 {{- $pages := . }}
 {{- $colors := site.Data.familles_couleurs.familles }}

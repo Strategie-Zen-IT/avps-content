@@ -1,5 +1,5 @@
 {{- /* Surcharge avps.nc du partial Twitter Cards du thème Relearn.
-       Source unique, image correcte sur le sous-chemin /odata-avps/. */ -}}
+       Source unique, image en URL absolue. */ -}}
 {{- $img := .Params.featured_image | default "/assets/logo-avps.svg" -}}
 {{- $img = strings.TrimPrefix "/" $img -}}
     <meta name="twitter:card" content="summary_large_image">

@@ -130,3 +130,66 @@
   border: 1.5px solid currentColor;
   flex-shrink: 0;
 }
+
+/* ---- Pied de page des offres (éditeur, sources, réseaux) --------------- */
+.avp-footer-hr {
+  margin-top: 2.5rem;
+}
+.avp-page-footer {
+  text-align: center;
+  font-size: 0.85rem;
+  opacity: 0.9;
+}
+.avp-footer-social {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin: 0.75rem 0;
+  font-size: 1.15rem;
+}
+.avp-footer-social a {
+  color: inherit;
+  text-decoration: none;
+  transition: transform 0.15s;
+}
+.avp-footer-social a:hover {
+  transform: scale(1.2);
+}
+.avp-footer-source a,
+.avp-footer-legal a,
+.avp-footer-dev a {
+  color: inherit;
+}
+.avp-footer-legal p {
+  margin: 0.3rem 0;
+}
+.avp-footer-sep {
+  margin: 0 0.4rem;
+  opacity: 0.6;
+}
+.avp-footer-note {
+  font-size: 0.78rem;
+  opacity: 0.8;
+}
+.avp-footer-dev {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin: 15px 0;
+  opacity: 0.85;
+}
+.avp-footer-dev a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+}
+.avp-build-info {
+  font-size: 0.65rem;
+  opacity: 0.5;
+  padding: 10px;
+  text-align: center;
+  border-top: 1px solid var(--CARD-BORDER-color);
+}

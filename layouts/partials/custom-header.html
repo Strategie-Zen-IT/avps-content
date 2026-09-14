@@ -68,8 +68,8 @@ document.addEventListener("DOMContentLoaded", function() {
   {{ with index .Site.Data.avps $key }}
     {{/* Identifiant au format PropertyValue recommandé par Google.
          `identifier.name` est l'autorité qui attribue la référence : c'est la
-         collectivité employeuse, pas le site. « OPT-NC » en dur n'était juste que
-         lorsqu'il n'y avait qu'un seul employeur.
+         collectivité employeuse, pas le site (un nom d'employeur en dur ne serait
+         juste qu'avec un employeur unique).
          ⚠️ Pas de commentaire Go À L'INTÉRIEUR de la liste d'arguments de `dict` :
          le parseur de templates le refuse (`unexpected "{" in operand`). */}}
     {{ $ld := dict

@@ -6,7 +6,7 @@ Source de vérité : le référentiel RESPNC versionné dans le moteur
 référentiel — c'est lui qui définit à la fois l'arborescence du site
 (`content/{famille}/`) et l'énumération qui contraint l'extraction Gemini. Le
 régénérer ici évite de recopier 41 libellés à la main, ce qui était précisément le
-point faible de la chaîne OPT (un enum de directions recopié dans 4 specs).
+point faible de la chaîne d'origine (un enum de directions recopié dans 4 specs).
 
 Usage :
     python3 scripts/generer_familles.py [chemin/vers/famille-code-rome.csv]

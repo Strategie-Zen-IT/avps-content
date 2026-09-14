@@ -17,14 +17,11 @@
     {{ end }}
     
     {{ range .Site.RegularPages }}
-      {{/* 🎯 FILTRES D'EXCLUSION : On identifie les pages à ignorer */}}
-      {{ $isMotDrh := eq .Section "mot-drh" }}
-      {{ $isAPropos := in .Permalink "a-propos" }}
-      {{ $is404 := in .Permalink "404" }}
-      {{ $isSearch := in .Permalink "search" }}
-      
-      {{/* Si la page n'est AUCUNE de ces trois-là, on génère l'item RSS */}}
-      {{ if and (not $isMotDrh) (not $isAPropos) (not $is404) (not $isSearch) }}
+      {{/* 🎯 Le flux ne porte que des OFFRES : les pages éditoriales sont écartées. */}}
+      {{ $isEditorial := not .Params.ref }}
+      {{ $isArchive := eq .Params.archive true }}
+
+      {{ if and (not $isEditorial) (not $isArchive) }}
       <item>
         <title>{{ .Title }}</title>
         <link>{{ .Permalink }}</link>

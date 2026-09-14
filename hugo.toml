@@ -1,30 +1,71 @@
 baseURL = 'https://avps.nc'
 locale = 'fr-fr'
 defaultContentLanguage = 'fr'
-title = "Emploi fonctions publiques"
+title = "avps.nc — Emploi public en Nouvelle-Calédonie"
 theme = 'hugo-theme-relearn'
 
 [params]
   # Options du thème Relearn
-  # ⚠️ Les variantes opt-light / opt-dark de la chaîne OPT n'ont pas été reprises :
-  # c'était la charte de l'OPT (assets/css/theme-opt-*.css, non copiés). En attendant
-  # celle d'avps.nc, on prend deux variantes livrées par Relearn — « zen » est neutre
-  # et lisible. Sans ce changement le build ÉCHOUE : Hugo traite une variante dont le
-  # CSS est absent comme une erreur, pas comme un avertissement.
+  # Variantes de couleurs : « zen » est neutre et lisible, en attendant la charte
+  # définitive d'avps.nc. ⚠️ Une variante dont le CSS est absent fait ÉCHOUER le
+  # build Hugo, ce n'est pas un simple avertissement.
   themeVariant = [ "zen-light", "zen-dark" ]
   landingPageName = "<i class='fa-fw fas fa-home'></i> Bienvenue"
   collapsibleMenu = true
   disableShortcutsTitle = true
-  author = "OPT-NC"
-  images = ["/assets/logo-opt.png"]
+  images = ["/assets/logo-avps.svg"]
+
+  # Éditeur du site (affiché dans le pied de page et les mentions légales).
+  [params.editeur]
+    nom = "Stratégie Zen IT"
+    url = "https://strategiezenit.com"
+    contact = "melanie+webmaster@strategiezenit.com"
+
+  # Adresse du dataset Hugging Face (HF_REPO_ID côté moteur). Vide tant qu'il n'est
+  # pas créé : le lien du pied de page est alors masqué.
+  dataset_url = ""
+
+  [params.author]
+    name = "Stratégie Zen IT"
+
+# Réseaux de l'éditeur, affichés dans le pied de page de chaque offre.
+# `icone` est une classe Font Awesome (livrée par le thème).
+[[params.reseaux]]
+  nom = "LinkedIn Stratégie Zen IT"
+  url = "https://www.linkedin.com/company/strategiezenit"
+  icone = "fab fa-linkedin-in"
+
+[[params.reseaux]]
+  nom = "LinkedIn Mélanie Gault"
+  url = "https://www.linkedin.com/in/melaniegault/"
+  icone = "fab fa-linkedin"
+
+[[params.reseaux]]
+  nom = "YouTube — Optimise ton workspace"
+  url = "https://www.youtube.com/@optimisetonworkspace"
+  icone = "fab fa-youtube"
+
+[[params.reseaux]]
+  nom = "Facebook — Le monde numérique de Mélanie"
+  url = "https://www.facebook.com/lemondenumeriquedemelanie"
+  icone = "fab fa-facebook-f"
+
+[[params.reseaux]]
+  nom = "TikTok — Mélanie numérique"
+  url = "https://www.tiktok.com/discover/melanie-numerique"
+  icone = "fab fa-tiktok"
+
+[[params.reseaux]]
+  nom = "Blog — Le monde numérique de Mélanie"
+  url = "https://lemondenumeriquedemelanie.com"
+  icone = "fas fa-blog"
 
 # ------------------------------------------------------------------------------
 # Taxonomies
 #
-# La chaîne OPT n'avait qu'un `tags` fourre-tout où ville, province, corps et familles
-# se mélangeaient : impossible de lister « tous les AVP de la Province Sud » sans y voir
-# aussi les corps et les métiers. Avec un employeur unique c'était sans conséquence ;
-# ici chaque axe doit être navigable seul.
+# Un seul `tags` fourre-tout mélangeant ville, province, corps et familles rendrait
+# impossible de lister « tous les AVP de la Province Sud » sans y voir aussi les corps
+# et les métiers. Avec une trentaine d'employeurs, chaque axe doit être navigable seul.
 #
 # Deux niveaux d'employeur, distincts dans la source open data :
 #   - `collectivites` : l'employeur juridique (libellecollectivite — Nouvelle-Calédonie,
@@ -57,6 +98,16 @@ name = "<i class='fas fa-fw fa-chart-line'></i> Statistiques"
 pageRef = "/stats"
 weight = 20
 
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-code'></i> Développeurs"
+pageRef = "/developpeurs"
+weight = 30
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-balance-scale'></i> Mentions légales"
+pageRef = "/mentions-legales"
+weight = 40
+
 [outputFormats.jobs_sitemap]
   mediaType = "application/xml"
   baseName = "jobs-sitemap"
@@ -80,14 +131,7 @@ weight = 20
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true # ✅ Autorise le HTML brut (comme ton footer <center>) dans le Markdown
-
-
-[params.social]
-  facebook  = "https://www.facebook.com/lemondenumeriquedemelanie"
-  youtube   = "https://www.youtube.com/@optimisetonworkspace"
-  linkedin  = "https://www.linkedin.com/company/strategiezenit"
-  tiktok    = "https://www.tiktok.com/discover/melanie-numerique"
+      unsafe = true # Autorise le HTML brut dans le Markdown (pied de page, centrage)
 
 [module]
   [[module.mounts]]

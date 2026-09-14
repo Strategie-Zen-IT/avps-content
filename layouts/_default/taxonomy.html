@@ -43,11 +43,9 @@
     </p>
 
 {{/* Badge de la famille de métier, avec son code ROME.
-          La chaîne OPT mettait ici un lien vers le référentiel des métiers OPT
-          (odata-referentiel-metiers) : ce référentiel ne décrit qu'un employeur et a été
-          retiré. Le référentiel RESPNC qui le remplace n'a pas de page par famille —
-          seulement un PDF par fiche d'emploi, déjà lié depuis chaque offre. D'où un
-          badge informatif et non un lien. */}}
+          Le référentiel RESPNC n'a pas de page par famille — seulement un PDF par
+          fiche d'emploi, déjà lié depuis chaque offre. D'où un badge informatif et non
+          un lien. */}}
     {{- $term := or (and .Data .Data.Term) .Title }}
     {{- $couleur := index $.Site.Data.familles_couleurs.familles $term }}
     {{- with $couleur }}

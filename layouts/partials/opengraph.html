@@ -1,6 +1,6 @@
 {{- /* Surcharge avps.nc du partial Open Graph du thème Relearn.
-       Objectif : une SEULE source de balises og:, avec des URL d'image correctes
-       sur le sous-chemin /odata-avps/ (le partial du thème perdait le préfixe). */ -}}
+       Objectif : une SEULE source de balises og:, avec des URL d'image absolues
+       correctes quel que soit le baseURL. */ -}}
 {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
 
     <meta property="og:url" content="{{ .Permalink }}">
@@ -28,8 +28,8 @@
     <meta property="og:type" content="website">
 {{- end }}
 
-{{- /* Image : bannière de la fiche si présente, sinon logo OPT. On retire le slash
-       initial pour que absURL conserve le préfixe /odata-avps/. */ -}}
+{{- /* Image : bannière de la fiche si présente, sinon logo du site. On retire le
+       slash initial pour que absURL conserve un éventuel sous-chemin de baseURL. */ -}}
 {{- $img := .Params.featured_image | default "/assets/logo-avps.svg" -}}
 {{- $img = strings.TrimPrefix "/" $img -}}
     <meta property="og:image" content="{{ $img | absURL }}">

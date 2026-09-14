@@ -17,7 +17,7 @@ content/
     _index.md                   créé automatiquement à la 1re offre de la famille
     {reference-avp}.md          une fiche par offre
   archives/                     offres clôturées, jamais supprimées
-  _index.md  a-propos.md  developpeurs.md  stats.md  404.md
+  _index.md  a-propos.md  developpeurs.md  stats.md  mentions-legales.md  404.md
 static/logos/{sigle}.png        logos des employeurs — voir le README du dossier
 data/familles_*.yml             GÉNÉRÉS depuis le référentiel du moteur
 data/avps/{reference}.json      fiche JSON-LD de chaque offre (déposée par le moteur)
@@ -44,20 +44,24 @@ directions **de** la Nouvelle-Calédonie, alors que `CHT` ou `PVS` sont des coll
 entières. C'est la collectivité qui recrute juridiquement — c'est donc elle, et pas la
 direction, qui figure dans `hiringOrganization` du JSON-LD et dans `<company>` du flux ATS.
 
-## 🔀 Ce qui change par rapport à `odata-avps` (site OPT)
+## 🧬 Origine du projet
+
+Ce site est dérivé d'un portail d'AVP conçu pour un employeur public unique (le site
+`odata-avps` de l'OPT-NC, publié sur GitHub). La transposition à l'ensemble de la fonction
+publique calédonienne a imposé les changements suivants :
 
 1. **Arborescence par famille de métier** et non par direction : les 41 familles RESPNC
-   remplacent les 15 directions Pyramide de l'OPT.
+   remplacent les 15 directions de l'organigramme de l'employeur d'origine.
 2. **Taxonomies séparées.** L'ancien site n'avait qu'un `tags` fourre-tout mélangeant
    ville, province, corps et familles : impossible d'y lister « tous les AVP de la
    Province Sud » sans voir aussi les corps et les métiers.
 3. **Les bannières ne sont plus dans Git.** Elles vivent dans un bucket GCS public et le
-   front-matter n'en porte que l'URL. Mesure faite sur `odata-avps` : 240 Mo de blobs PNG
+   front-matter n'en porte que l'URL. Mesure faite sur le site d'origine : 240 Mo de blobs PNG
    dans l'historique pour 46 bannières vivantes, `.git` à 1,6 Go en quatre mois — au
    rythme de 2333 AVP/an, le dépôt prendrait plus de 3 Go par an.
-4. **Plus de « mot de la DRH ».** C'était un édito signé par la DRH de l'OPT ; personne
-   ne peut le signer pour une trentaine d'employeurs.
-5. **Plus de lien vers le référentiel des métiers OPT.** Remplacé par un badge de famille
+4. **Plus de « mot de la DRH ».** C'était un édito signé par la DRH de l'employeur
+   d'origine ; personne ne peut le signer pour une trentaine d'employeurs.
+5. **Plus de lien vers le référentiel des métiers de l'employeur d'origine.** Remplacé par un badge de famille
    RESPNC avec son code ROME (le référentiel RESPNC n'a pas de page par famille, seulement
    un PDF par fiche, déjà lié depuis chaque offre).
 6. **Page « développeurs » refaite** : il n'y a pas d'API, donc plus de portail ni de clé
@@ -85,7 +89,7 @@ python3 scripts/generer_familles.py
 
 Un formateur HTML/JS lancé sur `layouts/**/*.html` **corrompt les templates Go** : il
 prend les `{{ … }}` pour du JavaScript et les réécrit. Deux familles de dégâts, et c'est
-la moins visible qui est la plus dangereuse (constaté le 09/09/2026 sur `odata-avps`) :
+la moins visible qui est la plus dangereuse (constaté le 09/09/2026 sur le site d'origine) :
 
 - **bruyant** — un `}}` coupé en `}` + `}` : Hugo échoue sur `unexpected "}" in operand`,
   on le voit tout de suite ;

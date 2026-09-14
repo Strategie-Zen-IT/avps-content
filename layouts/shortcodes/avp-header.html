@@ -55,7 +55,7 @@
         <td>
           {{- $colors := $.Site.Data.familles_couleurs.familles }}
           {{/* Table slug->URL des pages de tag réelles : .RelPermalink gère le préfixe
-          /odata-avps/ ET l'encodage des accents (évite les 404). */}}
+          de baseURL ET l'encodage des accents (évite les 404). */}}
           {{- $tagLinks := dict }}
           {{- with site.GetPage "/tags" }}
           {{- range .Pages }}
@@ -86,8 +86,7 @@
         <th scope="row">Métier de référence</th>
         <td>
 {{/* Le lien pointe vers la fiche d'emploi générique RESPNC (référentiel de la
-          fonction publique NC). L'ancien lien vers le référentiel des métiers OPT a
-          disparu avec lui : il ne décrivait qu'un employeur. */}}
+          fonction publique NC), valable pour tous les employeurs. */}}
           {{- if $.Page.Params.url_fiche_generique }}
           <a href="{{ $.Page.Params.url_fiche_generique }}" target="_blank" rel="noopener"
             title="Voir la fiche d'emploi générique RESPNC - Nouvelle fenêtre"
@@ -101,8 +100,7 @@
       </tr>
       {{- end }}
 {{/* Deux niveaux d'employeur : la collectivité qui recrute, puis la direction de
-          rattachement en son sein. La chaîne OPT n'affichait que la direction,
-          l'employeur étant implicite. */}}
+          rattachement en son sein. */}}
       {{- with $.Page.Params.collectivite }}
       <tr>
         <th scope="row">Collectivité employeuse</th>
@@ -248,9 +246,9 @@
         width: 110, height: 110,
         colorDark: "#005A9C", colorLight: "#ffffff",
         correctLevel: QRCode.CorrectLevel.H
-        {{/* Pas de logo incrusté dans le QR code : celui de l'OPT n'avait plus lieu
-             d'être, et easyqrcode dessine son logo sur un canvas — un SVG y échouerait
-             silencieusement. Un QR sans incrustation se lit d'ailleurs mieux. */}}
+        {{/* Pas de logo incrusté dans le QR code : le site agrège des dizaines
+             d'employeurs, et easyqrcode dessine son logo sur un canvas — un SVG y
+             échouerait silencieusement. Un QR sans incrustation se lit d'ailleurs mieux. */}}
       });
 
       // Ajout d'attributs d'accessibilité sur les images générées

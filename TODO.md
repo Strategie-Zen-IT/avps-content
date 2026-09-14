@@ -30,10 +30,12 @@ Le moteur ouvre ses pull requests sur ce dépôt : il doit exister d'abord.
       le thème Relearn est un sous-module, et sans lui le build échoue.
 - [ ] **Activer GitHub Pages** — `Settings > Pages`, source **GitHub Actions** (le
       workflow `deploy_site.yaml` publie l'artefact, il ne pousse pas sur `gh-pages`).
-- [ ] **Brancher le domaine `avps.nc`.** Le fichier `CNAME` est déjà en place. Il reste,
-      chez le registrar `.nc`, les enregistrements **A** de l'apex vers les IP de GitHub
-      Pages (`185.199.108.153`, `.109.153`, `.110.153`, `.111.153` — à revérifier dans la
-      doc GitHub le jour J), puis l'activation du domaine personnalisé côté dépôt et
+- [ ] **Brancher le domaine `avps.nc`.** Le fichier `static/CNAME` est en place. La zone
+      DNS est gérée dans Google Cloud DNS (hors de ce projet) : enregistrements **A** de
+      l'apex vers les IP de GitHub Pages (`185.199.108.153`, `.109.153`, `.110.153`,
+      `.111.153`), **AAAA** (`2606:50c0:8000::153` à `8003::153`), `www` en CNAME vers
+      `strategie-zen-it.github.io`, TXT `_github-pages-challenge-strategie-zen-it` pour la
+      vérification du domaine côté organisation. Puis domaine personnalisé côté dépôt et
       **Enforce HTTPS** une fois le certificat émis.
 - [ ] **Vérifier que `baseURL` de `hugo.toml` correspond bien au domaine servi.** Un
       `baseURL` qui ne colle pas produit des liens et des assets cassés sans erreur de
@@ -44,8 +46,7 @@ Le moteur ouvre ses pull requests sur ce dépôt : il doit exister d'abord.
 Le site est fonctionnel mais n'a pas de charte. Rien ici n'est bloquant.
 
 - [ ] **`themeVariant`** utilise `zen-light` / `zen-dark`, deux variantes livrées par
-      Relearn. Les variantes `opt-light` / `opt-dark` de la chaîne OPT n'ont pas été
-      reprises (c'était la charte de l'OPT). ⚠️ Attention en y touchant : une variante
+      Relearn, en attendant la charte d'avps.nc. ⚠️ Attention en y touchant : une variante
       dont le CSS est absent fait **échouer** le build Hugo, ce n'est pas un simple
       avertissement.
 - [ ] **`static/assets/logo-avps.svg`** est un monogramme provisoire. Volontairement
@@ -79,15 +80,18 @@ la mise en ligne.
       et que les étiquettes filtrent par collectivité, commune, province, corps.
 - [ ] **`content/developpeurs.md`** — refaite : il n'y a pas d'API, donc plus de portail
       ni de clé ; les données sont exposées en fichiers statiques (JSON-LD, RSS, flux
-      ATS, dataset Hugging Face). Page `hidden: true`, à raccrocher au menu si tu veux
-      qu'elle soit visible.
-- [ ] Décider si `a-propos` et `stats` restent `hidden: true` (héritage de l'OPT) ou
-      rejoignent les raccourcis du menu.
+      ATS, dataset Hugging Face). Raccrochée au menu le 14/09/2026.
+- [ ] **`content/mentions-legales.md`** — adaptée des mentions légales de
+      strategiezenit.com (éditeur SARL Stratégie Zen IT, hébergeur GitHub Pages, aucun
+      cookie, données de contact issues des avis officiels). À relire.
+- [ ] **`params.dataset_url`** dans `hugo.toml` : renseigner l'URL du dataset Hugging
+      Face une fois créé, pour que le lien du pied de page apparaisse.
+- [x] `a-propos`, `stats`, `developpeurs` et `mentions-legales` sont dans les raccourcis du
+      menu (14/09/2026). Elles restent `hidden: true` pour ne pas encombrer l'arborescence.
 
 ## F. Correctifs mineurs
 
-- [ ] **`params.author` → `params.author.name`** dans `hugo.toml` (déprécié par
-      Relearn 5.23). Simple avertissement au build pour l'instant.
+- [x] `params.author.name` dans `hugo.toml` (14/09/2026).
 - [ ] Quelques avertissements de dépréciation Hugo restent (`.Site.Data`,
       `.Language.LanguageCode`, `.Site.Languages`) : ils viennent du thème et des
       gabarits repris, et n'empêchent pas le build. À traiter lors d'une montée de
@@ -112,11 +116,11 @@ la mise en ligne.
 - [ ] **Surveiller le poids du dépôt.** Les bannières sont hors Git (bucket public), donc
       il ne devrait rester que du Markdown et du JSON — quelques Mo par an. Si `.git`
       enfle, c'est le signe que quelque chose remet des binaires dedans : c'est
-      exactement ce qui a porté `odata-avps` à 1,6 Go en quatre mois.
+      exactement ce qui a porté le site d'origine à 1,6 Go en quatre mois.
 
 ## H. En attente d'arbitrage
 
 - [ ] **Durée de conservation des archives.** Les AVP clos sont déplacés dans
       `content/archives/` et jamais supprimés — décision motivée par 46 URL passées en
-      404 côté OPT, qui dégradaient l'indexation. À 2333 AVP/an, il faudra trancher une
+      404 sur le site d'origine, qui dégradaient l'indexation. À 2333 AVP/an, il faudra trancher une
       rétention et ce qu'on fait au-delà. Aucune durée n'est arrêtée à ce jour.

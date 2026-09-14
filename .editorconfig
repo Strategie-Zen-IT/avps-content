@@ -2,7 +2,7 @@
 #
 # Un formateur HTML/JS lancé sur layouts/**/*.html prend les `{{ ... }}` de Hugo pour du
 # JavaScript et les réécrit. Deux familles de dégâts, et c'est la moins visible qui est
-# la plus dangereuse (constaté le 09/09/2026 sur odata-avps) :
+# la plus dangereuse (constaté le 09/09/2026 sur le site d'origine) :
 #
 #   - BRUYANT  : un `}}` coupé en `}` + `}` -> Hugo échoue sur `unexpected "}" in operand`.
 #                On le voit tout de suite.
