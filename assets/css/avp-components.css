@@ -595,3 +595,6 @@
   padding: 2px 4px;
   border: 1px solid var(--CARD-BORDER-color, #e2dacb);
 }
+.avp-info-employeur .avp-employeur-logo {
+  margin: 0;              /* le thème centre les images de tableau : on garde le logo à gauche */
+}

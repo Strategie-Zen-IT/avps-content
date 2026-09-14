@@ -44,23 +44,26 @@
            vers toutes ses offres), direction de rattachement, service. La collectivité
            vient de la source ; à défaut, du nom lu dans le document (hiringOrganization). */}}
       {{- $collectivite := $.Page.Params.collectivite }}
-      {{- if not $collectivite }}
-        {{- with index site.Data.avps (replace ($.Page.Params.ref | default "") "/" "_") }}{{ with .hiringOrganization }}{{ $collectivite = .name }}{{ end }}{{ end }}
+      {{- $logo := "" }}
+      {{- with index site.Data.avps (replace ($.Page.Params.ref | default "") "/" "_") }}
+        {{- with .hiringOrganization }}
+          {{- if not $collectivite }}{{ $collectivite = .name }}{{ end }}
+          {{- /* Le logo est celui que le moteur a vérifié (HEAD 200) au moment de la
+                 publication : même source que le JSON-LD, pas de devinette côté site. */}}
+          {{- with .logo }}{{ $logo = . }}{{ end }}
+        {{- end }}
       {{- end }}
       {{- $sigle := $.Page.Params.employeur_sigle | default "" }}
-      {{- $logo := "" }}
-      {{- range slice ($sigle | urlize) ($collectivite | default "" | urlize) }}
-        {{- if and (not $logo) . (fileExists (printf "static/logos/%s.png" .)) }}{{ $logo = printf "logos/%s.png" . }}{{ end }}
-      {{- end }}
       <tr class="avp-info-employeur">
         <th scope="row">Employeur</th>
         <td>
-          {{- with $logo }}<img class="avp-employeur-logo" src="{{ . | relURL }}" alt="" loading="lazy">{{ end }}
-          {{- with $collectivite }}
-            {{- $term := site.GetPage (printf "/collectivites/%s" (. | urlize)) }}
-            {{- if $term }}<a href="{{ $term.RelPermalink }}" title="Toutes les offres de « {{ . }} »"><strong>{{ . }}</strong></a>{{ else }}<strong>{{ . }}</strong>{{ end }}
-            {{- if and $sigle (ne $sigle "A-TRIER") (ne ($sigle | urlize) (. | urlize)) }} <code>{{ $sigle }}</code>{{ end }}
+          {{- with $logo }}<img class="avp-employeur-logo" src="{{ . }}" alt="" loading="lazy" onerror="this.remove()">{{ end }}
+          {{- $terms := $.Page.GetTerms "collectivites" }}
+          {{- if $terms }}
+            {{- range $terms }}<a href="{{ .RelPermalink }}" title="Toutes les offres de « {{ .LinkTitle }} »"><strong>{{ .LinkTitle }}</strong></a>{{ end }}
+          {{- else if $collectivite }}<strong>{{ $collectivite }}</strong>
           {{- else }}<em>Non précisé dans la source — voir le PDF officiel</em>{{ end }}
+          {{- if and $sigle (ne $sigle "A-TRIER") $collectivite (ne ($sigle | urlize) ($collectivite | urlize)) }} <code>{{ $sigle }}</code>{{ end }}
         </td>
       </tr>
       {{- with $.Page.Params.direction }}
