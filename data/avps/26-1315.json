@@ -1,0 +1,174 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Cadre d'exploitation / cadre technique",
+    "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "Direction générale",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur Général",
+    "placeOrganigramme": "N-1 (par rapport au directeur général)",
+    "relationsFonctionnelles": [
+      "Métiers",
+      "DSI",
+      "Directions"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions de travail",
+        "value": "Au bureau avec l'outil informatique. Possibilité de télétravail à hauteur de 2 jours maximum par semaine."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fourniture ou mise à disposition de matériels, biens ou services",
+        "value": "Téléphone fixe d'exploitation, Abonnement téléphone de sécurité"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955402.PDF"
+      }
+    ]
+  },
+  "alternateName": "CDO",
+  "description": "Le responsable des données (CDO) définit et met en œuvre la stratégie de gestion et de valorisation des données de l'Office, en assurant leur gouvernance, leur qualité, leur sécurité et leur exploitation au bénéfice des métiers et des orientations stratégiques de l'établissement.",
+  "disambiguatingDescription": "Responsable des données au sein de la Direction Générale de l'OPT",
+  "identifier": "26-1315",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Responsable des données - Direction Générale",
+  "owner": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "url": "https://www.opt.nc",
+    "logo": "https://avps.nc/logos/opt.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.76.75",
+    "email": "DRH-candidature@opt.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Maîtrise des principes et méthodes de la gouvernance des données",
+      "Bonne connaissance des architectures logicielles, notamment pour les stockages, partages et flux de données",
+      "Bonne connaissance des architectures de valorisation de données (DWH, DLH...)",
+      "Connaissance des pratiques de gouvernance et d'urbanisation des SI (TOGAF, COBIT, ITIL)",
+      "Maîtrise du management de projets",
+      "Connaissance des principes de gouvernance de l'IA",
+      "Cadre réglementaire applicable aux données"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Direction générale"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "url": "https://www.opt.nc",
+    "logo": "https://avps.nc/logos/opt.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Postes et télécommunications",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Immeuble WARUNA",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 Rue Paul Montchovet",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Système d'information",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable de projet",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1205",
+      "name": "Conseil et maîtrise d'ouvrage en systèmes d'information"
+    }
+  },
+  "responsibilities": [
+    "Animer la gouvernance opérationnelle des données et coordonner les acteurs concernés (métiers, DSI, directions)",
+    "Définir et mettre en œuvre la stratégie de gestion et de valorisation des données, en cohérence avec les orientations stratégiques de l'Office",
+    "Garantir la disponibilité, l'accessibilité et l'exploitation des données nécessaires aux activités opérationnelles, décisionnelles et réglementaires",
+    "Promouvoir la culture de la donnée et accompagner les directions dans l'appropriation des bonnes pratiques",
+    "Définir et mettre en place l'organisation, les processus et les référentiels nécessaires à la gouvernance des données",
+    "Cartographier les données, leurs usages, leurs propriétaires et leurs flux",
+    "Piloter le cycle de vie des données, de leur acquisition à leur archivage ou suppression",
+    "Garantir la qualité, la cohérence, la sécurité, la traçabilité et la conformité des données",
+    "Auditer les processus manipulant des données et veiller à la mise en œuvre des actions correctives",
+    "Assurer une veille sur les évolutions technologiques, réglementaires et méthodologiques liées à la gestion des données",
+    "Mise en œuvre de référentiels de données",
+    "Démarches de mise en qualité et de fiabilisation des données",
+    "Valorisation des données à des fins de pilotage, d'analyse et d'innovation",
+    "Remédiation des processus présentant des risques ou des dysfonctionnements liés aux données",
+    "Participer à l'identification, à l'encadrement et au suivi des usages de l'IA en garantissant la qualité, la sécurité et la conformité des données utilisées"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Définir et déployer une gouvernance des données",
+    "Cartographier et documenter le patrimoine de données",
+    "Piloter la qualité des données",
+    "Conduire des audits et diagnostics de gestion des données",
+    "Piloter des projets de transformation par la donnée",
+    "Animer des instances et des réseaux d'acteurs",
+    "Valoriser les données pour l'aide à la décision",
+    "Accompagner le changement et développer la culture de la donnée",
+    "Leadership",
+    "Capacité d'analyse et esprit de synthèse",
+    "Sens de l'organisation et rigueur",
+    "Capacité à travailler en transversalité",
+    "Aptitudes relationnelles et pédagogiques",
+    "Force de proposition et esprit d'initiative",
+    "Capacité d'influence et de conviction",
+    "Adaptabilité et curiosité"
+  ],
+  "specialCommitments": null,
+  "title": "Responsable des données",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": "Possibilité de télétravail à hauteur de 2 jours maximum par semaine",
+  "champs_open_data": 7,
+  "employeur_sigle": "OPT",
+  "collectivite": "Office des postes et télécommunications",
+  "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "famille_respnc": "Patrimoine bâti",
+  "famille_source": "respnc",
+  "famille_score": 0.873,
+  "dossier": "patrimoine-bati"
+}
