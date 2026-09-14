@@ -1,0 +1,180 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Bureau de Proximité de Soins",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de bureau de proximité des soins",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Médecin d'un Centre Médico-Social",
+      "Téléconsultation de la Province Nord",
+      "Équipe pluridisciplinaire"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Astreintes",
+        "value": "Poste soumis à astreintes"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi",
+        "value": "Infirmier en soins généraux des personnels paramédicaux"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Assurance requise",
+        "value": "Prévoir une assurance professionnelle responsabilité civile IPA spécifique"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952050.PDF"
+      }
+    ]
+  },
+  "alternateName": "Infirmier en pratique avancée",
+  "description": "La Direction des Affaires sanitaires, Sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
+  "disambiguatingDescription": "Poste d'infirmier en pratique avancée basé à Houaïlou au sein de la DASSPS de la Province Nord.",
+  "identifier": "26-1323",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Infirmier(e) en pratique avancée - Houaïlou",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-nord.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Houaïlou",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.71.00",
+    "email": "drh.emplois@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'Etat d'infirmier en pratique avancée",
+    "competencyRequired": [
+      "Être titulaire d'un diplôme d'Etat d'infirmier en pratique avancée délivré par une université accréditée",
+      "Être enregistré auprès de la DASS NC",
+      "Disposer de l'autorisation de prescription auprès de la CAFAT et la DASS-PS"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": "La Direction des Affaires sanitaires, Sociales, de la Prévention et de la Solidarité (DASSPS) de la Province Nord gère l'offre de soins de proximité et d'action sociale sur l'ensemble de la province.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Bureau de Proximité de Soins",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Justifier de trois années minimales d'exercice en équivalent temps plein de la profession d'infirmier",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre Médico-Social de Houaïlou",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Houaïlou",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Infirmier",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Soins d'infirmiers généralistes"
+    }
+  },
+  "responsibilities": [
+    "Prise en charge et suivi des patients atteints de pathologies chroniques selon le domaine d'intervention défini et sous la coordination du médecin",
+    "Prescription de renouvellement de traitement chronique, de traitement selon les listes autorisées, de vaccins, de bilans complémentaires",
+    "Rédaction de courriers médicaux et comptes rendus",
+    "Éducation du patient dans sa prise en charge du suivi ou de la personne de confiance",
+    "Coordination de soins, orientation",
+    "Mise en place d'actions de prévention, dépistage et éducation à la santé",
+    "Coordination et développement de la pratique"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Expertise en clinique avancée",
+    "Capacité à se positionner en qualité de référent professionnel clinique",
+    "Capacités de coordination",
+    "Autonomie et sens des responsabilités",
+    "Adaptation",
+    "Dynamisme",
+    "Disponibilité",
+    "Esprit d'équipe",
+    "Esprit d'initiative",
+    "Esprit de négociation",
+    "Sens des relations humaines",
+    "Communication"
+  ],
+  "specialCommitments": "Poste soumis à astreintes",
+  "title": "Infirmier en pratique avancée",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": "Temps plein avec astreintes",
+  "champs_open_data": 6,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
