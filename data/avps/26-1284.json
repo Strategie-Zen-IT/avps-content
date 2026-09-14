@@ -1,0 +1,182 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "SECRETARIAT GENERAL",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaire Général",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Secrétariat Général",
+      "Conseil municipal",
+      "Police municipale",
+      "Services de la Ville",
+      "Assureur de la Ville",
+      "Conseils extérieurs"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "susceptible d'être vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Large autonomie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953460.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le secrétariat général est chargé, avec l'équipe politique, de la mise en œuvre des projets de la commune. Il pilote l'organisation communale et ses services en cohérence avec les orientations préalablement définies. Le ou la juriste affectée au secrétariat général assiste le secrétariat général et assure conseil et expertise juridique.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1284",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Juriste",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Païta"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Mairie de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12 route de la Mairie",
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "35.21.24",
+    "email": "recrutement@ville-paita.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Formation juridique supérieure MASTER exigée (BAC +5 souhaité) dans le domaine concerné pour le recrutement sur titre s’agissant d’un métier pénurique",
+      "Une expérience en qualité du juriste au sein d’une collectivité serait appréciée",
+      "Connaissance de l'organisation politique et administrative de la Nouvelle-Calédonie",
+      "Parfaite connaissance du cadre réglementaire du fonctionnement des communes",
+      "Connaissance en matière de droit administratif (actes et contrats administratifs, services publics, police administrative, responsabilité de la puissance publique, fonction publique, domaine public,…), de droit de l’urbanisme, de droit du contentieux administratif et de droit électoral",
+      "Notions en matière de droit privé (état des personnes, droit de la famille, droit du travail, le droit des obligations et des biens et droit de la vente immobilière)",
+      "Maîtrise de l’outil bureautique"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Secrétariat Général",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience en qualité du juriste au sein d’une collectivité serait appréciée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Païta"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12 route de la Mairie",
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Ingénierie juridique"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "conseiller juridique",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1901",
+      "name": "Défense et conseil juridique"
+    }
+  },
+  "responsibilities": [
+    "Assister le secrétariat général dans la constitution de dossiers ou la réalisation d’études",
+    "Participer à la préparation des commissions et du conseil municipal",
+    "Assurer une expertise et un conseil juridique (élaboration des actes de la commune, rédaction d’avis et de notes …)",
+    "Assurer le pré-contrôle de légalité des actes de la commune",
+    "Instruire les contentieux directement ou en lien avec les conseils extérieurs",
+    "Assurer une veille juridique",
+    "Gérer les contrats d’assurance et les sinistres en lien avec les services et l’assureur de la Ville",
+    "Intervient en support de la police municipale pour les affaires générales (autorisation d’occupation temporaire du domaine public, marchands ambulants, enseignes publicitaires, débits de boissons, taxis…)",
+    "Assurer la fonction de de délégué à la protection des données au sein de la commune",
+    "Assurer la gestion de la documentation (gestion administrative et financière, conservation et valorisation, diffusion…)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise de l’analyse et de la rédaction juridique et administrative",
+    "Capacité à rechercher des textes ou informations juridiques",
+    "Maîtrise des bases de données juridiques",
+    "Capacité à réaliser des études complexes",
+    "Capacités rédactionnelles avérées",
+    "Capacité à s’adapter à la multiplicité des tâches",
+    "Rigueur et méthode",
+    "Sens de l’organisation",
+    "Esprit d’analyse et de synthèse",
+    "Sens du contact et de la diplomatie",
+    "Esprit d’initiative",
+    "Polyvalence",
+    "Disponibilité"
+  ],
+  "specialCommitments": "Respect des obligations de discrétion et de confidentialité",
+  "title": "Juriste",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": "Horaires irréguliers, avec amplitude variable en fonction des obligations du service public",
+  "champs_open_data": 7,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "SECRETARIAT GENERAL",
+  "direction_source": "document",
+  "famille_respnc": "Ingénierie juridique",
+  "famille_source": "respnc",
+  "famille_score": 0.846,
+  "dossier": "ingenierie-juridique"
+}
