@@ -1,0 +1,171 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif",
+    "direction": "EPIFE",
+    "uniteOrganisationnelle": "Pôle Accueil, information, orientation",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur de l'établissement",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957154.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Les agents placés sous l'autorité du directeur de l'établissement intégreront le pôle Accueil, information, orientation et se verront confier des missions d'accueil, d'information et d'orientation du public.",
+  "disambiguatingDescription": "Poste de chargé d'accueil à mi-temps basé à Lifou.",
+  "identifier": "26-1314",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé d'accueil",
+  "owner": {
+    "@type": "Organization",
+    "name": "Etablissement provincial de l'Insertion, de la Formation et de l'Emploi (EPIFE)"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "EPIFE",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Lifou",
+      "addressRegion": "Province des Îles Loyauté",
+      "addressCountry": "NC",
+      "province": "province des îles Loyauté"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "45.54.16",
+    "email": "e-pamani@epefip.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Baccalauréat",
+    "competencyRequired": [
+      "Maîtrise du contexte social, culturel et économique de la PIL",
+      "Connaissance du droit du travail en Nouvelle-Calédonie",
+      "Maîtrise de l'organisation politique et administrative de la Nouvelle-Calédonie",
+      "Maîtrise des dispositifs d'aide et d'intervention en Province des Iles Loyauté",
+      "Connaissance du cadre réglementaire et politique de l'emploi, de la formation, et de l'insertion professionnelle de la Nouvelle-Calédonie et de la PIL",
+      "Connaissance des règles de confidentialité et de discrétion professionnelle"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "PART_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Etablissement provincial de l'Insertion, de la Formation et de l'Emploi (EPIFE)",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "2 années d'expérience professionnelle en qualité de chargé d'accueil",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Etablissement provincial de l'Insertion, de la Formation et de l'Emploi (EPIFE)"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "EPIFE",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Lifou",
+      "addressRegion": "Province des Îles Loyauté",
+      "addressCountry": "NC",
+      "province": "province des îles Loyauté"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Titulaire du permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé d’accueil à mi-temps",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Accueil et renseignement"
+    }
+  },
+  "responsibilities": [
+    "Accueillir, informer et orienter le public",
+    "Identifier la demande et apporter un premier niveau d'information",
+    "Orienter les demandes vers les pôles compétents",
+    "Réceptionner les appels téléphoniques et orienter vers les différents interlocuteurs",
+    "Animer et organiser un espace d'accueil et d'informations",
+    "Mettre à jour et gérer le calendrier des conseillers en insertion professionnelle",
+    "Effectuer des tâches administratives de base",
+    "Actualiser les affichages, les offres d'emplois, les informations mises à la disposition du public",
+    "Mettre à jour les fichiers demandeurs d'emplois",
+    "Diffusion de la documentation",
+    "Remonter l'information au service concerné",
+    "Mettre à jour les tableaux et documents de suivis",
+    "Participer à la préparation des réunions"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité de conseiller un interlocuteur dans des démarches administratives",
+    "Maîtrise parfaite de l'outil informatique (Logiciel Excel, Word, Outlook, Powerpoint, et Internet)",
+    "Gérer les éventuelles situations conflictuelles",
+    "Qualité rédactionnelle (Rapport, notes de synthèse administrative)",
+    "Sens du travail en équipe",
+    "Rédiger des documents administratifs",
+    "Veille informatique",
+    "Règles et consignes de sécurité",
+    "Bonne élocution et présentation",
+    "Capacité d'écoute et de discernement",
+    "Rigueur, méthode et efficacité",
+    "Sociabilité et aptitude au travail en équipe",
+    "Disponibilité et mobilité",
+    "Ponctualité et respect des horaires",
+    "Sens de l'organisation et des relations humaines",
+    "Impartialité et objectivité",
+    "Confidentialité"
+  ],
+  "specialCommitments": null,
+  "title": "Chargé d'accueil",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": "Mi-temps",
+  "champs_open_data": 6,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "EPIFE",
+  "direction_source": "document",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.873,
+  "dossier": "administration-generale"
+}
