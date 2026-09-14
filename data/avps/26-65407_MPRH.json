@@ -1,0 +1,181 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Cadre socio-éducatif",
+    "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
+    "uniteOrganisationnelle": "Etablissement de placement éducatif - foyer d'action éducative de Nouville",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Magistrats",
+      "Services de la direction",
+      "Partenaires institutionnels et associatifs"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Titulaire du permis de conduire B."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Etablissement de placement éducatif - foyer d'action éducative de Nouville"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Jeenah Case, directrice adjointe par intérim"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953800.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous l'autorité du chef de service, le chef de service éducatif assure l'encadrement, l'animation et la coordination de l'équipe pluridisciplinaire de l'UPAD. Il veille à la mise en œuvre des missions de protection judiciaire de l'enfance et de la jeunesse, dans le respect des décisions judiciaires et des orientations institutionnelles.",
+  "disambiguatingDescription": null,
+  "identifier": "26-65407/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de service éducatif - UPAD",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "23.25.84",
+    "email": "jeenah.case@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "CAFERUIS, CAFDES ou validation de la formation de responsable d'unité éducative de la PJJ",
+    "competencyRequired": [
+      "Être titulaire du CAFERUIS, du CAFDES ou de la validation de la formation de responsable d'unité éducative de la PJJ",
+      "Avoir une bonne connaissance de la société néo-calédonienne",
+      "Disposer d'une connaissance du réseau partenarial social de la Nouvelle-Calédonie."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La Direction de la Protection Judiciaire de l'Enfance et de la Jeunesse (DPJEJ) a notamment pour mission de prévenir et de lutter contre la délinquance des mineurs. À ce titre, elle met en œuvre les orientations de la Nouvelle-Calédonie en matière de protection judiciaire de l'enfance et de la jeunesse et veille à répondre aux besoins liés à l'instruction et à l'exécution des décisions judiciaires concernant les mineurs qui lui sont confiés.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Etablissement de placement éducatif - foyer d'action éducative de Nouville"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Informations salaire disponibles à l'adresse : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Etablissement de placement éducatif - foyer d'action éducative de Nouville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Action sociale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable socio éducatif",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1302",
+      "name": "Educateur chef de service socioéducatif"
+    }
+  },
+  "responsibilities": [
+    "À ce titre, il est chargé de :",
+    "Organiser et coordonner l'activité du service, en garantissant la continuité et la qualité de la prise en charge des mineurs confiés",
+    "Encadrer, accompagner et soutenir les professionnels dans l'exercice de leurs missions",
+    "Veiller à l'élaboration, au suivi et à l'évaluation des projets éducatifs et des modalités d'accompagnement",
+    "Assurer le lien avec les magistrats, les services de la direction et les partenaires institutionnels et associatifs",
+    "Participer à la réflexion institutionnelle, à l'évolution des pratiques professionnelles et à la mise en œuvre des projets de service",
+    "Contribuer à la gestion administrative, organisationnelle et au suivi des moyens alloués au service",
+    "Veiller au respect du cadre réglementaire, des procédures, de la déontologie et des obligations liées à la protection judiciaire de l'enfance et de la jeunesse.",
+    "Par délégation, le chef de service éducatif représente la direction auprès des différentes instances partenariales",
+    "En l'absence du chef de service, il assure, par délégation, la continuité du fonctionnement du service ainsi que la continuité de l'accompagnement éducatif et pédagogique des mineurs suivis",
+    "Il contribue à l'accueil et à l'intégration des nouveaux professionnels en organisant leur accompagnement, notamment par la mise en place de périodes de tuilage, un soutien dans la prise en charge des premières mesures et des temps réguliers d'échange et de suivi."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Savoir réagir avec pertinence face aux situations d'urgence",
+    "Animer et encadrer une équipe pédagogique",
+    "Faire preuve d'autorité et de leadership dans l'exercice des fonctions",
+    "Maîtriser l'animation de réunions ainsi que la dynamisation et la mobilisation des équipes",
+    "Disposer de capacités de synthèse et d'une écoute active.",
+    "Faire preuve de sens du travail en équipe éducative et pluridisciplinaire",
+    "Respecter les principes de déontologie et de discrétion professionnelle",
+    "Contribuer à la dynamisation et à la mobilisation des équipes",
+    "Faire preuve de disponibilité dans l'exercice des fonctions."
+  ],
+  "specialCommitments": "- Titulaire du permis de conduire B.",
+  "title": "Chef de service éducatif - UPAD",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": null,
+  "champs_open_data": 28,
+  "employeur_sigle": "DPJEJ",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
+  "direction_source": "source",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "action-sociale"
+}
