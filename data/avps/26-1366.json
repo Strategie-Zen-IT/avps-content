@@ -1,0 +1,149 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché d'administration générale",
+    "direction": "DIRECTION DE LA POLICE MUNICIPALE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 222,
+    "superieurHierarchique": "Secrétaire général",
+    "placeOrganigramme": "Sous la responsabilité directe du Secrétaire général",
+    "relationsFonctionnelles": [
+      "Secrétariat général",
+      "Élus",
+      "Procureur de la République"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956376.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placée sous l'autorité directe du Secrétaire général en charge du pôle sécurité, la direction de la police municipale a pour mission générale d'assurer, en tout temps et sur l'ensemble du territoire communal, le bon ordre, la sûreté, la sécurité et la salubrité publique. Elle agit également dans le cadre de ses compétences judiciaires, sous le contrôle du procureur de la République, dans la lutte contre la délinquance et l'insécurité routière. La direction de la police municipale comprend le pôle opérationnel qui est composé de cinq unités, une de coordination, quatre de voie publique et le service coordination administrative et financière.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1366",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "1 directeur de police municipale",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.28.26",
+    "email": "christine.bahari@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3",
+    "competencyRequired": [
+      "Connaissance de l'environnement territorial, les enjeux, les évolutions et le cadre réglementaire des politiques publiques de sécurité",
+      "Connaissance du cadre réglementaire en vigueur dans le domaine (droit pénal et administratif, cadre réglementaire de la vidéoprotection, droits et obligations des fonctionnaires dépositaires de l'autorité publique, doctrine d'emploi de la police municipale, etc.)"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle significative sur un poste de direction en service de police",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de police",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16 rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Dès que possible",
+  "occupationalCategory": [
+    "Prévention et sécurité"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Directeur de police municipale",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2501",
+      "name": "Direction de la sécurité publique"
+    }
+  },
+  "responsibilities": [
+    "Contribuer à la définition des orientations stratégiques de la direction de la police municipale",
+    "Assister et conseiller les élus et le secrétariat général en matière de prévention et de sécurité",
+    "Conduire les projets stratégiques de la direction",
+    "Organiser et mettre en œuvre la politique communale de sécurité et de lutte contre la délinquance",
+    "Commander et coordonner les interventions de police municipale",
+    "Assurer la responsabilité de la gestion budgétaire et administrative de la direction",
+    "Veiller au respect des bonnes pratiques professionnelles et des cadres juridiques et déontologiques",
+    "Assurer la veille réglementaire relative au cadre d'emploi de la police municipale",
+    "Développer et suivre les partenariats institutionnels"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Qualités relationnelles",
+    "Qualités managériales",
+    "Adaptation dans un environnement multiculturel",
+    "Leadership",
+    "Aptitude au commandement",
+    "Aptitude à la communication",
+    "Pilotage et conduite de projets transversaux",
+    "Pilotage et conduite de projets participatifs",
+    "Maîtrise des méthodes d'analyses et de diagnostics",
+    "Capacités rédactionnelles",
+    "Sens de la communication",
+    "Concertation",
+    "Négociation",
+    "Organisation",
+    "Rigueur",
+    "Discrétion",
+    "Capacité d'analyse",
+    "Capacité d'anticipation",
+    "Réactivité",
+    "Grande disponibilité"
+  ],
+  "specialCommitments": null,
+  "title": "Directeur de police municipale",
+  "totalJobOpenings": 5,
+  "validThrough": "2026-10-02",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "DIRECTION DE LA POLICE MUNICIPALE",
+  "direction_source": "document",
+  "famille_respnc": "Prévention et sécurité",
+  "famille_source": "respnc",
+  "famille_score": 0.888,
+  "dossier": "prevention-et-securite"
+}
