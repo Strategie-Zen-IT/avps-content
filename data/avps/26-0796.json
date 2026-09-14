@@ -1,0 +1,182 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "CMS de OUEGOA",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du Bureau de Proximité de Soins",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Chef du Bureau de Proximité de Soins",
+      "Médecin",
+      "Spécialistes",
+      "Associations",
+      "Institutionnels"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Ce poste est soumis à mobilité de secteur. Possibilité d'astreintes de nuit et/ou de week-end."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953386.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La Direction des Affaires Sanitaires, Sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins. Le secteur du Grand Nord regroupe 4 CMS : Ouégoa, Pouébo, Bélép, Poum.",
+  "disambiguatingDescription": null,
+  "identifier": "26-0796",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Infirmier(e) en soins généraux à Ouégoa",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-nord.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Province-Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": null,
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "96.61.84",
+    "email": "drh-emplois@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-05-22",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'Etat d'Infirmier",
+    "competencyRequired": [
+      "Diplôme d'état infirmier exigé",
+      "Expérience du travail en poste isolé",
+      "Expérience des urgences"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale 5 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "CMS de OUEGOA",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience du travail en poste isolé et expérience des urgences exigées.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "CMS de OUEGOA",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Ouégoa",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Infirmier en soins généraux",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1402",
+      "name": "Infirmier / Infirmière en soins généraux"
+    }
+  },
+  "responsibilities": [
+    "Dispenser des soins de nature préventive, curative ou palliative, visant à promouvoir, maintenir et restaurer la santé",
+    "Contribuer à l'éducation, à la santé et à l'accompagnement des personnes au CMS et/ou à domicile dans leur parcours de soins en lien avec leur projet de vie et en collaboration avec les différents professionnels",
+    "Accueillir les patients dans le cadre de la consultation ou de l'astreinte, faire un diagnostic infirmier, évaluer, prioriser les besoins et l'urgence",
+    "Assurer les soins infirmiers courants, curatifs et de continuité de vie",
+    "Contribuer à la téléconsultation en l'absence et/ou en renfort du médecin en présentiel",
+    "Préparer le transfert éventuel vers le professionnel concerné (biométrie, examens paracliniques et assistante technique)",
+    "Accompagner le malade en EVASAN ou en situation d'urgence",
+    "Dispenser les conseils de base d'hygiène de vie et de prévention, participer à l'éducation thérapeutique des patients chroniques",
+    "Assurer la continuité du suivi des références des pathologies prévalentes",
+    "Assurer la continuité des soins des patients chroniques à domicile",
+    "Organiser les programmes de prévention (PMI, santé scolaire...) ou les dispositifs d'accès aux soins (visites en tribus, à domicile, vacations de spécialistes, dépistages, médecine du travail...)",
+    "Participer à l'évaluation et à la restitution de l'activité de soins (cotation et codification, bilan d'activité des actions de prévention)",
+    "Assurer l'encadrement des étudiants en soins infirmiers",
+    "Participer aux actions de promotion de la santé, aux initiatives de chantier thérapeutique"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des logiciels de bureautique (Excel et Word)",
+    "Connaissance des outils informatiques (Dossier Patient Informatisé et Epitarif)",
+    "Appétence pour la télémédecine",
+    "Disponible et mobile",
+    "Capacité d'adaptation",
+    "Travailler en équipe et en autonomie",
+    "Empathie",
+    "Organisé",
+    "Sens de l'anticipation",
+    "Respecter la confidentialité des informations et le secret médical",
+    "Initiative et rigueur",
+    "Respect de la hiérarchie et capacité à rendre compte",
+    "Sens des responsabilités",
+    "Relations avec le public",
+    "Savoir intégrer et animer un réseau",
+    "Prendre en compte les spécificités culturelles de la population"
+  ],
+  "specialCommitments": "Astreintes de nuit et/ou de week-end",
+  "title": "INFIRMIER EN SOINS GENERAUX",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": "Astreintes possibles",
+  "champs_open_data": 6,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 0.855,
+  "dossier": "politique-de-sante-publique"
+}
