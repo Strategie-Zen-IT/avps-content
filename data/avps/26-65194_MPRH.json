@@ -1,0 +1,221 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien",
+    "direction": "DIRECTION DES ACHATS, DU PATRIMOINE ET DES MOYENS",
+    "uniteOrganisationnelle": "Bureau exploitation, maintenance et énergie (BEME)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Services occupants",
+      "Fournisseurs",
+      "Clients"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Budget annuel géré",
+        "value": "environ 500 millions sur les deux sections investissement et fonctionnement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service exploitation, maintenance et moyens"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Lauren CAMPOT"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955406.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité du chef du service, le bureau exploitation, maintenance et énergie (BEME) est composé des bâtiments administratifs, des logements administratifs, des équipements sportifs territoriaux. Le budget annuel géré s'élève à environ 500 millions sur les deux sections investissement et fonctionnement.",
+  "disambiguatingDescription": null,
+  "identifier": "26-65194/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Techncien en bâtiment",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Hôtel de province",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "79.06.09",
+    "email": "laurent.campot@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+2",
+    "competencyRequired": [
+      "Être titulaire d'un bac+2 bâtiment ou génie civil",
+      "Avoir de bonnes connaissances des pathologies du bâtiment et notamment dans le domaine de l'entretien, de la maintenance (préventif & curatif)",
+      "Connaître les principes de la réglementation en matière de commandes publiques (bon de commande, contrats,  marchés publics)",
+      "Connaître les techniques de chiffrage (métré, quantitatif, détail estimatif, ratio)",
+      "Être titulaire du permis B",
+      "Word/Excel/Power point etc",
+      "Google Suite."
+    ]
+  },
+  "eligibilityToWorkRequirement": "- Technicien 2ème grade domaine équipement : au moins égale à 10 ans.",
+  "employerOverview": "La direction des achats, du patrimoine et des moyens (DAPM) est une direction support au gouvernement de la Nouvelle-Calédonie, de ses directions et de ses établissements publics.\nElle définit la politique d'achats et la stratégie immobilière de la collectivité. Elle assure la réalisation des constructions publiques, la gestion et l'entretien du patrimoine bâti et des moyens généraux (parc de véhicules,\ngestion centralisée du courrier, gestion du mobilier, prestations d'imprimerie).\nElle est également compétente en matière de réglementation et d'assistance des marchés publics.\nElle est également compétente en matière des normes et assurances de la construction, des travaux publics et du génie civil de Nouvelle-Calédonie.\n\nLe service exploitation, maintenance et moyens est un service support des directions et services du gouvernement de la Nouvelle-Calédonie. Il est composé d'une trentaine de personnes, répartis en 4 bureaux : le bureau exploitation, maintenance et énergie, le bureau des travaux en régie, le bureau de la gestion du parc véhicules et le bureau des vaguemestres.\n\nLe bureau exploitation, maintenance et énergie (BEME) a pour mission de valoriser et d'optimiser le patrimoine bâti et non bâti de la collectivité en lien avec les objectifs du schéma directeur immobilier. Il met en œuvre la stratégie de maîtrise de l'énergie et de développement d'énergies renouvelables en assurant la cohérence entre conception énergétique des équipements, exploitations des installations climatiques et gestion des dépenses d'énergie. Il veille à la conformité réglementaire du patrimoine et assure les audits requis.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service exploitation, maintenance et moyens",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/techniquenc.pdf",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-09-01",
+  "occupationalCategory": [
+    "Patrimoine bâti"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Technicien d'études de bâtiment",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1205",
+      "name": "Technicien des méthodes BTP, d'études BTP, en acoustique BTP, études de prix BTP"
+    }
+  },
+  "responsibilities": [
+    "Sous la responsabilité du chef de bureau, le technicien en bâtiment a pour activités principales d'assurer l'entretien du patrimoine bâti et non bâti, en location ou en propriété.",
+    "Son rôle peut varier, en fonction des situations fixées ou du plan de charge, en qualité de Maître d'ouvrage ou de Maître d'œuvre, est de répondre au programme planifié, dans les délais impartis et pour un montant maîtrisé.",
+    "Il est amené à assurer l'adaptation du bâti aux besoins des services et à en préserver la valeur économique et technique.",
+    "La gestion des logements et des infrastructures sportives est également une partie importante de la mission.",
+    "Il assure notamment les missions suivantes :",
+    "caractériser le patrimoine : inventaires physiques, ERP, ERT, coût d'exploitation",
+    "mettre en œuvre la politique d'exploitation et de maintenance : gestion prévisionnelle de la maintenance, actions préventives et curatives, passation des contrats et marchés (services et travaux de maintenance)",
+    "prendre en compte les besoins : relations avec les services occupants et notamment",
+    "planifier et coordonner les différents travaux d'aménagement, de sécurité et de maintenance",
+    "suivre leur exécution",
+    "communiquer avec les demandeurs à toutes les phases de l'intervention.",
+    "Dans le cadre de ses fonctions, le technicien :",
+    "participe à la préparation du budget en apportant les éléments prévisionnels des dépenses et des besoins, des opérations dont il a la charge",
+    "informe la clientèle de ses interventions et assure une relation privilégiée",
+    "lors de travaux en régie, il s'assure d'effectuer les commandes auprès des fournisseurs et d'en assurer le suivi.",
+    "Le technicien contribue aux actions mises en œuvre pour structurer le bureau et améliorer la qualité du service."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Qualités rédactionnelles (courriers administratifs, notes, analyses,...)",
+    "Analyser et recueillir les besoins des services",
+    "Montage de dossiers de consultation (DCE, Contrats,...)",
+    "Maîtriser l'expression écrite et orale",
+    "Assurer la maintenance et la contrôler",
+    "Gérer les priorités et hiérarchiser les urgences",
+    "Élaborer des tableaux de bord de suivi",
+    "Écouter et coordonner les relations avec les clients et la hiérarchie",
+    "Rendre compte des actions mises en œuvre",
+    "Connaître les procédures administratives de la collectivité",
+    "Aisance informatique.",
+    "Sens du service public",
+    "strict respect de la hiérarchie",
+    "Engagement et respect des consignes",
+    "Réactivité et sens de l'initiative",
+    "Méthodes et sens de l'organisation",
+    "Sens de l'écoute",
+    "Bon relationnel et diplomatie",
+    "Goût du travail en équipe",
+    "Discrétion",
+    "Autonomie",
+    "Rigueur, ponctualité."
+  ],
+  "specialCommitments": null,
+  "title": "Technicien en bâtiment",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 30,
+  "employeur_sigle": "DAPM",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES ACHATS, DU PATRIMOINE ET DES MOYENS",
+  "direction_source": "source",
+  "famille_respnc": "Patrimoine bâti",
+  "famille_source": "respnc",
+  "famille_score": 0.998,
+  "dossier": "patrimoine-bati"
+}
