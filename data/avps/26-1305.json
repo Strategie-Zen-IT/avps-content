@@ -1,0 +1,168 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 1-Sans diplôme",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Brigade de surveillance provinciale",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chargé de mission auprès du secrétariat général",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Secrétariat Général",
+      "Brigade de surveillance provinciale"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Non spécifiée"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Horaires flexibles (journée et nuit), travail en extérieur, bonne condition physique et capacité à travailler en horaires décalés"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953310.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La province Sud a connu de violentes exactions qui ont impacté de nombreux bâtiments publics dont plusieurs relèvent de la province Sud. De plus, la province Sud est compétente en matière de développement économique et veille à permettre la reprise économique suite à ces mêmes exactions. Jouant un rôle crucial dans la détection des risques et la prévention des incidents, l'agent de gardiennage et de surveillance, rattaché au secrétariat général de la province Sud, et au sein de la brigade de surveillance provinciale, est chargé de la vigilance et de la protection des espaces publics ou des installations notamment celles provinciales ou des zones d’activités. Il effectue sa mission principalement par des observations systématiques et des interventions proactives. Ses tâches relèvent de la surveillance, du contrôle d’accès, de la vérification de la bonne tenue des équipements notamment provinciaux en matière de sécurité active et passive et de l’assistance aux usagers en cas de besoin.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1305",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Agent de gardiennage et de surveillance",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Centre administratif de la province Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6 route des artifices",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.31.90",
+    "email": "william.brevi@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Certificat de formation en sécurité ou qualification similaire",
+      "Formation aux gestes de premiers secours et aux techniques de prévention des risques",
+      "Notions en self-défense"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Brigade de surveillance provinciale",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience dans la surveillance, la sécurité ou un poste similaire appréciée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Secrétariat Général",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6 route des artifices",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-23",
+  "occupationalCategory": [
+    "Prévention et sécurité"
+  ],
+  "physicalRequirement": "Bonne condition physique et capacité à travailler en extérieur et en horaires décalés",
+  "qualifications": "Permis B exigé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Agent de gardiennage et de surveillance - veilleur de nuit",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2503",
+      "name": "Sécurité et surveillance privée"
+    }
+  },
+  "responsibilities": [
+    "Surveillance des zones définies (prévention des intrusions, dégradations et vols)",
+    "Détection des comportements suspects",
+    "Intervention lors d’incidents et l’alerte subséquente aux autorités et/ou services compétents si nécessaire",
+    "Rédaction de rapports d’intervention et la tenue des registres de suivi",
+    "Effectuer des rondes régulières ou des stations fixes pour garantir la sécurité des lieux"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": "Sens de l'observation",
+  "skills": [
+    "Maîtrise des procédures de sécurité",
+    "Capacité de gestion de situations d’urgence et d’incidents, pouvant engendrer une pression importante",
+    "Capacité à rendre compte",
+    "Savoir analyser rapidement une situation, donner les bonnes indications et intervenir en sécurité",
+    "Rigueur",
+    "Réactivité et sens du contact",
+    "Qualités relationnelles",
+    "Qualités rédactionnelles",
+    "Sens du travail en équipe",
+    "Sens de la communication",
+    "Disponibilité",
+    "Leadership",
+    "Discrétion et devoir de réserve"
+  ],
+  "specialCommitments": null,
+  "title": "Agent de gardiennage et de surveillance",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-09-25",
+  "workHours": "Horaires flexibles (journée et nuit), horaires décalés",
+  "champs_open_data": 8,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "famille_respnc": "Entretien, surveillance et logistique",
+  "famille_source": "respnc",
+  "famille_score": 0.916,
+  "dossier": "entretien-surveillance-et-logistique"
+}
