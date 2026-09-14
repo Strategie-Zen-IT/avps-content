@@ -18,13 +18,15 @@
   {{ $webp := .Process "webp q80" }}
 
   <div class="avp-dynamic-banner">
-    <img src="{{ $webp.RelPermalink }}" alt="Illustration du poste : {{ $.Page.Title }}">
+    <img src="{{ $webp.RelPermalink }}" alt="Illustration du poste : {{ $.Page.Title }}" onerror="this.closest('.avp-dynamic-banner').remove()">
   </div>
 
   {{ else }}
   {{/* 🔄 FALLBACK DE SÉCURITÉ : Si l'image n'est pas encore déplacée dans assets, on l'affiche normalement */}}
   <div class="avp-dynamic-banner">
-    <img src="{{ .Page.Params.featured_image | relURL }}" alt="Illustration du poste : {{ $.Page.Title }}">
+    {{/* onerror : une bannière absente du bucket (quota du modèle d'image au moment de la
+         publication) ne doit pas laisser un cadre vide — on retire le bloc. */}}
+    <img src="{{ .Page.Params.featured_image | relURL }}" alt="Illustration du poste : {{ $.Page.Title }}" loading="lazy" onerror="this.closest('.avp-dynamic-banner').remove()">
   </div>
   {{ end }}
   {{ end }}

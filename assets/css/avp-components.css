@@ -303,3 +303,278 @@
 @media (max-width: 600px) {
   .avp-hero { padding: 1.4rem 1.1rem; }
 }
+
+/* ==========================================================================
+   Composants sans règle depuis la suppression de la variante d'origine :
+   fiche (en-tête, tampon QR, tableau, badges), statistiques, cartes, taxonomies.
+   ========================================================================== */
+
+/* Titres : le thème force les H1 en capitales, ce qui ne convient pas à un serif. */
+#R-body h1, #R-body-inner h1, #R-sidebar h1 {
+  text-transform: none;
+}
+
+/* --- En-tête de fiche --- */
+.avp-header-wrapper {
+  position: relative;
+}
+.avp-banner-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  margin: 0 0 0.75rem;
+}
+.avp-dynamic-banner {
+  margin: 0 0 1.25rem;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  aspect-ratio: 16 / 9;
+  background: var(--CODE-BLOCK-BG-color, #f7f3eb);
+}
+.avp-dynamic-banner img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.avp-stamp-qrcode {
+  float: right;
+  margin: 0 0 1rem 1.25rem;
+  padding: 0.6rem 0.75rem 0.5rem;
+  border: 2px dashed var(--INTERNAL-PRIMARY-color, #0F6E56);
+  border-radius: 10px;
+  text-align: center;
+  transform: rotate(1.5deg);
+  background: var(--INTERNAL-MAIN-BG-color, #fffdf9);
+}
+.avp-qrcode-text {
+  margin: 0 0 0.35rem;
+  font-family: var(--INTERNAL-MAIN-TITLES-font, Georgia, serif);
+  font-size: 0.75rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--INTERNAL-PRIMARY-color, #0F6E56);
+}
+.avp-qrcode-zone {
+  width: 110px;
+  height: 110px;
+  margin: 0 auto;
+}
+.avp-qrcode-zone img, .avp-qrcode-zone canvas {
+  display: block;
+  margin: 0 auto;
+}
+.avp-info-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  border-radius: 12px;
+  overflow: hidden;
+  margin: 1rem 0 1.5rem;
+  clear: both;
+}
+.avp-info-table th,
+.avp-info-table td {
+  padding: 0.6rem 0.9rem;
+  border-bottom: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  vertical-align: top;
+}
+.avp-info-table tr:last-child th,
+.avp-info-table tr:last-child td {
+  border-bottom: 0;
+}
+.avp-info-table th[scope="row"] {
+  width: 34%;
+  text-align: left;
+  font-weight: 600;
+  background: color-mix(in srgb, var(--INTERNAL-PRIMARY-color, #0F6E56) 7%, transparent);
+}
+.avp-pdf-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 999px;
+  background: var(--INTERNAL-PRIMARY-color, #0F6E56);
+  color: #fff !important;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+.avp-pdf-link:hover {
+  background: var(--INTERNAL-PRIMARY-HOVER-color, #0A4F3E);
+}
+
+/* --- Badges : urgence de clôture, famille --- */
+.avp-urgency-badge {
+  display: inline-block;
+  min-height: 1.6rem;
+}
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.7rem;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #fff;
+  background: var(--INTERNAL-PRIMARY-color, #0F6E56);
+}
+.badge-info     { background: var(--INTERNAL-PRIMARY-color, #0F6E56); }
+.badge-warning  { background: #B8862B; }
+.badge-critical { background: #B23A3A; }
+.badge-expired  { background: #6B7280; }
+.famille-badge {
+  display: inline-block;
+  padding: 0.2rem 0.65rem;
+  margin: 0.1rem 0.25rem 0.1rem 0;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #fff;
+  background: var(--couleur, #6B7280);
+}
+
+/* --- Cartes Leaflet --- */
+.avp-map-container {
+  width: 100%;
+  min-height: 350px;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  z-index: 0;
+}
+.avp-map-popup {
+  font-family: var(--INTERNAL-MAIN-font, system-ui, sans-serif);
+}
+.avp-popup-title {
+  margin: 0 0 0.35rem;
+  font-size: 0.95rem;
+  line-height: 1.3;
+}
+.avp-popup-title a {
+  color: var(--INTERNAL-PRIMARY-color, #0F6E56);
+}
+.avp-popup-meta {
+  margin: 0;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: #444;
+}
+
+/* --- Statistiques --- */
+.avp-stats-tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 0.75rem;
+  margin: 1.25rem 0 2rem;
+}
+.avp-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 0.9rem 1rem;
+  border-radius: 12px;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  background: color-mix(in srgb, var(--INTERNAL-PRIMARY-color, #0F6E56) 5%, var(--INTERNAL-MAIN-BG-color, #fffdf9));
+}
+.avp-stat-sec {
+  background: transparent;
+  opacity: 0.85;
+}
+.avp-stat-n {
+  font-family: var(--INTERNAL-MAIN-TITLES-font, Georgia, serif);
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--INTERNAL-PRIMARY-color, #0F6E56);
+}
+.avp-stat-n.avp-trend-up   { color: #1F7A3E; }
+.avp-stat-n.avp-trend-down { color: #B23A3A; }
+.avp-stat-n.avp-trend-flat { color: #6B7280; }
+.avp-stat-l {
+  font-size: 0.82rem;
+  opacity: 0.85;
+}
+.avp-stat-l small {
+  opacity: 0.8;
+}
+.avp-stats-note {
+  font-size: 0.9rem;
+  opacity: 0.85;
+  margin: -0.25rem 0 0.75rem;
+}
+.avp-chart-box {
+  position: relative;
+  width: 100%;
+  margin: 0 0 2rem;
+  padding: 0.75rem;
+  border-radius: 12px;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  background: var(--INTERNAL-MAIN-BG-color, #fffdf9);
+}
+.avp-chart-box canvas {
+  width: 100% !important;
+}
+.avp-stats-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem;
+}
+.avp-stats-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.45rem 0;
+  border-bottom: 1px dashed var(--CARD-BORDER-color, #e2dacb);
+}
+.avp-stats-date {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+  opacity: 0.8;
+}
+
+/* --- Pages de taxonomie --- */
+.avp-taxonomy-container h1 {
+  text-transform: none;
+}
+.avp-tag-item-card {
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  background: var(--INTERNAL-MAIN-BG-color, #fffdf9);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+.avp-tag-item-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 22px rgba(15, 110, 86, 0.12);
+}
+
+/* --- Accessibilité : texte réservé aux lecteurs d'écran --- */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* --- Mini QR code des cartes de liste : en haut à droite, hors du flux du texte --- */
+.avp-list-card {
+  padding-right: 100px;
+}
+.avp-card-qrcode-container {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 65px;
+  height: 65px;
+}
+@media (max-width: 600px) {
+  .avp-list-card { padding-right: 1.3rem; }
+  .avp-card-qrcode-container { display: none; }
+}
