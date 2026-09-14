@@ -1,0 +1,146 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 1-Sans diplôme",
+    "direction": "",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaire général, maire et exécutif municipal",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions particulières d'exercice",
+        "value": "Travail en extérieur, généralement sur de petits chantiers. Horaires fixes, avec possibles variations entre l'été et la saison fraîche. Rythme de travail souple en fonction de la saison. Port éventuel d'équipements de sécurité."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955394.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le conducteur d'engins conduit différents types d'engins de chantier.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1272",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chauffeur polyvalent",
+  "owner": {
+    "@type": "Organization",
+    "name": "Commune de Yaté"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Mairie de Yaté",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "BP 4",
+      "addressLocality": "Yaté",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "46.41.16",
+    "email": "dsts-yate@canl.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Autorisations de conduite",
+      "Principes courants de fonctionnement des moteurs et des véhicules",
+      "Notions de mécanique"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Yaté"
+  },
+  "incentiveCompensation": null,
+  "industry": "Travaux publics",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Yaté",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Yaté",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-10-01",
+  "occupationalCategory": [
+    "Ateliers et véhicules"
+  ],
+  "physicalRequirement": "Travail en extérieur",
+  "qualifications": "Tous les permis requis",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chauffeur polyvalent",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1205",
+      "name": "Conduite d'engins de terrassement et de carrière"
+    }
+  },
+  "responsibilities": [
+    "Conduite et manœuvres d'un engin sur la voie publique et sur les chantiers",
+    "Application des règles de sécurité",
+    "Contrôle et maintenance préventive de l'engin",
+    "Participation à la préparation du chantier",
+    "Exécution et contrôle du chantier"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Manœuvrer un engin avec dextérité et précision",
+    "Charger un camion en répartissant la charge",
+    "Rigueur",
+    "Responsabilité dans la conduite des engins",
+    "Détecter les dysfonctionnements de l'engin",
+    "Régler des mécanismes simples",
+    "Contrôler un niveau d'huile, une pression",
+    "Réactivité et rapidité en présence d'un événement soudain"
+  ],
+  "specialCommitments": null,
+  "title": "Chauffeur polyvalent",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-09-18",
+  "workHours": "Horaires fixes, avec possibles variations entre l'été et la saison fraîche",
+  "champs_open_data": 8,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "",
+  "direction_source": "absente",
+  "famille_respnc": "Patrimoine bâti",
+  "famille_source": "respnc",
+  "famille_score": 0.82,
+  "dossier": "patrimoine-bati"
+}
