@@ -1,0 +1,163 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien / technicien",
+    "direction": "DIRECTION DE L'ESPACE PUBLIC",
+    "uniteOrganisationnelle": "Service aménagement de l’espace public",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de section",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Secrétaire général adjoint en charge du pôle aménagement",
+      "Chef de service aménagement de l'espace public",
+      "Chef de section"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi",
+        "value": "Technicien 2ème grade équipement / environnement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955380.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Conducteur d’opérations au sein de la direction de l’espace public de la Mairie de Nouméa.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1289",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Conducteur d'opérations",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.07.13",
+    "email": "fanny.martinez@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Bac+2",
+    "competencyRequired": [
+      "Être titulaire d’un diplôme de niveau 5 (BAC+2) dans le domaine de l’équipement ou de l’environnement",
+      "Connaître la réglementation relative aux marchés publics et aux procédures de commande publique"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Capacité à concevoir et suivre un chantier de VRD, une expérience dans le domaine des VRD et en suivi de chantier est exigée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": null,
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Annexe Ferry",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Conducteur d'opérations",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1205",
+      "name": "Ingénierie et études du BTP"
+    }
+  },
+  "responsibilities": [
+    "Représenter ou assister le maître d'ouvrage sur le plan technique, administratif et financier lors des phases de programmation, conception et réalisation de projets neufs ou de restructuration lourde du patrimoine de la collectivité",
+    "Superviser les études de faisabilité techniques, financières et administratives du projet en fonction de la commande reçue",
+    "Réaliser des esquisses, plans ou schémas de principe aux différents stades d’un projet sur le logiciel AutoCAD",
+    "Quantifier et chiffrer un projet",
+    "Réaliser les pièces techniques (CCTP, BPU, DQE) et administratives nécessaires à la consultation des entreprises",
+    "Analyser les offres des entreprises de travaux",
+    "Coordonner les différentes étapes du projet (conception, construction, réception des ouvrages) et assurer le lien entre les différents intervenants",
+    "Superviser les travaux",
+    "Suivre les projets et les chantiers concernant la voirie et les réseaux divers (réalisation de chaussées, trottoirs, réseaux d'éclairage public, réseaux de feux de circulation et ouvrages de retenue de terre, etc.)",
+    "Réaliser toutes les activités contribuant à la réalisation des missions de la direction et confiées à l'agent par la hiérarchie"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtriser les outils bureautiques (Word/Excel ou Google Docs/Sheets) et AutoCAD",
+    "Vérifier le respect des règles de l’art",
+    "Gérer l’élaboration des dossiers techniques",
+    "Assurer le reporting",
+    "Esprit d’équipe",
+    "Qualités relationnelles",
+    "Intérêt pour les évolutions techniques",
+    "Respect de la confidentialité",
+    "Autonomie",
+    "Rigueur",
+    "Réactivité",
+    "Sens de l’organisation"
+  ],
+  "specialCommitments": null,
+  "title": "Conducteur d’opérations",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "DIRECTION DE L'ESPACE PUBLIC",
+  "direction_source": "document",
+  "famille_respnc": "Patrimoine bâti",
+  "famille_source": "respnc",
+  "famille_score": 0.89,
+  "dossier": "patrimoine-bati"
+}
