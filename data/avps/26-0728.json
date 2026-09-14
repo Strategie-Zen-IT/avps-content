@@ -1,0 +1,169 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Médecin de santé publique",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur adjoint des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Centres médico-sociaux de la Province Nord",
+      "Équipe pluridisciplinaire"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "inférieur à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Date de clôture initialement prévue",
+        "value": "26/06/2026 (reportée)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953390.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La Direction des Affaires sanitaires, Sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. Le service des métiers de soins est rattaché au pôle soins de la direction. Le médecin itinérant ou de téléconsultation, rattaché à la direction, est amené à intervenir dans tous les centres médico-sociaux de la Province Nord au sein d’une équipe pluridisciplinaire (médecins, sage-femmes, assistantes sociales, spécialistes vacataires, psychothérapeutes etc..).",
+  "disambiguatingDescription": null,
+  "identifier": "26-0728",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Médecin (Nouméa)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "DASSPS",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "91.25.97",
+    "email": "dassps-direction@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-05-08",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Doctorat",
+    "competencyRequired": [
+      "maitrise de la médecine générale",
+      "maitrise du droit de la santé",
+      "connaissance du système de protection sociale",
+      "connaissance en santé publique",
+      "connaissance en épidémiologie",
+      "connaissances en gynécologie-obstétrique, pédiatrie, cardiologie, endocrinologie et/ou infectiologie",
+      "expérience du travail en poste isolé",
+      "Diplôme d'état de docteur en médecine ou Diplôme d'études spécialisées en médecine générale ou d'urgence (DESC) ou Capacité de médecine d'urgence (CAMU)"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience professionnelle sur un poste isolé et au contact de populations océaniennes serait appréciée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "DASSPS",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Santé publique soins",
+    "Politique de santé publique"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Médecin",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1402",
+      "name": "Médecine générale et spécialisée"
+    }
+  },
+  "responsibilities": [
+    "Assurer la continuité de l'offre de soin sur Nouméa en présentiel",
+    "Assurer la médecine curative et la médecine préventive des adhérents de l'aide médicale nord",
+    "Gérer les activités administratives comprenant les bilans, rapports et comptes-rendus",
+    "Assurer le contrôle et l'évaluation de l'organisation, de la qualité et de la sécurité des soins",
+    "Assurer la veille sanitaire et sociale"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "maîtrise des logiciels de bureautique (Excel et Word)",
+    "Être disponible et mobile",
+    "Disposer d'une capacité d'adaptation",
+    "Travailler en équipe et en autonomie",
+    "Faire preuve d'empathie",
+    "Être organisé",
+    "Avoir le sens de l'anticipation",
+    "Respecter la confidentialité des informations et le secret médical",
+    "Faire preuve d'initiative et de rigueur",
+    "Respect de la hiérarchie et capacité à rendre compte",
+    "Avoir le sens des responsabilités et des relations avec le public",
+    "Savoir intégrer et animer un réseau",
+    "Prendre en compte les spécificités culturelles de la population dans sa pratique professionnelle"
+  ],
+  "specialCommitments": null,
+  "title": "MEDECIN",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 0.869,
+  "dossier": "politique-de-sante-publique"
+}
