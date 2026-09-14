@@ -1,0 +1,172 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Caporal",
+    "direction": "INCENDIE ET SECOURS",
+    "uniteOrganisationnelle": "Centre de Secours de la Ville de Dumbéa",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de Corps des Sapeurs-Pompiers",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Chefs de cellule",
+      "Chef de garde",
+      "Chef de corps",
+      "Chef de groupe"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Filière/cadre",
+        "value": "Caporal ou Sergent/Non-officiers"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Catégorie",
+        "value": "C"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Contraintes particulières",
+        "value": "Le service incendie de la Ville est un organe fonctionnant 365 jours par an et distribue les secours h24, ainsi les contraintes induisent une grande disponibilité. Le candidat se verra imposer des gardes opérationnelles ou fonctionnelles en weekend, jours fériés, vacances scolaires, ponts, il pourra être sollicité pour toutes demandes de présence supplémentaire sur demande du service."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957654.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Deuxième commune de Nouvelle Calédonie avec ses 35 000 habitants, DUMBEA s'affiche comme une ville d'avenir, dynamique, vivante et multiculturelle dans laquelle il fait bon vivre. Sa richesse est de réunir à la fois un caractère très urbain au sud et plus rural au nord. Ainsi, les activités de secours à personnes se sont diversifiées et multipliées ces dernières années avec la densification des infrastructures au sud, alors que les actions de protection de l'environnement, sont-elles aussi en perpétuelle croissance compte tenu de l'attractivité de la partie nord, avec ses grands espaces vierges et riches en biodiversité, pour l'ensemble des administrés de l'agglomération. Placé sous l'autorité du chef de Corps des Sapeurs-Pompiers de la Ville de Dumbéa qui dirige le Centre de Secours fonctionnant 24h/24 et 365 jours par an. Les sapeurs-pompiers effectuent différents types de missions dont les plus connues restent la lutte contre les incendies de toutes nature, le secours à personnes, les interventions pour catastrophes naturelles (inondations, cyclones...), les divers types de pollutions, la prévention en générale tant en matière d'incendie, d'accidents de la route ou en matière de protection de l'environnement.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1309",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "2 Chefs d'agrès",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Dumbéa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Hôtel de Ville de Dumbéa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "66 Avenue de la Vallée",
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "41.00.13",
+    "email": "bruno.chitussi@ville-dumbea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Catégorie C",
+    "competencyRequired": [
+      "Détenir les UV de chef d'agrès un engin, au sens de la délibération 65 CP",
+      "Détenir les UV de chef d'agrès tous engins, au sens de la délibération 65 CP",
+      "Connaître les équipements, matériels de protection Individuelle, de sauvetage et d'extinction",
+      "Connaître la réglementation (guide national de référence, règlement opérationnel, règlement intérieur, plan d'intervention...)"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre de Secours de la Ville de Dumbéa",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Dumbéa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Sécurité civile et secours",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre de Secours de la Ville de Dumbéa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "66 Avenue de la Vallée",
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Incendie et secours"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "chef d'agrès",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2501",
+      "name": "Sécurité civile et secours"
+    }
+  },
+  "responsibilities": [
+    "Commander un véhicule d'intervention comprenant un équipage et un équipement matériel de secours dans le cadre de la protection des personnes, des biens et de l'environnement",
+    "Rendre compte au chef de garde",
+    "Assurer seul la mission en tant que 1er commandant des opérations de secours, jusqu'à l'arrivée de son supérieur hiérarchique",
+    "Participer à la formation des chefs d'équipe, équipiers et jeunes sapeurs-pompiers",
+    "Participer à la gestion des cellules composant le service général du centre de secours en lien avec les chefs de cellule"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Veiller à la sécurité individuelle et collective des équipiers",
+    "Veiller à la sécurité de la zone d'intervention",
+    "Appliquer les différentes MGO",
+    "Préserver l'intégrité physique des victimes",
+    "Connaître la radiotéléphonie",
+    "Être spécialisé en fonction du type d'intervention (FDF, COD, FOR, ...)",
+    "Connaître les procédures administratives ainsi que le Règlement intérieur en vigueur à la Ville de Dumbéa, et savoir rédiger une note d'opportunité ou un rapport circonstancié",
+    "Rigueur et sens de l'organisation",
+    "Maîtrise de soi dans les situations difficiles",
+    "Communication permanente avec ses subordonnés",
+    "Échanges permanents d'informations avec le supérieur hiérarchique",
+    "Sens aigu de la discipline"
+  ],
+  "specialCommitments": null,
+  "title": "Chefs d'agrès",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "VILLE-DE-DUMBEA",
+  "collectivite": "Ville de Dumbéa",
+  "direction": "INCENDIE ET SECOURS",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Incendie et secours",
+  "famille_source": "respnc",
+  "famille_score": 0.988,
+  "dossier": "incendie-et-secours"
+}
