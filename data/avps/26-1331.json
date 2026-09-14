@@ -1,0 +1,186 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Aide-soignant",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Service des urgences",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cadre supérieur de santé",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "SAMU",
+      "SMUR",
+      "Equipe pluridisciplinaire",
+      "Infirmier"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Statut du poste",
+        "value": "Susceptible d'être vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi",
+        "value": "Statut particulier des personnels paramédicaux de la Nouvelle-Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952026.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Partie intégrante du plateau technique, le service des urgences assure une continuité des soins 24h/24 et une réactivité immédiate face aux situations critiques. Il comprend un volet adulte - SAMU/SMUR et un volet pédiatrique et gynécologique.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1331",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Aide-soignant(e) aux urgences",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.80.00",
+    "email": "recrutement@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'aide-soignant(e) ou certificat d'aptitude à la fonction d'aide-soignant(e)",
+    "competencyRequired": [
+      "Formation AFGSU niveau 2"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Centre Hospitalier Territorial",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience dans un service similaire serait un plus",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": "Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (cadre de la santé de Nouvelle-Calédonie)",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": "Solide aptitude physique au port de charge",
+  "qualifications": "Diplôme d'aide-soignant(e) ou certificat d'aptitude à la fonction d'aide-soignant(e)",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Aide-soignant",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Soins d'hygiène, de confort du patient"
+    }
+  },
+  "responsibilities": [
+    "Accueil, informer et accompagner les patients ainsi que leur entourage",
+    "Entretien de l'environnement immédiat du patient et réfection du lit, ainsi que du matériel de soins et de l'approvisionnement des chariots",
+    "Réalisation des transmissions par oral et par écrit, pour maintenir la continuité des soins",
+    "Observation du bon fonctionnement des appareillages et dispositifs médicaux",
+    "Accueil, information et formation des personnels nouvellement recrutés et des apprenants (élèves, stagiaires)",
+    "Réaliser des soins infirmiers et assurer la prise en charge globale des patients",
+    "Evaluer l'état de santé, surveiller l'évolution clinique et identifier les situations d'urgences",
+    "Assurer la traçabilité des soins et la mise à jour des dossiers patient",
+    "Travailler en coordination avec l'équipe pluridisciplinaire"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Esprit d'équipe",
+    "Qualité d'écoute",
+    "Qualités relationnelles",
+    "Discrétion professionnelle",
+    "Forte adaptabilité",
+    "Aptitude physique au port de charge"
+  ],
+  "specialCommitments": null,
+  "title": "Aide-soignant(e) aux urgences",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": "Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)",
+  "champs_open_data": 11,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.976,
+  "dossier": "sante-publique-soins"
+}
