@@ -1,0 +1,170 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Service des actions éducatives et de la proximité (SAEP)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable du bureau de l’accompagnement des étudiants (BAE)",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements possibles sur l’ensemble de la province Sud. Horaires atypiques ou en week-end lors des manifestations."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957156.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l’éducation et de la réussite de la province Sud (DERES) a pour mission de garantir l’épanouissement de la jeunesse dans un environnement éducatif propice à la réussite quel que soit le niveau du système scolaire et de favoriser le bien-être de ses personnels.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1246",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé des aides aux études supérieures",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.49.23",
+    "email": "meryl.katjawan@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-21",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Maîtrise de l’organisation et des procédures administratives et comptables de la collectivité",
+      "Connaissance des dispositifs d’aides et de bourses aux étudiants",
+      "Bonne connaissance des cursus d’études supérieures",
+      "Connaissance des modalités et démarches d’installation en métropole pour un étudiant",
+      "Bonne connaissance de la vie quotidienne en métropole (particularités, transports, couvertures sociales, etc.)",
+      "Connaissance de la comptabilité publique",
+      "Connaissance des techniques de communication et d’animation de groupe",
+      "Certification PIX niveau 4 minimum"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service des actions éducatives et de la proximité (SAEP)"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Éducation",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction de l’Éducation et de la Réussite de la province Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Education",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Titulaire du permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé des aides",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Instruction des mesures d'aide sociale"
+    }
+  },
+  "responsibilities": [
+    "Accueillir et informer des étudiants (front et back-office)",
+    "Réceptionner et traiter les demandes des usagers par voie téléphonique, dématérialisée (mails et comptes provinciaux) et postale",
+    "Suivre un portefeuille d’étudiants en Nouvelle-Calédonie et hors Nouvelle-Calédonie",
+    "Accompagner à la constitution des dossiers dans le cadre des campagnes provinciales d’aides aux étudiants",
+    "Instruire des dossiers (étude, analyse, saisie et suivi)",
+    "Rédiger divers documents administratifs et financiers (notes, rapports, procès-verbaux, certificats administratifs, états des sommes dus, etc.) et actes administratifs (arrêtés, délibérations, conventions, etc.)",
+    "Préparer et présenter des dossiers lors des commissions",
+    "Mettre en œuvre et suivre les paiements des aides et des bourses à destination des étudiants",
+    "Piloter, de gérer et d'analyser les dispositifs qui lui sont confiés en qualité de référent(e)",
+    "Animer des réunions et des ateliers à destination des étudiants et des familles",
+    "Organiser, animer ou participer à des évènements (salon des études supérieures, présentation des dispositifs, carrefour de l'orientation, etc.)",
+    "Gérer des tâches administratives et de secrétariat du bureau",
+    "Mettre à jour les tableaux de suivi et de données statistiques",
+    "Assurer l'accompagnement numérique des usagers dans le cadre des activités du bureau"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Accueillir et prendre en charge le public",
+    "Analyser les demandes, identifier les besoins des usagers et orienter vers les démarches adaptées",
+    "Disposer d'une aisance rédactionnelle notamment dans la rédaction d’actes et de documents administratifs",
+    "Gérer un budget",
+    "Mettre en œuvre et animer des ateliers",
+    "Disposer d'une aisance à l’oral",
+    "Rendre compte de son activité et des situations sensibles",
+    "Maîtriser les progiciels SALSA, ALOHA et SURFI",
+    "Maîtriser les outils informatiques et bureautiques (pack OFFICE)",
+    "Utiliser l’IA avec discernement",
+    "Grandes qualités relationnelles notamment dans l’accueil et l’information du public",
+    "Sens de l’écoute",
+    "Discrétion",
+    "Autonomie",
+    "Capacités organisationnelles et de gestion du temps",
+    "Capacités d’adaptation et d’anticipation",
+    "Rigueur",
+    "Esprit d’équipe",
+    "Prise d'initiatives",
+    "Dynamisme",
+    "Disponibilité"
+  ],
+  "specialCommitments": "Déplacements possibles sur l’ensemble de la province Sud",
+  "title": "Chargé des aides aux études supérieures",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-09-18",
+  "workHours": "Horaires atypiques ou en week-end lors des manifestations",
+  "champs_open_data": 8,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "administration-generale"
+}
