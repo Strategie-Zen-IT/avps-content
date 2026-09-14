@@ -1,0 +1,167 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Professeur des écoles",
+    "direction": "UNIVERSITE DE NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": "Département GEA",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directrice de l'IUT",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Département GEA",
+      "IUT",
+      "Entreprises du territoire"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Susceptible d'être vacant au 01/02/2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Volume horaire d'enseignement",
+        "value": "384 h éq. TD"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952134.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'Université de la Nouvelle-Calédonie est un établissement pluridisciplinaire qui répond notamment aux besoins de formation et de recherche propres à la Nouvelle-Calédonie. Elle veille à accompagner efficacement les évolutions de la Nouvelle-Calédonie et à répondre à ses besoins spécifiques. L'UNC recrute un professeur agrégé ou certifié en Economie-Gestion Option B pour enseigner au sein du département GEA en BUT à l'IUT de la Nouvelle-Calédonie.",
+  "disambiguatingDescription": "Poste d'enseignant du second degré en Economie-Gestion Option B affecté à l'IUT de l'Université de la Nouvelle-Calédonie.",
+  "identifier": "26-1350",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Un professeur agrégé ou certifié en Economie-Gestion Option B",
+  "owner": {
+    "@type": "Organization",
+    "name": "Université de Nouvelle-Calédonie",
+    "url": "https://unc.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://unc.nc/utile/recrutement/recrutement-emplois-stages/",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Campus de Nouville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Avenue James Cook",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "recrutement-enseignants@unc.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Comptabilité",
+      "Finance",
+      "Contrôle de gestion",
+      "Informatique de gestion",
+      "Outils mathématiques de gestion",
+      "Fiscalité",
+      "Management"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "L'Université de la Nouvelle-Calédonie (UNC) compte 250 personnels, 3 500 étudiants, 3 départements de formation, 1 IAE, 1 IUT, 1 INSPE, 1 CFA, 1 service de la formation continue, 3 unités de recherche, 2 UMR et 1 école doctorale répartis sur deux campus (Nouville et Baco).",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Institut Universitaire de Technologie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience dans l'enseignement supérieur ou secondaire en économie et gestion.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Université de Nouvelle-Calédonie",
+    "url": "https://unc.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Education",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Campus de Nouville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Avenue James Cook",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Education"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Agrégation ou CAPET en Economie-Gestion",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Enseignant du 2nd degré",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2107",
+      "name": "Enseignement général du second degré"
+    }
+  },
+  "responsibilities": [
+    "Assurer un enseignement de 384 h éq. TD au sein du département GEA en BUT dans les spécialités de comptabilité, finance, contrôle de gestion, informatique de gestion, outils mathématiques de gestion, fiscalité, management, portfolio, projet personnel et professionnel",
+    "Coordonner et suivre des Situations d'Apprentissage et d'Évaluation (SAE)",
+    "Suivre des étudiants en stage et/ou en alternance",
+    "Proposer une pédagogie basée sur l'approche par compétences",
+    "Faire preuve d'adaptation aux publics étudiants et les accompagner vers la réussite par un suivi individualisé",
+    "Assurer des enseignements dans d'autres départements de l'IUT et composantes de l'université",
+    "Prendre dès la prise de poste des responsabilités administratives et/ou pédagogiques inhérentes au fonctionnement du département GEA et de l'IUT",
+    "Participer aux missions collectives telles que le recrutement des étudiants, la communication auprès des publics cibles, le suivi individualisé des étudiants, les actions en lien avec les entreprises du territoire"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Pédagogie par compétences",
+    "Adaptabilité",
+    "Accompagnement des étudiants",
+    "Rigueur",
+    "Travail en équipe",
+    "Communication"
+  ],
+  "specialCommitments": null,
+  "title": "Professeur agrégé ou certifié en Economie-Gestion Option B",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-02",
+  "workHours": "384 h éq. TD d'enseignement",
+  "champs_open_data": 8,
+  "employeur_sigle": "UNC",
+  "collectivite": "Université de Nouvelle-Calédonie",
+  "direction": "UNIVERSITE DE NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "famille_respnc": "Education",
+  "famille_source": "respnc",
+  "famille_score": 0.945,
+  "dossier": "education"
+}
