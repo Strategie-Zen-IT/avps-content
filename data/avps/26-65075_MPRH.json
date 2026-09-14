@@ -1,0 +1,209 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur / ingénieur",
+    "direction": "DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "Service de l'économie numérique, des filières d'avenir et des télécommunications",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service de l'économie numérique, des filières d'avenir et des télécommunications",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Office des Postes et Télécommunications de la Nouvelle-Calédonie",
+      "Institutions",
+      "Acteurs économiques"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre : Ingénieur 1er et 2e grade domaine informatique ou numérique"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "SERVICE DE L'ÉCONOMIE NUMÉRIQUE, DES FILIÈRES D'AVENIR ET DES"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Bruno FERRANDIS"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956080.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Au sein du service de l'économie numérique, des filières d'avenir et des télécommunications, le chargé(e) de projets télécommunications est responsable de la mise en œuvre et du suivi des projets qui lui sont confiés par le chef de service, et ce, en fonction des orientations de la Nouvelle-Calédonie en matière de développement du secteur des télécommunications et d'aménagement numérique du territoire.\nIl instruit l'ensemble des dossiers liés à l'Office des Postes et Télécommunications de la Nouvelle-Calédonie (convention, stratégie, organisation, tarifications, etc.) et peut conseiller la hiérarchie en la matière.\nEnfin, le chargé(e) de projets télécommunications peut être amené(e) à travailler sur d'autres actions portées par le service de l'économie numérique, des filières d'avenir et de l'attractivité et l'organisme. En outre, il contribue au bon fonctionnement de l'organisation matricielle définie par la direction, au profit des projets et produits de l'organisme.",
+  "disambiguatingDescription": "Au sein du service de l'économie numérique, des filières d'avenir et des télécommunications, le chargé de projets télécommunications est responsable de la mise en œuvre et du suivi des projets qui lui sont confiés par le chef de service, et ce, en fonction des orientations de la Nouvelle-Calédonie en matière de développement du secteur des télécommunications et d'aménagement numérique du territoire.",
+  "identifier": "26-65075/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé de projets télécommunications",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "23.22.50",
+    "email": "bruno.ferrandis@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-07",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Ingénieur",
+    "competencyRequired": [
+      "Diplôme Ingénieur télécommunications souhaitable",
+      "Compréhension des enjeux liés à l'économie numérique et au secteur des télécommunications",
+      "Connaissance de l'environnement socioculturel calédonien, de ses enjeux sociétaux et économiques",
+      "Connaissance de l'organisation et du fonctionnement des institutions de la Nouvelle-Calédonie",
+      "Connaissance en analyse et modélisation financière et en économie des télécoms",
+      "Maîtrise des méthodes d'ingénierie de projets",
+      "Maîtrise des outils bureautiques, collaboratifs et décisionnels",
+      "Maîtrise de l'anglais technique",
+      "Qualités rédactionnelles et sens du reporting",
+      "Organisation et planification",
+      "Expérience avérée dans la conduite et le pilotage de projets territoriaux."
+    ]
+  },
+  "eligibilityToWorkRequirement": "Ingénieur 1er et 2e grade domaine informatique ou numérique  : au moins égale à 5 ans.",
+  "employerOverview": "La direction des entreprises, de la consommation, de l'attractivité et des télécommunications est responsable de la mise en œuvre de la politique économique du gouvernement de la Nouvelle-Calédonie en matière de commerce intérieur, d'économie numérique et d'attractivité, sous réserve des attributions exercées par d'autres directions et services.\n\nElle concourt notamment à la protection de l'ordre public économique et à la dynamisation du marché intérieur par des actions de soutien, de veille et de régulation au bénéfice de l'ensemble des acteurs économiques et notamment du numérique, afin de constituer un environnement favorable au développement économique et à l'attractivité du territoire.\n\nElle a pour missions principales: la protection physique et économique des consommateurs, la régulation et le développement du marché intérieur, l'enregistrement des entreprises commerciales et des sociétés, le développement de l'économie numérique et des filières d'avenir, et l'amélioration de l'attractivité du territoire.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de l'économie numérique, des filières d'avenir et des télécommunications",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Expérience avérée dans la conduite et le pilotage de projets territoriaux.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Grille salariale de la fonction publique de Nouvelle-Calédonie disponible à l'adresse : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/techniquenc.pdf",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Postes et télécommunications",
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplôme d'Ingénieur télécommunications souhaitable",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé de projets télécommunications",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "I1306",
+      "name": "Ingénieur validation réseaux de télécoms"
+    }
+  },
+  "responsibilities": [
+    "Sous l'autorité du chef du service de l'économie numérique, des filières d'avenir et des télécommunications, le chargé(e) de projets télécommunications a pour activités principales :",
+    "piloter et coordonner la mise en œuvre des projets ou dispositifs, sous sa responsabilité, en collaboration avec les institutions et acteurs économiques, notamment ceux de la feuille de route PSEN 2027 concernant l'axe aménagement numérique du territoire (assises des télécoms, stratégie sectorielle du secteur, mise en place de la régulation du secteur, amélioration des services aux entreprises,...)",
+    "comprendre, recueillir, analyser les besoins et les difficultés de l'écosystème du numérique calédonien et du secteur des télécommunications, et ainsi veiller à la pertinence des actions conduites par rapport aux attentes des acteurs",
+    "Instruire l'ensemble des dossiers liés à l'Office des Postes et Télécommunications de Nouvelle-Calédonie, particulièrement en matière de gestion du spectre, et assurer le suivi de conventions d'objectifs et de moyens",
+    "Mettre en place des indicateurs de suivi de ses missions, réaliser un reporting de ces activités auprès de sa hiérarchie, et la conseiller.",
+    "Apporter son expertise et être associé(e) à différents projets portés par le service, la direction et l'organisme",
+    "Effectuer un travail de veille et proposer des évolutions."
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Piloter et/ou participer à des projets",
+    "Définir et analyser un modèle économique",
+    "Réaliser un diagnostic financier",
+    "Conduire des réunions multi-partenariales",
+    "Rédiger des documents administratifs et techniques",
+    "Mettre en place des modalités de suivi des résultats",
+    "Conduire le changement et gérer les conflits",
+    "Prendre des décisions dans son périmètre de délégation",
+    "Gérer et hiérarchiser des urgences et des échéances",
+    "Rendre compte.",
+    "Esprit d'équipe, qualités d'écoute, de communication et de pédagogie",
+    "Méthode, rigueur, organisation et planification",
+    "Esprit d'analyse et de synthèse, sens du reporting et respect de la hiérarchie",
+    "Autonomie, capacité d'adaptation et réactivité",
+    "Dynamisme, esprit d'initiative et curiosité intellectuelle",
+    "Force de propositions",
+    "Sens de la performance et du service public",
+    "Respect de la confidentialité des données",
+    "Disponibilité."
+  ],
+  "specialCommitments": null,
+  "title": "Chargé de projets télécommunications",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 27,
+  "employeur_sigle": "NOUVELLE-CALEDONIE",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "famille_respnc": "Postes et télécommunications",
+  "famille_source": "respnc",
+  "famille_score": 0.89,
+  "dossier": "postes-et-telecommunications"
+}
