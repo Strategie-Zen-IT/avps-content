@@ -1,0 +1,162 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Emploi fonctionnel",
+    "direction": "CENTRE HOSPITALIER DU NORD",
+    "uniteOrganisationnelle": "Pôle Sanitaire du Nord",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur CHN",
+    "placeOrganigramme": "Membre de l'équipe de direction",
+    "relationsFonctionnelles": [
+      "L'ensemble des chefs de services fonctionnels",
+      "Chefs de services médicaux",
+      "Coordinatrice des soins et cadres de santé",
+      "Référent DIM",
+      "Direction des affaires sanitaires et sociales de la Nouvelle-Calédonie",
+      "Trésorier payeur en Province Nord",
+      "CAFAT, AMG Nord, Sud et Îles",
+      "Les mutuelles"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Astreinte administrative de direction"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953004.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Etablissement hospitalier situé en Province Nord de la Nouvelle-Calédonie, le centre hospitalier du Nord regroupe les sites hospitaliers de Koumac, Pwêdîî Wîmîân (Poindimié) et le pôle sanitaire du Nord – Koonhê. Avec un budget 5 milliard F XPF et de plus de 300 agents, il dispose d'un capacitaire de 127 lits et places.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1318",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Directeur adjoint en charge des affaires financières",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier du Nord"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "42.11.00",
+    "email": "recrutement@chn.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme en comptabilité générale ou publique, finances ou management des organisations de santé",
+    "competencyRequired": [
+      "Connaissance de l'organisation sanitaire de la Nouvelle-Calédonie",
+      "Maitrise de l'analyse financière",
+      "Communication et relations interprofessionnelles",
+      "Comptabilité publique",
+      "Gestion administrative, économique et financière",
+      "Contrôle de gestion"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Centre Hospitalier du Nord"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience significative sur un poste similaire serait appréciée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier du Nord"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Pôle Sanitaire du Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "rue Jimmy WELEPANE",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Finances et budget",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Directeur adjoint en charge des affaires financières",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1203",
+      "name": "Direction administrative et financière"
+    }
+  },
+  "responsibilities": [
+    "Préparer et piloter l'Etats Prévisionnel des recettes et des dépenses et le plan global de financement en lien avec l'équipe de direction et les chefs de service",
+    "Suivre l'exécution budgétaire des dépenses et des recettes",
+    "Coordonner et piloter les processus organisationnels et d'accompagnement de la recette et de la dépense",
+    "Développer les outils de contrôle de gestion interne",
+    "Assurer la gestion de trésorerie et la relation avec le trésorier comptable (Trésorerie/Fiabilisation du Bilan)",
+    "Piloter les recettes en lien avec le DIM et la Gestion administrative du patient",
+    "Piloter la grille tarifaire du CHN"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Définir, conduire et évaluer une stratégie, une politique",
+    "Concevoir et animer des démarches participatives de co-construction et de facilitation",
+    "Arbitrer et décider entre différentes propositions, dans son secteur d'activité",
+    "Analyser des données, des tableaux de bords et justifier des résultats relatifs aux activités de son domaine",
+    "Argumenter, influencer et convaincre un ou plusieurs interlocuteurs (interne et externe), dans son domaine de compétence",
+    "Evaluer, motiver et favoriser le développement des compétences professionnelles de ses collaborateurs",
+    "Identifier, analyser, prioriser et synthétiser les informations relevant de son domaine d'activité",
+    "Manager une équipe",
+    "Animer et développer un réseau professionnel",
+    "Aisance relationnelle, sens des relations humaines, sociales et de la diplomatie",
+    "Innover ou accompagner l'innovation et le changement",
+    "Réactivité et disponibilité",
+    "S'exprimer aisément et avec clarté en public",
+    "Sens de la pédagogie",
+    "Gérer ses émotions et son stress",
+    "Capacité d'adaptation",
+    "Sens de la confidentialité"
+  ],
+  "specialCommitments": null,
+  "title": "Directeur adjoint en charge des affaires financières",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "CHN",
+  "collectivite": "Centre hospitalier du Nord",
+  "direction": "CENTRE HOSPITALIER DU NORD",
+  "direction_source": "source",
+  "famille_respnc": "Finances et budget",
+  "famille_source": "respnc",
+  "famille_score": 0.813,
+  "dossier": "finances-et-budget"
+}
