@@ -1,0 +1,184 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable du pôle",
+    "placeOrganigramme": "Sous l'autorité du responsable du pôle",
+    "relationsFonctionnelles": [
+      "Membres du gouvernement",
+      "Directions et services de la collectivité"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "durée de résidence au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Informations salaire",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Ludvina HMEUN"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953468.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Intervenir dans l'ensemble des domaines de la communication :\n \n- Médias : Rédiger des communiqués et des dossiers de presse, assurer les relances médias\n- Digital : Produire des contenus pour les publications spécifiques, concevoir des mini-vidéos, réaliser des infographies et des visuels\n- Evènementiel : Organiser des événements et s'assurer de leur bon déroulement\n- Conseil et veille : Conseiller les directions et services, veiller au respect de la charte du gouvernement, aider à l'écriture de contenu, dans le cadre de la mise à jour des sites internet de la collectivité.",
+  "disambiguatingDescription": null,
+  "identifier": "26-65412/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé de communication",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.65.42",
+    "email": "ludvina.hmeun@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Enseignement supérieur",
+    "competencyRequired": [
+      "Diplôme de l'enseignement supérieur dans le domaine de la communication ou du journalisme",
+      "Expérience professionnelle en Nouvelle-Calédonie dans le domaine du journalisme et de la communication",
+      "Très bonne connaissance du fonctionnement des institutions (Congrès, gouvernement, provinces, etc...)",
+      "Notions de PAO et connaissance des réseaux sociaux appréciées."
+    ]
+  },
+  "eligibilityToWorkRequirement": "durée de résidence au moins égale à 10 ans",
+  "employerOverview": "Sous l'autorité du responsable du pôle, le chargé de communication (H/F) a pour mission de valoriser l'action des membres du gouvernement ainsi que celle des directions et services de la collectivité. Pour cela, il assure la conception et la mise en œuvre de la communication sur tous les supports de la collectivité, et participe à l'organisation des événements de la collectivité.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle en Nouvelle-Calédonie dans le domaine du journalisme et de la communication",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Communication"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé de communication",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1403",
+      "name": "Chargé de communication (externe, interne, scientifique, sociale)"
+    }
+  },
+  "responsibilities": [
+    "Intervenir dans l'ensemble des domaines de la communication",
+    "Rédiger des communiqués et des dossiers de presse, assurer les relances médias",
+    "Produire des contenus pour les publications spécifiques, concevoir des mini-vidéos, réaliser des infographies et des visuels",
+    "Organiser des événements et s'assurer de leur bon déroulement",
+    "Conseiller les directions et services, veiller au respect de la charte du gouvernement, aider à l'écriture de contenu, dans le cadre de la mise à jour des sites internet de la collectivité"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtriser les techniques de rédaction et de communication",
+    "Maîtriser parfaitement l'écriture",
+    "Disposer de bonnes connaissances en informatique",
+    "Respecter les règles de déontologie.",
+    "Ecoute, curiosité, réactivité",
+    "Esprit d'analyse et de synthèse",
+    "Esprit d'équipe, bon relationnel",
+    "Autonomie",
+    "Disponibilité",
+    "Confidentialité."
+  ],
+  "specialCommitments": null,
+  "title": "Chargé de communication",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 26,
+  "employeur_sigle": "NOUVELLE-CALEDONIE",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "",
+  "direction_source": "absente",
+  "famille_respnc": "Communication",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "communication"
+}
