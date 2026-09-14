@@ -1,0 +1,189 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché / cadre socio-éducatif",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Service de la protection de l'enfance",
+    "nbAgentsEncadres": 80,
+    "superieurHierarchique": "Chef de service de la Protection de l'Enfance",
+    "placeOrganigramme": "Sous l'autorité du chef de service de la Protection de l'Enfance, et en collaboration directe avec les responsables de bureaux",
+    "relationsFonctionnelles": [
+      "Chef de service de la Protection de l'Enfance",
+      "Responsables de bureaux",
+      "Professionnels du service",
+      "Familles d'accueil",
+      "Instances judiciaires",
+      "Partenaires du secteur médico-social"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 10 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Astreintes",
+        "value": "Intégration du planning d'astreintes (nuits, week-ends et jours fériés)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Déplacements",
+        "value": "Nombreux déplacements sur tout le territoire de la Nouvelle-Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Particularités du poste",
+        "value": "Grande disponibilité requise"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953800.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial. Au sein du pôle enfance-famille, le service de la protection de l'enfance compte plus de 80 agents répartis en 4 bureaux et 3 foyers. La personne retenue aura pour missions de contribuer à la mise en œuvre des différents objectifs poursuivis par le SPE, prioritairement ceux définis par le schéma directeur de la DPASS et à participer à toutes les réflexions relatives à la protection de l'enfance.",
+  "disambiguatingDescription": "Poste de Chef de service adjoint de la protection de l'enfance au sein de la DPASS de la Province Sud, localisé à Nouméa.",
+  "identifier": "26-1147",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de service adjoint de la protection de l'enfance",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.45.51",
+    "email": "barbara.pellan@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-07-31",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'encadrement",
+    "competencyRequired": [
+      "Connaissances du réseau de la protection de l'enfance",
+      "Connaissances des spécificités culturelles de la Nouvelle-Calédonie",
+      "Connaissances du réseau d'intervenants du secteur médico-social"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de la protection de l'enfance",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience en encadrement et management d'équipe requise.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction Provinciale de l'Action Sanitaire et Sociale",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Action sociale",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplôme d'encadrement exigé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable socio éducatif",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1302",
+      "name": "Management de structure sociale ou socio-éducative"
+    }
+  },
+  "responsibilities": [
+    "Assurer le bon fonctionnement des missions assurées au sein des différents bureaux composant le service",
+    "Veiller et participer pleinement à la mise en œuvre et à la réflexion autour de l'évolution des dispositifs en matière d'assistance éducative et de prévention (placement, PEAD, modules de rappel à la responsabilité parentale...)",
+    "Accompagner les responsables de bureaux dans leurs missions et de développer leurs compétences",
+    "Soutenir les professionnels dans la réorganisation du service",
+    "Contribuer à l'élaboration des rapports d'activité du service",
+    "Contribuer aux missions relatives au placement des mineurs confiés à la DPASS",
+    "Contribuer aux missions relatives à l'adoption",
+    "Contribuer à la gestion et l'optimisation des ressources humaines du SPE",
+    "Participer aux réflexions stratégiques relatives au champs de la protection de l'enfance (prévention et mise en protection) et à l'amélioration des procédures dans un souci permanent d'inscription dans une démarche qualité",
+    "Inscrire le service dans un réseau partenarial pérenne et de qualité",
+    "Participer aux travaux de réflexion sur l'élaboration du projet de service",
+    "Contribuer à l'évaluation annuelle des agents en lien avec le chef de service",
+    "Impulser le développement des outils de pilotage et de reporting nécessaires à la gestion de l'activité",
+    "Suppléer le chef de service dans l'exercice de ses missions et assurer son intérim en cas d'absence"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Connaissances des techniques de management (par projet, par objectifs...)",
+    "Maîtrise des techniques d'entretien et d'écrits professionnels",
+    "Maîtrise des techniques de communication interne et externe",
+    "Gestion des situations d'urgences et des aléas",
+    "Animation de réunions",
+    "Capacité à animer, à organiser, à mobiliser et à entraîner une équipe",
+    "Capacité à conseiller et à soutenir des décisions",
+    "Capacité à se positionner et à arbitrer",
+    "Capacité à transmettre un rendu précis de l'activité du service",
+    "Capacité à concevoir un projet de service"
+  ],
+  "specialCommitments": "Astreintes (nuits, week-ends et jours fériés)",
+  "title": "Chef de service adjoint de la protection de l'enfance",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-02",
+  "workHours": "Grande disponibilité requise, astreintes",
+  "champs_open_data": 7,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "action-sociale"
+}
