@@ -1,0 +1,152 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Médecin de santé publique",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "CMS de HOUAILOU",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur adjoint des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Chef du Bureau de Proximité de Soins",
+      "CMS limitrophes"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "inférieure à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Poste soumis à astreintes"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953390.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité du/de la directeur(trice) adjoint(e) des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité. La personne retenue aura la charge de la continuité de l'offre de soin au sein du centre médico-social.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1219",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Médecin à Houailou",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "http://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.71.00",
+    "email": "drh-emplois@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-14",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Doctorat",
+    "competencyRequired": [
+      "Maîtrise de la médecine générale et de l'urgence",
+      "Connaissance en santé publique",
+      "Connaissances en gynécologie-obstétrique, pédiatrie, cardiologie, endocrinologie et/ou infectiologie"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "CMS de HOUAILOU"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience professionnelle sur un poste isolé serait appréciée et au contact de populations océaniennes.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "http://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "CMS de HOUAILOU",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Houaïlou",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Santé publique soins",
+    "Politique de santé publique"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire B, CAMU souhaité",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Médecin",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1402",
+      "name": "Médecine générale et spécialisée"
+    }
+  },
+  "responsibilities": [
+    "La médecine curative : consultations, urgences, visites en tribu",
+    "La médecine préventive : santé scolaire, PMI, dépistage tuberculose, médecin du travail et du sport, éducation pour la santé, hygiène publique",
+    "Les activités administratives : gestion des moyens en personnel et matériel, rapports, etc...",
+    "La veille sanitaire et sociale",
+    "L'établissement de partenariats extérieurs",
+    "La gestion de la pharmacie de la structure",
+    "La participation aux actions de formation et d'animation de sécurité civile",
+    "Le renfort aux CMS limitrophes essentiellement en cas de nécessité",
+    "Etablir un bilan d'activité annuel"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des logiciels de bureautique (Excel et Word)",
+    "Goût des relations humaines",
+    "Esprit d'initiative",
+    "Capacité d'écoute",
+    "Goût du travail en équipe"
+  ],
+  "specialCommitments": "Poste soumis à astreintes",
+  "title": "MEDECIN HOUAILOU",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-02",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 0.869,
+  "dossier": "politique-de-sante-publique"
+}
