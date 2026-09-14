@@ -1,0 +1,169 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 2-Diplôme niveau V",
+    "direction": "CAISSE DES ECOLES DE NOUMEA",
+    "uniteOrganisationnelle": "Service de Coordination des Actions Périscolaires",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service de coordination des actions périscolaires",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Communauté éducative",
+      "Direction d'école",
+      "Enseignants",
+      "Familles",
+      "Prestataires"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Le référent école périscolaire (REP) peut exercer son activité sur l'ensemble des écoles publiques de la commune. Sa présence est requise sur le temps périscolaire et principalement pendant les périodes scolaires. Il travaille à temps partiel par contrat intermittent et est rémunéré à l'heure."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Grille de rémunération",
+        "value": "Grille de rémunération 2"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952086.PDF"
+      }
+    ]
+  },
+  "alternateName": "REP",
+  "description": "La Caisse des écoles de la Ville de Nouméa est un établissement public de la commune. Elle est administrée par un Comité et dispose de son propre budget. Sa mission consiste à faciliter la fréquentation scolaire des élèves en proposant un service de cantine et de garderie dans les 41 écoles publiques de la ville de Nouméa.",
+  "disambiguatingDescription": "Le référent école périscolaire met en œuvre la politique périscolaire de la Caisse des écoles au sein d'une école publique, assure l'encadrement des équipes et veille au bon déroulement des services de cantine et de garderie.",
+  "identifier": "26-1287",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "10 Référents écoles périscolaires",
+  "owner": {
+    "@type": "Organization",
+    "name": "Caisse des écoles de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Les écoles publiques de la ville de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.07.85",
+    "email": "beatrice.durvalinodelima@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "CAP, BEP ou équivalent",
+    "competencyRequired": [
+      "Diplôme de Niveau 3 minimum (CAP, BEP ou équivalent - BPJEPS apprécié)",
+      "Maîtrise des règles d'hygiène, de sécurité, de gestion de groupe et des outils numériques",
+      "Connaissance des rythmes et besoins de l'enfant"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La Caisse des écoles de la Ville de Nouméa est un établissement public de la commune qui gère la cantine et la garderie dans les 41 écoles publiques de la ville.",
+  "employmentType": "PART_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de Coordination des Actions Périscolaires"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience significative dans l'animation et/ou l'encadrement d'équipe périscolaire",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Caisse des écoles de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Éducation",
+  "jobBenefits": null,
+  "jobDuration": "Contrat intermittent",
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Les écoles publiques de la ville de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Animation",
+    "Education"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "BPJEPS apprécié",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Coordonnateur des surveillants et des animateurs des écoles",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1206",
+      "name": "Animation de loisirs auprès d'enfants ou d'adolescents"
+    }
+  },
+  "responsibilities": [
+    "Encadrer et accompagner les agents périscolaires",
+    "Accueillir et intégrer les nouveaux agents, transmettre les consignes et règles",
+    "Animer les réunions d'équipe, assurer la cohésion et le suivi des compétences",
+    "Contribuer aux évaluations annuelles en lien avec la hiérarchie",
+    "Gérer les conflits, alerter en cas de dysfonctionnement, appliquer les actions correctives",
+    "Garantir un accueil bienveillant, sécurisé et structuré des enfants",
+    "Organiser les plannings, les activités et la logistique des temps périscolaires",
+    "Gérer les présences, les informations administratives, les situations urgentes",
+    "Initier et accompagner des projets d'animation en lien avec la direction",
+    "Favoriser la continuité éducative entre scolaire et périscolaire",
+    "Répondre aux sollicitations des familles et des prestataires",
+    "Contribuer à un bon climat scolaire et participer aux réunions éducatives",
+    "Assurer un lien constant avec la direction d'école et les enseignants"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Animer, encadrer, accompagner une équipe",
+    "Organiser, planifier, transmettre des consignes",
+    "Gérer les conflits, rendre compte, alerter",
+    "Construire des projets, animer des réunions",
+    "Leadership, sens de l'organisation et réactivité",
+    "Capacité à fédérer une équipe et à gérer les imprévus",
+    "Sens du service public, bienveillance et discrétion",
+    "Exemplarité, dynamisme, ponctualité et sens des responsabilités"
+  ],
+  "specialCommitments": "Présence requise sur le temps périscolaire et principalement pendant les périodes scolaires",
+  "title": "10 Référents Écoles Périscolaires",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-09-18",
+  "workHours": "Temps partiel par contrat intermittent",
+  "champs_open_data": 8,
+  "employeur_sigle": "CDE NOUMÉA",
+  "collectivite": "Caisse des écoles de Nouméa",
+  "direction": "CAISSE DES ECOLES DE NOUMEA",
+  "direction_source": "source",
+  "famille_respnc": "Animation",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "animation"
+}
