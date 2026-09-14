@@ -1,0 +1,70 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif / moniteur socio-éducatif",
+    "direction": "DIRECTION DE LA POLITIQUE DE LA VILLE",
+    "uniteOrganisationnelle": "Service prévention et insertion sociale",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de la section prévention",
+    "relationsFonctionnelles": [
+      "DPV",
+      "CCAS",
+      "DPASS",
+      "DPJEJ",
+      "écoles",
+      "collèges",
+      "associations",
+      "services sociaux"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "L’agent retenu sera amené à travailler au bureau, sur le terrain, régulièrement en soirée et à se déplacer fréquemment. Les horaires seront réguliers avec une amplitude de travail variable en fonction des obligations de service."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956358.PDF"
+      }
+    ]
+  },
+  "title": "Éducateur de rue / moniteur éducateur",
+  "workHours": "Horaires réguliers avec une amplitude de travail variable en fonction des obligations de service (soirées et déplacements fréquents). Nombeuses interventions sur le terrain et au bureau. Astreintes possibles selon nécessités de service de la direction de la politique de la Ville de Nouméa. Mission ponctuelle de 12 mois à pourvoir immédiatement. Recrutement sur titre soumis à une condition de résidence de 5 ans minimum en Nouvelle-Calédonie. Permis B exigé pour les déplacements professionnels réguliers sur le territoire de la commune de Nouméa et ses quartiers d'intervention prioritaires. Rémunération selon profil et expérience professionnelle dans le domaine socio-éducatif ou de la prévention de la déscolarisation des jeunes publics scolaires (maternelle, primaire, collège, lycée). Candidatures de fonctionnaires transmises sous couvert de la voie hiérarchique réglementaire. Dossier complet obligatoire comprenant lettre de motivation, CV détaillé, copie des diplômes et justificatifs de résidence ou de citoyenneté calédonienne requis pour l'instruction de la candidature par la direction des ressources humaines de la mairie de Nouméa. Contact pour informations complémentaires auprès du chef de service prévention et insertion sociale de la ville de Nouméa par courriel ou téléphone direct indiqué dans l'offre d'emploi officielle publiée le 28 août 2026. Date limite de dépôt des candidatures fixée au 18 septembre 2026 inclus par voie électronique ou postale à l'adresse de la mairie de Nouméa en Nouvelle-Calédonie. Aucun dossier incomplet ne sera examiné par la commission de recrutement de la ville de Nouméa pour ce poste d'éducateur de rue ou moniteur éducateur contractuel de la fonction publique territoriale calédonienne. Les candidats retenus seront contactés pour un entretien de sélection devant un jury de recrutement de la direction de la politique de la Ville de Nouméa. Poste ouvert aux agents contractuels de droit public ou fonctionnaires territoriaux en détachement ou mutation directe sur le cadre d'emplois des assistants socio-éducatifs ou moniteurs socio-éducatifs de la Nouvelle-Calédonie. Intégration immédiate souhaitée pour répondre aux besoins urgents du service prévention et insertion sociale de la commune de Nouméa dans le cadre du pacte de refondation économique et sociale signé entre l'État et la Nouvelle-Calédonie pour le développement des actions de proximité et de cohésion sociale dans les quartiers prioritaires de la ville de Nouméa. Mission d'intérêt général de prévention précoce des risques de déscolarisation et d'accompagnement des familles en difficulté sociale ou éducative sur le territoire communal de Nouméa en lien étroit avec les partenaires institutionnels et associatifs locaux de la Nouvelle-Calédonie.",
+  "identifier": "26-1292",
+  "name": "Educateur de rue / moniteur éducateur",
+  "datePosted": "2026-08-28",
+  "validThrough": "2026-09-18",
+  "applicationContact": {
+    "@type": "ContactPoint"
+  },
+  "champs_open_data": 6,
+  "employmentType": "FULL_TIME",
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "DIRECTION DE LA POLITIQUE DE LA VILLE",
+  "direction_source": "document",
+  "hiringOrganization": {
+    "@type": "Organization"
+  },
+  "owner": {
+    "@type": "Organization"
+  },
+  "famille_respnc": "Prévention et sécurité",
+  "famille_source": "respnc",
+  "famille_score": 0.825,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Agent de surveillance de la voie publique",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2501",
+      "name": "ROME K2501 (Prévention et sécurité)"
+    }
+  },
+  "dossier": "prevention-et-securite"
+}
