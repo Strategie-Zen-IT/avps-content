@@ -1,0 +1,220 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Médecin de santé publique",
+    "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": "Interface entre le niveau stratégique (direction) et opérationnel (établissements de santé)",
+    "relationsFonctionnelles": [
+      "Professionnels de santé de ville du territoire",
+      "DIM des établissements",
+      "Observatoire de la santé"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "inférieur à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale. Polyvalence des missions nécessitant une expertise médicale transversale. Rôle de conseil et d'expertise auprès des professionnels de santé. Contribution à la modernisation du système d'information de santé."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "MESTRE Marie-Laure"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953390.PDF"
+      }
+    ]
+  },
+  "alternateName": "Conseiller technique médical performance",
+  "description": "Le conseiller technique est le référent médical pour le secteur performance de la direction. Dans un contexte de modernisation du système de santé calédonien et de déploiement de l'analyse de l'activité au niveau territorial, il joue un rôle pivot dans l'amélioration de la performance médicale et le déploiement des outils d'information médicale. A ce titre, il a pour missions de:\n- Piloter et copiloter des plans d'actions visant à la progression de dossiers prioritaires de la Nouvelle-Calédonie ou certains indicateurs des CPOM pour lesquels la valeur ajoutée médicale est nécessaire ;\n- Etre l'interlocuteur privilégié des professionnels de santé de ville du territoire, des acteurs et des partenaires en termes de E santé ;\n- Participer aux travaux de mise en place de l'Observatoire de la santé, et du déploiement de la feuille de route E santé en Nouvelle-Calédonie.",
+  "disambiguatingDescription": "Médecin conseiller technique médical performance pour la Direction des affaires sanitaires et sociales de la Nouvelle-Calédonie.",
+  "identifier": "26-63594/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Médecin /Conseiller technique médical performance",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.37.00",
+    "email": "direction.dass@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-06-12",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Doctorat",
+    "competencyRequired": [
+      "Doctorat en médecine",
+      "Formation complémentaire en santé publique, gestion ou information médicale souhaitée (DU/DIU Information médicale, Économie de la santé, Management de la santé)",
+      "Expérience indispensable dans le domaine de l'information médicale",
+      "Santé publique et système de santé",
+      "Déontologie et éthique des professions de santé",
+      "Expérience dans une institution de santé ( assurance maladie, ministère, hôpital) et/ou pratique clinique appréciée",
+      "Expérience de travail en outre-mer appréciée",
+      "Connaissance de l'environnement professionnel de la Nouvelle-Calédonie appréciée."
+    ]
+  },
+  "eligibilityToWorkRequirement": "inférieur à 3 ans",
+  "employerOverview": "La direction des affaires sanitaires et sociales de la Nouvelle-Calédonie est une des directions techniques du gouvernement de la Nouvelle-Calédonie.\nElle est responsable de la mise en œuvre de la politique de la Nouvelle-Calédonie en matière de santé publique et de protection sociale. \nElle comprend un service administration et support et quatre services métiers.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Expérience indispensable dans le domaine de l'information médicale. Expérience dans une institution de santé (assurance maladie, ministère, hôpital) et/ou pratique clinique appréciée. Expérience de travail en outre-mer appréciée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": "Grille salariale disponible à l'adresse : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction des affaires sanitaires et sociales (DASS)",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2025-04-01",
+  "occupationalCategory": [
+    "Politique de santé publique",
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Doctorat en médecine",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Médecin conseil",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1402",
+      "name": "Médecin (Inspecteur de Santé Publique -MISP-, inspecteur de la santé, conseil)"
+    }
+  },
+  "responsibilities": [
+    "Le conseiller technique médical est en charge de missions nécessitant une bonne polyvalence technique car il est amené à intervenir sur des thèmes très divers relevant de différents métiers, en tant que pilote ou contributeur :",
+    "Pilotage de la performance médicale :",
+    "Piloter et copiloter des plans d'actions visant à la progression de dossiers prioritaires de la Nouvelle-Calédonie ou certains indicateurs des CPOM pour lesquels la valeur ajoutée médicale est nécessaire",
+    "Promouvoir et accompagner les politiques de la Nouvelle-Calédonie sur la performance médicale, notamment :",
+    "Déploiement du numérique en santé",
+    "Développement de la télémédecine",
+    "Développement de l'ambulatoire.",
+    "Coordination de l'information médicale territoriale :",
+    "Coordonner le recueil de l'information médicale de l'ensemble des établissements de Nouvelle-Calédonie",
+    "Piloter l'évaluation de la qualité des données médicales des établissements",
+    "Apporter un conseil méthodologique et une expertise auprès des établissements de Nouvelle-Calédonie.",
+    "Mise en place et déploiement de la CCAM:",
+    "Piloter le déploiement de la CCAM sur le territoire en tant que référent médical",
+    "Assurer la formation et l'accompagnement des professionnels de santé à l'utilisation de la CCAM",
+    "Superviser la qualité du codage des actes médicaux dans les établissements de santé",
+    "Élaborer les procédures et guides méthodologiques d'utilisation de la CCAM adaptés au contexte calédonien",
+    "Assurer la veille réglementaire sur les évolutions de la nomenclature CCAM",
+    "Coordonner avec les DIM des établissements pour garantir l'exhaustivité et la fiabilité du codage des actes",
+    "Participer à la priorisation et au suivi des nouveaux actes médicaux en lien avec la CCAM.",
+    "Analyse des données de santé :",
+    "Apporter un soutien méthodologique à l'Observatoire de la santé sur l'analyse des données médicales du système d'information",
+    "Réaliser des analyses des parcours de soins et travaux de recherche",
+    "Contribuer à l'analyse d'impact (PMSI/EPRD) en lien avec les DIM des établissements.",
+    "Contribution au déploiement de la feuille de route e santé :",
+    "Contribuer au déploiement de la feuille de route e-santé, notamment dans son volet référentiel (G+NGAP, CCAM, CIM-10)",
+    "Piloter les dossiers relatifs aux nouveaux actes médicaux (gestion des demandes, priorisation, suivi) en lien avec les acteurs internes et externes",
+    "Être l'interlocuteur privilégié des professionnels de santé de ville du territoire, des acteurs et des partenaires en termes de e-santé.",
+    "En lien avec les professionnels médicaux de la direction:",
+    "Participation aux astreintes médicales selon les modalités prévues en interne de la direction",
+    "Ponctuellement,  participation à diverses commissions médico-administratives ( commission des hospitalisations sans consentement en psychiatrie, comité médical des praticiens hospitaliers)."
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Bonne connaissance des nomenclatures de santé en Hexagone .",
+    "Expérience en gestion de projets et en santé publique.",
+    "Compréhension des enjeux techniques et politiques de protection sociale",
+    "Piloter par projet",
+    "Discerner les enjeux spécifiques, anticiper et prendre des initiatives",
+    "Animer des groupes de travail, des réunions",
+    "Maîtriser et être autonome pour l'utilisation des outils bureautiques et le cas échéant applications informatiques spécifiques internes",
+    "Excellentes qualités relationnelles pour travailler en équipe pluridisciplinaire (médecins, statisticiens, informaticiens, administratifs).",
+    "Aptitude à la polyvalence des missions",
+    "Rigueur méthodologique, sens de l'organisation et autonomie",
+    "Capacité d'analyse, de synthèse et de rédaction",
+    "Intégrité et déontologie",
+    "Qualité d'écoute et de dialogue, diplomatie",
+    "Forte disponibilité et réactivité",
+    "Intérêt marqué pour l'innovation médicale et les nouvelles techniques"
+  ],
+  "specialCommitments": "Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale.\nPolyvalence des missions nécessitant une expertise médicale transversale.\nInterface entre le niveau stratégique (direction) et opérationnel (établissements de santé).\nRôle de conseil et d'expertise auprès des professionnels de santé.\nContribution à la modernisation du système d'information de santé.",
+  "title": "Médecin / Conseiller technique médical performance",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-09-25",
+  "workHours": "Astreintes médicales possibles",
+  "champs_open_data": 29,
+  "employeur_sigle": "DASS",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
+  "direction_source": "source",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "politique-de-sante-publique"
+}
