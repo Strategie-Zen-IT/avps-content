@@ -1,0 +1,177 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Cadre de santé / infirmier en soins généraux",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "UPASS de Thio",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directrice adjointe en charge du pôle santé et territoires",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Pôle santé et territoires",
+      "Centre médico-social",
+      "Direction Provinciale de l'Action Sanitaire et Sociale"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Le poste est basé à Thio où le ou la candidat(e) retenu(e) exercera principalement ses fonctions, pour autant il nécessite de nombreux déplacements sur le territoire de la province Sud."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952050.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'actions sanitaire et sociale (UPASS), des centres médico-sociaux et des autres sites excentrés. Au sein du pôle santé et territoires, le ou la responsable de l'UPASS de Thio, se verra confier l'organisation de l'offre de santé au sein de cette structure ainsi que l'encadrement des personnels de santé qui y exercent. Il ou Elle sera également chargé(e) de coordonner l'action de l'ensemble des agents (directement rattachés ou non) et des acteurs intervenant au sein du CMS, afin de permettre un fonctionnement optimal de celui-ci. Il ou Elle animera cette équipe pluridisciplinaire (médecins, infirmiers, sage-femme, spécialistes vacataires, psychothérapeute, assistante sociale, agent de l'aide médicale, éducateur spécialisé, etc.) de manière à favoriser une cohérence de l'action sanitaire et sociale sur ce territoire.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1152",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Responsable de l'UPASS de Thio",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "UPASS de Thio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Thio",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.44.71",
+    "email": "patricia.pedre@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-07-31",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme de Cadre de santé ou d'infirmier diplômé d'Etat",
+    "competencyRequired": [
+      "Connaissance de la DPASS et de ses différentes structures",
+      "Notion d'informatique et du logiciel ASCLEPIOS",
+      "Expérience en structure de soin isolée",
+      "Expérience en management et/ou projet professionnel en lien avec le management"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "UPASS de Thio"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience en structure de soin isolée et expérience en management et/ou projet professionnel en lien avec le management.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "UPASS de Thio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Thio",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplôme de Cadre de santé ou d'infirmier diplômé d'Etat",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Infirmier",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Coordination de services médicaux ou paramédicaux"
+    }
+  },
+  "responsibilities": [
+    "Gérer la programmation hebdomadaire et journalière des activités de soins",
+    "Garantir et de contrôler la qualité, la sécurité des soins et des activités paramédicales : procédures, protocoles, réalisation d'audits, suivis d'indicateurs",
+    "Favoriser la synergie professionnelle au profit des usagers, dans le respect des compétences et des obligations de chacun",
+    "Encadrer les professionnels de santé intervenant au sein de la structure",
+    "Repartir et de gérer les ressources et les moyens de l'unité",
+    "Coordonner les professionnels médicaux, paramédicaux, sociaux, éducatifs, administratifs et techniques, en développant la qualité des prises en charge dans une dynamique territoriale de proximité",
+    "Garantir une gestion optimale du fonctionnement de la structure, en assurant le respect de la réglementation en vigueur, notamment en matière de sécurité",
+    "Proposer des actions nouvelles et de participer à l'évolution de celles existantes",
+    "Mettre en place en collaboration avec tous les acteurs de la zone géographique des actions de prévention",
+    "Suivre et de réaliser un bilan mensuel et annuel des activités du CMS"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité au management transversal et à l'animation d'équipes projets",
+    "Capacité à faire le lien entre les équipes, les acteurs partenariaux et la population",
+    "Capacité à anticiper et gérer les besoins en prenant en compte l'isolement du CMS",
+    "Capacité à conduire le changement",
+    "Capacité à valoriser les actions de la province sur son territoire",
+    "Capacité à impulser des actions de groupe",
+    "Capacité à conduire des réunions",
+    "Capacité à animer, mobiliser, organiser et entraîner une équipe",
+    "Capacité à traiter et résoudre les situations conflictuelles",
+    "Prises d'initiatives",
+    "Organisation",
+    "Diplomatie",
+    "Motivation",
+    "Disponibilité",
+    "Adaptabilité",
+    "Ethique et déontologie",
+    "Sens du service public"
+  ],
+  "specialCommitments": null,
+  "title": "Responsable de l'UPASS de Thio",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-02",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
