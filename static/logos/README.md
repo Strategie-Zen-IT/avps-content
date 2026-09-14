@@ -35,3 +35,17 @@ WHERE identifie ORDER BY nb_avp_actifs DESC
   sous deux mois : inutile de forcer un rejeu pour ça.
 
 ⚠️ N'ajoutez ici que des logos que l'employeur autorise à reproduire.
+
+## Logos présents
+
+| Fichier | Employeur | Clé de résolution | Source |
+|---|---|---|---|
+| `opt.png` | Office des postes et télécommunications | sigle `OPT` | opt.nc |
+| `pvs.png` | Province Sud | sigle `PVS` | province-sud.nc |
+| `pvn.png` | Province Nord | sigle `PVN` | province-nord.nc |
+| `cnc.png` | Congrès de la Nouvelle-Calédonie | sigle `CNC` | congres.nc |
+| `nouvelle-caledonie.png` | Gouvernement de la Nouvelle-Calédonie | slug de collectivité (couvre DASS, DITTT, DAVAR, DRHFPNC…) | gouv.nc |
+| `ville-de-noumea.png` | Ville de Nouméa | slug de collectivité (la Ville n'apparaît pas encore comme collectivité dans la source ; ses établissements « Caisse des écoles de Nouméa » et « CCAS-Nouméa » ont leurs propres sigles) | noumea.nc |
+
+Récupérés le 14/09/2026 depuis les sites institutionnels. Autorisation de reproduction à
+confirmer auprès de chaque collectivité.

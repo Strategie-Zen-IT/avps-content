@@ -39,8 +39,8 @@ automatiquement : en cas de divergence, c'est le document d'origine qui prime.
 5. **Site statique.** Le site est compilé avec Hugo : chargement instantané, aucune base
    de données exposée, empreinte minimale.
 
-Le code source est consultable sur GitHub : [avps-engine](https://github.com/Strategie-Zen-IT/avps-engine)
-(traitement) et [avps-content](https://github.com/Strategie-Zen-IT/avps-content) (site).
+Le code source du site est consultable sur GitHub :
+[avps-content](https://github.com/Strategie-Zen-IT/avps-content).
 
 ---
 
