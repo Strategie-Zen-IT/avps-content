@@ -1,0 +1,160 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "CENTRE HOSPITALIER DU NORD",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Coordinatrice des Soins",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Planning de travail",
+        "value": "Roulement en 12 heures, Polyvalence Jour-Nuit"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952050.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Avis de vacance de poste pour un poste d'infirmier (ere) au Centre Hospitalier du Nord, localisé à Poindimié. Poste à temps plein à pourvoir immédiatement.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1279",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Infirmier(e)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier du Nord"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Area",
+    "name": "Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": null,
+      "addressRegion": "Nouvelle-Calédonie",
+      "addressCountry": "NC"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "42.65.16",
+    "email": "recrutement@chn.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'État d'infirmier",
+    "competencyRequired": [
+      "Soins infirmiers",
+      "Méthode de recherche en soins",
+      "Médicales générales et/ou scientifiques en fonction du domaine d'activité",
+      "Droit des patients",
+      "Gestes et postures-manutention",
+      "Gestion du stress",
+      "Hygiène hospitalière",
+      "Communication et relation d'aide",
+      "Méthodologie d'analyse de situation d'urgences spécifiques à son domaine de compétence et définir les actions",
+      "Analyser/évaluer la situation clinique d'une personne, d'un groupe de personnes, relative à son domaine de compétence"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier du Nord"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Raymond Douï Nébayes de Poindimié",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Poindimié",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplôme d'État d'infirmier",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Infirmier",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Infirmier / Infirmière en soins généraux"
+    }
+  },
+  "responsibilities": [
+    "Dispenser des soins de nature préventive, curative ou palliative, visant à promouvoir, maintenir et restaurer la santé",
+    "Contribuer à l'éducation, à la santé et à l'accompagnement des personnes hospitalisées dans leur parcours de soins en lien avec leur projet de vie"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Éduquer, conseiller le patient et son entourage dans le cadre du projet de soins",
+    "Analyser, synthétiser des informations permettant la prise en charge de la personne soignée et la continuité des soins",
+    "Identifier, analyser, évaluer et prévenir les risques relevant de son domaine, définir les actions correctives/préventives",
+    "Conduire un entretien d'aide",
+    "Elaborer et formaliser un diagnostic santé de la personne, relatif à son domaine de compétence",
+    "Concevoir, formaliser et adapter des procédures/protocoles/modes opératoires/consignes relatives à son domaine de compétence",
+    "Evaluer les pratiques professionnelles de soins sans son domaine de compétence",
+    "Identifier/analyser des situations",
+    "Disponibilité",
+    "Autonomie",
+    "Respect",
+    "Sens de l'organisation",
+    "Esprit de synthèse et d'analyse",
+    "Esprit d'équipe"
+  ],
+  "specialCommitments": null,
+  "title": "INFIRMIER (ERE)",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": "Roulement en 12 heures, Polyvalence Jour-Nuit",
+  "champs_open_data": 6,
+  "employeur_sigle": "CHN",
+  "collectivite": "Centre hospitalier du Nord",
+  "direction": "CENTRE HOSPITALIER DU NORD",
+  "direction_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
