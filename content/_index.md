@@ -3,6 +3,13 @@ title: "🏛️ Les emplois de la fonction publique calédonienne"
 weight: 1
 ---
 
+{{% notice style="warning" title="🚧 Site en cours de développement" icon="tools" %}}
+avps.nc est en construction : les offres arrivent progressivement, la présentation et
+certaines fonctionnalités vont encore évoluer. Pour consulter l'ensemble des avis de vacance
+de poste, référez-vous à la source officielle sur
+[data.gouv.nc](https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc).
+{{% /notice %}}
+
 Toutes les offres d'emploi publiques de Nouvelle-Calédonie, réunies au même endroit et
 classées **par métier**.
 

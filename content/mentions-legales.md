@@ -55,9 +55,10 @@ propriété de leurs émetteurs respectifs. Ils sont repris depuis la plateforme
 ouvertes de la Nouvelle-Calédonie, dans les conditions de réutilisation qu'elle indique.
 
 La structure du Site, ses gabarits, ses textes éditoriaux et ses illustrations générées
-sont la propriété de Stratégie Zen IT. Le code source du Site et de son moteur est publié
-sur GitHub ([avps-engine](https://github.com/Strategie-Zen-IT/avps-engine),
-[avps-content](https://github.com/Strategie-Zen-IT/avps-content)) ; les données
+sont la propriété de Stratégie Zen IT, tous droits réservés. Le code source du Site et de
+son moteur est consultable sur GitHub ([avps-engine](https://github.com/Strategie-Zen-IT/avps-engine),
+[avps-content](https://github.com/Strategie-Zen-IT/avps-content)) sans que cela
+emporte de droit de réutilisation ; les données
 structurées (JSON-LD, flux RSS et ATS) sont librement réutilisables, à condition de ne
 jamais présenter le Site comme l'employeur d'une offre. Pour toute autre demande :
 melanie+juridique@strategiezenit.com.
