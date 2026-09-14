@@ -1,0 +1,171 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Gradés de la Police Municipale",
+    "direction": "VILLE DU MONT-DORE",
+    "uniteOrganisationnelle": "Service anti-délinquance des mineurs",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Chef de service",
+      "Services municipaux",
+      "Partenaires institutionnels",
+      "Partenaires associatifs"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Activité associant travail administratif, coordination et interventions de terrain. Déplacements réguliers sur le territoire communal et l'agglomération du Grand Nouméa. Travail en transversalité avec les services municipaux et les différents partenaires institutionnels et associatifs. Poste nécessitant des qualités d'analyse, de coordination, d'organisation et de capacité à être force de proposition. Participation au suivi et à l'évaluation des actions et dispositifs mis en œuvre. Disponibilité et réactivité requises selon les nécessités du service. Respect des obligations de confidentialité et des règles déontologiques."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957156.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Dans le cadre du renforcement de son action en matière de prévention et de lutte contre la délinquance des mineurs, la collectivité souhaite structurer et développer un dispositif dédié. Le chargé de mission intervient, en lien étroit avec le chef de service, afin d'accompagner la mise en œuvre, la coordination et le développement de ce dispositif, en favorisant une approche partenariale et une réponse adaptée aux situations impliquant des mineurs.",
+  "disambiguatingDescription": "Réorganisation interne - Chargé de mission de lutte contre la délinquance des mineurs",
+  "identifier": "26-1301",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé de mission",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Mairie du Mont-Dore",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4468 avenue des deux baies Boulari",
+      "addressLocality": "Mont-Dore",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "41.01.82",
+    "email": "ds@ville-montdore.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaissance de la réglementation applicable à la police municipale",
+      "Connaissance des pouvoirs de police du maire",
+      "Connaissance des dispositifs de prévention de la délinquance et de la justice pénale des mineurs",
+      "Connaissance des procédures administratives et des techniques de constatation",
+      "Connaissance des partenaires institutionnels et judiciaires",
+      "Maîtrise des outils bureautiques et des techniques de rédaction administrative"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Service anti-délinquance des mineurs"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Boulari",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Mont-Dore",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "immédiatement",
+  "occupationalCategory": [
+    "Prévention et sécurité"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B exigé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé de mission",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Sécurité publique"
+    }
+  },
+  "responsibilities": [
+    "En collaboration avec le chef de service, participer à la conception, à la mise en œuvre et au pilotage du dispositif de lutte contre la délinquance des mineurs",
+    "Animer les travaux de concertation et contribuer à l'élaboration, à la formalisation et à l'harmonisation des procédures opérationnelles",
+    "Contribuer à l'élaboration et à la mise en œuvre des stratégies de prévention et d'intervention en matière de délinquance des mineurs",
+    "Assurer le suivi et l'évaluation des indicateurs d'activité et de performance du dispositif, et proposer des actions d'amélioration continue",
+    "Contribuer, dans le cadre des compétences de la police municipale, à la constatation, au recueil, à l'analyse et à l'exploitation des éléments utiles à la compréhension des faits et des phénomènes de délinquance",
+    "Produire et partager les analyses nécessaires à l'éclairage des décisions opérationnelles et stratégiques",
+    "Participer à la préparation des bilans, comptes rendus et outils de suivi permettant d'évaluer l'efficacité du dispositif et d'en accompagner l'évolution"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Réaliser des constatations et rédiger les procédures correspondantes",
+    "Rechercher, recueillir et analyser des informations utiles au traitement des dossiers",
+    "Exploiter les outils de vidéoprotection et les systèmes d'information dans le respect du cadre légal",
+    "Rédiger des notes, rapports et comptes rendus",
+    "Travailler en réseau avec les partenaires institutionnels",
+    "Organiser et assurer le suivi administratif des dossiers",
+    "Rendre compte et alerter sa hiérarchie",
+    "Rigueur et sens de l'organisation",
+    "Être à l'écoute",
+    "Discrétion professionnelle",
+    "Respect de la confidentialité",
+    "Esprit d'analyse",
+    "Sens de l'observation",
+    "Qualités relationnelles",
+    "Aptitude au travail partenarial",
+    "Diplomatie",
+    "Discernement et maîtrise de soi",
+    "Autonomie dans l'exécution des missions",
+    "Loyauté envers la hiérarchie",
+    "Sens du service public"
+  ],
+  "specialCommitments": "Disponibilité et réactivité requises selon les nécessités du service",
+  "title": "Chargé de mission",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "VILLE-DU-MONT-DORE",
+  "collectivite": "Ville du Mont-Dore",
+  "direction": "VILLE DU MONT-DORE",
+  "direction_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.859,
+  "dossier": "administration-generale"
+}
