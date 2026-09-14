@@ -1,0 +1,212 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Médecin de santé publique",
+    "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
+    "uniteOrganisationnelle": "Service de la santé publique",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "IDE du service de santé publique",
+      "Médecins de la direction",
+      "Chargé de communication de la direction",
+      "Professionnels médicaux de la direction"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "inférieure à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service de la santé publique"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "MESTRE Marie-Laure"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953416.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le médecin de santé publique, en qualité de conseiller technique, intervient en expertise sur l'ensemble des thématiques  du service de santé publique. A ce titre, il a pour missions:\nau titre de la prévention et de la promotion de la santé : définition et participation à la rédaction des plans de santé; de cahiers des charges d'AAP, d'avis dans le cadre de l'instruction de projets, d'animation ou de co-animation des conférences de santé\ndans le champs propre des conseillers médicaux : participation aux processus de gestion formalisés et validés en matière de réglementation, d'EIG, d'EIAS, d'EIGS, inspections, contrôles,  gestion de crise, astreintes",
+  "disambiguatingDescription": null,
+  "identifier": "26-63595/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Conseiller médical Prévention, Promotion de la santé",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouvelle-Calédonie"
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.37.00",
+    "email": "direction.dass@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-06-12",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme de médecine",
+    "competencyRequired": [
+      "Diplôme de médecine",
+      "Santé publique et système de santé",
+      "Contexte de l'exercice médical et des bonnes pratiques",
+      "Cadre légal et réglementaire de la santé publique/du système de santé",
+      "Politiques sanitaires et médico-sociales",
+      "Expérience de travail en outre-mer appréciée",
+      "Connaissance de l'environnement professionnel de la Nouvelle-Calédonie appréciée."
+    ]
+  },
+  "eligibilityToWorkRequirement": "inférieure à 3 ans",
+  "employerOverview": "La direction des affaires sanitaires et sociales de la Nouvelle-Calédonie est une des directions techniques du gouvernement de la Nouvelle-Calédonie.\nElle est responsable de la mise en œuvre de la politique de la Nouvelle-Calédonie en matière de santé publique et de protection sociale. \nElle comprend un service administration et support qui intervient en support de manière transversale et quatre services métiers.\nLes principaux enjeux de la politique de santé reposent sur le concept Une seule santé et sont liés aux déterminants de santé, à la santé relationnelle, à la prévention et aux parcours.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Service de la santé publique"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience de travail en outre-mer appréciée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Service de la santé publique",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Politique de santé publique",
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplôme de médecine",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Médecin inspecteur",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1402",
+      "name": "Médecin (Inspecteur de Santé Publique -MISP-, inspecteur de la santé, conseil)"
+    }
+  },
+  "responsibilities": [
+    "Le conseiller médical prévention, promotion de la santé  est en charge de missions nécessitant une bonne polyvalence technique car il est amené à intervenir sur des thèmes :",
+    "Analyser et diagnostiquer des enjeux de santé, propositions et stratégies, d'orientations ou d'actions",
+    "Contribuer aux aspects médicaux des schémas et programmes d'actions et à leur évaluation",
+    "Animer des réseaux de professionnels de santé dans la domaine sanitaire ou médico-social",
+    "Collaborer à des travaux, études médicales",
+    "Rédiger des rapports de synthèse, d'inspection ou d'expertise.",
+    "Missions spécifiques",
+    "Assurer l'analyse, les investigations, et la gestion des signaux infectieux en collaboration avec les IDE du service de santé publique, et les autres médecins de la direction",
+    "Participer à la mise en place et l'actualisation des outils d'investigation et de gestion des signaux et alertes sanitaires, harmonisés pour toute la région en particulier concernant les pathologies suivantes rougeole, oreillons, rubéole, coqueluche, poliomyélite varicelle, diphtérie, variole, tuberculose, méningites",
+    "Participer à la préparation des points de suivi des alertes et des messages de communication (CP, site internet",
+    "messages aux professionnels...) avec le chargé de communication de la direction",
+    "Participer au point de situation hebdomadaire sur les dossiers en cours de gestion par l'équipe en charge des alertes",
+    "infectieuses",
+    "Participer au « point astreinte »  dans le cadre de l'astreinte médicale",
+    "Contribuer à la gestion médicale des évènements indésirables associés aux soins et au traitement des réclamations",
+    "Contribuer au dispositif d'inspection/contrôle",
+    "Politiques et dispositifs de prévention",
+    "Assurer la mission de référent médical prévention et santé envirronnement.",
+    "Contribuer à l'évaluation des dispositifs de prévention",
+    "En lien avec les professionnels médicaux de la direction:",
+    "Émettre des avis dans le champs médico-social, dont les demandes d'admission provisoire au séjour, si nécessaire",
+    "Ponctuellement,  participation à diverses commissions médico-administratives de la direction ( commission des hospitalisations sans consentement en psychiatrie, comité médical des praticiens hospitaliers, commission d'appel des évacuations sanitaires, conseil de santé des fonctionnaires...).",
+    "Participer au « point astreinte »  dans le cadre de l'astreinte médicale",
+    "Participe à la formation des étudiants en santé",
+    "Apporter son concours aux situation de gestion de crise"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Discerner les enjeux spécifiques, anticiper et prendre des initiatives dans des domaines sensibles et dans l'urgence",
+    "Mémoriser, synthétiser et exploiter des dossiers complexes",
+    "Conduire un projet",
+    "Concevoir et proposer des solutions innovantes et durables",
+    "Maîtriser et être autonome pour l'utilisation des outils bureautiques courants",
+    "Animer des réunions",
+    "Sens de la pédagogie",
+    "Aptitude à la polyvalence des missions",
+    "Capacités d'analyse et de synthèse",
+    "Qualités rédactionnelles",
+    "Intégrité et déontologie",
+    "Appétence pour le travail en équipe"
+  ],
+  "specialCommitments": "Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale.",
+  "title": "Conseiller médical Prévention, Promotion de la santé",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-09-18",
+  "workHours": "Astreintes",
+  "champs_open_data": 29,
+  "employeur_sigle": "DASS",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
+  "direction_source": "source",
+  "famille_respnc": "Santé publique inspection et contrôle",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-inspection-et-controle"
+}
