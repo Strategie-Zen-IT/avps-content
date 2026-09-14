@@ -1,0 +1,204 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Psychologue",
+    "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
+    "uniteOrganisationnelle": "Service éducatif de milieu ouvert et d'insertion",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Services de la PJEJ",
+      "Partenaires de la protection judiciaire",
+      "Magistrats",
+      "Organismes placeurs"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements possibles sur l'ensemble du territoire."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service éducatif de milieu ouvert et d'insertion"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Marie-Gabrielle Tolikoli-Motutoa, chef de service"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952070.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le psychologue intervient, à la demande de l'ensemble des professionnels concernés lorsqu'un accompagnement psychologique paraît pertinent pour un jeune suivi, quelle que soit la mesure prévue par le référentiel des mesures éducatives en vigueur.\n\nSes missions sont les suivantes :\n\n-Réaliser et rédiger des bilans psychologiques ;\n-Soutenir l'accompagnement éducatif individualisé à la demande du personnel éducatif ;\n-Soutenir et/ou accompagner les mineurs vers une prise en charge psychologique régulière ;\n-Recueillir, étudier et analyser les besoins et/ou demandes en interventions psychologiques ou psychiatriques ;\n-Rédiger des notes ou rapports complémentaires aux rapports éducatifs, à destination des magistrats ou des organismes placeurs, lorsque son éclairage apparaît nécessaire ;\n-Travailler en équipe pluridisciplinaire : participation aux synthèses, contribution à la proposition d'orientation éducative soumise aux magistrats ;\n-Travailler en collaboration avec les services de la PJEJ et les partenaires de la protection judiciaire  ;\n-Travailler en étroite collaboration avec les psychologues et les partenaires.",
+  "disambiguatingDescription": null,
+  "identifier": "26-65352/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Psychologue",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "23.20.10",
+    "email": "marie-gabrielle.tolikoli-motutoa@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Être titulaire d'une licence et d'un master 2 en psychologie (diplômes exigés pour le recrutement sur titre)",
+      "Connaissances des problématiques liées à la criminologie et à la victimologie",
+      "Connaissances des problématiques liées à la maltraitance",
+      "Connaissances en addictologie, prévention du suicide et déviance."
+    ]
+  },
+  "eligibilityToWorkRequirement": "Au moins égale à 5 ans",
+  "employerOverview": "La DPJEJ est chargée de mettre en œuvre les orientations de la Nouvelle-Calédonie en matière de protection judiciaire de l'enfance et de la jeunesse. À ce titre, elle veille à répondre aux besoins liés à l'instruction et à l'exécution des décisions judiciaires concernant les mineurs.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Service éducatif de milieu ouvert et d'insertion"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Informations salaire : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Service éducatif de milieu ouvert et d'insertion",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-11-12",
+  "occupationalCategory": [
+    "Santé publique soins",
+    "Action sociale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B indispensable",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Psychologue",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Psychologue, Psychanalyste, Psychothérapeute"
+    }
+  },
+  "responsibilities": [
+    "Participer aux réunions d'équipe institutionnelles, aux synthèses et bilans autour des situations des jeunes, et apporter un éclairage clinique sur ces situations",
+    "Participer, avec le référent, aux rencontres avec les jeunes et leurs familles",
+    "Rencontrer les jeunes, les familles d'accueil et les partenaires, et établir un bilan",
+    "Offrir à l'adolescent un espace d'écoute où sa parole peut s'exprimer librement et en toute confidentialité",
+    "À partir du bilan psychologique, apporter un éclairage clinique permettant de penser les choix éducatifs les plus adaptés au jeune, à sa personnalité et à sa problématique",
+    "Accompagner les mineurs incarcérés au sein du centre pénitentiaire",
+    "Être en relation avec l'équipe et les autres intervenants extérieurs, en particulier dans son champ de compétence, dans le cadre du suivi des jeunes.",
+    "Assurer un suivi des jeunes selon leur demande ou celle de l'éducateur référent",
+    "Orienter les jeunes et les familles vers les professionnels et structures de prise en charge psychologique appropriés",
+    "Soutenir et guider l'équipe dans la compréhension des problématiques psychologiques des jeunes ou de leurs comportements",
+    "Accompagner et encadrer des stagiaires psychologues."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Compétences dans le diagnostic et l'accompagnement des adolescents et de leur famille",
+    "Ajuster la démarche thérapeutique en fonction du profil du jeune et de son environnement familial",
+    "Rédiger des notes, rapports cliniques et rapports d'activité",
+    "Adapter sa pratique professionnelle aux situations rencontrées",
+    "Observer, écouter et analyser la situation ainsi que le discours des personnes",
+    "Formaliser et transmettre le savoir professionnel.",
+    "Éthique et déontologie",
+    "Sens du service public",
+    "Bon relationnel",
+    "Adaptabilité",
+    "Discrétion",
+    "Rigueur",
+    "Disponibilité."
+  ],
+  "specialCommitments": "Déplacements possibles sur l'ensemble du territoire.\nPermis B indispensable.",
+  "title": "Psychologue",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 31,
+  "employeur_sigle": "DPJEJ",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
+  "direction_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
