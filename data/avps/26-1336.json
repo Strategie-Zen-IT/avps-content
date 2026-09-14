@@ -1,0 +1,174 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif",
+    "direction": "SMTU",
+    "uniteOrganisationnelle": "Service Administratif, Communication et Réclamations",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cheffe du service Administratif, Communication et Réclamations",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Service ACR",
+      "Direction",
+      "Chefs des autres services"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957150.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le SMTU a pour objet l’organisation, la gestion et l’exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes sur le territoire du Grand Nouméa. Sous l’autorité de la cheffe du service Administratif, Communication et Réclamations, l'agent participe à la gestion administrative et exerce ses activités auprès du Service ACR et de la Direction.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1336",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Assistant administratif",
+  "owner": {
+    "@type": "Organization",
+    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+    "url": "http://www.taneo.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "SMTU",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "recrutement@smtu.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Organisation et/ou exploitation de réseaux de transports publics urbains",
+      "Connaissance des acteurs du transport public sur l’agglomération du Grand Nouméa et du Territoire",
+      "Connaissances du fonctionnement des collectivités et des circuits administratifs",
+      "Connaissances de base en gestion administrative et archivage"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs au moins égale à 10 ans",
+  "employerOverview": "Le SMTU a pour objet l’organisation, la gestion et l’exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes sur le territoire du Grand Nouméa.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+    "url": "http://www.taneo.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+    "url": "http://www.taneo.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "SMTU",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "assistant administratif",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Opérations administratives"
+    }
+  },
+  "responsibilities": [
+    "Gérer et filtrer les appels téléphoniques ainsi que l’accueil physique des visiteurs et partenaires de la Direction",
+    "Organiser l’agenda, les rendez-vous et les déplacements à la demande de la Direction",
+    "Gérer les boîtes mails fonctionnelles de la direction",
+    "Rédiger et mettre en forme les courriers, notes, comptes rendus et documents administratifs",
+    "Assurer les fonctions de vaguemestre",
+    "Traiter, enregistrer, diffuser et archiver le courrier entrant et sortant",
+    "Suivre la production, la transmission et le classement des actes administratifs",
+    "Vérifier le rendu exécutoire des actes administratifs",
+    "Suivre la logistique des réunions internes et des comités syndicaux",
+    "Mettre à jour les dossiers",
+    "Gérer les commandes de fournitures de bureaux et/ou petits matériels",
+    "Exécuter toute tâche complémentaire en lien avec les missions du service",
+    "Apporter un appui aux chefs des autres services dans la gestion administrative",
+    "Réceptionner les appels en l’absence des personnels d’accueil, filtrer et orienter les interlocuteurs",
+    "Participer de façon ponctuelle au traitement des réclamations clients",
+    "Contribuer à l’organisation et à la logistique des évènements organisés par le SMTU"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Outils de bureautique (Word, Excel, Outlook, ...)",
+    "Capacités rédactionnelles",
+    "Gestion des priorités et respect des délais",
+    "Sens des relations humaines",
+    "Capacité à travailler en partenariat",
+    "Qualités d’analyse",
+    "Discrétion et respect de la confidentialité",
+    "Bon sens de l’organisation et d’écoute",
+    "Aisance relationnelle et sens du service public",
+    "Rigueur, et autonomie",
+    "Veille du respect des procédures",
+    "Réactivité",
+    "Disponibilité et adaptabilité"
+  ],
+  "specialCommitments": null,
+  "title": "ASSISTANT ADMINISTRATIF",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "SMTU",
+  "direction_source": "document",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.992,
+  "dossier": "administration-generale"
+}
