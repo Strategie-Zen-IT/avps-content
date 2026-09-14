@@ -1,0 +1,183 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Service de prévention et promotion de la santé",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service de prévention et de promotion de la santé",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Unités provinciales d'action sanitaire et sociale (UPASS)",
+      "Centres médico-sociaux (CMS) provinciaux"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Statut du poste",
+        "value": "Susceptible d'être vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953382.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS), rattachée au pôle développement et épanouissement de la personne, exerce son action sur l'ensemble du territoire provincial, au sein de ses services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS) et centres médico-sociaux et de ses autres sites excentrés. Au sein du pôle enfance-famille, le service de prévention et promotion de la santé élabore et met en œuvre des actions de promotion et de communication relatives au domaine de la santé, coordonne des activités de prévention, développe des actions de santé communautaire, et anime des lieux d'accueil et des points d'écoute psychologique de proximité.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1249",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Educateur sanitaire au SSPS",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.44.61",
+    "email": "frederique.yamamoto@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-21",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'Etat d'éducateur spécialisé ou d'assistant de service social ou d'éducateur de jeunes enfants, ou diplôme d'enseignant du premier degré",
+    "competencyRequired": [
+      "Connaissance de l'environnement institutionnel de Nouvelle Calédonie",
+      "Connaissance du milieu et des spécificités de la Nouvelle Calédonie",
+      "Connaissance de la charte d'Ottawa"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": "Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent, dans une dynamique de synergie médico-sociale, à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Service de prévention et promotion de la santé",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Justifier d'une expérience professionnelle souhaitée de 3 ans minimum",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": "Un système de récupération est prévu.",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Grand Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6 route des artifices",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Action sociale",
+    "Politique de santé publique"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Éducateur sanitaire",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1402",
+      "name": "Intervention socioéducative"
+    }
+  },
+  "responsibilities": [
+    "L'éducation à la santé : interventions scolaires auprès des élèves et des parents dans les écoles primaires et dans les structures médico-sociales afin d'intensifier la prévention et la réduction des risques de santé publique",
+    "La formation de professionnels en matière de santé publique en lien avec la politique provinciale en vue de mener des actions de prévention et de promotion de la santé",
+    "Le développement de la santé communautaire dans le cadre d'ateliers collectifs et/ou individuels",
+    "L'accompagnement et la mise en place d'actions en soutien des unités provinciales d'action sanitaire et sociale (UPASS), et des centres médico-sociaux (CMS) provinciaux",
+    "La création d'outils pédagogiques et la veille documentaire"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité à proposer, à concevoir, à conduire, à suivre et à évaluer des actions",
+    "Capacité à communiquer à l'oral et à l'écrit de façon claire, structurée et adaptée",
+    "Capacité à être autonome, à s'organiser et à anticiper les besoins et gérer les priorités",
+    "Capacité à adapter les actions en fonction des besoins des publics",
+    "Capacité à développer, à animer et à coordonner un réseau de partenaires",
+    "Capacité à concevoir des outils et supports pédagogiques",
+    "Capacité à travailler en équipe pluridisciplinaire",
+    "Capacité d'analyse et de prise de recul sur les situations rencontrées",
+    "Capacité à représenter l'institution",
+    "Capacité à rendre compte de son activité à sa hiérarchie",
+    "Maîtrise des outils informatiques (Word, Excel, Outlook, Power point, IA)",
+    "Sens de la pédagogie indispensable",
+    "Posture et communication bienveillante et non jugeante",
+    "Ecoute active",
+    "Rigueur professionnelle",
+    "Bonne organisation de travail",
+    "Grande autonomie",
+    "Sens de l'anticipation",
+    "Adaptabilité",
+    "Qualités relationnelles",
+    "Esprit d'initiative et créativité",
+    "Sens critique",
+    "Disponibilité et mobilité",
+    "Discrétion professionnelle et respect de la confidentialité",
+    "Neutralité et éthique",
+    "Sens du service public et respect du cadre institutionnel",
+    "Tenue et attitude professionnelle adaptées au cadre institutionnel"
+  ],
+  "specialCommitments": "Des déplacements hebdomadaires sont à prévoir. Interventions possibles en soirée.",
+  "title": "Educateur sanitaire au SPPS",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": "39h du lundi au vendredi, y compris pendant les périodes de vacances scolaires",
+  "champs_open_data": 7,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 0.984,
+  "dossier": "politique-de-sante-publique"
+}
