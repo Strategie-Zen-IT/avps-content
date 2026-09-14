@@ -1,0 +1,170 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "GROUPEMENT INSERTION EVOLUTION PROFESSIONNELLES DE NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur adjoint en charge de la formation",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Direction des Affaires Maritimes de la Nouvelle-Calédonie",
+      "Armateurs",
+      "Entreprises maritimes",
+      "Organisations professionnelles"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953296.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le Groupement pour l'Insertion et l'Evolution Professionnelles en Nouvelle-Calédonie (GIEP-NC), un ensemble de pôles de compétences pour le développement professionnel, a pour mission de : informer, orienter et accompagner dans le projet professionnel ; préparer à l'emploi et/ou à une formation qualifiante ; former aux métiers de l'hôtellerie-restauration, de l'industrie, de la maintenance automobile, de la mer et du transport logistique.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1098",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Responsable du pôle Métiers de la Mer",
+  "owner": {
+    "@type": "Organization",
+    "name": "Groupement insertion évolution professionnelles de Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "GIEP-NC",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "10 rue Kataoui Nouville",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "recrutement@giep.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-07-24",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Formation supérieure",
+    "competencyRequired": [
+      "Bonne compréhension des dispositifs de formation professionnelle et de leurs enjeux",
+      "Connaissance du fonctionnement des institutions publiques et de l'environnement administratif de la Nouvelle-Calédonie",
+      "Intérêt marqué pour les activités maritimes et leur environnement économique et réglementaire",
+      "Maîtrise des principes de l'ingénierie de formation et capacité à accompagner le développement d'une offre de formation adaptée aux besoins des acteurs du territoire"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "GIEP-NC",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Expérience professionnelle significative en lien avec les missions du poste",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Groupement insertion évolution professionnelles de Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Éducation",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "GIEP-NC",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "10 rue Kataoui Nouville",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Formation professionnelle"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "responsable formation",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1503",
+      "name": "Coordination pédagogique"
+    }
+  },
+  "responsibilities": [
+    "Piloter l'activité du pôle Métiers de la Mer et assurer la mise en œuvre des orientations définies par le GIEP-NC",
+    "Élaborer des propositions de développement du pôle en lien avec les besoins du secteur maritime, les soumettre à la direction pour arbitrage et assurer leur mise en œuvre après validation",
+    "Superviser la conception, l'organisation et la qualité des actions de formation, dans le respect des référentiels et de la réglementation applicables",
+    "Développer et animer les relations avec les partenaires institutionnels, économiques et professionnels du secteur maritime",
+    "Assurer le fonctionnement des conseils de pôle",
+    "Garantir le maintien des agréments, habilitations et autorisations nécessaires à l'activité du pôle et piloter les démarches associées",
+    "Encadrer, animer et coordonner les équipes du pôle ainsi que les moyens humains, matériels et pédagogiques nécessaires à son fonctionnement",
+    "Préparer les éléments nécessaires à l'élaboration du plan de charge annuel du pôle et contribuer à l'identification des besoins financiers nécessaires à son activité",
+    "Élaborer le rapport annuel d'activité du pôle et rendre compte de son activité à la direction",
+    "Assurer une veille sur les évolutions du secteur maritime, de la formation professionnelle et de la réglementation applicable",
+    "Contribuer à la promotion des métiers de la mer et au rayonnement du pôle Métiers de la Mer",
+    "Participer aux projets transversaux du GIEP-NC",
+    "Participer au recrutement et à l'accompagnement des personnels et intervenants du pôle",
+    "Contribuer au développement de nouvelles formations, prestations, partenariats et modalités pédagogiques"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité à piloter une activité et à conduire des projets",
+    "Capacité à développer une offre de formation et à identifier les besoins en compétences",
+    "Capacité à animer des partenariats et des réseaux professionnels",
+    "Aptitude au management d'équipes et à la coordination",
+    "Maîtrise des outils bureautiques et de reporting",
+    "Sens des responsabilités et de l'intérêt général",
+    "Aisance relationnelle et capacité à fédérer",
+    "Esprit d'analyse, de synthèse et de proposition",
+    "Sens de l'organisation et autonomie",
+    "Capacité d'écoute, de concertation et de négociation",
+    "Aptitude au travail en équipe et en réseau",
+    "Disponibilité et mobilité"
+  ],
+  "specialCommitments": null,
+  "title": "Responsable du pôle Métiers de la Mer",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-02",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "GIEP NC",
+  "collectivite": "Groupement insertion évolution professionnelles de Nouvelle-Calédonie",
+  "direction": "GROUPEMENT INSERTION EVOLUTION PROFESSIONNELLES DE NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "famille_respnc": "Ressources Humaines",
+  "famille_source": "respnc",
+  "famille_score": 0.873,
+  "dossier": "ressources-humaines"
+}
