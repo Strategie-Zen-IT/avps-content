@@ -1,0 +1,192 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "DIRECTION DU BUDGET ET DES AFFAIRES FINANCIERES",
+    "uniteOrganisationnelle": "Service du support métier, de la statistique et de la prospective",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cheffe de service",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Section de l'assistance et du support métier",
+      "Section statistique et prospective",
+      "Experts métiers",
+      "Services",
+      "Directions",
+      "Elus"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Ingénieur 2ème grade domaine informatique : au moins égale à 5 ans."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Informations salaire",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/techniquenc.pdf"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service du support métier, de la statistique et de la prospective"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "TALAHA Audrey - Cheffe de service"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12954124.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le service support métier, de la statistique et de la prospective est composé de 7 agents  spécialisés et répartis en deux sections : \n1. La section de l'assistance et du support métier est en charge notamment du soutien aux utilisateurs des plateformes de gestion financière et des marchés publics. \n\n2. La section statistique et prospective est en charge notamment de la mise en place d'un système d'information décisionnel associé au développement d'un modèle de projection budgétaire et macroéconomique. \n\nAu sein de la section statistique et prospective, l'ingénieur en systèmes d'information décisionnels et analyse de données contribue à la conception, au développement et à l'exploitation du système d'information décisionnel de la direction. Il organise et sécurise les chaînes de collecte, d'intégration, de traitement et de restitution des données budgétaires, financières et économiques nécessaires à la production d'indicateurs, de tableaux de bord et d'analyses prospectives.\n\nIl participe, en lien avec les compétences statistiques et métiers du service, au développement et à l'amélioration des outils de modélisation, de prévision et d'aide à la décision de la direction.",
+  "disambiguatingDescription": null,
+  "identifier": "26-64956/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Ingénieur en systèmes d'information décisionnels et analyse de données",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.60.09",
+    "email": "audrey.talaha@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Diplôme de niveau 7 dans le domaine de l'informatique, des systèmes d'information, de l'ingénierie des données, de l'informatique décisionnelle ou de la science des données.",
+      "Conception et architecture des systèmes d'information",
+      "Modélisation, structuration et gestion des bases de données",
+      "Développement informatique et automatisation des traitements",
+      "Outils d'analyse, de visualisation et d'informatique décisionnelle",
+      "Principes de documentation des systèmes et des données",
+      "Méthodes statistiques appliquées à l'analyse de données",
+      "Une connaissance de l'environnement budgétaire, financier ou économique public serait appréciée."
+    ]
+  },
+  "eligibilityToWorkRequirement": "Ingénieur 2ème grade domaine informatique : au moins égale à 5 ans.",
+  "employerOverview": "La direction du budget et des affaires financières a pour mission principale la préparation et l'exécution du budget de la Nouvelle-Calédonie ainsi que le suivi et le contrôle des établissements publics et des collectivités locales. La direction, composée de 63 agents, est amenée à évoluer fortement dans les années à venir.\n\nD'une part, la Nouvelle-Calédonie est engagée dans une réforme de la gestion des finances publiques qui imposera de nombreux changements opérationnels et décisionnels. D'autre part, en lien avec cette réforme, la direction a vocation à se professionnaliser sur les métiers financiers pour apporter une véritable valeur ajoutée à la collectivité et ses décideurs en matière de prospective, d'analyse, d'évaluation des décisions financières.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service du support métier, de la statistique et de la prospective"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Informations salaire disponibles en ligne",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction du budget et des affaires financières",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Système d'information",
+    "Finances et budget"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Statisticien",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2102",
+      "name": "Statisticien, Ingénieur statisticien"
+    }
+  },
+  "responsibilities": [
+    "Concevoir et faire évoluer l'architecture fonctionnelle et technique du système d'information décisionnel servant aux travaux statistiques et prospectifs de la direction",
+    "Structurer et administrer les bases de données associées",
+    "Concevoir et automatiser les chaînes de traitement de données, en veillant à leur fiabilité, leur traçabilité et leur reproductibilité",
+    "Contribuer à l'intégration et à l'amélioration technique du modèle de projection budgétaire et macroéconomique développé par la direction",
+    "Développer des tableaux de bord, des outils de visualisation et des solutions d'aide à la décision à destination des services, des directions et des élus",
+    "Réaliser des traitements et analyses de données et contribuer à la production d'indicateurs de suivi et de performance",
+    "Participer, en lien avec les experts métiers, aux travaux de prospective, à la préparation du débat d'orientation budgétaire et à la production des rapports et notes associés ; - Documenter les outils, les traitements, les modèles de données et les procédures mis en œuvre",
+    "Participer de manière transversale aux projets de la direction en lien avec les données, les systèmes d'information et l'aide à la décision."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Concevoir et développer des chaînes automatisées de collecte et de traitement de données",
+    "Développer et maintenir des outils d'analyse, de prévision et de visualisation",
+    "Contrôler la qualité, la cohérence et la traçabilité des données",
+    "Exploiter des méthodes statistiques dans un environnement informatique",
+    "Travailler avec des experts métiers afin de traduire leurs besoins en outils opérationnels d'aide à la décision.",
+    "Bonnes qualités relationnelles et sens de la communication",
+    "Organisation, rigueur et autonomie",
+    "Capacité d'analyse, de synthèse et d'initiative",
+    "Qualités rédactionnelles."
+  ],
+  "specialCommitments": null,
+  "title": "Ingénieur en systèmes d'information décisionnels et analyse de données",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-02",
+  "workHours": null,
+  "champs_open_data": 28,
+  "employeur_sigle": "DBAF",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DU BUDGET ET DES AFFAIRES FINANCIERES",
+  "direction_source": "source",
+  "famille_respnc": "Pilotage",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "pilotage"
+}
