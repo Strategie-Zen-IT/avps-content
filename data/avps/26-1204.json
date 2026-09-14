@@ -1,0 +1,195 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien / ingénieur",
+    "direction": "SMTU",
+    "uniteOrganisationnelle": "Service patrimoine",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Service patrimoine",
+      "Prestataires",
+      "Fournisseurs",
+      "Partenaires"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Technicien 1er et 2ème grade : au moins égale à 10 ans. Ingénieur 1er et 2ème grade : au moins égale à 5 ans."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi",
+        "value": "TECHNICIEN ou INGÉNIEUR (cat. B ou A)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956088.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers et maritimes sur le territoire du Grand Nouméa.",
+  "disambiguatingDescription": "Gestion, suivi et valorisation de l'ensemble du patrimoine immobilier et mobilier du SMTU affecté au réseau Tanéo.",
+  "identifier": "26-1204",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Gestionnaire de patrimoine",
+  "owner": {
+    "@type": "Organization",
+    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+    "url": "http://www.taneo.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "SMTU",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "recrutement@smtu.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-14",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+2",
+    "competencyRequired": [
+      "Connaissances techniques en VRD, y compris en signalisation lumineuse tricolore (SLT), en génie civil, en bâtiment et en maintenance d'infrastructures",
+      "Connaissances en maintenance de flotte de véhicules",
+      "Connaissances des logiciels de gestion patrimoniale et connaissance des outils de GMAO",
+      "Connaissances de la réglementation relative aux contrats, aux marchés publics et à la commande publique",
+      "Maîtrise des outils informatiques : tableurs, bases de données et SIG",
+      "Connaissances du contexte local : réglementaire, technique et territorial"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Technicien 1er et 2ème grade : au moins égale à 10 ans. Ingénieur 1er et 2ème grade : au moins égale à 5 ans.",
+  "employerOverview": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers et maritimes sur le territoire du Grand Nouméa.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+    "url": "http://www.taneo.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+    "url": "http://www.taneo.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Transports",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "SMTU",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-10-01",
+  "occupationalCategory": [
+    "Patrimoine bâti",
+    "Transports terrestres et maritimes"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Gestionnaire de patrimoine",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "I1306",
+      "name": "Direction et ingénierie en entretien, maintenance, gestion de patrimoine et travaux neufs"
+    }
+  },
+  "responsibilities": [
+    "Tenir à jour l'inventaire du patrimoine immobilier et mobilier du réseau Tanéo (arrêts, véhicules, infrastructures et équipements)",
+    "Assurer le suivi technique et administratif de la flotte de bus : état, entretien, réformes et assurances",
+    "Superviser l'entretien et la gestion des arrêts de bus : signalétique, mobilier urbain et accessibilité",
+    "Gérer le patrimoine bâti et les infrastructures : site propre, wharf, ouvrage d'art, dock de stockage, centre de maintenance et dépôt avec atelier",
+    "Réaliser des diagnostics techniques et proposer des programmes d'entretien et de rénovation",
+    "Planifier et suivre les opérations de maintenance préventive et curative des infrastructures et équipements",
+    "Coordonner les interventions en urgence et prendre les dispositions nécessaires à la continuité du service du réseau",
+    "Garantir la mise en conformité des installations avec les normes de sécurité, d'accessibilité et environnementales",
+    "Élaborer et suivre le plan pluriannuel d'investissement (PPI) du patrimoine",
+    "Piloter les marchés d'entretien et de maintenance du patrimoine",
+    "Contrôler la conformité des interventions des prestataires, la qualité des prestations et le service fait",
+    "Assurer la valorisation comptable et financière du patrimoine",
+    "Superviser les opérations d'acquisition, de réforme et de cession des équipements",
+    "Produire les tableaux de bord, les indicateurs de performance et les rapports d'activité du patrimoine",
+    "Assurer une veille technique et réglementaire sur la gestion patrimoniale et les innovations",
+    "Formuler des propositions d'optimisation des coûts, de la maintenance et de la valorisation des actifs"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Réaliser des diagnostics techniques et établir des programmes de maintenance",
+    "Suivre des marchés publics d'entretien et de maintenance",
+    "Suivre des enveloppes financières pluriannuelles",
+    "Aider à gérer et optimiser un patrimoine immobilier et mobilier",
+    "Utiliser des outils de gestion de patrimoine et de GMAO",
+    "Coordonner et contrôler l'activité de prestataires multiples",
+    "Concevoir et exploiter des tableaux de bord et des indicateurs de performance",
+    "Rédiger des rapports techniques et des notes de synthèse",
+    "Prioriser les interventions et gérer les situations d'urgence",
+    "Travailler en transversalité avec les services et partenaires",
+    "Autonomie",
+    "Rigueur",
+    "Méthode",
+    "Sens de l'économie",
+    "Optimisation des coûts",
+    "Sens de l'organisation",
+    "Réactivité",
+    "Disponibilité",
+    "Esprit d'anticipation",
+    "Sens de la négociation",
+    "Esprit d'équipe",
+    "Aptitude à la coordination",
+    "Souci de la sécurité",
+    "Sens du service public",
+    "Force de proposition"
+  ],
+  "specialCommitments": null,
+  "title": "GESTIONNAIRE DE PATRIMOINE",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "SMTU",
+  "direction_source": "document",
+  "famille_respnc": "Postes et télécommunications",
+  "famille_source": "respnc",
+  "famille_score": 0.799,
+  "dossier": "postes-et-telecommunications"
+}
