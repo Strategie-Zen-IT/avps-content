@@ -1,0 +1,177 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+    "uniteOrganisationnelle": "Service des carrières, des rémunérations et des affaires médicales",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service des carrières, des rémunérations et des affaires médicales",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Agents de l'établissement",
+      "Cellule TIARHE - DINUM",
+      "Trésorerie des centres hospitaliers de Nouméa"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Non spécifiée"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953282.PDF"
+      }
+    ]
+  },
+  "alternateName": "Gestionnaire polyvalent chargé des carrières et des rémunérations",
+  "description": "Le gestionnaire polyvalent chargé des carrières et des rémunérations exerce ses fonctions sous l'autorité directe du chef de service des carrières, des rémunérations et des affaires médicales, et du directeur des ressources humaines et des affaires médicales. Il assure la gestion complète et sécurisée de la paie des agents du CHS (médical, paramédical, administratif et technique), ainsi que la gestion de leur carrière, dans le respect du cadre statutaire de la fonction publique de la Nouvelle-Calédonie et des procédures internes.",
+  "disambiguatingDescription": "Gestionnaire RH polyvalent pour la gestion des carrières et de la paie au sein du CHS Albert Bousquet.",
+  "identifier": "26-1255",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Gestionnaire RH chargé des carrières et de la rémunération",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.36.81",
+    "email": "avp@chs.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-21",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+2",
+    "competencyRequired": [
+      "Connaissance de l'organisation et du fonctionnement interne des hôpitaux",
+      "Bonne connaissance du statut de la fonction publique de Nouvelle-Calédonie",
+      "Connaissance du droit du travail de Nouvelle-Calédonie",
+      "Connaissance des règles de paie publique et de charges sociales",
+      "Notions budgétaires et comptables liées à la masse salariale"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Direction des ressources humaines et des affaires médicales"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre hospitalier spécialisé Albert Bousquet",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Nouville",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-11-01",
+  "occupationalCategory": [
+    "Ressources Humaines"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Gestionnaire RH chargé des carrières et de la rémunération",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1503",
+      "name": "Assistance en ressources humaines"
+    }
+  },
+  "responsibilities": [
+    "Assurer le suivi administratif et financier des situations individuelles (fonctionnaires, contractuels et médecins) : recrutements, titularisations, changements de position statutaire, avancements d'échelon et de grade, promotions internes, temps partiel, modification de quotité de travail",
+    "Traiter les éléments variables de paie impactant la rémunération : congés maladie, longue maladie, longue durée, congés maternité, paternité, parental, disponibilité, accident/maladie d'origine professionnelle, congés sans solde, absences de service fait",
+    "Rédiger et contrôler les actes administratifs liés à la carrière (décisions, notes de service, arrêtés)",
+    "Assurer l'information des personnels du CHS en matière de calcul des salaires et de prestations sociales",
+    "Contrôler le logiciel du temps de travail de l'établissement, veiller au respect du temps de travail par les agents et procéder aux actions correctives nécessaires",
+    "Préparer, calculer, contrôler et fiabiliser la paie des agents titulaires et contractuels",
+    "Mettre en œuvre l'ensemble des éléments de rémunérations : traitement indiciaire, régime indemnitaire (primes et indemnités diverses), éléments variables de paie (astreintes, sujétions particulières, retenues diverses, etc.)",
+    "Elaborer les états mensuels récapitulatifs des éléments variables de paie servant au paiement des indemnités de nuit, dimanche et jours fériés, prime de risque des unités fermées et autres primes",
+    "Réaliser les tableaux de paie permettant le mandatement de la solde et des charges sociales",
+    "Assurer le mandatement de la paie en lien avec la direction des affaires financières et de l'informatique (mandatement général et individuel hors période de paie)",
+    "Établir et contrôler les déclarations sociales mensuels, trimestriels et annuels (DNT, DSN, CNRACL, IRCANTEC, etc.)",
+    "Élaborer les titres de recettes à destination des tiers (établissements employant des personnels du CHS mis à disposition, loyers des logements des personnels délocalisés, trop perçus)",
+    "Gérer les régularisations de paie",
+    "Établir les états des indemnités de fin d'engagement",
+    "Recueillir et analyser les éléments de salaires nécessaires à la reconstitution des carrières des personnels",
+    "Procéder au calcul des salaires du personnel dans le cadre d'une reconstitution salariale",
+    "Produire des états statistiques permettant de suivre l'évolution des crédits consommés en matière de personnel (titulaires ou engagement à durée déterminée)",
+    "Rendre compte à son supérieur, ou si besoin au niveau N+2, de toutes les anomalies constatées dans le cadre des travaux réalisés",
+    "Participer à l'établissement des états permettant de gérer et de suivre la masse salariale",
+    "Participer aux travaux d'élaboration du budget de la masse salariale",
+    "Informer et conseiller les agents sur leur situation de rémunération et de carrière",
+    "Expliquer les bulletins de salaire et les évolutions de rémunération",
+    "Accompagner les encadrants et services sur les règles statutaires et indemnitaires",
+    "Contribuer à la diffusion de bonnes pratiques en matière de gestion RH",
+    "Assurer le remplacement des collègues gestionnaires en cas d'absence",
+    "Assurer une veille réglementaire statutaire et sociale",
+    "Mettre en œuvre les évolutions réglementaires impactant la paie et les carrières",
+    "Formaliser les procédures internes et les contrôle interne paie afin de fiabiliser les pratiques",
+    "Être force de proposition dans l'amélioration des outils et processus RH",
+    "Utiliser et fiabiliser les logiciels de gestion RH/paie (TIARHE, GEOCOM, CPAGEI)",
+    "Produire des tableaux de suivi (masse salariale, charges sociales)",
+    "Participer aux travaux budgétaires liés aux dépenses de personnel",
+    "Contribuer aux bilans et enquêtes RH"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des outils bureautiques et logiciels RH/paie",
+    "Connaissance et usage des logiciels GEOCOM et TIARHE",
+    "Capacité d'analyse et de contrôle des données financières",
+    "Rigueur, fiabilité et respect des délais",
+    "Capacité à gérer des situations complexes et à forte responsabilité",
+    "Capacité à concevoir, formaliser et adapter des procédures, protocoles, modes opératoires et consignes",
+    "Capacité à concevoir et utiliser des outils de pilotage (critères, indicateurs, tableau de bord)",
+    "Discrétion et respect strict de la confidentialité",
+    "Sens du service public et du travail en équipe",
+    "Qualités relationnelles et pédagogiques",
+    "Autonomie et sens de l'organisation",
+    "Capacité à travailler en équipe et à participer aux actions de la direction",
+    "Disponibilité et polyvalence"
+  ],
+  "specialCommitments": null,
+  "title": "Gestionnaire RH chargé des carrières et de la rémunération",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-09-25",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "CHS",
+  "collectivite": "Centre hospitalier spécialisé \"Albert Bousquet\"",
+  "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+  "direction_source": "source",
+  "famille_respnc": "Ressources Humaines",
+  "famille_source": "respnc",
+  "famille_score": 0.831,
+  "dossier": "ressources-humaines"
+}
