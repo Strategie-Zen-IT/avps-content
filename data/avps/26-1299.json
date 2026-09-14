@@ -1,0 +1,175 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "DIRECTION DE L'ESPACE PUBLIC",
+    "uniteOrganisationnelle": "Service exploitation de l'espace public",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur de l'espace public",
+    "placeOrganigramme": "Sous l'autorité du secrétaire général adjoint en charge du pôle aménagement",
+    "relationsFonctionnelles": [
+      "Secrétaire général adjoint en charge du pôle aménagement",
+      "Directeur de l'espace public",
+      "Administrés",
+      "Prestataires"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Statut du poste",
+        "value": "Susceptible d'être vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Astreintes et conditions d'exercice",
+        "value": "Disponibilité, astreintes"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957658.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune. Sous l'autorité du secrétaire général adjoint en charge du pôle aménagement, la direction de l'espace public regroupe les métiers en relation avec la création et la gestion des espaces publics (hors construction), et comprend quatre services. Parmi eux, le service exploitation de l'espace public, en charge de l'ensemble des missions liées à l'exploitation du domaine public routier, est composé de quatre sections: exploitation voirie, gestion voirie et déplacements, nettoiement de l'espace public et première intervention.",
+  "disambiguatingDescription": "Poste de chef de service pour l'exploitation de l'espace public à la Mairie de Nouméa.",
+  "identifier": "26-1299",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de service",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa",
+    "url": "https://www.noumea.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Mairie de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.07.13",
+    "email": "mairie.recrutement@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Diplôme de niveau 7 (Bac+5, ingénieur) dans le domaine de l'équipement",
+      "Compétences solides dans les métiers liés à la voirie et ses équipements, en aménagement et en gestion des réseaux",
+      "Maîtrise des techniques de management, d'animation de réunions et de gestion des conflits",
+      "Maîtrise de l'élaboration et de la gestion budgétaire, des outils de pilotage et des procédures de marchés publics",
+      "Connaissance des circuits décisionnels de la collectivité",
+      "Application des réglementations en matière d'environnement, d'hygiène et de sécurité"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre: au moins égale à 5 ans",
+  "employerOverview": "La ville de Nouméa compte 1 500 collaborateurs engagés au service de 86 000 habitants, gérant plus de 200 équipements et services publics.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service exploitation de l'espace public"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience confirmée en direction de service et coordination d'équipes",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa",
+    "url": "https://www.noumea.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Annexe Ferry",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Annexe Ferry",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chef de service",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2501",
+      "name": "Direction et ingénierie en entretien de l'espace public"
+    }
+  },
+  "responsibilities": [
+    "Définir et mettre en œuvre le schéma directeur de la voirie",
+    "Définir et mettre en œuvre une stratégie pluriannuelle d'exploitation, d'investissement et de maintenance de l'espace public",
+    "Assurer un niveau de service garantissant la sécurité des agents et des usagers",
+    "Assurer l'exploitation du réseau en toutes circonstances et en relation avec tous les intervenants",
+    "Assurer l'entretien préventif du patrimoine de voirie et réseaux divers",
+    "Réaliser toutes les activités contribuant à la réalisation des missions de la direction et confiées à l'agent par la hiérarchie",
+    "Assister, conseiller et apporter des arguments stratégiques d'aide à la décision sur son domaine de compétences",
+    "Décliner les politiques publiques en mettant en œuvre des plans d'actions et en pilotant des projets, en fonction des ressources allouées et des objectifs définis par le secrétariat général et les élus",
+    "Coordonner et superviser l'action des agents placés sous sa responsabilité",
+    "Être le relais des valeurs de la collectivité",
+    "Assurer la réponse aux administrés"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Traduire les missions de service public et la demande politique en objectifs opérationnels",
+    "Mobiliser et faire évoluer les compétences professionnelles des agents",
+    "Piloter des projets stratégiques de la conception à l'achèvement, incluant les études techniques et économiques",
+    "Établir et appliquer une méthodologie d'évaluation pour les opérations déléguées aux prestataires",
+    "Faire preuve d'un sens aigu du service public, de diplomatie et d'un fort esprit d'équipe",
+    "Démontrer de réelles capacités d'écoute, d'analyse, de synthèse et de pédagogie",
+    "Gérer efficacement le stress et les urgences grâce à une bonne capacité de résolution de problèmes et de prise de décision"
+  ],
+  "specialCommitments": "Disponibilité, astreintes",
+  "title": "Chef de service",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": "Disponibilité, astreintes",
+  "champs_open_data": 7,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "DIRECTION DE L'ESPACE PUBLIC",
+  "direction_source": "document",
+  "famille_respnc": "Incendie et secours",
+  "famille_source": "respnc",
+  "famille_score": 0.871,
+  "dossier": "incendie-et-secours"
+}
