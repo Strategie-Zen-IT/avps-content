@@ -1,0 +1,168 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Sage femme",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Service des Métiers de Soins/Bureau santé au féminin-secteur de Ouégoa, de Pouébo et de Koumac",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de Bureau Santé au Féminin et médecin chef",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Réseau périnatalité",
+      "Réseau social"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "inférieure à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Ce poste peut être soumis à astreinte."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952074.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placée sous l’autorité du chef de Bureau Santé au Féminin et du médecin chef, dans le cadre d’une polyvalence de secteur et au sein d’une équipe pluridisciplinaire, la personne retenue devra assurer les actes curatifs et préventifs de sage-femme, participer à l’application des programmes d’intervention et de promotion de la santé et à la permanence de soins.",
+  "disambiguatingDescription": null,
+  "identifier": "26-0489",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "SAGE FEMME (Ouégoa-Pouébo)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Hôtel de la province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.71.00",
+    "email": "c.lecerf@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-04-03",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'Etat de sage-femme",
+    "competencyRequired": [
+      "Diplôme d'Etat de sage-femme",
+      "Compétences en échographie",
+      "Permis de conduire B"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La DASSP compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Bureau santé au féminin du Service des Métiers de Soins"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience professionnelle serait appréciée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "CMS de Ouégoa et de Pouébo ; et CME antenne de Koumac",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Ouégoa",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-07-19",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire B, Compétences en échographie",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Sage-femme",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Suivi de la grossesse et accompagnement post-natal"
+    }
+  },
+  "responsibilities": [
+    "Assurer les actes curatifs et préventifs de sage-femme",
+    "Participer à l'application des programmes d'intervention et de promotion de la santé et à la permanence de soins",
+    "Mise en place des orientations politiques et administratives de la direction, en lien avec le réseau périnatalité",
+    "Suivi des grossesses avec orientation vers le médecin et/ou l'obstétricien si pathologique",
+    "Suivi gynécologique, la contraception, l'IVG, les dépistages (cancer du col, cancer du sein, IST)",
+    "Activités de PMI (l'éducation et la promotion de la santé en matière d'allaitement, de vaccination, de développement psychomoteur, d'hygiène de vie et alimentaire du nourrisson de 0 à 2 ans etc...)",
+    "Liaison avec le réseau social (enfance en danger, violence intra ou extra conjugale etc..) et partenarial (réseau périnatalité)",
+    "Actions de prévention (santé sexuelle en milieu scolaire et/ou santé communautaire)",
+    "Évaluation et la restitution de l'activité (cotation et codification, bilan d'activité des actions de prévention)",
+    "Enquêtes épidémiologiques",
+    "Urgences gynécologiques ou obstréticales de sage-femme (accouchements)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des logiciels de bureautique (Excel et Word)",
+    "Disponibilité",
+    "Rigueur",
+    "Respect de la confidentialité des informations et du secret médical",
+    "Sens des responsabilités",
+    "Goût des relations humaines",
+    "Esprit d'initiative",
+    "Capacité d'écoute",
+    "Goût du travail en équipe"
+  ],
+  "specialCommitments": "Ce poste peut être soumis à astreinte.",
+  "title": "SAGE FEMME (Ouégoa-Pouébo)",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
