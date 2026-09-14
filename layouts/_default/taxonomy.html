@@ -7,24 +7,59 @@
   
   {{ if eq .Kind "taxonomy" }}
     
-    <h1 style="color: var(--MAIN-TITLES-color); margin-bottom: 0.5rem; font-size: 2rem;">
-      <i class="fas fa-tags"></i> Index des mots-clés (Filtres RH)
-    </h1>
-    <p style="font-style: italic; color: var(--MAIN-TEXT-color); opacity: 0.7; margin-bottom: 2.5rem;">
-    Cliquez sur un tag pour découvrir les offres d'emploi correspondantes.
-    </p>
+{{/* En-tête adapté à l'axe consulté : « index des mots-clés » ne veut rien dire sur
+         la page des collectivités, qui est une vraie page d'atterrissage. */}}
+    {{- $plural := or (and .Data .Data.Plural) "tags" }}
+    {{- $intitules := dict
+        "collectivites" (slice "fa-landmark" "Les collectivités qui recrutent" "Chaque employeur public du territoire et le nombre d'offres qu'il propose.")
+        "directions"    (slice "fa-sitemap" "Les directions qui recrutent" "La direction de rattachement du poste, au sein de sa collectivité.")
+        "communes"      (slice "fa-map-marker-alt" "Les offres par commune" "La commune du lieu de travail.")
+        "provinces"     (slice "fa-map" "Les offres par province" "Province Sud, Nord ou des îles Loyauté.")
+        "corps"         (slice "fa-id-badge" "Les offres par corps et grade" "Le corps, grade ou domaine d'emploi de l'offre.")
+        "familles"      (slice "fa-briefcase" "Les familles de métier" "Les 41 familles du référentiel RESPNC.")
+        "tags"          (slice "fa-tags" "Index des mots-clés" "Tous les critères confondus, pour la recherche.")
+    }}
+    {{- $i := index $intitules $plural | default (index $intitules "tags") }}
 
-    <div class="avp-tags-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1.2rem;">
+    <h1><i class="fas {{ index $i 0 }}"></i> {{ index $i 1 }}</h1>
+    <p class="avp-stats-note">{{ index $i 2 }}</p>
+
+    <div class="avp-tags-grid">
       {{ range .Pages }}
-        <a href="{{ .RelPermalink }}">
-          <div class="avp-tag-item-card" style="padding: 1.2rem; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 4px rgba(0,0,0,0.01);">
-            <span style="font-weight: bold;">
-              <i class="fas fa-tag" style="color: var(--PRIMARY-color); margin-right: 8px; font-size: 0.9rem;"></i>{{ .Title }}
-            </span>
-            <span style="background-color: var(--SECONDARY-color); color: white; padding: 3px 9px; border-radius: 12px; font-size: 0.8rem; font-weight: bold; white-space: nowrap;">
-              {{ len .Pages }} AVP
-            </span>
-          </div>
+        {{- /* Logo de l'employeur : celui que le moteur a vérifié (HEAD 200) au moment de
+               la publication et inscrit dans le JSON-LD. On le lit sur la première offre
+               du terme qui en porte un — toutes celles d'une même collectivité pointent
+               le même fichier. Aucun logo n'est deviné ici. */ -}}
+        {{- $logo := "" }}
+        {{- $sigle := "" }}
+        {{- range first 8 .Pages }}
+          {{- if not $sigle }}{{ with .Params.employeur_sigle }}{{ $sigle = . }}{{ end }}{{ end }}
+          {{- if not $logo }}
+            {{- with index site.Data.avps (replace (.Params.ref | default "") "/" "_") }}
+              {{- with .hiringOrganization }}{{ with .logo }}{{ $logo = . }}{{ end }}{{ end }}
+            {{- end }}
+          {{- end }}
+        {{- end }}
+        {{- /* Repli sur le fichier local : un logo déposé après la publication d'une offre
+               n'entre pas dans son JSON-LD (front-matter figé). Sans ce repli il faudrait
+               republier toutes les offres d'une collectivité pour voir son logo. */ -}}
+        {{- if not $logo }}
+          {{- range slice ($sigle | urlize) (.Title | urlize) }}
+            {{- if and (not $logo) . (fileExists (printf "static/logos/%s.png" .)) }}
+              {{- $logo = printf "logos/%s.png" . | relURL }}
+            {{- end }}
+          {{- end }}
+        {{- end }}
+        <a href="{{ .RelPermalink }}" class="avp-tag-item-card">
+          <span class="avp-tag-item-card__label">
+            {{- if $logo }}
+              <img class="avp-tag-item-card__logo" src="{{ $logo }}" alt="" loading="lazy" onerror="this.remove()">
+            {{- else }}
+              <i class="fas {{ index $i 0 }} avp-tag-item-card__icon" aria-hidden="true"></i>
+            {{- end }}
+            {{ .Title }}
+          </span>
+          <span class="avp-tag-item-card__count">{{ len .Pages }}&nbsp;AVP</span>
         </a>
       {{ end }}
     </div>

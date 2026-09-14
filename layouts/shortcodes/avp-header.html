@@ -54,6 +54,15 @@
         {{- end }}
       {{- end }}
       {{- $sigle := $.Page.Params.employeur_sigle | default "" }}
+      {{- /* Repli sur le fichier local : un logo déposé après la publication de l'offre
+             n'entre pas dans son JSON-LD, le front-matter étant figé jusqu'à modification. */ -}}
+      {{- if not $logo }}
+        {{- range slice ($sigle | urlize) ($collectivite | default "" | urlize) }}
+          {{- if and (not $logo) . (fileExists (printf "static/logos/%s.png" .)) }}
+            {{- $logo = printf "logos/%s.png" . | relURL }}
+          {{- end }}
+        {{- end }}
+      {{- end }}
       <tr class="avp-info-employeur">
         <th scope="row">Employeur</th>
         <td>
