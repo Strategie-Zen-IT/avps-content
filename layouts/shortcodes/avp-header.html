@@ -39,6 +39,40 @@
 
   <table class="avp-info-table">
     <tbody>
+      {{/* L'EMPLOYEUR d'abord : c'est la première question d'un candidat. Trois niveaux,
+           du plus large au plus fin : collectivité qui recrute (avec son logo et un lien
+           vers toutes ses offres), direction de rattachement, service. La collectivité
+           vient de la source ; à défaut, du nom lu dans le document (hiringOrganization). */}}
+      {{- $collectivite := $.Page.Params.collectivite }}
+      {{- if not $collectivite }}
+        {{- with index site.Data.avps (replace ($.Page.Params.ref | default "") "/" "_") }}{{ with .hiringOrganization }}{{ $collectivite = .name }}{{ end }}{{ end }}
+      {{- end }}
+      {{- $sigle := $.Page.Params.employeur_sigle | default "" }}
+      {{- $logo := "" }}
+      {{- range slice ($sigle | urlize) ($collectivite | default "" | urlize) }}
+        {{- if and (not $logo) . (fileExists (printf "static/logos/%s.png" .)) }}{{ $logo = printf "logos/%s.png" . }}{{ end }}
+      {{- end }}
+      <tr class="avp-info-employeur">
+        <th scope="row">Employeur</th>
+        <td>
+          {{- with $logo }}<img class="avp-employeur-logo" src="{{ . | relURL }}" alt="" loading="lazy">{{ end }}
+          {{- with $collectivite }}
+            {{- $term := site.GetPage (printf "/collectivites/%s" (. | urlize)) }}
+            {{- if $term }}<a href="{{ $term.RelPermalink }}" title="Toutes les offres de « {{ . }} »"><strong>{{ . }}</strong></a>{{ else }}<strong>{{ . }}</strong>{{ end }}
+            {{- if and $sigle (ne $sigle "A-TRIER") (ne ($sigle | urlize) (. | urlize)) }} <code>{{ $sigle }}</code>{{ end }}
+          {{- else }}<em>Non précisé dans la source — voir le PDF officiel</em>{{ end }}
+        </td>
+      </tr>
+      {{- with $.Page.Params.direction }}
+      <tr>
+        <th scope="row">Direction</th>
+        <td>{{ . }}</td>
+      </tr>
+      {{- end }}
+      <tr>
+        <th scope="row">Service / Unité</th>
+        <td>{{ $.Page.Params.unite_orga }}</td>
+      </tr>
       <tr>
         <th scope="row">Référence</th>
         <td><code>{{ $.Page.Params.ref }}</code></td>
@@ -101,24 +135,6 @@
         </td>
       </tr>
       {{- end }}
-{{/* Deux niveaux d'employeur : la collectivité qui recrute, puis la direction de
-          rattachement en son sein. */}}
-      {{- with $.Page.Params.collectivite }}
-      <tr>
-        <th scope="row">Collectivité employeuse</th>
-        <td>{{ . }}</td>
-      </tr>
-      {{- end }}
-      {{- with $.Page.Params.direction }}
-      <tr>
-        <th scope="row">Direction</th>
-        <td>{{ . }}</td>
-      </tr>
-      {{- end }}
-      <tr>
-        <th scope="row">Service / Unité</th>
-        <td>{{ $.Page.Params.unite_orga }}</td>
-      </tr>
       <tr>
         <th scope="row">Nombre d’agents encadrés</th>
         <td>{{ $.Page.Params.nb_agents }}</td>

@@ -578,3 +578,20 @@
   .avp-list-card { padding-right: 1.3rem; }
   .avp-card-qrcode-container { display: none; }
 }
+
+/* --- Ligne employeur en tête de fiche --- */
+.avp-info-employeur td {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+.avp-employeur-logo {
+  height: 32px;
+  max-width: 120px;
+  object-fit: contain;
+  background: #fff;
+  border-radius: 6px;
+  padding: 2px 4px;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+}
