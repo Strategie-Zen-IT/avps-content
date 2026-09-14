@@ -1,0 +1,162 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "CMS de CANALA",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de bureau de proximité des soins",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Chef de bureau de proximité des soins",
+      "DASSPS"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Astreintes",
+        "value": "Ce poste est soumis à astreinte de nuit"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952050.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1185",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Infirmier(e) en soins généraux à Canala",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-nord.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Canala",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.71.00",
+    "email": "drh-emplois@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-07",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'état",
+    "competencyRequired": [
+      "Diplôme d'état infirmier exigé",
+      "Expérience du travail en poste isolé",
+      "Expérience des urgences"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale 5 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "CMS de CANALA"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience du travail en poste isolé et expérience des urgences exigées.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "CMS de CANALA",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Canala",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Dès que possible",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Infirmier",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Soins d'infirmiers généralistes"
+    }
+  },
+  "responsibilities": [
+    "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
+    "Réaliser les actes curatifs (consultations, urgences, soins)",
+    "Réaliser les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
+    "Réaliser les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire...)",
+    "Assurer la téléconsultation (en l'absence de médecin en présentiel)",
+    "Assurer l'encadrement des stagiaires, notamment les étudiants infirmiers"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des logiciels de bureautique (Excel et Word)",
+    "Disponibilité et rigueur",
+    "Respect de la confidentialité des informations et du secret médical",
+    "Sens des responsabilités",
+    "Goût des relations humaines",
+    "Esprit d'initiative",
+    "Capacité d'écoute",
+    "Goût du travail en équipe"
+  ],
+  "specialCommitments": "Ce poste est soumis à astreinte de nuit.",
+  "title": "INFIRMIER EN SOINS GÉNÉRAUX",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": "Astreinte de nuit",
+  "champs_open_data": 6,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
