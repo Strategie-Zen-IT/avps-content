@@ -1,0 +1,181 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Emploi fonctionnel / attaché",
+    "direction": "CONGRES DE LA NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur des ressources humaines",
+    "placeOrganigramme": "Placé sous l'autorité hiérarchique du directeur des ressources humaines",
+    "relationsFonctionnelles": [
+      "Directeur des ressources humaines",
+      "Secrétariat général",
+      "Responsables de service",
+      "Collaborateurs politiques"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957714.PDF"
+      }
+    ]
+  },
+  "alternateName": "Directeur adjoint de la direction des ressources humaines",
+  "description": "Placé sous l'autorité hiérarchique du directeur des ressources humaines, le directeur adjoint sera amené à l'assister dans la gestion des personnels administratifs et des collaborateurs politiques de l'Institution, afin de contribuer à la mise en œuvre de la politique du Congrès de la Nouvelle-Calédonie en la matière et à la coordination de l'activité des services de la direction. Il a ainsi pour objectif général de garantir la sécurisation de la décision RH, la continuité, la qualité et l'efficacité du service des ressources humaines au quotidien.",
+  "disambiguatingDescription": "Poste de direction adjointe axé sur l'expertise juridique, statutaire et le pilotage RH au Congrès de la Nouvelle-Calédonie.",
+  "identifier": "26-1339",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Directeur (trice) adjoint(e)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Congrès de la Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/cnc.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Congrès de la Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1, boulevard Vauban",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "05.20.14",
+    "email": "formation-recrutement-drh@congres.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Formation supérieure",
+    "competencyRequired": [
+      "Droit public",
+      "Droit des ressources humaines",
+      "Droit de la fonction publique",
+      "Droit applicable à la fonction publique de Nouvelle-Calédonie",
+      "Règles relatives à la gestion administrative des agents publics",
+      "Droit du travail applicable en Nouvelle-Calédonie",
+      "Principes de sécurité juridique des actes administratifs et des procédures RH",
+      "Mécanismes du contentieux administratif et social",
+      "Enjeux de prévention du risque contentieux",
+      "Contexte institutionnel, politique, juridique et administratif de la Nouvelle-Calédonie",
+      "Enjeux liés au dialogue social et à la gestion des ressources humaines dans le secteur public"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Direction des ressources humaines",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Non spécifié",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Congrès de la Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/cnc.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Congrès de la Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1, boulevard Vauban",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Ressources Humaines",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Directeur",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2102",
+      "name": "Direction des ressources humaines"
+    }
+  },
+  "responsibilities": [
+    "Participer, aux côtés du directeur des ressources humaines, à la définition et à la mise en œuvre de la politique de gestion des ressources humaines de l'Institution",
+    "Assurer le pilotage et la coordination des activités opérationnelles de la direction des ressources humaines",
+    "Être le référent juridique de la direction des ressources humaines et garantir la sécurisation juridique des actes, décisions, procédures et pratiques RH",
+    "Analyser les situations individuelles et collectives présentant une dimension juridique ou statutaire et proposer au directeur des ressources humaines les modalités de traitement appropriées",
+    "Assurer l'interprétation et l'application des textes statutaires, réglementaires et conventionnels applicables aux personnels de l'Institution",
+    "Assurer une veille juridique et réglementaire structurée, notamment en matière de droit de la fonction publique, droit du travail applicable en Nouvelle-Calédonie et droit des ressources humaines, et en mesurer les impacts pour l'Institution",
+    "Anticiper et prévenir les risques contentieux et proposer les mesures permettant de sécuriser les décisions et procédures de la DRH",
+    "Contribuer à l'élaboration, à l'actualisation et à la sécurisation des règlements, procédures, notes, décisions et autres actes relevant de la politique RH",
+    "Apporter une expertise et un conseil au directeur des ressources humaines, au secrétariat général et aux responsables de service sur les problématiques statutaires, réglementaires et juridiques liées à la gestion des personnels",
+    "Participer à la préparation et au suivi des instances de dialogue social et à la sécurisation juridique des dossiers qui leur sont soumis",
+    "Superviser et contrôler l'activité de la DRH, en lien avec le directeur",
+    "Assurer l'intérim du directeur des ressources humaines en son absence"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Analyser et interpréter des textes législatifs, réglementaires, statutaires et jurisprudentiels",
+    "Qualifier juridiquement une situation RH et identifier les risques associés",
+    "Sécuriser juridiquement les actes, décisions et procédures RH",
+    "Élaborer des analyses juridiques et formuler des préconisations opérationnelles",
+    "Effectuer une veille juridique et réglementaire et en assurer la traduction opérationnelle pour la DRH",
+    "Rédiger ou superviser la rédaction d'actes administratifs, notes, procédures, règlements et documents RH à portée juridique",
+    "Conseiller et alerter le directeur des ressources humaines et le secrétariat général sur les risques juridiques associés aux décisions envisagées",
+    "Manager des équipes et coordonner des activités RH",
+    "Piloter des projets transversaux et conduire le changement",
+    "Capacité à fédérer et mobiliser",
+    "Rigueur et sens de l'anticipation",
+    "Fiabilité dans l'analyse et la production d'actes ou d'indicateurs",
+    "Grande discrétion et confidentialité absolue",
+    "Capacité d'adaptation",
+    "Esprit d'analyse et de synthèse",
+    "Sens du service et de l'écoute active",
+    "Réactivité",
+    "Être force de proposition",
+    "Grande disponibilité",
+    "Sens avéré de la communication et de la diplomatie"
+  ],
+  "specialCommitments": null,
+  "title": "Directeur (trice) adjoint(e) - Expertise juridique, statutaire et pilotage RH",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "CNC",
+  "collectivite": "Congrès de la Nouvelle-Calédonie",
+  "direction": "CONGRES DE LA NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "famille_respnc": "Pilotage",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "pilotage"
+}
