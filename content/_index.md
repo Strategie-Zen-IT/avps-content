@@ -1,5 +1,5 @@
 ---
-title: "🏛️ Les emplois de la fonction publique calédonienne"
+title: "Les emplois de la fonction publique calédonienne"
 weight: 1
 ---
 
@@ -10,14 +10,11 @@ de poste, référez-vous à la source officielle sur
 [data.gouv.nc](https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc).
 {{% /notice %}}
 
-Toutes les offres d'emploi publiques de Nouvelle-Calédonie, réunies au même endroit et
-classées **par métier**.
+{{< avp-hero >}}
 
-Les avis de vacance de poste (AVP) sont publiés par les collectivités, communes,
-provinces, hôpitaux et établissements publics du territoire. Ils paraissent en données
-ouvertes sur [data.gouv.nc](https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc)
-et arrivent ici automatiquement, structurés et illustrés, quelques heures après leur
-parution.
+Les avis de vacance de poste (AVP) paraissent en données ouvertes sur
+[data.gouv.nc](https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc)
+et arrivent ici quelques heures après leur parution.
 
 ### 🔎 Comment chercher
 

@@ -1,0 +1,37 @@
+{{- /* Bandeau d'accueil : promesse du site, accès à la recherche, chiffres clés et
+       raccourcis vers les axes de navigation. Tout est calculé au build. */ -}}
+{{- $avps := where site.RegularPages "Params.ref" "!=" nil }}
+{{- $encours := where $avps "Params.archive" "!=" true }}
+{{- $collectivites := slice }}
+{{- range $encours }}{{ with .Params.collectivite }}{{ $collectivites = $collectivites | append . }}{{ end }}{{ end }}
+{{- $familles := 0 }}
+{{- range site.Sections }}{{ if and (ne .Section "archives") (gt (len (where .RegularPages "Params.archive" "!=" true)) 0) }}{{ $familles = add $familles 1 }}{{ end }}{{ end }}
+<section class="avp-hero" aria-label="Présentation du site">
+  <p class="avp-hero__kicker">Fonction publique de Nouvelle-Calédonie</p>
+  <h2 class="avp-hero__title">Tous les avis de vacance de poste, classés par métier.</h2>
+  <p class="avp-hero__lead">Collectivités, provinces, communes, hôpitaux et établissements publics : leurs offres arrivent ici automatiquement, structurées et illustrées, depuis les données ouvertes du territoire.</p>
+  <div class="avp-hero__actions">
+    <button type="button" class="avp-hero__btn avp-hero__btn--primary" data-avp-focus-search>
+      <i class="fas fa-search" aria-hidden="true"></i> Rechercher un poste <kbd>Ctrl K</kbd>
+    </button>
+    <a class="avp-hero__btn" href="{{ "collectivites/" | relLangURL }}"><i class="fas fa-landmark" aria-hidden="true"></i> Par collectivité</a>
+    <a class="avp-hero__btn" href="{{ "communes/" | relLangURL }}"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> Par commune</a>
+    <a class="avp-hero__btn" href="{{ "index.xml" | relURL }}"><i class="fas fa-rss" aria-hidden="true"></i> S'abonner</a>
+  </div>
+  <dl class="avp-hero__kpis">
+    <div><dt>{{ len $encours }}</dt><dd>offre{{ if ne (len $encours) 1 }}s{{ end }} en cours</dd></div>
+    <div><dt>{{ len (uniq $collectivites) }}</dt><dd>collectivité{{ if ne (len (uniq $collectivites)) 1 }}s{{ end }} qui recrutent</dd></div>
+    <div><dt>{{ $familles }}</dt><dd>famille{{ if ne $familles 1 }}s{{ end }} de métier</dd></div>
+    <div><dt>{{ len $avps }}</dt><dd>avis référencés</dd></div>
+  </dl>
+</section>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var b = document.querySelector("[data-avp-focus-search]");
+    if (!b) return;
+    b.addEventListener("click", function () {
+      var s = document.getElementById("R-search-by") || document.querySelector(".search-by input") || document.querySelector("[data-search-input]");
+      if (s) { s.focus(); s.select(); s.scrollIntoView({ block: "center" }); }
+    });
+  });
+</script>

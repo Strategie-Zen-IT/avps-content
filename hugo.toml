@@ -6,10 +6,10 @@ theme = 'hugo-theme-relearn'
 
 [params]
   # Options du thème Relearn
-  # Variantes de couleurs : « zen » est neutre et lisible, en attendant la charte
-  # définitive d'avps.nc. ⚠️ Une variante dont le CSS est absent fait ÉCHOUER le
-  # build Hugo, ce n'est pas un simple avertissement.
-  themeVariant = [ "zen-light", "zen-dark" ]
+  # Variantes de couleurs propres au site : assets/css/theme-avps-{light,dark}.css
+  # (palette « lagon » vert + or, titres en serif). ⚠️ Une variante dont le CSS est
+  # absent fait ÉCHOUER le build Hugo, ce n'est pas un simple avertissement.
+  themeVariant = [ "avps-light", "avps-dark" ]
   landingPageName = "<i class='fa-fw fas fa-home'></i> Bienvenue"
   collapsibleMenu = true
   disableShortcutsTitle = true

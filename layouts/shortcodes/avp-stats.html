@@ -18,8 +18,10 @@
 {{- /* ---- Chiffres clés ------------------------------------------------ */ -}}
 {{- $metiers := slice }}
 {{- range $encours }}{{ with .Params.metier_ref_nom }}{{ $metiers = $metiers | append . }}{{ end }}{{ end }}
-{{- $directions := slice }}
-{{- range $encours }}{{ with .Params.direction }}{{ $directions = $directions | append . }}{{ end }}{{ end }}
+{{- /* Axe employeur = la COLLECTIVITÉ (employeur juridique), pas la direction : avec une
+       trentaine de collectivités et des centaines de directions, c'est le niveau lisible. */ -}}
+{{- $collectivites := slice }}
+{{- range $encours }}{{ with .Params.collectivite }}{{ $collectivites = $collectivites | append . }}{{ end }}{{ end }}
 
 {{- /* Nombre de postes : totalJobOpenings du JSON-LD, avec repli à 1 par offre
        (le champ est absent sur une partie du corpus ; quand il est présent il
@@ -59,7 +61,7 @@
     {{- $bornes = $bornes | append (dict
         "d" (time.AsTime (string .Params.date)).Unix
         "f" $fin
-        "dir" (partial "avp-dir-cle.html" (.Params.direction | default "Non précisée"))
+        "dir" (partial "avp-dir-cle.html" (.Params.collectivite | default "Non précisée"))
         "met" (.Params.metier_ref_nom | default "Non précisé")
         "fams" (.Params.familles | default slice)) }}
   {{- end }}
@@ -99,7 +101,7 @@
   <div class="avp-stat"><span class="avp-stat-n">{{ len $encours }}</span><span class="avp-stat-l">offres en cours</span></div>
   <div class="avp-stat"><span class="avp-stat-n">{{ $postes }}</span><span class="avp-stat-l">postes à pourvoir</span></div>
   <div class="avp-stat"><span class="avp-stat-n">{{ len (uniq $metiers) }}</span><span class="avp-stat-l">métiers différents</span></div>
-  <div class="avp-stat"><span class="avp-stat-n">{{ len (uniq $directions) }}</span><span class="avp-stat-l">directions qui recrutent</span></div>
+  <div class="avp-stat"><span class="avp-stat-n">{{ len (uniq $collectivites) }}</span><span class="avp-stat-l">collectivités qui recrutent</span></div>
   <div class="avp-stat"><span class="avp-stat-n">{{ $max }}</span><span class="avp-stat-l">maximum simultané{{ with $maxSem }}<br><small>{{ . }}</small>{{ end }}</span></div>
   <div class="avp-stat"><span class="avp-stat-n avp-trend-{{ cond (gt $tendance 0) "up" (cond (lt $tendance 0) "down" "flat") }}">{{ if gt $tendance 0 }}+{{ end }}{{ $tendance }}</span><span class="avp-stat-l">sur 7 jours</span></div>
   <div class="avp-stat"><span class="avp-stat-n">{{ $moyenne }}</span><span class="avp-stat-l">moyenne hebdo</span></div>
@@ -152,16 +154,16 @@
 <p class="avp-stats-note">Nombre d'offres publiées et clôturées, sur l'ensemble du corpus ({{ len $avps }} offres, archives comprises).</p>
 <div class="avp-chart-box"><canvas id="avp-chart-timeline" height="120"></canvas></div>
 
-{{- /* ---- Répartition par direction (offres en cours) -------------------- */ -}}
+{{- /* ---- Répartition par collectivité (offres en cours) ---------------- */ -}}
 {{- $pardir := dict }}
 {{- range $encours }}
-  {{- with .Params.direction }}
+  {{- with .Params.collectivite }}
     {{- $k := partial "avp-dir-cle.html" . }}
     {{- $pardir = merge $pardir (dict $k (add (int (index $pardir $k | default 0)) 1)) }}
   {{- end }}
 {{- end }}
 
-{{- /* ---- Offres ouvertes par direction et par mois ----------------------
+{{- /* ---- Offres ouvertes par collectivité et par mois ------------------
      Une offre est comptée dans un mois dès lors qu'elle a été ouverte AU MOINS UN
      JOUR de ce mois : c'est la lecture naturelle de « combien d'offres ouvertes
      ce mois-là », et elle évite l'arbitraire d'un relevé à date fixe. Une même
@@ -186,10 +188,10 @@
   {{- $series = $series | append (dict "dir" $dir "vals" $vals) }}
 {{- end }}
 
-{{- /* Mêmes règles que pour les directions, appliquées au métier de référence.
+{{- /* Mêmes règles que pour les collectivités, appliquées au métier de référence.
      Les fiches anciennes n'ont pas toujours `metier_ref_nom` : elles sont
      regroupées sous « Non précisé » plutôt que d'être écartées, sans quoi les
-     totaux ne correspondraient plus à ceux du graphique par direction. */ -}}
+     totaux ne correspondraient plus à ceux du graphique par collectivité. */ -}}
 {{- $metiersL := slice }}
 {{- range $bornes }}{{ $metiersL = $metiersL | append .met }}{{ end }}
 {{- $metiersL = sort (uniq $metiersL) }}
@@ -283,11 +285,11 @@
 <p class="avp-stats-note">{{ len $metiersL }} métiers de référence distincts sur l'ensemble du corpus.</p>
 <div class="avp-chart-box"><canvas id="avp-chart-metmois" height="340"></canvas></div>
 
-<h3>Offres ouvertes par direction, mois par mois</h3>
+<h3>Offres ouvertes par collectivité, mois par mois</h3>
 <p class="avp-stats-note">Une offre est comptée dans chaque mois où elle a été ouverte au moins un jour. Les barres empilées donnent le total mensuel.</p>
 <div class="avp-chart-box"><canvas id="avp-chart-dirmois" height="300"></canvas></div>
 
-<h3>Offres en cours par direction</h3>
+<h3>Offres en cours par collectivité</h3>
 <div class="avp-chart-box"><canvas id="avp-chart-directions" height="{{ mul (len $pardir) 26 | add 40 }}"></canvas></div>
 
 {{- /* ---- Prochaines clôtures -------------------------------------------- */ -}}
@@ -463,7 +465,7 @@
       type: "bar",
       data: {
         labels: Object.keys(dirs),
-        datasets: [{ label: "Offres en cours", data: Object.values(dirs), backgroundColor: "#005A9C" }]
+        datasets: [{ label: "Offres en cours", data: Object.values(dirs), backgroundColor: getComputedStyle(document.documentElement).getPropertyValue("--INTERNAL-PRIMARY-color") || "#0F6E56" }]
       },
       options: {
         indexAxis: "y", responsive: true, maintainAspectRatio: false,

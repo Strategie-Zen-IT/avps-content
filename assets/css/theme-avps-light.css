@@ -1,0 +1,75 @@
+:root {
+  /* avps-light — variante Relearn propre à avps.nc.
+     Palette « lagon » : vert profond + or, sur fonds sable. Volontairement éloignée des
+     chartes des collectivités agrégées (bleu/orange, bleu/rouge) pour qu'aucune ne
+     paraisse éditer le site. Les valeurs de couleur des familles de métier restent
+     celles de data/familles_couleurs.yml. */
+  --PRIMARY-color: rgba( 15, 110, 86, 1 );
+  --PRIMARY-HOVER-color: rgba( 10, 79, 62, 1 );
+  --SECONDARY-color: rgba( 15, 110, 86, 1 );
+  --SECONDARY-HOVER-color: rgba( 10, 79, 62, 1 );
+  --ACCENT-color: rgba( 217, 164, 65, 1 );
+  --ACCENT-HOVER-color: rgba( 184, 134, 43, 1 );
+
+  /* Typographie : titres en serif, texte en sans humaniste, graisses normales — c'est ce
+     qui change le plus la perception par rapport au Roboto Flex léger du thème. */
+  --MAIN-font: "Inter", "Avenir Next", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --MAIN-font-variation-settings: normal;
+  --MAIN-font-weight: 400;
+  --MAIN-letter-spacing: 0;
+  --MAIN-BOLD-font-weight: 700;
+  --MAIN-TITLES-font: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+  --MAIN-TITLES-font-variation-settings: normal;
+  --MAIN-TITLES-font-weight: 700;
+  --MAIN-TITLES-letter-spacing: -0.01em;
+  --MAIN-TITLES-H1-font-weight: 700;
+  --MAIN-TITLES-H1-font-variation-settings: normal;
+  --MAIN-TITLES-H4-font-weight: 700;
+  --MAIN-TITLES-H4-font-variation-settings: normal;
+
+  --MENU-BORDER-color: rgba( 226, 218, 203, 1 );
+  --MENU-TOPBAR-BORDER-color: rgba( 244, 239, 230, 1 );
+  --MENU-TOPBAR-SEPARATOR-color: rgba( 226, 218, 203, 1 );
+  --MENU-HEADER-BG-color: rgba( 244, 239, 230, 1 );
+  --MENU-HEADER-BORDER-color: rgba( 244, 239, 230, 1 );
+  --MENU-SEARCH-color: rgba( 15, 110, 86, 1 );
+  --MENU-SEARCH-BG-color: rgba( 255, 255, 255, 1 );
+  --MENU-SEARCH-BORDER-color: rgba( 226, 218, 203, 1 );
+  --MENU-HOME-LINK-color: rgba( 44, 48, 46, 1 );
+  --MENU-HOME-LINK-HOVER-color: rgba( 15, 110, 86, 1 );
+  --MENU-HOME-TOP-SEPARATOR-color: rgba( 226, 218, 203, 1 );
+  --MENU-HOME-SEPARATOR-color: rgba( 226, 218, 203, 1 );
+  --MENU-HOME-BOTTOM-SEPARATOR-color: rgba( 226, 218, 203, 1 );
+  --MENU-SECTIONS-BG-color: rgba( 244, 239, 230, 1 );
+  --MENU-SECTIONS-ACTIVE-BG-color: rgba( 255, 253, 249, 1 );
+  --MENU-SECTIONS-LINK-color: rgba( 44, 48, 46, 1 );
+  --MENU-SECTIONS-LINK-HOVER-color: rgba( 15, 110, 86, 1 );
+  --MENU-SECTION-ACTIVE-CATEGORY-color: rgba( 15, 110, 86, 1 );
+  --MENU-SECTION-ACTIVE-CATEGORY-BG-color: rgba( 255, 253, 249, 1 );
+  --MENU-SECTION-SEPARATOR-color: rgba( 226, 218, 203, 1 );
+  --MENU-VISITED-color: rgba( 184, 134, 43, 1 );
+  --TOPBAR-BG-color: rgba( 255, 253, 249, 1 );
+  --MAIN-TOPBAR-BORDER-color: rgba( 226, 218, 203, 1 );
+  --MAIN-BG-color: rgba( 255, 253, 249, 1 );
+  --MAIN-TEXT-color: rgba( 34, 38, 36, 1 );
+  --MAIN-TITLES-TEXT-color: rgba( 10, 79, 62, 1 );
+  --MAIN-LINK-color: rgba( 15, 110, 86, 1 );
+  --MAIN-LINK-HOVER-color: rgba( 10, 79, 62, 1 );
+  --TAG-BG-color: rgba( 15, 110, 86, 1 );
+  --CODE-theme: relearn-light;
+  --CODE-BLOCK-color: rgba( 39, 40, 34, 1 );
+  --CODE-BLOCK-BG-color: rgba( 247, 243, 235, 1 );
+  --CODE-BLOCK-BORDER-color: rgba( 226, 218, 203, 1 );
+  --CODE-INLINE-color: rgba( 10, 79, 62, 1 );
+  --CODE-INLINE-BG-color: rgba( 236, 244, 240, 1 );
+  --CODE-INLINE-BORDER-color: rgba( 204, 226, 216, 1 );
+  --BROWSER-theme: light;
+  --MERMAID-theme: default;
+  --OPENAPI-theme: light;
+  --OPENAPI-CODE-theme: idea;
+  --BOX-CAPTION-color: rgba( 255, 255, 255, 1 );
+  --BOX-BG-color: rgba( 255, 255, 255, .833 );
+  --BOX-TEXT-color: rgba( 44, 48, 46, 1 );
+  --BOX-GREY-color: rgba( 226, 218, 203, 1 );
+  --CARD-BORDER-color: rgba( 226, 218, 203, 1 );
+}
