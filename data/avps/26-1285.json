@@ -1,0 +1,218 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien",
+    "direction": "DIRECTION DES SERVICES TECHNIQUES",
+    "uniteOrganisationnelle": "Service Infrastructures, Voirie et Environnement (SIVE)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du Service Infrastructures, Voirie et Environnement (SIVE)",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Entreprises",
+      "Bureaux d'études",
+      "Concessionnaires de réseaux",
+      "Services municipaux",
+      "Partenaires institutionnels"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Déplacements",
+        "value": "Déplacements fréquents sur l'ensemble du territoire communal et présence régulière sur chantier"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Équipements de protection individuelle",
+        "value": "Port des équipements de protection individuelle (chaussures de sécurité, chasuble, casque, etc.)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions de travail",
+        "value": "Travail ponctuel dans des conditions de terrain contraignantes et adaptation aux aléas de chantier et aux intempéries"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Disponibilité",
+        "value": "Disponibilité requise en fonction des nécessités de service et des interventions d'urgence"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Astreintes",
+        "value": "Participation aux astreintes techniques de nuit et de week-end selon le planning du service"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Avantages matériels",
+        "value": "Mise à disposition d'un véhicule de service et d'un abonnement téléphonique communal, selon les règles en vigueur"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953858.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité du chef du Service Infrastructures, Voirie et Environnement (SIVE), le chargé d'opération assure la conduite technique, administrative et financière des opérations d'investissement, d'entretien et de maintenance relevant du service, depuis leur programmation jusqu'à la réception des travaux et au suivi de la garantie de parfait achèvement. Il intervient notamment dans les domaines de la voirie, des ouvrages d'art, de l'assainissement pluvial et des VRD, de l'éclairage public, de la signalisation et des aménagements des espaces publics.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1285",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé d'opération",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Païta"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Mairie de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "BP 7",
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "35.21.25",
+    "email": "recrutement@ville-paita.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Bac+2",
+    "competencyRequired": [
+      "Connaissances techniques en voirie et chaussées, terrassements, assainissement, ouvrages d'art",
+      "Notions en éclairage public et signalisation",
+      "Connaissance des règles de conception, des règles de l'art et des principes de qualité des travaux",
+      "Connaissance des principes de la commande publique et des principales procédures de travaux",
+      "Maîtrise de la lecture et de l'interprétation de plans, profils, coupes, mémoires techniques",
+      "Maîtrise des outils bureautiques",
+      "Maîtrise des applicatifs métiers S.I.G",
+      "Connaissance du fonctionnement administratif et budgétaire d'une collectivité",
+      "Qualités rédactionnelles permettant la production de courriers, comptes rendus, rapports techniques"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Service Infrastructures, Voirie et Environnement (SIVE)"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience en conduite d'opérations, suivi de chantier ou travaux publics, sans toutefois constituer un prérequis, afin de permettre également la candidature de diplômés ou de profils débutants disposant des connaissances techniques nécessaires pour évoluer dans ces domaines.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Païta"
+  },
+  "incentiveCompensation": null,
+  "industry": "Travaux publics",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12 route de la Mairie",
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire catégorie B obligatoire",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Assistant technique en infrastructure",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "I1302",
+      "name": "Ingénierie et études du BTP"
+    }
+  },
+  "responsibilities": [
+    "Piloter et suivre les opérations confiées dans le respect des objectifs de qualité, de coût, de délai et de sécurité",
+    "Contrôler l'exécution et la conformité des prestations réalisées par les entreprises, bureaux d'études et autres prestataires",
+    "Assurer la surveillance du patrimoine et des réseaux du service, identifier les dégradations, proposer les priorités d'intervention et traiter les urgences",
+    "Coordonner les intervenants internes et externes, assurer la traçabilité des décisions et rendre compte régulièrement à la hiérarchie",
+    "Participer aux diagnostics, études de faisabilité, études préliminaires et avant-projets liés aux opérations d'infrastructure",
+    "Définir les besoins, estimer les coûts, les quantités et les délais, puis proposer un phasage réaliste des travaux",
+    "Élaborer ou contribuer aux dossiers techniques de consultation : CCTP, plans, métrés, BPU/DQE et pièces techniques nécessaires à la mise en concurrence",
+    "Participer à l'analyse technique des offres et à la préparation des éléments nécessaires à la décision d'attribution",
+    "Préparer le démarrage des chantiers : coordination des intervenants, vérification des prérequis, autorisations de voirie et de circulation et interfaces avec les concessionnaires de réseaux",
+    "Assurer le suivi de chantier : réunions, comptes rendus, contrôles de conformité, métrés contradictoires, constats et suivi des délais",
+    "Veiller au respect des règles de l'art, des prescriptions techniques, des mesures de sécurité et des contraintes environnementales applicables aux travaux",
+    "Vérifier les situations de travaux, états d'acompte et factures au regard du service fait, des quantités exécutées et des pièces contractuelles",
+    "Organiser les opérations préalables à la réception, suivre les réserves, contrôler les dossiers de récolement et DOE et assurer le suivi de la garantie de parfait achèvement",
+    "Assurer la surveillance du réseau routier et des ouvrages, évaluer les principales dégradations, proposer les interventions d'entretien et participer aux interventions d'urgence",
+    "Contribuer à l'élaboration du budget prévisionnel, aux prévisions de consommation des crédits et au suivi financier des opérations au moyen de tableaux de bord",
+    "Assurer les traitements administratifs liés aux opérations : courriers, notes, rapports, demandes d'autorisation, comptes rendus et classement des pièces"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Conduire simultanément plusieurs opérations en organisant les priorités, les interfaces",
+    "Diagnostiquer une situation de terrain et proposer des solutions techniques proportionnées et chiffrées",
+    "Élaborer des dossiers techniques, estimations, métrés, tableaux de bord nécessaires à la consultation et au suivi des travaux",
+    "Contrôler les travaux, relever les écarts, formaliser les observations et les réserves",
+    "Suivre les engagements et consommations de crédits, vérifier les pièces de dépenses et les besoins budgétaires",
+    "Animer ou participer à des réunions de chantier et coordonner entreprises, concessionnaires, services municipaux et partenaires institutionnels",
+    "Rendre compte de manière synthétique et fiable à la hiérarchie et alerter en cas de risque technique, financier, réglementaire ou de sécurité",
+    "Rigueur",
+    "Méthode",
+    "Sens de l'organisation",
+    "Fiabilité",
+    "Autonomie",
+    "Capacité d'anticipation",
+    "Goût du terrain",
+    "Réactivité",
+    "Capacité à gérer les imprévus",
+    "Sens du service public",
+    "Travail en équipe",
+    "Communication",
+    "Diplomatie",
+    "Maîtrise de soi",
+    "Discrétion professionnelle",
+    "Loyauté"
+  ],
+  "specialCommitments": null,
+  "title": "Chargé d'opération",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "DIRECTION DES SERVICES TECHNIQUES",
+  "direction_source": "document",
+  "famille_respnc": "Infrastructures, réseaux, eaux et assainissements",
+  "famille_source": "respnc",
+  "famille_score": 0.982,
+  "dossier": "infrastructures-reseaux-eaux-et-assainissements"
+}
