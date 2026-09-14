@@ -1,0 +1,170 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 1-Sans diplôme",
+    "direction": "SIVOM VKP",
+    "uniteOrganisationnelle": "ISD Plaine des Gaïacs",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable d'exploitation du service déchets",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Responsable d'exploitation du service déchets",
+      "Directeur du SIVOM VKP"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "L'agent retenu effectuera l'essentiel de son temps de travail sur l'ISD de la plaine des gaïacs, cependant, il pourra être amené à intervenir sur les CTT du SIVOM VKP. De manière générale, l'agent sera amené à effectuer toute tâche liée à l'exploitation de l'installation de stockage des déchets."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Contact pour renseignements",
+        "value": "Monsieur Arnaud BANFI - Directeur du SIVOM VKP - Tel : 42 48 56 / mail arnaud.banfi@sivomvkp.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Modalités de candidature",
+        "value": "Voie postale : BP 670 - 98860 KONE. Dépôt physique : SIVOM VKP - 148 Avenue de Baco - 98859 KONE. Mail : sivomvkp@sivomvkp.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953314.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le SIVOM VKP gère, par délégation de compétences, l'adduction en eau potable, l'assainissement collectif des eaux usées et les déchets des communes de Voh, Koné et Pouembout. Dans la cadre de la modernisation de la gestion des déchets sur la zone VKP, le SIVOM VKP se dote d'une installation de stockage des déchets non-dangereux ainsi que d'un réseau de centres de tri et de transfert qui seront exploités en régie.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1356",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Agent d'entretien et d'exploitation",
+  "owner": {
+    "@type": "Organization",
+    "name": "SIVOM VKP"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "SIVOM VKP",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "148 Avenue de Baco",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "42.48.56",
+    "email": "sivomvkp@sivomvkp.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Titulaire du CACES ou autre certificat d'aptitude à la conduite de compacteur, pelle, chargeur et tracteur",
+      "Titulaire du permis de conduire B",
+      "Connaissances en mécanique sur engin génie civil",
+      "Autorisation de conduite et certificat d'aptitude médicale",
+      "Sensibilité pour la gestion des déchets",
+      "Habilitation électrique",
+      "Connaissances en électromécanique"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "SIVOM VKP",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Connaissances en mécanique sur engin génie civil, habilitation électrique et connaissances en électromécanique appréciées.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "SIVOM VKP"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "ISD Plaine des Gaïacs",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "ISD Plaine des Gaïacs",
+      "addressLocality": "Pouembout",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-11-06",
+  "occupationalCategory": [
+    "Propreté et gestion des déchets"
+  ],
+  "physicalRequirement": "Certificat d'aptitude médicale requis pour la conduite d'engins.",
+  "qualifications": "Titulaire du CACES ou autre certificat d'aptitude à la conduite de compacteur, pelle, chargeur et tracteur, Permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Agent d'entretien et d'exploitation",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2503",
+      "name": "Salubrité et traitement de déchets"
+    }
+  },
+  "responsibilities": [
+    "Exploitation générale de l'installation de stockage des déchets non dangereux de VKPP (Plaine des gaïacs)",
+    "Réaliser à l'aide d'engins génie civil l'exploitation des alvéoles de stockage des déchets (régalage, reprise, compactage, etc.)",
+    "Réaliser l'entretien des zones de sécurité incendie et des espaces verts",
+    "Réaliser l'entretien courant et le nettoyage des engins utilisés dans le cadre de l'exploitation",
+    "Veiller au bon état général des outils d'exploitation (fossés, voirie, réseaux, bassins, etc.)",
+    "Contrôler le bon fonctionnement des équipements (pompes, regards, vannes, pont bascule, portique radioactivité, etc.)",
+    "Orienter sur site et encadrer les entreprises venant déposer les déchets",
+    "Réaliser les contrôles liés à l'acceptation des déchets au sein de l'installation",
+    "Participer à la bonne tenue du site en réalisant les travaux de nettoyage et d'entretien nécessaires",
+    "Tenir les registres de suivi des différents équipements et les rapporter à sa hiérarchie (responsable déchets et/ou directeur)",
+    "Participer à la gestion administrative du site (gérer les entrées/sorties, remplir le registre d'admission, etc.)",
+    "Intervenir ponctuellement sur le réseau de centres de tri et de transfert du SIVOM VKP pour y réaliser l'accueil des usagers ou l'entretien courant du site"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité de travail en autonomie et en équipe réduite",
+    "Capacité de suivre des règles d'exploitation strictes et définies",
+    "Capacité à rendre compte de son travail, synthétiser, transposer les données observées"
+  ],
+  "specialCommitments": null,
+  "title": "Agent d'entretien et d'exploitation",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-02",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "A-TRIER",
+  "collectivite": "",
+  "direction": "SIVOM VKP",
+  "direction_source": "document",
+  "famille_respnc": "Entretien, surveillance et logistique",
+  "famille_source": "respnc",
+  "famille_score": 0.896,
+  "dossier": "entretien-surveillance-et-logistique"
+}
