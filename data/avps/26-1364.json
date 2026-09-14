@@ -1,0 +1,155 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 2-Diplôme niveau V",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Internats Koumac/Ouegoa",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directrice de l’internat provincial de Koumac",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Poste ventilé mi-temps internat de Koumac, mi-temps internat de Ouégoa."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955394.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L’agent d’entretien polyvalent sera chargé du suivi et de la réalisation des tâches relevant du maintien en bon état des bâtiments, des espaces et du matériel de l'internat de Koumac et Ouégoa, en relation si nécessaire avec les différents prestataires de services sollicités par la collectivité.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1364",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Agent d'entretien polyvalent (Koumac-Ouegoa)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-nord.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.61.13",
+    "email": "va.tein-bai@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "CAP/BEP",
+    "competencyRequired": [
+      "Connaissance des règles d'hygiène et de sécurité",
+      "Connaissance de la réglementation ERP",
+      "Connaissance des règles de sécurité et des risques"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction de l’enseignement, de la formation, de l’insertion des jeunes (DEFIJ) de la province Nord compte environ 573 agents. Elle emploi notamment l’ensemble des enseignants du premier degré public (345 enseignants pour 48 écoles), l’ensemble des personnels d’internats provinciaux (171 agents pour 7 internats) et environ 57 agents chargés de l’administration basés à l’hôtel de la province Nord et au centre de formation de Touho. La DEFIJ est chargée d’appliquer les orientations politiques de la province Nord en matière d’enseignement, de formation et d’insertion.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Expérience significative souhaitée en l'absence de diplôme.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Internats Koumac/Ouegoa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Koumac",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-03",
+  "occupationalCategory": [
+    "Entretien, surveillance et logistique",
+    "Patrimoine bâti"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Habilitation électrique souhaité",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Ouvrier polyvalent",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1205",
+      "name": "Maintenance des bâtiments et locaux"
+    }
+  },
+  "responsibilities": [
+    "Le suivi de la maintenance préventive et corrective des bâtiments et installations",
+    "Le contrôle régulier des équipements du bâtiment",
+    "La réalisation des petits travaux d’entretien, de réparation, de prévention sur le patrimoine bâti (maçonnerie, menuiserie, peinture, plomberie, électricité) ainsi que l’entretien des espaces verts",
+    "Le nettoyage des espaces extérieurs",
+    "La gestion rigoureuse du stock de matériel et fournitures nécessaires à l’entretien des bâtiments",
+    "La réalisation de petits travaux d’aménagements",
+    "L’entretien et le suivi des véhicules de service de l’internat",
+    "L’encadrement des élèves internes dans une activité qui relève de sa compétence",
+    "La participation aux événements ou journées à thème organisées"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Techniques de signalisation",
+    "Maintien en état des équipements, matériels et outils",
+    "Application et respect des règles et procédures",
+    "Détection des dysfonctionnements dans un bâtiment ou sur du matériel",
+    "Diagnostiquer la limite dans la réalisation d'un travail au-delà de laquelle l'appel un spécialiste est indispensable",
+    "Rendre compte à sa hiérarchie",
+    "Organisation et réactivité",
+    "Rigueur et vigilance",
+    "Esprit d'initiative",
+    "Sens du travail en équipe",
+    "Sens du service public",
+    "Autonomie",
+    "Attitude éducative envers les élèves",
+    "Discrétion"
+  ],
+  "specialCommitments": null,
+  "title": "Agent d’entretien polyvalent (Koumac-Ouegoa)",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-02",
+  "workHours": "Poste ventilé mi-temps internat de Koumac, mi-temps internat de Ouégoa",
+  "champs_open_data": 8,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "famille_respnc": "Patrimoine bâti",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "patrimoine-bati"
+}
