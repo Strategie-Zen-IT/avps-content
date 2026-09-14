@@ -1,0 +1,164 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Service Accompagnement Médico-Social",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cheffe du service accompagnement médico-social",
+    "placeOrganigramme": "Placé sous l'autorité de la cheffe de service",
+    "relationsFonctionnelles": [
+      "Service Accompagnement Médico-Social",
+      "Service d'Accompagnement Social",
+      "Service d'Aide à l'Autonomie Sociale",
+      "Centres Médico-Sociaux",
+      "Pôle Sanitaire Nord Koné",
+      "Gériatres",
+      "Médecins libéraux et publics",
+      "Travailleurs sociaux",
+      "Associations",
+      "Infirmiers",
+      "Kinésithérapeutes",
+      "Orthophonistes"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Astreintes",
+        "value": "Soumis à astreinte de nuit et de week-end selon le planning établi par roulement et l'effectif médical"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Mobilité",
+        "value": "Pour des raisons de service ce poste peut être sollicité pour une mobilité de secteur"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952050.PDF"
+      }
+    ]
+  },
+  "alternateName": "Infirmier référent en gérontologie",
+  "description": "Placé sous l'autorité de la cheffe de service, dans le cadre d'une polyvalence de secteur, ce au sein d'un réseau de soins et de prise en charge sociale, l'infirmier référent en gérontologie devra assurer l'évaluation, l'adaptation et le suivi de la file active des personnes âgées de la côte Est de la Province Nord (de Hienghène à Houailou).",
+  "identifier": "26-0537",
+  "name": "INFIRMIER RÉFÉRENT EN GÉRONTOLOGIE - CÔTE EST (Poindimié)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Province-Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.71.00",
+    "email": "a.sansonetti@province-nord.nc"
+  },
+  "datePosted": "2026-04-10",
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'État d'infirmier",
+    "competencyRequired": [
+      "Formation et expériences en gérontologie",
+      "Connaissances des réalités locales et associatives",
+      "Connaissances des réglementations et des compétences institutionnelles",
+      "Connaissance de la méthodologie de projet"
+    ]
+  },
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service Accompagnement Médico-Social"
+  },
+  "experienceRequirements": "Expérience du travail en poste isolé, expérience des urgences, une première expérience professionnelle serait appréciée dans le domaine de la gérontologie.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre Médico-social Poindimié (CMS)",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Poindimié",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobStartDate": "2026-09-05",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "qualifications": "Permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "infirmier",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Soins infirmiers généraux"
+    }
+  },
+  "responsibilities": [
+    "Le recensement des personnes âgées en prévention primaire et secondaire de la dépendance",
+    "Le suivi des patients : traitements, soins palliatifs",
+    "La liaison entre les différents partenaires médicaux, sociaux et paramédicaux pour construire, évaluer le dossier gérontologique individuel",
+    "L'alerte, l'orientation et/ou les réponses aux demandes d'avis gérontologiques des médecins des centres médico-sociaux ou du Pôle Sanitaire Nord Koné",
+    "La coordination et l'aide à l'élaboration du projet de sortie de la personne âgée hospitalisée",
+    "Les vacations décentralisées dans les CMS et les visites à domicile",
+    "Élaborer un planning de fréquence mensuelle des CMS de la zone d'affectation",
+    "Organiser une fois par an une visite à domicile avec le médecin et l'auxiliaire de santé pour évaluation des conditions de vie, d'hygiène, de besoin en matériel médicalisé",
+    "Accompagnement, collaboration avec les familles de patients",
+    "La mise en place d'un fichier actif",
+    "La création d'outils de liaison au sein des CMS, la formation des référents et des soignants",
+    "L'information, l'évaluation et la restitution de l'activité et du schéma gérontologique de la province Nord",
+    "Proposer des formations aux CMS à destination des médecins, IDE, AVS sur la reconnaissance de la dépendance et la mise en place d'outils",
+    "La mise en place d'actions de promotion de la santé",
+    "Insérer le dossier gérontologique au sein du dossier du patient",
+    "Relayer des dysfonctionnements éventuels auprès du SAMS, du SAS, du SAAS, des différentes associations",
+    "Dossiers gérontologiques complets à constituer et réalisation des tests d'évaluation",
+    "Commande de matériel adapté en relation avec les équipes",
+    "Conseils aux aidants pour la prise en charge du bénéficiaire"
+  ],
+  "skills": [
+    "Maîtrise des logiciels de bureautique (Excel et Word)",
+    "Travailler en équipe",
+    "Faire preuve d'empathie",
+    "Être organisé",
+    "Être disponible",
+    "Être rigoureux",
+    "Avoir le sens de l'anticipation et des responsabilités",
+    "Avoir un esprit d'initiative et de synthèse",
+    "Respecter la confidentialité des informations et le secret médical",
+    "Faire preuve d'autonomie",
+    "Savoir intégrer et animer un réseau",
+    "Savoir inclure les spécificités culturelles de la population dans sa pratique professionnelle"
+  ],
+  "specialCommitments": "Ce poste est soumis à astreinte de nuit et de week-end selon le planning établi par roulement et l'effectif médical. Pour des raisons de service ce poste peut être sollicité pour une mobilité de secteur.",
+  "title": "INFIRMIER RÉFÉRENT EN GÉRONTOLOGIE – CÔTE EST",
+  "validThrough": "2026-09-18",
+  "champs_open_data": 6,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.994,
+  "dossier": "sante-publique-soins"
+}
