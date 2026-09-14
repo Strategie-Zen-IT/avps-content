@@ -1,0 +1,160 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Professeur des écoles",
+    "direction": "UNIVERSITE DE NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": "Département Génie Électrique et Informatique Industrielle (GEII)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directrice de l'IUT",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Département GEII",
+      "Entreprises calédoniennes",
+      "Pôle enseignants et enseignants-chercheurs"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Volume horaire d'enseignement",
+        "value": "384 heures équivalent TD"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Date de vacance du poste",
+        "value": "25/01/2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952134.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'Université de la Nouvelle-Calédonie recrute un professeur agrégé ou certifié en Génie-Electrique ou Sciences Industrielles de l'ingénieur et ingénierie électrique (courants forts) pour son Institut Universitaire de Technologie (IUT). Le poste est basé sur le campus de Nouville à Nouméa.",
+  "disambiguatingDescription": "Poste d'enseignant du second degré en génie électrique (courants forts) affecté à l'IUT de l'Université de la Nouvelle-Calédonie.",
+  "identifier": "26-1352",
+  "image": null,
+  "mainEntityOfPage": "https://unc.nc/utile/recrutement/recrutement-emplois-stages/",
+  "name": "Un professeur agrégé ou certifié en Génie-Electrique ou Sciences Industrielles de l'ingénieur et ingénierie électrique (courants forts)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Université de Nouvelle-Calédonie",
+    "url": "https://unc.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://unc.nc/utile/recrutement/recrutement-emplois-stages/",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "recrutement-enseignants@unc.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Réseaux : systèmes triphasés équilibrés, couplages, modèles monophasés équivalents, puissances, compensation du facteur de puissance",
+      "Conversion magnétique : transformateur, champ tournant, machines électriques alternatives",
+      "Électronique de puissance : principes, composants, cellules de commutations, principaux convertisseurs de puissance (conversion DC/DC, DC/AC, AC/DC), filtrage",
+      "Traitement du signal : capteurs, conditionnement analogique, échantillonnage, analyse fréquentielle",
+      "Commande de machines : motion control, commande scalaire et vectorielle"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "L'Université de la Nouvelle-Calédonie est un établissement pluridisciplinaire qui répond aux besoins de formation et de recherche propres à la Nouvelle-Calédonie. Elle compte 250 personnels et 3 500 étudiants répartis sur deux campus.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Institut Universitaire de Technologie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience dans l'enseignement secondaire ou supérieur en génie électrique ou sciences industrielles de l'ingénieur.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Université de Nouvelle-Calédonie",
+    "url": "https://unc.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Éducation",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Campus de Nouville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Avenue James Cook",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-25",
+  "occupationalCategory": [
+    "Education"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Enseignant du 2nd degré",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2107",
+      "name": "Enseignement technique et professionnel"
+    }
+  },
+  "responsibilities": [
+    "Assurer son service d'enseignement de 384 heures équivalent TD au sein du département GEII",
+    "Dispenser des cours magistraux, des travaux dirigés, des travaux pratiques et des situations d'apprentissage et d'évaluation",
+    "Participer au recrutement des étudiants",
+    "Assurer la communication auprès des publics cibles",
+    "Assurer le suivi individualisé des étudiants",
+    "Assurer le suivi des étudiants en stage et en apprentissage",
+    "Coordonner les intervenants dans son champ disciplinaire",
+    "Mener des actions en lien avec les entreprises calédoniennes",
+    "Participer à l'ensemble des réunions pédagogiques et conseils de département",
+    "Participer aux soutenances de portfolio et de stages",
+    "Participer aux jurys de fin d'année",
+    "Prendre progressivement la responsabilité d'une année d'étude ou d'un parcours"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Enseignement",
+    "Pédagogie",
+    "Génie électrique",
+    "Courants forts",
+    "Suivi des étudiants",
+    "Coordination d'intervenants",
+    "Relation entreprises"
+  ],
+  "specialCommitments": null,
+  "title": "Professeur agrégé ou certifié en Génie-Electrique ou Sciences Industrielles de l'ingénieur et ingénierie électrique (courants forts)",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-02",
+  "workHours": "384 heures équivalent TD par an",
+  "champs_open_data": 8,
+  "employeur_sigle": "UNC",
+  "collectivite": "Université de Nouvelle-Calédonie",
+  "direction": "UNIVERSITE DE NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Education",
+  "famille_source": "respnc",
+  "famille_score": 0.945,
+  "dossier": "education"
+}
