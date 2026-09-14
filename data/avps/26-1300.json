@@ -1,0 +1,166 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "VILLE DU MONT-DORE",
+    "uniteOrganisationnelle": "Unité dédiée à la lutte contre la délinquance des mineurs",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur de la sécurité",
+    "placeOrganigramme": "Placé sous l'autorité du directeur de la sécurité",
+    "relationsFonctionnelles": [
+      "Partenaires institutionnels",
+      "Partenaires judiciaires",
+      "Partenaires éducatifs",
+      "Partenaires sociaux",
+      "Partenaires associatifs",
+      "Conseil Local de Sécurité et de Prévention de la Délinquance (CLSPD)"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Réorganisation interne",
+        "value": "Oui"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Forte transversalité, gestion de situations sensibles, disponibilité et réactivité, respect strict de la confidentialité, fonction de représentation"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956064.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité du directeur de la sécurité, le chef de service est chargé de l'encadrement et du pilotage de l'unité dédiée à la lutte contre la délinquance des mineurs. Il assure la coordination de l'activité du service, veille à la qualité et à l'efficacité de son fonctionnement et contribue à la mise en œuvre du dispositif communal Tolérance Zéro, afin de garantir une réponse rapide, coordonnée, graduée et adaptée aux situations impliquant des mineurs, en lien avec les partenaires institutionnels, judiciaires et éducatifs.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1300",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef du service anti-délinquance des mineurs",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "41.01.82",
+    "email": "ds@ville-montdore.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaissance de l'environnement territorial et du fonctionnement des collectivités",
+      "Connaissance des politiques publiques de sécurité, de prévention de la délinquance et de la tranquillité publique",
+      "Connaissance du cadre juridique applicable aux mineurs, des pouvoirs de police du maire et des dispositifs de prévention de la délinquance",
+      "Connaissance des acteurs institutionnels, judiciaires, éducatifs et sociaux intervenant dans la prise en charge des mineurs",
+      "Connaissance des techniques de conduite de projet et d'animation de réseaux partenariaux",
+      "Maîtrise des outils bureautiques et des techniques de rédaction administrative"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie du Mont-Dore",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4468 avenue des deux baies Boulari",
+      "addressLocality": "Mont-Dore",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Prévention et sécurité",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B exigé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chef de service anti-délinquance des mineurs",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "I1304",
+      "name": "Management de la sécurité publique"
+    }
+  },
+  "responsibilities": [
+    "Encadrer, animer et coordonner l'équipe en charge de la lutte contre la délinquance des mineurs",
+    "Organiser, planifier et superviser l'activité du service, en veillant à la continuité et à la qualité du service rendu",
+    "Piloter la mise en œuvre du dispositif communal Tolérance Zéro et assurer le suivi des situations impliquant des mineurs",
+    "Coordonner les interventions et favoriser une réponse rapide, graduée et adaptée aux différentes situations",
+    "Assurer le suivi des situations sensibles et des dossiers nécessitant une attention particulière",
+    "Développer et maintenir les relations avec les partenaires institutionnels, judiciaires, éducatifs et sociaux",
+    "Participer à l'analyse des phénomènes de délinquance des mineurs et proposer des actions de prévention et de lutte adaptées",
+    "Veiller au respect des procédures, du cadre réglementaire et des droits des mineurs",
+    "Assurer le suivi de l'activité du service, l'évaluation des actions engagées et la remontée des informations auprès de la hiérarchie",
+    "Participer aux réunions, dispositifs et instances partenariales relevant de la prévention et de la lutte contre la délinquance des mineurs et notamment le Conseil Local de Sécurité et de Prévention de la Délinquance (CLSPD)",
+    "Assurer le suivi des Travaux d'Intérêt Général (TIG) et mettre en œuvre le Conseil des Droits et des Devoirs de la Famille (CDDF)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Manager, animer et fédérer une équipe",
+    "Piloter un service et conduire des projets transversaux",
+    "Analyser des situations complexes et proposer des réponses adaptées",
+    "Développer et animer des partenariats institutionnels",
+    "Conduire des réunions et assurer la médiation entre différents acteurs",
+    "Élaborer des procédures, des notes d'analyse, des rapports et des tableaux de bord",
+    "Organiser, planifier et évaluer l'activité d'un service",
+    "Communiquer avec des interlocuteurs variés et représenter la collectivité",
+    "Sens des responsabilités et de l'intérêt général",
+    "Leadership et aptitude au management",
+    "Capacité d'analyse, de discernement et d'aide à la décision",
+    "Rigueur, méthode et sens de l'organisation",
+    "Qualités relationnelles et aptitude au travail partenarial",
+    "Diplomatie, écoute et capacité de négociation",
+    "Réactivité et capacité à gérer des situations sensibles ou conflictuelles",
+    "Discrétion professionnelle, impartialité et respect de la confidentialité",
+    "Autonomie, disponibilité et sens de l'initiative"
+  ],
+  "specialCommitments": null,
+  "title": "Chef du service anti-délinquance des mineurs",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "VILLE-DU-MONT-DORE",
+  "collectivite": "Ville du Mont-Dore",
+  "direction": "VILLE DU MONT-DORE",
+  "direction_source": "source",
+  "famille_respnc": "Ingénierie industrielle minière et énergétique",
+  "famille_source": "respnc",
+  "famille_score": 0.781,
+  "dossier": "ingenierie-industrielle-miniere-et-energetique"
+}
