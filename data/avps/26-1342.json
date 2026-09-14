@@ -1,0 +1,186 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien adjoint",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Service de Gestion des Aires Protégées",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable du bureau zoologique",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Service de Gestion des Aires Protégées",
+      "Direction du Développement Durable des Territoires"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi / Domaine",
+        "value": "Technicien adjoint / Economie rurale"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Grade",
+        "value": "1er ou 2ème grade"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Travail les week-ends et les jours fériés réguliers."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956346.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La Direction du Développement Durable des Territoires de la province Sud (DDDT) est chargée, au sein du pôle transition écologique, de contribuer à la mise en œuvre des politiques publiques en matière de développement des territoires (notamment économique et d’aménagement) en assurant la transition écologique, la protection et la valorisation des patrimoines naturels et des espaces agricoles. Le Service de Gestion des Aires Protégées (SGAP) est chargé notamment de la mise en œuvre des stratégies élaborées par la direction, adaptée aux différentes structures qu’il gère et dans le cadre de ses compétences. L’équipe du parc provincial zoologique et forestier (PPZF) Michel Corbasson élabore et met en œuvre le plan de gestion et le règlement intérieur, l’organisation de l’accueil et de la sécurité du public, l’entretien des aménagements existants et de la surveillance, la gestion de la collection animale, l’organisation et du suivi des travaux botaniques et de la pépinière, la supervision des nouveaux aménagements, la gestion et le suivi des relations avec les prestataires extérieurs.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1342",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Soigneur au bureau zoologique du parc provincial zoologique et forestier Michel Corbasson",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouvelle-Calédonie",
+    "address": null
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.89.51",
+    "email": "oriane.lallemand@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Solide expérience dans les techniques de soins aux animaux (capture et manipulation, alimentation, prophylaxie, reproduction, etc.)",
+      "Maîtrise des notions d’hygiène générale (désinfection, prévention des maladies et infestations, biosécurité, lutte contre les nuisibles)"
+    ]
+  },
+  "eligibilityToWorkRequirement": "au moins égale a 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Parc provincial zoologique et forestier Michel Corbasson",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Solide expérience dans les techniques de soins aux animaux (capture et manipulation, alimentation, prophylaxie, reproduction, etc.)",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Environnement",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Parc provincial zoologique et forestier Michel Corbasson",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-04-01",
+  "occupationalCategory": [
+    "Environnement"
+  ],
+  "physicalRequirement": "Bonne condition physique",
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Soigneur d'animaux",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "A1203",
+      "name": "Aide aux soins animaux"
+    }
+  },
+  "responsibilities": [
+    "Assurer les soins quotidiens de la collection animale (oiseaux, reptiles, mammifères, élevages parallèles, etc.)",
+    "Assurer le nourrissage des animaux : préparation des plats selon les menus et les dosages établis, distribution et ramassage des aliments non consommés",
+    "Assurer le renouvellement de l’eau de boisson et de baignade",
+    "Assurer l’observation rigoureuse des animaux, leur état de santé, leur comportement et le décompte des effectifs",
+    "Assurer l'hygiène des cages, des volières et des enclos ainsi que le rangement, le nettoyage et l'entretien des installations, des outillages et des engins du bureau zoologique",
+    "Assurer le relais des informations vers les cadres du bureau zoologique",
+    "Contribuer à la satisfaction des besoins des animaux (logement, reproduction, jeux occupationnels)",
+    "Contribuer aux soins vétérinaires (préventifs et curatifs) selon les instructions du responsable de bureau",
+    "Contribuer à la maîtrise des techniques de captures et de contentions des animaux",
+    "Contribuer aux travaux de petites constructions en rapport avec les besoins des animaux : nichoirs, perchoirs etc.",
+    "Contribuer à l’embellissement et l’enrichissement des cages, des volières et des enclos par des plantations ainsi que l’entretien des abords directs des installations",
+    "Contribuer au respect des procédures d’hygiène et de sécurité éditées dans le règlement de service",
+    "Contribuer à la gestion des nuisibles",
+    "Contribuer à la participation aux travaux d’équipe et inter-équipe selon les besoins et les urgences du moment",
+    "Contribuer à la participation ponctuelle aux animations auprès du public",
+    "Veiller au respect du code de déontologie",
+    "S'assurer du bien-être animal selon les programmes d’amélioration proposés (sensoriel, cognitif, alimentaire et structurel)",
+    "Mettre en œuvre les moyens appropriés pour résoudre les problèmes mineurs et à en rendre compte à sa hiérarchie",
+    "S'assurer de la bonne circulation de l’information ascendante et transversale avec les autres membres de l’équipe, des autres bureaux du PPZF et des agents des autres parcs"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Mise en œuvre et mémorisation des procédures de soins animaliers selon les consignes des cadres de l'équipe",
+    "Respect des consignes",
+    "Capacité à anticiper et à gérer des situations difficiles",
+    "Observation, rigueur et vigilance dans les tâches routinières",
+    "Organisation du travail",
+    "Travail et esprit d’équipe",
+    "Bonne condition physique",
+    "Aptitude à anticiper et à organiser",
+    "Prise d’initiatives",
+    "Autonomie",
+    "Grande disponibilité",
+    "Déontologie",
+    "Confidentialité",
+    "Bienveillance",
+    "Empathie"
+  ],
+  "specialCommitments": null,
+  "title": "Soigneur au bureau zoologique du parc provincial zoologique et forestier Michel Corbasson",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-02",
+  "workHours": "Travail les week-ends et les jours fériés réguliers",
+  "champs_open_data": 12,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "famille_respnc": "Agriculture et mer",
+  "famille_source": "respnc",
+  "famille_score": 0.998,
+  "dossier": "agriculture-et-mer"
+}
