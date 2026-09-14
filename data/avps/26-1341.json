@@ -1,0 +1,168 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "CENTRE HOSPITALIER DU NORD",
+    "uniteOrganisationnelle": "Service des Ressources Humaines et des Affaires Médicales (RHAM)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable des ressources humaines et des affaires médicales (RHAM)",
+    "placeOrganigramme": "Placé sous l’autorité du responsable des ressources humaines et des affaires médicales (RHAM)",
+    "relationsFonctionnelles": [
+      "Encadrement des services de soins",
+      "Établissements scolaires",
+      "Organismes de formation",
+      "Écoles"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Charge de travail soutenue en période de turnover du personnel"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953292.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l’autorité du responsable des ressources humaines et des affaires médicales (RHAM), le gestionnaire recrutement et communication interne assure la mise en œuvre du processus de recrutement et contribue au développement de l’attractivité de l’établissement. Il intervient à la fois sur la gestion des recrutements, l’accompagnement des services et des candidats, la valorisation des métiers et la mise en œuvre d’actions de communication RH et d’attractivité.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1341",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "1 Gestionnaire recrutement et communication interne",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier du Nord"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "42.11.10",
+    "email": "milene.sautron@chn.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-07",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Bac+2",
+    "competencyRequired": [
+      "Connaissance des statuts et de la règlementation de la fonction publique de Nouvelle-Calédonie et notamment ceux applicables dans le domaine hospitalier",
+      "Maitrise des différentes étapes du processus de recrutement",
+      "Une expérience en recrutement et/ou en communication"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Centre Hospitalier du Nord"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience en recrutement et/ou en communication serait appréciée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier du Nord"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Pôle Sanitaire du Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Ressources Humaines",
+    "Communication"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé de recrutement et communication interne ; gestionnaire RH",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1503",
+      "name": "Recrutement"
+    }
+  },
+  "responsibilities": [
+    "Recueillir et analyser les besoins en recrutement des services",
+    "Rédiger et publier les avis de vacances de postes et les offres d'emplois",
+    "Assurer la gestion et le suivi des candidatures via la boite mail recrutement CHN",
+    "Vérifier les diplômes, titres, autorisations et pièces administratives",
+    "Participer à la présélection des candidats et aux entretiens de recrutement",
+    "Préparer les propositions de recrutement",
+    "Constituer et actualiser la CVthèque par corps de métier",
+    "Tenir les tableaux de bord RH à jour et les indicateurs de recrutement",
+    "Participer aux réunions avec l'encadrement des services de soins",
+    "Assurer une veille sur les statuts, concours, mobilités et procédures de recrutement",
+    "Promouvoir les métiers, les parcours professionnels et les opportunités d’emploi",
+    "Organiser et/ou participer aux forums de l’emploi, forums métiers, salons professionnels, salons de l’étudiant",
+    "Développer des partenariats avec les établissements scolaires, organismes de formation, écoles",
+    "Contribuer à l’élaboration de supports de présentation et de promotion des métiers",
+    "Être force de proposition dans l’amélioration des pratiques et outils de recrutement et de communication",
+    "Organiser des journées d’intégration des nouveaux collaborateurs",
+    "Proposer des actions d’amélioration afin de rendre le recrutement plus rapide, efficace et attractif",
+    "Mettre en place un tableau de bord de suivi permettant d’évaluer régulièrement la performance du processus"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des techniques et outils de recrutement",
+    "Capacité à évaluer et optimiser le processus de recrutement à partir d’indicateurs et de retours d’expérience",
+    "Bonne connaissance des outils bureautiques",
+    "Aptitude à concevoir et diffuser des supports de communication interne",
+    "Aptitude à élaborer des tableaux de bord, analyser des données et produire des reportings",
+    "Sens de l’organisation",
+    "Rigueur",
+    "Autonomie",
+    "Bonnes capacités d’analyse et de synthèse",
+    "Excellentes qualités relationnelles et rédactionnelles",
+    "Sens de l'écoute",
+    "Diplomatie",
+    "Discrétion",
+    "Réactivité",
+    "Capacité à gérer plusieurs activités simultanément",
+    "Esprit d’équipe",
+    "Sens du service public",
+    "Force de proposition",
+    "Capacité à accompagner le changement"
+  ],
+  "specialCommitments": null,
+  "title": "Gestionnaire recrutement et communication interne",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "CHN",
+  "collectivite": "Centre hospitalier du Nord",
+  "direction": "CENTRE HOSPITALIER DU NORD",
+  "direction_source": "source",
+  "famille_respnc": "Ressources Humaines",
+  "famille_source": "respnc",
+  "famille_score": 0.842,
+  "dossier": "ressources-humaines"
+}
