@@ -1,0 +1,176 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur de la DPJEJ",
+    "placeOrganigramme": "Placé sous l'autorité du directeur de la DPJEJ",
+    "relationsFonctionnelles": [
+      "Partenaires internes",
+      "Partenaires externes",
+      "Services de la DPJEJ"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Permis B exigé."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Informations salaire",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Paulo WATOENE, Directeur de la PJEJ"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957366.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité du directeur de la DPJEJ, le chargé de mission intervient dans une démarche globale d'appui aux politiques publiques de la direction.",
+  "disambiguatingDescription": "Appui aux politiques publiques de la direction de la protection judiciaire de l'enfance et de la jeunesse.",
+  "identifier": "26-65353/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé de mission des politiques publiques",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "23.25.84",
+    "email": "paulo.watoene@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-26",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme de niveau 6",
+    "competencyRequired": [
+      "Diplôme de niveau 6 souhaité dans le domaine de l'administration et de la culture souhaitée avec plusieurs années d'expérience professionnelle",
+      "Connaissance de l'organisation judiciaire et de la justice des mineurs",
+      "Connaissance des institutions, des dispositifs et acteurs de l'action sociale, de la santé, de l'insertion et de l'éducation souhaitée",
+      "Connaissance de l'organisation institutionnelle,  administrative et coutumière de la Nouvelle-Calédonie",
+      "Connaissance en matière légistique souhaitée."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La Direction de la Protection Judiciaire de l'enfance et de la jeunesse a notamment pour mission de prévenir et de lutter contre la délinquance des mineurs. À ce titre, elle met en œuvre les orientations de la Nouvelle-Calédonie en matière de protection judiciaire de l'enfance et de la jeunesse, et veille à répondre aux besoins liés à l'instruction et à l'exécution des décisions judiciaires concernant les mineurs",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Plusieurs années d'expérience professionnelle",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction de la protection judiciaire de l'enfance et de la jeunesse",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-08",
+  "occupationalCategory": [
+    "Administration générale",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B exigé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable administratif",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Responsable administratif, administratif de gestion, administratif et financier"
+    }
+  },
+  "responsibilities": [
+    "Développer les champs de coopération avec les différents acteurs",
+    "Développer le réseau de partenaires spécifique à la mise en œuvre des mesures judiciaires et concevoir les outils adaptés",
+    "Coordonner les actions avec les partenaires internes et externes",
+    "Participer à l'organisation, la préparation et l'animation des réunions, journées d'accompagnement et d'échanges, ainsi que des comités de pilotage",
+    "Participer et contribuer aux groupes de travail organisés par la DPJEJ et par ses partenaires",
+    "Accompagner les services de la DPJEJ dans la mise en place d'outils éducatifs",
+    "Participer à l'évolution du cadre normatif.",
+    "Représenter la direction de la DPJEJ dans certaines instances",
+    "Apporter à la direction son expertise sur l'ensemble des dossiers transversaux."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Animer des réunions, dynamiser et motiver un groupe",
+    "Faire preuve de capacité de synthèse et d'écoute active",
+    "Rendre compte à l'oral comme à l'écrit à sa hiérarchie.",
+    "Respect des délais",
+    "Disponibilité",
+    "Force de proposition."
+  ],
+  "specialCommitments": "Permis B exigé.",
+  "title": "Chargé de mission des politiques publiques",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 29,
+  "employeur_sigle": "DPJEJ",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
+  "direction_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "administration-generale"
+}
