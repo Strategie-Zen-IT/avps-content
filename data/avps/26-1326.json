@@ -1,0 +1,150 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Service de l'Action Sociale (SAS)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service de l'action sociale",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Institutions",
+      "Services et associations œuvrant dans le domaine social et de la protection de l'enfance"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953804.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placée sous l'autorité du chef de service, la personne retenue accompagnera les personnes, les familles et les groupes afin de leur permettre de surmonter leurs difficultés, de tendre vers un mieux-être et de faciliter leur participation à la vie sociale. Elle sera amenée à intervenir sur un secteur d'intervention en polyvalence de secteur en effectuant un accueil tout public et à assurer un accompagnement des différents types de difficultés : financières, administratives, psychologiques et/ou éducatives dans sa mission de protection de l'enfance.",
+  "disambiguatingDescription": "Assistant(e) social(e) de secteur Pouembout-Poya",
+  "identifier": "26-1326",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Assistant(e) social(e) de secteur Pouembout-Poya",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.72.30",
+    "email": "p.carliez@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'Etat d'assistant de service social",
+    "competencyRequired": [
+      "Connaissance des réalités locales"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Par délibération n° 68/89 du 29 décembre 1989, l'Assemblée de la province Nord a créé la Direction Provinciale des Affaires Sanitaires et Sociales de la Province Nord. Depuis le 1er mars 2023, par délibération n° 2023-03/APN du 27 janvier 2023, cette direction est dénommée, Direction des Affaires Sanitaires et Sociale, de la Prévention et de la Solidarité (DASSPS). Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles. Le Service de l'Action Sociale (SAS) du Pôle Solidarité compte 14 agents (1 chef de service, 13 assistantes sociales)",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Service de l'Action Sociale (SAS)",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle appréciée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "CMS de POYA",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Poya",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "dès que possible",
+  "occupationalCategory": [
+    "Action sociale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Travailleur social",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1302",
+      "name": "Accompagnement social et professionnel"
+    }
+  },
+  "responsibilities": [
+    "La rencontre et la prise en charge des personnes lors de permanences, des visites à domicile ou sur rendez-vous",
+    "L'accueil, l'écoute, l'évaluation, le conseil, l'information et l'orientation",
+    "La conduite des évaluations sociales à la demande des magistrats, du service de l'aide sociale à l'enfance et du service de l'action sociale",
+    "La participation aux démarches d'agrément concernant l'adoption",
+    "La participation aux commissions ou réunions de synthèse où sa présence pourrait être nécessaire pour consultation ou prise de décision",
+    "La mise en place d'un travail partenarial et en transversalité avec les institutions, les services et les associations œuvrant dans le domaine social et de la protection de l'enfance",
+    "La participation à la réflexion en matière d'action sociale",
+    "La promotion des actions préventives en direction des groupes",
+    "L'intervention sur son secteur binôme en cas d'absence de son collègue",
+    "La participation à la formation de ses pairs par l'accueil de stagiaires",
+    "Le retour d'informations par un rapport d'activité annuel et lors de réunions de synthèse"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité à travailler en partenariat et en réseau",
+    "Maîtrise des logiciels de bureautique (Excel, Outlook et Word)",
+    "Rigueur professionnelle",
+    "Sens de l'éthique et de la déontologie",
+    "Esprit d'initiative",
+    "Autonomie",
+    "Grande réactivité face à l'urgence",
+    "Goût des relations humaines",
+    "Esprit d'équipe",
+    "Disponibilité",
+    "Capacité de remise en question",
+    "Capacité à reconnaître ses erreurs",
+    "Sens de l'organisation"
+  ],
+  "specialCommitments": null,
+  "title": "Assistant(e) social(e) de secteur Pouembout-Poya",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "action-sociale"
+}
