@@ -1,0 +1,151 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 1-Sans diplôme",
+    "direction": "CAISSE DES ECOLES",
+    "uniteOrganisationnelle": "Pôle Actions Périscolaires",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur de la Caisse des Écoles",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Directeur de la Caisse des Écoles",
+      "Responsable des activités périscolaires",
+      "Coordinateur d'école"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "travail au sein d'une école primaire ou maternelle, horaires réguliers à forte amplitude selon les services périscolaires mis en place, peu d'autonomie, cadre réglementé"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952090.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La Caisse des Écoles de la Ville de Dumbéa est un établissement public communal de 273 agents engagé dans une mission de service public dédiée à favoriser la fréquentation des classes des établissements scolaires communaux par la mise en place de services tels que la cantine, la garderie avant et après l'école et l'accompagnement à la scolarité.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1320",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Surveillant animateur périscolaire",
+  "owner": {
+    "@type": "Organization",
+    "name": "Caisse des Ecoles de Dumbéa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "41.02.50",
+    "email": "rhcde@ville-dumbea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Notions des techniques d'animations selon les classes d'âges scolaires",
+      "Notions des règles et des procédures de sécurité et d'hygiène",
+      "Notions des attitudes à adopter face aux réactions de l'enfant ou du groupe"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La Caisse des Écoles de la Ville de Dumbéa est un établissement public communal de 273 agents engagé dans une mission de service public dédiée à favoriser la fréquentation des classes des établissements scolaires communaux par la mise en place de services tels que la cantine, la garderie avant et après l'école et l'accompagnement à la scolarité.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Pôle Actions Périscolaires",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience souhaitée dans le domaine de l'animation",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Caisse des Ecoles de Dumbéa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Éducation",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Écoles communales de Dumbéa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-10-01",
+  "occupationalCategory": [
+    "Animation",
+    "Education"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "surveillant / animateur scolaire",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1206",
+      "name": "Animation de loisirs auprès d'enfants ou d'adolescents"
+    }
+  },
+  "responsibilities": [
+    "Accueil, prise en charge des enfants",
+    "Proposer et encadrer des animations diverses, ludiques et adaptées au temps de restauration et aux services périscolaires en fonction du projet d'animations mis en place en début d'année à partir d'un projet pédagogique",
+    "Surveiller, éviter le chahut et favoriser une ambiance conviviale à la cantine"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Adapter les interventions en fonction du public, des niveaux et des capacités d'apprentissage dans le cadre du projet mis en place par l'équipe",
+    "Participer et/ou encadrer des activités",
+    "Adopter une tenue et un vocabulaire adaptés et convenables",
+    "Participer à l'accompagnement de l'enfant dans l'apprentissage des règles de vie en collectivité",
+    "Réguler les conflits entre enfants et alerter les services compétents en cas d'accident",
+    "Rendre compte à la hiérarchie",
+    "Renseigner les parents dans la limite des prérogatives",
+    "Vérifier, ranger, nettoyer les matériels et équipements utilisés",
+    "Sens du service public",
+    "Sens du travail en équipe",
+    "Sens du contact avec les enfants",
+    "Respect de la hiérarchie et des horaires (assiduité et ponctualité)",
+    "Rigueur, dynamisme, réactivité",
+    "Sens de la discrétion",
+    "Tenue convenable exigée"
+  ],
+  "specialCommitments": null,
+  "title": "Surveillant animateur périscolaire",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-09-25",
+  "workHours": "horaires réguliers à forte amplitude selon les services périscolaires mis en place",
+  "champs_open_data": 8,
+  "employeur_sigle": "CAISSE-DES-ECOLES-DE-DUMBEA",
+  "collectivite": "Caisse des Ecoles de Dumbéa",
+  "direction": "CAISSE DES ECOLES",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Animation",
+  "famille_source": "respnc",
+  "famille_score": 0.977,
+  "dossier": "animation"
+}
