@@ -1,0 +1,174 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Bureau de proximité de soins",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de bureau de proximité des soins",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Médecin d'un Centre Médico-Social",
+      "Équipe pluridisciplinaire",
+      "DASS NC",
+      "CAFAT"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières",
+        "value": "Poste soumis à astreintes. L'IPA exerce au sein d'une équipe pluridisciplinaire en établissement médico-sociale coordonnée par un médecin d’un Centre Médico-Social (CMS) ou de Téléconsultation (TLC) de la Province Nord."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Textes de référence",
+        "value": "LOI n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé. Décret n° 2018-629 du 18 juillet 2018 relatif à l'exercice infirmier en pratique avancée. Loi du pays n° 2023-5 du 26 mai 2023. Délibération n° 119/CP du 26 juin 2023."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952050.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité du chef de bureau de proximité des soins, l'infirmier en soins généraux assure sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1359",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "INFIRMIER EN PRATIQUE AVANCÉE - CANALA",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-nord.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "AreaServed",
+    "name": "Province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Canala",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.71.00",
+    "email": "drh.emplois@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'Etat d'infirmier en pratique avancée",
+    "competencyRequired": [
+      "Être titulaire d'un diplôme d'Etat d'infirmier en pratique avancée délivré par une université accréditée",
+      "Être enregistré auprès de la DASS NC",
+      "Disposer de l'autorisation de prescription auprès de la CAFAT et la DASS-PS"
+    ]
+  },
+  "eligibilityToWorkRequirement": "au moins égale a 5 ans",
+  "employerOverview": "La Direction des Affaires sanitaires, Sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Bureau de proximité de soins",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Justifier de trois années minimales d'exercice en équivalent temps plein de la profession d'infirmier",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre Médico-Social de Canala",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Canala",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Dès que possible",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B, Assurance professionnelle responsabilité civile IPA spécifique",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Infirmier",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Soins d'infirmiers généralistes"
+    }
+  },
+  "responsibilities": [
+    "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
+    "Prise en charge et suivi des patients atteints de pathologies chroniques selon le domaine d'intervention défini et sous la coordination du médecin",
+    "Prescription de renouvellement de traitement chronique, de traitement selon les listes autorisées, de vaccins, de bilans complémentaires",
+    "Rédaction de courriers médicaux et comptes rendus",
+    "Éducation du patient dans sa prise en charge du suivi ou de la personne de confiance",
+    "Coordination de soins, orientation",
+    "Mise en place d'actions de prévention, dépistage et éducation à la santé",
+    "Coordination et développement de la pratique"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Expertise en clinique avancée",
+    "Capacité à se positionner en qualité de référent professionnel clinique",
+    "Capacités de coordination",
+    "Autonomie et sens des responsabilités",
+    "Adaptation",
+    "Dynamisme, disponibilité",
+    "Esprit d'équipe, d'initiative et de négociation",
+    "Sens des relations humaines et communication"
+  ],
+  "specialCommitments": "Poste soumis à astreintes",
+  "title": "Infirmier en pratique avancée",
+  "totalJobOpenings": 5,
+  "validThrough": "2026-10-02",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
