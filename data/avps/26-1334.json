@@ -1,0 +1,210 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur / ingénieur",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Service des urgences pédiatriques et gynécologiques",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service du Département d'Information Médicale",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "DPO",
+      "Equipes médicales et paramédicales",
+      "Service informatique",
+      "Partenaires institutionnels",
+      "Ingénieur en charge des données financières et RH"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Filière",
+        "value": "Filière technique informatique et/ou statistique"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Grade",
+        "value": "Ingénieur 2eme grade"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953380.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Au sein de la Direction médicale du Centre Hospitalier Territorial, l'ingénieur(e) en données de santé et recherche clinique contribue au développement de la gouvernance des données de santé, au pilotage médico-économique et au soutien des activités de recherche clinique. L'ingénieur(e) en données de santé et recherche clinique fait partie du Centre d'Investigation Clinique (CIC). Il ou elle conçoit, développe et sécurise les solutions permettant la collecte, l'intégration, l'exploitation et la valorisation des données de santé du CHT.",
+  "disambiguatingDescription": "Poste d'ingénieur en données de santé et recherche clinique au Centre Hospitalier Territorial de Nouvelle-Calédonie.",
+  "identifier": "26-1334",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Ingénieur(e) en données de santé et recherche",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "AreaServed",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Koutio",
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.80.00",
+    "email": "shirley.gervolino@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Master 2",
+    "competencyRequired": [
+      "Informatique",
+      "Data science",
+      "Ingénierie des données",
+      "Statistiques",
+      "Santé numérique"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret est l'établissement public de santé de référence en Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre Hospitalier Territorial",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience dans le domaine de la santé ou de la recherche clinique constitue un atout.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
+  },
+  "incentiveCompensation": "Primes statutaires pour les fonctionnaires",
+  "industry": "Santé",
+  "jobBenefits": "Travail adapté en fonction du service, primes statutaires pour les fonctionnaires, salaire selon la grille du cadre du personnel technique.",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Koutio",
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Système d'information",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Ingénieur en données de santé et recherche",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1402",
+      "name": "Études et développement informatique"
+    }
+  },
+  "responsibilities": [
+    "Concevoir, administrer et faire évoluer un entrepôt de données médicales cliniques distinct des systèmes de production de soins et des entrepôts financiers",
+    "Collecter, intégrer, structurer, enrichir et documenter les données issues des différentes applications hospitalières (PMSI, biologie, parcours patients, etc.)",
+    "Élaborer et maintenir les métadonnées, référentiels et dictionnaires de données nécessaires à l'exploitation et à la compréhension des données",
+    "Développer et maintenir les tableaux de bord, indicateurs et outils d'analyse destinés au pilotage de l'activité hospitalière, à la recherche clinique et à l'aide à la décision",
+    "Réaliser les traitements, extractions et restitutions de données répondant aux besoins des services, des directions et des équipes de recherche",
+    "Concevoir des modalités d'accès sécurisées adaptées aux différents profils d'utilisateurs, du niveau agrégé et anonymisé jusqu'aux données nominatives",
+    "Accompagner les équipes médicales et paramédicales, et les porteurs de projets dans l'exploitation et la valorisation des données de santé à des fins de recherche et d'innovation",
+    "Participer à la constitution, à la préparation et à la sécurisation des jeux de données nécessaires aux travaux de recherche clinique",
+    "Contribuer au développement de nouveaux usages des données au service de l'évaluation des pratiques, de l'innovation et de l'amélioration continue des prises en charge",
+    "Garantir la qualité, la cohérence, la traçabilité et la fiabilité des données intégrées à l'entrepôt",
+    "Mettre en œuvre les dispositifs d'anonymisation, de pseudonymisation, de sécurisation et de contrôle des accès conformément à la réglementation applicable aux données de santé",
+    "Veiller à préserver la sécurité et les performances des systèmes de production lors de l'alimentation et de l'exploitation de l'entrepôt de données",
+    "Assurer la documentation des données, des traitements, des indicateurs et des règles de gestion",
+    "Travailler en étroite collaboration avec les équipes médicales et paramédicales, les directions fonctionnelles, le service informatique et les partenaires institutionnels",
+    "Participer à la continuité d'activité et au dispositif de backup mutuel avec l'ingénieur en charge des données financières et RH",
+    "Contribuer au développement de partenariats et de projets de valorisation des données de santé au sein de l'écosystème territorial de la santé et de la recherche",
+    "Assurer la cohérence des référentiels et indicateurs partagés avec l'entrepôt de données finances/RH, en collaboration avec l'ingénieur en charge de ce domaine"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des bases de données et des architectures décisionnelles",
+    "Maîtrise ou connaissance des architectures d'entrepôt de données, des outils ETL et des solutions de restitution et de visualisation des données",
+    "Bonne maîtrise du langage SQL et des outils d'analyse de données",
+    "Connaissance des réglementations applicables aux données de santé (RGPD, anonymisation, gestion des habilitations)",
+    "Connaissance des principes de qualité, de documentation et de gouvernance des données",
+    "Connaissance des principes généraux de l'intelligence artificielle appliquée aux données de santé (apprentissage supervisé, non supervisé, modèles prédictifs, traitement automatique du langage, aide à la décision, analyse de cohortes)",
+    "Capacité à dialoguer avec des interlocuteurs médicaux, paramédicaux scientifiques, informatiques, juridiques et institutionnels autour de projets complexes de traitement de données",
+    "Aptitude à traduire un besoin métier ou médical en problématique de données, puis en spécifications exploitables pour l'analyse, la recherche ou l'aide à la décision",
+    "Rigueur et esprit d'analyse",
+    "Autonomie et sens de l'organisation",
+    "Capacité à travailler en équipe et en mode projet",
+    "Aptitudes rédactionnelles et pédagogiques",
+    "Sens de la confidentialité et de l'éthique professionnelle"
+  ],
+  "specialCommitments": null,
+  "title": "Ingénieur(e) en données de santé et recherche",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": "Travail adapté en fonction du service",
+  "champs_open_data": 10,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 0.807,
+  "dossier": "politique-de-sante-publique"
+}
