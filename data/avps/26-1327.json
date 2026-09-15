@@ -1,0 +1,161 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "AUTORITE DE LA CONCURRENCE DE NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": "Bureau du contrôle des opérations de concentration et de commerce de détail",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Rapporteure générale",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Rapporteur général",
+      "Rapporteurs",
+      "Collège de l'Autorité de la concurrence"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956616.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'ACNC recherche un(e) chef(fe) de bureau du contrôle des opérations de concentration et de commerce de détail, au sein du service d'instruction. L'ACNC est une autorité administrative indépendante, créée par la loi du pays du 24 avril 2014 chargée de veiller au libre jeu de la concurrence sur l'ensemble des marchés calédoniens.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1327",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef(fe) de bureau",
+  "owner": {
+    "@type": "Organization",
+    "name": "Autorité de la concurrence de Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/autorite-de-la-concurrence-de-nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Autorité de la concurrence de la Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "7 rue du général Galliéni",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.14.03",
+    "email": "scharlot@autorite-concurrence.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Droit économique",
+      "Droit de la concurrence",
+      "Droit des concentrations",
+      "Anglais professionnel"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "L'ACNC est une autorité administrative indépendante, créée par la loi du pays du 24 avril 2014 chargée de veiller au libre jeu de la concurrence sur l'ensemble des marchés calédoniens.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service d'instruction",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle significative en matière de droit de la concurrence, environ 10 ans plus précisément en droit des concentrations (autorités de la concurrence, cabinets d'avocats, services ministériels, entreprises).",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Autorité de la concurrence de Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/autorite-de-la-concurrence-de-nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Autorité de la concurrence de la Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "7 rue du général Galliéni",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-11-01",
+  "occupationalCategory": [
+    "Ingénierie juridique",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "inspecteur",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "I1503",
+      "name": "Collaboration juridique"
+    }
+  },
+  "responsibilities": [
+    "Assurer à titre principal des fonctions opérationnelles de rapporteur expert pour traiter les dossiers de concentration et de commerce de détail",
+    "Assurer des fonctions de pilotage au sein du bureau en sollicitant l'appui de rapporteurs pour le traitement des dossiers",
+    "Assurer l'instruction et la présentation en séance des dossiers confiés par la rapporteure générale",
+    "Encadrer les rapporteurs désignés pour traiter les dossiers sur le fond et la procédure sous l'autorité de la rapporteure générale",
+    "Participer aux réunions et présentations sur le territoire ou dresser le bilan de l'activité",
+    "Donner des formations aux rapporteurs du service d'instruction dans le domaine du droit de la concurrence",
+    "Représenter localement le service d'instruction pour ce qui concerne l'activité du bureau",
+    "Assurer le suivi des engagements pris dans le cadre des décisions rendues pour les opérations de concentration",
+    "Prendre en charge ou contribuer à l'instruction de dossiers contentieux ou des demandes d'avis"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Pratique du droit de la concurrence français, européen ou autre",
+    "Qualités rédactionnelles et de synthèse",
+    "Organisation, méthode et capacité à travailler dans des délais très contraints",
+    "Expérience du travail en réseau et à distance",
+    "Animation d'une équipe de collaborateurs",
+    "Connaissance du tissu économique de la Nouvelle-Calédonie",
+    "Force de proposition et d'innovation",
+    "Aptitude à négocier",
+    "Respect de la hiérarchie, des obligations déontologiques et éthiques de l'institution",
+    "Respect des obligations déontologiques pour assurer l'impartialité dans la conduite de l'instruction"
+  ],
+  "specialCommitments": null,
+  "totalJobOpenings": 4,
+  "validThrough": "2026-09-25",
+  "workHours": null,
+  "title": "Chef(fe) de bureau",
+  "champs_open_data": 9,
+  "employeur_sigle": "AUTORITE-DE-LA-CONCURRENCE-DE-NOUVELLE-CALEDONIE",
+  "collectivite": "Autorité de la concurrence de Nouvelle-Calédonie",
+  "direction": "AUTORITE DE LA CONCURRENCE DE NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Aviation civile",
+  "famille_source": "respnc",
+  "famille_score": 0.952,
+  "dossier": "aviation-civile"
+}
