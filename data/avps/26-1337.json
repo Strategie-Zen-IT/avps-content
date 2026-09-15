@@ -1,0 +1,168 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché / rédacteur",
+    "direction": "SMTU",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 4,
+    "superieurHierarchique": "Directeur général ou de son adjoint",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Régie Tanéo",
+      "Service exploitation",
+      "Service systèmes",
+      "Prestataires de communications"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Catégorie",
+        "value": "B ou A"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957366.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes sur le territoire du Grand Nouméa.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1337",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de service administratif, communication, réclamations",
+  "owner": {
+    "@type": "Organization",
+    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+    "url": "http://www.taneo.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "recrutement@smtu.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-04",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Catégorie B ou A",
+    "competencyRequired": [
+      "Maîtrise du fonctionnement administratif des collectivités",
+      "Maîtrise des procédures de contrats et marchés publics",
+      "Bases de communications",
+      "Aisance en informatique et sur les outils bureautiques et de communication",
+      "Sens des relations humaines",
+      "Bonne connaissance de la réglementation locale",
+      "Maîtrise des outils de management et de gestion d'équipe"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes sur le territoire du Grand Nouméa.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+    "url": "http://www.taneo.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+    "url": "http://www.taneo.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Transports",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "SMTU",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Dès que possible",
+  "occupationalCategory": [
+    "Administration générale",
+    "Communication"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable administratif",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Direction administrative"
+    }
+  },
+  "responsibilities": [
+    "Gérer et manager les agents placés sous son autorité",
+    "Assister la Direction dans l'organisation administrative du SMTU notamment pour le suivi administratif, lors des comités syndicaux et des commissions du SMTU",
+    "Assuré l'établissement des procès-verbaux, les rapports et les ampliations",
+    "Gérer la préparation et le suivi de l'ensemble des contrats, marchés et actes administratifs du SMTU",
+    "Assurer le suivi des missions logistiques courantes du SMTU (papeterie, produits ménagers, réservation véhicules de service, gestion de la téléphonie, …) en lien avec les autres services patrimoine",
+    "Contrôler et suivre la bonne instruction des réclamations, en lien avec la régie Tanéo",
+    "Assurer une communication efficace via nos médias (site web, pages Facebook) en lien avec nos prestataires et le service exploitation",
+    "Gérer le budget alloué au service en lien avec la direction",
+    "Gérer les flux administratifs et notamment les courriers arrivés et départs",
+    "Assurer un appui aux services sur les actes administratifs et la passation des contrats et marchés",
+    "Participer aux actions d'information, de promotion et de pédagogie auprès des usagers du réseau Tanéo",
+    "Gérer les prestataires de communications (communiqués de presse, publicités aux arrêts de bus…)",
+    "Représenter le SMTU auprès des organismes extérieurs à la demande de la Direction",
+    "Être force de proposition sur la dématérialisation des tâches administratives en lien avec le service systèmes"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Management d'équipe",
+    "Maîtriser les procédures administratives des collectivités",
+    "Gérer et planifier les échéances",
+    "Travailler en transversalité en interne et en externe",
+    "Rendre compte de ses actions régulièrement",
+    "Analyse, proposition d'éléments d'aide à la décision",
+    "Bon sens de l'organisation et d'écoute",
+    "Capacité à gérer des situations conflictuelles",
+    "Rigueur, autonomie et esprit d'initiative",
+    "Veille du respect des procédures",
+    "Sens aigu du service public",
+    "Sens des relations publiques",
+    "Devoir de réserve",
+    "Réactivité"
+  ],
+  "specialCommitments": null,
+  "title": "CHEF DE SERVICE ADMINISTRATIF, COMMUNICATION, RECLAMATIONS",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "SYNDICAT-MIXTE-DES-TRANSPORTS-URBAINS-DU-GRAND-NOUMEA-SMTU",
+  "collectivite": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+  "direction": "SMTU",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "administration-generale"
+}
