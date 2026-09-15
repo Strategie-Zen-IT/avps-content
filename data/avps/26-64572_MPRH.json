@@ -1,0 +1,200 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "DIRECTION DE L'INDUSTRIE, DES MINES ET DE L'ENERGIE",
+    "uniteOrganisationnelle": "Service de l'énergie",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de section",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Ingénieur 1er grade domaine de l'équipement : au moins égale à 5 ans. Ingénieur 2ème grade domaine de l'équipement : au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service de l'énergie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Nicolas FAVRAY"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953330.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous l'autorité du chef de section, l'agent met en œuvre la politique énergétique du territoire et le cadre réglementaire correspondant. Il est en charge de la régulation économique du système électrique et de l'établissement des tarifs publics de l'électricité. Il réalise l'instruction des dossiers technique et économique du secteur de l'électricité et propose des analyses à partir des référentiels réglementaires en vigueur.  Il concoure à l'élaboration du cadre réglementaire visant à la transition énergétique du système électrique en cohérence avec les objectifs du schéma pour la transition énergétique de la Nouvelle-Calédonie.  Il réalise les inspections des outils de production et de stockage d'électricité",
+  "disambiguatingDescription": null,
+  "identifier": "26-64572/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Ingénieur Régulation du secteur électrique",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.48.61",
+    "email": "nicolas.favray@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-06-26",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Bac +5 dans le secteur de l'énergie",
+      "Forte connaissance du secteur de la régulation des systèmes électriques",
+      "Organisation et fonctionnement d'un système électrique",
+      "Energies renouvelables",
+      "Connaissance des procédures administratives et des institutions de la Nouvelle-Calédonie",
+      "Maîtrise des outils informatiques",
+      "Permis B."
+    ]
+  },
+  "eligibilityToWorkRequirement": "Ingénieur 1er grade domaine de l'équipement : au moins égale à 5 ans.Ingénieur 2ème grade domaine de l'équipement : au moins égale à 5 ans",
+  "employerOverview": "La Direction de l'industrie, des mines et de l'énergie de la Nouvelle-Calédonie (DIMENC) est une administration centrale et déconcentrée au service de la politique industrielle et énergétique et de la gestion des risques. Elle conçoit, applique et évalue les politiques publiques dans ses domaines de compétences, dans la perspective de concilier le développement industriel durable du territoire avec la protection des personnes et des biens et la préservation de l'environnement et des ressources.\nLe service de l'énergie de la DIMENC propose et met en œuvre la politique énergétique de la Nouvelle-Calédonie et le cadre réglementaire afférent : il s'agit notamment d'assurer un approvisionnement et une fourniture énergétique de qualité, compétitive et respectueuse de l'environnement. Le service a ainsi la charge des six politiques publiques suivantes :\n1. La sécurité d'approvisionnement énergétique ;\n2. L'électrification rurale ;\n3. La décarbonation et la compétitivité énergétique de l'industrie, en particulier de la métallurgie ;\n4. La décarbonation du transport et mobilité (y compris les véhicules pour l'industrie minière) ;\n5. La décarbonation et la performance énergétique des bâtiments et des équipements ;\n6. La régulation des tarifs publics de l'énergie et lutte contre la précarité énergétique.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de l'énergie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Informations salaire : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/techniquenc.pdf",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Service de l'énergie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Ingénierie industrielle minière et énergétique"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé d'affaires énergie",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "I1304",
+      "name": "Ingénieur d'études (béton armé, BTP, constructions métalliques, de prix BTP, en génie climatique-électrique)"
+    }
+  },
+  "responsibilities": [
+    "Dans le cadre des missions du service relatives à la régulation des acteurs de l'énergie, l'agent est en charge des actions suivantes :",
+    "Développement du parc de production et de stockage d'électricité :",
+    "Elaborer, suivre et évaluer la réglementation relative à la production et au stockage de l'énergie",
+    "Instruire les demandes d'autorisation d'exploiter les installations de production et de stockage d'énergie électrique",
+    "Suivre les obligations réglementaires des acteurs de la production et du stockage d'énergie électrique",
+    "Réaliser les inspections des outils de production et de stockage de l'électricité.",
+    "Réseaux :",
+    "Elaborer, suivre et évaluer la réglementation relative aux réseaux électriques (cahier des charges type des concessions de distribution, prescriptions techniques de raccordement,...)",
+    "Suivre les développements technologiques en cours (réseaux intelligents) et évaluer les opportunités",
+    "Suivre la qualité du service de l'électricité.",
+    "Tarifs de l'électricité :",
+    "Appliquer et faire évoluer la réglementation relative à la fixation des tarifs de l'électricité",
+    "Analyser périodiquement les coûts et les recettes du système électrique et faire des analyses prospectives",
+    "Développer un modèle prospectif des tarifs de l'électricité",
+    "Réformer la grille tarifaire de l'électricité.",
+    "Veille technologique active sur la production et le stockage de l'électricité, sur les réseaux intelligents et sur la tarification de l'électricité."
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacités rédactionnelles, d'écoute et d'argumentation",
+    "Elaboration, suivi et évaluation des politiques publiques",
+    "Conseil aux décideurs",
+    "Ecoute active, compréhension des situations, des enjeux et des influences.",
+    "Autonomie, prise d'initiative et force de proposition",
+    "Capacité au travail en équipe et qualités relationnelles",
+    "Esprit d'analyse et de synthèse",
+    "Sens de l'organisation et disponibilité",
+    "Curiosité, rigueur, méthode"
+  ],
+  "specialCommitments": null,
+  "title": "Ingénieur Régulation du secteur électrique",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-25",
+  "workHours": null,
+  "champs_open_data": 28,
+  "employeur_sigle": "DIMENC",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE L'INDUSTRIE, DES MINES ET DE L'ENERGIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Ingénierie industrielle minière et énergétique",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "ingenierie-industrielle-miniere-et-energetique"
+}
