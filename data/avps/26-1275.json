@@ -1,0 +1,189 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "PROVINCE DES ILES LOYAUTE",
+    "uniteOrganisationnelle": "Service de l'action sanitaire",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Adjoint au chef de service de l'action sanitaire, responsable du centre médical",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Aides-soignants",
+      "Femmes de service",
+      "Médecin"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction de l'administration générale de la province des îles Loyauté, service des RH"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Hôtel de la province des îles Loyauté à Wé - Lifou"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP 50 - 98820 WE LIFOU"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "dag-recrutement@loyalty.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952050.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Recrutement de deux infirmiers (ères) en soins généraux pour la Province des îles Loyauté, affectés au CM de WE à Lifou. L'agent est placé sous l'autorité de l'adjoint au chef de service de l'action sanitaire, responsable du centre médical.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1275",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "2 Infirmier(e)s en soins généraux CM de Wé Lifou",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province des îles Loyauté",
+    "url": "http://www.province-iles.nc",
+    "logo": "https://avps.nc/logos/pil.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "http://www.province-iles.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "AreaServed",
+    "name": "Province des îles Loyauté",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Lifou",
+      "addressRegion": "Province des îles Loyauté",
+      "addressCountry": "NC",
+      "province": "province des îles Loyauté"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "45.12.12",
+    "email": "r-utramadra@loyalty.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'infirmier",
+    "competencyRequired": [
+      "Savoir utiliser l'outil informatique et le logiciel Asclépios",
+      "Savoir prendre des décisions rapide et efficace"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée : au moins égale à 5 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "CM de WE",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province des îles Loyauté",
+    "url": "http://www.province-iles.nc",
+    "logo": "https://avps.nc/logos/pil.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "CM de WE",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Lifou",
+      "addressRegion": "Province des îles Loyauté",
+      "addressCountry": "NC",
+      "province": "province des îles Loyauté"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Infirmiers(ères) en soins généraux",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Infirmier / Infirmière en soins généraux"
+    }
+  },
+  "responsibilities": [
+    "Accueillir le patient, y compris dans le cadre de l'urgence",
+    "Prodiguer les soins",
+    "Assurer des conditions d'hygiène optimales de l'environnement du patient",
+    "Assurer la maintenance de l'équipement du CM",
+    "Prodiguer les soins et réaliser les examens sous prescription médicale",
+    "Préparer et assurer la maintenance du plateau technique, vérifier le bon fonctionnement du matériel médical",
+    "Prévoir et préparer les commandes de médicaments et matériels",
+    "S'impliquer dans la prise en charge des urgences et organiser la logistique des evasans",
+    "Encadrer et diriger aides-soignants et femmes de service",
+    "Accompagner le médecin dans ses consultations en salle de soins et ses visites à domicile",
+    "Consigner ses actes dans le dossier informatisé des patients",
+    "Participer aux programmes de prévention et d'éducation",
+    "Participer aux réunions de service"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Avoir une considération et une ouverture d'esprit sur la médecine traditionnelle",
+    "Savoir supporter les situations émotionnelles difficiles",
+    "Respecter la confidentialité et le secret professionnel",
+    "Disponibilité",
+    "Autonomie",
+    "Respect",
+    "Rigueur",
+    "Sens de l'organisation",
+    "Esprit de synthèse et d'analyse",
+    "Esprit d'équipe"
+  ],
+  "specialCommitments": null,
+  "title": "Infirmiers (ères) en soins généraux",
+  "totalJobOpenings": 2,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 10,
+  "employeur_sigle": "PIL",
+  "collectivite": "Province des îles Loyauté",
+  "direction": "PROVINCE DES ILES LOYAUTE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.796,
+  "dossier": "sante-publique-soins"
+}
