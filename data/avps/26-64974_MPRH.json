@@ -1,0 +1,225 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Conseiller des APS / attaché",
+    "direction": "DIRECTION DE LA JEUNESSE ET DES SPORTS",
+    "uniteOrganisationnelle": "Service des sports",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service des sports",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Mouvement sportif",
+      "Usagers",
+      "Professionnels",
+      "Associations",
+      "Ligues",
+      "Partenaires institutionnels"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Vacant à partir du 01/10/2026"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service des sports"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Marc HMAZUN, Chef de service des sports"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952084.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le conseiller en charge du suivi de la réglementation sportive est placé sous l'autorité du chef du service des sports.\n\nIl mènera son action collaborative sur :\n- l'axe stratégique n°1 concernant la gouvernance du sport en Nouvelle-Calédonie ;\n- l'axe stratégique n°2 concernant l'activité physique et sportive comme vecteur de développement social et de santé ;\n- l'axe stratégique n°3 concernant le sport comme vecteur de développement territorial ;\n- l'axe stratégique n°4 concernant l'accès au sport de haut niveau ;\n- l'instruction des dossiers qui sont confiés par le chef du service des sports.\nUne démarche d'évaluation du corpus réglementaire dans le champ du sport devra être engagée pour faire émerger les pistes d'amélioration en lien avec le plan stratégique de la pratique sportive en Nouvelle-Calédonie.\n\nAffecté au sein du service des sports , il aura pour missions :\n- L'expertise sur la réglementation relative au champ des activités physiques et sportives en Nouvelle-Calédonie,\n- La gestion des dossiers de déclarations des manifestations sportives terrestres,\n- La gestion des déclarations des éducateurs sportifs et des établissements d'activités physiques et sportives,\n- Le suivi du dossier de lutte et de prévention des violences sexuelles dans le sport,\n- La mise en œuvre de la police administrative.",
+  "disambiguatingDescription": null,
+  "identifier": "26-64974/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Conseiller conformité et veille réglementation sportif",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.07.40",
+    "email": "djsnc@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-31",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Licence",
+    "competencyRequired": [
+      "Connaissance de la fonction publique et du fonctionnement des institutions",
+      "Connaître les politiques sportives et les acteurs territoriaux, nationaux, internationaux",
+      "Connaître la réglementation sportive calédonienne ainsi que le code du sport et le fonctionnement associatif",
+      "Posséder une connaissance approfondie du mouvement sportif fédéral et des activités physiques et sportives en général.",
+      "Diplôme exigé :",
+      "Licence de droit, mention administration publique",
+      "Diplôme d'Etat Supérieur de la Jeunesse, de l'Éducation Populaire et du Sport (DESJEPS) ou diplôme de niveau Licence dans le champ du Sport ; et/ou de droit.",
+      "Permis de conduire"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La Nouvelle-Calédonie s'appuie sur la Direction de la Jeunesse et des sports pour mettre en œuvre ses compétences en matière de réglementation des activités sportives et socio-éducatives, de création et de gestion d'infrastructures, et d'organisation de manifestations sportives et culturelles concernant la collectivité.\nLa DJS est placée sous l'autorité d'un directeur et de chefs de service. Elle est organisée en trois services :\n- le service des sports,\n- le service de la jeunesse,\n- le service de l'administration générale.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service des sports",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction de la jeunesse et des sports",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-10-01",
+  "occupationalCategory": [
+    "Animation",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Conseiller jeunesse et sports",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1206",
+      "name": "Conseiller sportif"
+    }
+  },
+  "responsibilities": [
+    "1° Mission d'expertise sur la réglementation des activités physiques et sportives en Nouvelle-Calédonie :",
+    "répondre aux questions du mouvement sportif, des usagers et des professionnels",
+    "participer à la rédaction de nouveaux textes réglementaires",
+    "contribuer à l'élaboration des politiques sportives.",
+    "2° Gestion des dossiers de déclarations des manifestations sportives terrestres :",
+    "veiller au respect de l'ensemble des règles techniques et de sécurité fédérales, ou en l'absence de fédération, celles édictées par des arrêtés du gouvernement de la Nouvelle-Calédonie",
+    "vérifier la complétude des dossiers",
+    "évaluer et proposer l'homologation des circuits de véhicules terrestres à moteur permanent ou temporaire, ou des carrés de rodéo",
+    "rédiger les arrêtés d'autorisations des manifestations sportives",
+    "rédiger les arrêtés d'homologation des circuits",
+    "assurer le suivi et le développement des outils informatiques de déclaration.",
+    "3° Gestion des déclarations des éducateurs sportifs et des établissements d'activités physiques et sportives :",
+    "vérifier la complétude des dossiers",
+    "vérifier les prérogatives d'exercice des diplômes",
+    "élaborer le plan de suivi et de contrôle",
+    "Visiter et contrôler les établissements d'activités physiques et sportives",
+    "suivre la validité, l'attribution des cartes professionnelles des éducateurs sportifs",
+    "contrôler l'honorabilité (des exploitants et des éducateurs) et la qualification des éducateurs sportifs",
+    "assurer le suivi et le développement des outils informatiques de déclaration.",
+    "4° Mise en oeuvre de la police administrative :",
+    "mener les enquêtes administratives",
+    "rédiger les rapport d'enquête, et les arrêtés liés aux procédures",
+    "collaborer avec l'ensemble  des acteurs et des partenaires institutionnels.",
+    "5° Suivi du dossier de lutte et de prévention des violences sexuelles dans le sport :",
+    "mettre en place des actions de prévention",
+    "collaborer à l'élaboration du plan de prévention et de lutte contre les violences sexuelles dans le sport",
+    "accompagner les associations et les usagers",
+    "participation aux AG des ligues pour représentation de la DJSNC",
+    "participation à des jurys et des certifications",
+    "intervention lors de formations sportives",
+    "participation à l'organisation de séminaires sur le sport mis en place par la direction."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "maîtriser les outils bureautiques",
+    "avoir le sens de l'organisation et des priorisations",
+    "organiser des réunions de mise en réseau",
+    "savoir agir dans un contexte complexe, faire preuve de créativité, trouver de nouvelles fonctions, former d'autres agents, être référent dans le domaine",
+    "respecter les échéances et savoir s'adapter en fonction des urgences",
+    "gérer les dossiers de façon autonome",
+    "savoir prendre la parole en public",
+    "maîtriser la méthodologie de projet",
+    "connaître la méthodologie d'évaluation des politiques publiques",
+    "proposer des solutions techniques.",
+    "Maîtriser la rédaction de documents juridiques (actes, notes, rapports)",
+    "Maîtriser la méthodologie nécessaire à la conduite d'entretien d'enquête (neutralité, respect des procédures)",
+    "Être capable d'analyser et de synthétiser l'information pour le traitement de dossiers complexes.",
+    "Dynamisme et réactivité",
+    "Rigueur et autonomie",
+    "Sens du travail en équipe et bon relationnel",
+    "Capacité d'initiative et être force de proposition",
+    "Disponibilité",
+    "Sens de l'écoute et de la pédagogie",
+    "Sens du reporting",
+    "Participation active aux activités proposées par la direction et le service des sports."
+  ],
+  "specialCommitments": null,
+  "title": "Conseiller conformité et veille réglementation sportif",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 29,
+  "employeur_sigle": "DJS",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE LA JEUNESSE ET DES SPORTS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Animation",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "animation"
+}
