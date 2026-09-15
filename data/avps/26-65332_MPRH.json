@@ -6,17 +6,12 @@
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef de service de la recette",
     "placeOrganigramme": null,
-    "relationsFonctionnelles": [
-      "Tribunaux de Nouvelle-Calédonie",
-      "Tribunal de Première Instance",
-      "Tribunal Mixte de Commerce",
-      "Cour d'Appel"
-    ],
+    "relationsFonctionnelles": [],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Oui, selon la réglementation en vigueur"
+        "name": "Section d'affectation",
+        "value": "Section enquêtes et poursuites"
       },
       {
         "@type": "PropertyValue",
@@ -57,7 +52,7 @@
   },
   "alternateName": null,
   "description": "Le contrôleur Enquêtes et Poursuites met en œuvre les procédures de recouvrement des créances correspondant aux impôts, droits ou taxes relevant de la responsabilité du receveur des services fiscaux.\nIl assure le contrôle et le suivi des dossiers difficiles et sensibles susceptibles de constituer des affaires portées devant les juridictions de NC (TPI - TMC et Cour d'Appel).\nIl élabore les dossiers inscrits en procédures collectives et contribue à la défense des intérêts de la collectivité dans le cadre de ces mêmes affaires contentieuses.",
-  "disambiguatingDescription": "Le service de la recette a pour mission principale l'encaissement et le recouvrement des différents impôts, droits, redevances et taxes relevant de la responsabilité du receveur des services fiscaux. Le poste est affecté au sein de la section enquêtes et poursuites.",
+  "disambiguatingDescription": null,
   "identifier": "26-65332/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -73,7 +68,18 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "Location",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "25.75.28",
@@ -96,8 +102,10 @@
   "employerOverview": "La direction des services fiscaux, composée de treize services, est chargée d'asseoir, de contrôler et de recouvrer la plupart des impôts en vigueur en Nouvelle-Calédonie. Elle gère ainsi près de 76 % des recettes fiscales de la Nouvelle-Calédonie. Elle assure également une mission foncière, au travers de la gestion du domaine public et privé de la Nouvelle-Calédonie et de la publicité foncière, cette dernière ayant en charge notamment la taxe hypothécaire. Outre ces missions d'exécution, elle est chargée, dans le cadre de la politique poursuivie par le gouvernement de la Nouvelle-Calédonie, de l'élaboration de la législation fiscale ainsi que des mesures d'application.\n\nLe service de la recette a pour mission principale l'encaissement et le recouvrement des différents impôts, droits, redevances et taxes relevant de la responsabilité du receveur des services fiscaux. Il comprend une cellule enregistrement et 5 sections, une section guichet-comptabilité, trois sections dédiées au recouvrement et une section enquêtes et poursuites où est affecté le poste à pourvoir.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "OrganizationalUnit",
-    "name": "Service de la recette"
+    "@type": "Organization",
+    "name": "Service de la recette",
+    "url": null,
+    "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
@@ -109,12 +117,12 @@
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": "Grille salariale consultable à l'adresse : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
+  "jobBenefits": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Direction des services fiscaux",
+    "name": "Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -125,8 +133,9 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiatement",
+  "jobStartDate": "2026-08-28",
   "occupationalCategory": [
+    "Finances et budget",
     "Fiscalité et Trésor / douanes / affaires économiques"
   ],
   "physicalRequirement": null,
@@ -154,7 +163,7 @@
     "Relance des actions en recouvrement",
     "Appui aux différentes sections du service lors des échéances ou de pics d'activités."
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -183,6 +192,7 @@
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DES SERVICES FISCAUX",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Fiscalité et Trésor / douanes / affaires économiques",
   "famille_source": "respnc",
   "famille_score": 0.959,
