@@ -1,0 +1,163 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Service du développement de la condition féminine",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur du développement de l'humain et des identités",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Secrétariat Général de la province Nord",
+      "Réseau des associations des femmes",
+      "Conseil des femmes de la province Nord",
+      "Fédérations communales des femmes"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "/"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957150.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La Direction du développement de l'humain et des identités (DDHI) inscrit l'Humain et ses identités au cœur de ses missions, elle intègre la notion d'identité en mettant en relation l'homme à son espace. Cette direction privilégiera une approche holistique dans la tenue de ses actions afin de prendre en compte l'homme, son histoire, son identité, ses pratiques, ses valeurs et son bien-être.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1294",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef(fe) du service du développement de la condition féminine",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-nord.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.71.66",
+    "email": "g.mendez@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Niveau II ou I",
+    "competencyRequired": [
+      "Connaissance du réseau associatif de la femme en province Nord et des partenaires institutionnels",
+      "Parfaite connaissance des réalités culturelles de la province Nord, des institutions et de la réglementation",
+      "Connaissance de l'organisation administrative et budgétaire d'une collectivité publique locale"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service du développement de la condition féminine",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de la province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Action sociale",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "attaché d’administration",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Conception et pilotage de l'action publique"
+    }
+  },
+  "responsibilities": [
+    "Mise en œuvre de la politique provinciale en faveur du développement humain dans le secteur de la condition féminine",
+    "Concourir à l’animation des infrastructures provinciales de la DDHI, notamment des maisons de la femme de Paiamboue et de Poum",
+    "Initier les actions de la valorisation de la femme (événementiels, etc.) avec l'ensemble des acteurs de réseau des associations des femmes",
+    "Promouvoir l’interculturalité dans les actions précitées",
+    "Élaborer des projets structurants contribuant à l’autonomisation de la femme",
+    "Participer aux réflexions stratégiques en vue de structurer le secteur de la condition féminine",
+    "Collecter, suivre et analyser les données genrées au travers l’observatoire de la condition féminine",
+    "Valoriser les droits des femmes et l'égalité des genres",
+    "Développer des actions en faveur de la condition féminine en transversalité avec l’ensemble des services de la DDHI et des directions opérationnelles de la collectivité",
+    "Assurer le management des agents du service",
+    "Élaborer le budget du service et de suivre son exécution",
+    "Proposer les textes à inscrire à l'ordre du jour des commissions du développement de la condition féminine",
+    "Soutenir la structuration et l’animation du réseau des associations (conseil des femmes de la province Nord et des 17 fédérations communales des femmes)",
+    "Participer aux actions, séminaires ou réflexions avec les partenaires",
+    "Représenter la collectivité dans les instances idoines"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des logiciels de bureautique (Excel et Word)",
+    "Techniques de management",
+    "Esprit d’analyse et de synthèse",
+    "Gestion de l’urgence",
+    "Grande disponibilité",
+    "Esprit d’initiative",
+    "Qualités rédactionnelles",
+    "Rigueur et sens de l’organisation",
+    "Goût des relations humaines, du travail en équipe et en réseau",
+    "Grande diplomatie et esprit consensuel"
+  ],
+  "specialCommitments": null,
+  "title": "Chef(fe) du service du développement de la condition féminine",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.865,
+  "dossier": "administration-generale"
+}
