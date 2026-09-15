@@ -1,0 +1,205 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Professeur des écoles / instituteur",
+    "direction": "DIRECTION DE L'ENSEIGNEMENT DE LA NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": "Pôle pédagogique",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directrice",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Circonscriptions",
+      "Instituts de formation initiale de l'enseignement du premier degré",
+      "Directions provinciales"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Vacant à partir du 01/03/2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Pôle pédagogique"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Christelle VARNEY"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952122.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous l'autorité  de la directrice,  au sein du service pédagogique, l'agent retenu, a vocation à intervenir sur l'ensemble de la Nouvelle-Calédonie, \n -Il exercera ses missions en collaboration avec ses collègues de circonscriptions.\n - Il ou elle est le référent disciplinaire  « français»  et participe dans le cadre de la continuité de service public à la gestion directe ou indirecte des actions afférentes à l'ensemble des autres domaines disciplinaires du service pédagogique ;\n -Il assure la liaison entre la direction de l'enseignement et les instituts de formation initiale de l'enseignement du premier degré.\n -Suivi des dossiers liés à la priorisation et la simplification des contenus des programmes d'enseignement ;\n-Chargé(e) du dossier « évaluation LSU ».",
+  "disambiguatingDescription": null,
+  "identifier": "26-65215/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Conseiller(e) pédagogique-généraliste -service pédagogique",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "77.62.76",
+    "email": "christelle.varney@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "CAFIPEMF",
+    "competencyRequired": [
+      "Techniques de pédagogie et andragogie ; titulaire du CAFIPEMF.",
+      "Permis B exigé.",
+      "Missions et programmes de l'école primaire",
+      "Objectifs de l'école et textes réglementaires",
+      "Institutions et leurs rôles, notamment dans l'organisation de l'enseignement du premier degré",
+      "Orientations du gouvernement."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction de l'enseignement de la Nouvelle-Calédonie est chargée :\n- des programmes scolaires de l'école primaire publique, sous réserve de la compétence des provinces pour leur adaptation en fonction des réalités culturelles et linguistiques ;\n- de la formation initiale et continue des maîtres de l'enseignement primaire public ;\n- du contrôle pédagogique de l'enseignement primaire public, c'est à dire notamment de l'animation, de l'aide et de l'inspection pédagogique dans les écoles publiques et privées.\n\nLa direction comprend,  un service pédagogique, une antenne à Koné, un service administratif et financier, un service de la prévention du décrochage scolaire  et 7 circonscriptions.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Direction de l'enseignement de la Nouvelle-Calédonie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Titulaire du CAFIPEMF",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Éducation",
+  "jobBenefits": "Régime indemnitaire de la filière enseignement",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre administratif Jacques Iékawé",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "18 avenue Paul Doumer",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-03-01",
+  "occupationalCategory": [
+    "Education"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B exigé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Conseiller pédagogique",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2107",
+      "name": "Coordinateur (de formateurs, de stages de formation professionnelle, pédagogique, de dispositif de formation)"
+    }
+  },
+  "responsibilities": [
+    "Participer à l'élaboration du Plan de Formation à N-1, en assure sa mise en œuvre, son suivi, son évaluation en lien avec les partenaires (instituts de formation et directions provinciales)  et coordonne les stages de formation continue (présentiel ou FOAD)",
+    "Participer à la mise en œuvre de la politique éducative de la Nouvelle-Calédonie, en lien avec les circonscriptions",
+    "Participer et/ou coordonner tous les travaux de production d'outils et de suivi des enseignements pour les domaines dont il est référent : programmes, progressions, programmations, ressources pédagogiques",
+    "Assister la directrice  dans le cadre de la liaison entre la direction de l'enseignement et la formation initiale",
+    "Participer à la coordination pédagogique de la formation initiale en vue de garantir la cohérence entre la formation initiale et les besoins du terrain.",
+    "Participer à différents groupes de travail initiés par la DENC, afin notamment de répondre aux priorités pédagogiques fixées par la direction ou le gouvernement.",
+    "Concevoir et produire des outils pédagogiques sous l'autorité de la directrice  dans l'ensemble des domaines disciplinaires et d'activité du premier degré",
+    "Proposer des actions ou des projets porteurs pour les apprentissages et apporter son expertise pédagogique aux initiatives déjà engagées, à la demande des classes, des écoles et des équipes de circonscriptions",
+    "Développer et entretient des relations partenariales permettant d'optimiser la qualité des dispositifs d'accompagnement proposés aux enseignants, notamment dans les domaines dont il est référent principal.",
+    "Analyser les supports pédagogiques proposés par les partenaires et émettre des avis pédagogiques et recommandations sur leur utilisation par les enseignants.",
+    "Accompagner les projets des enseignants pour une mise en œuvre opérationnelle des priorités éducatives et pédagogiques des circonscriptions, des provinces et de la Nouvelle-Calédonie",
+    "Intervenir de façon régulière ou ponctuelle, en formation initiale des maîtres de NC.",
+    "assurer des visites d'évaluation des stagiaires de la formation initiale en stage accompagné ou en responsabilité.",
+    "Participer au suivi ponctuel des personnels contractuels et des sortants",
+    "Accompagner les enseignants et les circonscriptions dans la mise en œuvre opérationnelle des priorités pédagogiques et éducatives des circonscriptions",
+    "Participation à des jurys d'examen et/ou de concours, ou bien à leur préparation",
+    "Assurer un reporting régulier à sa hiérarchie sur les activités conduites et les déplacements professionnels effectués via les outils de gestion de la direction",
+    "Présenter un rapport d'activités à la directrice de la DENC",
+    "Assurer un rôle d'expert  technique auprès des partenaires institutionnels afin d'accompagner la mise en œuvre de leurs priorités éducatives et pédagogiques",
+    "Missions et/ou affectation ponctuelle sur une circonscription en fonction des besoins de  la direction de l'enseignement",
+    "Assurer une veille pédagogique et technologique, émettre des propositions à sa hiérarchie pour déployer les outils et dispositifs",
+    "Missions et/ou affectation ponctuelle sur une autre circonscription en fonction des besoins de la direction de l'enseignement."
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Assister les équipes enseignants",
+    "Capacité au travail en équipe",
+    "Capacité à produire des documents pédagogiques de qualité",
+    "Maîtrise indispensable des outils bureautiques et collaboratifs (Word, Excel ; Drive ; Google Sheet... )",
+    "Rédiger des comptes rendus.",
+    "Sens du service public",
+    "Forte polyvalence en termes de domaines disciplinaires et de modalités d'action.",
+    "Ambition pour les élèves de NC",
+    "Capacité de remise en question",
+    "Rigueur",
+    "Sens du relationnel (collègues et enseignants)",
+    "Sens de l'organisation",
+    "Curiosité intellectuelle",
+    "Qualités relationnelles",
+    "Esprit d'équipe",
+    "Capacité à rendre compte."
+  ],
+  "specialCommitments": null,
+  "title": "Conseiller(e) pédagogique-généraliste -service pédagogique",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-09-18",
+  "workHours": null,
+  "champs_open_data": 29,
+  "employeur_sigle": "DENC",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE L'ENSEIGNEMENT DE LA NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Education",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "education"
+}
