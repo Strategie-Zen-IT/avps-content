@@ -1,0 +1,197 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif / moniteur socio-éducatif",
+    "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
+    "uniteOrganisationnelle": "Etablissement de placement éducatif - foyer d'action éducative de Païta",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service éducatif et/ou chef de service de l'établissement de placement éducatif",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Assistant socio-éducatif : au moins égale à 5 ans."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Poste en internat impliquant un travail en horaires décalés (soirs, week-ends, jours fériés). Sujétions liées à l'accueil en hébergement collectif (nuits, encadrement de séjours extérieurs)."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Etablissement de placement éducatif - foyer d'action éducative de Paita"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Jeenah CASE, directrice adjointe par intérim de la DPJEJ."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952226.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité du chef de service éducatif et/ou du chef de service de l'établissement de placement éducatif, l'éducateur exerçant en hébergement collectif intervient dans le cadre de mesures ordonnées par l'autorité judiciaire, au titre de la justice pénale des mineurs (CJPM) ou de la protection de l'enfance (articles 375 et suivants du Code civil).",
+  "disambiguatingDescription": null,
+  "identifier": "26-65233/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Educateur spécialisé en hébergement collectif",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "44.69.74",
+    "email": "jeenah.case@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-08-28",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'état d'éducateur spécialisé ou moniteur éducateur",
+    "competencyRequired": [
+      "Titulaire du diplôme d'état d'éducateur spécialisé ou attestation de validation de la formation d'éducation de la protection judiciaire de la jeunesse délivrée par l'école nationale de la protection judiciaire de la jeunesse du ministère de la justice ou du diplôme de moniteur éducateur",
+      "Connaissance du cadre juridique de la protection de l'enfance et de la justice des mineurs (CJPM, article 375 et suivants du code civil)",
+      "Connaissance du développement de l'adolescent et des problématiques liées à l'enfance en difficulté",
+      "Connaissance des dispositifs partenariaux (scolaires, sanitaires, sociaux)."
+    ]
+  },
+  "eligibilityToWorkRequirement": "Assistant socio-éducatif : au moins égale à 5 ans.",
+  "employerOverview": "La Direction de la Protection Judiciaire de l'enfance et de la jeunesse a notamment pour mission de prévenir et de lutter contre la délinquance des mineurs. À ce titre, elle met en œuvre les orientations de la Nouvelle-Calédonie en matière de protection judiciaire de l'enfance et de la jeunesse, et veille à répondre aux besoins liés à l'instruction et à l'exécution des décisions judiciaires concernant les mineurs.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Etablissement de placement éducatif - foyer d'action éducative de Païta",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Etablissement de placement éducatif - foyer d'action éducative de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-10-15",
+  "occupationalCategory": [
+    "Action sociale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Educateur spécialisé",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1302",
+      "name": "Educateur (de la protection judiciaire de la jeunesse, en milieu ouvert, socioéducatif)"
+    }
+  },
+  "responsibilities": [
+    "Accueillir les mineurs, filles et garçons, âgés de 13 à 18 ans placés en hébergement collectif",
+    "Réaliser un accompagnement individualisé dans le respect des prescriptions judiciaires ordonnées",
+    "Amener le mineur à construire son projet d'insertion sociale et/ou professionnelle en proposant un accompagnement adapté et individualisé",
+    "Organiser et participer aux suivis scolaires et mettre en place des activités éducatives en dehors des temps scolaires",
+    "Faire le lien avec le milieu familial",
+    "Élaborer les propositions socio-éducatives",
+    "Rédiger les notes et rapports éducatifs aux magistrats dans le cadre de l'aide à la décision judiciaire.",
+    "Organiser les camps et centres de vacances",
+    "Conduire des actions collectives en équipe pluridisciplinaire",
+    "Participer aux réunions institutionnelles et aux temps de synthèse",
+    "Contribuer à l'accueil et à l'accompagnement des stagiaires",
+    "Participer à l'entretien du cadre de vie collectif avec les mineurs."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité à construire et conduire un accompagnement éducatif individualisé",
+    "Capacité à travailler en équipe pluridisciplinaire",
+    "Capacité rédactionnelle (notes et rapports éducatifs)",
+    "Capacité à gérer des situations de crise ou de tension.",
+    "Sens de l'écoute et de la relation éducative",
+    "Autorité bienveillante et posture éducative adaptée",
+    "Disponibilité, réactivité et capacité d'adaptation",
+    "Discrétion professionnelle."
+  ],
+  "specialCommitments": "- Être titulaire du permis de conduire B ;\n- Poste en internat impliquant un travail en horaires décalés (soirs, week-ends, jours fériés) ;\n- Sujétions liées à l'accueil en hébergement collectif (nuits, encadrement de séjours extérieurs).",
+  "title": "Educateur spécialisé en hébergement collectif",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-09-18",
+  "workHours": "Poste en internat impliquant un travail en horaires décalés (soirs, week-ends, jours fériés)",
+  "champs_open_data": 31,
+  "employeur_sigle": "DPJEJ",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "action-sociale"
+}
