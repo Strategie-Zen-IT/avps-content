@@ -20,12 +20,7 @@
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Déplacements fréquents pour assister aux conseils d'administration des établissements"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Informations salaire",
-        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf"
+        "value": "Déplacements fréquents pour assister aux conseils d'administration des établissements."
       },
       {
         "@type": "PropertyValue",
@@ -66,7 +61,7 @@
   },
   "alternateName": null,
   "description": "Sous l'autorité du chef de service et de son adjoint(e), le contrôleur financier effectue le contrôle administratif et financier des établissements publics de la Nouvelle-Calédonie et contribue à l'identification des risques financiers inhérents à leur fonctionnement.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Sous l'autorité du chef de service et de son adjoint(e), le contrôleur financier effectue le contrôle administratif et financier des établissements publics de la Nouvelle-Calédonie et contribue à l'identification des risques financiers inhérents à leur fonctionnement.",
   "identifier": "26-65052/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -83,7 +78,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
+    "@type": "PeopleAudience",
     "name": "Nouvelle-Calédonie",
     "address": {
       "@type": "PostalAddress",
@@ -101,7 +96,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-08-28",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Master 2",
     "competencyRequired": [
@@ -117,8 +112,10 @@
   "employerOverview": "La direction du budget et des affaires financières a pour mission principale la préparation et l'exécution du budget de la Nouvelle-Calédonie (budget annuel d'environ 275 milliards CFP) ainsi que le suivi et le contrôle des établissements publics et des relations financières avec les autres collectivités locales.\n\nLa direction, composée de 65 agents, est amenée à évoluer fortement dans les 2-3 années à venir. \n\nD'une part, la Nouvelle-Calédonie est engagée dans une réforme de la gestion des finances publiques qui impose de nombreux changements opérationnels et décisionnels. D'autre part, mais en lien avec cette réforme, la direction a vocation à se professionnaliser sur les métiers financiers pour apporter une véritable valeur ajoutée à la collectivité et ses décideurs en matière de prospective, d'analyse, d'évaluation des décisions financières.\n\nLe service des collectivités locales et des établissements publics, composé de 10 agents, est chargé du contrôle financier, du conseil aux établissements publics et des audits éventuels, de la gestion des dotations réparties entre collectivités, du reversement des centimes additionnels, des recettes affectées et subvention diverses ainsi que de la gestion du comité du fonds intercommunal de péréquation.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
-    "name": "Service des collectivités locales et des établissements publics"
+    "@type": "OrganizationalUnit",
+    "name": "Service des collectivités locales et des établissements publics",
+    "url": null,
+    "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
@@ -146,7 +143,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "immédiatement",
   "occupationalCategory": [
     "Finances et budget"
   ],
@@ -173,7 +170,7 @@
     "Réaliser des audits éventuels sur les établissements publics",
     "Participer à la mise en place d'un contrôle de gestion au sein du service et au sein des établissements."
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -200,6 +197,7 @@
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DU BUDGET ET DES AFFAIRES FINANCIERES",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Finances et budget",
   "famille_source": "respnc",
   "famille_score": 1.0,
