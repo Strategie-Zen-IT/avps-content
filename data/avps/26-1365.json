@@ -1,0 +1,185 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 2-Diplôme niveau V",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Internat de Canala",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur d'internat",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Directeur d'internat",
+      "Personnel de cuisine",
+      "Livreurs"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Station debout, port de lourdes charges, milieu bruyant."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Sans objet"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12954716.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité du directeur d'internat, le chef cuisinier met en œuvre les techniques et les règles de fabrication culinaire pour la production de repas équilibrés dans le respect des normes d'hygiène (HACCP) et des règles de la diététique. Il participe également aux missions de distribution et du service des repas, à l'entretien des locaux et des matériels de restauration. Il met en œuvre les actions favorisant le bien-être des élèves pendant les temps de repas.",
+  "disambiguatingDescription": "Poste de chef cuisinier au sein de l'internat de Canala pour la Province Nord.",
+  "identifier": "26-1365",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef cuisinier-  Internat de Canala",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-nord.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "42.66.17",
+    "email": "j.pouourda@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-11",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Bac Pro Cuisine",
+    "competencyRequired": [
+      "Bac Pro Cuisine ou formation attestant d'une expertise en production culinaire",
+      "Management des équipes et hygiène HACCP",
+      "Conception des menus et techniques culinaires",
+      "Bonnes connaissances de la diététique",
+      "Maintenance et hygiène des locaux et des matériels",
+      "Respect et application des normes et procédures d'hygiène et de sécurité (HACCP)",
+      "Gestion de l'ensemble des approvisionnements, réception des marchandises, contrôle de la qualité des produits, des dates de péremption et du stockage",
+      "Maîtrise Word et Excel pour rapports écrits et gestion des stocks",
+      "Notions de management"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction de l'enseignement, de la formation, de l'insertion et de la jeunesse de la province Nord compte environ 564 agents. Elle emploie notamment l'ensemble des enseignants du premier degré public (338 enseignants pour 48 écoles), l'ensemble des personnels d'internats provinciaux (168 agents pour 7 internats) et environ 58 agents chargés de l'administration basés à l'hôtel de la province Nord et au centre de formation de Touho. La DEFIJ est chargée d'appliquer les orientations politiques de la province Nord en matière d'enseignement, de formation et d'insertion.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Internat de Canala",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Formation attestant d'une expertise en production culinaire",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Internat de Canala",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Canala",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-04-15",
+  "occupationalCategory": [
+    "Restauration collective / hôtellerie"
+  ],
+  "physicalRequirement": "Station debout, port de lourdes charges, milieu bruyant.",
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "chef cuisinier",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "G1601",
+      "name": "Personnel de cuisine"
+    }
+  },
+  "responsibilities": [
+    "élaboration des menus en partenariat avec les acteurs concernés",
+    "le management du personnel de cuisine, l'élaboration des plannings hebdomadaires et la répartition des tâches",
+    "la définition des besoins quantitatifs et qualitatifs en matières premières, ustensiles et matériels",
+    "la production culinaire",
+    "l'entretien et le nettoyage des ustensiles de cuisine (matériel de cuisson, de préparation, etc)",
+    "l'hygiène des locaux-cuisines et du réfectoire après utilisation",
+    "le suivi et les autocontrôles HACCP",
+    "l'accompagnement du personnel pour l'application des normes HACCP",
+    "la tenue du registre d'entrée et de sortie des marchandises",
+    "l'élaboration et la mise à jour de fiches techniques culinaires",
+    "le service des repas et/ou le conditionnement et la remise aux livreurs"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Planifier et répartir l'activité de l'équipe",
+    "Prendre la parole en public et conduire des réunions",
+    "Animer, motiver et impulser une dynamique d'équipe, travaille en réseau",
+    "Identifier les besoins d'information, d'accompagnement et de formation des collaborateurs",
+    "Informer et rendre compte périodiquement à la hiérarchie",
+    "Définir les objectifs individuels et collectifs des collaborateurs",
+    "Pratiquer une écoute active",
+    "Arbitrer différentes propositions",
+    "Gérer les charges de travail en situation tendue",
+    "Prendre des décisions et les assumer (courage managérial, exemplarité)",
+    "S'adapter devant des situations critiques",
+    "Sens du service public et des responsabilités",
+    "Ponctualité, assiduité, rigueur et grande disponibilité avec des horaires liés à la vie de l'internat",
+    "Rigueur, efficacité et autonomie",
+    "Esprit d'initiative, sens de l'organisation et de l'anticipation",
+    "Disponibilité",
+    "Sens de l'écoute et de la communication",
+    "Respect de la confidentialité",
+    "Capacité d'adaptation",
+    "Savoir gérer la pression et le stress",
+    "Capacités relationnelles",
+    "Respect de la hiérarchie",
+    "Sens du travail en équipe",
+    "Capacité à rendre compte",
+    "Polyvalence",
+    "Force de proposition",
+    "Souci de la qualité"
+  ],
+  "specialCommitments": "Horaires liés à la vie de l'internat",
+  "title": "Chef cuisinier- Internat de Canala",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-02",
+  "workHours": "Horaires liés à la vie de l'internat",
+  "champs_open_data": 8,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Restauration collective / hôtellerie",
+  "famille_source": "respnc",
+  "famille_score": 0.956,
+  "dossier": "restauration-collective-hotellerie"
+}
