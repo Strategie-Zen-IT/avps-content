@@ -4,14 +4,14 @@
     "direction": "DIRECTION DES SERVICES FISCAUX",
     "uniteOrganisationnelle": "Service de la recette",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef de service de la recette",
+    "superieurHierarchique": null,
     "placeOrganigramme": null,
     "relationsFonctionnelles": [],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Section d'affectation",
-        "value": "Section enquêtes et poursuites"
+        "name": "Informations salaire",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf"
       },
       {
         "@type": "PropertyValue",
@@ -68,18 +68,7 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Location",
-    "name": "Nouméa",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": null,
-      "addressLocality": "Nouméa",
-      "addressRegion": "Province Sud",
-      "addressCountry": "NC",
-      "province": "province Sud"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "25.75.28",
@@ -87,7 +76,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-08-28",
-  "directApply": false,
+  "directApply": null,
   "educationRequirements": {
     "credentialCategory": null,
     "competencyRequired": [
@@ -103,9 +92,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "Organization",
-    "name": "Service de la recette",
-    "url": null,
-    "logo": null
+    "name": "Service de la recette"
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
@@ -117,7 +104,7 @@
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
+  "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -133,9 +120,8 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "2026-08-28",
+  "jobStartDate": "immédiatement",
   "occupationalCategory": [
-    "Finances et budget",
     "Fiscalité et Trésor / douanes / affaires économiques"
   ],
   "physicalRequirement": null,
@@ -163,7 +149,7 @@
     "Relance des actions en recouvrement",
     "Appui aux différentes sections du service lors des échéances ou de pics d'activités."
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -185,7 +171,7 @@
   "specialCommitments": null,
   "title": "Contrôleur enquêtes et poursuites",
   "totalJobOpenings": 1,
-  "validThrough": "2026-09-18",
+  "validThrough": "2026-10-09",
   "workHours": null,
   "champs_open_data": 27,
   "employeur_sigle": "DSF",
