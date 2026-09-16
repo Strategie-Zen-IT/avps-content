@@ -7,21 +7,21 @@
     "superieurHierarchique": "Chef de service",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "institutions",
-      "clusters",
-      "associations",
-      "partenaires économiques"
+      "Institutions",
+      "Clusters",
+      "Associations",
+      "Partenaires économiques"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
-        "value": "Pour le recrutement sur titre : Ingénieur 1er et 2e grade du domaine numérique : au moins égale à 5 ans."
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre d'ingénieur 1er et 2e grade du domaine numérique."
       },
       {
         "@type": "PropertyValue",
-        "name": "Cadre d'emploi",
-        "value": "Ingénieur / Numérique et SIC ou attaché"
+        "name": "Informations salaire",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/techniquenc.pdf"
       },
       {
         "@type": "PropertyValue",
@@ -62,7 +62,7 @@
   },
   "alternateName": null,
   "description": "Au sein du service de l'économie numérique, des filières d'avenir et des télécommunications, le(a) chargé(e) de projets est responsable de la mise en œuvre et du suivi des projets qui lui sont confiés, et ce, en fonction des orientations de la Nouvelle-Calédonie en matière d'économie numérique, de filière d'avenir, d'attractivité et d'export.",
-  "disambiguatingDescription": "Au sein du service de l'économie numérique, des filières d'avenir et des télécommunications, le(a) chargé(e) de projets est responsable de la mise en œuvre et du suivi des projets qui lui sont confiés, et ce, en fonction des orientations de la Nouvelle-Calédonie en matière d'économie numérique, de filière d'avenir, d'attractivité et d'export.",
+  "disambiguatingDescription": null,
   "identifier": "26-65538/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -78,18 +78,7 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "Nouméa",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": null,
-      "addressLocality": "Nouméa",
-      "addressRegion": "Province Sud",
-      "addressCountry": "NC",
-      "province": "province Sud"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "23.22.50",
@@ -97,7 +86,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-08-26",
-  "directApply": false,
+  "directApply": null,
   "educationRequirements": {
     "credentialCategory": "Bac+5",
     "competencyRequired": [
@@ -113,13 +102,10 @@
   "eligibilityToWorkRequirement": "Ingénieur 1er et 2e grade du domaine numérique : au moins égale à 5 ans.",
   "employerOverview": "La direction des entreprises, de la consommation, de l'attractivité et des télécommunications est responsable de la mise en œuvre de la politique économique du gouvernement de la Nouvelle-Calédonie en matière de marché intérieur, de commerce extérieur, d'économie numérique et d'attractivité, sous réserve des attributions exercées par d'autres directions et services.\n\nElle concourt notamment à la protection de l'ordre public économique et à la dynamisation du marché intérieur par des actions de soutien, de veille et de régulation au bénéfice de l'ensemble des acteurs économiques et notamment du numérique, afin de constituer un environnement favorable au développement économique et à l'attractivité du territoire.\n\nElle a pour missions principales : la protection physique et économique des consommateurs, la régulation et le développement du marché intérieur, l'enregistrement des entreprises commerciales et des sociétés, le développement de l'économie numérique et des filières d'avenir, et l'amélioration de l'attractivité du territoire.",
   "employmentType": "FULL_TIME",
-  "employmentUnit": {
-    "@type": "OrganizationalUnit",
-    "name": "Service de l'économie numérique, des filières d'avenir et des télécommunications"
-  },
+  "employmentUnit": null,
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Avoir une expérience avérée dans la conduite et le pilotage de projets territoriaux",
+  "experienceRequirements": "Expérience avérée dans la conduite et le pilotage de projets territoriaux.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie",
@@ -143,7 +129,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiatement",
+  "jobStartDate": null,
   "occupationalCategory": [
     "Système d'information",
     "Pilotage"
@@ -199,6 +185,7 @@
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Infrastructures, réseaux, eaux et assainissements",
   "famille_source": "respnc",
   "famille_score": 0.873,
