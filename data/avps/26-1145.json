@@ -7,20 +7,21 @@
     "superieurHierarchique": "Directrice de la maison maternelle Marcelle JORDA",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Educateur de jeunes enfants",
+      "Éducateur de jeunes enfants",
       "Assistante maternelle",
-      "Educateur spécialisé référent"
+      "Équipe pluridisciplinaire",
+      "Éducateur spécialisé référent"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Nécessité de travailler en horaires d'internat pour ce poste (travail en soirées et week-ends) et en poste isolé."
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 3 ans pour le recrutement sur titre"
       },
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
-        "value": "Au moins égale à 3 ans pour le recrutement sur titre"
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Nécessité de travailler en horaires d'internat (soirées et week-ends) et en poste isolé"
       },
       {
         "@type": "PropertyValue",
@@ -30,8 +31,8 @@
     ]
   },
   "alternateName": null,
-  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS), exerce son action sur l'ensemble du territoire provincial, au sein de ses services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et de ses autres sites excentrés. Au sein de la maison maternelle, rattachée au pôle petite enfance, l'auxiliaire de puériculture complète, par son savoir-faire médico-social spécifique, les missions de l'éducateur de jeunes enfants (EJE) et de l'assistante maternelle.",
-  "disambiguatingDescription": "Poste d'auxiliaire de puériculture au sein de la Maison maternelle Marcelle JORDA, rattachée à la DPASS de la Province Sud.",
+  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS), exerce son action sur l'ensemble du territoire provincial, au sein de ses services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et de ses autres sites excentrés. Au sein de la maison maternelle, rattachée au pôle petite enfance, l'auxiliaire de puériculture complète, par son savoir-faire médico-social spécifique, les missions de l'éducateur de jeunes enfants (EJE) et de l'assistante maternelle. Elle est la référente des prises en charge santé des enfants accueillis et apporte son expertise dans l'accompagnement des mères aux soins, à l'hygiène et à la prévention. Elle exerce ses missions sous l'autorité de la directrice et en étroite collaboration avec l'équipe pluridisciplinaire.",
+  "disambiguatingDescription": null,
   "identifier": "26-1145",
   "image": null,
   "mainEntityOfPage": null,
@@ -39,18 +40,17 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
     "logo": "https://avps.nc/logos/pvs.png"
   },
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Nouvelle-Calédonie",
+    "name": "Maison maternelle Marcelle JORDA",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -67,37 +67,43 @@
   },
   "baseSalary": null,
   "datePosted": "2026-07-30",
-  "directApply": true,
+  "directApply": null,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'État d'Auxiliaire de Puériculture (DEAP)",
     "competencyRequired": [
-      "Diplôme d'État d'Auxiliaire de Puériculture (DEAP)",
-      "Permis de conduire B"
+      "Développement psychomoteur et psychoaffectif de l'enfant de 0 à 4 ans",
+      "Soins de base du nourrisson et du jeune enfant (hygiène, alimentation, sommeil, changes)",
+      "Prévention des maladies infantiles, des accidents domestiques et détection de la maltraitance",
+      "Suivi vaccinal, protocoles médicaux et administration des médicaments sous prescription",
+      "Techniques d'accompagnement à l'allaitement et aux soins post-nataux",
+      "Règles d'hygiène, de sécurité et protocoles sanitaires applicables en structure petite enfance",
+      "Connaissance des dispositifs de la PMI et du réseau partenarial de santé en Nouvelle-Calédonie",
+      "Spécificités culturelles de la Nouvelle-Calédonie et sensibilité aux pratiques du Pacifique",
+      "Connaissance en bureautique"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence minimale de 3 ans exigée pour le recrutement sur titre",
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial au sein de ses services centraux, des unités provinciales d'action sanitaire et sociale (UPASS) et des centres médico-sociaux (CMS).",
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "Organization",
-    "name": "Maison maternelle Marcelle JORDA",
+    "name": "Province Sud",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience dans le domaine de la petite enfance et de l'accompagnement médico-social souhaitée.",
+  "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
     "logo": "https://avps.nc/logos/pvs.png"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique",
+  "industry": "Service public",
   "jobBenefits": null,
   "jobDuration": null,
-  "jobImmediateStart": false,
+  "jobImmediateStart": null,
   "jobLocation": {
     "@type": "Place",
     "name": "Maison maternelle Marcelle JORDA",
@@ -124,50 +130,41 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Aide-soignant / Auxiliaire de puériculture"
+      "name": "Aide-soignant"
     }
   },
   "responsibilities": [
     "Assurer la prise en charge globale des enfants accueillis sur les plans de la santé, de la sécurité, de l'hygiène et de l'éveil",
-    "Etre le ou la référente des prises en charge santé des enfants accueillis et veiller au suivi du calendrier vaccinal et des rendez-vous PMI",
-    "Accompagner les mères pendant la grossesse, l'allaitement et dans l'acquisition des premiers gestes de soin",
-    "Accompagner et expliquer aux parents la réalisation des soins médicaux spécifiques",
-    "Favoriser l'autonomie parentale des mères et contribuer à la prévention des risques pour l'enfant",
+    "Être le/la référent(e) des prises en charge santé des enfants accueillis et de veiller au suivi du calendrier vaccinal et des rendez-vous PMI",
+    "Accompagner les mères pendant la grossesse, l'allaitement et dans l'acquisition des premiers gestes de soin (hygiène, changes, portage, alimentation)",
+    "Accompagner et d'expliquer aux parents la réalisation des soins médicaux spécifiques",
+    "Favoriser l'autonomie parentale des mères et de contribuer à la prévention des risques pour l'enfant",
     "Participer à la prévention et à l'information concernant les maladies infantiles et les accidents domestiques",
-    "Etre capable de détecter des signes de maltraitance ou de danger et d'alerter les professionnels compétents",
+    "Être capable de détecter des signes de maltraitance ou de danger et d'alerter les professionnels compétents",
     "Assurer l'accompagnement aux visites médicales et aux soins spécifiques",
     "Proposer des ateliers d'information et d'échanges sur la santé, l'hygiène et le développement de l'enfant",
-    "Assurer des visites à domicile établies en collaboration avec l'éducateur ou éducatrice spécialisée référente et l'éducateur de jeunes enfants",
+    "Assurer des visites à domicile établies en collaboration avec l'éducateur(trice) spécialisé(e) référent(e) et l'éducateur de jeunes enfants (EJE)",
     "Travailler en équipe pluridisciplinaire par des transmissions écrites et orales régulières",
     "Participer aux réunions d'équipe, de synthèse et institutionnelles",
     "Participer à l'élaboration et à l'application des protocoles d'hygiène et de sécurité",
-    "Contribuer à la réflexion collective et à la mise en oeuvre du projet d'établissement",
-    "Gérer le stock de pharmacie, le rangement des traitements et assurer leur traçabilité",
+    "Contribuer à la réflexion collective et à la mise en œuvre du projet d'établissement",
+    "Gérer le stock de pharmacie, le rangement des traitements et d'assurer leur traçabilité",
     "Encadrer des stagiaires dans le cadre de ses fonctions"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Développement psychomoteur et psychoaffectif de l'enfant de 0 à 4 ans",
-    "Soins de base du nourrisson et du jeune enfant",
-    "Prévention des maladies infantiles, des accidents domestiques et détection de la maltraitance",
-    "Suivi vaccinal, protocoles médicaux et administration des médicaments sous prescription",
-    "Techniques d'accompagnement à l'allaitement et aux soins post-nataux",
-    "Règles d'hygiène, de sécurité et protocoles sanitaires applicables en structure petite enfance",
-    "Connaissance des dispositifs de la PMI et du réseau partenarial de santé en Nouvelle-Calédonie",
-    "Spécificités culturelles de la Nouvelle-Calédonie et sensibilité aux pratiques du Pacifique",
-    "Connaissance en bureautique",
     "Soins personnalisés adaptés à chaque enfant et à son stade de développement",
-    "Proposition et animation d'activités d'éveil en concertation avec l'éducateur de jeunes enfants et l'assistante maternelle",
-    "Gestion des stocks de pharmacie et de matériel de puériculture",
+    "Proposition et animation d'activités d'éveil en concertation avec l'éducateur de jeunes enfants (EJE) et l'assistante maternelle",
+    "Gestion des stocks de pharmacie et de matériel de puériculture (commandes, traçabilité, rangement)",
     "Accompagnement des mères dans les gestes de soins et lors des consultations médicales",
     "Rédaction de transmissions écrites claires et utilisation des outils d'observation",
     "Animation d'ateliers d'information sur la santé et le développement du jeune enfant",
     "Aptitude au travail en équipe pluri-professionnelle et en réseau",
     "Qualités rédactionnelles",
     "Sens de l'écoute, bienveillance et disponibilité auprès des mères et des enfants",
-    "Esprit d'équipe et capacité à travailler en complémentarité",
+    "Esprit d'équipe et capacité à travailler en complémentarité avec l'EJE et l'assistante maternelle",
     "Discrétion professionnelle et respect du secret professionnel et de la confidentialité",
     "Patience, douceur et maîtrise de soi dans la relation avec le jeune enfant",
     "Rigueur dans l'application des protocoles d'hygiène et de sécurité",
@@ -175,7 +172,7 @@
     "Sensibilité aux spécificités culturelles calédoniennes et du Pacifique",
     "Sens de l'organisation et méthode"
   ],
-  "specialCommitments": "Travail en horaires d'internat (soirées et week-ends) et en poste isolé",
+  "specialCommitments": null,
   "title": "Auxiliaire de puériculture à la Maison maternelle Marcelle JORDA",
   "totalJobOpenings": 1,
   "validThrough": "2026-09-18",
@@ -185,6 +182,7 @@
   "collectivite": "Province Sud",
   "direction": "PROVINCE SUD",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Santé publique soins",
   "famille_source": "respnc",
   "famille_score": 1.0,
