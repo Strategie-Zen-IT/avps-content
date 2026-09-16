@@ -5,8 +5,10 @@
     "uniteOrganisationnelle": "Service Infrastructures, Voirie et Environnement (SIVE)",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef du Service Infrastructures, Voirie et Environnement (SIVE)",
-    "placeOrganigramme": null,
+    "placeOrganigramme": "Placé sous l'autorité du chef du Service Infrastructures, Voirie et Environnement (SIVE)",
     "relationsFonctionnelles": [
+      "Intervenants internes",
+      "Intervenants externes",
       "Entreprises",
       "Bureaux d'études",
       "Concessionnaires de réseaux",
@@ -26,7 +28,12 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Équipements de protection individuelle",
+        "name": "Permis requis",
+        "value": "Permis de conduire catégorie B obligatoire"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Équipements de protection",
         "value": "Port des équipements de protection individuelle (chaussures de sécurité, chasuble, casque, etc.)"
       },
       {
@@ -46,7 +53,7 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Avantages matériels",
+        "name": "Matériel fourni",
         "value": "Mise à disposition d'un véhicule de service et d'un abonnement téléphonique communal, selon les règles en vigueur"
       },
       {
@@ -74,11 +81,11 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
+    "@type": "AreaServed",
     "name": "Mairie de Païta",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "BP 7",
+      "streetAddress": "12 route de la Mairie",
       "addressLocality": "Païta",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -92,17 +99,16 @@
   },
   "baseSalary": null,
   "datePosted": "2026-08-28",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Bac+2",
     "competencyRequired": [
       "Connaissances techniques en voirie et chaussées, terrassements, assainissement, ouvrages d'art",
       "Notions en éclairage public et signalisation",
       "Connaissance des règles de conception, des règles de l'art et des principes de qualité des travaux",
-      "Connaissance des principes de la commande publique et des principales procédures de travaux",
+      "Connaissance des principes de la commande publique et des principales pièces de travaux",
       "Maîtrise de la lecture et de l'interprétation de plans, profils, coupes, mémoires techniques",
-      "Maîtrise des outils bureautiques",
-      "Maîtrise des applicatifs métiers S.I.G",
+      "Maîtrise des outils bureautiques et des applicatifs métiers (S.I.G)",
       "Connaissance du fonctionnement administratif et budgétaire d'une collectivité",
       "Qualités rédactionnelles permettant la production de courriers, comptes rendus, rapports techniques"
     ]
@@ -111,19 +117,21 @@
   "employerOverview": null,
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
-    "name": "Service Infrastructures, Voirie et Environnement (SIVE)"
+    "@type": "OrganizationalUnit",
+    "name": "Service Infrastructures, Voirie et Environnement (SIVE)",
+    "url": null,
+    "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Une expérience en conduite d'opérations, suivi de chantier ou travaux publics, sans toutefois constituer un prérequis, afin de permettre également la candidature de diplômés ou de profils débutants disposant des connaissances techniques nécessaires pour évoluer dans ces domaines.",
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Une expérience en conduite d'opérations, suivi de chantier ou travaux publics est appréciée mais ne constitue pas un prérequis (profils débutants acceptés).",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Ville de Païta"
   },
   "incentiveCompensation": null,
-  "industry": "Travaux publics",
-  "jobBenefits": null,
+  "industry": "Service public",
+  "jobBenefits": "Mise à disposition d'un véhicule de service et d'un abonnement téléphonique communal, selon les règles en vigueur.",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -141,10 +149,9 @@
   "jobLocationType": null,
   "jobStartDate": "Immédiatement",
   "occupationalCategory": [
-    "Infrastructures, réseaux, eaux et assainissements",
-    "Pilotage"
+    "Infrastructures, réseaux, eaux et assainissements"
   ],
-  "physicalRequirement": null,
+  "physicalRequirement": "Port des équipements de protection individuelle (chaussures de sécurité, chasuble, casque, etc.). Travail ponctuel dans des conditions de terrain contraignantes.",
   "qualifications": "Permis de conduire catégorie B obligatoire",
   "relevantOccupation": {
     "@type": "Occupation",
@@ -173,11 +180,11 @@
     "Contribuer à l'élaboration du budget prévisionnel, aux prévisions de consommation des crédits et au suivi financier des opérations au moyen de tableaux de bord",
     "Assurer les traitements administratifs liés aux opérations : courriers, notes, rapports, demandes d'autorisation, comptes rendus et classement des pièces"
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Conduire simultanément plusieurs opérations en organisant les priorités, les interfaces",
+    "Conduire simultanément plusieurs opérations en organisant les priorités et les interfaces",
     "Diagnostiquer une situation de terrain et proposer des solutions techniques proportionnées et chiffrées",
     "Élaborer des dossiers techniques, estimations, métrés, tableaux de bord nécessaires à la consultation et au suivi des travaux",
     "Contrôler les travaux, relever les écarts, formaliser les observations et les réserves",
@@ -201,16 +208,17 @@
     "Discrétion professionnelle",
     "Loyauté"
   ],
-  "specialCommitments": null,
+  "specialCommitments": "Astreintes techniques de nuit et de week-end selon le planning du service.",
   "title": "Chargé d'opération",
   "totalJobOpenings": 1,
   "validThrough": "2026-09-18",
-  "workHours": null,
+  "workHours": "Astreintes de nuit et de week-end possibles",
   "champs_open_data": 6,
-  "employeur_sigle": "A-TRIER",
-  "collectivite": "",
+  "employeur_sigle": "VILLE-DE-PAITA",
+  "collectivite": "Ville de Païta",
   "direction": "DIRECTION DES SERVICES TECHNIQUES",
   "direction_source": "document",
+  "employeur_source": "document",
   "famille_respnc": "Infrastructures, réseaux, eaux et assainissements",
   "famille_source": "respnc",
   "famille_score": 0.982,
