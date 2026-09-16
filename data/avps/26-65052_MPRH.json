@@ -4,7 +4,7 @@
     "direction": "DIRECTION DU BUDGET ET DES AFFAIRES FINANCIERES",
     "uniteOrganisationnelle": "Service des collectivités locales et des établissements publics",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef de service et son adjoint(e)",
+    "superieurHierarchique": "Chef de service et de son adjoint(e)",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Directeurs et équipes des établissements publics",
@@ -14,13 +14,13 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
-        "value": "Au moins égale à 10 ans"
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements fréquents pour assister aux conseils d'administration des établissements."
       },
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Déplacements fréquents pour assister aux conseils d'administration des établissements."
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 10 ans"
       },
       {
         "@type": "PropertyValue",
@@ -61,7 +61,7 @@
   },
   "alternateName": null,
   "description": "Sous l'autorité du chef de service et de son adjoint(e), le contrôleur financier effectue le contrôle administratif et financier des établissements publics de la Nouvelle-Calédonie et contribue à l'identification des risques financiers inhérents à leur fonctionnement.",
-  "disambiguatingDescription": "Sous l'autorité du chef de service et de son adjoint(e), le contrôleur financier effectue le contrôle administratif et financier des établissements publics de la Nouvelle-Calédonie et contribue à l'identification des risques financiers inhérents à leur fonctionnement.",
+  "disambiguatingDescription": null,
   "identifier": "26-65052/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -96,7 +96,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-08-28",
-  "directApply": false,
+  "directApply": true,
   "educationRequirements": {
     "credentialCategory": "Master 2",
     "competencyRequired": [
@@ -127,7 +127,7 @@
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": "Régime indemnitaire de la Nouvelle-Calédonie",
+  "jobBenefits": "Informations salaire : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -190,7 +190,7 @@
   "specialCommitments": "- Déplacements fréquents pour assister aux conseils d'administration des établissements.",
   "title": "Contrôleur financier des établissements publics",
   "totalJobOpenings": 1,
-  "validThrough": "2026-09-18",
+  "validThrough": "2026-10-02",
   "workHours": null,
   "champs_open_data": 29,
   "employeur_sigle": "DBAF",
