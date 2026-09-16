@@ -29,26 +29,14 @@
   "name": "Secrétaire-comptable",
   "owner": {
     "@type": "Organization",
-    "name": "Ville du Mont-Dore"
+    "name": "Ville du Mont-Dore",
+    "logo": "https://avps.nc/logos/ville-du-mont-dore.png"
   },
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
   "url": null,
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "La Coulée",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "La Coulée",
-      "addressLocality": "Mont-Dore",
-      "addressRegion": "Province Sud",
-      "addressCountry": "NC",
-      "province": "province Sud"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "43.30.36",
@@ -56,7 +44,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-08-28",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": null,
     "competencyRequired": [
@@ -72,14 +60,17 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "Organization",
-    "name": "Service administratif"
+    "name": "Ville du Mont-Dore",
+    "url": null,
+    "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
   "experienceRequirements": "Expérience confirmée en secrétariat",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Ville du Mont-Dore"
+    "name": "Ville du Mont-Dore",
+    "logo": "https://avps.nc/logos/ville-du-mont-dore.png"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -99,7 +90,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Administration générale",
     "Finances et budget"
@@ -108,7 +99,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "secrétaire-comptable",
+    "name": "Secrétaire-comptable",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1601",
@@ -136,15 +127,22 @@
   "skills": [
     "Maîtrise de l'outil informatique (publipostage, traitement de texte, tableur, messagerie électronique)",
     "Connaissance du logiciel MILLESIME (comptabilité)",
-    "Connaissance des logiciels DOCUWARE (gestion de courrier et factures) et Mainti (demandes d'interventions)",
+    "Connaissance des logiciels DOCUWARE (gestion de courrier et factures)",
+    "Connaissance du logiciel Mainti (demandes d'interventions)",
     "Bonnes qualités rédactionnelles",
     "Sens du service public",
-    "Rigueur, sérieux et discrétion professionnelle",
-    "Autonomie et disponibilité",
-    "Sens de l'organisation (capacité à gérer les priorités), polyvalence",
+    "Rigueur",
+    "Sérieux",
+    "Discrétion professionnelle",
+    "Autonomie",
+    "Disponibilité",
+    "Sens de l'organisation (capacité à gérer les priorités)",
+    "Polyvalence",
     "Esprit d'initiative",
     "Bonne présentation",
-    "Bon relationnel, aisance orale, sens de l'écoute",
+    "Bon relationnel",
+    "Aisance orale",
+    "Sens de l'écoute",
     "Respect de la hiérarchie",
     "Respect des horaires"
   ],
@@ -158,8 +156,9 @@
   "collectivite": "Ville du Mont-Dore",
   "direction": "VILLE DU MONT-DORE",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Administration générale",
   "famille_source": "respnc",
-  "famille_score": 0.887,
+  "famille_score": 0.89,
   "dossier": "administration-generale"
 }
