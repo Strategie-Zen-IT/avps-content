@@ -20,13 +20,18 @@
       },
       {
         "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "/"
+      },
+      {
+        "@type": "PropertyValue",
         "name": "Fiche d'emploi générique RESPNC",
         "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957366.PDF"
       }
     ]
   },
   "alternateName": null,
-  "description": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes sur le territoire du Grand Nouméa.",
+  "description": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes sur le territoire du Grand Nouméa. Le chef de service pilote et gère les missions sur l'ensemble des tâches administratives du SMTU (suivi des actes, comité syndical, commissions, courriers, marchés), la communication et les réclamations auprès de la clientèle du réseau Tanéo. Il est rattaché à l'autorité hiérarchique du directeur général ou de son adjoint. Il manage 4 agents et assure en transversalité avec les autres services les tâches qui lui incombent.",
   "disambiguatingDescription": null,
   "identifier": "26-1337",
   "image": null,
@@ -53,7 +58,7 @@
   "datePosted": "2026-09-04",
   "directApply": null,
   "educationRequirements": {
-    "credentialCategory": "Catégorie B ou A",
+    "credentialCategory": null,
     "competencyRequired": [
       "Maîtrise du fonctionnement administratif des collectivités",
       "Maîtrise des procédures de contrats et marchés publics",
@@ -65,10 +70,10 @@
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes sur le territoire du Grand Nouméa.",
+  "employerOverview": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes sur le territoire du Grand Nouméa. Pour plus de détails, se connecter au site internet www.taneo.nc",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "OrganizationalUnit",
+    "@type": "Organization",
     "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
     "url": "http://www.taneo.nc",
     "logo": null
@@ -91,7 +96,7 @@
     "name": "SMTU",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "BP 48",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -102,7 +107,7 @@
   "jobStartDate": "Dès que possible",
   "occupationalCategory": [
     "Administration générale",
-    "Communication"
+    "Transports terrestres et maritimes"
   ],
   "physicalRequirement": null,
   "qualifications": null,
@@ -112,7 +117,7 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1601",
-      "name": "Direction administrative"
+      "name": "Assistanat technique et administratif"
     }
   },
   "responsibilities": [
@@ -120,14 +125,14 @@
     "Assister la Direction dans l'organisation administrative du SMTU notamment pour le suivi administratif, lors des comités syndicaux et des commissions du SMTU",
     "Assuré l'établissement des procès-verbaux, les rapports et les ampliations",
     "Gérer la préparation et le suivi de l'ensemble des contrats, marchés et actes administratifs du SMTU",
-    "Assurer le suivi des missions logistiques courantes du SMTU (papeterie, produits ménagers, réservation véhicules de service, gestion de la téléphonie, …) en lien avec les autres services patrimoine",
+    "Assurer le suivi des missions logistiques courantes du SMTU (papeterie, produits ménagers, réservation véhicules de service, gestion de la téléphonie, ...) en lien avec les autres services patrimoine",
     "Contrôler et suivre la bonne instruction des réclamations, en lien avec la régie Tanéo",
     "Assurer une communication efficace via nos médias (site web, pages Facebook) en lien avec nos prestataires et le service exploitation",
     "Gérer le budget alloué au service en lien avec la direction",
     "Gérer les flux administratifs et notamment les courriers arrivés et départs",
     "Assurer un appui aux services sur les actes administratifs et la passation des contrats et marchés",
     "Participer aux actions d'information, de promotion et de pédagogie auprès des usagers du réseau Tanéo",
-    "Gérer les prestataires de communications (communiqués de presse, publicités aux arrêts de bus…)",
+    "Gérer les prestataires de communications (communiqués de presse, publicités aux arrêts de bus...)",
     "Représenter le SMTU auprès des organismes extérieurs à la demande de la Direction",
     "Être force de proposition sur la dématérialisation des tâches administratives en lien avec le service systèmes"
   ],
