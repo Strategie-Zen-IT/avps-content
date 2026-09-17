@@ -36,6 +36,8 @@
   "sameAs": null,
   "subjectOf": null,
   "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
   "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
@@ -44,7 +46,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-08-28",
-  "directApply": false,
+  "directApply": null,
   "educationRequirements": {
     "credentialCategory": null,
     "competencyRequired": [
@@ -59,8 +61,8 @@
   "employerOverview": null,
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
-    "name": "Ville du Mont-Dore",
+    "@type": "OrganizationalUnit",
+    "name": "Service administratif de la direction des services techniques et de proximité",
     "url": null,
     "logo": null
   },
@@ -136,7 +138,8 @@
     "Discrétion professionnelle",
     "Autonomie",
     "Disponibilité",
-    "Sens de l'organisation (capacité à gérer les priorités)",
+    "Sens de l'organisation",
+    "Capacité à gérer les priorités",
     "Polyvalence",
     "Esprit d'initiative",
     "Bonne présentation",
@@ -149,7 +152,7 @@
   "specialCommitments": null,
   "title": "Secrétaire-comptable",
   "totalJobOpenings": 1,
-  "validThrough": "2026-09-18",
+  "validThrough": "2026-10-02",
   "workHours": null,
   "champs_open_data": 6,
   "employeur_sigle": "VILLE-DU-MONT-DORE",
