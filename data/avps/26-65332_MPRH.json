@@ -4,14 +4,14 @@
     "direction": "DIRECTION DES SERVICES FISCAUX",
     "uniteOrganisationnelle": "Service de la recette",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": null,
+    "superieurHierarchique": "Chef de service de la recette",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Informations salaire",
-        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf"
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Non précisé"
       },
       {
         "@type": "PropertyValue",
@@ -76,7 +76,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-08-28",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": null,
     "competencyRequired": [
@@ -91,7 +91,7 @@
   "employerOverview": "La direction des services fiscaux, composée de treize services, est chargée d'asseoir, de contrôler et de recouvrer la plupart des impôts en vigueur en Nouvelle-Calédonie. Elle gère ainsi près de 76 % des recettes fiscales de la Nouvelle-Calédonie. Elle assure également une mission foncière, au travers de la gestion du domaine public et privé de la Nouvelle-Calédonie et de la publicité foncière, cette dernière ayant en charge notamment la taxe hypothécaire. Outre ces missions d'exécution, elle est chargée, dans le cadre de la politique poursuivie par le gouvernement de la Nouvelle-Calédonie, de l'élaboration de la législation fiscale ainsi que des mesures d'application.\n\nLe service de la recette a pour mission principale l'encaissement et le recouvrement des différents impôts, droits, redevances et taxes relevant de la responsabilité du receveur des services fiscaux. Il comprend une cellule enregistrement et 5 sections, une section guichet-comptabilité, trois sections dédiées au recouvrement et une section enquêtes et poursuites où est affecté le poste à pourvoir.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
+    "@type": "OrganizationalUnit",
     "name": "Service de la recette"
   },
   "estimatedSalary": null,
@@ -104,7 +104,7 @@
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": null,
+  "jobBenefits": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -120,7 +120,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "immédiatement",
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Fiscalité et Trésor / douanes / affaires économiques"
   ],
@@ -149,7 +149,7 @@
     "Relance des actions en recouvrement",
     "Appui aux différentes sections du service lors des échéances ou de pics d'activités."
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
