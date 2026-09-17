@@ -4,9 +4,10 @@
     "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
     "uniteOrganisationnelle": "Service oncologie/hématologie",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Cadre supérieur de santé du CHT",
+    "superieurHierarchique": "Cadre supérieur de santé",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
+      "Médecins",
       "Médecins traitants",
       "Infirmiers libéraux",
       "Pharmaciens",
@@ -17,6 +18,16 @@
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
         "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Prise en charge du billet",
+        "value": "Billet aller uniquement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Formation requise",
+        "value": "Formation AFGSU niveau 2 à jour"
       },
       {
         "@type": "PropertyValue",
@@ -46,8 +57,8 @@
     ]
   },
   "alternateName": null,
-  "description": "Ce poste s'inscrit dans une volonté institutionnelle d'élargir l'offre de compétences avancées et de renforcer la prise en charge globale des patients atteints de pathologies cancéreuses et hématologiques. Il a pour objectif d'améliorer la fluidité et la continuité du parcours patient, l'accès rapide aux soins, la qualité du suivi des traitements, notamment des thérapies orales, la coordination entre ville et hôpital, et la disponibilité médicale sur les consultations complexes et premières visites.",
-  "disambiguatingDescription": null,
+  "description": "Ce poste s'inscrit dans une volonté institutionnelle d'élargir l'offre de compétences avancées et de renforcer la prise en charge globale des patients atteints de pathologies cancéreuses et hématologiques.",
+  "disambiguatingDescription": "Poste d'infirmier en pratique avancée au sein du service oncologie/hématologie du CHT Gaston Bourret.",
   "identifier": "26-1367",
   "image": null,
   "mainEntityOfPage": null,
@@ -61,17 +72,16 @@
   "sameAs": null,
   "subjectOf": null,
   "url": null,
-  "@context": "https://schema.org",
-  "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "Nouvelle-Calédonie",
+    "@type": "WorkLocation",
+    "name": "Médipôle Koutio",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
-      "addressLocality": null,
-      "addressRegion": "Nouvelle-Calédonie",
-      "addressCountry": "NC"
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
     }
   },
   "applicationContact": {
@@ -85,30 +95,34 @@
   "educationRequirements": {
     "credentialCategory": "Diplôme d'État d'infirmier",
     "competencyRequired": [
-      "Diplôme d'état d'infirmier ou infirmier en soins généraux",
-      "Formation AFGSU niveau 2 à jour"
+      "Évaluation clinique, biologique et psychologique du patient",
+      "Identification des patients fragiles",
+      "Gestion et surveillance des effets secondaires et complications des traitements",
+      "Réévaluation ou adaptation thérapeutique",
+      "Éducation thérapeutique du patient",
+      "Expertise en oncologie, hématologie et soins palliatifs",
+      "Maîtrise de l'évaluation clinique avancée",
+      "Connaissance approfondie des traitements spécifiques"
     ]
   },
   "eligibilityToWorkRequirement": "AU MOINS EGALE A 10 ANS",
-  "employerOverview": null,
+  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret est l'établissement hospitalier de référence en Nouvelle-Calédonie.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
-    "name": "Centre Hospitalier Territorial",
-    "url": null,
-    "logo": null
+    "@type": "OrganizationalUnit",
+    "name": "Service oncologie/hématologie"
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": null,
+  "experienceInPlaceOfEducation": false,
   "experienceRequirements": "Une expérience dans un service similaire serait un plus",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Centre hospitalier territorial \"Gaston Bourret\"",
     "logo": "https://avps.nc/logos/cht.png"
   },
-  "incentiveCompensation": "Primes spécifiques (nuit, week-end...)",
+  "incentiveCompensation": "Primes spécifiques de nuit et de week-end",
   "industry": "Santé",
-  "jobBenefits": "Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé). Primes spécifiques (nuit, week-end...). Reprise de l'ancienneté possible selon la réglementation en vigueur. Grilles indiciaires de la fonction publique de Nouvelle-Calédonie. Prise en charge du billet aller uniquement.",
+  "jobBenefits": "Reprise de l'ancienneté possible selon la réglementation en vigueur, grilles indiciaires de la fonction publique de Nouvelle-Calédonie, prise en charge du billet aller uniquement",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -124,7 +138,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "immédiatement",
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Santé publique soins"
   ],
@@ -140,22 +154,21 @@
     }
   },
   "responsibilities": [
-    "Assurer le suivi clinique avancé des patients dans le cadre des protocoles d'organisation validés avec les médecins",
     "Réaliser des consultations rapprochées, régulières et prolongées",
-    "Effectuer l'évaluation clinique, biologique et psychologique du patient",
-    "Identifier les patients fragiles présentant un isolement, une observance difficile, des comorbidités ou une vulnérabilité sociale",
-    "Gérer et surveiller les effets secondaires et les complications des traitements",
+    "Évaluer cliniquement, biologiquement et psychologiquement le patient",
+    "Identifier les patients fragiles",
+    "Gérer et surveiller les effets secondaires et complications des traitements",
     "Réévaluer ou adapter la thérapeutique autorisée dans son champ de compétences",
-    "Contribuer à la fluidification de l'activité médicale en diminuant la charge des consultations de suivi des médecins",
-    "Prendre en charge certaines consultations identifiées pour les lymphomes, syndrome myélodysplasique, myélomes, cancers digestifs et cancers du sein",
+    "Diminuer la charge des consultations de suivi des médecins",
+    "Prendre en charge certaines consultations identifiées en lymphomes, syndrome myélodysplasique, myélomes, cancers digestifs et cancers du sein",
     "Faciliter l'accès aux premières consultations et l'orientation rapide des patients",
-    "Assurer un lien renforcé avec les médecins traitants, les infirmiers libéraux, les pharmaciens, les structures de soins et les associations",
-    "Communiquer et diffuser les informations nécessaires à un parcours fluide via des protocoles, notes et courriers",
+    "Assurer un lien renforcé avec les médecins traitants, les infirmiers libéraux, les pharmaciens, les structures de soins et associations",
+    "Communiquer et diffuser les informations nécessaires à un parcours fluide",
     "Contribuer à la structuration d'un réseau territorialisé IPA Oncologie-Hématologie",
     "Participer à l'élaboration et l'animation d'ateliers d'éducation thérapeutique à destination des patients et de leur entourage",
-    "S'impliquer dans des activités de recherche et d'amélioration des pratiques"
+    "Participer à des activités de recherche et d'amélioration des pratiques"
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -165,18 +178,18 @@
     "Travail en équipe",
     "Bon relationnel",
     "Discrétion professionnelle",
-    "Forte adaptabilité",
-    "Grande capacité d'analyse",
+    "Adaptabilité",
+    "Capacité d'analyse",
     "Capacité de coordination",
     "Écoute active",
     "Relation d'aide",
     "Expertise en oncologie",
     "Expertise en hématologie",
     "Expertise en soins palliatifs",
-    "Maîtrise de l'évaluation clinique avancée",
-    "Connaissance approfondie des traitements spécifiques"
+    "Évaluation clinique avancée",
+    "Maîtrise des traitements spécifiques"
   ],
-  "specialCommitments": null,
+  "specialCommitments": "Travail en horaires adaptés à l'activité du service",
   "title": "Infirmier(ère) en pratique avancée – service oncologie/hématologie",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-02",
