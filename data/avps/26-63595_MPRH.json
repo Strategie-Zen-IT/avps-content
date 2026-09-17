@@ -9,19 +9,28 @@
     "relationsFonctionnelles": [
       "IDE du service de santé publique",
       "Médecins de la direction",
-      "Chargé de communication de la direction",
-      "Professionnels médicaux de la direction"
+      "Chargé de communication de la direction"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
         "value": "inférieure à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Modification de la date de clôture",
+        "value": "initialement prévue le 03/07/2026"
       },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
         "value": "Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Informations salaire",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf"
       },
       {
         "@type": "PropertyValue",
@@ -78,10 +87,7 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "Nouvelle-Calédonie"
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "24.37.00",
@@ -89,7 +95,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-06-12",
-  "directApply": false,
+  "directApply": null,
   "educationRequirements": {
     "credentialCategory": "Diplôme de médecine",
     "competencyRequired": [
@@ -107,11 +113,13 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "Organization",
-    "name": "Service de la santé publique"
+    "name": "Service de la santé publique",
+    "url": null,
+    "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience de travail en outre-mer appréciée",
+  "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie",
@@ -119,9 +127,9 @@
   },
   "incentiveCompensation": null,
   "industry": "Santé",
-  "jobBenefits": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
+  "jobBenefits": null,
   "jobDuration": null,
-  "jobImmediateStart": false,
+  "jobImmediateStart": null,
   "jobLocation": {
     "@type": "Place",
     "name": "Service de la santé publique",
@@ -138,10 +146,10 @@
   "jobStartDate": null,
   "occupationalCategory": [
     "Politique de santé publique",
-    "Santé publique soins"
+    "Santé publique inspection et contrôle"
   ],
   "physicalRequirement": null,
-  "qualifications": "Diplôme de médecine",
+  "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Médecin inspecteur",
@@ -178,7 +186,7 @@
     "Participe à la formation des étudiants en santé",
     "Apporter son concours aux situation de gestion de crise"
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -199,12 +207,13 @@
   "title": "Conseiller médical Prévention, Promotion de la santé",
   "totalJobOpenings": 3,
   "validThrough": "2026-09-18",
-  "workHours": "Astreintes",
+  "workHours": null,
   "champs_open_data": 29,
   "employeur_sigle": "DASS",
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Santé publique inspection et contrôle",
   "famille_source": "respnc",
   "famille_score": 1.0,
