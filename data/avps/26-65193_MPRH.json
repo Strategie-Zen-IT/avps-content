@@ -6,15 +6,11 @@
     "nbAgentsEncadres": 0,
     "superieurHierarchique": null,
     "placeOrganigramme": null,
-    "relationsFonctionnelles": [
-      "Gouvernement de la Nouvelle-Calédonie",
-      "Réseau sentinelle",
-      "Centre santé voyage"
-    ],
+    "relationsFonctionnelles": [],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Type de mission",
+        "name": "Type de remplacement",
         "value": "Remplacement d'un titulaire placé en position de disponibilité"
       },
       {
@@ -59,9 +55,9 @@
       }
     ]
   },
-  "alternateName": "Médecin de santé publique",
+  "alternateName": null,
   "description": "La direction des affaires sanitaires et sociales de la Nouvelle-Calédonie est une des directions techniques du gouvernement de la Nouvelle-Calédonie.\nElle est responsable de la mise en œuvre de la politique de la Nouvelle-Calédonie en matière de santé publique et de protection sociale. \n\nElle comprend un service administration et support et quatre services métiers.\n\nLe service de santé publique est chargé de la connaissance et des études relative à la situation sanitaire, de la veille et de la surveillance, et de l'amélioration de la santé des calédoniens (prévention). Les principaux enjeux de la politique de santé reposent sur le concept Une seule santé et sont liés aux déterminants de santé, à la santé relationnelle, à la prévention et aux parcours.",
-  "disambiguatingDescription": "Remplacement temporaire d'un an pour un médecin de santé publique au sein de la DASS.",
+  "disambiguatingDescription": "Remplacement d'un an au Service de la santé publique de la DASS",
   "identifier": "26-65193/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -101,14 +97,14 @@
   "employerOverview": "La direction des affaires sanitaires et sociales de la Nouvelle-Calédonie est une des directions techniques du gouvernement de la Nouvelle-Calédonie. Elle est responsable de la mise en œuvre de la politique de la Nouvelle-Calédonie en matière de santé publique et de protection sociale. Elle comprend un service administration et support et quatre services métiers.",
   "employmentType": "TEMPORARY",
   "employmentUnit": {
-    "@type": "Organization",
+    "@type": "OrganizationalUnit",
     "name": "Service de la santé publique",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience professionnelle sur un poste en Nouvelle-Calédonie, au contact des populations du territoire appréciée.",
+  "experienceRequirements": "Expérience professionnelle sur un poste en Nouvelle-Calédonie, au contact des populations du territoire appréciée",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie",
@@ -124,7 +120,7 @@
     "name": "Direction des affaires sanitaires et sociales",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "B.P M2",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -134,7 +130,8 @@
   "jobLocationType": null,
   "jobStartDate": "2026-03-30",
   "occupationalCategory": [
-    "Politique de santé publique"
+    "Politique de santé publique",
+    "Santé publique soins"
   ],
   "physicalRequirement": null,
   "qualifications": "Doctorat en médecine",
@@ -182,16 +179,17 @@
     "Ouverture d'esprit",
     "Appétence pour le travail en équipe."
   ],
-  "specialCommitments": "Astreintes de santé publique dans le cadre de la veille sanitaire",
+  "specialCommitments": "Assurer des astreintes de santé publique dans le cadre de la veille sanitaire",
   "title": "Médecin",
   "totalJobOpenings": 3,
   "validThrough": "2026-09-18",
-  "workHours": "Astreintes",
+  "workHours": null,
   "champs_open_data": 28,
   "employeur_sigle": "DASS",
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Politique de santé publique",
   "famille_source": "respnc",
   "famille_score": 1.0,
