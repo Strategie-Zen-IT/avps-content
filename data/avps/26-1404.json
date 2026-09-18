@@ -1,0 +1,157 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "CONGRES DE LA NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directrice des ressources humaines",
+    "placeOrganigramme": "Placé(e) sous l’autorité de la direction des ressources humaines",
+    "relationsFonctionnelles": [
+      "Direction des ressources humaines",
+      "Section emplois, formation et gestion prévisionnelle des emplois, des effectifs et des compétences"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Susceptible à pouvoir"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953274.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé(e) sous l’autorité de la direction des ressources humaines, le/la chargé(e) de mission contribue au pilotage de l’activité de la DRH et à la mise en œuvre de la politique RH de l’institution, notamment à travers l’analyse et le suivi des données RH, l’appui à la décision, la veille statutaire et réglementaire, ainsi que la participation aux projets structurants de la direction.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1404",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé de mission RH",
+  "owner": {
+    "@type": "Organization",
+    "name": "Congrès de la Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/cnc.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "05.20.14",
+    "email": "formation-recrutement-drh@congres.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Formation de niveau Bac + 5 en sciences humaines",
+      "Maîtrise de la législation sociale, du statut de la fonction publique et du droit du travail",
+      "Maîtrise des circuits administratifs de la fonction publique",
+      "Connaissance du logiciel TIARHE, Mon Portail RH et SURFY",
+      "Maîtrise du pack office et MS365",
+      "Maîtrise des techniques d’enquêtes quantitatives et qualitatives",
+      "Connaissances avérées du contexte politique, juridique et administratif de la Nouvelle-Calédonie et des collectivités locales"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Congrès de la Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/cnc.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Congrès de la Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1 boulevard Vauban",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Ressources Humaines"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé de l’emploi, des compétences et des risques professionnels",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1503",
+      "name": "Développement des ressources humaines"
+    }
+  },
+  "responsibilities": [
+    "assure le suivi et le pilotage de l’activité de la DRH, notamment au moyen de tableaux de bord et d’indicateurs RH",
+    "coordonne la production et l’analyse des données sociales, notamment dans le cadre du bilan social annuel",
+    "réalise des études, analyses, notes et rapports permettant d’éclairer la décision et d’accompagner les orientations de la DRH",
+    "assure une veille statutaire et réglementaire dans le domaine des ressources humaines et contribue à l’information de la direction et des agents",
+    "participe aux travaux liés au dialogue social, notamment à la préparation et au suivi des instances représentatives du personnel et des élections professionnelles",
+    "contribue au suivi budgétaire des ressources humaines et à l’analyse de l’évolution des effectifs et de la masse salariale",
+    "participe aux travaux de GPEEC, en lien avec la section emplois, formation et gestion prévisionnelle des emplois, des effectifs et des compétences",
+    "participe aux projets structurants de la DRH et, plus largement, à toute étude ou mission confiée par la hiérarchie"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Appliquer la réglementation et les procédures internes",
+    "Rédiger des actes administratifs",
+    "Animer une réunion",
+    "Conseiller la direction",
+    "Gérer les urgences en priorisant les actions",
+    "Maîtriser les techniques de contrôle de la réglementation en matière de sécurité et de santé au travail",
+    "Travailler en réseau",
+    "Communiquer efficacement",
+    "Traiter les données statistiques",
+    "Grande rigueur",
+    "Gestion du stress",
+    "Grande capacité d’adaptation",
+    "Esprit d’analyse et de synthèse",
+    "Sens de la discrétion",
+    "Grande disponibilité",
+    "Neutralité politique",
+    "Sens avéré de la communication et de la diplomatie"
+  ],
+  "specialCommitments": null,
+  "title": "Chargé de mission RH",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-09",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "CNC",
+  "collectivite": "Congrès de la Nouvelle-Calédonie",
+  "direction": "CONGRES DE LA NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Ressources Humaines",
+  "famille_source": "respnc",
+  "famille_score": 0.902,
+  "dossier": "ressources-humaines"
+}
