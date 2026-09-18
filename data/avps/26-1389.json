@@ -1,0 +1,205 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Contrôleur",
+    "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "Service relation client – Centre de distribution du courrier du Grand Nouméa (CDC – GN) – Cellule Mont-Dore",
+    "nbAgentsEncadres": 4,
+    "superieurHierarchique": "Chef de centre",
+    "placeOrganigramme": "N-4 (par rapport au directeur opérationnel)",
+    "relationsFonctionnelles": [
+      "Autres services de l'OPT-NC"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Habilitations requises",
+        "value": "Permis B obligatoire. Permis A2 et aptitude à la conduite d'un deux roues (scooter) appréciés."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions de travail",
+        "value": "Possibilité de travailler les jours fériés et le week-end. Port obligatoire des EPI et de l'uniforme. Déplacements fréquents. Gestes répétitifs. Exposition aux conditions climatiques. Interaction avec des chiens."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fourniture de matériels",
+        "value": "Utilisation du véhicule de service obligatoire, équipement de protection individuelle, matériels homologués et port d'un uniforme."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956068.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le (la) chef(fe) de cellule distribution est responsable du management efficace de sa cellule, de l’organisation de la distribution du courrier et des colis, ainsi que du contrôle de la qualité de service. Il (elle) assure l’adaptation de l’organisation aux flux et aux contraintes opérationnelles, en veillant à la continuité et à la qualité du service. Il (elle) accompagne son équipe dans la réalisation de ses activités et contribue à l’évolution des pratiques et de l’organisation de la distribution.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1389",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "DPS - Chef de cellule distribution du courrier - CDC GN",
+  "owner": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Direction générale",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 rue Paul Montchovet, Port Plaisance",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.62.01",
+    "email": "DRH-candidature@opt.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Organisation et fonctionnement de l’OPT-NC",
+      "Modes opératoires et procédures en vigueur au sein de l’établissement",
+      "Réglementation postale, notamment en matière de distribution",
+      "Techniques de communication et d’information",
+      "Techniques de gestion des conflits",
+      "Règles du raccordement postal et de l’adressage",
+      "Produits et services du domaine courrier et colis",
+      "Quartiers et secteurs géographiques concernés",
+      "Techniques de gestes et postures",
+      "Règles d’hygiène, sécurité, risques animaliers et conditions de travail",
+      "Outils de bureautique et outils digitaux SIDO, IPS, applications O365"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Office des Postes et des Télécommunications"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
+  },
+  "incentiveCompensation": "Indemnité hiérarchique de chef de cellule",
+  "industry": "Postes et télécommunications",
+  "jobBenefits": "Indemnité hiérarchique de chef de cellule",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Cellule Mont-Dore",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Mont-Dore",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-11-16",
+  "occupationalCategory": [
+    "Postes et télécommunications"
+  ],
+  "physicalRequirement": "Condition physique compatible avec les missions confiées, gestes répétitifs, déplacements fréquents en extérieur.",
+  "qualifications": "Permis B obligatoire. Permis A2 et aptitude à la conduite d'un deux roues (scooter) appréciés.",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Coordinateur courrier colis",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "I1306",
+      "name": "Gestion d'équipe de distribution de courrier et de colis"
+    }
+  },
+  "responsibilities": [
+    "Recruter, former, accompagner et encadrer les membres de l’équipe de distribution du courrier et des colis",
+    "Définir les objectifs individuels et collectifs, ainsi que les indicateurs de performance pour l’équipe",
+    "Organiser les plannings de travail et assurer une répartition équitable des tâches",
+    "Motiver et développer les compétences des membres de l’équipe",
+    "Gérer les problèmes de performance et résoudre les conflits éventuels",
+    "Participer à la mise en œuvre et au suivi des plans d’action liés à la QVT (qualité de vie au travail)",
+    "Organiser, planifier et superviser la réception, le tri et la distribution du courrier, des colis et des objets éligibles à la livraison personnalisée, en adaptant l’organisation aux contraintes opérationnelles",
+    "Proposer les itinéraires de distribution en tenant compte des contraintes de temps et de ressources",
+    "Assurer une gestion efficace des flux de courrier entrant et sortant",
+    "Organiser la mise en œuvre des ordres de réexpédition",
+    "Maintenir à jour le Système d’Information Géographique (SIG) Postal",
+    "Participer à la mise en œuvre du raccordement au réseau de distribution du courrier",
+    "Collecter les données permettant d’alimenter les études de charge et les statistiques de volumétrie de courrier/paquets/colis",
+    "Coordonner avec les autres services pour garantir une communication fluide et une coordination efficace",
+    "Maîtriser deux tournées de distribution afin de pouvoir renforcer l’équipe en situation de sous-effectif ou de surcroît ponctuel d’activité, notamment lors des périodes électorales",
+    "Gérer les situations imprévues et les urgences opérationnelles",
+    "Mettre en place/veiller au respect des procédures de contrôle qualité pour assurer le respect des normes de service",
+    "Effectuer des contrôles réguliers afin de vérifier le respect la qualité et des délais de distribution",
+    "Identifier les problèmes récurrents et proposer des actions d’amélioration",
+    "Suivre les indicateurs de performance et fournir des rapports réguliers à sa hiérarchie",
+    "Assurer le suivi et la gestion des véhicules placés sous sa responsabilité (affectation, maintenance, contrôles aléatoires et traitement des incidents)",
+    "Entretenir son poste de travail",
+    "Participer et s’impliquer dans la démarche d’amélioration continue",
+    "Participer à toute formation ou réunion d’information liée à son métier"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Manager, accompagner une personne, un groupe",
+    "Analyser un besoin, un contexte, une problématique",
+    "Analyser un risque",
+    "Analyser une information",
+    "Animer une réunion",
+    "Accompagner et conduire le changement",
+    "Conduire un entretien",
+    "Contrôler, prioriser, coordonner",
+    "Gérer un conflit",
+    "Gérer une situation de crise, d’urgence ou dangereuse",
+    "Sens de l’organisation",
+    "Être autonome",
+    "Sens de l’analyse",
+    "Avoir l’esprit d’équipe",
+    "Aisance relationnelle",
+    "Maîtrise de soi",
+    "Aptitude à l’écoute",
+    "Capacité à communiquer",
+    "Être diplomate",
+    "Faire preuve de leadership",
+    "Réactivité",
+    "Sens des responsabilités"
+  ],
+  "specialCommitments": "Possibilité de travailler les jours fériés et le week-end",
+  "title": "Chef de cellule distribution du courrier",
+  "totalJobOpenings": 2,
+  "validThrough": "2026-10-09",
+  "workHours": "Horaires de travail du lundi au vendredi en fonction du règlement intérieur du centre",
+  "champs_open_data": 8,
+  "employeur_sigle": "OPT",
+  "collectivite": "Office des postes et télécommunications",
+  "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Postes et télécommunications",
+  "famille_source": "respnc",
+  "famille_score": 0.813,
+  "dossier": "postes-et-telecommunications"
+}
