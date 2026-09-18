@@ -1,0 +1,165 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché / rédacteur",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Service de l'enseignement et des actions éducatives",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cheffe de service de l'enseignement et des actions éducatives",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Vice-rectorat",
+      "Communes",
+      "Directeurs d'internat",
+      "Équipes éducatives",
+      "Direction des Ressources Humaines de la Fonction Publique de la Nouvelle-Calédonie"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements fréquents sur le territoire de la province Nord."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952122.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction de l'enseignement, de la formation, de l'insertion et de la jeunesse (DEFIJ) de la province Nord compte environ 550 agents. Elle emploie notamment l'ensemble des enseignants du premier degré public (328 enseignants pour 47 écoles), l'ensemble des personnels d'internats provinciaux (180 agents pour 7 internats) et environ 40 agents chargés de l'administration et basés à l'hôtel de la province Nord.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1426",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Coordinateur des actions éducatives des internats",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-nord.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.71.00",
+    "email": "c.taana@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Licence",
+    "competencyRequired": [
+      "Expertise du fonctionnement des internats et du réseau de partenaires intervenant autour de l'élève",
+      "Maîtrise du fonctionnement administratif et de ses circuits",
+      "Bonne connaissance des référentiels applicables en Nouvelle-Calédonie et en province Nord",
+      "Connaissance des réglementations en vigueur dans le domaine éducatif et de l'accueil en internat"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Service de l'enseignement et des actions éducatives"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Expérience significative dans les domaines de l'éducation, de l'animation ou de la coordination de projets.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Éducation",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de la province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Dès que possible",
+  "occupationalCategory": [
+    "Education"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Licence en sciences de l'éducation ou DEJEPS",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Coordinateur des actions éducatives des internats",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2107",
+      "name": "Coordination de projet social ou éducatif"
+    }
+  },
+  "responsibilities": [
+    "Piloter et coordonner les actions éducatives menées dans les internats, en lien avec les projets d'établissement et les orientations de la DEFIJ, en étant force de proposition pour le développement de projets éducatifs adaptés aux besoins des internes",
+    "Animer un travail en réseau avec les directeurs d'internat et les équipes éducatives, afin de garantir la cohérence des projets et la continuité des parcours des élèves",
+    "Accompagner les équipes dans la conception, la mise en œuvre et l'évaluation de projets éducatifs spécifiquement pensés pour la vie en internat (vie résidentielle, réussite scolaire, citoyenneté, prévention, culture, sport, santé, développement durable)",
+    "Assurer la liaison opérationnelle avec le vice-rectorat, les communes et les partenaires, et de produire des bilans et notes de synthèse pour éclairer la cheffe de service et la direction",
+    "Assurer le suivi budgétaire des actions éducatives des internats (participation à l'élaboration des budgets prévisionnels, suivi des dépenses, propositions de réajustements) et de rendre compte à la cheffe de service au moyen de bilans et rapports d'activités",
+    "Participer à l'évaluation des politiques publiques en matière d'éducation dans les internats",
+    "Participer aux jurys d'examen et de concours de recrutement du personnel de surveillance et d'éducation en lien avec la Direction des Ressources Humaines de la Fonction Publique de la Nouvelle-Calédonie (DRHFPNC)",
+    "Représenter la direction dans le cadre des travaux institutionnels dans son champ d'activité"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Traduire les politiques publiques en plans d'actions opérationnels pour les internats",
+    "Concevoir des outils et dispositifs éducatifs, en assurer le déploiement et l'évaluation individuelle et collective",
+    "Assurer une fonction de conseil auprès des directeurs d'internat et des équipes pluridisciplinaires",
+    "Gérer et animer des équipes pluridisciplinaires, avec des compétences affirmées en management transversal",
+    "Animer des groupes de travail et des réunions, en favorisant la participation et la dynamique de réseau",
+    "Qualités relationnelles affirmées",
+    "Sens de l'écoute",
+    "Capacité à instaurer un climat de confiance avec les équipes, les jeunes et les partenaires",
+    "Esprit de coopération et de réseau",
+    "Goût du travail en équipe et en transversalité",
+    "Capacité à fédérer autour de projets partagés",
+    "Rigueur",
+    "Sens de l'organisation",
+    "Autonomie",
+    "Capacité à prioriser et à conduire plusieurs dossiers de front",
+    "Sens du service public",
+    "Discrétion professionnelle",
+    "Respect du cadre institutionnel",
+    "Respect des règles de sécurité",
+    "Respect des obligations de confidentialité"
+  ],
+  "specialCommitments": null,
+  "title": "Coordinateur des actions éducatives des internats",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-09",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Education",
+  "famille_source": "respnc",
+  "famille_score": 0.801,
+  "dossier": "education"
+}
