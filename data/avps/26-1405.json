@@ -1,0 +1,189 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Service du contrôle de gestion",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service du contrôle de gestion",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Direction générale",
+      "Instances",
+      "Service des finances"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Novembre 2026"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957712.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le contrôleur de gestion est placé sous l’autorité du chef de service du contrôle de gestion de la direction des Affaires Financières et de l’Informatique (DAFI). Il/elle assure le pilotage, l’analyse et l’optimisation des dépenses de personnel dans un environnement hospitalier, en lien avec les contraintes réglementaires, budgétaires et organisationnelles, afin d’éclairer la prise de décision stratégique. Il/elle met en œuvre la comptabilité analytique de l’établissement à partir des données financières et d’activité, et analyse les résultats.",
+  "disambiguatingDescription": "Poste de contrôleur de gestion spécialisé en RH et comptabilité analytique au sein du Centre Hospitalier Territorial.",
+  "identifier": "26-1405",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "1 Contrôleur de gestion",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.86.02",
+    "email": "isabelle.jouet@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Licence, BUT (Niveau 6)",
+    "competencyRequired": [
+      "Gestion analytique des dépenses de personnel",
+      "Mécanismes de paies de la fonction publique",
+      "Outils de pilotage hospitalier et fonctionnement d'un établissement de soins",
+      "Comptabilité générale hospitalière",
+      "Comptabilité analytique",
+      "Logiciels métiers TIARHE, CPAGE",
+      "Outils bureautiques et BI Excel, TCD, PowerBi"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service du contrôle de gestion"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience en gestion analytique des dépenses de personnel",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": "Grilles indiciaires de la fonction publique de Nouvelle-Calédonie",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-11-01",
+  "occupationalCategory": [
+    "Finances et budget"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Contrôleur de gestion",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2102",
+      "name": "Contrôle de gestion"
+    }
+  },
+  "responsibilities": [
+    "Élaborer et suivre les budgets de personnel (EPRD, PGFP)",
+    "Analyser l’exécution budgétaire de la masse salariale",
+    "Produire des tableaux de bord mensuels (effectifs, dépenses, ETPR)",
+    "Suivre les écarts (prévisionnel / réalisé) et proposer des actions correctives",
+    "Suivre les effectifs (par statut, service, métier)",
+    "Analyser les ratios RH (absentéisme, heures supplémentaires)",
+    "Mettre en lien les ressources humaines avec l’activité",
+    "Contribuer aux études d’adéquation effectifs/activité",
+    "Concevoir et fiabiliser les outils de pilotage (Excel, BI, tableaux automatisés)",
+    "Développer des indicateurs de performance RH",
+    "Participer à la mise en place d’outils décisionnels (type Power BI)",
+    "Produire des analyses pour la Direction (DG, instances)",
+    "Intégrer l’usage raisonné de l’intelligence artificielle dans les missions de contrôle de gestion",
+    "Fournir des analyses stratégiques sur les évolutions des dépenses RH",
+    "Participer aux projets de réorganisation (dimension RH et financière)",
+    "Contrôler la cohérence des données SIRH et financières",
+    "Participer aux clôtures comptables et analyses du compte financier",
+    "Mettre en place des processus de sécurisation des données RH",
+    "Ventiler et affecter les dépenses de personnel par centres de coûts, services et activités",
+    "Élaborer et suivre les coûts complets RH",
+    "Contribuer aux retraitements analytiques nécessaires",
+    "Analyser les écarts entre coûts analytiques et données budgétaires",
+    "Produire des études médico-économiques intégrant la dimension RH",
+    "Suppléer ou renforcer les autres domaines d’activité comme le recensement d’activité"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Construire des outils et des tableaux de bord",
+    "Synthétiser des informations, des données et des documents",
+    "Forte capacité d’analyse et de synthèse",
+    "Rigueur et méthode",
+    "Esprit d’équipe",
+    "Esprit d’initiative et autonomie",
+    "Esprit critique",
+    "Discrétion et respect de la confidentialité",
+    "Sens du contact et du relationnel"
+  ],
+  "specialCommitments": null,
+  "title": "Contrôleur de gestion",
+  "totalJobOpenings": 5,
+  "validThrough": "2026-10-09",
+  "workHours": "Travail en horaires de journée",
+  "champs_open_data": 11,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Pilotage",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "pilotage"
+}
