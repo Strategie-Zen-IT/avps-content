@@ -1,0 +1,194 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Internat provincial de Hienghène",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur d’internat",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Partenaires et organismes socio-éducatifs",
+      "Parents d’élèves",
+      "Personnel de l’internat"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "L’éducateur spécialisé en internat est soumis à des horaires atypiques et est appelé à se déplacer régulièrement (sur et en dehors de la commune d’affectation). Périodes de congés pris obligatoirement en période de vacances scolaires. Obligation de logement à proximité de l’établissement."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952226.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La DEFIJ est chargée d’appliquer les orientations politiques de la province Nord en matière d’enseignement, de formation et d’insertion. Placée sous l'autorité du directeur d’internat la personne retenue sera notamment chargée dans une démarche éthique et déontologique, de créer les conditions nécessaires pour que les personnes, familles et groupes qui rencontrent des difficultés aient les moyens d’être acteurs de leur développement et puissent renforcer leurs liens sociaux et les solidarités dans les lieux de vie en général.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1420",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Educateur spécialisé à Hienghène",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-nord.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "WorkLocation",
+    "name": "Province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Hienghène",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "42.66.31",
+    "email": "r.thydjepache@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d’Etat d’Educateur Spécialisé",
+    "competencyRequired": [
+      "Capacité à réagir avec pertinence aux situations d’urgence",
+      "Capacité à maintenir les actions éducatives",
+      "Capacité à analyser sa propre pratique pour la faire évoluer",
+      "Capacité à communiquer clairement en adaptant son langage au public concerné",
+      "Capacité à s’adapter aux problématiques individuelles et collectives des usagers",
+      "Capacité à comprendre et gérer l’émotion de la personne",
+      "Capacité à favoriser l’autonomie de la personne",
+      "Capacité à faire émerger les valeurs et représentations partagées au sein d’un groupe projet",
+      "Bonne connaissance du fonctionnement des internats et des orientations de la collectivité en faveur de la prise en charge des internes",
+      "Bonne connaissance en techniques d’entretien d’aide à la personne et écoute active",
+      "Capacité en méthodologie de projets",
+      "Bonne connaissance du cadre réglementaire de l’action socio-éducative et de l’animation",
+      "Bonne connaissance des Institutions, dispositifs et acteurs de l’aide sociale en province Nord",
+      "Ethique et déontologie du travail social"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": "La DEFIJ est chargée d’appliquer les orientations politiques de la province Nord en matière d’enseignement, de formation et d’insertion.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Internat provincial de Hienghène",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Obligation de logement à proximité de l’établissement",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Internat provincial de Hienghène",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Hienghène",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "dès que possible",
+  "occupationalCategory": [
+    "Action sociale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Educateur spécialisé",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1302",
+      "name": "Intervention socioéducative"
+    }
+  },
+  "responsibilities": [
+    "Le suivi individualisé des élèves internes à besoins particuliers : diagnostic et suivi en collaboration avec les partenaires et organismes socio-éducatifs, la rédaction, le suivi et l’évaluation du projet d’accompagnement personnalisé",
+    "La participation à l’amélioration des conditions d’accueil et d’éducation des élèves",
+    "L’accompagnement du personnel de l’internat dans le cadre de projets éducatifs et de développement des compétences",
+    "Le pilotage et l’animation de projets et d’actions de prévention",
+    "L’animation du réseau partenarial au bénéfice des internes, en particulier la relation aux parents d’élèves",
+    "La préparation et le suivi des commissions éducatives, des réunions hebdomadaires de veille éducative",
+    "La participation aux actions provinciales",
+    "L’accueil et l’accompagnement dans le cadre de l’aide à la personne (enfants, adultes, personnes handicapées, etc.) ou dans le cadre de projets collectifs (groupes, familles, communautés, etc.) ou/et individuels",
+    "La réalisation d’enquêtes sociales",
+    "L’organisation d’activités éducatives, culturelles, ludiques afin de mobiliser les ressources de la personne",
+    "L’élaboration et mise en place de projet concernant la personne et/ou le groupe",
+    "La médiation des relations",
+    "La Réalisation du suivi socio-éducatif et d’écrit professionnel",
+    "Le développement et animation de partenariats et réseaux",
+    "La Veille sociale et juridique",
+    "Intervenir ponctuellement sur sollicitation de la DEFIJ au sein d’autres internats"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtriser ses émotions et ses limites",
+    "Sens du service public",
+    "Impartialité",
+    "Disponibilité",
+    "Sens de l’écoute et la communication",
+    "Empathie",
+    "Gestion des émotions",
+    "Sens du travail en équipe",
+    "Rigueur et organisation",
+    "Discrétion professionnelle",
+    "Adaptation du vocabulaire en fonction du public",
+    "Adaptabilité",
+    "Autonomie",
+    "Capacité d’observation et d’analyse",
+    "Tolérance"
+  ],
+  "specialCommitments": "Horaires atypiques, déplacements réguliers, congés imposés pendant les vacances scolaires",
+  "title": "Educateur spécialisé",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-09",
+  "workHours": "Horaires atypiques",
+  "champs_open_data": 6,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "action-sociale"
+}
