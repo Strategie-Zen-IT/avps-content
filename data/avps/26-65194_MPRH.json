@@ -2,25 +2,20 @@
   "additionalType": {
     "corpsDomaine": "Technicien",
     "direction": "DIRECTION DES ACHATS, DU PATRIMOINE ET DES MOYENS",
-    "uniteOrganisationnelle": "Bureau exploitation, maintenance et énergie (BEME)",
+    "uniteOrganisationnelle": "Service exploitation, maintenance et moyens",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef du service",
+    "superieurHierarchique": "Chef de bureau",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Services occupants",
       "Fournisseurs",
-      "Clients"
+      "Demandeurs"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
-        "value": "au moins égale à 10 ans"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Budget annuel géré",
-        "value": "environ 500 millions sur les deux sections investissement et fonctionnement"
+        "value": "Au moins égale à 10 ans pour le recrutement sur titre (Technicien 1er et 2ème grade domaine équipement)"
       },
       {
         "@type": "PropertyValue",
@@ -79,7 +74,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Hôtel de province",
+    "name": "Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -114,7 +109,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Service exploitation, maintenance et moyens",
+    "name": "Bureau exploitation, maintenance et énergie (BEME)",
     "url": null,
     "logo": null
   },
@@ -128,7 +123,7 @@
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/techniquenc.pdf",
+  "jobBenefits": "Informations salaire : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/techniquenc.pdf",
   "jobDuration": null,
   "jobImmediateStart": false,
   "jobLocation": {
@@ -146,7 +141,8 @@
   "jobLocationType": null,
   "jobStartDate": "2026-09-01",
   "occupationalCategory": [
-    "Patrimoine bâti"
+    "Patrimoine bâti",
+    "Infrastructures, réseaux, eaux et assainissements"
   ],
   "physicalRequirement": null,
   "qualifications": "Permis B",
@@ -177,7 +173,7 @@
     "lors de travaux en régie, il s'assure d'effectuer les commandes auprès des fournisseurs et d'en assurer le suivi.",
     "Le technicien contribue aux actions mises en œuvre pour structurer le bureau et améliorer la qualité du service."
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -214,6 +210,7 @@
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DES ACHATS, DU PATRIMOINE ET DES MOYENS",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Patrimoine bâti",
   "famille_source": "respnc",
   "famille_score": 0.998,
