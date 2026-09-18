@@ -1,0 +1,146 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Emploi fonctionnel",
+    "direction": "SERVICE ADMINISTRATIF",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaire Général",
+    "placeOrganigramme": "Sous l'autorité du Secrétaire Général",
+    "relationsFonctionnelles": [
+      "Secrétaire Général",
+      "Maire",
+      "Conseil Municipal"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre ou Corps ou Grade",
+        "value": "Emploi fonctionnel"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957368.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "En collaboration avec le Secrétaire Général et sous son autorité, le Secrétaire Général Adjoint contribue à la mise en œuvre de la politique communale et des orientations définies par le Maire et son Conseil Municipal.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1372",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Secrétaire Général Adjoint",
+  "owner": {
+    "@type": "Organization",
+    "name": "Commune de Pouembout"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.70.00",
+    "email": "secretaire-generale@ville-pouembout.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Bac+2",
+    "competencyRequired": [
+      "Connaissance de l'organisation et du fonctionnement des institutions de la Nouvelle-Calédonie, et plus particulièrement des services d'une Commune",
+      "Connaissance en finances publiques et maîtrise des règles de comptabilité publique",
+      "Parfaite connaissance de la réglementation des marchés publics"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Expérience professionnelle avérée sur un poste similaire dans une collectivité territoriale",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Pouembout"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Pouembout",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Pouembout",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-10-01",
+  "occupationalCategory": [
+    "Administration générale",
+    "Finances et budget"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B exigé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Secrétaire Général Adjoint",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Management de département administratif"
+    }
+  },
+  "responsibilities": [
+    "Marchés publics : lancement des appels d'offres, organisation des travaux de la commission d'appel d'offres, élaboration des marchés, suivi de l'exécution des marchés",
+    "Ressources humaines : suivi de la carrière des agents, gestion des absences, plan de formations",
+    "Listes électorales : saisie des inscriptions et des mises à jour sur le logiciel AIGLE, organisation et suivi des commissions administratives de révision des listes électorales, préparation et participation aux élections",
+    "Gestion des conventions de prestations de services : consultations des prestataires, rédaction et suivi des contrats",
+    "Patrimoine mobilier et immobilier de la Commune : suivi des actes de vente et d'acquisition du foncier, opérations relatives aux cessions des biens mobiliers, gestion des contrats d'assurance",
+    "Planning institutionnel : gestion du calendrier des conseils municipaux et des commissions",
+    "Participation à l'élaboration des budgets communaux et à l'exécution budgétaire"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des procédures administratives de la collectivité",
+    "Connaissances en informatique et bureautique",
+    "Qualités rédactionnelles",
+    "Rendre compte à sa hiérarchie",
+    "Sens de l'initiative et du service public",
+    "Discrétion professionnelle et respect de la confidentialité",
+    "Capacité d'adaptation à la multiplicité des tâches",
+    "Grande disponibilité",
+    "Méthode, rigueur et sens de l'organisation",
+    "Esprit d'équipe",
+    "Bonne présentation et bon relationnel avec le public"
+  ],
+  "specialCommitments": null,
+  "title": "Secrétaire Général Adjoint",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-09",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "COMMUNE-DE-POUEMBOUT",
+  "collectivite": "Commune de Pouembout",
+  "direction": "SERVICE ADMINISTRATIF",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.861,
+  "dossier": "administration-generale"
+}
