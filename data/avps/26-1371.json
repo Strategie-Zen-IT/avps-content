@@ -1,0 +1,175 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Bureau de la vie scolaire et de l'action éducative",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Services administratifs de la DERES",
+      "Directeurs des écoles primaires publiques de la province sud",
+      "Familles",
+      "Partenaires médicaux et sociaux",
+      "Enseignants spécialisés"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements fréquents sur l’ensemble du territoire de la province Sud. Accompagnement des enfants sur le temps du repas de midi. Travail sur 4.5j/semaine sur la base de 39h."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952226.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l’éducation et de la réussite scolaire de la province Sud (DERES) a pour mission de garantir l’épanouissement de la jeunesse plurielle dans un environnement éducatif propice à la réussite quel que soit le niveau du système scolaire et de favoriser le bien-être de ses personnels.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1371",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Educateur spécialisé au dispositif C.L.A.S.S.E",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Province Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.49.74",
+    "email": "devi.minatchy@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d’Etat d’éducateur spécialisé",
+    "competencyRequired": [
+      "Connaissances de l'institution scolaire et des réglementations en vigueur",
+      "Connaissances du réseau partenarial institutionnel et associatif dans le champ médico-social éducatif",
+      "Connaissances du contexte socio-culturel calédonien"
+    ]
+  },
+  "eligibilityToWorkRequirement": ".",
+  "employerOverview": "Rattachée au pôle développement et épanouissement de la personne, la direction de l’éducation et de la réussite scolaire de la province Sud (DERES) a pour mission de garantir l’épanouissement de la jeunesse plurielle dans un environnement éducatif propice à la réussite quel que soit le niveau du système scolaire et de favoriser le bien-être de ses personnels.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Bureau de la vie scolaire et de l'action éducative",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience auprès des enfants, atteints de troubles de la conduite et du comportement obligatoire",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Travail sur 4.5j/semaine sur la base de 39h",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-20",
+  "occupationalCategory": [
+    "Action sociale",
+    "Education"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B exigé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Éducateur spécialisé",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1302",
+      "name": "Intervention socioéducative"
+    }
+  },
+  "responsibilities": [
+    "Accompagner in situ les équipes écoles dans la gestion de crise d'élèves à besoins éducatifs particuliers",
+    "Contribuer à la mise en place de session fixe regroupant des élèves identifiés, si cela est nécessaire",
+    "Concevoir, évaluer et réajuster les objectifs éducatifs appropriés au développement de la socialisation de l'enfant dans le cadre de leur projet individuel",
+    "Permettre à l'élève d'intégrer la collectivité de la classe et de l'école, par l’organisation et la mise en place d'actions éducatives en direction des enfants et des parents",
+    "Soutenir les actions pédagogiques de l'enseignant spécialisé afin de favoriser l'entrée de l'enfant dans les apprentissages et de le préparer à une disponibilité intellectuelle",
+    "Organiser et animer, en concertation avec l'enseignant spécialisé, le travail d'équipe dans le domaine éducatif au sein de la classe",
+    "Prévenir l'exclusion scolaire en proposant des solutions immédiates tenant compte du contexte familial, social et culturel de l'enfant",
+    "Assurer le rôle de conseil et d’accompagnement auprès des parents et des enseignants dans la gestion des conflits",
+    "Développer et/ou maintenir un travail partenarial de qualité avec les différents intervenants"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Comprendre et gérer le débordement d’émotions et de violences",
+    "Réagir avec pertinence aux situations rencontrées",
+    "Savoir s'adapter aux problématiques individuelles et collectives",
+    "Communiquer clairement en adaptant son langage au public concerné",
+    "Savoir prendre du recul",
+    "Connaître les logiciels informatiques",
+    "Sens de l'organisation",
+    "Solidarité et travail d’équipe",
+    "Sens de l'écoute",
+    "Patience",
+    "Calme"
+  ],
+  "specialCommitments": "Déplacements fréquents sur l’ensemble du territoire de la province Sud. Accompagnement des enfants sur le temps du repas de midi.",
+  "title": "Educateur spécialisé au dispositif C.L.A.S.S.E",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-09",
+  "workHours": "39h par semaine sur 4.5 jours",
+  "champs_open_data": 9,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 0.984,
+  "dossier": "action-sociale"
+}
