@@ -1,0 +1,197 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Service Communication et Accompagnement à l’Organisation",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du Service Communication et Accompagnement à l’Organisation",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Directions métiers",
+      "Équipes techniques",
+      "Prestataires",
+      "Maîtrises d'ouvrage",
+      "Maîtrises d'œuvre"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements très fréquents dans toutes les communes du territoire et ponctuellement en dehors."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Astreintes",
+        "value": "Astreintes communication"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953860.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le ou la cheffe de projet assure le cadrage, le pilotage et la coordination des projets qui lui sont confiés, depuis l’analyse et la formalisation du besoin jusqu’à leur mise en œuvre. Il ou elle accompagne les directions métiers dans la définition de leurs besoins, évalue l’opportunité et la faisabilité des projets et coordonne les différents acteurs mobilisés. Il ou elle veille à la bonne réalisation des projets dans le respect des objectifs, des coûts, de la qualité, des délais et du périmètre définis, et accompagne les utilisateurs dans les changements induits par leur mise en œuvre.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1425",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de projets",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-nord.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Area",
+    "name": "Province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.76.07",
+    "email": "d.estieux@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Informatique",
+      "Numérique"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service Communication et Accompagnement à l’Organisation",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle confirmée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Système d'information",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de la province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B obligatoire",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chef de projets",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "I1302",
+      "name": "Chef de projet informatique"
+    }
+  },
+  "responsibilities": [
+    "Analyse, qualification et formalisation des besoins des directions métiers",
+    "Réalisation d'études d'opportunité et de faisabilité",
+    "Définition du périmètre, des objectifs, des livrables, des ressources et du planning des projets",
+    "Rédaction des cahiers des charges et des spécifications fonctionnelles",
+    "Organisation, coordination et suivi des différentes phases des projets",
+    "Coordination des acteurs métiers, des équipes techniques et des prestataires",
+    "Pilotage des projets dans le respect des coûts, de la qualité, des délais et du périmètre définis",
+    "Identification et suivi des risques, des contraintes et des points d'arbitrage",
+    "Préparation et animation des instances de pilotage et de suivi des projets",
+    "Reporting sur l'avancement des projets et l'alerte en cas d'écart ou de difficulté",
+    "Accompagnement des maîtrises d'ouvrage et interface avec les maîtrises d'œuvre",
+    "Préparation et accompagnement de la conduite du changement auprès des utilisateurs",
+    "Gestion et suivi du portefeuille de projets du service",
+    "Contribution à la définition et à l'amélioration des méthodes, outils et pratiques de gestion de projet",
+    "Participation et animation des réseaux de référents de la collectivité",
+    "Réalisation ponctuelle d'études et d'audits fonctionnels ou organisationnels",
+    "Veille technologique"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtriser les méthodes et outils de conduite de projet",
+    "Analyser, comprendre et reformuler les besoins utilisateurs",
+    "Formaliser et modéliser les processus métiers",
+    "Rédiger des cahiers des charges et des spécifications fonctionnelles",
+    "Planifier, organiser et suivre plusieurs projets",
+    "Identifier et suivre les risques, alerter et proposer des mesures correctives",
+    "Coordonner les acteurs métiers, techniques et les prestataires",
+    "Conduire et animer des réunions et des instances de projet",
+    "Communiquer et rendre compte de manière adaptée aux différents interlocuteurs",
+    "Maîtriser les outils collaboratifs et bureautiques Microsoft 365",
+    "Utiliser SharePoint",
+    "Connaître la réglementation relative aux marchés publics",
+    "Comprendre l'anglais technique",
+    "Sens de l'écoute et de la communication",
+    "Sens du service",
+    "Aptitude au travail en équipe et en transversalité",
+    "Autonomie et prise d'initiative",
+    "Capacité d'analyse, de synthèse et d'adaptation",
+    "Rigueur et sens de l'organisation",
+    "Réactivité",
+    "Capacité à rendre compte et à alerter",
+    "Qualités rédactionnelles",
+    "Discrétion et confidentialité",
+    "Respect de la hiérarchie"
+  ],
+  "specialCommitments": "Astreintes communication",
+  "title": "CHEF DE PROJETS",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-09",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Infrastructures, réseaux, eaux et assainissements",
+  "famille_source": "respnc",
+  "famille_score": 0.91,
+  "dossier": "infrastructures-reseaux-eaux-et-assainissements"
+}
