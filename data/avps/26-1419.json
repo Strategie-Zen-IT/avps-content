@@ -1,0 +1,148 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Cadre d'exploitation",
+    "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "Service de l'audit",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service de l'audit interne",
+    "placeOrganigramme": "N - 2 (par rapport au directeur général)",
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Nombre d'agents exerçant cette fonction",
+        "value": "2"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Régimes indemnitaires rattachés au poste de travail",
+        "value": "Néant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952130.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Donner une assurance raisonnable sur le degré de maîtrise des processus de management et de contrôle interne des activités.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1419",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Auditeur - service de l'audit interne",
+  "owner": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.83.19",
+    "email": "DRH-candidature@opt.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Maîtrise de la méthodologie d'audit et de contrôle interne et normes professionnelles de l'audit interne",
+      "Maîtrise de l'environnement réglementaire et normative de l'OPT-NC"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Néant",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Immeuble Waruna I",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue Paul Montchovet, Port Plaisance",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Pilotage",
+    "Finances et budget"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Auditeur interne",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2107",
+      "name": "Audit et contrôle de gestion"
+    }
+  },
+  "responsibilities": [
+    "Collaborer au projet de mise en conformité",
+    "Élaborer le référentiel de contrôle interne des processus audités",
+    "Réaliser les missions d'audit en respectant le cadre méthodologique",
+    "Proposer des solutions opérationnelles adaptées, préventives et curatives",
+    "Suivre les recommandations",
+    "Assurer le reporting de ses activités",
+    "Promouvoir le processus de management des risques",
+    "Participer à la comitologie de l'audit"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Construire un diagnostic",
+    "Analyser les risques d'une situation",
+    "Mobiliser des connaissances en gestion de crise et en démarche d'amélioration continue, notamment de type lean",
+    "Définir et mettre en œuvre un processus de contrôle et de suivi",
+    "Autonomie",
+    "Méthode et rigueur professionnelle",
+    "Discrétion",
+    "Impartialité, diplomatie et éthique",
+    "Animation de réseau",
+    "Sens de la pédagogie et de la persuasion"
+  ],
+  "specialCommitments": null,
+  "title": "Auditeur",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-09",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "OPT",
+  "collectivite": "Office des postes et télécommunications",
+  "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Education",
+  "famille_source": "respnc",
+  "famille_score": 0.746,
+  "dossier": "education"
+}
