@@ -1,0 +1,193 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur de la DSIN",
+    "placeOrganigramme": "Rattaché(e) directement à la direction",
+    "relationsFonctionnelles": [
+      "La direction (directeur + directrice adjointe)",
+      "Le chef de service POP et les product managers",
+      "Les managers du service DEVOPS",
+      "Les directions métiers",
+      "Le secrétariat général",
+      "Le RSSI",
+      "Le DPO"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi",
+        "value": "Ingénieur 2ème grade / Informatique"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955310.PDF"
+      }
+    ]
+  },
+  "alternateName": "PMO",
+  "description": "Nous recherchons un(e) Product Manager Officer (PMO) pour rejoindre l'équipe dynamique et conviviale de la DSIN. Rattaché(e) directement à la direction, le/la PMO constitue un pivot stratégique dans la conduite et la coordination de l'ensemble des projets informatiques de la collectivité. Dans un contexte de transformation numérique accélérée, il/elle assure la cohérence du portefeuille projets, veille à la bonne gouvernance des initiatives SI et garantit l'alignement de l'ensemble des projets sur le schéma directeur des systèmes d'information (SDSI) de la collectivité.",
+  "disambiguatingDescription": "Product Manager Officer (PMO) au sein de la Direction du Système d'Information et du Numérique de la Province Sud.",
+  "identifier": "26-1399",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Product Manager Officer",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Province Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.32.98",
+    "email": "benjamin.baldacci@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Ingénieur",
+    "competencyRequired": [
+      "Gestion de projet : maîtrise des méthodologies de gestion de projets : cycle en V, méthodes agiles (Scrum, SAFe), hybrides. Connaissance des référentiels PMBOK, PRINCE2",
+      "Système d'Information : bonne connaissance des architectures SI, des enjeux de cybersécurité, des processus ITIL et des grandes tendances du numérique public",
+      "Droit et réglementation : connaissance du cadre juridique de la commande publique, du RGPD, des règles budgétaires et comptables des collectivités territoriales",
+      "Organisation des collectivités : connaissance du fonctionnement des collectivités territoriales, de leur organisation et de leurs processus de décision. Compréhension des enjeux d'un SDSI et de son articulation avec la stratégie globale de la collectivité",
+      "Outils de pilotage : connaissance des outils de PPM (Project Portfolio Management) et des solutions de reporting (tableurs avancés, outils de BI)"
+    ]
+  },
+  "eligibilityToWorkRequirement": ".",
+  "employerOverview": "La province Sud place l'usager au cœur de ses priorités et a pour ambition de mener une véritable stratégie client. Leader en matière d'e-administration sur le territoire, son objectif est de tendre vers une administration 100% numérique afin de moderniser, de simplifier et d'optimiser les procédures administratives et les démarches des usagers.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Direction du Système d'Information et du Numérique",
+    "url": "https://www.province-sud.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre administratif de la province Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6 route des artifices",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Système d'information",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chef de projet maitrise d'ouvrage système d'information",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1801",
+      "name": "Conseil et maîtrise d'ouvrage en systèmes d'information"
+    }
+  },
+  "responsibilities": [
+    "Recenser, prioriser et suivre l'ensemble des projets du système d'information",
+    "Veiller à l'inscription et à la cohérence de chaque projet dans le cadre du schéma directeur des systèmes d'information (SDSI) de la collectivité",
+    "Contribuer à l'actualisation du SDSI en lien avec la direction, en intégrant les évolutions du portefeuille projets",
+    "Assurer le reporting régulier de l'avancement des projets auprès de la direction et du secrétariat général",
+    "Identifier, analyser et de prévenir les risques transverses pouvant impacter le portefeuille",
+    "Coordonner les interdépendances entre projets et de faire arbitrer les priorités en cas de conflits de ressources",
+    "Établir et de garantir le workflow et les artefacts projets",
+    "Définir, de formaliser et de diffuser, en coordination avec le chef de service POP, le cadre méthodologique de gestion de projets au sein de la DSIN et du réseau des Product Owner métier",
+    "Mettre en place et d'administrer les outils collaboratifs de pilotage de projets (tableaux de bord, planification)",
+    "Harmoniser les pratiques de conduite de projets et de s'assurer de leur appropriation par les Product Manager et Product Owner",
+    "Maintenir et de capitaliser la documentation projets (notes de cadrage, comptes-rendus de réunion, livrables, retours d'expérience, ...)",
+    "Contribuer à l'élaboration du budget d'investissement SI et d'en assurer le suivi",
+    "Contrôler le respect des enveloppes budgétaires allouées à chaque projet",
+    "Préparer, d'organiser et d'animer les instances de gouvernance du portefeuille projets auprès du secrétariat général et des directions (comités de pilotage stratégique, revues de portefeuille, comités de suivi)",
+    "Assurer le suivi des décisions prises en instances et de veiller à leur mise en œuvre opérationnelle",
+    "Rédiger les notes de cadrage, les bilans de projets et les dossiers de décision à destination de la direction",
+    "Conseiller les chefs de projet internes dans la mise en œuvre des bonnes pratiques",
+    "Assurer l'interface entre la DSIN et les directions métiers dans le cadre des projets transverses",
+    "Contribuer à la conduite du changement et à la communication autour des projets SI"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Élaborer et mettre à jour des plannings multi-projets, identifier le chemin critique, gérer les ressources et anticiper les dérives",
+    "Construire un suivi budgétaire rigoureux, produire des tableaux de bord financiers fiables et alimenter les outils de contrôle de gestion",
+    "Préparer et conduire des instances de gouvernance transverses, animer des échanges avec le secrétariat général et les directions, rédiger des comptes-rendus actionnables et assurer le suivi des décisions",
+    "Produire des documents de synthèse, notes de cadrage, dossiers de décision et rapports d'avancement adaptés aux différentes audiences",
+    "Identifier, qualifier et traiter les risques projets, formaliser des plans d'actions et assurer leur suivi",
+    "Accompagner les équipes et les directions métiers dans l'appropriation des évolutions SI, élaborer des plans de communication",
+    "Utiliser efficacement les outils bureautiques (Excel, Power Point), les outils de gestion de projets et les outils collaboratifs",
+    "Sens des responsabilités et de l'intérêt général",
+    "Rigueur et organisation",
+    "Esprit de synthèse et d'analyse",
+    "Aptitudes relationnelles et diplomatie",
+    "Capacité à fédérer et à convaincre",
+    "Adaptabilité et réactivité",
+    "Force de proposition",
+    "Posture de conseil"
+  ],
+  "specialCommitments": null,
+  "title": "Product Manager Officer",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-09",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Système d'information",
+  "famille_source": "respnc",
+  "famille_score": 0.949,
+  "dossier": "systeme-d-information"
+}
