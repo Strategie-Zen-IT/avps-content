@@ -1,0 +1,151 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint d'éducation",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Internat de Poindimié",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur d'internat",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Service les dimanches soir et jours fériés; Service de nuit, de l'extinction des feux au lever des élèves; Capacité à gérer des situations difficiles avec les élèves; Environnement professionnel comportant des nuisances sonores; Poste à destination d'un dortoir de filles"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952114.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placée sous l'autorité du directeur d'internat, la personne retenue sera notamment chargée de l'organisation, de l'animation de la vie scolaire et de la surveillance éducative dans les internats.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1424",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Adjoint d'éducation à Poindimié",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "42.71.18",
+    "email": "s.mingoual@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Baccalauréat, BAFA, BPJEPS",
+    "competencyRequired": [
+      "Connaissance des enfants à besoin particulier",
+      "Connaissance du fonctionnement d'un internat",
+      "Connaissances des objectifs et des projets éducatifs de l'établissement",
+      "Notions de psychologie des élèves",
+      "Techniques de communication et d'animation de groupe",
+      "Connaissances des réalités socio-culturelles des publics rencontrés"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction de l'enseignement, de la formation, de l'insertion et de la jeunesse de la province Nord compte environ 576 agents. Elle emploie notamment l'ensemble des enseignants du premier degré public, l'ensemble des personnels d'internats provinciaux et 59 agents chargés de l'administration. La DEFIJ est chargée d'appliquer les orientations politiques de la province Nord en matière d'enseignement, de formation et d'insertion.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Nord",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience souhaitée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Éducation",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Internat de Poindimié",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Poindimié",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-09",
+  "occupationalCategory": [
+    "Education"
+  ],
+  "physicalRequirement": "Environnement professionnel comportant des nuisances sonores",
+  "qualifications": "Permis de conduire B, BAFA, BPJEPS",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Adjoint d'éducation",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2107",
+      "name": "Éducation et surveillance au sein d'établissements d'enseignement"
+    }
+  },
+  "responsibilities": [
+    "Le suivi administratif de la vie scolaire : gestion des absences, contrôle des effectifs, des autorisations de sortie, de l'assiduité",
+    "La surveillance des élèves et de leurs mouvements dans le réfectoire, le dortoir, la cour et autres lieux confiés à la charge des adjoints d'éducation",
+    "L'encadrement des enfants durant les activités périscolaires de l'établissement",
+    "L'éducation et la participation transversale au projet d'établissement avec une priorité de préoccupation pour la réussite scolaire",
+    "L'implication dans les animations socio-culturelles, sportives et dans les sorties à caractère pédagogique ou éducatif et au projet d'établissement"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Ecouter et entendre",
+    "Porter attention aux enfants",
+    "Elaborer un projet éducatif et mettre en œuvre des activités d'animation",
+    "Gérer des études du soir prévues ou imprévues",
+    "Porter un intérêt soutenu à l'amélioration des chances de réussite des élèves",
+    "Sens de l'écoute",
+    "Sens du travail en équipe",
+    "Calme et pondération",
+    "Prévenance",
+    "Sens des initiatives",
+    "Sens du contact social",
+    "Impartialité",
+    "Respect de la confidentialité des informations"
+  ],
+  "specialCommitments": null,
+  "title": "Adjoint d'éducation",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-09",
+  "workHours": "Service de nuit, dimanches et jours fériés",
+  "champs_open_data": 8,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Education",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "education"
+}
