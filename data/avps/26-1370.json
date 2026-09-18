@@ -1,0 +1,148 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Service de gestion du personnel et de la rémunération",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable de bureau",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Directions provinciales"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953282.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Rattachée au pôle fonctionnel, la direction des ressources humaines de la province Sud (DRH) est chargée d’assurer la mise en œuvre de la politique de la collectivité en matière de gestion des ressources humaines et de proposer une politique de valorisation des ressources humaines au sein de la collectivité. Le service de gestion du personnel et de la rémunération (SGPR) encadre et anime l’équipe chargée d’appliquer et d’assurer la gestion administrative et la paie des personnels de la province Sud.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1370",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Gestionnaire en ressources humaines",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.33.32",
+    "email": "catherine.rello@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Maîtrise du statut général et des différents statuts particuliers de la fonction publique",
+      "Maîtrise de l’outil informatique (EXCEL, WORD)",
+      "Connaissances en droit du travail",
+      "Connaissances de la gestion des salaires et des charges sociales",
+      "Connaissances du logiciel de paye et de gestion TIARHE (HR Access) serait un plus",
+      "Aptitudes à la rédaction"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Rattachée au pôle fonctionnel, la direction des ressources humaines de la province Sud (DRH) est chargée d’assurer la mise en œuvre de la politique de la collectivité en matière de gestion des ressources humaines et de proposer une politique de valorisation des ressources humaines au sein de la collectivité.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de gestion du personnel et de la rémunération",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle souhaitée dans la gestion du personnel",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction des Ressources Humaines",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6 route des artifices",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Ressources Humaines"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Gestionnaire administratif des ressources humaines",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1503",
+      "name": "Assistanat en ressources humaines"
+    }
+  },
+  "responsibilities": [
+    "assurer la gestion individuelle des agents provinciaux (affectation, régime indemnitaire, absences)",
+    "effectuer la saisie de ces données dans le système d'information RH et le contrôle des résultats de paie",
+    "assister la hiérarchie à travers la rédaction de notes liées à des situations individuelles ou des études transversales de gestion",
+    "mettre en œuvre la procédure de recrutement des agents permanents (fonctionnaires, contractuels) et des personnels temporaires au sein de la collectivité"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Gestion des salaires et des charges sociales",
+    "Elaboration des actes administratifs",
+    "Recherches statutaires nécessaires à la prise de décision",
+    "Esprit de synthèse",
+    "Faculté d'adaptation pour réagir face aux contraintes de temps",
+    "Discrétion absolue",
+    "Aptitude à travailler en équipe",
+    "Sens de l'organisation et rigueur",
+    "Sens de l’initiative",
+    "Sens de l'écoute, de l'accueil et du conseil",
+    "Empathie et solidarité",
+    "Capacité à travailler en flux tendus ou dans l’urgence, réactivité"
+  ],
+  "specialCommitments": null,
+  "title": "Gestionnaire en ressources humaines",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-09",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Ressources Humaines",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "ressources-humaines"
+}
