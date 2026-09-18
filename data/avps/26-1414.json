@@ -1,0 +1,153 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "DIRECTION JURIDIQUE ET DE LA COORDINATION ADMINISTRATIVE",
+    "uniteOrganisationnelle": "Service juridique et du contentieux",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service juridique et du contentieux",
+    "placeOrganigramme": "Sous l'autorité du secrétaire général adjoint en charge du pôle ressources",
+    "relationsFonctionnelles": [
+      "Secrétaire général adjoint en charge du pôle ressources",
+      "Directions et services municipaux",
+      "Conseils externes"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "janvier 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Aucune"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953464.PDF"
+      }
+    ]
+  },
+  "alternateName": "Juriste conseil et contentieux",
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
+  "disambiguatingDescription": "Le juriste conseil et contentieux assure une expertise juridique au profit de la commune et défend sa position dans le cadre des procédures contentieuses.",
+  "identifier": "26-1414",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Juriste",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa",
+    "url": "https://www.noumea.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.67.27",
+    "email": "corinne.mahaut@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3",
+    "competencyRequired": [
+      "Connaissance des structures et du fonctionnement de l'administration et des institutions de la Nouvelle-Calédonie",
+      "Maîtrise des procédures administratives et juridictionnelles",
+      "Tenir les délais procéduraux",
+      "Maîtriser l'analyse et la rédaction juridiques",
+      "Trouver les informations juridiques pertinentes, notamment dans les bases de données",
+      "Tenir compte des besoins et contraintes exposés par les services",
+      "Gérer les urgences"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service juridique et du contentieux"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Un diplôme de niveau 7 (BAC+5) serait particulièrement apprécié.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de Ville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Ingénierie juridique"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Juriste",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1901",
+      "name": "Défense et conseil juridique"
+    }
+  },
+  "responsibilities": [
+    "Aider à la prise de décision des services et des élus en leur apportant un conseil en matière juridique dans une approche préventive",
+    "Rédiger des mémoires contentieux et suivre les affaires devant les différentes juridictions",
+    "Suivre les relations avec les conseils externes (avocats le cas échéant)",
+    "Présenter la position de l'administration devant les juridictions",
+    "Apporter des conseils en matière d'interprétation de textes, de transaction et d'exécution des décisions juridictionnelles",
+    "Assurer l’élaboration et le suivi de la veille juridique",
+    "Réaliser l’expertise juridique et conseiller en matière d'élaboration de textes"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Aisance à l'oral et bon relationnel",
+    "Rigueur et méthode",
+    "Capacité d'analyse et de synthèse",
+    "Sens de l'organisation",
+    "Autonomie et proactivité",
+    "Qualités rédactionnelles exigées"
+  ],
+  "specialCommitments": null,
+  "title": "Juriste",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-09",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "MAIRIE-DE-NOUMEA",
+  "collectivite": "Mairie de Nouméa",
+  "direction": "DIRECTION JURIDIQUE ET DE LA COORDINATION ADMINISTRATIVE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Ingénierie juridique",
+  "famille_source": "respnc",
+  "famille_score": 0.89,
+  "dossier": "ingenierie-juridique"
+}
