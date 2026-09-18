@@ -1,0 +1,195 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+    "uniteOrganisationnelle": "Unité de soins médicaux rapprochés (USMR)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Aides-soignants",
+      "Agents de service hospitaliers",
+      "Équipe pluridisciplinaire"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service de rattachement",
+        "value": "Centre de gérontologie clinique"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952050.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Avis de vacance de poste pour un infirmier à l'unité de soins médicaux rapprochés (USMR) au sein du Centre Hospitalier Spécialisé Albert Bousquet.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1374",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "1 infirmier à l'unité de soins médicaux rapprochés",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\"",
+    "logo": "https://avps.nc/logos/chs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.36.38",
+    "email": "avp@chs.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'Etat d'Infirmier",
+    "competencyRequired": [
+      "Connaissances théoriques et maîtrise des pratiques professionnelles inhérentes à la prise en charge de la personne âgée ou s'engager à se former dans ces domaines",
+      "Maîtriser les transmissions ciblées et avoir des notions en informatique pour la tenue du Dossier Patient Informatisé",
+      "Travailler en équipe pluridisciplinaire et savoir collaborer efficacement avec les aides-soignants et les agents de service hospitaliers",
+      "Avoir le sens de l'organisation et des responsabilités",
+      "Connaissances gériatriques et des pathologies liées au vieillissement",
+      "Connaissances en soins palliatifs et accompagnement de fin de vie",
+      "Connaître la relation d'aide",
+      "Connaissance sur la manutention des patients et sur les différentes installations (lit, fauteuil)",
+      "Connaissance dans le suivi des plaies et leur cicatrisation",
+      "Maîtrise des outils informatiques (DPI, SIQWEB, GED, etc.)"
+    ]
+  },
+  "eligibilityToWorkRequirement": ".",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Centre Hospitalier Spécialisé Albert Bousquet",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\"",
+    "logo": "https://avps.nc/logos/chs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre Hospitalier Spécialisé Albert Bousquet",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "infirmier",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Soins infirmiers généraux"
+    }
+  },
+  "responsibilities": [
+    "Assurer les soins infirmiers sur prescription ou dans le cadre du rôle propre infirmier, en lien avec les besoins somatiques, psychologiques et sociaux des patients âgés",
+    "Participer à l'accompagnement des patients en soins palliatifs et de leur famille",
+    "Assurer la continuité des soins et la traçabilité des actes dans le dossier patient informisé (DPI)",
+    "Participer à la réadaptation et au projet de soins individualisé avec l'équipe pluridisciplinaire",
+    "Evaluer l'état de santé du patient sur le plan clinique et repérer son degré d'autonomie et ses capacités cognitives : utilisation des outils d'évaluation du service",
+    "Effectuer l'accueil du patient et de son entourage en réalisant un recueil de données cliniques, administratives et en expliquant les soins",
+    "Etablir le projet de soin individualisé, planifier et coordonner les activités de soins avec l'équipe pluridisciplinaire",
+    "Surveiller l'évolution de l'état de santé des patients",
+    "Réalisation des soins techniques : pansements, injections, préparation et administration des traitements",
+    "Mettre en place des actions de prévention : douleurs, escarres, chutes, ...",
+    "Informer et éduquer la personne et son entourage",
+    "Réaliser l'accompagnement de fin de vie et le soutien des familles",
+    "Gérer le dossier patient informatique et mettre à jour des transmissions ciblées : soins, les rendez-vous, les évaluations...",
+    "Coordonner et organiser des consultations extérieures et des sorties",
+    "Encadrer et évaluer pédagogiquement des différents stagiaires conformément aux procédures en vigueur sur l'établissement",
+    "Participer à la démarche qualité et aux audits internes",
+    "Gestion des commandes pharmaceutiques hebdomadaires (piluliers, stock matériel)",
+    "Rangement de la salle de soin et réalisation des piluliers",
+    "Participation à l'inventaire des stupéfiants (hebdomadaire et quotidien)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Evaluer l'état de santé et le degré d'autonomie de la personne",
+    "Analyser et synthétiser les informations permettant de formaliser le projet de soin individualisé et décider des cibles prioritaires",
+    "Réaliser les soins en respectant les procédures et protocoles qualitatifs",
+    "Créer une relation de confiance avec le patient et son entourage par l'utilisation de la relation d'aide",
+    "Repérer une situation d'urgence et y agir par des actions adaptées",
+    "Planifier et organiser son temps et celui de ses collaborateurs dans le cadre du travail d'équipe",
+    "Eduquer, conseiller le patient et son entourage en vue d'une démarche d'autonomisation",
+    "Respecter le patient et son entourage",
+    "Respecter la confidentialité",
+    "Ecouter, analyser et répondre de façon adaptée à un interlocuteur",
+    "Etablir une relation de confiance avec les personnes soignées et leur entourage",
+    "Prendre des initiatives dans l'organisation du travail",
+    "Coordonner ses activités avec les collègues",
+    "Etre précis et rigoureux",
+    "Faire preuve d'adaptabilité",
+    "S'impliquer dans un travail de groupe",
+    "Respecter la charte informatique de l'établissement",
+    "Respecter le règlement intérieur",
+    "S'engager dans une actualisation des pratiques professionnelles"
+  ],
+  "specialCommitments": null,
+  "title": "Infirmier à l'unité de soins médicaux rapprochés",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-09",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "CHS",
+  "collectivite": "Centre hospitalier spécialisé \"Albert Bousquet\"",
+  "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.994,
+  "dossier": "sante-publique-soins"
+}
