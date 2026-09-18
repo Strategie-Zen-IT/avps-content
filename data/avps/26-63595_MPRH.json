@@ -7,30 +7,20 @@
     "superieurHierarchique": null,
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "IDE du service de santé publique",
+      "Infirmiers diplômés d'État du service de santé publique",
       "Médecins de la direction",
       "Chargé de communication de la direction"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "name": "Durée de résidence exigée",
         "value": "inférieure à 3 ans"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Modification de la date de clôture",
-        "value": "initialement prévue le 03/07/2026"
       },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
         "value": "Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale."
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Informations salaire",
-        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf"
       },
       {
         "@type": "PropertyValue",
@@ -87,7 +77,18 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "24.37.00",
@@ -113,13 +114,11 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "Organization",
-    "name": "Service de la santé publique",
-    "url": null,
-    "logo": null
+    "name": "Service de la santé publique"
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": null,
+  "experienceRequirements": "Expérience de travail en outre-mer appréciée",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie",
@@ -132,7 +131,7 @@
   "jobImmediateStart": null,
   "jobLocation": {
     "@type": "Place",
-    "name": "Service de la santé publique",
+    "name": "Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -145,11 +144,11 @@
   "jobLocationType": null,
   "jobStartDate": null,
   "occupationalCategory": [
-    "Politique de santé publique",
-    "Santé publique inspection et contrôle"
+    "Santé publique inspection et contrôle",
+    "Politique de santé publique"
   ],
   "physicalRequirement": null,
-  "qualifications": null,
+  "qualifications": "Diplôme de médecine",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Médecin inspecteur",
@@ -186,7 +185,7 @@
     "Participe à la formation des étudiants en santé",
     "Apporter son concours aux situation de gestion de crise"
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -206,7 +205,7 @@
   "specialCommitments": "Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale.",
   "title": "Conseiller médical Prévention, Promotion de la santé",
   "totalJobOpenings": 3,
-  "validThrough": "2026-09-18",
+  "validThrough": "2026-10-09",
   "workHours": null,
   "champs_open_data": 29,
   "employeur_sigle": "DASS",
