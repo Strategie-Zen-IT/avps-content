@@ -1,0 +1,151 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Service des affaires budgétaires",
+    "nbAgentsEncadres": 3,
+    "superieurHierarchique": "Chef du service des affaires budgétaires",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Trésorerie Sud",
+      "Bureau des Opérations Contractualisées"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953010.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Rattachée au pôle fonctionnel, la direction des finances de la province Sud (DFI) concourt à la préparation du budget de la province et au suivi de son exécution, dans le respect du cadre réglementaire et des autorisations données par l'assemblée. Elle assure la gestion de la dette et de la trésorerie, le contrôle des engagements, l'ordonnancement des dépenses, la prescription des recettes, le compte administratif et ses annexes en lien avec le compte de gestion de la trésorerie Sud.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1398",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Adjoint au chef du service des affaires budgétaires et responsable du bureau de la préparation budgétaire et du patrimoine",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.32.76",
+    "email": "didier.avril@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Formation initiale axée sur la comptabilité et les finances",
+    "competencyRequired": [
+      "Maîtrise des techniques et outils de finances publiques des collectivités territoriales",
+      "Maîtrise de la nomenclature M52 et des procédures réglementaires",
+      "Maîtrise des outils bureautiques Word & Excel, notamment la gestion de bases de données avec tableaux croisés dynamiques et des applications informatiques métiers (SURFI, SALVIA Financements, Patrimoine Comptabilité, SALSA, portail DGFIP)"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Service des affaires budgétaires",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction des Finances",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6 route des artifices",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Finances et budget"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable financier",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1203",
+      "name": "Direction administrative et financière"
+    }
+  },
+  "responsibilities": [
+    "Assister activement le chef de service dans la coordination des missions et la supervision des actions du service",
+    "Encadrer hiérarchiquement et animer le bureau de la préparation budgétaire et du patrimoine (3 agents)",
+    "Assurer le montage, le contrôle et le suivi des actes budgétaires de la province Sud (budget primitif, décisions modificatives, reports, ajustements budgétaires, compte administratif en lien avec le compte de gestion de la Trésorerie Sud)",
+    "Ajuster le cadre budgétaire sur SURFI et mettre à jour des bases",
+    "Assurer les suivis budgétaires infra-annuels, prospectifs et rétrospectifs",
+    "Monter des bases de données pour des demandes de travaux spécifiques",
+    "Assurer le suivi comptable des immobilisations corporelles et incorporelles via l'outil PATRIMOINE Compta (amortissements, cessions, reclassements comptables...)",
+    "Assurer le suivi comptable des immobilisations financières (titres et participations provinciales, avances en compte courant, fonds de garanties et de soutien)",
+    "Assurer le suivi des emprunts garantis et l'analyse des nouvelles demandes de garantie",
+    "Assurer le suivi des programmes communaux et des autorisations de programme et d'engagement ainsi que les plans pluriannuels d'investissement et de fonctionnement",
+    "Consolider et actualiser des bases de suivi financier ainsi que mettre à jour des états statistiques",
+    "Viser des actes à incidence financière",
+    "Participer à la coordination des missions relevant du service des affaires budgétaires et notamment la gestion de la trésorerie, de la dette propre et les actions du bureau des opérations contractualisées",
+    "Participer à l'évolution des techniques professionnelles ainsi qu'aux réunions et aux commissions relevant du service en cas d'absence ou d'empêchement du chef de service"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Qualités relationnelles et aptitude à l'animation d'une équipe",
+    "Capacité d'analyse et de synthèse",
+    "Réactivité et capacité d'anticipation",
+    "Respect de la confidentialité des données",
+    "Esprit d'initiative et autonomie",
+    "Rigueur, organisation",
+    "Disponibilité, dynamisme, polyvalence"
+  ],
+  "specialCommitments": null,
+  "title": "Adjoint au chef du service des affaires budgétaires et responsable du bureau de la préparation budgétaire et du patrimoine",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-09",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Finances et budget",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "finances-et-budget"
+}
