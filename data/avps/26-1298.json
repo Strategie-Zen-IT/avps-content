@@ -5,7 +5,7 @@
     "uniteOrganisationnelle": "Service des centres de secours",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Directeur des services d'incendie et de secours",
-    "placeOrganigramme": "Sous l'autorité directe du secrétaire général en charge du pôle sécurité",
+    "placeOrganigramme": "Sous l'autorité hiérarchique du directeur",
     "relationsFonctionnelles": [
       "Secrétaire général en charge du pôle sécurité",
       "Directeur des services d'incendie et de secours"
@@ -13,13 +13,13 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Assurer des astreintes de niveau chef de colonne et des astreintes de cadre de permanence de la ville de Nouméa; Assurer le commandement d'une opération de secours, organiser et coordonner la chaîne de commandement en intervention; Assurer des tâches de conception, d'encadrement et de commandement des personnels; Réaliser les interventions et missions conformément au règlement opérationnel de la direction; Assurer des fonctions techniques, administratives et de formation; Participer aux cérémonies officielles; Assurer la suppléance du directeur."
+        "name": "Statut du poste",
+        "value": "Susceptible d'être vacant"
       },
       {
         "@type": "PropertyValue",
-        "name": "Statut du poste",
-        "value": "Susceptible d'être vacant"
+        "name": "Astreintes",
+        "value": "Assurer des astreintes de niveau chef de colonne et des astreintes de cadre de permanence de la ville de Nouméa"
       },
       {
         "@type": "PropertyValue",
@@ -29,8 +29,8 @@
     ]
   },
   "alternateName": null,
-  "description": "Placée sous l'autorité directe du secrétaire général en charge du pôle sécurité, la direction des services d'incendie et de secours est composée de plusieurs unités opérationnelles qui permettent la gestion des alertes, le traitement des opérations, le secours aux personnes, la surveillance des plages ainsi que la protection des biens et de l'environnement. Son fonctionnement est organisé 24 heures sur 24 et 7 jours sur 7.",
-  "disambiguatingDescription": "Chef du service des centres de secours à la Ville de Nouméa",
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Placée sous l'autorité directe du secrétaire général en charge du pôle sécurité, la direction des services d'incendie et de secours est composée de plusieurs unités opérationnelles qui permettent la gestion des alertes, le traitement des opérations, le secours aux personnes, la surveillance des plages ainsi que la protection des biens et de l'environnement.",
+  "disambiguatingDescription": "Poste de Chef du service des centres de secours à la Ville de Nouméa, encadrant 4 centres opérationnels.",
   "identifier": "26-1298",
   "image": null,
   "mainEntityOfPage": null,
@@ -48,10 +48,10 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Ville de Nouméa",
+    "name": "Mairie de Nouméa",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "16, rue du général Mangin",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -67,7 +67,7 @@
   "datePosted": "2026-08-28",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Chef de colonne",
+    "credentialCategory": "Catégorie A",
     "competencyRequired": [
       "Diplômes exigés : chef de colonne",
       "Diplômes souhaités : FDF3 ou FDF4",
@@ -85,11 +85,13 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Service des centres de secours"
+    "name": "Service des centres de secours",
+    "url": null,
+    "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience en commandement et gestion de centres de secours (Capitaine confirmé ou Commandant)",
+  "experienceRequirements": "Expérience requise en commandement opérationnel et gestion d'équipes de secours.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Ville de Nouméa",
@@ -105,7 +107,7 @@
     "name": "Service des centres de secours",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "16, rue du général Mangin",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -118,14 +120,14 @@
     "Incendie et secours"
   ],
   "physicalRequirement": null,
-  "qualifications": "Diplômes exigés : chef de colonne. Diplômes souhaités : FDF3 ou FDF4.",
+  "qualifications": "Diplôme de chef de colonne exigé, FDF3 ou FDF4 souhaité.",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chef du service des centres de secours",
+    "name": "Chef de service des centres de secours",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K2501",
-      "name": "Direction de la sécurité civile et des secours"
+      "name": "Sécurité civile et secours"
     }
   },
   "responsibilities": [
@@ -145,20 +147,19 @@
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Maîtrise des techniques rédactionnelles",
-    "Maîtrise des outils informatiques",
-    "Méthodes de pilotage",
-    "Techniques de management",
-    "Techniques de gestion et d'organisation de l'activité",
-    "Méthodes d'analyse des coûts",
-    "Outils de pilotage budgétaire",
-    "Méthodes et outils du management par projets et objectifs"
+    "Management",
+    "Pilotage budgétaire",
+    "Gestion de projet",
+    "Analyse des coûts",
+    "Techniques rédactionnelles",
+    "Outils informatiques",
+    "Commandement opérationnel"
   ],
-  "specialCommitments": "Astreintes de niveau chef de colonne et astreintes de cadre de permanence",
+  "specialCommitments": "Astreintes de niveau chef de colonne et de cadre de permanence",
   "title": "Chef du service des centres de secours",
   "totalJobOpenings": 1,
-  "validThrough": "2026-09-18",
-  "workHours": "Astreintes et fonctionnement 24h/24 et 7j/7",
+  "validThrough": "2026-10-02",
+  "workHours": "Astreintes et fonctionnement 24h/24 7j/7",
   "champs_open_data": 7,
   "employeur_sigle": "VILLE-DE-NOUMEA",
   "collectivite": "Ville de Nouméa",
@@ -167,6 +168,6 @@
   "employeur_source": "document",
   "famille_respnc": "Incendie et secours",
   "famille_source": "respnc",
-  "famille_score": 0.852,
+  "famille_score": 0.855,
   "dossier": "incendie-et-secours"
 }
