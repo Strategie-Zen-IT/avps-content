@@ -7,7 +7,6 @@
     "superieurHierarchique": "Directeur de la direction des finances budgétaires",
     "placeOrganigramme": "Placée sous l'autorité du directeur",
     "relationsFonctionnelles": [
-      "Directions de la province Nord",
       "SAEML",
       "SPL"
     ],
@@ -20,7 +19,7 @@
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Possibilité d’être sollicité pour des rendus en urgence"
+        "value": "Possibilité d'être sollicité pour des rendus en urgence"
       },
       {
         "@type": "PropertyValue",
@@ -30,7 +29,7 @@
     ]
   },
   "alternateName": null,
-  "description": "La direction des finances et du budget de la province Nord est chargée de la gestion comptable budgétaire et financière. Elle prépare le budget de la province et assure le contrôle de son exécution tant en dépenses qu’en recettes. Elle remplit une mission de conseil et d’aide à la décision au travers des analyses rétrospectives et prospectives qu’elle produit et propose une stratégie soutenable des finances de la collectivité.",
+  "description": "La direction des finances et du budget de la province Nord est chargée de la gestion comptable budgétaire et financière. Elle prépare le budget de la province et assure le contrôle de son exécution tant en dépenses qu'en recettes. Elle remplit une mission de conseil et d'aide à la décision au travers des analyses rétrospectives et prospectives qu'elle produit et propose une stratégie soutenable des finances de la collectivité. La direction des finances et du budget présente une ossature composée de 3 pôles : Celui de support, enjeux stratégiques et budget.",
   "disambiguatingDescription": null,
   "identifier": "26-0407",
   "image": null,
@@ -56,16 +55,18 @@
   },
   "baseSalary": null,
   "datePosted": "2026-03-20",
-  "directApply": true,
+  "directApply": null,
   "educationRequirements": {
     "credentialCategory": "Bac+3",
     "competencyRequired": [
+      "Comptabilité et gestion",
+      "Finance",
       "Bonne connaissance des règles financières, budgétaire et comptable de la fonction publique et privée",
-      "Bonne connaissance de l’organisation administrative de la collectivité et des procédures administratives"
+      "Bonne connaissance de l'organisation administrative de la collectivité et des procédures administratives"
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : Au moins égale à 10 ans",
-  "employerOverview": "La direction des finances et du budget présente une ossature composée de 3 pôles : Celui de \"support\", \"enjeux stratégiques\" et \"budget\".",
+  "employerOverview": null,
   "employmentType": "FULL_TIME",
   "employmentUnit": null,
   "estimatedSalary": null,
@@ -95,32 +96,34 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "immédiatement",
   "occupationalCategory": [
     "Finances et budget"
   ],
   "physicalRequirement": null,
-  "qualifications": "Être titulaire du permis B",
+  "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé d’études",
+    "name": "Chargé d'études",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1901",
-      "name": "Analyse et ingénierie financière"
+      "name": "Analyse financière"
     }
   },
   "responsibilities": [
-    "La participation à la préparation du débat d’orientation budgétaire (DOB) à présenter à l’assemblée de province",
-    "La participation à l’élaboration du rapport annuel d’analyse financière de la collectivité sur l’année écoulée",
-    "La préparation de la séance plénière annuelle dédiée aux SAEML",
-    "L’analyse des comptes des SAEML et SPL dans lesquelles la province Nord détient une participation",
-    "La rédaction d’un rapport annuel sur la situation des SAEML et SPL et des engagements hors bilan",
-    "Le suivi des ratios en lien avec les engagements hors bilan",
-    "La mise en œuvre des outils de gestion de la dette et des garanties d’emprunt",
-    "Le suivi de la trésorerie",
-    "L’assistance aux directions",
-    "Le conseil et l’aide à la décision"
+    "Suivi des engagements hors bilan de la province",
+    "Production d'analyses financières",
+    "Participation à la préparation du débat d'orientation budgétaire (DOB) à présenter à l'assemblée de province",
+    "Participation à l'élaboration du rapport annuel d'analyse financière de la collectivité sur l'année écoulée",
+    "Préparation de la séance plénière annuelle dédiée aux SAEML",
+    "Analyse des comptes des SAEML et SPL dans lesquelles la province Nord détient une participation",
+    "Rédaction d'un rapport annuel sur la situation des SAEML et SPL et des engagements hors bilan",
+    "Suivi des ratios en lien avec les engagements hors bilan",
+    "Mise en œuvre des outils de gestion de la dette et des garanties d'emprunt",
+    "Suivi de la trésorerie",
+    "L'assistance aux directions",
+    "Le conseil et l'aide à la décision"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
@@ -130,16 +133,16 @@
     "Savoir analyser des comptes sociaux",
     "Connaître les ratios de la comptabilité privée",
     "Élaboration de tableaux de bords financiers et comptables",
-    "Méthode, rigueur et sens de l’organisation",
-    "Autonomie et esprit d’initiative",
-    "Capacité d’analyse et de réflexion",
+    "Méthode, rigueur et sens de l'organisation",
+    "Autonomie et esprit d'initiative",
+    "Capacité d'analyse et de réflexion",
     "Aptitude à travailler en équipe",
     "Qualité relationnelle et rédactionnelle",
     "Polyvalence et disponibilité",
     "Discrétion et sens du service public"
   ],
   "specialCommitments": null,
-  "title": "Chargé d’études Hors bilan",
+  "title": "Chargé d'études Hors bilan",
   "totalJobOpenings": 1,
   "validThrough": "2026-09-18",
   "workHours": null,
@@ -148,8 +151,9 @@
   "collectivite": "Province Nord",
   "direction": "PROVINCE NORD",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Ingénierie juridique",
   "famille_source": "respnc",
-  "famille_score": 0.898,
+  "famille_score": 0.9,
   "dossier": "ingenierie-juridique"
 }
