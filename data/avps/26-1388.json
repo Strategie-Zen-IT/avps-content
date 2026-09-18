@@ -1,0 +1,187 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "Section SI Télécom",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de la section SI Télécom",
+    "placeOrganigramme": "N-5 (par rapport au Directeur général)",
+    "relationsFonctionnelles": [
+      "Acteurs des métiers Télécom",
+      "Éditeurs",
+      "Fournisseurs",
+      "Prestataires"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions de travail",
+        "value": "2 jours de télétravail possibles"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fourniture de matériel",
+        "value": "Téléphone mobile de sécurité"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955296.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Intégré au sein d'une équipe de 8 agents, l'administrateur d'applications définit les procédures d'exploitation, assure les évolutions et la maintenance, et administre les systèmes d'information relevant du périmètre fonctionnel de la section SI Télécom.",
+  "disambiguatingDescription": "Poste d'administrateur d'applications SI Télécom au sein de la DSI de l'OPT.",
+  "identifier": "26-1388",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "DSI - Administrateur d'applications SI Télécom - Service Développement et Maintenance",
+  "owner": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "url": "https://www.opt.nc",
+    "logo": "https://avps.nc/logos/opt.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Direction générale",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 rue Paul Montchovet, Port Plaisance",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.76.00",
+    "email": "DRH-candidature@opt.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3",
+    "competencyRequired": [
+      "Connaissance de l'architecture standard d'un SI Télécom et des infrastructures Télécom",
+      "Connaissance d'outils de gestion collaborative Sharepoint Confluence",
+      "Connaissance d'outils de suivi des évolutions JIRA",
+      "Connaissance des systèmes d'exploitation Linux RHEL et Unix AIX",
+      "Connaissance SQL, Korn Shell, Java",
+      "Anglais technique lu et écrit"
+    ]
+  },
+  "eligibilityToWorkRequirement": ".",
+  "employerOverview": "L'Office des Postes et des Télécommunications de Nouvelle-Calédonie (OPT-NC) est l'employeur public de référence pour les services postaux et de télécommunications sur le territoire.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Office des Postes et des Télécommunications",
+    "url": "https://www.opt.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "2 ans d'expérience dans une activité similaire",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "url": "https://www.opt.nc",
+    "logo": "https://avps.nc/logos/opt.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Postes et télécommunications",
+  "jobBenefits": "2 jours de télétravail possibles, Téléphone mobile de sécurité",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Immeuble COPERNIC",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "59 Rue Georges Clémenceau",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Dès que possible",
+  "occupationalCategory": [
+    "Système d'information",
+    "Postes et télécommunications"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Administrateur d'Applications",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1801",
+      "name": "Administration de systèmes d'information"
+    }
+  },
+  "responsibilities": [
+    "Assurer la disponibilité et le bon fonctionnement des applications",
+    "Apporter un support technique et une assistance aux utilisateurs sur les applications dont il a la charge",
+    "Assurer la maintenance évolutive et corrective des applications en lien avec les éditeurs et fournisseurs",
+    "Superviser et surveiller les applications afin de garantir leur performance et leur stabilité",
+    "Rédiger et maintenir à jour la documentation technique ainsi que la base de connaissances associée"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Collaborer avec les acteurs des métiers Télécom",
+    "Conduire des projets techniques",
+    "Présenter et argumenter des recommandations",
+    "Garantir le bon fonctionnement d'un système de médiation Télécom",
+    "Gérer des relations avec un prestataire dans le cadre d'une TMA ou de développements tiers",
+    "Maintenance de documentation et de référentiels d'architecture technique",
+    "Accompagnement, conseil et support de ses collaborateurs",
+    "Motivation",
+    "Implication",
+    "Respect des engagements",
+    "Esprit d'initiative",
+    "Force de proposition",
+    "Facultés de communication",
+    "Écoute",
+    "Expression",
+    "Esprit d'équipe",
+    "Rigueur",
+    "Sens de la méthode",
+    "Probité",
+    "Autonomie"
+  ],
+  "specialCommitments": null,
+  "title": "Administrateur d'applications SI Télécom",
+  "totalJobOpenings": 5,
+  "validThrough": "2026-10-09",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "OPT",
+  "collectivite": "Office des postes et télécommunications",
+  "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Système d'information",
+  "famille_source": "respnc",
+  "famille_score": 0.993,
+  "dossier": "systeme-d-information"
+}
