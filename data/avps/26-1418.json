@@ -1,0 +1,153 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Emploi fonctionnel",
+    "direction": "CONSERVATOIRE DES ARTS",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Président du Conseil d'Administration",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Gouvernement de la Nouvelle-Calédonie",
+      "Conseil d'Administration",
+      "Collectivités publiques",
+      "Établissements et services publics à vocation culturelle"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Horaires atypiques selon les productions de spectacles du Conservatoire"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957714.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le Conservatoire des Arts de la Nouvelle-Calédonie est un établissement public de la Nouvelle-Calédonie. Ses missions sont à la fois pédagogiques et artistiques. Les missions pédagogiques consistent à dispenser l'enseignement de la musique et de la danse sur l'ensemble de la Nouvelle-Calédonie en liaison avec les différentes collectivités publiques. Les missions artistiques consistent à apporter un soutien aux activités pédagogiques de l'établissement. Ces missions peuvent être réalisées en relation avec les collectivités, établissements et services publics à vocation culturelle.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1418",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Directeur(trice)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Conservatoire des arts"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "avp.drhfpnc@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Formation supérieure",
+    "competencyRequired": [
+      "Certificat d'aptitude aux fonctions de professeur chargé de la direction des écoles territoriales de musique et de danse",
+      "Solide connaissance de l'organisation institutionnelle de la Nouvelle-Calédonie et des établissements publics",
+      "Solides connaissances de la gestion et de l'animation d'un établissement public à caractère culturel",
+      "Solides connaissances en gestion budgétaire comptable et financière"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Le Conservatoire des Arts de la Nouvelle-Calédonie est un établissement public de la Nouvelle-Calédonie. Ses missions sont à la fois pédagogiques et artistiques.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle sur un poste similaire dans le domaine culturel et de l'enseignement.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Conservatoire des arts"
+  },
+  "incentiveCompensation": null,
+  "industry": "Culture",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Conservatoire des Arts de la Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "17 avenue des Frères Carcopino",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-28",
+  "occupationalCategory": [
+    "Culture",
+    "Administration générale",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Certificat d'aptitude aux fonctions de professeur chargé de la direction des écoles territoriales de musique et de danse",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Directeur/trice",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2102",
+      "name": "Conception et pilotage de la politique culturelle et patrimoniale"
+    }
+  },
+  "responsibilities": [
+    "Nommé par le gouvernement de la Nouvelle-Calédonie, le directeur du CDANC est placé sous l'autorité du président du Conseil d'Administration de l'établissement",
+    "Exercer son autorité sur l'ensemble du personnel de l'établissement et préparer le projet d'Établissement",
+    "Préparer et exécuter les délibérations du conseil d'administration",
+    "Être ordonnateur des recettes et dépenses de l'établissement et rendre compte de l'activité annuelle de l'établissement",
+    "Assurer la direction pédagogique, l'encadrement et les orientations des enseignants",
+    "Assurer l'organisation des études et des évaluations",
+    "Prendre en charge la direction artistique des saisons de concerts, la programmation et la production des spectacles",
+    "Rendre compte au conseil d'administration et au gouvernement de l'avancement de l'ensemble des procédures concernant l'établissement",
+    "Conclure au nom de l'établissement toute convention ou contrat sur habilitation ou délégation du conseil d'administration"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Expérience en management notamment interculturel",
+    "Expérience de conduite de projets",
+    "Définition et exécution de budgets",
+    "Animation d'équipe",
+    "Sens de la diplomatie et de la négociation",
+    "Forte capacité d'anticipation",
+    "Initiative",
+    "Autonomie",
+    "Sens développé de l'organisation",
+    "Méthode",
+    "Rigueur",
+    "Forte capacité relationnelle",
+    "Aptitude à fédérer une équipe"
+  ],
+  "specialCommitments": null,
+  "title": "Directeur/trice",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-09",
+  "workHours": "Horaires atypiques selon les productions de spectacles du Conservatoire",
+  "champs_open_data": 8,
+  "employeur_sigle": "CDA-NC",
+  "collectivite": "Conservatoire des arts",
+  "direction": "CONSERVATOIRE DES ARTS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Pilotage",
+  "famille_source": "respnc",
+  "famille_score": 0.896,
+  "dossier": "pilotage"
+}
