@@ -1,0 +1,160 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Service des développements et des opérations (DEVOPS)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service DEVOPS",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Managers du service DEVOPS",
+      "Équipe de développement du service DEVOPS",
+      "Équipe chargée des infrastructures informatiques du SIL"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955296.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction du système d'information et du numérique de la province Sud (DSIN) tient un rôle essentiel dans la transformation opérée par la collectivité, et est responsable de la politique de développement du numérique. Sa nouvelle ambition est de faire de la donnée un axe prioritaire, et d'intégrer l'intelligence artificielle dans ses outils pour améliorer la performance de ses services. L'administrateur système applicatif assure la disponibilité, la performance et l'évolution des environnements applicatifs en s'appuyant sur l'automatisation et la standardisation des processus. Il garantit le bon fonctionnement des applications et contribue à l'optimisation des opérations IT.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1400",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Administrateur Système Applicatif",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.32.19",
+    "email": "mathieu.fabre@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Maîtrise des systèmes d'exploitation (Linux, Windows)",
+      "Maîtrise des outils d'automatisation et d'orchestration (Kubernetes, Docker)",
+      "Maîtrise des processus CI/CD et des outils associés (Jenkins, GitLab CI)",
+      "Connaissance des architectures applicatives et des principes de sécurité des systèmes d'information",
+      "Connaissance des environnements cloud (AWS, Azure, GCP)"
+    ]
+  },
+  "eligibilityToWorkRequirement": ".",
+  "employerOverview": "La province Sud place l'usager au cœur de ses priorités et a pour ambition de mener une véritable stratégie client. Leader en matière d'e-administration sur le territoire, son objectif est de tendre vers une administration 100% numérique afin de moderniser, de simplifier et d'optimiser les procédures administratives et les démarches des usagers.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "logo": "https://avps.nc/logos/pvs.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de province",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Administrateur d'applications",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1801",
+      "name": "Administration de systèmes d'information"
+    }
+  },
+  "responsibilities": [
+    "Assurer la disponibilité, la performance et l'évolution des environnements applicatifs en s'appuyant sur l'automatisation et la standardisation des processus",
+    "Garantir le bon fonctionnement des applications et contribuer à l'optimisation des opérations IT",
+    "Participer à des projets techniques d'envergure, notamment autour du DevOps, de l'intégration continue et des infrastructures applicatives",
+    "Concevoir, proposer et contribuer à la mise en place et à l'évolution de plateformes internes",
+    "Concevoir et proposer, en autonomie, des solutions techniques adaptées aux besoins, notamment sur des sujets transverses tels que l'observabilité, la supervision, l'automatisation et la performance",
+    "Prendre en charge le volet technique des projets, de l'analyse du besoin jusqu'à leur mise en production, en définissant les solutions, les étapes et les prérequis techniques",
+    "Coordonner les interventions techniques, identifier et suivre les risques techniques, et garantir la qualité, la cohérence et la sécurité des solutions mises en œuvre",
+    "Mettre en œuvre, administrer, maintenir et faire évoluer les composants logiciels d'infrastructure, ou coordonner leur réalisation selon les besoins du projet",
+    "Gérer ou superviser le traitement des incidents, analyser leurs causes et piloter les actions correctives, préventives et d'optimisation",
+    "D'apporter une expertise et une assistance technique aux équipes, de définir les procédures d'exploitation et de maintenir la documentation technique",
+    "Contribuer à l'intégration technique de nouvelles applications et d'accompagner leur mise en production",
+    "Réaliser une veille, des études techniques et des POC afin d'évaluer et de proposer des solutions d'évolution",
+    "Définir et de promouvoir les bonnes pratiques d'automatisation et de standardisation, et d'accompagner les équipes dans leur mise en œuvre"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Concevoir et proposer des solutions techniques adaptées aux besoins",
+    "Automatiser et standardiser les processus d'administration (Shell, Python, etc.)",
+    "Analyser et optimiser les performances des environnements applicatif",
+    "Diagnostiquer et traiter des problématiques complexes en environnement multi-technologique",
+    "Définir des solutions techniques standardisées, sécurisées et reproductibles",
+    "Apporter une expertise et coordonner des interventions techniques avec des équipes pluridisciplinaires",
+    "Autonomie, rigueur et sens des responsabilités",
+    "Capacité d'anticipation et force de proposition",
+    "Esprit d'analyse, de synthèse et de vulgarisation technique",
+    "Goût pour l'innovation et l'amélioration continue",
+    "Aisance relationnelle et goût du travail en équipe"
+  ],
+  "specialCommitments": null,
+  "title": "Administrateur Système Applicatif",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-09",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Système d'information",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "systeme-d-information"
+}
