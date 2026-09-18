@@ -1,0 +1,166 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Agent d'exploitation",
+    "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "Cellule guichet",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de cellule",
+    "placeOrganigramme": "N-4 (par rapport au directeur opérationnel)",
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions de travail",
+        "value": "horaires de travail du lundi au samedi en fonction du règlement intérieur de l'agence"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fourniture ou mise à disposition de matériels, biens ou services",
+        "value": "néant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Régimes indemnitaires rattachés au poste de travail",
+        "value": "Indemnités de guichet"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956094.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Accueillir et conseiller les clients dans la découverte de l'ensemble des offres et services proposés par l'OPT-NC. Vendre les produits et services adaptés à leur besoin, contribuer à la satisfaction de nos clients. Une opportunité dans un environnement stimulant et en constante évolution.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1387",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "DPS - Chargé(e) de contact clientèle - Agence de Nouméa Sud",
+  "owner": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.86.55",
+    "email": "DRH-candidature@opt.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Offre et réglementation des produits et services commercialisés par l'OPT",
+      "Organisation et fonctionnement de l'OPT-NC",
+      "Techniques de vente",
+      "Outils de bureautique, applications informatiques et logiciels de guichet",
+      "Techniques de gestes et postures",
+      "Règles d'hygiène et sécurité",
+      "Utiliser les applications informatiques 'métier'",
+      "Manipuler du numéraire, tenir une caisse"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Office des Postes et des Télécommunications",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Postes et télécommunications",
+  "jobBenefits": "Indemnités de guichet",
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Agence de Nouméa Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 rue Paul Montchovet, Port Plaisance",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Postes et télécommunications"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "CHARGE DE CONTACT CLIENTELE",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "I1306",
+      "name": "Accueil et services bancaires"
+    }
+  },
+  "responsibilities": [
+    "Commercialiser les produits et services de l'OPT-NC, apporter du conseil, contribuer au meilleur accueil et à la satisfaction des clients",
+    "Promouvoir les dispositifs de vente multi canal (téléphone, mail, formulaires en ligne ou guichet) et accompagner nos clients dans leur appropriation",
+    "Orienter les clients vers des interlocuteurs dédiés en fonction de leurs besoins",
+    "Réaliser les opérations courantes des produits et services de l'OPT-NC (traitement du courrier, colis, gestion des demandes financières, télécoms…)",
+    "Contribuer à l'amélioration de la qualité de nos services (être proactif, force de proposition dans l'organisation, remonter à sa hiérarchie les retours clients…)",
+    "Garantir la conformité des opérations dans le respect des règles, process et procédures",
+    "Garantir des opérations de gestion de caisse en respectant les méthodes de manipulations de fonds et en appliquant strictement les règles y afférentes",
+    "Contribuer à la meilleure efficacité collective de l'agence par la capacité à tenir d'autres positions, à élever son niveau de pratique, à tutorer (sur la base du volontariat) et conseiller ses collègues"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Gérer une relation client",
+    "Communiquer",
+    "Accueillir une personne, un groupe, du public",
+    "Mettre en œuvre une règle, une norme, une procédure, un protocole",
+    "Gérer une situation de crise, d'urgence ou dangereuse",
+    "Sens du service publique",
+    "Aisance relationnelle",
+    "Esprit d'initiative",
+    "Faculté d'adaptation",
+    "Être rigoureux",
+    "Faire preuve de discrétion",
+    "Avoir l'esprit d'équipe",
+    "Maîtrise de soi"
+  ],
+  "specialCommitments": null,
+  "title": "Chargé(e) de contact clientèle – Agence de Nouméa Sud",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-09",
+  "workHours": "horaires de travail du lundi au samedi en fonction du règlement intérieur de l'agence",
+  "champs_open_data": 7,
+  "employeur_sigle": "OPT",
+  "collectivite": "Office des postes et télécommunications",
+  "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Postes et télécommunications",
+  "famille_source": "respnc",
+  "famille_score": 0.746,
+  "dossier": "postes-et-telecommunications"
+}
