@@ -5,13 +5,17 @@
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Directeur de la PJEJ",
-    "placeOrganigramme": null,
-    "relationsFonctionnelles": [],
+    "placeOrganigramme": "Placé sous la responsabilité du directeur",
+    "relationsFonctionnelles": [
+      "Services concernés",
+      "Foyers et services de la DPJEJ",
+      "Réseau partenarial social de la Nouvelle-Calédonie"
+    ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Titulaire du permis de conduire B; Déplacements réguliers dans le cadre des activités sportives organisées; Transport et manutention de matériel"
+        "value": "Titulaire du permis de conduire B, déplacements réguliers dans le cadre des activités sportives organisées, transport et manutention de matériel"
       },
       {
         "@type": "PropertyValue",
@@ -89,7 +93,7 @@
   "employmentUnit": null,
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience dans la gestion et la préparation d'activités souhaitée",
+  "experienceRequirements": "Expérience dans la gestion et la préparation d'activités",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie",
@@ -102,7 +106,7 @@
   "jobImmediateStart": null,
   "jobLocation": {
     "@type": "Place",
-    "name": "DPJEJ",
+    "name": "Direction de la protection judiciaire de l'enfance et de la jeunesse",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -116,9 +120,9 @@
   "jobStartDate": "2026-12-02",
   "occupationalCategory": [
     "Animation",
-    "Action sociale"
+    "Education"
   ],
-  "physicalRequirement": null,
+  "physicalRequirement": "Transport et manutention de matériel",
   "qualifications": "Titulaire du permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
@@ -156,7 +160,7 @@
     "Capacité à développer et entretenir un réseau de partenaires",
     "Savoir rendre compte auprès de la hiérarchie."
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -183,6 +187,7 @@
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Animation",
   "famille_source": "respnc",
   "famille_score": 1.0,
