@@ -1,0 +1,191 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Service de pneumologie",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cadre supérieur de santé",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Equipe medicale",
+      "Equipe paramedicale",
+      "Services supports"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Duree de residence exigee",
+        "value": "Au moins egale a 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Postes a pourvoir",
+        "value": "1 poste immediatement, 1 poste au 1er octobre 2026, 1 poste susceptible d etre vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952050.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Integre au pole medecine, le service de pneumologie prend en charge notamment les pathologies bronchiques, PID et les maladies rares, cancers pulmonaires et divers appareillages.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1409",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "3 Infirmier(e)s en pneumologie",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouvelle-Caledonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": null,
+      "addressRegion": "Nouvelle-Caledonie",
+      "addressCountry": "NC"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.80.00",
+    "email": "recrutement@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": true,
+  "educationRequirements": {
+    "credentialCategory": "Diplome d Etat d infirmier / infirmiere en soins generaux",
+    "competencyRequired": [
+      "Formation AFGSU niveau 2",
+      "Formations complementaires en ventilation non invasive, oxygenotherapie, education therapeutique ou explorations fonctionnelles respiratoires"
+    ]
+  },
+  "eligibilityToWorkRequirement": ".",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Service de pneumologie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Experience souhaitee en pneumologie, soins respiratoires, reanimation legere ou soins critiques appreciee",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
+  },
+  "incentiveCompensation": null,
+  "industry": "Sante",
+  "jobBenefits": "Primes specifiques (nuit, week-end), Reprise de l anciennete possible selon la reglementation en vigueur, Grilles indiciaires de la fonction publique de Nouvelle-Caledonie, Prise en charge du billet aller uniquement",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Medipole Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Medipole Koutio",
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-09-18",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplome d Etat d infirmier / infirmiere en soins generaux",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Infirmier en soins generaux",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Infirmier / Infirmière en soins généraux"
+    }
+  },
+  "responsibilities": [
+    "Accueillir, informer et preparer les patient(e)s et leurs proches lors des consultations et hospitalisations",
+    "Realiser les soins infirmiers courants et techniques en pneumologie : surveillance respiratoire, administration d oxygene, gestion de la ventilation non invasive, soins d aspiration, aerosols et kinesitherapie respiratoire en collaboration avec les kinesitherapeutes",
+    "Identifier et prendre en charge les situations d urgence respiratoire, alerter et appliquer les protocoles adaptes",
+    "Participer aux evaluations cliniques et a la continuite des soins : surveillances, bilans, transmissions ciblees et redaction du dossier patient informatise",
+    "Contribuer aux programmes d education therapeutique, d apprentissage des techniques d autogestion (usage des inhalateurs, oxygene a domicile, VNI) et au suivi post-hospitalier",
+    "Collaborer etroitement avec l equipe medicale (pneumologues, internistes), paramedicale et les services supports (explorations fonctionnelles, radiologie, reeducation) pour organiser les parcours de soin",
+    "Accueillir, encadrer et former les etudiant(e)s et stagiaires affectes(e)s au service"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maitrise des protocoles d hygiene",
+    "Maitrise des materiels specifiques (VNI, monitors, dispositifs d oxygenotherapie)",
+    "Rigueur",
+    "Sens de l organisation",
+    "Autonomie",
+    "Capacite d adaptation",
+    "Excellent relationnel",
+    "Travail en equipe pluridisciplinaire",
+    "Gestion du stress",
+    "Discretion professionnelle",
+    "Accompagnement psycho-social des patients",
+    "Rigueur technique",
+    "Qualites relationnelles",
+    "Gestion des situations aigues",
+    "Coordination pluridisciplinaire",
+    "Education therapeutique"
+  ],
+  "specialCommitments": null,
+  "title": "Infirmier(e)s en pneumologie",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-10-09",
+  "workHours": "Travail en horaires adaptes a l activite du service (week-ends, nuit, jours feries et chome)",
+  "champs_open_data": 11,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.851,
+  "dossier": "sante-publique-soins"
+}
