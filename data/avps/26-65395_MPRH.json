@@ -8,19 +8,20 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Magistrats",
-      "Partenaires des champs judiciaire, éducatif, sanitaire, social et scolaire",
-      "Tribunal (PEAT)"
+      "Acteurs des champs judiciaire, éducatif, sanitaire, social et scolaire",
+      "Familles d'accueil",
+      "Structures d'hébergement collectif"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
-        "value": "Au moins égale à 5 ans"
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
       },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Faire preuve de souplesse dans l'organisation du temps de travail afin de répondre aux besoins des mineurs accompagnés; Participer aux permanences éducatives auprès du tribunal (PEAT)"
+        "value": "Faire preuve de souplesse dans l'organisation du temps de travail afin de répondre aux besoins des mineurs accompagnés. Participer aux permanences éducatives auprès du tribunal (PEAT)."
       },
       {
         "@type": "PropertyValue",
@@ -61,7 +62,7 @@
   },
   "alternateName": null,
   "description": "Par son implication dans une relation socio-éducative de proximité, inscrite dans la durée, l'éducateur spécialisé accompagne les mineurs et les jeunes majeurs en difficulté dans la mise en œuvre des mesures éducatives ordonnées par les magistrats. Ces interventions s'inscrivent dans le cadre de la justice pénale des mineurs (Code de la justice pénale des mineurs - CJPM) ou de la protection de l'enfance (articles 375 et suivants du Code civil), lorsque ces mesures sont confiées au Service Territorial Éducatif de Milieu Ouvert et d'Insertion (STEMOI).",
-  "disambiguatingDescription": "Recrutement d'un éducateur spécialisé pour l'UEMO Sud/Iles sous la DPJEJ.",
+  "disambiguatingDescription": "Recrutement d'un éducateur spécialisé pour l'UEMO Sud/Îles sous l'autorité de la DPJEJ.",
   "identifier": "26-65395/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -117,21 +118,21 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Unité Éducative de Milieu Ouvert (UEMO) Sud/Îles",
+    "name": "Service Territorial Éducatif de Milieu Ouvert et d'Insertion (STEMOI)",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Une expérience en Nouvelle-Calédonie est souhaitée, notamment dans l'accompagnement de mineurs confiés en famille d'accueil ou accueillis en structure d'hébergement collectif, et la mise en œuvre des mesures éducatives relevant de la protection judiciaire de l'enfance.",
+  "experienceRequirements": "Une expérience en Nouvelle-Calédonie est souhaitée, notamment dans l'accompagnement de mineurs confiés en famille d'accueil ou accueillis en structure d'hébergement collectif, et la mise en œuvre des mesures éducatives relevant de la protection judiciaire de l'enfance (CJPM).",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie",
     "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
   },
   "incentiveCompensation": null,
-  "industry": "Action sociale",
-  "jobBenefits": "Informations salaire disponibles sur https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
+  "industry": "Service public",
+  "jobBenefits": "Régime indemnitaire selon la grille de la fonction publique de Nouvelle-Calédonie.",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
