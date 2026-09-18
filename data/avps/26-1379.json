@@ -1,0 +1,183 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Agent technique",
+    "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "Section Magasins et Transports",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de la cellule Magasins et Transports",
+    "placeOrganigramme": "N-4 (par rapport au Directeur opérationnel)",
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Habilitations et permis",
+        "value": "Permis VL, PL et cariste"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions de travail",
+        "value": "Conditions physiques, Travaux insalubres ou dangereux, Milieux poussiéreux, bruyant ou odorant, Déplacements sur la Grande Terre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Matériels fournis",
+        "value": "Tél fixe/mobile de sécurité, EPI, Habillement complet"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Régime indemnitaire",
+        "value": "Indemnité mensuelle pour travaux insalubres ou dangereux selon le taux déclaré"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952104.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Réceptionner, mettre en rayon et livrer du matériel. Traiter les demandes internes sur Oracle STOCK et les réintégrations de matériel.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1379",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "DMI - Magasinier polyvalent - CENTRAL",
+  "owner": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "CENTAL",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1 rue Eiffel ZI Ducos",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.87.26",
+    "email": "DRH-candidature@opt.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Gestes et postures de manutention",
+      "Méthodes d'entreposage",
+      "Techniques d'inventaire",
+      "Règles d'hygiène et sécurité",
+      "Application informatique (ORACLE STOCK)",
+      "Outils de bureautique: EXCEL, WORD, OUTLOOK"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Section Magasins et Transports",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
+  },
+  "incentiveCompensation": "Indemnité mensuelle pour travaux insalubres ou dangereux selon le taux déclaré",
+  "industry": "Postes et télécommunications",
+  "jobBenefits": "Tél fixe/mobile de sécurité, EPI, Habillement complet",
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "CENTAL",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1 rue Eiffel ZI Ducos",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Postes et télécommunications",
+    "Entretien, surveillance et logistique"
+  ],
+  "physicalRequirement": "Conditions physiques, Travaux insalubres ou dangereux, Milieux poussiéreux, bruyant ou odorant",
+  "qualifications": "Permis VL, PL et cariste",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "MAGASINIER",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1103",
+      "name": "Magasinage et préparation de commandes"
+    }
+  },
+  "responsibilities": [
+    "Réceptionner et vérifier le matériel livré au CENTAL",
+    "Mettre en rayon la marchandise",
+    "Traiter les demandes internes de matériel sur l'application ORACLE et les demandes de travaux/transport des clients internes sur OTRS",
+    "Préparer, livrer du matériel et monter du mobilier",
+    "Réaliser l'inventaire de fin d'année",
+    "Collecter et trier le matériel réformé en vue de son retraitement (recyclage, destruction, vente...)",
+    "Ranger et nettoyer les aires de stockage",
+    "Dépoter des containers",
+    "Gérer les échanges et les nouvelles dotations en habillement des agents de l'OPT en l'absence du chef de cellule"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Reconnaître et vérifier les marchandises et produits",
+    "Mettre le matériel en rayon",
+    "Conduire des engins de portage",
+    "Préparer des commandes",
+    "Appliquer les règlements en vigueur",
+    "Savoir rédiger",
+    "Bonne qualité relationnelle",
+    "Rigueur",
+    "Disponibilité",
+    "Initiative",
+    "Réactivité",
+    "Méthodes et sens de l'organisation",
+    "Sens du travail en équipe",
+    "Aptitude au changement"
+  ],
+  "specialCommitments": "Déplacements sur la Grande Terre",
+  "title": "Magasinier polyvalent - CENTRAL",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-09",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "OPT",
+  "collectivite": "Office des postes et télécommunications",
+  "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Culture",
+  "famille_source": "respnc",
+  "famille_score": 0.873,
+  "dossier": "culture"
+}
