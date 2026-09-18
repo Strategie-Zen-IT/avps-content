@@ -1,0 +1,157 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Diététicien",
+    "direction": "AGENCE SANITAIRE ET SOCIALE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable du programme Centre d'éducation et de diabète",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Dispensaires de Poya à Poum",
+      "Programmes de l'agence"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Particularités du poste",
+        "value": "Déplacements dans les dispensaires de Poya à Poum, en Province nord côte ouest. Astreintes téléphoniques possibles lors des jours de congés."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952044.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'agence sanitaire et sociale de la Nouvelle-Calédonie, établissement public administratif, a pour objet de faciliter la garantie du droit à la santé pour tous. Elle met en œuvre les programmes prioritaires de prévention et de promotion de la santé décidés par la Nouvelle-Calédonie.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1369",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Diététicien(ne)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Agence sanitaire et sociale"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": null,
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.90.61",
+    "email": "recrutement@ass.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme de Diététicien",
+    "competencyRequired": [
+      "Diplôme de Diététicien exigé",
+      "Une troisième année Nutritionniste serait un plus",
+      "Formation en Education thérapeutique du patient (module de 40H)",
+      "Connaissance des institutions néo-calédoniennes du domaine sanitaire et social",
+      "Connaissance des habitudes de vie en Nouvelle-Calédonie"
+    ]
+  },
+  "eligibilityToWorkRequirement": ".",
+  "employerOverview": "L'agence sanitaire et sociale de la Nouvelle-Calédonie met en œuvre les programmes prioritaires de prévention et de promotion de la santé décidés par la Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience requise en animation de groupe, pédagogie de la maladie chronique, prise en charge du patient diabétique et prise en charge du patient obèse adulte et enfant.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Agence sanitaire et sociale"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Province Nord – Côte Ouest",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": null,
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Santé publique soins",
+    "Politique de santé publique"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B exigé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Diététicien",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Diététique"
+    }
+  },
+  "responsibilities": [
+    "La prise en charge diététique des patients diabétiques dans le cadre d'une prise en charge multidisciplinaire",
+    "La prise en charge diététique des adultes et des enfants obèses dans le cadre d'une prise en charge multidisciplinaire",
+    "La formation des personnels soignants sur l'approche diététique du patient diabétique ou obèse",
+    "L'animation en groupe, de séances de prévention et d'ateliers cuisine",
+    "Un travail de transversalité avec l'ensemble des programmes de l'agence",
+    "Répondre aux dispensaires par téléphone lors de ses jours de congés pour des raisons d'organisation et pour soutenir les équipes sur place"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Animation de groupe",
+    "Pédagogie de la maladie chronique",
+    "Prise en charge du patient diabétique",
+    "Prise en charge du patient obèse adulte et enfant",
+    "Dynamisme et capacité à travailler en équipe",
+    "Esprit d'analyse et de synthèse",
+    "Disponibilité",
+    "Mobilité"
+  ],
+  "specialCommitments": "Astreintes téléphoniques possibles lors des jours de congés",
+  "title": "Diététicien(ne)",
+  "totalJobOpenings": 5,
+  "validThrough": "2026-10-09",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "ASS-NC",
+  "collectivite": "Agence sanitaire et sociale",
+  "direction": "AGENCE SANITAIRE ET SOCIALE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
