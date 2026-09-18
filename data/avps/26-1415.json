@@ -1,0 +1,156 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "SERVICE CONSTRUCTION ET EXPLOITATION DES BATIMENTS",
+    "uniteOrganisationnelle": "Section exploitation bâtiments",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de la section exploitation bâtiments",
+    "placeOrganigramme": "Sous l'autorité du secrétaire général adjoint en charge du pôle aménagement",
+    "relationsFonctionnelles": [
+      "Secrétaire général adjoint en charge du pôle aménagement",
+      "Clients internes",
+      "Gestionnaires d'activité"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955524.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La ville de Nouméa et ses 1500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune. Sous l'autorité du secrétaire général adjoint en charge du pôle aménagement, le service construction et exploitation des bâtiments a pour mission de décliner les grandes orientations de la politique patrimoniale et immobilière de la Ville. Il établit et met en œuvre le plan pluriannuel de travaux dans une logique de création de valeur pour l'usager et d'optimisation. Il préserve et valorise les actifs de la Ville.",
+  "disambiguatingDescription": "Référent planification et coordination au sein de la section exploitation bâtiments de la Ville de Nouméa.",
+  "identifier": "26-1415",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Référent planification et coordination",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Mairie de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.07.10",
+    "email": "mickael.bachmann@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3/Bac+4",
+    "competencyRequired": [
+      "Maîtrise des règles d'urbanisme et de gestion du patrimoine immobilier",
+      "Maîtrise des techniques de construction et de la gestion des espaces",
+      "Maîtrise des procédures de contrôle",
+      "Connaissances des règles d'hygiène et de sécurité"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": "La ville de Nouméa et ses 1500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Section exploitation bâtiments",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Patrimoine bâti"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Référent planification et coordination",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2104",
+      "name": "Ingénierie et études du BTP"
+    }
+  },
+  "responsibilities": [
+    "Représenter ou assister le maître d'ouvrage sur les plans technique, administratif et financier lors des phases de programmation, conception et réalisation de projets neufs ou de restructuration lourde du patrimoine de la collectivité",
+    "Gérer les équipements techniques de la collectivité",
+    "Planifier, coordonner et gérer l'exécution des chantiers de travaux neufs ou d'entretien effectués par des entreprises extérieures ou par des ouvriers en régie",
+    "Superviser les études de faisabilité techniques, financières et administratives du projet en fonction de la commande reçue",
+    "Arbitrer la réalisation en régie des demandes d'intervention des clients internes et assurer le lien avec les clients internes et les gestionnaires d'activité",
+    "Superviser les travaux",
+    "Assurer la conformité des établissements recevant du public vis-à-vis de la réglementation en vigueur, notamment en matière de sécurité",
+    "Participer à la planification pluriannuelle des investissements et du budget"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Sens de l'analyse",
+    "Sens de la critique",
+    "Sens de l'organisation",
+    "Esprit d'initiative"
+  ],
+  "specialCommitments": null,
+  "title": "Référent planification et coordination",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-09",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "MAIRIE-DE-NOUMEA",
+  "collectivite": "Mairie de Nouméa",
+  "direction": "SERVICE CONSTRUCTION ET EXPLOITATION DES BATIMENTS",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Travail",
+  "famille_source": "respnc",
+  "famille_score": 0.738,
+  "dossier": "travail"
+}
