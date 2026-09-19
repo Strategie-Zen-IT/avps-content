@@ -1,0 +1,160 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "CHAMBRE D'AGRICULTURE ET DE LA PECHE",
+    "uniteOrganisationnelle": "Siège de la CAP-NC",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Président de la Chambre d'agriculture et de la pêche de Nouvelle-Calédonie",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Président de la Chambre d'agriculture et de la pêche de Nouvelle-Calédonie",
+      "Elus",
+      "Responsables de Pôles",
+      "Responsables de services",
+      "Partenaires institutionnels",
+      "Ressortissants"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Déplacements",
+        "value": "Déplacements possibles sur le Territoire et hors Territoire selon les missions"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957714.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous l’autorité du Président de la Chambre d'agriculture et de la pêche de Nouvelle-Calédonie, le Directeur général met en œuvre la politique et le projet de mandature définis par les élus, dont il est le garant, et s'assure du respect des objectifs définis, par ses équipes internes, auxquelles il définit et détermine les priorités opérationnelles. Il a le souci constant de déléguer, aux équipes opérationnelles internes, toute action / mission, lui permettant de se consacrer prioritairement aux enjeux et chantiers stratégiques. Il assure également, en complément des élus, la représentation de l’institution tant dans les entités institutionnelles, auprès des partenaires, que lors des événements auxquels la CAP-NC participe, comme invitée ou organisatrice.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1375",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Directeur général (H/F)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Chambre d'agriculture et de la pêche"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "rh@cap-nc.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-18",
+  "directApply": null,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Connaissance du fonctionnement d’une Chambre consulaire",
+      "Connaissances confirmées des secteurs liés à l’agriculture",
+      "Bonne connaissance des mécanismes de financements publics et de demandes de fonds (Europe, Régional, Nouvelle-Calédonie, etc.)",
+      "Forte connaissance du tissu économique, social et politique de la Nouvelle-Calédonie"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "5 ans d’expérience professionnelle minimum dans une fonction similaire",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Chambre d'agriculture et de la pêche"
+  },
+  "incentiveCompensation": null,
+  "industry": "Agriculture",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Siège de la CAP-NC",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "3 rue Desmazures, Immeuble La Flottille, Centre-Ville",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Pilotage",
+    "Agriculture et mer"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Directeur",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2102",
+      "name": "Direction de grande entreprise ou d'établissement public"
+    }
+  },
+  "responsibilities": [
+    "Être à l’écoute des élus, les seconder, les accompagner, les conseiller et se montrer, de manière constante, force de proposition pour participer de manière active aux projets et ambitions de la mandature",
+    "Être acteur de la mise en œuvre des orientations stratégiques portées par les élus tout en faisant preuve d'adaptabilité et d'initiative pour proposer d'éventuels ajustements, si le contexte le requiert",
+    "Être un acteur de la promotion des projets, portés par la CAP-NC, auprès des différents partenaires pour rechercher, notamment, des financements nécessaires à leur mise en œuvre",
+    "Effectuer une veille active des changements de tout ordre (juridique, réglementaire, politique, économique, technologique…) susceptibles d'impacter le monde agricole et les ressortissants",
+    "Structurer les comités de direction, les bureaux et les assemblées générales et veiller à leur bonne animation, soit en nom propre, soit par voie de délégation",
+    "Assurer la responsabilité du respect des objectifs opérationnels (en lien avec les objectifs stratégiques) en s'assurant, auprès des responsables de Pôles et/ou services, de l'avancement des différents projets, via la mise en œuvre d'une supervision des actions et d'un reporting, partagés avec les élus du Bureau",
+    "Superviser et valider les budgets présentés par les responsables de pôles ou de services",
+    "Favoriser et coordonner les actions permettant de développer les services marchands (prestations, formations)",
+    "Coordonner, structurer et superviser la coordination de la gestion de projets en collaboration avec les élus, les responsables de pôles et de services et les partenaires institutionnels, et ce en veillant à la plus grande transversalité des modes de travail internes",
+    "Être garant, en collaboration avec le responsable du Pôle Support, que la gestion administrative soit strictement réalisée dans les règles et les délais impartis",
+    "Coordonner la gestion des ressources humaines et opérer un management constant permettant de mesurer la qualité du travail, le volontarisme et le dynamisme de chacun",
+    "Répartir le travail de chacun avec clarté, gouverner par l’exemple, mettre en œuvre des critères pertinents d’évaluation, valider formellement avec les élus le mode de gestion des difficultés entre les ressortissants et les agents de la Chambre",
+    "Être le garant, auprès de tous les salariés, de la culture consulaire, en apportant notamment le plus grand soin à la compréhension, par les collaborateurs de la CAP-NC, des enjeux, attentes et problématiques des ressortissants",
+    "Représenter, être force de proposition et porter l'action et les projets de la CAP-NC auprès des différents partenaires institutionnels, sur instruction des élus",
+    "Représenter, être force de proposition et porter l'action et les projets de la CAP-NC dans les différentes réunions ou assemblées à caractère stratégique, sur instruction des élus",
+    "Défendre les intérêts et les projets de la Chambre auprès des différents partenaires (institutions, financiers, OPA, clusters, etc.), sur instruction des élus, en étant toujours force de proposition",
+    "Être garant, en collaboration avec le service concerné, que la communication interne et externe, répond aux différents enjeux et objectifs déterminés par les élus (communication externe) et/ou le Comité de direction et les IRP (communication interne)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Compétences et expérience forte exigées en termes de management et conduite d'équipes",
+    "Savoir conduire et accompagner le changement, avec persévérance et discernement",
+    "Être force de proposition proactive, tant auprès des équipes internes qu'auprès des élus",
+    "Sens de l’analyse, de la synthèse et de l’anticipation",
+    "Capacité à réaliser des arbitrages en termes de management et de conduite opérationnelle",
+    "Fort leadership, esprit volontariste, entreprenant et dynamique",
+    "Capacité à faire preuve d'initiative lorsque la situation l'exige",
+    "Sens politique : réalisme, diplomatie, assertivité, grande discrétion professionnelle",
+    "Capacité de compréhension et de communication dans un contexte interculturel fort",
+    "Forte résistance au stress",
+    "Charisme et aisance à l’oral"
+  ],
+  "specialCommitments": null,
+  "title": "DIRECTEUR GENERAL (H/F)",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-09",
+  "workHours": null,
+  "champs_open_data": 6,
+  "employeur_sigle": "CHAMBRE D'AGRICULTURE ET DE LA PÊCHE",
+  "collectivite": "Chambre d'agriculture et de la pêche",
+  "direction": "CHAMBRE D'AGRICULTURE ET DE LA PECHE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Pilotage",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "pilotage"
+}
