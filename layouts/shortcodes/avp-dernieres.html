@@ -1,0 +1,17 @@
+{{- /*
+  Les dernières offres publiées, en grille de cartes.
+  Paramètre optionnel `nb` (défaut 6) : volontairement court, l'accueil n'est pas une
+  page de résultats — le menu latéral et les taxonomies sont là pour ça.
+*/ -}}
+{{- $nb := int (.Get "nb" | default 6) }}
+{{- $actives := partial "avp-actives.html" (where site.RegularPages "Params.ref" "!=" nil) }}
+{{- $recentes := first $nb (sort $actives "Date" "desc") }}
+{{- with $recentes }}
+<section class="avp-dernieres" aria-label="Dernières offres publiées">
+  <div class="avp-dernieres__entete">
+    <h2 class="avp-dernieres__titre">Dernières offres publiées</h2>
+    <a class="avp-dernieres__tout" href="{{ "collectivites/" | relLangURL }}">Parcourir par employeur <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+  </div>
+  {{ partial "avp-cards-list.html" . }}
+</section>
+{{- end }}

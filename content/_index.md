@@ -32,4 +32,6 @@ Chaque fiche renvoie au **PDF officiel** de l'avis, qui fait seule foi, ainsi qu
 coordonnées de candidature. Les dossiers se déposent auprès de la collectivité qui
 recrute, jamais auprès de ce site.
 
+{{< avp-dernieres nb="6" >}}
+
 {{< avp-map >}}

@@ -1,10 +1,15 @@
 ---
 title: "À propos de la plateforme"
-description: "Comment les fiches d'offres sont produites automatiquement à partir des données ouvertes."
+description: "Comment les fiches d'offres sont produites automatiquement à partir des données ouvertes, et comment les réutiliser."
 archetype: "page"
 disableNextPrev: true # Évite que les flèches de navigation cyclent sur cette page
 
 hidden: true
+
+# L'ancienne page « Développeurs » a été fusionnée ici (19/09/2026) : une page entière
+# pour la réutilisation des données était disproportionnée au regard de son audience.
+# L'alias évite que son URL, déjà publiée et indexable, ne réponde 404.
+aliases: ["/developpeurs/"]
 
 ---
 
@@ -42,11 +47,25 @@ automatiquement : en cas de divergence, c'est le document d'origine qui prime.
 Le code source du site est consultable sur GitHub :
 [avps-content](https://github.com/Strategie-Zen-IT/avps-content).
 
----
+### 🔓 Réutiliser les données
 
-### 🛠️ Informations de build (suivi technique)
+Il n'y a **pas d'API** sur ce site, et c'est délibéré : les données sont exposées en
+fichiers statiques, que n'importe quel client HTTP peut lire directement. Rien à
+demander, aucune clé, aucune limite de débit.
 
-Pour garantir la traçabilité de l'application, les indicateurs de révision système sont
-injectés à chaque déploiement :
+| Ressource | Adresse | Format |
+|---|---|---|
+| Données source officielles | [data.gouv.nc](https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc) | Parquet, CSV, JSON |
+| Fiche structurée d'une offre | balisage embarqué dans chaque page | Schema.org/JobPosting |
+| Flux des dernières offres | `/index.xml` | RSS |
+| Flux pour agrégateurs d'emploi | `/flux_ats.xml` | XML |
+| Plan de site des offres | `/jobs-sitemap.xml` | Google Jobs |
 
-{{< build-info >}}
+Chaque offre porte, au-delà des champs standard : la **collectivité** qui recrute (elle
+seule est l'employeur), la **direction** de rattachement, la **famille de métier** du
+référentiel RESPNC et son **code ROME**, ainsi que le géocodage du lieu de travail.
+
+**Deux mises en garde.** Le PDF officiel fait seul foi : en cas de divergence, référez-vous
+au document d'origine, dont l'adresse figure sur chaque offre. Et ne réutilisez pas ce site
+comme employeur : chaque offre a le sien, un agrégateur qui afficherait « avps.nc » comme
+entreprise recruteuse enverrait les candidats au mauvais endroit.

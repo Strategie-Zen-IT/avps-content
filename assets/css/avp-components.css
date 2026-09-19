@@ -1,15 +1,3 @@
-/* ==========================================================================
-   Composants AVP — styles extraits des templates (fin des styles inline).
-   Chargé une seule fois via custom-header.html.
-   ========================================================================== */
-
-/* --- Liste de cartes d'AVP (shortcode list-avps / partial avp-cards-list) --- */
-.avp-cards-list {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-  margin-top: 1.5rem;
-}
 
 .avp-list-card__title {
   margin-top: 0;
@@ -194,17 +182,6 @@
   border-top: 1px solid var(--CARD-BORDER-color);
 }
 
-/* ---- Identité avps : cartes, bandeau d'accueil, badges ------------------- */
-.avp-list-card {
-  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
-  border-left: 5px solid var(--INTERNAL-PRIMARY-color, #0F6E56);
-  border-radius: 14px;
-  padding: 1.1rem 1.3rem;
-  background: var(--INTERNAL-MAIN-BG-color, #fffdf9);
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
-  transition: transform 0.15s, box-shadow 0.15s;
-  position: relative;
-}
 .avp-list-card:hover {
   transform: translateY(-2px);
   box-shadow: 0 8px 22px rgba(15, 110, 86, 0.12);
@@ -310,34 +287,7 @@
    ========================================================================== */
 
 /* Titres : le thème force les H1 en capitales, ce qui ne convient pas à un serif. */
-#R-body h1, #R-body-inner h1, #R-sidebar h1 {
-  text-transform: none;
-}
 
-/* --- En-tête de fiche --- */
-.avp-header-wrapper {
-  position: relative;
-}
-.avp-banner-actions {
-  display: flex;
-  justify-content: flex-end;
-  gap: 0.5rem;
-  margin: 0 0 0.75rem;
-}
-.avp-dynamic-banner {
-  margin: 0 0 1.25rem;
-  border-radius: 14px;
-  overflow: hidden;
-  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
-  aspect-ratio: 16 / 9;
-  background: var(--CODE-BLOCK-BG-color, #f7f3eb);
-}
-.avp-dynamic-banner img {
-  display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
 .avp-stamp-qrcode {
   float: right;
   margin: 0 0 1rem 1.25rem;
@@ -375,16 +325,6 @@
   overflow: hidden;
   margin: 1rem 0 1.5rem;
   clear: both;
-}
-.avp-info-table th,
-.avp-info-table td {
-  padding: 0.6rem 0.9rem;
-  border-bottom: 1px solid var(--CARD-BORDER-color, #e2dacb);
-  vertical-align: top;
-}
-.avp-info-table tr:last-child th,
-.avp-info-table tr:last-child td {
-  border-bottom: 0;
 }
 .avp-info-table th[scope="row"] {
   width: 34%;
@@ -563,29 +503,10 @@
   border: 0;
 }
 
-/* --- Mini QR code des cartes de liste : en haut à droite, hors du flux du texte --- */
-.avp-list-card {
-  padding-right: 100px;
-}
-.avp-card-qrcode-container {
-  position: absolute;
-  top: 1rem;
-  right: 1rem;
-  width: 65px;
-  height: 65px;
-}
 @media (max-width: 600px) {
-  .avp-list-card { padding-right: 1.3rem; }
   .avp-card-qrcode-container { display: none; }
 }
 
-/* --- Ligne employeur en tête de fiche --- */
-.avp-info-employeur td {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  flex-wrap: wrap;
-}
 .avp-employeur-logo {
   height: 32px;
   max-width: 120px;
@@ -595,16 +516,9 @@
   padding: 2px 4px;
   border: 1px solid var(--CARD-BORDER-color, #e2dacb);
 }
-.avp-info-employeur .avp-employeur-logo {
-  margin: 0;              /* le thème centre les images de tableau : on garde le logo à gauche */
-}
 .avp-info-employeur td {
   justify-content: flex-start !important;
   text-align: left;
-}
-.avp-info-employeur .avp-employeur-logo {
-  margin: 0 !important;
-  display: inline-block;
 }
 
 /* --- Index d'une taxonomie (collectivités, communes, corps…) -------------- */
@@ -658,4 +572,663 @@
   font-weight: 700;
   white-space: nowrap;
   flex-shrink: 0;
+}
+
+/* ==========================================================================
+   FICHE D'OFFRE — refonte 19/09/2026.
+   Le grand tableau à deux colonnes est remplacé par : une bannière portant le QR et
+   l'échéance, une bande de faits, un bloc d'action, puis le détail en listes de
+   définitions. Objectif : une lecture par blocs, et une silhouette qui n'est plus celle
+   d'une page de documentation.
+   ========================================================================== */
+
+.avp-fiche {
+  margin-bottom: 2rem;
+}
+
+/* ---- Bannière ---------------------------------------------------------- */
+.avp-banner {
+  position: relative;
+  margin: 0 0 1.75rem;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  background: var(--CODE-BLOCK-BG-color, #f7f3eb);
+  aspect-ratio: 16 / 9;
+}
+.avp-banner img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin: 0 !important;
+}
+/* Bannière absente (quota du modèle d'image au moment de la publication) : on efface le
+   cadre plutôt que d'exposer une zone vide. Le QR repart dans le bloc « Candidater ». */
+.avp-banner--absente {
+  display: none;
+}
+.avp-banner__badge {
+  position: absolute;
+  top: 0.9rem;
+  right: 0.9rem;
+}
+.avp-banner__qr {
+  position: absolute;
+  left: 0.9rem;
+  bottom: 0.9rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.5rem 0.55rem 0.4rem;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.94);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.18);
+}
+.avp-banner__qr-label,
+.avp-apply__qr-label {
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #0F6E56;
+}
+.avp-qrcode-zone {
+  width: 96px;
+  height: 96px;
+  line-height: 0;
+}
+.avp-qrcode-zone img,
+.avp-qrcode-zone canvas {
+  display: block;
+  margin: 0 !important;
+  width: 96px !important;
+  height: 96px !important;
+}
+
+/* ---- Bande de faits ----------------------------------------------------- */
+/* Cartes indépendantes en flux : une grille laissait des cellules vides teintées sur la
+   dernière ligne dès que le nombre de faits ne tombait pas juste. */
+.avp-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 0 0 1.75rem;
+  padding: 0;
+}
+.avp-facts__item {
+  flex: 1 1 200px;
+  margin: 0;
+  padding: 0.8rem 1rem;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  border-radius: 12px;
+  background: var(--INTERNAL-MAIN-BG-color, #fffdf9);
+}
+.avp-facts__item--employeur,
+.avp-facts__item--famille {
+  flex-grow: 1.6;
+}
+.avp-facts dt {
+  margin: 0 0 0.3rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.6;
+}
+.avp-facts dd {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.35;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+.avp-facts__logo {
+  height: 30px;
+  max-width: 92px;
+  object-fit: contain;
+  margin: 0 !important;
+  background: #fff;
+  border-radius: 5px;
+  padding: 2px;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+}
+.avp-facts__item--famille dd {
+  gap: 0.3rem;
+}
+
+/* ---- Bloc d'action « Candidater » --------------------------------------- */
+.avp-apply {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin: 0 0 2rem;
+  padding: 1.35rem 1.5rem;
+  border-radius: 16px;
+  border: 1px solid var(--INTERNAL-PRIMARY-color, #0F6E56);
+  background: color-mix(in srgb, var(--INTERNAL-PRIMARY-color, #0F6E56) 7%, transparent);
+}
+.avp-apply--rappel {
+  margin-top: 2.5rem;
+}
+.avp-apply__main {
+  flex: 1 1 320px;
+}
+.avp-apply__title {
+  margin: 0 0 0.6rem !important;
+  padding: 0 !important;
+  border: 0 !important;
+  font-size: 1.3rem;
+  text-transform: none;
+}
+.avp-apply__deadline {
+  margin: 0 0 0.9rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.avp-apply__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.6rem 1.15rem;
+  border-radius: 999px;
+  background: var(--INTERNAL-PRIMARY-color, #0F6E56);
+  color: #fff !important;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+.avp-apply__btn:hover {
+  background: var(--INTERNAL-PRIMARY-HOVER-color, #0A4F3E);
+}
+.avp-apply__contact {
+  list-style: none;
+  margin: 0.9rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.4rem;
+  font-size: 0.92rem;
+}
+.avp-apply__contact li {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+.avp-apply__note {
+  margin: 0.9rem 0 0;
+  font-size: 0.83rem;
+  line-height: 1.5;
+  opacity: 0.85;
+}
+.avp-apply__qr {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.5rem 0.55rem 0.4rem;
+  border-radius: 10px;
+  background: #fff;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+}
+
+/* ---- Détail en listes de définitions ------------------------------------ */
+.avp-detail {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1rem 1.75rem;
+  margin: 0 0 2rem;
+  padding: 0;
+}
+.avp-detail > div {
+  margin: 0;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--CARD-BORDER-color, #e2dacb);
+}
+.avp-detail__large {
+  grid-column: 1 / -1;
+}
+.avp-detail dt {
+  margin: 0 0 0.25rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.6;
+}
+.avp-detail dd {
+  margin: 0;
+  line-height: 1.45;
+}
+
+/* ---- Carte de localisation ---------------------------------------------- */
+.avp-map-note {
+  margin: 0.6rem 0 0;
+  font-size: 0.8rem;
+  opacity: 0.7;
+}
+
+/* ---- Rebonds de fin de fiche -------------------------------------------- */
+.avp-explorer {
+  margin: 2.5rem 0 0;
+}
+.avp-explorer__title {
+  margin: 0 0 0.9rem !important;
+  padding: 0 !important;
+  border: 0 !important;
+  font-size: 1.15rem;
+  text-transform: none;
+}
+.avp-explorer__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.avp-explorer__list a {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.45rem;
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  background: var(--INTERNAL-MAIN-BG-color, #fffdf9);
+  text-decoration: none !important;
+  color: inherit !important;
+  font-size: 0.9rem;
+}
+.avp-explorer__list a:hover {
+  border-color: var(--INTERNAL-PRIMARY-color, #0F6E56);
+}
+.avp-explorer__quoi {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  opacity: 0.6;
+}
+
+/* ---- Ligne de révision (une seule ligne) -------------------------------- */
+.avp-build-info {
+  margin: 0;
+  font-size: 0.68rem;
+  opacity: 0.5;
+  padding: 10px;
+  text-align: center;
+  border-top: 1px solid var(--CARD-BORDER-color, #e2dacb);
+}
+
+@media (max-width: 680px) {
+  .avp-apply {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .avp-apply__qr {
+    align-self: flex-start;
+  }
+  .avp-banner__qr {
+    left: 0.6rem;
+    bottom: 0.6rem;
+    padding: 0.35rem 0.4rem 0.3rem;
+  }
+  .avp-qrcode-zone,
+  .avp-qrcode-zone img,
+  .avp-qrcode-zone canvas {
+    width: 68px !important;
+    height: 68px !important;
+  }
+  .avp-banner__qr-label {
+    display: none;
+  }
+}
+
+/* ---- Étiquettes de tête de fiche ---------------------------------------- */
+/* Le thème dessine des fanions fléchés (triangle en ::before, pastille en ::after) :
+   c'est une signature visuelle très reconnaissable. On repasse en pilules sobres. */
+article .R-taxonomy.tags a.term-link {
+  background-color: transparent;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  border-radius: 999px;
+  box-shadow: none;
+  color: var(--INTERNAL-MAIN-TEXT-color, #222) !important;
+  font-weight: 500;
+  line-height: 1.9em;
+  margin: 0 0.4rem 0.45rem 0;
+  padding: 0 0.85rem;
+}
+article .R-taxonomy.tags a.term-link:hover {
+  border-color: var(--INTERNAL-PRIMARY-color, #0F6E56);
+  color: var(--INTERNAL-PRIMARY-color, #0F6E56) !important;
+}
+article .R-taxonomy.tags a.term-link:before,
+article .R-taxonomy.tags a.term-link:after {
+  content: none;
+}
+
+/* ==========================================================================
+   SILHOUETTE — écarts assumés par rapport à la mise en page par défaut du thème.
+   ========================================================================== */
+
+/* Titres alignés à gauche. Le thème centre les H1 d'article et les met en capitales :
+   c'est une mise en page de documentation, pas d'offre d'emploi, et c'est l'un des
+   traits les plus reconnaissables. */
+#R-body-inner > .flex-block-wrapper article h1,
+#R-body-inner > .flex-block-wrapper article.narrow h1,
+#R-body h1,
+#R-sidebar h1 {
+  text-align: left;
+  text-transform: none;
+  padding-inline-start: 0;
+  font-size: clamp(1.75rem, 3.4vw, 2.6rem);
+  line-height: 1.12;
+  margin-bottom: 1.25rem;
+  /* Le thème pose `overflow-x: hidden` sur les h1 pour éviter un débordement horizontal.
+     Or dès qu'un seul axe vaut `hidden`, l'autre passe de `visible` à `auto` : avec notre
+     police à empattements et notre interligne, le texte frôlait la boîte et un ascenseur
+     VERTICAL apparaissait sur le titre. On rétablit `visible` sur les deux axes et on
+     garde la césure, qui suffit à empêcher le débordement. */
+  overflow: visible;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+/* H2 : filet court au-dessus plutôt qu'un simple gros texte. */
+#R-body h2 {
+  margin-top: 2.25rem;
+  padding-top: 0.75rem;
+  border-top: 2px solid color-mix(in srgb, var(--INTERNAL-PRIMARY-color, #0F6E56) 35%, transparent);
+  font-size: 1.45rem;
+}
+/* …sauf pour les blocs qui portent déjà leur propre cadre. */
+.avp-apply__title,
+.avp-explorer__title,
+.avp-hero__title {
+  border-top: 0 !important;
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+/* Pied de la barre latérale. */
+.avp-menu-footer {
+  margin: 0;
+  padding: 0 1rem;
+  font-size: 0.72rem;
+  line-height: 1.5;
+  opacity: 0.7;
+  text-align: center;
+}
+
+/* ==========================================================================
+   LISTES D'OFFRES — grille de cartes.
+   ========================================================================== */
+.avp-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.1rem;
+  margin: 1.5rem 0 2.5rem;
+}
+.avp-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  padding: 1.1rem 1.25rem 1rem;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  border-top: 4px solid var(--famille-couleur, #6B7280);
+  border-radius: 14px;
+  background: var(--INTERNAL-MAIN-BG-color, #fffdf9);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+.avp-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 26px rgba(15, 110, 86, 0.13);
+}
+.avp-card__top {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  min-height: 1.6rem;
+}
+.avp-card__famille {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--famille-couleur, #6B7280);
+}
+.avp-card__title {
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  font-size: 1.12rem;
+  line-height: 1.3;
+}
+.avp-card__title a {
+  text-decoration: none;
+}
+.avp-card__employeur {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+  font-size: 0.92rem;
+}
+.avp-card__logo {
+  height: 24px;
+  max-width: 64px;
+  object-fit: contain;
+  margin: 0 !important;
+  background: #fff;
+  border-radius: 4px;
+  padding: 1px 2px;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+}
+.avp-card__meta {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 1rem;
+  font-size: 0.84rem;
+  opacity: 0.8;
+}
+.avp-card__meta span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+.avp-card__summary {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  opacity: 0.9;
+}
+.avp-card__more {
+  margin: auto 0 0;
+  padding-top: 0.35rem;
+}
+.avp-card__more a {
+  font-size: 0.88rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+/* Mini QR injecté par JS en fin de carte : placé en bas à droite, au niveau du lien
+   « Voir l'offre ». En haut il chevauchait les titres longs, très fréquents ici. */
+.avp-card__more {
+  padding-right: 78px;
+}
+.avp-card-qrcode-container {
+  position: absolute;
+  right: 1.1rem;
+  bottom: 1rem;
+  width: 65px;
+  height: 65px;
+  line-height: 0;
+}
+.avp-card-qrcode-container img,
+.avp-card-qrcode-container canvas {
+  margin: 0 !important;
+}
+@media (max-width: 520px) {
+  .avp-card__more { padding-right: 0; }
+  .avp-card-qrcode-container { display: none; }
+}
+
+/* ---- Dernières offres sur l'accueil ------------------------------------- */
+.avp-dernieres {
+  margin: 2.5rem 0;
+}
+.avp-dernieres__entete {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+}
+.avp-dernieres__titre {
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  font-size: 1.45rem;
+}
+.avp-dernieres__tout {
+  font-size: 0.9rem;
+  font-weight: 600;
+  white-space: nowrap;
+  text-decoration: none;
+}
+.avp-dernieres .avp-cards {
+  margin-top: 1rem;
+}
+
+/* ---- Garde-fous mobile -------------------------------------------------- */
+/* Une étiquette très longue (« DIRECTION PROVINCIALE DE L'ACTION SANITAIRE ET SOCIALE »)
+   dépassait la largeur de l'écran et faisait défiler toute la page horizontalement. */
+article .R-taxonomy.tags a.term-link {
+  max-width: 100%;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  line-height: 1.7;
+  padding-top: 0.15rem;
+  padding-bottom: 0.15rem;
+}
+/* Le thème déclare `dd { display: list-item; list-style: disc; margin-inline-start: 1.5rem }` :
+   toutes nos listes de définitions héritaient donc d'une puce et d'un retrait. Ce sont des
+   tableaux de faits, pas des énumérations. */
+.avp-facts dd,
+.avp-detail dd,
+.avp-hero__kpis dd {
+  display: block;
+  list-style: none;
+  margin-inline-start: 0;
+}
+.avp-facts dd::marker,
+.avp-detail dd::marker,
+.avp-hero__kpis dd::marker {
+  content: none;
+}
+/* Aucun bloc de la fiche ne doit déborder de la colonne de contenu. */
+.avp-fiche,
+.avp-facts,
+.avp-apply,
+.avp-cards {
+  max-width: 100%;
+}
+.avp-facts__item {
+  min-width: 0;
+}
+.avp-card {
+  min-width: 0;
+}
+.avp-card__title,
+.avp-card__summary,
+.avp-facts dd {
+  overflow-wrap: anywhere;
+}
+
+/* ---- Ascenseur parasite sur les titres ---------------------------------- */
+/* Le thème pose `overflow-x: hidden` sur h1 à h6 pour éviter un débordement horizontal.
+   Or dès qu'un seul axe vaut `hidden`, l'autre passe de `visible` à `auto` : un ascenseur
+   VERTICAL apparaissait sur les titres dont le texte frôle la boîte — accueil comprise.
+   La césure et la coupure de mots suffisent à empêcher le débordement horizontal. */
+#R-body h1, #R-body h2, #R-body h3, #R-body h4, #R-body h5, #R-body h6,
+.avp-hero__title, .avp-apply__title, .avp-explorer__title, .avp-dernieres__titre {
+  overflow: visible;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+/* ---- « Ce poste est pour vous si… » -------------------------------------- */
+.avp-eligibilite {
+  margin: 0 0 1.75rem;
+  padding: 1.2rem 1.4rem 1rem;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  border-left: 4px solid var(--INTERNAL-ACCENT-color, #D9A441);
+  border-radius: 14px;
+  background: var(--INTERNAL-MAIN-BG-color, #fffdf9);
+}
+.avp-eligibilite__titre {
+  margin: 0 0 0.9rem !important;
+  padding: 0 !important;
+  border: 0 !important;
+  font-size: 1.2rem;
+  text-transform: none;
+}
+.avp-eligibilite__liste {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.6rem;
+}
+.avp-eligibilite__liste li {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  gap: 0.25rem 1rem;
+  align-items: baseline;
+  padding-left: 1.5rem;
+  position: relative;
+  line-height: 1.45;
+}
+/* Coche dessinée en CSS : pas d'emoji, dont le rendu varie beaucoup d'un appareil à l'autre. */
+.avp-eligibilite__liste li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.35em;
+  width: 0.55rem;
+  height: 0.3rem;
+  border-left: 2px solid var(--INTERNAL-PRIMARY-color, #0F6E56);
+  border-bottom: 2px solid var(--INTERNAL-PRIMARY-color, #0F6E56);
+  transform: rotate(-45deg);
+}
+.avp-eligibilite__quoi {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  opacity: 0.6;
+}
+.avp-eligibilite__valeur {
+  font-weight: 500;
+}
+.avp-eligibilite__note {
+  margin: 1rem 0 0;
+  font-size: 0.8rem;
+  opacity: 0.75;
+}
+@media (max-width: 560px) {
+  .avp-eligibilite__liste li {
+    grid-template-columns: 1fr;
+    gap: 0.1rem;
+  }
 }

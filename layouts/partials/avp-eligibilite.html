@@ -1,0 +1,90 @@
+{{- /*
+  Bloc « Ce poste est pour vous si… ».
+
+  N'affiche que des critères FACTUELS, repris tels quels de l'avis officiel : diplôme,
+  corps, expérience, prérequis, durée de résidence, contraintes particulières. Aucune
+  reformulation, aucune phrase reconstruite : les valeurs source sont des groupes
+  nominaux, et fabriquer des « Vous avez … » mécaniquement produirait des tournures
+  bancales. Surtout, sur une offre d'emploi publique, un critère durci ou inventé ferait
+  s'auto-exclure un candidat qui était éligible.
+
+  Contexte attendu : la page de l'offre.
+*/ -}}
+{{- $p := . }}
+{{- $j := index site.Data.avps (replace ($p.Params.ref | default "") "/" "_") }}
+
+{{- /* Certaines valeurs extraites sont du bruit (un point seul, « N/A », « néant »…) :
+       on ne garde que ce qui a la longueur d'un vrai critère. */ -}}
+{{- $bruit := slice "n/a" "na" "néant" "neant" "non" "aucun" "aucune" "-" "." "non précisé" "non spécifié" }}
+{{- $criteres := slice }}
+{{- with $j }}
+
+  {{- $ajouter := dict }}
+
+  {{- with .educationRequirements }}
+    {{- with .credentialCategory }}
+      {{- $criteres = $criteres | append (dict "quoi" "Diplôme" "valeur" .) }}
+    {{- end }}
+  {{- end }}
+
+  {{- with .additionalType }}
+    {{- with .corpsDomaine }}
+      {{- $criteres = $criteres | append (dict "quoi" "Corps ou grade" "valeur" .) }}
+    {{- end }}
+  {{- end }}
+
+  {{- with .experienceRequirements }}
+    {{- $criteres = $criteres | append (dict "quoi" "Expérience" "valeur" .) }}
+  {{- end }}
+
+  {{- with .qualifications }}
+    {{- $criteres = $criteres | append (dict "quoi" "Prérequis" "valeur" .) }}
+  {{- end }}
+
+  {{- /* Durée de résidence : champ dédié d'abord, puis l'information libre de même nom,
+         que la source remplit parfois à sa place. */ -}}
+  {{- $residence := .eligibilityToWorkRequirement | default "" }}
+  {{- if not $residence }}
+    {{- with .additionalType }}
+      {{- range .informationsLibres }}
+        {{- if and (not $residence) (eq .name "Durée de résidence exigée") }}{{ $residence = .value }}{{ end }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+  {{- with $residence }}
+    {{- $criteres = $criteres | append (dict "quoi" "Durée de résidence" "valeur" .) }}
+  {{- end }}
+
+  {{- with .specialCommitments }}
+    {{- $criteres = $criteres | append (dict "quoi" "À accepter" "valeur" .) }}
+  {{- end }}
+
+{{- end }}
+
+{{- /* Filtrage du bruit : au moins 3 caractères, et pas une valeur creuse. */ -}}
+{{- $retenus := slice }}
+{{- range $criteres }}
+  {{- $v := trim (printf "%v" .valeur) " .\n\r\t" }}
+  {{- if and (gt (len $v) 2) (not (in $bruit (lower $v))) }}
+    {{- $retenus = $retenus | append (dict "quoi" .quoi "valeur" $v) }}
+  {{- end }}
+{{- end }}
+
+{{- /* En dessous de deux critères, le bloc n'apporte rien : on ne l'affiche pas. */ -}}
+{{- if ge (len $retenus) 2 }}
+<section class="avp-eligibilite" aria-labelledby="avp-eligibilite-titre">
+  <h2 class="avp-eligibilite__titre" id="avp-eligibilite-titre">Ce poste est pour vous si…</h2>
+  <ul class="avp-eligibilite__liste">
+    {{- range $retenus }}
+    <li>
+      <span class="avp-eligibilite__quoi">{{ .quoi }}</span>
+      <span class="avp-eligibilite__valeur">{{ .valeur }}</span>
+    </li>
+    {{- end }}
+  </ul>
+  <p class="avp-eligibilite__note">
+    Critères repris de l'avis officiel. En cas de doute sur votre éligibilité,
+    c'est le document d'origine qui fait foi.
+  </p>
+</section>
+{{- end }}

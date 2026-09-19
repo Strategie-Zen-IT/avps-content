@@ -1,0 +1,64 @@
+{{- /*
+  Bloc d'action « Candidater » d'une fiche d'offre.
+
+  Rendu DEUX fois : une fois en haut de fiche, pour que la marche à suivre soit visible
+  sans défiler, une fois en rappel à la fin, quand le candidat a terminé sa lecture.
+  Le site n'enregistre aucune candidature : le bloc ne fait qu'orienter vers l'avis
+  officiel et vers la collectivité, et le dit explicitement.
+
+  Contexte attendu : un dict
+    page    — la page de l'offre
+    avecqr  — vrai pour rendre ici le QR code (quand la bannière est absente, elle le porte sinon)
+    rappel  — vrai pour la version de fin de page (titre et ton légèrement différents)
+*/ -}}
+{{- $p := .page }}
+{{- $rappel := .rappel }}
+{{- $jsonld := index site.Data.avps (replace ($p.Params.ref | default "") "/" "_") }}
+{{- $contact := "" }}
+{{- with $jsonld }}{{ $contact = .applicationContact }}{{ end }}
+
+<aside class="avp-apply{{ if $rappel }} avp-apply--rappel{{ end }}" {{ if not $rappel }}id="candidater"{{ end }}
+       aria-label="Comment candidater à cette offre">
+
+  <div class="avp-apply__main">
+    <h2 class="avp-apply__title">{{ if $rappel }}Cette offre vous intéresse ?{{ else }}Candidater{{ end }}</h2>
+
+    <p class="avp-apply__deadline">
+      {{- with $p.Params.date_cloture }}
+        Candidatures jusqu'au <strong>{{ . }}</strong>
+        <span class="avp-urgency-badge" data-cloture="{{ . }}"></span>
+      {{- else }}Date limite non précisée sur l'avis.{{ end }}
+    </p>
+
+    {{- with $p.Params.url_pdf }}
+    <a href="{{ . }}" class="avp-apply__btn" target="_blank" rel="noopener">
+      <i class="fas fa-file-pdf" aria-hidden="true"></i> Lire l'avis officiel (PDF)
+    </a>
+    {{- end }}
+
+    {{- with $contact }}
+    <ul class="avp-apply__contact">
+      {{- with .email }}<li><i class="fas fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ . }}">{{ . }}</a></li>{{ end }}
+      {{- with .telephone }}
+        {{- $tel := replaceRE `[^0-9+]` "" . }}
+        <li><i class="fas fa-phone" aria-hidden="true"></i> <a href="tel:{{ if not (hasPrefix $tel "+") }}+687{{ end }}{{ $tel }}">{{ . }}</a></li>
+      {{- end }}
+    </ul>
+    {{- end }}
+
+    <p class="avp-apply__note">
+      Le dossier se dépose auprès de la collectivité qui recrute, selon les modalités
+      indiquées sur l'avis. <strong>Ce site n'enregistre aucune candidature</strong> et
+      seul le document officiel fait foi.
+    </p>
+  </div>
+
+  {{- if .avecqr }}
+  <div class="avp-apply__qr">
+    <span class="sr-only">Code QR menant à cette offre, pour la rouvrir depuis un téléphone.</span>
+    <div id="avp-page-qrcode" class="avp-qrcode-zone"></div>
+    <span class="avp-apply__qr-label">Scanner l'offre</span>
+  </div>
+  {{- end }}
+
+</aside>

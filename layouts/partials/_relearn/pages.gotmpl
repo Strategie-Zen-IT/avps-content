@@ -1,0 +1,65 @@
+{{- /* Surcharge du thème : même comportement, plus UN filtre.
+
+     Le menu latéral est construit à partir de cette liste. Sans le filtre ajouté en fin
+     de fichier, une offre dont la date de clôture est passée continuait d'y figurer
+     alors qu'elle avait disparu des listes, de la carte et des flux — le menu étant
+     rendu sur CHAQUE page, l'incohérence était visible partout.
+
+     C'est le seul point de passage commun de l'arbre de navigation : le filtrer ici
+     évite de réécrire `menu.html` et ses partials de parcours.
+
+     La page reste publiée et accessible à son adresse : on ne la retire que de la
+     navigation, jamais du site, pour ne pas créer de 404 sur un lien déjà partagé.
+     Voir `avp-actives.html`, qui applique la même règle aux listes. */ -}}
+{{- $page := .page }}
+{{- /* default sort order for the theme is historically by weight */}}
+{{- $by := .by }}
+{{- if eq $by "auto" }}
+	{{- $by = "" }}
+{{- end }}
+{{- $by = $by | default $page.Params.ordersectionsby | default $page.Site.Params.ordersectionsby | default "default" }}
+
+{{- $pages := slice }}
+
+{{- if eq $by "weight" }}
+	{{- $pages = $page.Pages.ByWeight }}
+{{- else if or (eq $by "name") (eq $by "title") (eq $by "linktitle") }}
+	{{- $pages = $page.Pages.ByLinkTitle }}
+{{- else if eq $by "modifieddate" }}
+	{{- $pages = $page.Pages.Lastmod }}
+{{- else if eq $by "expirydate" }}
+	{{- $pages = $page.Pages.ByExpiryDate }}
+{{- else if eq $by "publishdate" }}
+	{{- $pages = $page.Pages.ByPublishDate }}
+{{- else if eq $by "date" }}
+	{{- $pages = $page.Pages.ByDate }}
+{{- else if eq $by "length" }}
+	{{- $pages = $page.Pages.ByLength }}
+{{- else if eq $by "default" }}
+	{{- $pages = $page.Pages }}
+{{- else }}
+	{{- $filepath := "[virtual file]" }}{{ with and $page $page.File $page.File.Filename }}{{ $filepath = . }}{{ end }}
+	{{- warnf "%q: Unknown pages sort order %q" $filepath $by }}
+	{{- $pages = $page.Pages }}
+{{- end }}
+
+{{- $aujourdhui := now.Format "2006-01-02" }}
+{{- $filtered_pages := slice }}
+{{- range $pages }}
+	{{- if not (partial "_relearn/pageIsSpecial.gotmpl" .) }}
+		{{- $garder := true }}
+		{{- /* Offre dont la clôture est passée : hors du menu. Comparaison de chaînes ISO,
+		       sûre et sans échec de parsing ; toute autre forme de date est ignorée. */ -}}
+		{{- if .Params.ref }}
+			{{- with .Params.date_cloture }}
+				{{- $d := string . }}
+				{{- if and (eq (len $d) 10) (lt $d $aujourdhui) }}{{ $garder = false }}{{ end }}
+			{{- end }}
+		{{- end }}
+		{{- if $garder }}
+			{{- $filtered_pages = $filtered_pages | append . }}
+		{{- end }}
+	{{- end }}
+{{- end }}
+
+{{- return $filtered_pages }}

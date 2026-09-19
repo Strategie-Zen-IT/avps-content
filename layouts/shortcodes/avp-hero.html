@@ -1,11 +1,13 @@
 {{- /* Bandeau d'accueil : promesse du site, accès à la recherche, chiffres clés et
        raccourcis vers les axes de navigation. Tout est calculé au build. */ -}}
 {{- $avps := where site.RegularPages "Params.ref" "!=" nil }}
-{{- $encours := where $avps "Params.archive" "!=" true }}
+{{- /* Même filtre que les listes : afficher « 236 offres en cours » alors que la
+       navigation en montre moins serait incohérent. */ -}}
+{{- $encours := partial "avp-actives.html" $avps }}
 {{- $collectivites := slice }}
 {{- range $encours }}{{ with .Params.collectivite }}{{ $collectivites = $collectivites | append . }}{{ end }}{{ end }}
 {{- $familles := 0 }}
-{{- range site.Sections }}{{ if and (ne .Section "archives") (gt (len (where .RegularPages "Params.archive" "!=" true)) 0) }}{{ $familles = add $familles 1 }}{{ end }}{{ end }}
+{{- range site.Sections }}{{ if and (ne .Section "archives") (gt (len (partial "avp-actives.html" .RegularPages)) 0) }}{{ $familles = add $familles 1 }}{{ end }}{{ end }}
 <section class="avp-hero" aria-label="Présentation du site">
   <p class="avp-hero__kicker">Fonction publique de Nouvelle-Calédonie</p>
   <h2 class="avp-hero__title">Tous les avis de vacance de poste, classés par métier.</h2>

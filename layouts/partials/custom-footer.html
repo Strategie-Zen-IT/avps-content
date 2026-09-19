@@ -55,6 +55,26 @@
     }, { passive: true });
   });
 
+  // ⏳ Badge d'échéance, sur TOUTES les pages (fiches et listes) : le site est statique,
+  //    une date figée au build afficherait « Plus que 3 jours » indéfiniment.
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll('.avp-urgency-badge[data-cloture]').forEach(function (badge) {
+      const dateClotureStr = badge.getAttribute('data-cloture');
+      if (!dateClotureStr) return;
+      const cloture = new Date(dateClotureStr + 'T00:00:00');
+      const now = new Date();
+      cloture.setHours(0, 0, 0, 0); now.setHours(0, 0, 0, 0);
+      const diffDays = Math.ceil((cloture - now) / (1000 * 60 * 60 * 24));
+
+      let html = '<span class="badge badge-info">Candidatures ouvertes</span>';
+      if (diffDays < 0) html = '<span class="badge badge-expired">Clôturé</span>';
+      else if (diffDays === 0) html = '<span class="badge badge-critical">Dernier jour</span>';
+      else if (diffDays === 1) html = '<span class="badge badge-critical">Clôture demain</span>';
+      else if (diffDays <= 7) html = '<span class="badge badge-warning">Plus que ' + diffDays + ' jours</span>';
+      badge.innerHTML = html;
+    });
+  });
+
   // 🃏 📱 AUTO-INJECTION DES QR CODES SUR LES CARTES D'AVP
   document.addEventListener("DOMContentLoaded", function () {
     if (typeof QRCode === 'undefined') return;

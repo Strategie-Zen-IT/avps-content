@@ -1,0 +1,30 @@
+{{- /*
+  URL du logo de l'employeur d'une offre, ou chaîne vide.
+  Contexte attendu (.) : une page d'AVP.
+
+  Deux sources, dans cet ordre :
+   1. `hiringOrganization.logo` du JSON-LD, écrit par le moteur APRÈS avoir vérifié que
+      le fichier répond 200. C'est la source de vérité, la même que celle lue par Google.
+   2. Repli sur le fichier local `static/logos/{sigle}.png` puis `{collectivité}.png` :
+      un logo déposé après la publication d'une offre n'entre pas dans son JSON-LD, le
+      front-matter étant figé jusqu'à sa prochaine modification. Sans ce repli, il
+      faudrait republier toutes les offres d'une collectivité pour voir son logo.
+
+  On ne devine jamais un logo : seuls un JSON-LD vérifié ou un fichier réellement présent
+  dans le dépôt peuvent en fournir un.
+*/ -}}
+{{- $page := . }}
+{{- $logo := "" }}
+{{- with index site.Data.avps (replace ($page.Params.ref | default "") "/" "_") }}
+  {{- with .hiringOrganization }}{{ with .logo }}{{ $logo = . }}{{ end }}{{ end }}
+{{- end }}
+{{- if not $logo }}
+  {{- $sigle := $page.Params.employeur_sigle | default "" }}
+  {{- $nom := $page.Params.collectivite | default "" }}
+  {{- range slice ($sigle | urlize) ($nom | urlize) }}
+    {{- if and (not $logo) . (fileExists (printf "static/logos/%s.png" .)) }}
+      {{- $logo = printf "logos/%s.png" . | relURL }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- return $logo }}

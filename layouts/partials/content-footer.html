@@ -2,6 +2,37 @@
        ⚠️ Le site n'est PAS un employeur : ce pied de page identifie l'ÉDITEUR du site
        (params.editeur) et renvoie vers la source officielle. Les collectivités qui
        recrutent sont nommées sur chaque offre, jamais ici. */ -}}
+{{- /* Sur une fiche d'offre uniquement : rappel de l'action, puis les axes de rebond.
+       Les étiquettes sont AUSSI en haut de page (rendu par le thème) ; ici elles servent
+       à repartir explorer une fois la lecture finie, ce qui n'est pas la même intention. */ -}}
+{{- if .Params.ref }}
+  {{- partial "avp-candidater.html" (dict "page" . "avecqr" false "rappel" true) }}
+
+  {{- $axes := slice
+      (dict "taxo" "collectivites" "libelle" "Le même employeur")
+      (dict "taxo" "familles"      "libelle" "Le même métier")
+      (dict "taxo" "communes"      "libelle" "La même commune")
+      (dict "taxo" "provinces"     "libelle" "La même province")
+      (dict "taxo" "corps"         "libelle" "Le même corps")
+  }}
+  {{- $aRebond := false }}
+  {{- range $axes }}{{ if $.GetTerms .taxo }}{{ $aRebond = true }}{{ end }}{{ end }}
+  {{- if $aRebond }}
+  <nav class="avp-explorer" aria-label="Explorer des offres proches">
+    <h2 class="avp-explorer__title">Voir d'autres offres</h2>
+    <ul class="avp-explorer__list">
+      {{- /* `$axe` est nommé explicitement : dans la boucle interne, `$` désigne la page
+             et non l'axe courant. */ -}}
+      {{- range $axe := $axes }}
+        {{- range $.GetTerms $axe.taxo }}
+      <li><a href="{{ .RelPermalink }}"><span class="avp-explorer__quoi">{{ $axe.libelle }}</span> {{ .LinkTitle }}</a></li>
+        {{- end }}
+      {{- end }}
+    </ul>
+  </nav>
+  {{- end }}
+{{- end }}
+
 <hr class="avp-footer-hr">
 <section class="avp-page-footer" aria-label="Informations sur le site">
 
@@ -42,9 +73,6 @@
     <a href="https://github.com/Strategie-Zen-IT/avps-content" target="_blank" rel="noopener">
       <i class="fab fa-github" aria-hidden="true"></i> Code du site
     </a>
-    <a href="{{ "developpeurs/" | relLangURL }}">
-      <i class="fas fa-code" aria-hidden="true"></i> Développeurs
-    </a>
     <a href="{{ "index.xml" | relURL }}">
       <i class="fas fa-rss" aria-hidden="true"></i> RSS
     </a>
@@ -57,7 +85,9 @@
 
 </section>
 
-<div class="avp-build-info">
-  Version : <code>r-{{ if site.Data.git_commit }}{{ site.Data.git_commit.hash }}{{ else }}dev{{ end }}</code><br>
-  Généré le : {{ now.Format "02/01/2006 à 15:04" }}
-</div>
+{{- /* Conservé volontairement : c'est le seul moyen, sur un site statique, de savoir
+       d'un coup d'œil si les données affichées sont à jour. Sur une seule ligne. */ -}}
+<p class="avp-build-info">
+  Révision <code>r-{{ if site.Data.git_commit }}{{ site.Data.git_commit.hash }}{{ else }}dev{{ end }}</code>
+  · généré le {{ now.Format "02/01/2006 à 15:04" }}
+</p>

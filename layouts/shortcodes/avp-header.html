@@ -1,234 +1,207 @@
-<div class="avp-header-wrapper">
+{{- /* ==========================================================================
+   En-tête d'une fiche d'offre.
 
-  {{/* Les familles de métier sont désormais affichées dans le tableau d'informations ci-dessous. */}}
+   Lecture voulue, de haut en bas : l'illustration, puis les cinq faits qu'un candidat
+   regarde en premier (qui recrute, jusqu'à quand, où, quel corps, quel métier), puis
+   l'action « candidater », puis le détail rangé par thème.
 
-  <div class="avp-banner-actions">
-    <div class="avp-urgency-badge" data-cloture="{{ $.Page.Params.date_cloture }}"></div>
-  </div>
+   Le grand tableau à deux colonnes hérité de la chaîne d'origine a été remplacé par des
+   listes de définitions en grille : même information, lecture par blocs au lieu d'un mur
+   de lignes, et bien meilleur rendu sur mobile.
+   ========================================================================== */ -}}
 
-  <h2 id="informations-administratives">🏛️ Informations administratives</h2>
+{{- $p := .Page }}
+{{- $jsonld := index site.Data.avps (replace ($p.Params.ref | default "") "/" "_") }}
+{{- $logo := partial "avp-logo.html" $p }}
+{{- $collectivite := $p.Params.collectivite }}
+{{- if not $collectivite }}{{ with $jsonld }}{{ with .hiringOrganization }}{{ $collectivite = .name }}{{ end }}{{ end }}{{ end }}
+{{- $sigle := $p.Params.employeur_sigle | default "" }}
+{{- $termsColl := $p.GetTerms "collectivites" }}
+{{- $couleurs := site.Data.familles_couleurs.familles }}
 
-  {{ if .Page.Params.featured_image }}
-  {{ $imgPath := .Page.Params.featured_image }}
-  {{ $imgPath = strings.TrimPrefix "/" $imgPath }} {{/* 🎯 On demande à Hugo d'aller chercher l'image dans le dossier
-  assets/ */}}
-  {{ with resources.Get $imgPath }}
+{{- /* Table slug -> URL des pages de tag réelles : .RelPermalink gère le préfixe de
+       baseURL ET l'encodage des accents, ce qu'une URL reconstruite à la main rate. */ -}}
+{{- $tagLinks := dict }}
+{{- with site.GetPage "/tags" }}
+  {{- range .Pages }}{{ $tagLinks = merge $tagLinks (dict (.Title | urlize) .RelPermalink) }}{{ end }}
+{{- end }}
 
-  {{/* ⚡ LA CONVERSION MAGIQUE : Hugo transforme en WebP et compresse à 80% */}}
-  {{ $webp := .Process "webp q80" }}
+<div class="avp-fiche">
 
-  <div class="avp-dynamic-banner">
-    <img src="{{ $webp.RelPermalink }}" alt="Illustration du poste : {{ $.Page.Title }}" onerror="this.closest('.avp-dynamic-banner').remove()">
-  </div>
-
-  {{ else }}
-  {{/* 🔄 FALLBACK DE SÉCURITÉ : Si l'image n'est pas encore déplacée dans assets, on l'affiche normalement */}}
-  <div class="avp-dynamic-banner">
+  {{- /* ---- 1. Bannière, avec le QR code et l'échéance en surimpression ---- */ -}}
+  {{- $banniere := "" }}
+  {{- with $p.Params.featured_image }}
+    {{- $chemin := strings.TrimPrefix "/" . }}
+    {{- with resources.Get $chemin }}
+      {{- $banniere = (.Process "webp q80").RelPermalink }}
+    {{- else }}
+      {{- $banniere = $p.Params.featured_image | relURL }}
+    {{- end }}
+  {{- end }}
+  {{- if $banniere }}
+  <figure class="avp-banner">
     {{/* onerror : une bannière absente du bucket (quota du modèle d'image au moment de la
-         publication) ne doit pas laisser un cadre vide — on retire le bloc. */}}
-    <img src="{{ .Page.Params.featured_image | relURL }}" alt="Illustration du poste : {{ $.Page.Title }}" loading="lazy" onerror="this.closest('.avp-dynamic-banner').remove()">
-  </div>
-  {{ end }}
-  {{ end }}
+         publication) ne doit pas laisser un cadre vide — on retire tout le bloc, QR compris,
+         et le QR de secours du bloc « Candidater » prend le relais. */}}
+    <img src="{{ $banniere }}" alt="Illustration du poste : {{ $p.Title }}" loading="lazy"
+         onerror="this.closest('.avp-banner').classList.add('avp-banner--absente')">
+    <div class="avp-banner__badge avp-urgency-badge" data-cloture="{{ $p.Params.date_cloture }}"></div>
+    <div class="avp-banner__qr">
+      <span class="sr-only">Code QR menant à cette offre, pour la rouvrir depuis un téléphone.</span>
+      <div id="avp-page-qrcode" class="avp-qrcode-zone"></div>
+      <span class="avp-banner__qr-label">Scanner l'offre</span>
+    </div>
+  </figure>
+  {{- end }}
 
-  <div class="avp-stamp-qrcode">
-    <div class="sr-only">Code QR pour postuler depuis un smartphone.</div>
-    <p class="avp-qrcode-text">AVP Officiel</p>
-    <div id="avp-page-qrcode" class="avp-qrcode-zone"></div>
-  </div>
-
-  <table class="avp-info-table">
-    <tbody>
-      {{/* L'EMPLOYEUR d'abord : c'est la première question d'un candidat. Trois niveaux,
-           du plus large au plus fin : collectivité qui recrute (avec son logo et un lien
-           vers toutes ses offres), direction de rattachement, service. La collectivité
-           vient de la source ; à défaut, du nom lu dans le document (hiringOrganization). */}}
-      {{- $collectivite := $.Page.Params.collectivite }}
-      {{- $logo := "" }}
-      {{- with index site.Data.avps (replace ($.Page.Params.ref | default "") "/" "_") }}
-        {{- with .hiringOrganization }}
-          {{- if not $collectivite }}{{ $collectivite = .name }}{{ end }}
-          {{- /* Le logo est celui que le moteur a vérifié (HEAD 200) au moment de la
-                 publication : même source que le JSON-LD, pas de devinette côté site. */}}
-          {{- with .logo }}{{ $logo = . }}{{ end }}
-        {{- end }}
-      {{- end }}
-      {{- $sigle := $.Page.Params.employeur_sigle | default "" }}
-      {{- /* Repli sur le fichier local : un logo déposé après la publication de l'offre
-             n'entre pas dans son JSON-LD, le front-matter étant figé jusqu'à modification. */ -}}
-      {{- if not $logo }}
-        {{- range slice ($sigle | urlize) ($collectivite | default "" | urlize) }}
-          {{- if and (not $logo) . (fileExists (printf "static/logos/%s.png" .)) }}
-            {{- $logo = printf "logos/%s.png" . | relURL }}
-          {{- end }}
-        {{- end }}
-      {{- end }}
-      <tr class="avp-info-employeur">
-        <th scope="row">Employeur</th>
-        <td>
-          {{- with $logo }}<img class="avp-employeur-logo" src="{{ . }}" alt="" loading="lazy" onerror="this.remove()">{{ end }}
-          {{- $terms := $.Page.GetTerms "collectivites" }}
-          {{- if $terms }}
-            {{- range $terms }}<a href="{{ .RelPermalink }}" title="Toutes les offres de « {{ .LinkTitle }} »"><strong>{{ .LinkTitle }}</strong></a>{{ end }}
-          {{- else if $collectivite }}<strong>{{ $collectivite }}</strong>
-          {{- else }}<em>Non précisé dans la source — voir le PDF officiel</em>{{ end }}
-          {{- if and $sigle (ne $sigle "A-TRIER") $collectivite (ne ($sigle | urlize) ($collectivite | urlize)) }} <code>{{ $sigle }}</code>{{ end }}
-        </td>
-      </tr>
-      {{- with $.Page.Params.direction }}
-      <tr>
-        <th scope="row">Direction</th>
-        <td>{{ . }}</td>
-      </tr>
-      {{- end }}
-      <tr>
-        <th scope="row">Service / Unité</th>
-        <td>{{ $.Page.Params.unite_orga }}</td>
-      </tr>
-      <tr>
-        <th scope="row">Référence</th>
-        <td><code>{{ $.Page.Params.ref }}</code></td>
-      </tr>
-      <tr>
-        <th scope="row">Date limite de candidature</th>
-        <td>{{ $.Page.Params.date_cloture }}</td>
-      </tr>
-      <tr>
-        <th scope="row">Corps / Grade / Domaine d’emploi</th>
-        <td>{{ $.Page.Params.corps_grade }}</td>
-      </tr>
-      {{- with $.Page.Params.familles }}
-      <tr>
-        <th scope="row">Famille(s) de métier</th>
-        <td>
-          {{- $colors := $.Site.Data.familles_couleurs.familles }}
-          {{/* Table slug->URL des pages de tag réelles : .RelPermalink gère le préfixe
-          de baseURL ET l'encodage des accents (évite les 404). */}}
-          {{- $tagLinks := dict }}
-          {{- with site.GetPage "/tags" }}
-          {{- range .Pages }}
-          {{- $tagLinks = merge $tagLinks (dict (.Title | urlize) .RelPermalink) }}
-          {{- end }}
-          {{- end }}
-          {{- range $fam := . }}
+  {{- /* ---- 2. Les faits saillants ---------------------------------------- */ -}}
+  <dl class="avp-facts">
+    <div class="avp-facts__item avp-facts__item--employeur">
+      <dt>Employeur</dt>
+      <dd>
+        {{- with $logo }}<img class="avp-facts__logo" src="{{ . }}" alt="" loading="lazy" onerror="this.remove()">{{ end }}
+        {{- if $termsColl }}
+          {{- range $termsColl }}<a href="{{ .RelPermalink }}" title="Toutes les offres de « {{ .LinkTitle }} »">{{ .LinkTitle }}</a>{{ end }}
+        {{- else if $collectivite }}{{ $collectivite }}
+        {{- else }}<em>non précisé dans la source</em>{{ end }}
+      </dd>
+    </div>
+    <div class="avp-facts__item">
+      <dt>Candidatures jusqu'au</dt>
+      <dd>{{ $p.Params.date_cloture | default "non précisé" }}</dd>
+    </div>
+    <div class="avp-facts__item">
+      <dt>Lieu de travail</dt>
+      <dd>
+        {{- $termsCommune := $p.GetTerms "communes" }}
+        {{- if $termsCommune }}{{ range $termsCommune }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
+        {{- else }}{{ $p.Params.ville | default "non précisé" }}{{ end }}
+      </dd>
+    </div>
+    <div class="avp-facts__item">
+      <dt>Corps ou grade</dt>
+      <dd>{{ $p.Params.corps_grade | default "non précisé" }}</dd>
+    </div>
+    {{- with $p.Params.familles }}
+    <div class="avp-facts__item avp-facts__item--famille">
+      <dt>Famille de métier</dt>
+      <dd>
+        {{- range $fam := . }}
           {{- $href := index $tagLinks ($fam | urlize) }}
-          {{- if $href }}
-          <a href="{{ $href }}" title="Voir les offres de la famille « {{ $fam }} »" style="text-decoration: none;">
-            <span class="famille-badge" style="--couleur: {{ index $colors $fam | default "#999999" }}">{{ $fam }}</span>
-          </a>
-          {{- else }}
-          <span class="famille-badge" style="--couleur: {{ index $colors $fam | default "#999999" }}">{{ $fam }}</span>
-          {{- end }}
-          {{- end }}
-        </td>
-      </tr>
-      {{- end }}
-      {{- with $.Page.Params.code_rome }}
-      <tr>
-        <th scope="row">Code ROME</th>
-        <td><code>{{ . }}</code>{{ with $.Page.Params.libelle_rome }} — {{ . }}{{ end }}</td>
-      </tr>
-      {{- end }}
-      {{- with $.Page.Params.metier_ref_nom }}
-      <tr>
-        <th scope="row">Métier de référence</th>
-        <td>
-{{/* Le lien pointe vers la fiche d'emploi générique RESPNC (référentiel de la
-          fonction publique NC), valable pour tous les employeurs. */}}
-          {{- if $.Page.Params.url_fiche_generique }}
-          <a href="{{ $.Page.Params.url_fiche_generique }}" target="_blank" rel="noopener"
-            title="Voir la fiche d'emploi générique RESPNC - Nouvelle fenêtre"
-            style="display: inline-flex; align-items: center; gap: 6px;">
-            <i class="fas fa-book" aria-hidden="true"></i> {{ $.Page.Params.metier_ref_nom }}{{ with $.Page.Params.code_rome }} <code>{{ . }}</code>{{ end }}
-          </a>
-          {{- else }}
-          {{ $.Page.Params.metier_ref_nom }}
-          {{- end }}
-        </td>
-      </tr>
-      {{- end }}
-      <tr>
-        <th scope="row">Nombre d’agents encadrés</th>
-        <td>{{ $.Page.Params.nb_agents }}</td>
-      </tr>
-      <tr>
-        <th scope="row">Ville</th>
-        <td>{{ $.Page.Params.ville }}</td>
-      </tr>
-      <tr>
-        <th scope="row">Lieu de travail</th>
-        <td>{{ $.Page.Params.adresse_complete }}</td>
-      </tr>
-      <tr>
-        <th scope="row">Disponibilité</th>
-        <td>{{ $.Page.Params.disponibilite }}</td>
-      </tr>
-      <tr>
-        <th scope="row">Document d'origine</th>
-        <td>
-          <a href="{{ $.Page.Params.url_pdf }}" class="avp-pdf-link" target="_blank" rel="noopener"
-            title="Télécharger le PDF de l'AVP - Nouvelle fenêtre">
-            <i class="fas fa-file-pdf" aria-hidden="true"></i> Télécharger le PDF de l'AVP
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+          {{- if $href }}<a href="{{ $href }}" title="Voir les offres de la famille « {{ $fam }} »" class="famille-badge-lien">
+            <span class="famille-badge" style="--couleur: {{ index $couleurs $fam | default "#6B7280" }}">{{ $fam }}</span></a>
+          {{- else }}<span class="famille-badge" style="--couleur: {{ index $couleurs $fam | default "#6B7280" }}">{{ $fam }}</span>{{ end }}
+        {{- end }}
+      </dd>
+    </div>
+    {{- end }}
+  </dl>
 
-  {{ if and .Page.Params.latitude .Page.Params.longitude }}
-  <!-- Leaflet (auto-hébergé, sans dépendance CDN) -->
+  {{- /* ---- 3. Éligibilité, puis l'action --------------------------------- */ -}}
+  {{- partial "avp-eligibilite.html" $p }}
+
+  {{- partial "avp-candidater.html" (dict "page" $p "avecqr" (not $banniere) "rappel" false) }}
+
+  {{- /* ---- 4. Le détail, rangé par thème --------------------------------- */ -}}
+  <h2 id="le-poste">Le poste</h2>
+  <dl class="avp-detail">
+    <div><dt>Référence de l'avis</dt><dd><code>{{ $p.Params.ref }}</code></dd></div>
+    {{- with $p.Params.code_rome }}
+    <div><dt>Code ROME</dt><dd><code>{{ . }}</code>{{ with $p.Params.libelle_rome }} — {{ . }}{{ end }}</dd></div>
+    {{- end }}
+    {{- with $p.Params.metier_ref_nom }}
+    <div>
+      <dt>Métier de référence</dt>
+      <dd>
+        {{- /* Fiche d'emploi générique du référentiel RESPNC, valable pour tous les employeurs. */ -}}
+        {{- if $p.Params.url_fiche_generique }}
+          <a href="{{ $p.Params.url_fiche_generique }}" target="_blank" rel="noopener"
+             title="Voir la fiche d'emploi générique RESPNC — nouvelle fenêtre">
+            <i class="fas fa-book" aria-hidden="true"></i> {{ . }}</a>
+        {{- else }}{{ . }}{{ end }}
+      </dd>
+    </div>
+    {{- end }}
+    {{- with $p.Params.disponibilite }}<div><dt>Poste à pourvoir</dt><dd>{{ . }}</dd></div>{{ end }}
+    {{- if $p.Params.nb_agents }}<div><dt>Agents encadrés</dt><dd>{{ $p.Params.nb_agents }}</dd></div>{{ end }}
+  </dl>
+
+  <h2 id="l-employeur">L'employeur</h2>
+  <dl class="avp-detail">
+    <div>
+      <dt>Collectivité qui recrute</dt>
+      <dd>
+        {{- if $termsColl }}{{ range $termsColl }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
+        {{- else if $collectivite }}{{ $collectivite }}
+        {{- else }}<em>non précisé dans la source — voir l'avis officiel</em>{{ end }}
+        {{- if and $sigle (ne $sigle "A-TRIER") $collectivite (ne ($sigle | urlize) ($collectivite | urlize)) }} <code>{{ $sigle }}</code>{{ end }}
+      </dd>
+    </div>
+    {{- with $p.Params.direction }}<div><dt>Direction</dt><dd>{{ . }}</dd></div>{{ end }}
+    {{- with $p.Params.unite_orga }}{{ if ne . "Non spécifié" }}<div><dt>Service ou unité</dt><dd>{{ . }}</dd></div>{{ end }}{{ end }}
+  </dl>
+
+  {{- $adresse := $p.Params.adresse_complete }}
+  {{- $aCarte := and $p.Params.latitude $p.Params.longitude }}
+  {{- if or $adresse $aCarte $p.Params.ville }}
+  <h2 id="le-lieu">Le lieu de travail</h2>
+  <dl class="avp-detail">
+    {{- with $p.Params.ville }}{{ if ne . "Non spécifié" }}<div><dt>Commune</dt><dd>{{ . }}</dd></div>{{ end }}{{ end }}
+    {{- with $adresse }}{{ if ne . "Non spécifié" }}<div class="avp-detail__large"><dt>Adresse</dt><dd>{{ . }}</dd></div>{{ end }}{{ end }}
+  </dl>
+
+  {{- if $aCarte }}
+  <!-- Leaflet auto-hébergé : aucune dépendance à un CDN à l'exécution. -->
   <link rel="stylesheet" href="{{ "vendor/leaflet/leaflet.css" | relURL }}">
   <script src="{{ "vendor/leaflet/leaflet.js" | relURL }}" defer></script>
 
   <div class="avp-single-map-wrapper">
-    <h3 id="localisation-poste">
-      <i class="fas fa-map-marked-alt" aria-hidden="true"></i> Localisation géographique
-    </h3>
-    <div id="avp-single-map-{{ .Page.Params.ref | urlize }}" class="avp-map-container avp-single-map" role="application"
+    <div id="avp-single-map-{{ $p.Params.ref | urlize }}" class="avp-map-container avp-single-map" role="application"
       aria-label="Carte de localisation du poste"></div>
     {{/* Légende cliquable des familles de cet AVP (même rendu que les autres cartes). */}}
-    {{ partial "avp-map-legend.html" (slice .Page) }}
+    {{ partial "avp-map-legend.html" (slice $p) }}
+    <p class="avp-map-note">Localisation approximative, déduite de l'adresse indiquée sur l'avis.</p>
   </div>
 
   <script>
     document.addEventListener("DOMContentLoaded", function () {
-    const lat = {{ .Page.Params.latitude }};
-    const lng = {{ .Page.Params.longitude }};
-    const title = {{ .Page.Title }};
-    const ref = {{ .Page.Params.ref }};
-    const ville = {{ .Page.Params.ville }};
-    const address = {{ .Page.Params.adresse_complete | default "" }};
+      const lat = {{ $p.Params.latitude }};
+      const lng = {{ $p.Params.longitude }};
+      const title = {{ $p.Title }};
+      const ref = {{ $p.Params.ref }};
+      const ville = {{ $p.Params.ville }};
+      const address = {{ $p.Params.adresse_complete | default "" }};
 
-    // Chemin des icônes de marqueur (auto-hébergées : la détection auto de Leaflet ne marche pas en local)
-    L.Icon.Default.imagePath = {{ "vendor/leaflet/images/" | relURL }};
+      // Chemin des icônes de marqueur (auto-hébergées : la détection auto de Leaflet ne marche pas en local)
+      L.Icon.Default.imagePath = {{ "vendor/leaflet/images/" | relURL }};
 
-    // Pin coloré selon la/les famille(s) de métier (anneau segmenté, même rendu que la carte globale).
-    const FAMILY_COLORS = {{ site.Data.familles_couleurs.familles | jsonify | safeJS }};
-    const FAMILIES = {{ .Page.Params.familles | jsonify | safeJS }};
-    function avpRingIcon() {
-      const cols = (FAMILIES && FAMILIES.length)
-        ? FAMILIES.map(f => FAMILY_COLORS[f] || "#999999")
-        : ["#cccccc"];
-      let bg;
-      if (cols.length === 1) { bg = cols[0]; }
-      else {
-        const step = 100 / cols.length;
-        bg = "conic-gradient(" + cols.map((c, i) => c + " " + (i * step) + "% " + ((i + 1) * step) + "%").join(",") + ")";
+      // Pin coloré selon la/les famille(s) de métier (anneau segmenté, même rendu que la carte globale).
+      const FAMILY_COLORS = {{ site.Data.familles_couleurs.familles | jsonify | safeJS }};
+      const FAMILIES = {{ $p.Params.familles | jsonify | safeJS }};
+      function avpRingIcon() {
+        const cols = (FAMILIES && FAMILIES.length)
+          ? FAMILIES.map(f => FAMILY_COLORS[f] || "#999999")
+          : ["#cccccc"];
+        let bg;
+        if (cols.length === 1) { bg = cols[0]; }
+        else {
+          const step = 100 / cols.length;
+          bg = "conic-gradient(" + cols.map((c, i) => c + " " + (i * step) + "% " + ((i + 1) * step) + "%").join(",") + ")";
+        }
+        return L.divIcon({
+          className: "avp-fam-divicon",
+          html: '<div class="avp-fam-ring" style="background:' + bg + '"><div class="avp-fam-ring-center"></div></div>',
+          iconSize: [26, 26], iconAnchor: [13, 13], popupAnchor: [0, -14]
+        });
       }
-      return L.divIcon({
-        className: "avp-fam-divicon",
-        html: '<div class="avp-fam-ring" style="background:' + bg + '"><div class="avp-fam-ring-center"></div></div>',
-        iconSize: [26, 26], iconAnchor: [13, 13], popupAnchor: [0, -14]
-      });
-    }
 
-    const map = L.map('avp-single-map-{{ .Page.Params.ref | urlize }}').setView([lat, lng], 14);
+      const map = L.map('avp-single-map-{{ $p.Params.ref | urlize }}').setView([lat, lng], 14);
 
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '© OpenStreetMap contributors'
-    }).addTo(map);
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap contributors'
+      }).addTo(map);
 
-    const popupHtml = `
+      const popupHtml = `
         <div class="avp-map-popup">
           <h4 class="avp-popup-title">${title}</h4>
           <p class="avp-popup-meta">
@@ -238,55 +211,31 @@
         </div>
       `;
 
-    L.marker([lat, lng], { alt: "Localisation du poste", icon: avpRingIcon() }).addTo(map)
-      .bindPopup(popupHtml, { maxHeight: 260, minWidth: 220, maxWidth: 280, keepInView: true, autoPanPadding: L.point(16, 60) })
-      .openPopup();
+      L.marker([lat, lng], { alt: "Localisation du poste", icon: avpRingIcon() }).addTo(map)
+        .bindPopup(popupHtml, { maxHeight: 260, minWidth: 220, maxWidth: 280, keepInView: true, autoPanPadding: L.point(16, 60) })
+        .openPopup();
     });
   </script>
-  {{ end }}
+  {{- end }}
+  {{- end }}
 
 </div>
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    // Logic 1 : Gestion dynamique du badge d'urgence
-    const badgeContainer = document.querySelector('[data-cloture]');
-    if (badgeContainer) {
-      const dateClotureStr = badgeContainer.getAttribute('data-cloture');
-      if (dateClotureStr) {
-        const cloture = new Date(dateClotureStr + 'T00:00:00');
-        const now = new Date();
-        cloture.setHours(0, 0, 0, 0); now.setHours(0, 0, 0, 0);
-        const diffDays = Math.ceil((cloture - now) / (1000 * 60 * 60 * 24));
-
-        let badgeHtml = '<span class="badge badge-info">📅 Ouvert</span>';
-        if (diffDays < 0) badgeHtml = '<span class="badge badge-expired">⚠️ Clôture passée</span>';
-        else if (diffDays === 0) badgeHtml = '<span class="badge badge-critical">🔥 Clôture AUJOURD\'HUI !</span>';
-        else if (diffDays === 1) badgeHtml = '<span class="badge badge-critical">🔥 Clôture demain !</span>';
-        else if (diffDays <= 3) badgeHtml = '<span class="badge badge-warning">⏳ J-' + diffDays + ' avant clôture</span>';
-        badgeContainer.innerHTML = badgeHtml;
-      }
-    }
-
-    // Logic 2 : Génération du QR code de la page (avec logo central)
-    const pageQrContainer = document.getElementById('avp-page-qrcode');
-    if (pageQrContainer && typeof QRCode !== 'undefined') {
-      new QRCode(pageQrContainer, {
+    // QR code de la page. Un seul par fiche : sur la bannière quand elle existe,
+    //    sinon dans le bloc « Candidater ».
+    const zone = document.getElementById('avp-page-qrcode');
+    if (zone && typeof QRCode !== 'undefined') {
+      new QRCode(zone, {
         text: window.location.href,
-        width: 110, height: 110,
+        width: 96, height: 96,
         colorDark: "#0F6E56", colorLight: "#ffffff",
         correctLevel: QRCode.CorrectLevel.H
-        {{/* Pas de logo incrusté dans le QR code : le site agrège des dizaines
-             d'employeurs, et easyqrcode dessine son logo sur un canvas — un SVG y
-             échouerait silencieusement. Un QR sans incrustation se lit d'ailleurs mieux. */}}
       });
-
-      // Ajout d'attributs d'accessibilité sur les images générées
       setTimeout(function () {
-        const qrImages = pageQrContainer.querySelectorAll('img, canvas');
-        qrImages.forEach(function (el) {
-          el.setAttribute('alt', '');
-          el.setAttribute('aria-hidden', 'true');
+        zone.querySelectorAll('img, canvas').forEach(function (el) {
+          el.setAttribute('alt', ''); el.setAttribute('aria-hidden', 'true');
         });
       }, 200);
     }

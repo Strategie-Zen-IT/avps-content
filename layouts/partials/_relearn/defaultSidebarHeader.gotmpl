@@ -1,0 +1,43 @@
+{{- /* Surcharge : le sélecteur de thème clair/sombre remonte ICI, juste sous la recherche,
+       au lieu du pied de barre latérale où le thème le place par défaut. Il reste donc
+       accessible, mais la silhouette du bas de menu change.
+       Le reste reprend le comportement d'origine (bouton d'accueil + sélecteur de version). */ -}}
+{{- $defaultmenuconfigs := slice }}
+{{- $defaultconfigentries := slice }}
+{{- $defaultconfigelements := slice }}
+
+{{- $defaultmenuconfigs = $defaultmenuconfigs | append (dict "type" "divider") }}
+
+{{- if not site.Params.disableLandingPageButton }}
+	{{- $title := trim (site.Params.landingPageName | plainify) "\n\r\t " }}
+	{{- $pre := "" }}
+	{{- $post := "" }}
+	{{- if $title }}
+		{{- $escapedTitle := replaceRE `([\.+*?()|[\]{}^$\\])` "\\$1" $title }}
+		{{- $pre = (replaceRE (printf `%s.*` $escapedTitle) "" site.Params.landingPageName) | safeHTML }}
+		{{- $post = (replaceRE (printf `.*?%s` $escapedTitle) "" site.Params.landingPageName) | safeHTML }}
+	{{- else }}
+		{{- $title = T "home-button" }}
+		{{- $pre = `<i class="fa-fw fas fa-home"></i> ` | safeHTML }}
+	{{- end }}
+	{{- $defaultconfigentries = $defaultconfigentries | append
+		(dict "Menu" "" "Pre" $pre "Post" $post "Title" $title "PageRef" "/" )
+	}}
+{{- end }}
+{{- $defaultmenuconfigs = $defaultmenuconfigs | append
+	(dict "type" "menu" "identifier" "homelinks" "disableTitle" true "entries" (slice
+		(dict "Menu" "" "Children" $defaultconfigentries)
+	))
+}}
+
+{{- $defaultmenuconfigs = $defaultmenuconfigs | append (dict "type" "divider") }}
+
+{{- $defaultconfigelements = $defaultconfigelements | append (dict "type" "versionswitcher") }}
+{{- $defaultconfigelements = $defaultconfigelements | append (dict "type" "variantswitcher") }}
+{{- $defaultmenuconfigs = $defaultmenuconfigs | append
+	(dict "type" "custom" "identifier" "headercontrols" "elements" $defaultconfigelements)
+}}
+
+{{- $defaultmenuconfigs = $defaultmenuconfigs | append (dict "type" "divider") }}
+
+{{- return $defaultmenuconfigs }}

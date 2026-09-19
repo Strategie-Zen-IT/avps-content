@@ -1,15 +1,41 @@
 {{- /*
-  Filtre commun : ne garde que les AVP EN COURS, c'est-à-dire non archivés.
+  Filtre commun des listes : ne garde que les offres AUXQUELLES ON PEUT ENCORE POSTULER.
 
-  Depuis la décision client du 09/09/2026, les AVP clos ne sont plus supprimés mais
-  déplacés dans content/archives/ avec `archive: true` au front-matter. Ils restent
-  donc dans .Site.RegularPages et entreraient sans ce filtre dans les listes, la
-  carte, les compteurs et — plus grave — dans le flux Google Jobs et le flux ATS
-  Indeed, où ils seraient présentés comme des offres ouvertes.
+  Deux exclusions, pour deux raisons distinctes :
 
-  `"!=" true` conserve bien les pages qui n'ont PAS le paramètre (valeur nil),
-  c'est-à-dire tous les AVP en cours : inutile d'ajouter `archive: false` partout.
+  1. Les AVP ARCHIVÉS (`archive: true`). Depuis la décision du 09/09/2026, une offre
+     retirée de l'open data n'est plus supprimée mais déplacée dans content/archives/.
+     Elle reste donc dans .Site.RegularPages et entrerait sans ce filtre dans les listes,
+     la carte et — plus grave — dans le flux Google Jobs et le flux ATS, où elle serait
+     présentée comme ouverte.
+     `"!=" true` conserve bien les pages sans le paramètre (valeur nil).
+
+  2. Les AVP dont la DATE DE CLÔTURE EST PASSÉE. Une collectivité laisse parfois son avis
+     dans l'open data au-delà de l'échéance : la page n'est donc pas archivée, alors que
+     l'offre n'accepte plus de candidature. La proposer dans une liste fait perdre son
+     temps au candidat.
+
+  Les pages restent accessibles à leur adresse : on ne les retire que des listes, jamais
+  du site, pour ne pas créer de 404 sur des liens déjà partagés ou indexés.
+
+  ⚠️ Les STATISTIQUES n'utilisent volontairement pas ce filtre : elles comptent le corpus
+  entier, archives comprises, et perdraient toute profondeur historique sinon.
+
+  ⚠️ Le site étant statique, le retrait n'est effectif qu'au build suivant. Le moteur
+  publiant plusieurs fois par jour, le décalage se compte en heures.
 
   Usage : {{ $actives := partial "avp-actives.html" .Site.RegularPages }}
 */ -}}
-{{- return where . "Params.archive" "!=" true }}
+{{- $aujourdhui := now.Format "2006-01-02" }}
+{{- $ouvertes := slice }}
+{{- range where . "Params.archive" "!=" true }}
+  {{- $ouverte := true }}
+  {{- with .Params.date_cloture }}
+    {{- $d := string . }}
+    {{- /* Comparaison de chaînes ISO (AAAA-MM-JJ) : sûre et sans échec de parsing. Une
+           date d'une autre forme est ignorée plutôt que de faire tomber le build. */ -}}
+    {{- if and (eq (len $d) 10) (lt $d $aujourdhui) }}{{ $ouverte = false }}{{ end }}
+  {{- end }}
+  {{- if $ouverte }}{{ $ouvertes = $ouvertes | append . }}{{ end }}
+{{- end }}
+{{- return $ouvertes }}

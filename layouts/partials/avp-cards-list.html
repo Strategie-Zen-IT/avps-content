@@ -1,27 +1,44 @@
-<div class="avp-cards-list">
-  {{ range . }}
-    <div class="avp-list-card">
+{{- /*
+  Liste d'offres, en grille de cartes.
+  Contexte attendu (.) : une collection de pages d'AVP.
 
-      <h3 class="avp-list-card__title">
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      </h3>
+  Remplace la liste verticale pleine largeur héritée de la chaîne d'origine. Chaque carte
+  porte l'accent de couleur de sa famille de métier, l'employeur avec son logo, et
+  l'échéance. Le mini QR code est ajouté ensuite par `custom-footer.html`, qui cible
+  `.avp-list-card` — classe conservée pour cette raison.
+*/ -}}
+{{- $couleurs := site.Data.familles_couleurs.familles }}
+<div class="avp-cards">
+  {{- range . }}
+    {{- $fam := "" }}
+    {{- with .Params.familles }}{{ $fam = index . 0 }}{{ end }}
+    {{- $couleur := index $couleurs $fam | default "#6B7280" }}
+    {{- $logo := partial "avp-logo.html" . }}
+    <article class="avp-card avp-list-card" style="--famille-couleur: {{ $couleur }}">
 
-      <p class="avp-list-card__meta">
-        <i class="fas fa-barcode"></i> <code>{{ .Params.ref }}</code>
-        <span class="avp-list-card__meta-sep">•</span>
-        <i class="fas fa-calendar-alt"></i> Clôture : <strong>{{ .Params.date_cloture }}</strong>
-      </p>
-
-      {{ if .Params.summary }}
-        <p class="avp-list-card__summary">{{ .Params.summary }}</p>
-      {{ end }}
-
-      <div class="avp-list-card__more">
-        <a href="{{ .RelPermalink }}">
-          Voir la fiche complète <i class="fas fa-arrow-right"></i>
-        </a>
+      <div class="avp-card__top">
+        {{- with $fam }}<span class="avp-card__famille">{{ . }}</span>{{ end }}
+        <span class="avp-urgency-badge" data-cloture="{{ .Params.date_cloture }}"></span>
       </div>
 
-    </div>
-  {{ end }}
+      <h3 class="avp-card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+
+      <p class="avp-card__employeur">
+        {{- with $logo }}<img class="avp-card__logo" src="{{ . }}" alt="" loading="lazy" onerror="this.remove()">{{ end }}
+        {{- with .Params.collectivite }}{{ . }}{{ else }}<em>employeur non précisé</em>{{ end }}
+      </p>
+
+      <p class="avp-card__meta">
+        {{- with .Params.ville }}{{ if ne . "Non spécifié" }}<span><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ . }}</span>{{ end }}{{ end }}
+        {{- with .Params.date_cloture }}<span><i class="fas fa-calendar-alt" aria-hidden="true"></i> jusqu'au {{ . }}</span>{{ end }}
+      </p>
+
+      {{- with .Params.summary }}<p class="avp-card__summary">{{ . }}</p>{{ end }}
+
+      <p class="avp-card__more">
+        <a href="{{ .RelPermalink }}">Voir l'offre <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+      </p>
+
+    </article>
+  {{- end }}
 </div>
