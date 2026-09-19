@@ -43,18 +43,24 @@
 	{{- $pages = $page.Pages }}
 {{- end }}
 
-{{- $aujourdhui := now.Format "2006-01-02" }}
 {{- $filtered_pages := slice }}
 {{- range $pages }}
 	{{- if not (partial "_relearn/pageIsSpecial.gotmpl" .) }}
 		{{- $garder := true }}
-		{{- /* Offre dont la clôture est passée : hors du menu. Comparaison de chaînes ISO,
-		       sûre et sans échec de parsing ; toute autre forme de date est ignorée. */ -}}
-		{{- if .Params.ref }}
-			{{- with .Params.date_cloture }}
-				{{- $d := string . }}
-				{{- if and (eq (len $d) 10) (lt $d $aujourdhui) }}{{ $garder = false }}{{ end }}
-			{{- end }}
+		{{- /* Les FICHES d'offre ne sont plus au menu (19/09/2026) : elles étaient 242,
+		       rendues sur chaque page du site, ce qui noyait les 41 familles de métier et
+		       alourdissait tout le HTML. La navigation par offre passe désormais par la
+		       page « Toutes les offres », qui filtre et trie, et par la recherche.
+		       Le menu ne garde donc que les sections. */ -}}
+		{{- if .Params.ref }}{{ $garder = false }}{{ end }}
+		{{- /* Les archives ne sont pas une famille de métier : leur place est parmi les
+		       pages de service (raccourcis du menu), pas au milieu des rubriques. */ -}}
+		{{- if and $garder .IsSection (eq .Section "archives") }}{{ $garder = false }}{{ end }}
+		{{- /* Rubrique sans aucune offre OUVERTE : hors du menu. Une famille dont toutes
+		       les offres sont clôturées ou archivées n'a rien à proposer, et sa page ne
+		       montrerait qu'une liste vide. */ -}}
+		{{- if and $garder .IsSection }}
+			{{- if eq (len (partial "avp-actives.html" .RegularPages)) 0 }}{{ $garder = false }}{{ end }}
 		{{- end }}
 		{{- if $garder }}
 			{{- $filtered_pages = $filtered_pages | append . }}

@@ -1232,3 +1232,502 @@ article .R-taxonomy.tags a.term-link {
     gap: 0.1rem;
   }
 }
+
+/* ---- Transparence sur le mode de production (pied de fiche) ------------- */
+.avp-transparence {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  margin: 1.25rem 0 0;
+  padding: 0.7rem 0.95rem;
+  border-radius: 10px;
+  background: color-mix(in srgb, var(--INTERNAL-ACCENT-color, #D9A441) 12%, transparent);
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+/* ---- Interrupteur clair / sombre ---------------------------------------- */
+.avp-variantswitcher .menu-control {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.avp-bascule {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.35rem 0.6rem;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  font: inherit;
+}
+.avp-bascule:hover .avp-bascule__piste {
+  border-color: var(--INTERNAL-PRIMARY-color, #0F6E56);
+}
+.avp-bascule:focus-visible {
+  outline: 2px solid var(--INTERNAL-PRIMARY-color, #0F6E56);
+  outline-offset: 2px;
+}
+.avp-bascule__icone {
+  font-size: 0.82rem;
+  opacity: 0.55;
+  transition: opacity 0.15s;
+}
+/* L'icône du mode ACTIF est mise en avant : l'interrupteur se lit sans avoir à
+   interpréter la position du curseur. */
+.avp-bascule[aria-checked="false"] .avp-bascule__icone:first-of-type,
+.avp-bascule[aria-checked="true"] .avp-bascule__icone:last-of-type {
+  opacity: 1;
+  color: var(--INTERNAL-PRIMARY-color, #0F6E56);
+}
+.avp-bascule__piste {
+  position: relative;
+  display: inline-block;
+  width: 38px;
+  height: 20px;
+  border-radius: 999px;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  background: color-mix(in srgb, var(--INTERNAL-MAIN-TEXT-color, #222) 10%, transparent);
+  transition: background 0.18s, border-color 0.18s;
+}
+.avp-bascule__curseur {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--INTERNAL-PRIMARY-color, #0F6E56);
+  transition: transform 0.18s;
+}
+.avp-bascule[aria-checked="true"] .avp-bascule__curseur {
+  transform: translateX(18px);
+}
+
+/* ---- Résultats de recherche présentés en cartes -------------------------- */
+#R-searchresults .avp-resultat {
+  display: grid;
+  gap: 0.2rem;
+  padding: 0.9rem 1.1rem;
+  margin: 0 0 0.75rem;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  border-left: 4px solid var(--INTERNAL-PRIMARY-color, #0F6E56);
+  border-radius: 12px;
+  background: var(--INTERNAL-MAIN-BG-color, #fffdf9);
+  text-decoration: none !important;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+#R-searchresults .avp-resultat:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 22px rgba(15, 110, 86, 0.12);
+}
+.avp-resultat__famille {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  opacity: 0.65;
+}
+.avp-resultat__titre {
+  font-family: var(--INTERNAL-MAIN-TITLES-font, Georgia, serif);
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+.avp-resultat__employeur {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+.avp-resultat__logo {
+  height: 22px;
+  max-width: 58px;
+  object-fit: contain;
+  margin: 0 !important;
+  background: #fff;
+  border-radius: 4px;
+  padding: 1px 2px;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+}
+.avp-resultat__meta {
+  font-size: 0.83rem;
+  opacity: 0.8;
+}
+
+/* ---- Page « Toutes les offres » ----------------------------------------- */
+.avp-filtres {
+  margin: 1.5rem 0;
+  padding: 1.1rem 1.25rem;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  border-radius: 14px;
+  background: color-mix(in srgb, var(--INTERNAL-PRIMARY-color, #0F6E56) 4%, transparent);
+}
+.avp-filtres__ligne {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+  align-items: center;
+  margin-bottom: 0.9rem;
+}
+.avp-filtres__recherche {
+  flex: 1 1 260px;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.45rem 0.8rem;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  border-radius: 999px;
+  background: var(--INTERNAL-MAIN-BG-color, #fffdf9);
+}
+.avp-filtres__recherche input {
+  flex: 1;
+  border: 0;
+  background: transparent;
+  font: inherit;
+  color: inherit;
+  outline: none;
+  min-width: 0;
+}
+.avp-filtres__tri {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.88rem;
+}
+.avp-filtres__grille {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 0.7rem 0.9rem;
+}
+.avp-filtres__grille label,
+.avp-filtres__tri {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+.avp-filtres__tri {
+  flex-direction: row;
+  align-items: center;
+}
+.avp-filtres__grille label span {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  opacity: 0.6;
+}
+.avp-filtres select {
+  padding: 0.35rem 0.5rem;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  border-radius: 8px;
+  background: var(--INTERNAL-MAIN-BG-color, #fffdf9);
+  color: inherit;
+  font: inherit;
+  font-size: 0.88rem;
+  max-width: 100%;
+}
+.avp-filtres__etat {
+  margin: 0.9rem 0 0;
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  font-size: 0.9rem;
+}
+.avp-filtres__etat button,
+.avp-toutes__vide button {
+  border: 1px solid var(--INTERNAL-PRIMARY-color, #0F6E56);
+  background: transparent;
+  color: var(--INTERNAL-PRIMARY-color, #0F6E56);
+  border-radius: 999px;
+  padding: 0.2rem 0.75rem;
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+.avp-toutes__liste {
+  list-style: none;
+  margin: 1.5rem 0;
+  padding: 0;
+  counter-reset: none;
+}
+.avp-ligne {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  border-left: 4px solid var(--famille-couleur, #6B7280);
+  border-radius: 10px;
+  margin-bottom: 0.5rem;
+  background: var(--INTERNAL-MAIN-BG-color, #fffdf9);
+}
+.avp-ligne__principal {
+  /* Occupe l'espace restant : sans `flex: 1`, la répartition `space-between` du parent
+     centrait le bloc entre le logo et l'échéance, et les titres partaient de positions
+     différentes d'une ligne à l'autre. */
+  flex: 1 1 auto;
+  min-width: 0;
+  text-align: left;
+}
+.avp-ligne__titre {
+  font-weight: 700;
+  text-decoration: none;
+  line-height: 1.3;
+}
+.avp-ligne__meta {
+  margin: 0.2rem 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem 0.9rem;
+  font-size: 0.83rem;
+  opacity: 0.8;
+}
+.avp-ligne__meta span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+.avp-ligne__echeance {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.25rem;
+  flex-shrink: 0;
+  font-size: 0.82rem;
+  font-variant-numeric: tabular-nums;
+  opacity: 0.85;
+}
+.avp-toutes__vide {
+  padding: 1.5rem;
+  text-align: center;
+  border: 1px dashed var(--CARD-BORDER-color, #e2dacb);
+  border-radius: 12px;
+}
+@media (max-width: 620px) {
+  .avp-ligne {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .avp-ligne__echeance {
+    align-items: flex-start;
+    flex-direction: row;
+    gap: 0.6rem;
+  }
+}
+
+/* ---- Compteur d'offres dans le menu ------------------------------------- */
+.avp-menu-compte {
+  float: right;
+  margin-left: 0.5rem;
+  min-width: 1.5em;
+  padding: 0 0.4em;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--INTERNAL-PRIMARY-color, #0F6E56) 16%, transparent);
+  color: inherit;
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1.7;
+  text-align: center;
+  opacity: 0.85;
+}
+.avp-resultat__entete {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+/* Une offre close reste trouvable par la recherche — c'est le seul moyen de retrouver
+   une référence précise — mais elle est visuellement mise en retrait. */
+#R-searchresults .avp-resultat--close {
+  border-left-color: #6B7280;
+  opacity: 0.78;
+}
+
+/* ---- Lien d'abonnement au flux --------------------------------------- */
+.avp-abonnement {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.9rem;
+  margin: 0 0 1.25rem;
+  font-size: 0.9rem;
+}
+.avp-abonnement > a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.3rem 0.85rem;
+  border: 1px solid var(--INTERNAL-ACCENT-HOVER-color, #B8862B);
+  border-radius: 999px;
+  color: var(--INTERNAL-ACCENT-HOVER-color, #B8862B) !important;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+.avp-abonnement > a:hover {
+  background: color-mix(in srgb, var(--INTERNAL-ACCENT-color, #D9A441) 15%, transparent);
+}
+.avp-abonnement__aide {
+  font-size: 0.82rem;
+  opacity: 0.8;
+}
+
+/* ---- Logo de l'employeur dans la liste « Toutes les offres » ------------ */
+.avp-ligne__logo {
+  flex: 0 0 auto;
+  width: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.avp-ligne__logo img {
+  max-width: 54px;
+  max-height: 34px;
+  object-fit: contain;
+  margin: 0 !important;
+  background: #fff;
+  border-radius: 5px;
+  padding: 2px;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+}
+/* Le libellé de la collectivité reste affiché : le logo seul ne suffit pas à identifier
+   un employeur, et beaucoup n'en ont pas encore. */
+@media (max-width: 620px) {
+  .avp-ligne__logo { display: none; }
+}
+
+/* Une règle `display` sur un élément l'emporte sur le `display: none` que le navigateur
+   applique à l'attribut `hidden` : sans ceci, les lignes filtrées restaient visibles
+   alors que le compteur, lui, était juste. */
+.avp-ligne[hidden],
+.avp-cards [hidden],
+#R-searchresults [hidden] {
+  display: none !important;
+}
+
+/* ---- Liste des flux (page « Être alerté ») ------------------------------ */
+.avp-flux {
+  list-style: none;
+  margin: 1rem 0 2rem;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.5rem;
+}
+.avp-flux li {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.5rem 0.85rem;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  border-radius: 10px;
+  background: var(--INTERNAL-MAIN-BG-color, #fffdf9);
+}
+.avp-flux__nom {
+  flex: 1;
+  min-width: 0;
+  font-weight: 600;
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+.avp-flux__nb {
+  flex-shrink: 0;
+  min-width: 1.6em;
+  padding: 0 0.4em;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--INTERNAL-PRIMARY-color, #0F6E56) 14%, transparent);
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-align: center;
+}
+.avp-flux__rss {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: none !important;
+  color: var(--INTERNAL-ACCENT-HOVER-color, #B8862B) !important;
+}
+
+/* ---- Bannière de consentement à la mesure d'audience -------------------- */
+.avp-consent {
+  position: fixed;
+  left: 1rem;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 200;
+  max-width: 44rem;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.8rem 1.2rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  border-radius: 14px;
+  background: var(--INTERNAL-MAIN-BG-color, #fffdf9);
+  box-shadow: 0 10px 34px rgba(0, 0, 0, 0.18);
+}
+.avp-consent[hidden] {
+  display: none !important;
+}
+.avp-consent__contenu {
+  flex: 1 1 320px;
+  min-width: 0;
+}
+.avp-consent__titre {
+  margin: 0 0 0.2rem;
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+.avp-consent__texte {
+  margin: 0;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  opacity: 0.9;
+}
+.avp-consent__actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+.avp-consent__btn {
+  padding: 0.45rem 1.05rem;
+  border-radius: 999px;
+  border: 1px solid var(--INTERNAL-PRIMARY-color, #0F6E56);
+  background: transparent;
+  color: var(--INTERNAL-PRIMARY-color, #0F6E56);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+/* Accepter et refuser ont le même poids visuel à la lecture ; seule la couleur de fond
+   distingue l'action principale. Un refus ne doit jamais être plus difficile à trouver
+   qu'un accord. */
+.avp-consent__btn--oui {
+  background: var(--INTERNAL-PRIMARY-color, #0F6E56);
+  color: #fff;
+}
+.avp-consent__btn:hover {
+  filter: brightness(1.08);
+}
+@media (max-width: 560px) {
+  .avp-consent {
+    left: 0.5rem;
+    right: 0.5rem;
+    bottom: 0.5rem;
+  }
+  .avp-consent__actions {
+    width: 100%;
+  }
+  .avp-consent__btn {
+    flex: 1;
+  }
+}

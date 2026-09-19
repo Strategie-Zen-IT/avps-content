@@ -1,0 +1,213 @@
+{{- /*
+  Page « Toutes les offres » : la liste complète, filtrable et triable.
+
+  Principe : **tout est rendu au build**. Les filtres ne font que masquer des lignes déjà
+  présentes dans la page. Sans JavaScript, la liste reste donc entièrement consultable et
+  indexable ; avec, elle devient un outil de tri. Aucune dépendance externe, aucun appel
+  réseau : les valeurs des menus déroulants sont construites ici, à partir des offres.
+*/ -}}
+{{- $offres := partial "avp-actives.html" (where site.RegularPages "Params.ref" "!=" nil) }}
+{{- $offres = sort $offres "Params.date_cloture" "asc" }}
+{{- $couleurs := site.Data.familles_couleurs.familles }}
+
+{{- /* Valeurs distinctes de chaque axe, pour alimenter les menus déroulants. */ -}}
+{{- $familles := slice }}{{ $collectivites := slice }}{{ $communes := slice }}
+{{- $provinces := slice }}{{ $corps := slice }}{{ $dispos := slice }}
+{{- $metiers := slice }}{{ $romes := slice }}{{ $libellesRome := dict }}
+{{- range $offres }}
+  {{- range .Params.familles }}{{ $familles = $familles | append . }}{{ end }}
+  {{- with .Params.collectivite }}{{ $collectivites = $collectivites | append . }}{{ end }}
+  {{- with .Params.ville }}{{ if ne . "Non spécifié" }}{{ $communes = $communes | append . }}{{ end }}{{ end }}
+  {{- range .Params.provinces }}{{ $provinces = $provinces | append . }}{{ end }}
+  {{- with .Params.corps_grade }}{{ if ne . "Non spécifié" }}{{ $corps = $corps | append . }}{{ end }}{{ end }}
+  {{- with .Params.disponibilite }}{{ if ne . "Non spécifié" }}{{ $dispos = $dispos | append . }}{{ end }}{{ end }}
+  {{- with .Params.metier_ref_nom }}{{ $metiers = $metiers | append . }}{{ end }}
+  {{- with .Params.code_rome }}{{ $romes = $romes | append . }}{{ end }}
+  {{- /* Un code ROME seul ne parle qu'aux RH : on garde son libellé pour l'affichage,
+         tout en continuant à filtrer sur le code, qui est la clé stable. */ -}}
+  {{- if and .Params.code_rome .Params.libelle_rome }}
+    {{- $libellesRome = merge $libellesRome (dict .Params.code_rome .Params.libelle_rome) }}
+  {{- end }}
+{{- end }}
+
+{{- $axes := slice
+    (dict "cle" "famille"      "libelle" "Famille de métier"  "valeurs" (sort (uniq $familles)))
+    (dict "cle" "collectivite" "libelle" "Collectivité"       "valeurs" (sort (uniq $collectivites)))
+    (dict "cle" "commune"      "libelle" "Commune"            "valeurs" (sort (uniq $communes)))
+    (dict "cle" "province"     "libelle" "Province"           "valeurs" (sort (uniq $provinces)))
+    (dict "cle" "corps"        "libelle" "Corps ou grade"     "valeurs" (sort (uniq $corps)))
+    (dict "cle" "dispo"        "libelle" "Poste à pourvoir"   "valeurs" (sort (uniq $dispos)))
+    (dict "cle" "metier"       "libelle" "Métier de référence" "valeurs" (sort (uniq $metiers)))
+    (dict "cle" "rome"         "libelle" "Métier ROME"        "valeurs" (sort (uniq $romes)) "libelles" $libellesRome)
+}}
+
+<div class="avp-toutes" data-total="{{ len $offres }}">
+
+  <form class="avp-filtres" role="search" aria-label="Filtrer les offres">
+    <div class="avp-filtres__ligne">
+      <label class="avp-filtres__recherche">
+        <span class="sr-only">Rechercher dans les intitulés</span>
+        <i class="fas fa-search" aria-hidden="true"></i>
+        <input type="search" id="avp-f-texte" placeholder="Intitulé, référence, employeur…" autocomplete="off">
+      </label>
+      <label class="avp-filtres__tri">
+        <span>Trier par</span>
+        <select id="avp-f-tri">
+          <option value="cloture">échéance la plus proche</option>
+          <option value="cloture-desc">échéance la plus lointaine</option>
+          <option value="titre">intitulé (A→Z)</option>
+          <option value="collectivite">collectivité (A→Z)</option>
+        </select>
+      </label>
+    </div>
+
+    <div class="avp-filtres__grille">
+      {{- range $axes }}
+      <label>
+        <span>{{ .libelle }}</span>
+        <select data-filtre="{{ .cle }}">
+          <option value="">Toutes</option>
+          {{- $libelles := .libelles | default dict }}
+          {{- range $valeur := .valeurs }}
+            {{- $lib := index $libelles $valeur }}
+            {{- /* Un code ROME seul ne parle qu'aux RH : on affiche son libellé, tout en
+                   continuant à filtrer sur le code, qui est la clé stable. */ -}}
+            <option value="{{ $valeur }}">{{ with $lib }}{{ $valeur }} — {{ . }}{{ else }}{{ $valeur }}{{ end }}</option>
+          {{- end }}
+        </select>
+      </label>
+      {{- end }}
+    </div>
+
+    <p class="avp-filtres__etat">
+      <span id="avp-f-compte">{{ len $offres }}</span> offre{{ if ne (len $offres) 1 }}s{{ end }} affichée{{ if ne (len $offres) 1 }}s{{ end }}
+      <button type="button" id="avp-f-reset" hidden>Effacer les filtres</button>
+    </p>
+  </form>
+
+  <ol class="avp-toutes__liste" id="avp-toutes-liste">
+    {{- range $offres }}
+    {{- $fam := "" }}{{ with .Params.familles }}{{ $fam = index . 0 }}{{ end }}
+    <li class="avp-ligne"
+        data-titre="{{ .Title }}"
+        data-ref="{{ .Params.ref }}"
+        data-famille="{{ delimit (.Params.familles | default slice) "|" }}"
+        data-collectivite="{{ .Params.collectivite }}"
+        data-commune="{{ .Params.ville }}"
+        data-province="{{ delimit (.Params.provinces | default slice) "|" }}"
+        data-corps="{{ .Params.corps_grade }}"
+        data-dispo="{{ .Params.disponibilite }}"
+        data-metier="{{ .Params.metier_ref_nom }}"
+        data-rome="{{ .Params.code_rome }}"
+        data-cloture="{{ .Params.date_cloture }}"
+        style="--famille-couleur: {{ index $couleurs $fam | default "#6B7280" }}">
+      {{- $logo := partial "avp-logo.html" . }}
+      <div class="avp-ligne__logo">
+        {{- with $logo }}<img src="{{ . }}" alt="" loading="lazy" onerror="this.closest('.avp-ligne__logo').remove()">{{ end }}
+      </div>
+      <div class="avp-ligne__principal">
+        <a class="avp-ligne__titre" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <p class="avp-ligne__meta">
+          {{- with .Params.collectivite }}<span>{{ . }}</span>{{ end }}
+          {{- with .Params.ville }}{{ if ne . "Non spécifié" }}<span><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ . }}</span>{{ end }}{{ end }}
+          {{- with .Params.corps_grade }}{{ if ne . "Non spécifié" }}<span>{{ . }}</span>{{ end }}{{ end }}
+        </p>
+      </div>
+      <div class="avp-ligne__echeance">
+        <span class="avp-urgency-badge" data-cloture="{{ .Params.date_cloture }}"></span>
+        <time datetime="{{ .Params.date_cloture }}">{{ .Params.date_cloture }}</time>
+      </div>
+    </li>
+    {{- end }}
+  </ol>
+
+  <p class="avp-toutes__vide" id="avp-toutes-vide" hidden>
+    Aucune offre ne correspond à ces critères. <button type="button" id="avp-f-reset2">Effacer les filtres</button>
+  </p>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var racine = document.querySelector('.avp-toutes');
+    if (!racine) return;
+    var liste = document.getElementById('avp-toutes-liste');
+    var lignes = Array.prototype.slice.call(liste.querySelectorAll('.avp-ligne'));
+    var selects = Array.prototype.slice.call(racine.querySelectorAll('select[data-filtre]'));
+    var texte = document.getElementById('avp-f-texte');
+    var tri = document.getElementById('avp-f-tri');
+    var compte = document.getElementById('avp-f-compte');
+    var vide = document.getElementById('avp-toutes-vide');
+    var reset = document.getElementById('avp-f-reset');
+    var reset2 = document.getElementById('avp-f-reset2');
+
+    // Un champ peut porter plusieurs valeurs (familles, provinces), séparées par « | ».
+    function correspond(ligne, cle, valeur) {
+      if (!valeur) return true;
+      var brut = ligne.getAttribute('data-' + cle) || '';
+      return brut.split('|').indexOf(valeur) !== -1;
+    }
+
+    function appliquer() {
+      var q = (texte.value || '').trim().toLowerCase();
+      var visibles = 0;
+      lignes.forEach(function (ligne) {
+        var ok = selects.every(function (s) { return correspond(ligne, s.dataset.filtre, s.value); });
+        if (ok && q) {
+          var foin = [
+            ligne.dataset.titre, ligne.dataset.ref, ligne.dataset.collectivite,
+            ligne.dataset.commune, ligne.dataset.metier, ligne.dataset.rome
+          ].join(' ').toLowerCase();
+          ok = foin.indexOf(q) !== -1;
+        }
+        ligne.hidden = !ok;
+        if (ok) visibles++;
+      });
+      compte.textContent = visibles;
+      vide.hidden = visibles !== 0;
+      var actif = q !== '' || selects.some(function (s) { return s.value !== ''; });
+      reset.hidden = !actif;
+      // L'adresse reflète les filtres : un résultat filtré reste partageable.
+      var params = new URLSearchParams();
+      if (q) params.set('q', q);
+      selects.forEach(function (s) { if (s.value) params.set(s.dataset.filtre, s.value); });
+      if (tri.value !== 'cloture') params.set('tri', tri.value);
+      var url = params.toString() ? '?' + params.toString() : window.location.pathname;
+      history.replaceState(null, '', url);
+    }
+
+    function trier() {
+      var mode = tri.value;
+      var ordonnees = lignes.slice().sort(function (a, b) {
+        if (mode === 'titre') return a.dataset.titre.localeCompare(b.dataset.titre, 'fr');
+        if (mode === 'collectivite') return a.dataset.collectivite.localeCompare(b.dataset.collectivite, 'fr');
+        var da = a.dataset.cloture || '9999', db = b.dataset.cloture || '9999';
+        return mode === 'cloture-desc' ? db.localeCompare(da) : da.localeCompare(db);
+      });
+      ordonnees.forEach(function (l) { liste.appendChild(l); });
+    }
+
+    function effacer() {
+      texte.value = '';
+      selects.forEach(function (s) { s.value = ''; });
+      appliquer();
+    }
+
+    // Rétablit l'état depuis l'adresse : un lien filtré partagé rouvre la même vue.
+    var initial = new URLSearchParams(window.location.search);
+    if (initial.get('q')) texte.value = initial.get('q');
+    selects.forEach(function (s) {
+      var v = initial.get(s.dataset.filtre);
+      if (v) s.value = v;
+    });
+    if (initial.get('tri')) tri.value = initial.get('tri');
+
+    selects.forEach(function (s) { s.addEventListener('change', appliquer); });
+    texte.addEventListener('input', appliquer);
+    tri.addEventListener('change', function () { trier(); appliquer(); });
+    reset.addEventListener('click', effacer);
+    if (reset2) reset2.addEventListener('click', effacer);
+
+    trier();
+    appliquer();
+  });
+</script>

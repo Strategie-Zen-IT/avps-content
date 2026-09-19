@@ -1,40 +1,7 @@
-{{/* ==========================================================================
-   NETTOYAGE CHIRURGICAL DES CATÉGORIES VIDES (IMMUNE AUX PIÈGES D'URLS)
-   ========================================================================== */}}
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  // 1. Hugo génère proprement la liste de TOUS les titres de vos catégories
-  const checkedCategories = [
-    {{- range .Site.Pages }}
-      {{- if .IsSection }}
-        "{{ .Title }}",
-      {{- end }}
-    {{- end }}
-  ];
-
-  // 2. Le script inspecte les éléments réels de la sidebar au chargement
-  document.querySelectorAll('#R-sidebar li > a').forEach(function(anchor) {
-    const linkText = anchor.textContent.trim();
-
-    // Si le lien correspond à l'une de nos catégories
-    if (checkedCategories.includes(linkText)) {
-      const listItem = anchor.closest('li');
-
-      if (listItem) {
-        // Dans le thème Relearn, la présence d'enfants crée un élément <label> ou une icône de chevron
-        const hasArrow = listItem.querySelector('label') ||
-                         listItem.querySelector('.fa-chevron-right') ||
-                         listItem.querySelector('.fa-chevron-down');
-
-        // S'il n'y a PAS de flèche ">", c'est que la catégorie est vide !
-        if (!hasArrow) {
-          listItem.style.setProperty('display', 'none', 'important');
-        }
-      }
-    }
-  });
-});
-</script>
+{{/* Le script qui masquait côté client les rubriques sans enfant a été retiré le
+     19/09/2026 : depuis que les fiches sont sorties du menu, AUCUNE famille n'a plus
+     d'enfant, et il les masquait donc toutes. Les familles sans offre ouverte sont
+     désormais écartées au build, dans `_relearn/pages.gotmpl`. */}}
 
 {{/* ==========================================================================
    SEO TECHNIQUE

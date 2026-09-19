@@ -1,0 +1,38 @@
+{{- /*
+  Liste des flux RSS disponibles : un par famille de métier, un par collectivité.
+  Hugo les génère déjà tous ; ce shortcode ne fait que les rendre visibles.
+  Paramètre `axe` : "familles" (rubriques) ou "collectivites".
+*/ -}}
+{{- $axe := .Get "axe" | default "familles" }}
+<ul class="avp-flux">
+  {{- if eq $axe "familles" }}
+    {{- range sort site.Sections "Title" }}
+      {{- if ne .Section "archives" }}
+        {{- $ouvertes := len (partial "avp-actives.html" .RegularPages) }}
+        {{- if gt $ouvertes 0 }}
+    <li>
+      <a class="avp-flux__nom" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      <span class="avp-flux__nb">{{ $ouvertes }}</span>
+      {{- with .OutputFormats.Get "rss" }}<a class="avp-flux__rss" href="{{ .RelPermalink }}"><i class="fas fa-rss" aria-hidden="true"></i> flux</a>{{ end }}
+    </li>
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  {{- else }}
+    {{- with site.Taxonomies.collectivites }}
+      {{- range $nom, $terme := . }}
+        {{- $page := site.GetPage (printf "/collectivites/%s" $nom) }}
+        {{- with $page }}
+          {{- $ouvertes := len (partial "avp-actives.html" .Pages) }}
+          {{- if gt $ouvertes 0 }}
+    <li>
+      <a class="avp-flux__nom" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      <span class="avp-flux__nb">{{ $ouvertes }}</span>
+      {{- with .OutputFormats.Get "rss" }}<a class="avp-flux__rss" href="{{ .RelPermalink }}"><i class="fas fa-rss" aria-hidden="true"></i> flux</a>{{ end }}
+    </li>
+          {{- end }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+</ul>

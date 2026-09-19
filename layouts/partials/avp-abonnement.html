@@ -1,0 +1,14 @@
+{{- /* Lien d'abonnement au flux RSS de la page courante (rubrique ou étiquette).
+
+     Hugo génère déjà un flux par section et par terme de taxonomie — 449 en tout — et le
+     thème les déclare en `<link rel="alternate">`. Ils étaient donc invisibles pour qui
+     n'utilise pas un navigateur qui les détecte. Ce lien les rend simplement visibles. */ -}}
+{{- with .OutputFormats.Get "rss" }}
+<p class="avp-abonnement">
+  <a href="{{ .RelPermalink }}">
+    <i class="fas fa-rss" aria-hidden="true"></i>
+    S'abonner à ces offres
+  </a>
+  <span class="avp-abonnement__aide">Un flux RSS vous prévient des nouvelles offres, sans inscription. <a href="{{ "etre-alerte/" | relLangURL }}">Comment faire</a></span>
+</p>
+{{- end }}

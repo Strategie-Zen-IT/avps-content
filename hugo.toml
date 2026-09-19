@@ -16,19 +16,32 @@ theme = 'hugo-theme-relearn'
   # absent fait ÉCHOUER le build Hugo, ce n'est pas un simple avertissement.
   themeVariant = [ "avps-light", "avps-dark" ]
   landingPageName = "<i class='fa-fw fas fa-home'></i> Bienvenue"
+  # Menu trié alphabétiquement : les familles de métier n'ont pas d'ordre naturel, et un
+  # tri par poids les laisserait dans l'ordre d'apparition des offres.
+  ordersectionsby = "title"
   collapsibleMenu = true
   disableShortcutsTitle = true
   images = ["/assets/logo-avps.svg"]
+
+  # ⚠️ Les clés simples de [params] doivent rester AVANT le premier sous-tableau
+  # ([params.editeur], [params.author]…) : en TOML, tout ce qui suit l'ouverture d'un
+  # sous-tableau lui appartient. Placées après, `dataset_url` et `ga_id` se retrouvaient
+  # dans `params.editeur` et étaient donc introuvables.
+
+  # Adresse du dataset Hugging Face (HF_REPO_ID côté moteur). Vide tant qu'il n'est
+  # pas créé : le lien du pied de page est alors masqué.
+  dataset_url = ""
+
+  # Mesure d'audience Google Analytics 4, chargée UNIQUEMENT après consentement explicite
+  # (voir layouts/partials/avp-consentement.html). Vider cette valeur suffit à tout
+  # désactiver : plus de bannière, plus de script, plus de cookie.
+  ga_id = "G-M5ZZ0TTRB3"
 
   # Éditeur du site (affiché dans le pied de page et les mentions légales).
   [params.editeur]
     nom = "Stratégie Zen IT"
     url = "https://strategiezenit.com"
     contact = "melanie+webmaster@strategiezenit.com"
-
-  # Adresse du dataset Hugging Face (HF_REPO_ID côté moteur). Vide tant qu'il n'est
-  # pas créé : le lien du pied de page est alors masqué.
-  dataset_url = ""
 
   [params.author]
     name = "Stratégie Zen IT"
@@ -90,8 +103,24 @@ theme = 'hugo-theme-relearn'
   corps = 'corps'
   tag = 'tags'
 
+# ⚠️ Une même page ne peut figurer qu'UNE fois dans le menu : déclarée à la fois en
+# raccourci ici et dans l'en-tête de la barre latérale
+# (layouts/partials/_relearn/defaultSidebarHeader.gotmpl), elle disparaît silencieusement
+# de l'en-tête. « Toutes les offres » et « Comprendre les AVP » sont donc UNIQUEMENT dans
+# l'en-tête, juste sous « Bienvenue », et n'ont pas de raccourci.
+
 [params.topbar]
     sidebar = "show"
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-rss'></i> Être alerté"
+pageRef = "/etre-alerte"
+weight = 6
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-box-archive'></i> Offres clôturées"
+pageRef = "/archives"
+weight = 8
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-fw fa-info-circle'></i> À propos"
@@ -118,20 +147,33 @@ weight = 40
   baseName = "flux_ats"
   isHTML = false
 
+# Index JSON des offres ouvertes, produit au build. Sert à la page « Toutes les offres »
+# (filtres côté client, sans dépendance externe) et aux compteurs du menu.
+[outputFormats.offres]
+  mediaType = "application/json"
+  baseName = "offres"
+  isPlainText = true
+  notAlternative = true
+
 [outputFormats.sitemap-index]
   mediaType = "application/xml"
   baseName = "sitemap-index"
   isHTML = false
 
 [outputs]
-  home = ['html', 'rss', 'print','markdown','jobs_sitemap','flux_ats','sitemap-index']
+  home = ['html', 'rss', 'print','markdown','jobs_sitemap','flux_ats','sitemap-index','offres']
   page = ['html', 'print','markdown']
   section = ['html', 'rss', 'print','markdown']
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true # Autorise le HTML brut dans le Markdown (pied de page, centrage)
+      # HTML brut DÉSACTIVÉ (19/09/2026). Les fiches sont écrites par le moteur à partir
+      # d'un PDF lu par un modèle : le laisser actif revenait à publier tel quel le HTML
+      # qui s'y glisserait. Le coût de la bascule a été nul, une seule balise existait
+      # dans tout le contenu. Les shortcodes et les gabarits ne sont pas concernés :
+      # leur sortie HTML passe indépendamment de ce réglage.
+      unsafe = false
 
 [module]
   [[module.mounts]]

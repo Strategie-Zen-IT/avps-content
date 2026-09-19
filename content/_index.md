@@ -16,6 +16,12 @@ Les avis de vacance de poste (AVP) paraissent en données ouvertes sur
 [data.gouv.nc](https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc)
 et arrivent ici quelques heures après leur parution.
 
+{{% notice style="tip" title="Première visite ?" icon="book-open" %}}
+Corps, grade, famille de métier, code ROME, durée de résidence : le vocabulaire des avis
+n'est pas évident quand on ne vient pas de la fonction publique.
+**[Comprendre les AVP](/comprendre-les-avis/)** l'explique en quelques minutes.
+{{% /notice %}}
+
 ### 🔎 Comment chercher
 
 👈 **Le menu latéral classe les offres par famille de métier** — les 41 familles du

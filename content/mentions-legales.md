@@ -12,11 +12,33 @@ des utilisateurs et visiteurs du site les informations suivantes.
 
 ### Informations légales
 
-- **Propriétaire et éditeur du site** : SARL Stratégie Zen IT — [strategiezenit.com](https://strategiezenit.com)
-- **Responsable de la publication** : Mélanie Gault, Stratégie Zen IT (personne physique)
-- **Contact du responsable de la publication et du webmaster** : melanie+webmaster@strategiezenit.com
-- **Hébergeur** : GitHub Pages, un service fourni par GitHub, Inc., 88 Colin P. Kelly Jr.
-  Street, San Francisco, CA 94107, États-Unis.
+- **Éditeur du site** : SARL Stratégie Zen IT, société à responsabilité limitée au
+  capital de 100 000 XPF
+- **Siège social** : BP 15217 — 98804 Nouméa, Nouvelle-Calédonie
+- **RIDET** : 1 560 648.001
+- **Téléphone** : +687 91 39 90
+- **Courriel** : melanie+webmaster@strategiezenit.com — [strategiezenit.com](https://strategiezenit.com)
+- **Directrice de la publication** : Mélanie Gault
+- **Hébergeur** : GitHub Pages, service fourni par GitHub, Inc., 88 Colin P. Kelly Jr.
+  Street, San Francisco, CA 94107, États-Unis — [github.com](https://github.com)
+
+### Origine et licence des données
+
+Les avis de vacance de poste republiés ici proviennent du jeu de données
+[« Avis de vacances de poste (AVP) — DRHFPNC »](https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc)
+de la plateforme de données ouvertes de la Nouvelle-Calédonie.
+
+- **Producteur** : Direction des ressources humaines et de la fonction publique de
+  Nouvelle-Calédonie (DRHFPNC)
+- **Éditeur de la plateforme** : Gouvernement de la Nouvelle-Calédonie
+- **Licence** : [Licence Ouverte v2.0](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
+  (Etalab), qui autorise la réutilisation sous réserve de mentionner la paternité et la
+  date de mise à jour des données.
+
+**Date des données.** Chaque fiche porte la date de mise en ligne de l'avis et sa date de
+clôture, telles qu'elles figurent à la source. La date de la dernière reconstruction du
+site est indiquée en pied de page ; le contenu est rafraîchi plusieurs fois par jour.
+En cas de divergence, la plateforme data.gouv.nc et le PDF officiel font foi.
 
 ### Présentation et principe
 
@@ -68,24 +90,60 @@ Le Site contient des liens vers d'autres sites (source officielle, sites des
 collectivités, cartographie OpenStreetMap). L'éditeur n'a pas la possibilité de vérifier
 l'ensemble du contenu de ces sites et décline toute responsabilité quant à leur contenu.
 
-**Le Site ne dépose aucun cookie et n'embarque aucun outil de mesure d'audience.** Seule
-votre préférence d'affichage (thème clair ou sombre) est enregistrée localement dans votre
-navigateur (localStorage) et ne quitte jamais votre appareil. Les fonds de carte sont
-chargés depuis les serveurs d'OpenStreetMap, soumis à leur propre
-[politique de confidentialité](https://wiki.osmfoundation.org/wiki/Privacy_Policy).
+**Aucun cookie n'est déposé sans votre accord.** Votre préférence d'affichage (thème clair
+ou sombre) et votre réponse à la bannière de consentement sont enregistrées localement dans
+votre navigateur (localStorage) et ne quittent jamais votre appareil.
+
+**Mesure d'audience.** Le Site utilise Google Analytics 4 pour savoir quelles offres sont
+consultées. Ce service dépose des cookies et **n'est chargé qu'après votre accord
+explicite** : tant que vous n'avez pas répondu à la bannière, ou si vous avez refusé,
+aucun script Google n'est chargé et aucune donnée ne part. Vous pouvez revenir sur votre
+choix à tout moment par le lien « Mesure d'audience » en pied de page. Le détail figure
+dans la [politique de cookies](/politique-cookies/).
+
+Des tiers reçoivent par ailleurs votre adresse IP, parce que votre navigateur va chercher
+des fichiers chez eux pour afficher les pages :
+
+| Tiers | Ce qui est chargé | Consentement requis | Politique |
+|---|---|---|---|
+| GitHub, Inc. | l'hébergement des pages elles-mêmes | non, indispensable au service | [Confidentialité GitHub](https://docs.github.com/fr/site-policy/privacy-policies/github-general-privacy-statement) |
+| Google LLC (Cloud Storage) | les illustrations des offres, servies depuis un espace de stockage public | non, indispensable à l'affichage | [Confidentialité Google](https://policies.google.com/privacy) |
+| OpenStreetMap Foundation | les fonds de carte | non, indispensable à l'affichage | [Confidentialité OSM](https://wiki.osmfoundation.org/wiki/Privacy_Policy) |
+| Google LLC (Analytics) | la mesure d'audience | **oui** | [Confidentialité Google](https://policies.google.com/privacy) |
+
+Hors mesure d'audience, aucun de ces chargements ne dépose de cookie, mais tous impliquent
+une connexion à un serveur tiers, qui journalise l'adresse IP appelante.
 
 ### Données personnelles
 
 Le Site ne collecte aucune donnée personnelle sur ses visiteurs : il n'y a ni formulaire,
 ni compte, ni inscription.
 
-Les fiches peuvent mentionner des coordonnées de contact (nom, téléphone, courriel d'un
-service ou d'un agent) **telles qu'elles figurent dans l'avis officiel publié par la
-collectivité**. Toute personne concernée dispose d'un droit d'accès, de rectification et
-de suppression de ces données sur le Site. Pour l'exercer, écrivez à
-melanie+dpo@strategiezenit.com en précisant la référence de l'avis ; la demande sera
-traitée dans les meilleurs délais. La correction de la source officielle relève de la
-collectivité émettrice.
+#### Personnes nommées dans les avis
+
+Les fiches reprennent des données à caractère personnel **telles qu'elles figurent dans
+l'avis officiel publié par la collectivité** : nom et fonction de l'interlocuteur du
+recrutement ou du supérieur hiérarchique, adresse électronique et numéro de téléphone du
+service recruteur.
+
+- **Origine** : republication d'un document administratif déjà rendu public par la
+  collectivité, diffusé en données ouvertes sous Licence Ouverte v2.0. Aucune de ces
+  données n'est collectée par le Site, ni enrichie, ni recoupée avec une autre source.
+- **Finalité** : permettre à un candidat de joindre le service qui recrute.
+- **Base légale** : intérêt légitime à faciliter l'accès à une information publique
+  (article 6.1.f du RGPD).
+- **Durée de conservation** : le temps de la publication de l'offre, puis de son archivage
+  sur le Site. Les avis clôturés sont conservés pour ne pas rompre les liens déjà partagés
+  ou indexés. *(La durée de conservation des archives est en cours d'arbitrage ; elle sera
+  précisée ici dès qu'elle sera arrêtée.)*
+- **Destinataires** : personne. Ces données ne sont ni cédées, ni vendues, ni transmises à
+  un tiers ; elles sont simplement affichées telles que publiées à la source.
+
+Toute personne concernée dispose d'un droit d'accès, de rectification, d'effacement et
+d'opposition. Pour l'exercer, écrivez à melanie+dpo@strategiezenit.com en précisant la
+référence de l'avis : le retrait sur ce Site est effectué sans délai injustifié. La
+correction de la **source officielle** relève en revanche de la collectivité émettrice et
+de la DRHFPNC, que nous ne pouvons pas modifier.
 
 Ces traitements sont réalisés dans le respect de la loi n° 78-17 du 6 janvier 1978
 modifiée relative à l'informatique, aux fichiers et aux libertés, et du Règlement général

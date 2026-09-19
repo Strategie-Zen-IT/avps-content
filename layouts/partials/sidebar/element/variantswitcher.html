@@ -1,0 +1,83 @@
+{{- /* Surcharge : interrupteur clair/sombre à la place de la liste déroulante du thème.
+
+     Le `<select>` d'origine est CONSERVÉ, simplement masqué à l'œil : c'est lui que la
+     logique du thème écoute (`handleVariantSwitcher`) et met à jour (`markVariant`), et
+     c'est lui qui reste exposé aux lecteurs d'écran. L'interrupteur ne fait que le
+     piloter. Rien n'est réimplémenté : la persistance et le basculement restent au thème.
+
+     Repli automatique sur la liste déroulante au-delà de deux variantes : un interrupteur
+     à deux positions ne saurait pas en représenter trois. */ -}}
+{{- $allthemevariants := partialCached "_relearn/themeVariants.gotmpl" site.Home }}
+{{- $themevariants := slice }}
+{{- range $allthemevariants }}
+  {{- if not .hidden }}
+    {{- $themevariants = $themevariants | append . }}
+  {{- end }}
+{{- end }}
+{{- $showvariantswitch := gt (int (len $themevariants)) 1 }}
+{{- $deuxVariantes := eq (int (len $themevariants)) 2 }}
+{{- if $showvariantswitch }}
+  {{- $icon := .element.icon | default "paint-brush" }}
+  {{- if and $icon (not (findRE ".*?\\bfa-\\w.*?" $icon)) }}
+    {{- $icon = printf "fa-fw fas fa-%s" $icon }}
+  {{- end }}
+            <li class="R-variantswitcher{{ if $deuxVariantes }} avp-variantswitcher{{ end }}">
+              <div class="padding menu-control">
+                {{- if not $deuxVariantes }}<i class="{{ $icon }}"></i><span>&nbsp;</span>{{ end }}
+                <div class="control-style">
+                  <label class="a11y-only" for="R-select-variant">{{ T "Theme" }}</label>
+                  <select id="R-select-variant"{{ if $deuxVariantes }} class="a11y-only"{{ end }}>
+                    {{- $firstvariant := true }}
+                    {{- range $themevariants }}
+                      {{- $themevariant := . }}
+                    <option id="R-select-variant-{{ $themevariant.identifier }}" value="{{ $themevariant.identifier }}"{{- if $firstvariant }} selected{{ end }}>{{ $themevariant.name }}</option>
+                      {{- $firstvariant = false }}
+                    {{- end }}
+                  </select>
+                </div>
+                {{- if $deuxVariantes }}
+                {{- $clair := index $themevariants 0 }}
+                {{- $sombre := index $themevariants 1 }}
+                <button type="button" class="avp-bascule" id="avp-bascule-theme"
+                        role="switch" aria-checked="false"
+                        data-clair="{{ $clair.identifier }}" data-sombre="{{ $sombre.identifier }}">
+                  <span class="avp-bascule__icone" aria-hidden="true"><i class="fas fa-sun"></i></span>
+                  <span class="avp-bascule__piste"><span class="avp-bascule__curseur"></span></span>
+                  <span class="avp-bascule__icone" aria-hidden="true"><i class="fas fa-moon"></i></span>
+                  <span class="a11y-only">Basculer entre le thème clair et le thème sombre</span>
+                </button>
+                {{- end }}
+                <div class="clear"></div>
+              </div>
+              <script>window.relearn.markVariant();</script>
+            </li>
+{{- if $deuxVariantes }}
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var bascule = document.getElementById('avp-bascule-theme');
+    var select = document.getElementById('R-select-variant');
+    if (!bascule || !select) return;
+
+    var sombre = bascule.dataset.sombre;
+
+    function refleter() {
+      bascule.setAttribute('aria-checked', select.value === sombre ? 'true' : 'false');
+    }
+
+    bascule.addEventListener('click', function () {
+      select.value = (select.value === sombre) ? bascule.dataset.clair : sombre;
+      // On passe par l'API publique du thème plutôt que de manipuler les classes :
+      // elle gère la persistance, le rechargement des feuilles et l'événement associé.
+      window.relearn.changeVariant(select.value);
+      refleter();
+    });
+
+    // Le thème peut changer de variante sans passer par nous (restauration au chargement,
+    // second onglet) : on se resynchronise sur son événement.
+    document.addEventListener('themeVariantLoaded', refleter);
+    select.addEventListener('change', refleter);
+    refleter();
+  });
+</script>
+{{- end }}
+{{- end }}

@@ -8,6 +8,18 @@
 {{- if .Params.ref }}
   {{- partial "avp-candidater.html" (dict "page" . "avecqr" false "rappel" true) }}
 
+  {{- /* Transparence sur le mode de production. Elle n'existait que sur « À propos » et
+         les mentions légales : un candidat arrivant depuis un moteur de recherche
+         directement sur une offre ne la voyait jamais. */ -}}
+  <p class="avp-transparence">
+    <i class="fas fa-robot" aria-hidden="true"></i>
+    Fiche produite automatiquement à partir de l'avis officiel, avec l'aide d'une
+    intelligence artificielle.
+    {{- with .Params.url_pdf }}
+    <a href="{{ . }}" target="_blank" rel="noopener">Seul le PDF fait foi</a>.
+    {{- else }} Seul le PDF officiel fait foi.{{ end }}
+  </p>
+
   {{- $axes := slice
       (dict "taxo" "collectivites" "libelle" "Le même employeur")
       (dict "taxo" "familles"      "libelle" "Le même métier")
@@ -55,6 +67,13 @@
   <div class="avp-footer-legal">
     <p>
       <a href="{{ "mentions-legales/" | relLangURL }}">Mentions légales</a>
+      {{- if site.Params.ga_id }}
+      <span class="avp-footer-sep">|</span>
+      {{- /* Le consentement doit pouvoir être retiré aussi facilement qu'il est donné. */ -}}
+      <a href="#" data-avp-consent-rouvrir>Mesure d'audience</a>
+      {{- end }}
+      <span class="avp-footer-sep">|</span>
+      <a href="{{ "politique-cookies/" | relLangURL }}">Cookies</a>
       <span class="avp-footer-sep">|</span>
       <a href="{{ "a-propos/" | relLangURL }}">À propos</a>
       {{- with site.Params.editeur.contact }}

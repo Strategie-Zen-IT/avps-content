@@ -201,18 +201,34 @@
         attribution: '© OpenStreetMap contributors'
       }).addTo(map);
 
-      const popupHtml = `
-        <div class="avp-map-popup">
-          <h4 class="avp-popup-title">${title}</h4>
-          <p class="avp-popup-meta">
-            <i class="fas fa-barcode"></i> <code>${ref}</code><br>
-            <i class="fas fa-map-marker-alt"></i> ${address ? address : ville}
-          </p>
-        </div>
-      `;
+      // Popup construite par le DOM : `title` et `address` viennent d'une extraction faite
+      // par un modèle sur un PDF. Un gabarit de chaîne y interpolerait du HTML tel quel.
+      const popup = document.createElement('div');
+      popup.className = 'avp-map-popup';
+      const titrePopup = document.createElement('h4');
+      titrePopup.className = 'avp-popup-title';
+      titrePopup.textContent = title;
+      popup.appendChild(titrePopup);
+      const metaPopup = document.createElement('p');
+      metaPopup.className = 'avp-popup-meta';
+      const icoRef = document.createElement('i');
+      icoRef.className = 'fas fa-barcode';
+      icoRef.setAttribute('aria-hidden', 'true');
+      metaPopup.appendChild(icoRef);
+      metaPopup.appendChild(document.createTextNode(' '));
+      const refCode = document.createElement('code');
+      refCode.textContent = ref;
+      metaPopup.appendChild(refCode);
+      metaPopup.appendChild(document.createElement('br'));
+      const icoLieu = document.createElement('i');
+      icoLieu.className = 'fas fa-map-marker-alt';
+      icoLieu.setAttribute('aria-hidden', 'true');
+      metaPopup.appendChild(icoLieu);
+      metaPopup.appendChild(document.createTextNode(' ' + (address ? address : ville)));
+      popup.appendChild(metaPopup);
 
       L.marker([lat, lng], { alt: "Localisation du poste", icon: avpRingIcon() }).addTo(map)
-        .bindPopup(popupHtml, { maxHeight: 260, minWidth: 220, maxWidth: 280, keepInView: true, autoPanPadding: L.point(16, 60) })
+        .bindPopup(popup, { maxHeight: 260, minWidth: 220, maxWidth: 280, keepInView: true, autoPanPadding: L.point(16, 60) })
         .openPopup();
     });
   </script>

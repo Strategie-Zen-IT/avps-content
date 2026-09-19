@@ -71,6 +71,54 @@
       {{- end }}
     ];
 
+    // Les popups sont construites par le DOM, pas par concaténation de chaînes : le titre
+    // et la ville proviennent d'une extraction faite par un modèle sur un PDF, et un titre
+    // contenant du HTML s'exécuterait dans la page (audit du 19/09/2026). `textContent`
+    // neutralise tout balisage, quelle que soit la valeur reçue.
+    function popupAvp(avp) {
+      var bloc = document.createElement('div');
+      bloc.className = 'avp-map-popup';
+
+      var titre = document.createElement('h4');
+      titre.className = 'avp-popup-title';
+      var lien = document.createElement('a');
+      lien.href = avp.url;
+      lien.textContent = avp.title;
+      titre.appendChild(lien);
+      bloc.appendChild(titre);
+
+      var meta = document.createElement('p');
+      meta.className = 'avp-popup-meta';
+      // Les icônes sont du balisage que NOUS écrivons : les créer en DOM aussi évite de
+      // rouvrir une voie d'injection par `innerHTML` pour un simple pictogramme.
+      var icoRef = document.createElement('i');
+      icoRef.className = 'fas fa-barcode';
+      icoRef.setAttribute('aria-hidden', 'true');
+      meta.appendChild(icoRef);
+      meta.appendChild(document.createTextNode(' '));
+      var refCode = document.createElement('code');
+      refCode.textContent = avp.ref;
+      meta.appendChild(refCode);
+      meta.appendChild(document.createElement('br'));
+      var icoLieu = document.createElement('i');
+      icoLieu.className = 'fas fa-map-marker-alt';
+      icoLieu.setAttribute('aria-hidden', 'true');
+      meta.appendChild(icoLieu);
+      meta.appendChild(document.createTextNode(' Ville : '));
+      var ville = document.createElement('strong');
+      ville.textContent = avp.ville;
+      meta.appendChild(ville);
+      bloc.appendChild(meta);
+
+      var consulter = document.createElement('a');
+      consulter.href = avp.url;
+      consulter.className = 'avp-popup-link';
+      consulter.textContent = "Consulter l'offre →";
+      bloc.appendChild(consulter);
+
+      return bloc;
+    }
+
     var markers = {}, fams = {}, bounds = [];
     points.forEach(function (avp) {
       var key = avp.lat + "_" + avp.lng;
@@ -79,19 +127,21 @@
         if (fams[key].indexOf(f) === -1) fams[key].push(f);
       });
 
-      var item = '<div class="avp-map-popup">'
-        + '<h4 class="avp-popup-title"><a href="' + avp.url + '">' + avp.title + '</a></h4>'
-        + '<p class="avp-popup-meta"><i class="fas fa-barcode"></i> <code>' + avp.ref + '</code><br>'
-        + '<i class="fas fa-map-marker-alt"></i> Ville : <strong>' + avp.ville + '</strong></p>'
-        + '<a href="' + avp.url + '" class="avp-popup-link">Consulter l\'offre →</a></div>';
+      var item = popupAvp(avp);
 
       if (markers[key]) {
         var p = markers[key].getPopup();
-        p.setContent(p.getContent() + '<hr class="avp-popup-separator">' + item);
+        var conteneur = p.getContent();
+        conteneur.appendChild(document.createElement('hr')).className = 'avp-popup-separator';
+        conteneur.appendChild(item);
         markers[key].setIcon(ringIcon(fams[key]));
       } else {
         var m = L.marker([avp.lat, avp.lng], { alt: avp.title, icon: ringIcon(fams[key]) }).addTo(map);
-        m.bindPopup(item, { maxHeight: 260, minWidth: 220, maxWidth: 280, keepInView: true, autoPanPadding: L.point(16, 60) });
+        // Leaflet accepte un noeud DOM comme contenu de popup : on lui passe un
+        // conteneur, ce qui permet d'y empiler les offres partageant le même point.
+        var conteneur = document.createElement('div');
+        conteneur.appendChild(item);
+        m.bindPopup(conteneur, { maxHeight: 260, minWidth: 220, maxWidth: 280, keepInView: true, autoPanPadding: L.point(16, 60) });
         markers[key] = m;
         bounds.push([avp.lat, avp.lng]);
       }

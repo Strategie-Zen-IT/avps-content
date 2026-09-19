@@ -1,0 +1,101 @@
+{{- /*
+  Mesure d'audience Google Analytics 4, SOUS CONSENTEMENT PRÉALABLE.
+
+  GA4 dépose un cookie `_ga` et n'est pas éligible à l'exemption de mesure d'audience de
+  la CNIL : le consentement préalable est donc obligatoire. Rien n'est chargé tant que le
+  visiteur n'a pas explicitement accepté — ni script, ni cookie, ni requête vers Google.
+  Un refus, comme une absence de réponse, laisse le site exactement dans l'état où il est
+  sans mesure d'audience.
+
+  Convention reprise des autres sites de l'éditeur : bannière maison, choix mémorisé dans
+  `localStorage` sous la clé `consent-analytics`.
+
+  Tant que `params.ga_id` est vide, ce partial ne produit RIEN : pas de bannière, pas de
+  script. C'est l'état par défaut.
+*/ -}}
+{{- with site.Params.ga_id }}
+<div id="avp-consent" class="avp-consent" hidden role="dialog" aria-modal="false"
+     aria-labelledby="avp-consent-titre" aria-describedby="avp-consent-texte">
+  <div class="avp-consent__contenu">
+    <p class="avp-consent__titre" id="avp-consent-titre">Mesure d'audience</p>
+    <p class="avp-consent__texte" id="avp-consent-texte">
+      Acceptez-vous une mesure d'audience anonyme (Google Analytics) ? Elle sert
+      uniquement à savoir quelles offres sont consultées, pour améliorer le site.
+      Refuser ne change rien à votre navigation.
+      <a href="{{ "politique-cookies/" | relLangURL }}">En savoir plus</a>
+    </p>
+  </div>
+  <div class="avp-consent__actions">
+    <button type="button" class="avp-consent__btn avp-consent__btn--oui" id="avp-consent-oui">D'accord</button>
+    <button type="button" class="avp-consent__btn" id="avp-consent-non">Non merci</button>
+  </div>
+</div>
+
+<script>
+  (function () {
+    var ID = {{ . }};
+    var CLE = 'consent-analytics';
+
+    function lire() {
+      try { return window.localStorage.getItem(CLE); } catch (e) { return null; }
+    }
+    function ecrire(v) {
+      try { window.localStorage.setItem(CLE, v); } catch (e) { /* navigation privée */ }
+    }
+
+    var charge = false;
+    function chargerAnalytics() {
+      if (charge || !ID) return;
+      charge = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(ID);
+      document.head.appendChild(s);
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { window.dataLayer.push(arguments); }
+      window.gtag = gtag;
+      gtag('js', new Date());
+      // `anonymize_ip` est le comportement par défaut de GA4 ; on le déclare quand même,
+      // pour que l'intention soit lisible dans le code et pas seulement dans la doc.
+      gtag('config', ID, { anonymize_ip: true });
+    }
+
+    var banniere = document.getElementById('avp-consent');
+    function afficher() { if (banniere) banniere.hidden = false; }
+    function masquer() { if (banniere) banniere.hidden = true; }
+
+    function repondre(valeur) {
+      ecrire(valeur);
+      masquer();
+      if (valeur === 'accepte') chargerAnalytics();
+      // Un refus ne recharge pas la page : rien n'a été chargé, il n'y a rien à défaire.
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+      var choix = lire();
+      if (choix === 'accepte') { chargerAnalytics(); return; }
+      if (choix === 'refuse') { return; }
+      afficher();
+    });
+
+    var oui = document.getElementById('avp-consent-oui');
+    var non = document.getElementById('avp-consent-non');
+    if (oui) oui.addEventListener('click', function () { repondre('accepte'); });
+    if (non) non.addEventListener('click', function () { repondre('refuse'); });
+
+    // Le consentement doit pouvoir être retiré aussi facilement qu'il a été donné :
+    // le lien « Gérer la mesure d'audience » du pied de page efface le choix et
+    // réaffiche la bannière. Un accord déjà donné n'est pas révoqué côté Google, mais
+    // plus rien n'est chargé aux visites suivantes tant qu'un nouvel accord n'est pas
+    // donné — il faut recharger la page pour que l'arrêt soit effectif.
+    document.addEventListener('click', function (e) {
+      var lien = e.target.closest && e.target.closest('[data-avp-consent-rouvrir]');
+      if (!lien) return;
+      e.preventDefault();
+      try { window.localStorage.removeItem(CLE); } catch (err) { /* ignoré */ }
+      afficher();
+      if (banniere) banniere.scrollIntoView({ block: 'nearest' });
+    });
+  })();
+</script>
+{{- end }}

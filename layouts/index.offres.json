@@ -1,0 +1,45 @@
+{{- /*
+  Index JSON des offres ouvertes, produit au build (`/offres.json`).
+
+  Deux usages, une seule source : les filtres de la page « Toutes les offres » et les
+  compteurs du menu latéral. Aucun appel réseau à l'exécution, aucune dépendance externe.
+
+  Ne contient QUE ce que les filtres et l'affichage utilisent : inutile de recopier ici
+  tout le JSON-LD, déjà servi par `data/avps/`.
+*/ -}}
+{{- $aujourdhui := now.Format "2006-01-02" }}
+{{- $offres := slice }}
+{{- /* TOUTES les offres, y compris closes et archivées, avec un indicateur `ouverte`.
+       Les consommateurs filtrent selon leur besoin : les compteurs du menu ne comptent
+       que les ouvertes, la recherche affiche les deux mais signale les closes — elle
+       reste le moyen de retrouver une offre dont on a la référence. */ -}}
+{{- range where site.RegularPages "Params.ref" "!=" nil }}
+  {{- $ouverte := ne .Params.archive true }}
+  {{- if $ouverte }}
+    {{- with .Params.date_cloture }}
+      {{- $d := string . }}
+      {{- if and (eq (len $d) 10) (lt $d $aujourdhui) }}{{ $ouverte = false }}{{ end }}
+    {{- end }}
+  {{- end }}
+  {{- $rome := "" }}
+  {{- with .Params.code_rome }}{{ $rome = . }}{{ end }}
+  {{- $offres = $offres | append (dict
+      "ref"          (.Params.ref | default "")
+      "titre"        .Title
+      "url"          .RelPermalink
+      "familles"     (.Params.familles | default slice)
+      "collectivite" (.Params.collectivite | default "")
+      "commune"      (.Params.ville | default "")
+      "province"     (index (.Params.provinces | default slice) 0 | default "")
+      "corps"        (.Params.corps_grade | default "")
+      "cloture"      (.Params.date_cloture | default "")
+      "dispo"        (.Params.disponibilite | default "")
+      "metier"       (.Params.metier_ref_nom | default "")
+      "rome"         $rome
+      "resume"       (.Params.summary | default "")
+      "logo"         (partial "avp-logo.html" .)
+      "ouverte"      $ouverte
+  ) }}
+{{- end }}
+{{- $ouvertes := where $offres "ouverte" true }}
+{{- dict "genere_le" (now.Format "2006-01-02T15:04:05-07:00") "nombre" (len $ouvertes) "total" (len $offres) "offres" $offres | jsonify }}

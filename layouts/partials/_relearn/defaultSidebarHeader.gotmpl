@@ -24,6 +24,25 @@
 		(dict "Menu" "" "Pre" $pre "Post" $post "Title" $title "PageRef" "/" )
 	}}
 {{- end }}
+{{- /* Accès direct à la recherche multicritère, juste sous l'accueil. Laissé dans les
+       raccourcis de pied de menu, il se retrouvait sous une trentaine de familles, donc
+       invisible sans faire défiler. */ -}}
+{{- /* ⚠️ `Name` est INDISPENSABLE, en plus de `Title`. Le thème (_relearn/menuTitle.gotmpl)
+       considère qu'un libellé identique au titre de la page cible a été repris de cette
+       page, et se rabat alors sur `Name` : sans lui, l'entrée reçoit un titre VIDE, est
+       traitée comme masquée et disparaît sans la moindre erreur. C'est exactement ce qui
+       arrivait à « Toutes les offres », dont le libellé est aussi le titre de la page. */ -}}
+{{- $defaultconfigentries = $defaultconfigentries | append
+	(dict "Menu" "" "Pre" (`<i class="fa-fw fas fa-list"></i> ` | safeHTML) "Post" "" "Name" "Toutes les offres" "Title" "Toutes les offres" "PageRef" "/offres" )
+}}
+
+{{- /* Même raison pour la page d'explication du vocabulaire : c'est la première chose
+       dont a besoin quelqu'un qui n'a jamais lu un avis de vacance de poste, elle ne
+       peut pas être reléguée sous la liste des familles. */ -}}
+{{- $defaultconfigentries = $defaultconfigentries | append
+	(dict "Menu" "" "Pre" (`<i class="fa-fw fas fa-book-open"></i> ` | safeHTML) "Post" "" "Name" "Comprendre les AVP" "Title" "Comprendre les AVP" "PageRef" "/comprendre-les-avis" )
+}}
+
 {{- $defaultmenuconfigs = $defaultmenuconfigs | append
 	(dict "type" "menu" "identifier" "homelinks" "disableTitle" true "entries" (slice
 		(dict "Menu" "" "Children" $defaultconfigentries)

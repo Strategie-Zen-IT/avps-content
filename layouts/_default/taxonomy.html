@@ -68,7 +68,8 @@
 
     {{/* Une page de tag présente les offres OUVERTES : les AVP archivés sont écartés
          du compteur, de la carte et de la liste. */}}
-    {{- $actives := partial "avp-actives.html" .Pages }}
+    {{- /* Tri par échéance, la plus proche en tête (même règle que les rubriques). */ -}}
+    {{- $actives := sort (partial "avp-actives.html" .Pages) "Params.date_cloture" "asc" }}
 
     <h1 style="color: var(--MAIN-TITLES-color); margin-bottom: 0.5rem; font-size: 2rem;">
       <i class="fas fa-tag"></i> Offres associées au critère : {{ .Title }}
@@ -106,6 +107,8 @@
       ) }}
     </div>
     {{- end }}
+
+    {{ partial "avp-abonnement.html" . }}
 
     {{ partial "avp-cards-list.html" $actives }}
 

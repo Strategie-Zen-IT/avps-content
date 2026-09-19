@@ -1,3 +1,5 @@
+{{ partial "avp-consentement.html" . }}
+
 <script src="{{ "vendor/easyqrcode/easy.qrcode.min.js" | relURL }}" defer></script>
 
 <script>
@@ -73,6 +75,153 @@
       else if (diffDays <= 7) html = '<span class="badge badge-warning">Plus que ' + diffDays + ' jours</span>';
       badge.innerHTML = html;
     });
+  });
+
+  // 🔢 COMPTEURS D'OFFRES DANS LE MENU
+  //    Le libellé des entrées de menu est rendu par un partial du thème partagé avec le
+  //    fil d'Ariane et les flux : l'étendre aurait affiché le compteur partout. On
+  //    l'ajoute donc après coup, à partir de /offres.json. Sans JavaScript, le menu
+  //    reste parfaitement utilisable, simplement sans les nombres.
+  // NB : dans un bloc <script>, Go échappe ET met déjà la valeur entre guillemets. Ne
+  //      pas y ajouter de `jsonify` ni de quotes, sinon on obtient une chaîne qui
+  //      contient elle-même des guillemets. Et pas d'accolades doubles en commentaire :
+  //      Hugo les interprète comme une action de template.
+  document.addEventListener("DOMContentLoaded", function () {
+    var menu = document.getElementById('R-sidebar');
+    if (!menu) return;
+    fetch({{ "offres.json" | relURL }})
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (data) {
+        if (!data) return;
+        var parSection = {};
+        data.offres.forEach(function (o) {
+          if (!o.ouverte) return;                    // le menu ne compte que l'ouvert
+          // La section est le premier segment de l'adresse de l'offre.
+          var seg = (o.url || '').split('/').filter(Boolean)[0];
+          if (seg) parSection[seg] = (parSection[seg] || 0) + 1;
+        });
+        menu.querySelectorAll('li[data-nav-id] > a').forEach(function (lien) {
+          var segs = (new URL(lien.href, window.location.origin)).pathname
+            .replace(/\/index\.html$/, '')
+            .split('/').filter(Boolean);
+          if (segs.length !== 1) return;              // seules les rubriques de 1er niveau
+          var n = parSection[segs[0]];
+          if (!n) return;
+          if (lien.querySelector('.avp-menu-compte')) return;
+          var badge = document.createElement('span');
+          badge.className = 'avp-menu-compte';
+          badge.textContent = n;
+          badge.setAttribute('aria-label', n + ' offre' + (n > 1 ? 's' : '') + ' ouverte' + (n > 1 ? 's' : ''));
+          lien.appendChild(badge);
+        });
+      })
+      .catch(function () { /* sans le JSON, le menu reste sans compteurs */ });
+  });
+
+  // 🔎 RÉSULTATS DE RECHERCHE EN CARTES
+  //    Le thème rend chaque résultat en simple lien. Sur la page de recherche, on les
+  //    enrichit APRÈS coup à partir de /offres.json (déjà produit au build pour la page
+  //    « Toutes les offres ») : employeur, logo, commune, échéance. Les résultats qui ne
+  //    sont pas des offres — pages éditoriales — gardent leur rendu d'origine.
+  document.addEventListener("DOMContentLoaded", function () {
+    var conteneur = document.getElementById('R-searchresults');
+    if (!conteneur) return;
+
+    var parOffre = null;
+    var enAttente = [];
+
+    function chemin(url) {
+      try {
+        return new URL(url, window.location.origin).pathname
+          .replace(/\/index\.html$/, '')
+          .replace(/\/+$/, '');
+      } catch (e) { return ''; }
+    }
+
+    function enrichir(lien) {
+      if (!parOffre || lien.dataset.avpEnrichi) return;
+      var offre = parOffre[chemin(lien.getAttribute('href'))];
+      if (!offre) return;
+      lien.dataset.avpEnrichi = '1';
+      lien.classList.add('avp-resultat');
+      if (!offre.ouverte) lien.classList.add('avp-resultat--close');
+      lien.textContent = '';
+
+      var entete = document.createElement('span');
+      entete.className = 'avp-resultat__entete';
+      if (offre.familles && offre.familles.length) {
+        var fam = document.createElement('span');
+        fam.className = 'avp-resultat__famille';
+        fam.textContent = offre.familles[0];
+        entete.appendChild(fam);
+      }
+      if (!offre.ouverte) {
+        var clos = document.createElement('span');
+        clos.className = 'badge badge-expired';
+        clos.textContent = 'Clôturée';
+        entete.appendChild(clos);
+      }
+      lien.appendChild(entete);
+
+      var titre = document.createElement('span');
+      titre.className = 'avp-resultat__titre';
+      titre.textContent = offre.titre;
+      lien.appendChild(titre);
+
+      var employeur = document.createElement('span');
+      employeur.className = 'avp-resultat__employeur';
+      if (offre.logo) {
+        var img = document.createElement('img');
+        img.src = offre.logo;
+        img.alt = '';
+        img.loading = 'lazy';
+        img.className = 'avp-resultat__logo';
+        img.onerror = function () { img.remove(); };
+        employeur.appendChild(img);
+      }
+      employeur.appendChild(document.createTextNode(offre.collectivite || 'Employeur non précisé'));
+      lien.appendChild(employeur);
+
+      var meta = document.createElement('span');
+      meta.className = 'avp-resultat__meta';
+      if (offre.commune) meta.appendChild(document.createTextNode(offre.commune));
+      if (offre.cloture) {
+        if (offre.commune) meta.appendChild(document.createTextNode(' · '));
+        meta.appendChild(document.createTextNode("jusqu'au " + offre.cloture));
+      }
+      lien.appendChild(meta);
+    }
+
+    function traiter(racine) {
+      var liens = racine.matches && racine.matches('a.autocomplete-suggestion')
+        ? [racine]
+        : Array.prototype.slice.call(racine.querySelectorAll ? racine.querySelectorAll('a.autocomplete-suggestion') : []);
+      liens.forEach(function (l) {
+        if (parOffre) { enrichir(l); } else { enAttente.push(l); }
+      });
+    }
+
+    // Les résultats arrivent de façon asynchrone, et à chaque frappe : on observe plutôt
+    // que d'essayer de deviner le moment où ils sont prêts.
+    new MutationObserver(function (mutations) {
+      mutations.forEach(function (m) {
+        Array.prototype.forEach.call(m.addedNodes, function (n) {
+          if (n.nodeType === 1) traiter(n);
+        });
+      });
+    }).observe(conteneur, { childList: true, subtree: true });
+
+    fetch({{ "offres.json" | relURL }})
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (data) {
+        if (!data) return;
+        parOffre = {};
+        data.offres.forEach(function (o) { parOffre[chemin(o.url)] = o; });
+        enAttente.forEach(enrichir);
+        enAttente = [];
+        traiter(conteneur);
+      })
+      .catch(function () { /* sans le JSON, les résultats gardent leur rendu d'origine */ });
   });
 
   // 🃏 📱 AUTO-INJECTION DES QR CODES SUR LES CARTES D'AVP
