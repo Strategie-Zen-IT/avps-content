@@ -39,11 +39,11 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "AdministrativeArea",
-    "name": "Nouméa",
+    "@type": "Place",
+    "name": "GIEP-NC",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "10 rue Kataoui Nouville",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -61,16 +61,20 @@
   "educationRequirements": {
     "credentialCategory": null,
     "competencyRequired": [
-      "Maîtrise de l'ingénierie de formation et en particulier de l'ingénierie de l'insertion",
-      "Connaissance du fonctionnement des institutions et en particulier du système de formation professionnelle en Nouvelle Calédonie"
+      "Ingénierie de formation",
+      "Ingénierie de l'insertion",
+      "Fonctionnement des institutions",
+      "Système de formation professionnelle en Nouvelle Calédonie"
     ]
   },
   "eligibilityToWorkRequirement": null,
   "employerOverview": "Le Groupement pour l'Insertion et l'Evolution Professionnelles en Nouvelle-Calédonie (GIEP-NC) est un ensemble de pôles de compétences pour le développement professionnel.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "OrganizationalUnit",
-    "name": "Pôle Préparatoire – S.P.O.T."
+    "@type": "Organization",
+    "name": "Pôle Préparatoire – S.P.O.T.",
+    "url": null,
+    "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
@@ -87,7 +91,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Nouméa",
+    "name": "Pôle Préparatoire – S.P.O.T.",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "10 rue Kataoui Nouville",
@@ -110,7 +114,7 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "M1503",
-      "name": "Coordination pédagogique"
+      "name": "Formation professionnelle"
     }
   },
   "responsibilities": [
@@ -131,8 +135,11 @@
     "Négocier des conventions, rechercher des financements et participer au pilotage financier du pôle",
     "Assurer la gestion interne et le suivi des budgets du pôle",
     "Assurer le management pluridisciplinaire du personnel du Pôle Préparatoire - SPOT",
-    "Assurer une veille sur l'évolution des produits de formation et d'insertion et sur le maintien des compétences de l'équipe pédagogique",
-    "Participer au recrutement des agents du pôle et aux réunions de direction",
+    "Suivre les indicateurs de performance du pôle",
+    "Assurer une veille sur l'évolution des produits de formation et d'insertion",
+    "Assurer une veille sur le maintien des compétences de l'équipe pédagogique",
+    "Participer au recrutement des agents du pôle",
+    "Participer aux réunions de direction",
     "Représenter son pôle à l'extérieur si besoin",
     "Réaliser le bilan d'activité annuel de son pôle"
   ],
