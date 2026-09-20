@@ -38,6 +38,7 @@ jobs:
           mkdir -p data
           echo "hash: $(git rev-parse --short HEAD)" > data/git_commit.yaml
           python3 scripts/enrich_descriptions.py
+          python3 scripts/enrich_themes.py
           hugo --minify
 
       - name: Upload artifact
@@ -77,6 +78,7 @@ jobs:
           mkdir -p data
           echo "hash: $(git rev-parse --short HEAD)" > data/git_commit.yaml
           python3 scripts/enrich_descriptions.py
+          python3 scripts/enrich_themes.py
           hugo --minify
 
       # Le HTML publié est minifié : un grep sur les sources ne dit rien de ce qui est

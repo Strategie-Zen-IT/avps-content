@@ -1,5 +1,8 @@
 {{- /*
-  Carte Leaflet réutilisable avec pins colorés par famille de métier (anneau segmenté).
+  Carte Leaflet réutilisable avec pins colorés par GRAND THÈME de métiers (anneau segmenté).
+  Par thème et non par famille depuis le 20/09/2026 : 41 nuances en camaïeu ne se
+  distinguent pas dans un anneau de 26 px, sept couleurs franches si. La famille exacte
+  reste dans l'infobulle et sur la fiche.
   Paramètres (dict) :
     id     : identifiant DOM unique du conteneur (obligatoire)
     pages  : collection de pages à cartographier (obligatoire)
@@ -12,7 +15,7 @@
              devient indiscernable d'un zoom fixe. On le relève dans ces cas-là.
              Il s'applique AUSSI au cas « un seul point » : c'est le plus fréquent
              (une direction n'a souvent qu'une offre, ou plusieurs au même point).
-  Les AVP au même point sont regroupés ; l'anneau du pin agrège l'UNION de leurs familles.
+  Les AVP au même point sont regroupés ; l'anneau du pin agrège l'UNION de leurs thèmes.
 */ -}}
 {{- $id := .id }}
 {{- $pages := .pages }}
@@ -24,7 +27,7 @@
 
 <div id="{{ $id }}" class="avp-map-container avp-single-map" role="application" aria-label="Carte des vacances de poste"></div>
 
-{{/* Légende cliquable des familles présentes sur cette carte. */}}
+{{/* Légende des thèmes présents sur cette carte. */}}
 {{ partial "avp-map-legend.html" $pages }}
 
 <script>
@@ -33,17 +36,27 @@
     if (typeof L === "undefined") return;
     L.Icon.Default.imagePath = {{ "vendor/leaflet/images/" | relURL }};
 
-    var FAMILY_COLORS = {{ site.Data.familles_couleurs.familles | jsonify | safeJS }};
+    var THEME_COLORS = {{ site.Data.themes_couleurs.themes | jsonify | safeJS }};
+    var FAMILY_THEME = {{ site.Data.familles_themes.familles | jsonify | safeJS }};
+    function themesOf(families) {
+      var out = [];
+      (families || []).forEach(function (f) {
+        var t = FAMILY_THEME[f] || "Autres métiers";
+        if (out.indexOf(t) === -1) out.push(t);
+      });
+      return out;
+    }
 
     var map = L.map("{{ $id }}").setView([{{ index $center 0 }}, {{ index $center 1 }}], {{ $zoom }});
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '© OpenStreetMap contributors'
     }).addTo(map);
 
-    // Icône "anneau segmenté" : 1 famille = anneau plein, N = arcs égaux, 0 = gris.
+    // Icône "anneau segmenté" : 1 thème = anneau plein, N = arcs égaux, 0 = gris.
     function ringIcon(families) {
-      var cols = (families && families.length)
-        ? families.map(function (f) { return FAMILY_COLORS[f] || "#999999"; })
+      var themes = themesOf(families);
+      var cols = themes.length
+        ? themes.map(function (t) { return THEME_COLORS[t] || "#999999"; })
         : ["#cccccc"];
       var bg;
       if (cols.length === 1) {

@@ -49,27 +49,30 @@ FOND_SOMBRE = "#141917"
 CONTRASTE_MIN = 4.5  # WCAG AA, texte normal
 
 # Grands thèmes : (teinte °, saturation, familles du plus foncé au plus clair).
+# Teintes et saturations réglées le 20/09/2026 pour écarter au maximum les sept couleurs de
+# thème entre elles (carte) : l'écart perceptif minimal est passé de 57 à ~95, les deux
+# bleus-verts (technique, santé) et le bleu ardoise étant les paires les plus proches.
 # Les rattachements hors lettre ROME (laboratoire -> santé, restauration -> social,
 # imprimerie -> administration, patrimoine bâti -> technique, météo -> sécurité) ont été
 # validés le 20/09/2026.
 THEMES = {
-    "Nature et cadre de vie": (135, 0.42, [
+    "Nature et cadre de vie": (121, 0.32, [
         "Agriculture et mer", "Espaces verts", "Environnement", "Propreté et gestion des déchets",
     ]),
-    "Technique et infrastructures": (198, 0.55, [
+    "Technique et infrastructures": (200, 0.75, [
         "Infrastructures, réseaux, eaux et assainissements", "Ingénierie industrielle minière et énergétique",
         "Transports terrestres et maritimes", "Aviation civile", "Ateliers et véhicules",
         "Postes et télécommunications", "Topographie et foncier", "Patrimoine bâti",
     ]),
-    "Santé et laboratoire": (172, 0.60, [
+    "Santé et laboratoire": (170, 0.75, [
         "Santé publique soins", "Santé publique équipements de santé", "Politique de santé publique",
         "Santé publique inspection et contrôle", "Laboratoire",
     ]),
-    "Social, éducation et culture": (292, 0.35, [
+    "Social, éducation et culture": (278, 0.45, [
         "Action sociale", "Education", "Formation professionnelle", "Animation", "Culture",
         "Habitat et logement", "Travail", "Restauration collective / hôtellerie",
     ]),
-    "Administration et territoire": (222, 0.38, [
+    "Administration et territoire": (204, 0.30, [
         "Administration générale", "Pilotage", "Ingénierie juridique", "Développement du territoire",
         "Urbanisme", "Population et affaires funéraires", "Communication", "Imprimerie",
     ]),
@@ -81,6 +84,15 @@ THEMES = {
         "Ressources Humaines", "Système d'information",
     ]),
 }
+def couleur_theme(teinte: float, sat: float) -> str:
+    """Couleur franche d'un thème : le ton médian de son camaïeu, lisible en blanc.
+
+    Sert là où 41 nuances ne se lisent pas (marqueurs et légende de la carte, décidé le
+    20/09/2026) : sept couleurs, une par univers de métiers.
+    """
+    return ton_fonce(teinte, sat, 0.34)
+
+
 DEFAUT = "#6B7280"          # famille absente des thèmes : gris neutre (ton foncé)
 DEFAUT_CLAIR = "#B4B9C2"    # et son pendant pour le thème sombre
 THEME_DEFAUT = "Autres métiers"
@@ -218,6 +230,15 @@ def main() -> int:
             theme, fonce, clair = pal.get(famille, (THEME_DEFAUT, DEFAUT, DEFAUT_CLAIR))
             w.writerow([famille, rome, theme, fonce, clair])
     print(f"✅ {chemin} — colonnes theme / couleur / couleur_claire réécrites pour le moteur")
+
+    # Une couleur par thème, pour la carte et sa légende.
+    chemin_themes = pathlib.Path("data/themes_couleurs.yml")
+    lignes = [ENTETE + "# Couleur franche de chaque grand thème (ton médian de son camaïeu, lisible en\n"
+              "# blanc) : marqueurs et légende de la carte, où 41 nuances ne se distinguent pas.\n", "themes:"]
+    lignes += [f'  "{theme}": "{couleur_theme(teinte, sat)}"' for theme, (teinte, sat, _) in THEMES.items()]
+    lignes += [f'  "{THEME_DEFAUT}": "{DEFAUT}"']
+    chemin_themes.write_text("\n".join(lignes) + "\n", encoding="utf-8")
+    print(f"✅ {chemin_themes} — {len(THEMES)} thèmes")
 
     pire_fonce = min(min(contraste(f, BLANC), contraste(f, FOND_CLAIR)) for _, f, _ in pal.values())
     pire_clair = min(contraste(c, FOND_SOMBRE) for _, _, c in pal.values())

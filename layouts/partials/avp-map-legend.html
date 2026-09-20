@@ -1,35 +1,37 @@
 {{- /*
-  Légende cliquable des familles de métier présentes dans un ensemble de pages.
+  Légende des GRANDS THÈMES de métiers présents dans un ensemble de pages.
   Contexte attendu (.) : une collection de pages (ex: $pages, ou (slice .Page)).
-  Chaque entrée = pastille couleur + nom, lien vers les offres de la famille (page de tag).
-  On réutilise le .RelPermalink réel des pages de tag (préfixe de baseURL + accents corrects).
+  Par thème et non par famille depuis le 20/09/2026, comme les anneaux des marqueurs :
+  sept entrées lisibles au lieu de quarante et une nuances. Chaque entrée mène à la page
+  du thème (taxonomie `themes`, remplie au build par scripts/enrich_themes.py) ; l'attribut
+  title énumère ses familles présentes sur la carte.
 */ -}}
 {{- $pages := . }}
-{{- $colors := site.Data.familles_couleurs.familles }}
-{{- $tagLinks := dict }}
-{{- with site.GetPage "/tags" }}
-  {{- range .Pages }}
-    {{- $tagLinks = merge $tagLinks (dict (.Title | urlize) .RelPermalink) }}
-  {{- end }}
-{{- end }}
-{{- $familles := slice }}
+{{- $colors := site.Data.themes_couleurs.themes }}
+{{- $themeDe := site.Data.familles_themes.familles }}
+{{- $liens := dict }}
+{{- with site.GetPage "/themes" }}{{ range .Pages }}{{ $liens = merge $liens (dict .Title .RelPermalink) }}{{ end }}{{ end }}
+{{- $famillesParTheme := dict }}
 {{- range $pages }}
   {{- range .Params.familles }}
-    {{- $familles = $familles | append . }}
+    {{- $theme := index $themeDe . | default "Autres métiers" }}
+    {{- $liste := index $famillesParTheme $theme | default slice }}
+    {{- $famillesParTheme = merge $famillesParTheme (dict $theme ($liste | append .)) }}
   {{- end }}
 {{- end }}
-{{- $familles = $familles | uniq | sort }}
-{{- if $familles }}
-<div class="avp-map-legend" aria-label="Légende : familles de métier">
-  {{- range $fam := $familles }}
-  {{- $href := index $tagLinks ($fam | urlize) }}
-  {{- $col := index $colors $fam | default "#999999" }}
+{{- if $famillesParTheme }}
+<div class="avp-map-legend" aria-label="Légende : grands thèmes de métiers">
+  {{- range $theme, $familles := $famillesParTheme }}
+  {{- $col := index $colors $theme | default "#999999" }}
+  {{- $href := index $liens $theme }}
   {{- if $href }}
-  <a href="{{ $href }}" class="avp-map-legend__item" title="Voir les offres de la famille « {{ $fam }} »">
-    <span class="avp-map-legend__swatch" style="background: {{ $col }}"></span>{{ $fam }}
+  <a href="{{ $href }}" class="avp-map-legend__item" title="{{ delimit ($familles | uniq | sort) ", " }}">
+    <span class="avp-map-legend__swatch" style="background: {{ $col }}"></span>{{ $theme }}
   </a>
   {{- else }}
-  <span class="avp-map-legend__item"><span class="avp-map-legend__swatch" style="background: {{ $col }}"></span>{{ $fam }}</span>
+  <span class="avp-map-legend__item" title="{{ delimit ($familles | uniq | sort) ", " }}">
+    <span class="avp-map-legend__swatch" style="background: {{ $col }}"></span>{{ $theme }}
+  </span>
   {{- end }}
   {{- end }}
 </div>

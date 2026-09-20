@@ -1,0 +1,18 @@
+# ⚙️ FICHIER GÉNÉRÉ — ne pas éditer à la main.
+#
+# Source : avps-engine/src/pipeline/ref/famille-code-rome.csv (référentiel RESPNC,
+# 41 familles de métiers de la fonction publique calédonienne).
+# Régénérer avec : python3 scripts/generer_familles.py
+#
+# Couleur franche de chaque grand thème (ton médian de son camaïeu, lisible en
+# blanc) : marqueurs et légende de la carte, où 41 nuances ne se distinguent pas.
+
+themes:
+  "Nature et cadre de vie": "#3B723C"
+  "Technique et infrastructures": "#166C98"
+  "Santé et laboratoire": "#138471"
+  "Social, éducation et culture": "#61307E"
+  "Administration et territoire": "#3D5C71"
+  "Sécurité et secours": "#863427"
+  "Finances, RH et numérique": "#8C6521"
+  "Autres métiers": "#6B7280"

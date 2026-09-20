@@ -17,6 +17,7 @@
         "provinces"     (slice "fa-map" "Les offres par province" "Province Sud, Nord ou des îles Loyauté.")
         "corps"         (slice "fa-id-badge" "Les offres par corps et grade" "Le corps, grade ou domaine d'emploi de l'offre.")
         "familles"      (slice "fa-briefcase" "Les familles de métier" "Les 41 familles du référentiel RESPNC.")
+        "themes"        (slice "fa-layer-group" "Les grands thèmes de métiers" "Sept univers qui regroupent les 41 familles du référentiel RESPNC : la couleur des marqueurs de la carte.")
         "tags"          (slice "fa-tags" "Index des mots-clés" "Tous les critères confondus, pour la recherche.")
     }}
     {{- $i := index $intitules $plural | default (index $intitules "tags") }}
@@ -72,6 +73,30 @@
           fiche d'emploi, déjà lié depuis chaque offre. D'où un badge informatif et non
           un lien. */}}
     {{- $term := or (and .Data .Data.Term) .Title }}
+
+    {{/* Page d'un THÈME : badge à sa couleur et liste de ses familles (celles présentes
+         dans les offres ouvertes), chacune vers sa rubrique. */}}
+    {{- with index $.Site.Data.themes_couleurs.themes $term }}
+    <p style="margin-bottom: 1rem;">
+      <span style="display: inline-flex; align-items: center; gap: 8px; padding: 0.6rem 1rem; background-color: {{ . }}; color: #fff; border-radius: 6px; font-weight: bold;">
+        <i class="fas fa-layer-group" aria-hidden="true"></i> Thème « {{ $term }} »
+      </span>
+    </p>
+    {{- $famsTheme := slice }}
+    {{- range $actives }}{{ range .Params.familles }}{{ if eq (index $.Site.Data.familles_themes.familles .) $term }}{{ $famsTheme = $famsTheme | append . }}{{ end }}{{ end }}{{ end }}
+    {{- with $famsTheme | uniq | sort }}
+    <p style="margin-bottom: 2.5rem;">
+      {{- range . }}
+        {{- $fam := . }}
+        {{- $lien := "" }}
+        {{- with site.GetPage "/familles" }}{{ range .Pages }}{{ if eq .Title $fam }}{{ $lien = .RelPermalink }}{{ end }}{{ end }}{{ end }}
+        {{- if $lien }}<a href="{{ $lien }}" class="famille-badge" style="--couleur: {{ index $.Site.Data.familles_couleurs.familles $fam | default "#6B7280" }}">{{ $fam }}</a>
+        {{- else }}<span class="famille-badge" style="--couleur: {{ index $.Site.Data.familles_couleurs.familles $fam | default "#6B7280" }}">{{ $fam }}</span>{{ end }}
+      {{- end }}
+    </p>
+    {{- end }}
+    {{- end }}
+
     {{- $couleur := index $.Site.Data.familles_couleurs.familles $term }}
     {{- with $couleur }}
     <p style="margin-bottom: 2.5rem;">

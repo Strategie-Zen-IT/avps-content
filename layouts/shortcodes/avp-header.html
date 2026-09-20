@@ -197,12 +197,16 @@
       // Chemin des icônes de marqueur (auto-hébergées : la détection auto de Leaflet ne marche pas en local)
       L.Icon.Default.imagePath = {{ "vendor/leaflet/images/" | relURL }};
 
-      // Pin coloré selon la/les famille(s) de métier (anneau segmenté, même rendu que la carte globale).
-      const FAMILY_COLORS = {{ site.Data.familles_couleurs.familles | jsonify | safeJS }};
+      // Pin coloré selon le(s) grand(s) thème(s) de métiers (anneau segmenté, même rendu
+      // que la carte globale : par thème, pas par famille, voir avp-map.html).
+      const THEME_COLORS = {{ site.Data.themes_couleurs.themes | jsonify | safeJS }};
+      const FAMILY_THEME = {{ site.Data.familles_themes.familles | jsonify | safeJS }};
       const FAMILIES = {{ $p.Params.familles | jsonify | safeJS }};
       function avpRingIcon() {
-        const cols = (FAMILIES && FAMILIES.length)
-          ? FAMILIES.map(f => FAMILY_COLORS[f] || "#999999")
+        const themes = [];
+        (FAMILIES || []).forEach(f => { const t = FAMILY_THEME[f] || "Autres métiers"; if (!themes.includes(t)) themes.push(t); });
+        const cols = themes.length
+          ? themes.map(t => THEME_COLORS[t] || "#999999")
           : ["#cccccc"];
         let bg;
         if (cols.length === 1) { bg = cols[0]; }

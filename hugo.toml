@@ -121,6 +121,9 @@ titleCaseStyle = 'none'
 # ------------------------------------------------------------------------------
 [taxonomies]
   famille = 'familles'
+  # Grand thème de métiers (7), déduit de la famille au build par scripts/enrich_themes.py :
+  # une page par thème, cible de la légende de la carte.
+  theme = 'themes'
   collectivite = 'collectivites'
   direction = 'directions'
   commune = 'communes'
@@ -151,6 +154,11 @@ weight = 8
 name = "<i class='fas fa-fw fa-info-circle'></i> À propos"
 pageRef = "/a-propos"
 weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-layer-group'></i> Par thème de métier"
+pageRef = "/themes"
+weight = 11
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-fw fa-landmark'></i> Employeurs publics"
