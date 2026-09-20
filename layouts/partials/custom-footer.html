@@ -121,8 +121,14 @@
   // 🔎 RÉSULTATS DE RECHERCHE EN CARTES
   //    Le thème rend chaque résultat en simple lien. Sur la page de recherche, on les
   //    enrichit APRÈS coup à partir de /offres.json (déjà produit au build pour la page
-  //    « Toutes les offres ») : employeur, logo, commune, échéance. Les résultats qui ne
-  //    sont pas des offres — pages éditoriales — gardent leur rendu d'origine.
+  //    « Toutes les offres ») : employeur, logo, commune, échéance.
+  //
+  //    Les résultats qui ne sont PAS des offres — pages de tags, pages éditoriales —
+  //    gardaient auparavant le rendu du thème : un lien précédé d'un chevron, avec le
+  //    fil d'ariane en dessous. Mélangés aux cartes, ils faisaient désordre, et rien
+  //    n'indiquait qu'il s'agissait d'autre chose qu'une offre. Ils reçoivent donc la
+  //    même carte, avec un badge de type à la place de la famille de métier, et un
+  //    liseré neutre pour qu'on les distingue d'un coup d'œil d'une offre à pourvoir.
   document.addEventListener("DOMContentLoaded", function () {
     var conteneur = document.getElementById('R-searchresults');
     if (!conteneur) return;
@@ -192,12 +198,73 @@
       lien.appendChild(meta);
     }
 
+    // Préfixes posés par i18n/fr.toml sur les pages de tags : « Collectivité : Nouméa ».
+    // On les reconnaît pour en faire un badge de type et ne garder que le terme comme
+    // titre. Tout le reste est une page du site.
+    var TYPES = ['Famille de métier', 'Collectivité', 'Commune', 'Province',
+                 'Corps ou grade', 'Direction'];
+
+    function enrichirPage(lien) {
+      if (lien.dataset.avpEnrichi) return;
+      lien.dataset.avpEnrichi = '1';
+
+      // Le thème a déjà construit le lien : on lui reprend ses trois informations
+      // avant de le vider, plutôt que de les recalculer.
+      var brut = (lien.querySelector('.link') || {}).innerText || lien.innerText || '';
+      var extrait = (lien.querySelector('.context') || {}).innerText || '';
+
+      var type = 'Page du site';
+      var titre = brut.replace(/^»\s*/, '').trim();
+      for (var i = 0; i < TYPES.length; i++) {
+        if (titre.indexOf(TYPES[i] + ' : ') === 0) {
+          type = TYPES[i];
+          titre = titre.slice(TYPES[i].length + 3);
+          break;
+        }
+      }
+
+      lien.textContent = '';
+      lien.classList.add('avp-resultat', 'avp-resultat--page');
+
+      var entete = document.createElement('span');
+      entete.className = 'avp-resultat__entete';
+      var badge = document.createElement('span');
+      badge.className = 'avp-resultat__famille';
+      badge.textContent = type;
+      entete.appendChild(badge);
+      lien.appendChild(entete);
+
+      var t = document.createElement('span');
+      t.className = 'avp-resultat__titre';
+      t.textContent = titre;
+      lien.appendChild(t);
+
+      // Pas de repli sur le fil d'ariane : il affiche le nom technique de la taxonomie
+      // (« collectivites »), ce qui est précisément ce qu'on cherchait à faire
+      // disparaître. Sans extrait, la carte se limite au badge et au titre, ce qui
+      // suffit à savoir où l'on va.
+      if (extrait) {
+        var meta = document.createElement('span');
+        meta.className = 'avp-resultat__meta';
+        meta.textContent = extrait;
+        lien.appendChild(meta);
+      }
+    }
+
+    // Une entrée est une offre si son adresse figure dans /offres.json ; sinon c'est une
+    // page. Les deux reçoivent une carte, la distinction se fait sur le contenu.
+    function presenter(lien) {
+      if (!parOffre || lien.dataset.avpEnrichi) return;
+      if (parOffre[chemin(lien.getAttribute('href'))]) { enrichir(lien); }
+      else { enrichirPage(lien); }
+    }
+
     function traiter(racine) {
       var liens = racine.matches && racine.matches('a.autocomplete-suggestion')
         ? [racine]
         : Array.prototype.slice.call(racine.querySelectorAll ? racine.querySelectorAll('a.autocomplete-suggestion') : []);
       liens.forEach(function (l) {
-        if (parOffre) { enrichir(l); } else { enAttente.push(l); }
+        if (parOffre) { presenter(l); } else { enAttente.push(l); }
       });
     }
 
@@ -217,7 +284,7 @@
         if (!data) return;
         parOffre = {};
         data.offres.forEach(function (o) { parOffre[chemin(o.url)] = o; });
-        enAttente.forEach(enrichir);
+        enAttente.forEach(presenter);
         enAttente = [];
         traiter(conteneur);
       })

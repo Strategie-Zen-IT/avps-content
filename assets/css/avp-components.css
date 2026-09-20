@@ -1547,6 +1547,23 @@ article .R-taxonomy.tags a.term-link {
   border-left-color: #6B7280;
   opacity: 0.78;
 }
+/* Un résultat qui n'est pas une offre — page de tag, page éditoriale — prend la même
+   carte, pour que la liste soit homogène, mais un liseré neutre et un titre un peu plus
+   discret : ce n'est pas un poste à pourvoir, et il ne doit pas en avoir l'air. */
+#R-searchresults .avp-resultat--page {
+  border-left-color: var(--CARD-BORDER-color, #c9bda6);
+  background: color-mix(in srgb, var(--INTERNAL-PRIMARY-color, #0F6E56) 3%, transparent);
+}
+#R-searchresults .avp-resultat--page .avp-resultat__titre {
+  font-size: 0.98rem;
+}
+#R-searchresults .avp-resultat--page .avp-resultat__meta {
+  /* L'extrait tient sur deux lignes : un paragraphe entier déséquilibrerait la liste. */
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
 
 /* ---- Lien d'abonnement au flux --------------------------------------- */
 .avp-abonnement {
