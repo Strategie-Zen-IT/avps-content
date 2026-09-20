@@ -9,8 +9,12 @@
 {{- with trim (or .Description .Summary | plainify | htmlUnescape) "\n\r\t " }}
     <meta property="og:description" content="{{ . }}">
 {{- end }}
+{{- /* Facebook exige la forme langue_TERRITOIRE (fr_FR) : `fr-fr` de Hugo donnait `fr_fr`. */ -}}
 {{- with site.Language.LanguageCode }}
-    <meta property="og:locale" content="{{ replace . `-` `_` }}">
+  {{- $parts := split . "-" }}
+  {{- $locale := index $parts 0 }}
+  {{- if gt (len $parts) 1 }}{{ $locale = printf "%s_%s" $locale (upper (index $parts 1)) }}{{ end }}
+    <meta property="og:locale" content="{{ $locale }}">
 {{- end }}
 
 {{- if and .IsPage (not (partial "_relearn/pageIsSpecial.gotmpl" .)) }}
@@ -28,9 +32,14 @@
     <meta property="og:type" content="website">
 {{- end }}
 
-{{- /* Image : bannière de la fiche si présente, sinon logo du site. On retire le
-       slash initial pour que absURL conserve un éventuel sous-chemin de baseURL. */ -}}
-{{- $img := .Params.featured_image | default "/assets/logo-avps.svg" -}}
-{{- $img = strings.TrimPrefix "/" $img -}}
-    <meta property="og:image" content="{{ $img | absURL }}">
-    <meta property="og:image:secure_url" content="{{ $img | absURL }}">
+{{- /* Image : bannière de la fiche si présente, sinon PNG généré au build (voir
+       avp-og-image.html). Dimensions et type déclarés : Facebook et LinkedIn les
+       utilisent pour afficher l'aperçu dès le premier partage, sans second passage. */ -}}
+{{- with partial "avp-og-image.html" . }}
+    <meta property="og:image" content="{{ .url }}">
+    <meta property="og:image:secure_url" content="{{ .url }}">
+    <meta property="og:image:type" content="{{ .type }}">
+    <meta property="og:image:width" content="{{ .width }}">
+    <meta property="og:image:height" content="{{ .height }}">
+    <meta property="og:image:alt" content="{{ if $.IsHome }}{{ site.Title | plainify }}{{ else }}{{ $.Title | plainify }} | {{ site.Title | plainify }}{{ end }}">
+{{- end }}

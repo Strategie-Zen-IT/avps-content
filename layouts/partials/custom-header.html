@@ -37,6 +37,9 @@
          `identifier.name` est l'autorité qui attribue la référence : c'est la
          collectivité employeuse, pas le site (un nom d'employeur en dur ne serait
          juste qu'avec un employeur unique).
+         `directApply` est toujours faux : avps.nc n'enregistre aucune candidature, on
+         postule auprès de la collectivité (PDF officiel, contact). Le moteur écrit `true`
+         dans data/avps, ce qui est faux ; la valeur est donc forcée ici.
          ⚠️ Pas de commentaire Go À L'INTÉRIEUR de la liste d'arguments de `dict` :
          le parseur de templates le refuse (`unexpected "{" in operand`). */}}
     {{ $ld := dict
@@ -46,6 +49,7 @@
         "description" .description
         "datePosted" .datePosted
         "identifier" (dict "@type" "PropertyValue" "name" (.collectivite | default $.Site.Title) "value" .identifier)
+        "directApply" false
     }}
     {{ with .validThrough }}{{ $ld = merge $ld (dict "validThrough" .) }}{{ end }}
     {{ with .employmentType }}{{ $ld = merge $ld (dict "employmentType" .) }}{{ end }}

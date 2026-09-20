@@ -1,0 +1,6 @@
+{{- /* Surcharge avps.nc : le thème émettait ici des microdonnées (itemprop name,
+       description, datePublished…) rattachées à l'item schema.org/Article posé sur
+       <html>. Cet item a été retiré dans layouts/_default/baseof.html : les fiches sont
+       décrites par le seul JSON-LD JobPosting (custom-header.html), et les autres pages
+       n'ont pas de balisage à revendiquer. Des itemprop sans itemscope parent seraient
+       du bruit, donc ce partial ne produit rien. */ -}}

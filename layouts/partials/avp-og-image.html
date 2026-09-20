@@ -1,0 +1,24 @@
+{{- /* Image de partage (Open Graph / Twitter cards). Retourne un dict url / width /
+       height / type, consommé par opengraph.html et twitter_cards.html.
+
+       - Fiche avec bannière : l'URL du bucket public, telle que le moteur l'écrit dans
+         `featured_image` (PNG 1376x768 produit par l'étape banner).
+       - Sinon : une image générée AU BUILD par Hugo. Facebook et LinkedIn ne rendent pas
+         le SVG, et Hugo ne le rastérise pas non plus : le logo ne peut donc pas servir
+         directement. La source est assets/images/og-base.png, un fond uni de 8x8 pixels
+         (vert #0F6E56 du logo) que Hugo étire en 1200x630 avant d'y écrire le nom du
+         site avec sa police intégrée. Rien d'autre à maintenir : changer la couleur ou
+         le texte se fait ici. */ -}}
+{{- $img := dict }}
+{{- with .Params.featured_image }}
+  {{- $img = dict "url" (. | absURL) "width" 1376 "height" 768 "type" "image/png" }}
+{{- else }}
+  {{- with resources.Get "images/og-base.png" }}
+    {{- $r := .Fill "1200x630" }}
+    {{- $r = $r | images.Filter
+          (images.Text "avps.nc" (dict "color" "#fffdf9" "size" 160 "x" 110 "y" 190))
+          (images.Text "Emploi public en Nouvelle-Calédonie" (dict "color" "#d9a441" "size" 54 "x" 114 "y" 390)) }}
+    {{- $img = dict "url" $r.Permalink "width" $r.Width "height" $r.Height "type" $r.MediaType.Type }}
+  {{- end }}
+{{- end }}
+{{- return $img }}

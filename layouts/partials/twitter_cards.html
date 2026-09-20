@@ -1,9 +1,8 @@
 {{- /* Surcharge avps.nc du partial Twitter Cards du thème Relearn.
        Source unique, image en URL absolue. */ -}}
-{{- $img := .Params.featured_image | default "/assets/logo-avps.svg" -}}
-{{- $img = strings.TrimPrefix "/" $img -}}
+{{- $img := partial "avp-og-image.html" . -}}
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="{{ $img | absURL }}">
+    <meta name="twitter:image" content="{{ $img.url }}">
     <meta name="twitter:title" content="{{ if .IsHome }}{{ site.Title | plainify }}{{ else }}{{ .Title | plainify }}{{ end }}">
 {{- with trim (or .Description .Summary | plainify | htmlUnescape) "\n\r\t " }}
     <meta name="twitter:description" content="{{ . }}">
