@@ -28,7 +28,8 @@
   "name": "Chef(fe) de bureau",
   "owner": {
     "@type": "Organization",
-    "name": "Autorité de la concurrence de Nouvelle-Calédonie"
+    "name": "Autorité de la concurrence de Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/autorite-de-la-concurrence-de-nouvelle-caledonie.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -79,7 +80,8 @@
   "experienceRequirements": "Expérience professionnelle significative en matière de droit de la concurrence, environ 10 ans plus précisément en droit des concentrations (autorités de la concurrence, cabinets d'avocats, services ministériels, entreprises).",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Autorité de la concurrence de Nouvelle-Calédonie"
+    "name": "Autorité de la concurrence de Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/autorite-de-la-concurrence-de-nouvelle-caledonie.png"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
