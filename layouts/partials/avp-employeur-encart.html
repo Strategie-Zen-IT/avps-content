@@ -1,0 +1,48 @@
+{{- /*
+  Encart d'un employeur PARTENAIRE, en tête de sa page de collectivité.
+  Contexte attendu (.) : une page de terme de taxonomie.
+
+  Ne produit RIEN si la page n'est pas une collectivité, ou si la collectivité n'est pas
+  déclarée dans `data/employeurs_partenaires.yml`. C'est le cas courant : le registre est
+  vide par défaut, et la page reste alors celle du thème, à l'identique.
+
+  Ce qu'il affiche, et seulement s'il est renseigné :
+    - le logo autorisé ;
+    - un lien vers la page de son choix (espace carrières, présentation, site).
+
+  Le lien est celui que la collectivité nous transmet. On n'en reprend NI ne réécrit le
+  contenu : avps.nc y renvoie, c'est tout. Le libellé aussi vient d'elle, avec un repli
+  neutre : « Site de … » plutôt qu'une formule que nous aurions choisie à sa place.
+*/ -}}
+{{- if eq .Data.Plural "collectivites" }}
+  {{- $registre := site.Data.employeurs_partenaires.employeurs | default dict }}
+  {{- $entree := index $registre (.Data.Term | urlize) }}
+  {{- with $entree }}
+    {{- $logo := "" }}
+    {{- with .logo }}
+      {{- with .fichier }}
+        {{- if fileExists (printf "static/logos/%s" .) }}{{ $logo = printf "logos/%s" . | relURL }}{{ end }}
+      {{- end }}
+    {{- end }}
+    {{- $lien := .lien | default dict }}
+    {{- $url := $lien.url | default "" }}
+    {{- if or $logo $url }}
+<aside class="avp-employeur-encart">
+  {{- with $logo }}
+  <img class="avp-employeur-encart__logo" src="{{ . }}" alt="Logo de {{ $.Data.Term }}" loading="lazy">
+  {{- end }}
+  <div class="avp-employeur-encart__texte">
+    <p class="avp-employeur-encart__nom">{{ $.Data.Term }}</p>
+    {{- with $url }}
+    <p class="avp-employeur-encart__lien">
+      <a href="{{ . }}" target="_blank" rel="noopener">
+        {{ $lien.libelle | default (printf "Site de %s" $.Data.Term) }}
+        <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i>
+      </a>
+    </p>
+    {{- end }}
+  </div>
+</aside>
+    {{- end }}
+  {{- end }}
+{{- end }}

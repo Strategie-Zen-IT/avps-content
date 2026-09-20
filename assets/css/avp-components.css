@@ -1727,3 +1727,37 @@ article .R-taxonomy.tags a.term-link {
   align-items: center;
   gap: 0.5rem;
 }
+
+/* ---- Encart d'un employeur partenaire, en tête de sa page de collectivité ----
+   N'apparaît que pour une collectivité déclarée dans data/employeurs_partenaires.yml.
+   Volontairement sobre : c'est une identification, pas une publicité. */
+.avp-employeur-encart {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 0 0 1.5rem;
+  padding: 0.9rem 1.1rem;
+  border: 1px solid var(--CARD-BORDER-color, #e2dacb);
+  border-radius: 12px;
+  background: var(--INTERNAL-MAIN-BG-color, #fffdf9);
+}
+.avp-employeur-encart__logo {
+  height: 52px;
+  max-width: 140px;
+  object-fit: contain;
+  margin: 0 !important;
+  flex-shrink: 0;
+}
+.avp-employeur-encart__nom {
+  margin: 0;
+  font-family: var(--INTERNAL-MAIN-TITLES-font, Georgia, serif);
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+.avp-employeur-encart__lien {
+  margin: 0.2rem 0 0;
+  font-size: 0.9rem;
+}
+@media (max-width: 520px) {
+  .avp-employeur-encart { flex-direction: column; align-items: flex-start; }
+}

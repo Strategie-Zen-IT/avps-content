@@ -25,11 +25,17 @@
 #             ici : RIEN ne l'applique automatiquement aujourd'hui, c'est à vérifier à
 #             la main. Mieux vaut le savoir que de le croire automatique.
 #   logo      Nom du fichier déposé dans `static/logos/`, PNG à fond transparent.
+#   lien      Adresse de la page de son choix (espace carrières, présentation, site
+#             institutionnel), affichée en encart sur sa page de collectivité. Le site y
+#             RENVOIE, il n'en reprend ni n'en réécrit le contenu. `libelle` est
+#             facultatif ; à défaut, « Site de <nom> ».
 #   illustration
-#             Consignes de couleur transmises au modèle d'image. ⚠️ NON IMPLÉMENTÉ à ce
-#             jour : le moteur (dépôt avps-engine) ne lit pas encore ce fichier, les
-#             illustrations suivent la couleur de la famille de métier. Les entrées
-#             écrites ici sont donc inertes tant que le moteur n'a pas été raccordé.
+#             Consignes de couleur transmises au modèle d'image, et logo intégré à
+#             l'illustration. Le moteur (dépôt avps-engine) lit ce fichier depuis GitHub
+#             à chaque exécution. Faute d'entrée, l'illustration suit la couleur de la
+#             famille de métier et ne porte aucun logo.
+#             ⚠️ Un modèle d'image reproduit un logo de façon approximative : valider la
+#             planche de visuels avec la collectivité avant de publier.
 #
 # ─── Exemple (à décommenter et adapter) ─────────────────────────────────────────
 #
@@ -40,6 +46,9 @@
 #       echeance: "2027-10-12"
 #       logo:
 #         fichier: pvs.png
+#       lien:
+#         url: "https://www.province-sud.nc/recrutement"
+#         libelle: "Espace recrutement de la Province Sud"
 #       illustration:
 #         couleur_principale: "#0B4F8A"
 #         couleur_secondaire: "#D9A441"

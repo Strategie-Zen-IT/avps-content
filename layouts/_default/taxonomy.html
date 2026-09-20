@@ -62,6 +62,11 @@
     {{ len $actives }} poste(s) disponible(s).
     </p>
 
+    {{/* Encart de l'employeur PARTENAIRE : son logo et le lien vers la page de son
+         choix. Ne produit rien pour les collectivités non déclarées dans
+         data/employeurs_partenaires.yml — donc rien par défaut. */}}
+    {{- partial "avp-employeur-encart.html" . }}
+
 {{/* Badge de la famille de métier, avec son code ROME.
           Le référentiel RESPNC n'a pas de page par famille — seulement un PDF par
           fiche d'emploi, déjà lié depuis chaque offre. D'où un badge informatif et non
