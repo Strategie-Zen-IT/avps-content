@@ -1,6 +1,15 @@
 ---
 title: "Les emplois de la fonction publique calédonienne"
 weight: 1
+
+# Les fiches d'offres — et elles seules — sont aussi servies en JSON-LD, à côté de leur
+# page. Le motif `/*/*` ne vise que les pages à deux niveaux (`/famille/référence`) :
+# les pages éditoriales de la racine (à propos, mentions légales…) n'ont pas de données
+# structurées à exposer et ne doivent pas produire un fichier vide.
+cascade:
+  - _target:
+      path: '/*/*'
+    outputs: ['html', 'print', 'markdown', 'avp_json']
 ---
 
 {{% notice style="note" title="Site en cours de développement" icon="tools" %}}

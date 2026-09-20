@@ -56,10 +56,27 @@ demander, aucune clé, aucune limite de débit.
 | Ressource | Adresse | Format |
 |---|---|---|
 | Données source officielles | [data.gouv.nc](https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc) | Parquet, CSV, JSON |
-| Fiche structurée d'une offre | balisage embarqué dans chaque page | Schema.org/JobPosting |
+| **Catalogue complet des offres** | [`/offres.json`](/offres.json) | JSON |
+| **Fiche complète d'une offre** | `/…/index.json` à côté de chaque fiche | Schema.org/JobPosting |
+| Texte d'une offre | `/…/index.md` à côté de chaque fiche | Markdown |
 | Flux des dernières offres | `/index.xml` | RSS |
 | Flux pour agrégateurs d'emploi | `/flux_ats.xml` | XML |
 | Plan de site des offres | `/jobs-sitemap.xml` | Google Jobs |
+
+Le **catalogue** est le plus simple à exploiter : un seul fichier, l'intégralité des offres,
+ouvertes comme closes. Chacune y porte sa référence, son intitulé, l'adresse de sa fiche,
+sa ou ses familles de métier, la collectivité, la commune, la province, le corps ou grade,
+la date de clôture, la disponibilité du poste, le métier de référence RESPNC, le code ROME,
+un résumé, et un indicateur `ouverte` qui vaut `false` dès que la date de clôture est
+passée. L'en-tête porte `genere_le`, `nombre` (les offres ouvertes) et `total`. C'est
+exactement le fichier qui alimente la page « Toutes les offres » et les compteurs du menu :
+il n'y a pas de version privilégiée réservée au site.
+
+Pour le détail d'une offre, ajoutez `index.json` à l'adresse de sa fiche — par exemple
+`https://avps.nc/incendie-et-secours/26-1309/index.json`. Vous obtenez son **JobPosting
+Schema.org complet** : missions, prérequis, diplôme, contacts, géocodage, et l'adresse du
+PDF officiel. C'est le même balisage que celui embarqué dans la page, mais en fichier
+séparé, sans avoir à découper du HTML.
 
 Chaque offre porte, au-delà des champs standard : la **collectivité** qui recrute (elle
 seule est l'employeur), la **direction** de rattachement, la **famille de métier** du

@@ -1,0 +1,20 @@
+{{- /*
+  JSON-LD complet d'une offre, servi en fichier à côté de sa fiche (`index.json`).
+
+  Même contenu que le balisage Schema.org embarqué dans la page : c'est la même source,
+  `data/avps/<référence>.json`, écrite par le moteur. Un réutilisateur qui veut une offre
+  entière n'a donc plus à extraire du HTML.
+
+  La référence peut contenir une barre oblique (« 26-65194/MPRH ») : le moteur nomme le
+  fichier de données avec un souligné à la place, la clé est reconstruite pareil.
+
+  Si la fiche n'a pas de données structurées — cas qui ne devrait pas se produire, mais
+  qui ferait sinon échouer le build — on sert un objet vide plutôt que rien : un fichier
+  JSON servi doit rester du JSON valide.
+*/ -}}
+{{- $cle := replace (.Params.ref | default "") "/" "_" -}}
+{{- with index site.Data.avps $cle -}}
+{{- jsonify (dict "indent" "  ") . -}}
+{{- else -}}
+{}
+{{- end -}}
