@@ -1,0 +1,23 @@
+{{- /*
+  Vrai quand on ne peut PLUS candidater à cette offre.
+
+  Pendant du filtre de listes `avp-actives.html`, mais pour UNE page : mêmes deux
+  conditions, donc mêmes réponses. Une offre archivée (retirée de l'open data) ou dont la
+  date de clôture est passée n'accepte plus de dossier.
+
+  Existe pour que la fiche ne se contredise pas avec les listes : une offre absente de la
+  liste des offres ouvertes ne doit pas proposer de candidater quand on arrive dessus
+  depuis un moteur de recherche ou un lien partagé.
+
+  Comparaison de chaînes ISO (AAAA-MM-JJ) : sûre, sans échec de parsing. Une date d'une
+  autre forme est ignorée plutôt que de faire tomber le build.
+
+  Usage : {{ if partial "avp-close.html" . }}…{{ end }}
+*/ -}}
+{{- $close := false }}
+{{- if eq .Params.archive true }}{{ $close = true }}{{ end }}
+{{- with .Params.date_cloture }}
+  {{- $d := string . }}
+  {{- if and (eq (len $d) 10) (lt $d (now.Format "2006-01-02")) }}{{ $close = true }}{{ end }}
+{{- end }}
+{{- return $close }}

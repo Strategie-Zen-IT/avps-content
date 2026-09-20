@@ -6,7 +6,12 @@
        Les étiquettes sont AUSSI en haut de page (rendu par le thème) ; ici elles servent
        à repartir explorer une fois la lecture finie, ce qui n'est pas la même intention. */ -}}
 {{- if .Params.ref }}
+  {{- /* Le rappel de fin de page n'a de sens que si l'on peut encore candidater : sur
+         une offre close, l'avertissement du haut de fiche suffit et se répéter serait
+         insistant. */ -}}
+  {{- if not (partial "avp-close.html" .) }}
   {{- partial "avp-candidater.html" (dict "page" . "avecqr" false "rappel" true) }}
+  {{- end }}
 
   {{- /* Transparence sur le mode de production. Elle n'existait que sur « À propos » et
          les mentions légales : un candidat arrivant depuis un moteur de recherche

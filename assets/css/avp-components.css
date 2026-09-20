@@ -1547,6 +1547,18 @@ article .R-taxonomy.tags a.term-link {
   border-left-color: #6B7280;
   opacity: 0.78;
 }
+/* Offre clôturée : le bloc d'action est remplacé par un avertissement. Il garde la
+   forme du bloc « Candidater » pour occuper la même place dans la lecture, mais en
+   gris — aucune action n'est possible, rien ne doit inviter au clic. */
+.avp-apply--close {
+  border-left-color: #6B7280;
+  background: color-mix(in srgb, #6B7280 6%, transparent);
+}
+.avp-apply--close .avp-apply__title {
+  color: inherit;
+  opacity: 0.85;
+}
+
 /* Un résultat qui n'est pas une offre — page de tag, page éditoriale — prend la même
    carte, pour que la liste soit homogène, mais un liseré neutre et un titre un peu plus
    discret : ce n'est pas un poste à pourvoir, et il ne doit pas en avoir l'air. */

@@ -100,7 +100,30 @@
   {{- /* ---- 3. Éligibilité, puis l'action --------------------------------- */ -}}
   {{- partial "avp-eligibilite.html" $p }}
 
+  {{- /* Offre close : ni bouton, ni contacts, ni modalités de dépôt. Inviter à
+         constituer un dossier pour un poste qui n'accepte plus de candidature fait
+         perdre son temps au lecteur, et des fiches closes continuent d'être ouvertes
+         depuis les moteurs de recherche et les liens partagés. À la place, un
+         avertissement net et une sortie vers les offres du moment. */ -}}
+  {{- if partial "avp-close.html" $p }}
+  <aside class="avp-apply avp-apply--close" aria-label="Offre clôturée">
+    <div class="avp-apply__main">
+      <h2 class="avp-apply__title"><i class="fas fa-lock" aria-hidden="true"></i> Offre clôturée</h2>
+      <p class="avp-apply__deadline">
+        {{- /* Pas de point final : le libellé de date est une puce encadrée par le CSS,
+               un point posé juste derrière s'en détache et flotte. */ -}}
+        {{- with $p.Params.date_cloture }}Les candidatures étaient reçues jusqu'au <strong>{{ . }}</strong>
+        {{- else }}Cette offre n'accepte plus de candidature.{{ end }}
+      </p>
+      <p class="avp-apply__note">
+        Cette fiche reste consultable pour mémoire.
+        <a href="{{ "offres/" | relURL }}">Voir les offres actuellement ouvertes</a>.
+      </p>
+    </div>
+  </aside>
+  {{- else }}
   {{- partial "avp-candidater.html" (dict "page" $p "avecqr" (not $banniere) "rappel" false) }}
+  {{- end }}
 
   {{- /* ---- 4. Le détail, rangé par thème --------------------------------- */ -}}
   <h2 id="le-poste">Le poste</h2>
