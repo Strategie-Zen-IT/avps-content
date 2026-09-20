@@ -1,0 +1,35 @@
+{{- /*
+  Bouton « JSON » de la barre supérieure, à côté de l'export Markdown.
+
+  Ouvre le JSON-LD complet de l'offre (`index.json`), c'est-à-dire son JobPosting
+  Schema.org entier : missions, prérequis, contacts, géocodage, adresse du PDF officiel.
+
+  Le bouton n'apparaît QUE là où ce fichier existe. Le format de sortie `avp_json` est
+  activé par le `cascade` de content/_index.md sur les seules fiches d'offres : sur les
+  pages éditoriales et les pages de tags, `.OutputFormats.Get` ne renvoie rien et le
+  bouton disparaît de lui-même. Aucune condition à maintenir en double.
+
+  On prend `.RelPermalink` du format plutôt que la mécanique `?format=` du thème,
+  utilisée par le bouton Markdown : l'adresse est ainsi produite par Hugo lui-même,
+  sans dépendre du traitement interne des paramètres d'URL du thème.
+
+  Comportement d'affichage repris du bouton Markdown : replié dans le menu « … » sur
+  mobile, visible à partir des écrans moyens.
+*/ -}}
+{{- $onwidths := cond (isset . "onwidths") .onwidths "area-more" }}
+{{- $onwidthm := cond (isset . "onwidthm") .onwidthm "show" }}
+{{- $onwidthl := cond (isset . "onwidthl") .onwidthl "show" }}
+{{- with .page }}
+	{{- with .OutputFormats.Get "avp_json" }}
+		{{- partial "topbar/func/button.html" (dict
+			"page" $.page
+			"class" "topbar-button-avp-json"
+			"href" .RelPermalink
+			"icon" "fa-fw fas fa-code"
+			"onwidths" $onwidths
+			"onwidthm" $onwidthm
+			"onwidthl" $onwidthl
+			"hint" "Données structurées de l'offre (JSON-LD)"
+		)}}
+	{{- end }}
+{{- end }}

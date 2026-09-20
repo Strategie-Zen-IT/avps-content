@@ -1,0 +1,35 @@
+{{- /*
+  Boutons de droite de la barre supérieure.
+
+  Copie de `themes/hugo-theme-relearn/layouts/partials/topbar/area/end.html`, avec une
+  seule addition : le bouton JSON, placé juste après l'export Markdown, puisque les deux
+  proposent la même chose — la fiche sous une autre forme, récupérable.
+
+  ⚠️ Surcharge d'un gabarit du thème : une mise à jour de Relearn qui ajouterait ou
+  réordonnerait un bouton ne se répercutera pas ici. À comparer lors d'une montée de
+  version du thème.
+*/ -}}
+{{- partial "topbar/button/edit.html" (dict
+	"page" .
+)}}
+{{- partial "topbar/button/source.html" (dict
+	"page" .
+)}}
+{{- partial "topbar/button/markdown.html" (dict
+	"page" .
+)}}
+{{- partial "topbar/button/avp-json.html" (dict
+	"page" .
+)}}
+{{- partial "topbar/button/print.html" (dict
+	"page" .
+)}}
+{{- partial "topbar/button/prev.html" (dict
+	"page" .
+)}}
+{{- partial "topbar/button/next.html" (dict
+	"page" .
+)}}
+{{- partial "topbar/button/more.html" (dict
+	"page" .
+)}}
