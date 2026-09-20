@@ -101,10 +101,7 @@
         data-rome="{{ .Params.code_rome }}"
         data-cloture="{{ .Params.date_cloture }}"
         style="--famille-couleur: {{ index $couleurs $fam | default "#6B7280" }}">
-      {{- $logo := partial "avp-logo.html" . }}
-      <div class="avp-ligne__logo">
-        {{- with $logo }}<img src="{{ . }}" alt="" loading="lazy" onerror="this.closest('.avp-ligne__logo').remove()">{{ end }}
-      </div>
+      {{- partial "avp-logo-bloc.html" (dict "page" . "taille" "s") }}
       <div class="avp-ligne__principal">
         <a class="avp-ligne__titre" href="{{ .RelPermalink }}">{{ .Title }}</a>
         <p class="avp-ligne__meta">

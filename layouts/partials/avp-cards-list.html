@@ -3,7 +3,8 @@
   Contexte attendu (.) : une collection de pages d'AVP.
 
   Remplace la liste verticale pleine largeur héritée de la chaîne d'origine. Chaque carte
-  porte l'accent de couleur de sa famille de métier, l'employeur avec son logo, et
+  porte l'accent de couleur de sa famille de métier, l'employeur avec son emplacement
+  de logo, et
   l'échéance. Le mini QR code est ajouté ensuite par `custom-footer.html`, qui cible
   `.avp-list-card` — classe conservée pour cette raison.
 */ -}}
@@ -13,7 +14,6 @@
     {{- $fam := "" }}
     {{- with .Params.familles }}{{ $fam = index . 0 }}{{ end }}
     {{- $couleur := index $couleurs $fam | default "#6B7280" }}
-    {{- $logo := partial "avp-logo.html" . }}
     <article class="avp-card avp-list-card" style="--famille-couleur: {{ $couleur }}">
 
       <div class="avp-card__top">
@@ -24,7 +24,7 @@
       <h3 class="avp-card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
 
       <p class="avp-card__employeur">
-        {{- with $logo }}<img class="avp-card__logo" src="{{ . }}" alt="" loading="lazy" onerror="this.remove()">{{ end }}
+        {{- partial "avp-logo-bloc.html" (dict "page" . "taille" "m") }}
         {{- with .Params.collectivite }}{{ . }}{{ else }}<em>employeur non précisé</em>{{ end }}
       </p>
 

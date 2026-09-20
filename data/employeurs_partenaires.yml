@@ -1,0 +1,48 @@
+# Employeurs partenaires : qui a autorisé quoi, et avec quelles consignes de design.
+#
+# Fichier UNIQUE de référence. Tout ce qui personnalise l'apparence d'un employeur sur
+# avps.nc part d'ici : son logo, et les consignes de couleur des illustrations générées.
+# Deux fichiers séparés finiraient par se contredire.
+#
+# Vide par défaut, et c'est voulu. Reproduire l'emblème d'une collectivité sur un site
+# qu'elle n'édite pas suppose son accord : republier des avis de vacance de poste ouverts
+# est licite, cela ne vaut pas licence sur ses marques. Tant qu'un employeur n'est pas
+# listé ici, son emplacement de logo affiche un symbole neutre et ses illustrations
+# suivent la charte générale du site.
+#
+# ─── La clé ─────────────────────────────────────────────────────────────────────
+#
+# Le sigle de l'employeur OU le nom de la collectivité, slugifié en minuscules — la même
+# forme que dans l'adresse de sa page de tag (`/collectivites/province-sud/`). Le partial
+# `avp-logo.html` essaie le sigle d'abord, puis le nom.
+#
+# ─── Ce qu'on note, et pourquoi ─────────────────────────────────────────────────
+#
+#   accord    Trace écrite de l'autorisation : qui, quand, par quel canal. Jamais
+#             affiché sur le site ; sert le jour où elle serait contestée. Ne pas créer
+#             d'entrée sans pouvoir le remplir.
+#   echeance  Date de fin de l'abonnement, au format AAAA-MM-JJ. Purement indicative
+#             ici : RIEN ne l'applique automatiquement aujourd'hui, c'est à vérifier à
+#             la main. Mieux vaut le savoir que de le croire automatique.
+#   logo      Nom du fichier déposé dans `static/logos/`, PNG à fond transparent.
+#   illustration
+#             Consignes de couleur transmises au modèle d'image. ⚠️ NON IMPLÉMENTÉ à ce
+#             jour : le moteur (dépôt avps-engine) ne lit pas encore ce fichier, les
+#             illustrations suivent la couleur de la famille de métier. Les entrées
+#             écrites ici sont donc inertes tant que le moteur n'a pas été raccordé.
+#
+# ─── Exemple (à décommenter et adapter) ─────────────────────────────────────────
+#
+#   employeurs:
+#     pvs:
+#       nom: "Province Sud"
+#       accord: "Courriel de la direction de la communication, 12/10/2026"
+#       echeance: "2027-10-12"
+#       logo:
+#         fichier: pvs.png
+#       illustration:
+#         couleur_principale: "#0B4F8A"
+#         couleur_secondaire: "#D9A441"
+#         consignes: "Bleu institutionnel dominant, éviter le vert."
+
+employeurs: {}

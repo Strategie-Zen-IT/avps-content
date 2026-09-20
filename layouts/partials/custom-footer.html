@@ -121,7 +121,7 @@
   // 🔎 RÉSULTATS DE RECHERCHE EN CARTES
   //    Le thème rend chaque résultat en simple lien. Sur la page de recherche, on les
   //    enrichit APRÈS coup à partir de /offres.json (déjà produit au build pour la page
-  //    « Toutes les offres ») : employeur, logo, commune, échéance.
+  //    « Toutes les offres ») : employeur, logo éventuel, commune, échéance.
   //
   //    Les résultats qui ne sont PAS des offres — pages de tags, pages éditoriales —
   //    gardaient auparavant le rendu du thème : un lien précédé d'un chevron, avec le
@@ -176,15 +176,25 @@
 
       var employeur = document.createElement('span');
       employeur.className = 'avp-resultat__employeur';
+      // Emplacement du logo : l'image quand l'employeur l'a autorisée, sinon le même
+      // symbole neutre que partout ailleurs. La place est toujours occupée, la liste
+      // reste alignée qu'un logo soit fourni ou non.
+      var ecusson = document.createElement('span');
+      ecusson.className = 'avp-logo avp-logo--s';
       if (offre.logo) {
         var img = document.createElement('img');
         img.src = offre.logo;
         img.alt = '';
         img.loading = 'lazy';
-        img.className = 'avp-resultat__logo';
-        img.onerror = function () { img.remove(); };
-        employeur.appendChild(img);
+        img.className = 'avp-logo__img';
+        ecusson.appendChild(img);
+      } else {
+        var vide = document.createElement('i');
+        vide.className = 'fas fa-building-columns avp-logo__vide';
+        vide.setAttribute('aria-hidden', 'true');
+        ecusson.appendChild(vide);
       }
+      employeur.appendChild(ecusson);
       employeur.appendChild(document.createTextNode(offre.collectivite || 'Employeur non précisé'));
       lien.appendChild(employeur);
 

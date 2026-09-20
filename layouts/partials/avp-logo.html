@@ -2,28 +2,37 @@
   URL du logo de l'employeur d'une offre, ou chaîne vide.
   Contexte attendu (.) : une page d'AVP.
 
-  Deux sources, dans cet ordre :
-   1. `hiringOrganization.logo` du JSON-LD, écrit par le moteur APRÈS avoir vérifié que
-      le fichier répond 200. C'est la source de vérité, la même que celle lue par Google.
-   2. Repli sur le fichier local `static/logos/{sigle}.png` puis `{collectivité}.png` :
-      un logo déposé après la publication d'une offre n'entre pas dans son JSON-LD, le
-      front-matter étant figé jusqu'à sa prochaine modification. Sans ce repli, il
-      faudrait republier toutes les offres d'une collectivité pour voir son logo.
+  Un logo n'est affiché QUE si son employeur figure dans `data/employeurs_partenaires.yml`,
+  le fichier unique où sont notés les accords obtenus et les consignes de design.
+  Reproduire l'emblème d'une collectivité sur un site qu'elle n'édite pas suppose son
+  accord : republier des avis de vacance de poste ouverts est licite, cela ne vaut pas
+  licence sur les marques. La liste est vide par défaut, donc aucun logo n'apparaît tant
+  qu'un accord n'a pas été obtenu — voir la page publique « Employeurs publics ».
 
-  On ne devine jamais un logo : seuls un JSON-LD vérifié ou un fichier réellement présent
-  dans le dépôt peuvent en fournir un.
+  Le JSON-LD écrit par le moteur porte encore un champ `hiringOrganization.logo` pour
+  tout le monde : il n'est volontairement PAS utilisé ici, et il est retiré de ce que le
+  site publie (voir `custom-header.html` et `single.avp_json.json`).
+
+  Deux clés sont essayées, dans cet ordre : le sigle de l'employeur, puis le nom de la
+  collectivité, l'un et l'autre slugifiés. Le fichier doit exister réellement : on ne
+  devine jamais un logo, même pour un employeur autorisé.
+
+  Renvoie "" quand il n'y a rien à afficher. C'est le cas courant, et les gabarits
+  affichent alors le symbole neutre de `avp-logo-bloc.html`.
 */ -}}
 {{- $page := . }}
 {{- $logo := "" }}
-{{- with index site.Data.avps (replace ($page.Params.ref | default "") "/" "_") }}
-  {{- with .hiringOrganization }}{{ with .logo }}{{ $logo = . }}{{ end }}{{ end }}
-{{- end }}
-{{- if not $logo }}
-  {{- $sigle := $page.Params.employeur_sigle | default "" }}
-  {{- $nom := $page.Params.collectivite | default "" }}
-  {{- range slice ($sigle | urlize) ($nom | urlize) }}
-    {{- if and (not $logo) . (fileExists (printf "static/logos/%s.png" .)) }}
-      {{- $logo = printf "logos/%s.png" . | relURL }}
+{{- $partenaires := site.Data.employeurs_partenaires.employeurs | default dict }}
+{{- $sigle := $page.Params.employeur_sigle | default "" }}
+{{- $nom := $page.Params.collectivite | default "" }}
+{{- range slice ($sigle | urlize) ($nom | urlize) }}
+  {{- if and (not $logo) . }}
+    {{- with index $partenaires . }}
+      {{- with .logo }}{{ with .fichier }}
+        {{- if fileExists (printf "static/logos/%s" .) }}
+          {{- $logo = printf "logos/%s" . | relURL }}
+        {{- end }}
+      {{- end }}{{ end }}
     {{- end }}
   {{- end }}
 {{- end }}

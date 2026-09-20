@@ -39,8 +39,10 @@ automatiquement : en cas de divergence, c'est le document d'origine qui prime.
 3. **Rattachement au référentiel métiers.** Chaque offre est rapprochée des 368 fiches
    d'emploi du référentiel RESPNC, ce qui détermine sa famille de métier — donc son rayon
    dans le menu — et son code ROME.
-4. **Illustration.** La bannière de chaque offre est générée par un modèle d'image, avec
-   le logo de la collectivité concernée lorsqu'il est disponible.
+4. **Illustration.** La bannière de chaque offre est générée par un modèle d'image à
+   partir des missions décrites dans l'avis. Elle ne reproduit ni le logo ni la charte
+   graphique de la collectivité, sauf si celle-ci le demande — voir
+   [Employeurs publics](/employeurs-publics/).
 5. **Site statique.** Le site est compilé avec Hugo : chargement instantané, aucune base
    de données exposée, empreinte minimale.
 

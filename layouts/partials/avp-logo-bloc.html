@@ -1,0 +1,28 @@
+{{- /*
+  Emplacement du logo d'un employeur : le logo lui-même s'il est autorisé, un symbole
+  neutre sinon.
+
+  L'emplacement existe TOUJOURS. Il n'est pas masqué quand il n'y a pas de logo, et c'est
+  délibéré : la mise en page ne bouge pas quand un employeur donne son accord, et la
+  place réservée se voit — elle dit, sans le dire, qu'un logo pourrait s'y trouver.
+
+  Contexte attendu : un dict
+    page   — la page de l'offre (ou n'importe quelle page portant employeur_sigle / collectivite)
+    taille — "s" (listes, résultats de recherche), "m" (cartes), "l" (fiche, pages de tags)
+    logo   — facultatif : URL déjà résolue, pour éviter de rappeler le partial
+
+  Le symbole est un bâtiment institutionnel, pas un point d'interrogation ni une image
+  cassée : l'absence de logo est un état normal, pas une erreur.
+*/ -}}
+{{- $page := .page }}
+{{- $taille := .taille | default "m" }}
+{{- $logo := .logo }}
+{{- if not $logo }}{{ $logo = partial "avp-logo.html" $page }}{{ end }}
+{{- $nom := $page.Params.collectivite | default "" }}
+<span class="avp-logo avp-logo--{{ $taille }}">
+  {{- if $logo }}
+  <img class="avp-logo__img" src="{{ $logo }}" alt="{{ with $nom }}Logo de {{ . }}{{ else }}Logo de l'employeur{{ end }}" loading="lazy">
+  {{- else }}
+  <i class="fas fa-building-columns avp-logo__vide" aria-hidden="true" title="Logo non fourni par l'employeur"></i>
+  {{- end }}
+</span>

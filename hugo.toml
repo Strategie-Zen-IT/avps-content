@@ -147,6 +147,11 @@ pageRef = "/a-propos"
 weight = 10
 
 [[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-landmark'></i> Employeurs publics"
+pageRef = "/employeurs-publics"
+weight = 12
+
+[[menu.shortcuts]]
 name = "<i class='fas fa-fw fa-chart-line'></i> Statistiques"
 pageRef = "/stats"
 weight = 20

@@ -12,9 +12,26 @@
   qui ferait sinon échouer le build — on sert un objet vide plutôt que rien : un fichier
   JSON servi doit rester du JSON valide.
 */ -}}
+{{- /* Le logo de l'employeur est retiré, comme dans le JSON-LD de la page : le moteur y
+       inscrivait l'adresse d'une copie hébergée sur avps.nc, c'est-à-dire la
+       reproduction de l'emblème d'une collectivité sans son autorisation. Voir la page
+       « Employeurs publics ». */ -}}
+{{- /* ⚠️ `merge` est RÉCURSIF en Hugo : fusionner un employeur allégé dans l'objet complet
+       refusionnait le logo qu'on venait d'écarter. L'objet de sortie est donc reconstruit
+       clé par clé à partir d'un dictionnaire VIDE, seule façon de garantir une absence. */ -}}
 {{- $cle := replace (.Params.ref | default "") "/" "_" -}}
 {{- with index site.Data.avps $cle -}}
-{{- jsonify (dict "indent" "  ") . -}}
+  {{- $sortie := dict -}}
+  {{- range $k, $v := . -}}
+    {{- if eq $k "hiringOrganization" -}}
+      {{- $org := dict -}}
+      {{- range $k2, $v2 := $v -}}{{- if ne $k2 "logo" -}}{{- $org = merge $org (dict $k2 $v2) -}}{{- end -}}{{- end -}}
+      {{- $sortie = merge $sortie (dict "hiringOrganization" $org) -}}
+    {{- else -}}
+      {{- $sortie = merge $sortie (dict $k $v) -}}
+    {{- end -}}
+  {{- end -}}
+{{- jsonify (dict "indent" "  ") $sortie -}}
 {{- else -}}
 {}
 {{- end -}}

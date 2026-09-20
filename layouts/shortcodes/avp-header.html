@@ -12,7 +12,6 @@
 
 {{- $p := .Page }}
 {{- $jsonld := index site.Data.avps (replace ($p.Params.ref | default "") "/" "_") }}
-{{- $logo := partial "avp-logo.html" $p }}
 {{- $collectivite := $p.Params.collectivite }}
 {{- if not $collectivite }}{{ with $jsonld }}{{ with .hiringOrganization }}{{ $collectivite = .name }}{{ end }}{{ end }}{{ end }}
 {{- $sigle := $p.Params.employeur_sigle | default "" }}
@@ -59,7 +58,7 @@
     <div class="avp-facts__item avp-facts__item--employeur">
       <dt>Employeur</dt>
       <dd>
-        {{- with $logo }}<img class="avp-facts__logo" src="{{ . }}" alt="" loading="lazy" onerror="this.remove()">{{ end }}
+        {{- partial "avp-logo-bloc.html" (dict "page" $p "taille" "l") }}
         {{- if $termsColl }}
           {{- range $termsColl }}<a href="{{ .RelPermalink }}" title="Toutes les offres de « {{ .LinkTitle }} »">{{ .LinkTitle }}</a>{{ end }}
         {{- else if $collectivite }}{{ $collectivite }}

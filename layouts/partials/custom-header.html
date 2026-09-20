@@ -51,7 +51,17 @@
     {{ with .employmentType }}{{ $ld = merge $ld (dict "employmentType" .) }}{{ end }}
     {{ with .industry }}{{ $ld = merge $ld (dict "industry" .) }}{{ end }}
     {{ with .occupationalCategory }}{{ $ld = merge $ld (dict "occupationalCategory" .) }}{{ end }}
-    {{ with .hiringOrganization }}{{ $ld = merge $ld (dict "hiringOrganization" .) }}{{ end }}
+    {{/* L'employeur SANS son logo. Le moteur y inscrivait l'adresse d'une copie hébergée
+         sur avps.nc (https://avps.nc/logos/…), donc une reproduction de l'emblème d'une
+         collectivité sur un site qu'elle n'édite pas, sans son autorisation. Le champ est
+         retiré ici plutôt que masqué : le JSON-LD est lu par Google et recopié tel quel
+         dans ses résultats. Une clé vide serait pire qu'absente, on reconstruit donc
+         l'objet sans elle. */}}
+    {{ with .hiringOrganization }}
+      {{ $org := dict }}
+      {{ range $k, $v := . }}{{ if ne $k "logo" }}{{ $org = merge $org (dict $k $v) }}{{ end }}{{ end }}
+      {{ $ld = merge $ld (dict "hiringOrganization" $org) }}
+    {{ end }}
     {{ with .jobLocation }}{{ $ld = merge $ld (dict "jobLocation" .) }}{{ end }}
     {{ with .applicantLocationRequirements }}{{ $ld = merge $ld (dict "applicantLocationRequirements" .) }}{{ end }}
     {{ with .jobLocationType }}{{ $ld = merge $ld (dict "jobLocationType" .) }}{{ end }}
