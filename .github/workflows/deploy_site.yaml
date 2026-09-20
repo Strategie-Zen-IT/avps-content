@@ -89,13 +89,14 @@ jobs:
           # `--offline` ne touche pas au réseau : il ne vérifie que l'existence des
           # fichiers visés. Aucun faux positif dû à un site tiers indisponible.
           #
-          # ⚠️ À SURVEILLER au premier passage. Les adresses des pages de tags sont
-          # POURCENT-ENCODÉES (`/communes/noum%C3%A9a/`) alors que les dossiers sur le
-          # disque portent les accents. Un vérificateur qui ne décode pas l'URL avant de
-          # chercher le fichier signale environ 5 800 faux liens morts — je l'ai
-          # constaté en écrivant ce contrôle. Relevé du 20/09/2026, décodage fait :
-          # 78 765 liens internes, ZÉRO mort. Si ce job sort rouge avec des `%C3`, c'est
-          # ce défaut-là, pas une régression du site.
+          # Les adresses des pages de tags sont POURCENT-ENCODÉES
+          # (`/communes/noum%C3%A9a/`) alors que les dossiers sur le disque portent les
+          # accents. Un vérificateur qui ne décode pas l'URL avant de chercher le fichier
+          # signale environ 5 800 faux liens morts — constaté en écrivant ce contrôle
+          # avec un script maison. Vérifié le 20/09/2026 sur lychee 0.24.2 : il décode,
+          # et sort zéro erreur sur les pages accentuées. Si une montée de version fait
+          # réapparaître des `%C3` en rouge, c'est ce défaut-là qui revient, pas une
+          # régression du site.
           # 91 liens sur 108 d'une page type sont RACINE-RELATIFS (`/communes/…`). Pour
           # les résoudre sur le disque il faut `--root-dir`, et non `--base` : depuis
           # lychee 0.24, `--base` n'accepte plus qu'une URL complète ou un chemin absolu,

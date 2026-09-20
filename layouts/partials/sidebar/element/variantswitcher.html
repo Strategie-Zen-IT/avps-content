@@ -7,7 +7,12 @@
 
      Repli automatique sur la liste déroulante au-delà de deux variantes : un interrupteur
      à deux positions ne saurait pas en représenter trois. */ -}}
-{{- $allthemevariants := partialCached "_relearn/themeVariants.gotmpl" site.Home }}
+{{- /* ⚠️ `.variants` est indispensable depuis la mise à jour du thème du 20/09/2026
+     (dependabot #460, 93d7f25 → 1932435) : `_relearn/themeVariants.gotmpl` ne renvoie
+     plus la liste des variantes, mais `(dict "variants" … "css" …)`. Sans le champ, le
+     `range` parcourait les deux entrées du dictionnaire, `.hidden` n'existait pas sur
+     elles, et le BUILD ENTIER échouait — site non déployé jusqu'au correctif. */ -}}
+{{- $allthemevariants := (partialCached "_relearn/themeVariants.gotmpl" site.Home).variants }}
 {{- $themevariants := slice }}
 {{- range $allthemevariants }}
   {{- if not .hidden }}
