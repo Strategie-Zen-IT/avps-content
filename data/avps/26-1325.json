@@ -35,7 +35,8 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -71,7 +72,8 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
