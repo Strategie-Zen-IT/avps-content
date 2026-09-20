@@ -1,0 +1,17 @@
+{{- /* Page de redirection produite pour chaque `aliases:` du front-matter : l'ancienne URL
+       d'une fiche archivée renvoie vers content/archives/. Le gabarit intégré à Hugo pose la
+       canonique vers la cible mais pas de noindex : ces pages sans h1 ni description
+       remontaient comme défauts (Bing, 20/09/2026). Elles n'ont rien à indexer. */ -}}
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ .Permalink }}</title>
+    <link rel="canonical" href="{{ .Permalink }}">
+    <meta name="robots" content="noindex">
+    <meta http-equiv="refresh" content="0; url={{ .Permalink }}">
+  </head>
+  <body>
+    <p>Cette offre est archivée : <a href="{{ .Permalink }}">{{ .Permalink }}</a></p>
+  </body>
+</html>

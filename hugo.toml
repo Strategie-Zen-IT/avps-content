@@ -30,6 +30,12 @@ titleCaseStyle = 'none'
   disableShortcutsTitle = true
   images = ["/assets/logo-avps.svg"]
 
+  # Suffixe court des <title> : « Educateur spécialisé : avps.nc » au lieu du titre complet
+  # du site, qui à lui seul fait 48 caractères et poussait 684 pages au-delà des 60
+  # caractères que les moteurs affichent (Bing, 20/09/2026). Lu par la surcharge
+  # layouts/partials/title.gotmpl et par les balises Open Graph.
+  titleShort = "avps.nc"
+
   # Les liens sortants (data.gouv.nc, dépôts GitHub, sites des collectivités…) s'ouvrent
   # dans un nouvel onglet. Un candidat qui part consulter le PDF officiel ou le jeu de
   # données source ne doit pas perdre la page d'offre qu'il était en train de lire.
@@ -198,6 +204,15 @@ weight = 40
   home = ['html', 'rss', 'print','markdown','jobs_sitemap','flux_ats','sitemap-index','offres']
   page = ['html', 'print','markdown']
   section = ['html', 'rss', 'print','markdown']
+
+# Pages exclues du sitemap : l'index brut des tags et la page de recherche. Elles restent
+# servies et portent noindex,follow (layouts/partials/custom-header.html) : les lister
+# dans le sitemap tout en demandant de ne pas les indexer était contradictoire.
+[[cascade]]
+  [cascade.sitemap]
+    disable = true
+  [cascade.target]
+    path = '{/tags,/tags/**,/search,/search/**}'
 
 [markup]
   [markup.goldmark]

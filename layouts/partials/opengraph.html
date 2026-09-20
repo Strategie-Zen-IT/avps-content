@@ -5,7 +5,7 @@
 
     <meta property="og:url" content="{{ .Permalink }}">
     <meta property="og:site_name" content="{{ site.Title | plainify }}">
-    <meta property="og:title" content="{{ if .IsHome }}{{ site.Title | plainify }}{{ else }}{{ .Title | plainify }} | {{ site.Title | plainify }}{{ end }}">
+    <meta property="og:title" content="{{ if .IsHome }}{{ site.Title | plainify }}{{ else }}{{ .Title | plainify }} | {{ site.Params.titleShort | default site.Title | plainify }}{{ end }}">
 {{- with trim (or .Description .Summary | plainify | htmlUnescape) "\n\r\t " }}
     <meta property="og:description" content="{{ . }}">
 {{- end }}
@@ -41,5 +41,5 @@
     <meta property="og:image:type" content="{{ .type }}">
     <meta property="og:image:width" content="{{ .width }}">
     <meta property="og:image:height" content="{{ .height }}">
-    <meta property="og:image:alt" content="{{ if $.IsHome }}{{ site.Title | plainify }}{{ else }}{{ $.Title | plainify }} | {{ site.Title | plainify }}{{ end }}">
+    <meta property="og:image:alt" content="{{ if $.IsHome }}{{ site.Title | plainify }}{{ else }}{{ $.Title | plainify }} | {{ site.Params.titleShort | default site.Title | plainify }}{{ end }}">
 {{- end }}

@@ -16,8 +16,29 @@
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 {{ end }}
 
-{{/* 🔗 URL canonique (le thème n'en émet pas pour la page elle-même) */}}
+{{/* 🔗 URL canonique, UNIQUEMENT sur la sortie HTML. Sur la version « imprimer »
+     (index.print.html) le thème émet déjà une canonique vers la page HTML : en ajouter
+     une seconde donnait « More than one canonical tag » sur 102 pages (Bing, 20/09/2026).
+     Le format courant est mémorisé par le thème dans le Store (bloc storeOutputFormat). */}}
+{{- $format := .Store.Get "relearnOutputFormat" | default "html" }}
+{{- if eq $format "html" }}
 <link rel="canonical" href="{{ .Permalink }}">
+{{- end }}
+
+{{/* 🚫 noindex,follow : les robots suivent les liens mais n'indexent pas la page.
+     - sorties non HTML (version imprimer) : doublon de la fiche ;
+     - /tags/ : index brut fourre-tout, redondant avec les taxonomies utiles
+       (collectivités, communes, provinces, familles). Auparavant interdit dans
+       robots.txt, ce qui empêchait le crawl mais pas l'indexation de l'URL nue, et
+       contredisait le sitemap qui les listait (140 « Blocked by robots.txt », Bing,
+       20/09/2026) ;
+     - /search/ : page de recherche côté client, sans contenu propre ;
+     - toute page qui porte `noindex: true` dans son front-matter. */}}
+{{- $estTags := strings.HasPrefix .RelPermalink "/tags/" }}
+{{- $estRecherche := strings.HasPrefix .RelPermalink "/search/" }}
+{{- if or (ne $format "html") $estTags $estRecherche .Params.noindex }}
+<meta name="robots" content="noindex,follow">
+{{- end }}
 
 {{/* 🏗️ Traçabilité du build (injectée à chaque déploiement) */}}
 <meta name="hugo-build-time" content="{{ now.Format "2006-01-02 15:04:05" }}">

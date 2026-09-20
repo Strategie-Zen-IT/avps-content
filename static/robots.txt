@@ -1,26 +1,20 @@
 # avps.nc — directives de crawl
-# Le site est servi à la racine du domaine. Les taxonomies collectivités / communes /
-# provinces / familles sont des pages d'atterrissage utiles (« offres Province Sud »)
-# et restent indexables ; seul l'index brut des tags, redondant, est écarté.
+# Le site est servi à la racine du domaine. Tout est explorable : les pages que l'on ne
+# veut pas voir dans les résultats (/tags/, /search/, versions « imprimer », redirections
+# des archives) portent une balise noindex (layouts/partials/custom-header.html,
+# layouts/alias.html) et sont hors du sitemap. Un Disallow ici empêchait le crawl mais pas
+# l'indexation de l'URL nue, et contredisait le sitemap qui listait ces pages : Bing le
+# signalait en erreur sur 140 pages (20/09/2026).
 
 User-agent: *
 Allow: /
-Disallow: /tags/
-Disallow: /search/
 
 # Google for Jobs : les fiches vivent dans les rubriques par famille de métier.
 User-agent: Googlebot-Job
 Allow: /
 
-User-agent: Googlebot
-Allow: /
-Disallow: /tags/
-Disallow: /search/
-
 User-agent: Bingbot
 Allow: /
-Disallow: /tags/
-Disallow: /search/
 Crawl-delay: 1
 
 Sitemap: https://avps.nc/sitemap-index.xml

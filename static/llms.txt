@@ -1,0 +1,33 @@
+# avps.nc — Emploi public en Nouvelle-Calédonie
+
+> Toutes les offres d'emploi (avis de vacance de poste, AVP) des employeurs publics de
+> Nouvelle-Calédonie, réunies sur un seul site à partir de l'open data officiel de la
+> DRHFPNC (data.gouv.nc). Chaque fiche est structurée en Schema.org/JobPosting et renvoie
+> au PDF officiel, qui seul fait foi. avps.nc n'est ni un employeur ni un intermédiaire de
+> recrutement : on postule directement auprès de la collectivité indiquée sur la fiche.
+
+Éditeur : Stratégie Zen IT (Nouméa). Contenu en français. Taxe locale : TGC, monnaie : XPF.
+
+## Données structurées
+
+- [Index JSON des offres ouvertes](https://avps.nc/offres.json) : une entrée par offre, régénéré à chaque publication
+- [Flux XML des offres](https://avps.nc/flux_ats.xml) : format Indeed élargi, offres ouvertes uniquement
+- [Flux RSS](https://avps.nc/index.xml) : nouvelles offres
+- [Sitemap des offres](https://avps.nc/jobs-sitemap.xml)
+- JSON-LD complet d'une fiche : ajouter `index.json` à son URL, par exemple https://avps.nc/action-sociale/26-1420/index.json
+
+## Pages utiles
+
+- [Toutes les offres ouvertes](https://avps.nc/offres/)
+- [Comprendre les avis de vacance de poste](https://avps.nc/comprendre-les-avis/)
+- [Employeurs publics](https://avps.nc/employeurs-publics/)
+- [Offres clôturées (archives)](https://avps.nc/archives/)
+- [Pour les développeurs et réutilisateurs](https://avps.nc/developpeurs/)
+- [À propos](https://avps.nc/a-propos/)
+- [Mentions légales](https://avps.nc/mentions-legales/)
+
+## Optional
+
+- [Source open data DRHFPNC](https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc)
+- [Code du moteur d'ingestion](https://github.com/Strategie-Zen-IT/avps-engine)
+- [Dépôt du site](https://github.com/Strategie-Zen-IT/avps-content)
