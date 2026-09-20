@@ -973,7 +973,10 @@ article .R-taxonomy.tags a.term-link:after {
   font-weight: 700;
   letter-spacing: 0.07em;
   text-transform: uppercase;
-  color: var(--famille-couleur, #6B7280);
+  /* Ton « texte » : le foncé par défaut ; le thème sombre le remplace par le ton clair
+     (--famille-couleur-claire, posé par le gabarit) dans theme-avps-dark.css, parce
+     qu'un ton lisible en blanc sur badge ne l'est pas comme texte sur fond sombre. */
+  color: var(--famille-couleur-texte, var(--famille-couleur, #6B7280));
 }
 .avp-card__title {
   margin: 0 !important;

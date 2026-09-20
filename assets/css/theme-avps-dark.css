@@ -67,3 +67,12 @@
   --BOX-GREY-color: rgba( 52, 60, 56, 1 );
   --CARD-BORDER-color: rgba( 52, 60, 56, 1 );
 }
+
+/* Familles de métiers : en thème sombre, les libellés colorés prennent le ton clair
+   (data/familles_couleurs_claires.yml, contraste >= 4,5:1 sur ce fond). Les badges gardent
+   le ton foncé avec leur texte blanc. Relearn imbrique cette feuille sous le sélecteur de
+   la variante : la règle ne s'applique qu'en thème sombre. */
+.avp-card,
+.avp-ligne {
+  --famille-couleur-texte: var(--famille-couleur-claire, var(--famille-couleur));
+}

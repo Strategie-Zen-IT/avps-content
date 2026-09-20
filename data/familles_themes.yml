@@ -1,0 +1,50 @@
+# ⚙️ FICHIER GÉNÉRÉ — ne pas éditer à la main.
+#
+# Source : avps-engine/src/pipeline/ref/famille-code-rome.csv (référentiel RESPNC,
+# 41 familles de métiers de la fonction publique calédonienne).
+# Régénérer avec : python3 scripts/generer_familles.py
+#
+# Grand thème de chaque famille : sept univers de métiers qui portent les camaïeux.
+
+familles:
+  "Action sociale": "Social, éducation et culture"
+  "Administration générale": "Administration et territoire"
+  "Agriculture et mer": "Nature et cadre de vie"
+  "Animation": "Social, éducation et culture"
+  "Ateliers et véhicules": "Technique et infrastructures"
+  "Aviation civile": "Technique et infrastructures"
+  "Communication": "Administration et territoire"
+  "Culture": "Social, éducation et culture"
+  "Développement du territoire": "Administration et territoire"
+  "Education": "Social, éducation et culture"
+  "Entretien, surveillance et logistique": "Sécurité et secours"
+  "Environnement": "Nature et cadre de vie"
+  "Espaces verts": "Nature et cadre de vie"
+  "Finances et budget": "Finances, RH et numérique"
+  "Fiscalité et Trésor / douanes / affaires économiques": "Finances, RH et numérique"
+  "Formation professionnelle": "Social, éducation et culture"
+  "Habitat et logement": "Social, éducation et culture"
+  "Imprimerie": "Administration et territoire"
+  "Incendie et secours": "Sécurité et secours"
+  "Infrastructures, réseaux, eaux et assainissements": "Technique et infrastructures"
+  "Ingénierie industrielle minière et énergétique": "Technique et infrastructures"
+  "Ingénierie juridique": "Administration et territoire"
+  "Laboratoire": "Santé et laboratoire"
+  "Météo": "Sécurité et secours"
+  "Patrimoine bâti": "Technique et infrastructures"
+  "Pilotage": "Administration et territoire"
+  "Politique de santé publique": "Santé et laboratoire"
+  "Population et affaires funéraires": "Administration et territoire"
+  "Postes et télécommunications": "Technique et infrastructures"
+  "Propreté et gestion des déchets": "Nature et cadre de vie"
+  "Prévention et sécurité": "Sécurité et secours"
+  "Ressources Humaines": "Finances, RH et numérique"
+  "Restauration collective / hôtellerie": "Social, éducation et culture"
+  "Santé publique inspection et contrôle": "Santé et laboratoire"
+  "Santé publique soins": "Santé et laboratoire"
+  "Santé publique équipements de santé": "Santé et laboratoire"
+  "Système d'information": "Finances, RH et numérique"
+  "Topographie et foncier": "Technique et infrastructures"
+  "Transports terrestres et maritimes": "Technique et infrastructures"
+  "Travail": "Social, éducation et culture"
+  "Urbanisme": "Administration et territoire"

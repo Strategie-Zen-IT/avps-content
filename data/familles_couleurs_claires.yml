@@ -1,0 +1,52 @@
+# ⚙️ FICHIER GÉNÉRÉ — ne pas éditer à la main.
+#
+# Source : avps-engine/src/pipeline/ref/famille-code-rome.csv (référentiel RESPNC,
+# 41 familles de métiers de la fonction publique calédonienne).
+# Régénérer avec : python3 scripts/generer_familles.py
+#
+# TON CLAIR de chaque famille : libellés colorés en thème sombre uniquement
+# (assets/css/theme-avps-dark.css). Même teinte que le ton foncé, contraste >= 4,5:1
+# garanti sur le fond sombre. Ne pas l'utiliser comme fond de badge.
+
+familles:
+  "Action sociale": "#A36BB8"
+  "Administration générale": "#5D84B6"
+  "Agriculture et mer": "#51B85D"
+  "Animation": "#B27EBB"
+  "Ateliers et véhicules": "#7AB4CF"
+  "Aviation civile": "#6CB2CD"
+  "Communication": "#9EA8CB"
+  "Culture": "#BA8AC0"
+  "Développement du territoire": "#7B91BE"
+  "Education": "#A56BB6"
+  "Entretien, surveillance et logistique": "#D19183"
+  "Environnement": "#8CC89E"
+  "Espaces verts": "#6FBF80"
+  "Finances et budget": "#D08539"
+  "Fiscalité et Trésor / douanes / affaires économiques": "#D2A25C"
+  "Formation professionnelle": "#AA72B7"
+  "Habitat et logement": "#C195C4"
+  "Imprimerie": "#AAB0D0"
+  "Incendie et secours": "#D05D5D"
+  "Infrastructures, réseaux, eaux et assainissements": "#41B1C8"
+  "Ingénierie industrielle minière et énergétique": "#50B0C9"
+  "Ingénierie juridique": "#6F8ABA"
+  "Laboratoire": "#9FDBDB"
+  "Météo": "#D8B0A1"
+  "Patrimoine bâti": "#A1C0D8"
+  "Pilotage": "#6384B7"
+  "Politique de santé publique": "#6FD2C5"
+  "Population et affaires funéraires": "#939FC6"
+  "Postes et télécommunications": "#87B7D2"
+  "Propreté et gestion des déchets": "#A8D2B8"
+  "Prévention et sécurité": "#CC6C63"
+  "Ressources Humaines": "#D6BA7E"
+  "Restauration collective / hôtellerie": "#CEABCE"
+  "Santé publique inspection et contrôle": "#88D6D1"
+  "Santé publique soins": "#3BCEA7"
+  "Santé publique équipements de santé": "#56D0B7"
+  "Système d'information": "#DCCD9E"
+  "Topographie et foncier": "#95BBD5"
+  "Transports terrestres et maritimes": "#5EB1CB"
+  "Travail": "#C8A0C9"
+  "Urbanisme": "#8798C2"

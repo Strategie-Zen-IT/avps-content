@@ -9,12 +9,15 @@
   `.avp-list-card` — classe conservée pour cette raison.
 */ -}}
 {{- $couleurs := site.Data.familles_couleurs.familles }}
+{{- $claires := site.Data.familles_couleurs_claires.familles }}
 <div class="avp-cards">
   {{- range . }}
     {{- $fam := "" }}
     {{- with .Params.familles }}{{ $fam = index . 0 }}{{ end }}
     {{- $couleur := index $couleurs $fam | default "#6B7280" }}
-    <article class="avp-card avp-list-card" style="--famille-couleur: {{ $couleur }}">
+    {{- /* Ton clair : libellé en thème sombre (voir theme-avps-dark.css). */}}
+    {{- $claire := index $claires $fam | default "#B4B9C2" }}
+    <article class="avp-card avp-list-card" style="--famille-couleur: {{ $couleur }}; --famille-couleur-claire: {{ $claire }}">
 
       <div class="avp-card__top">
         {{- with $fam }}<span class="avp-card__famille">{{ . }}</span>{{ end }}
