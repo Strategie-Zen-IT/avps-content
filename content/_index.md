@@ -15,10 +15,11 @@ cascade:
     outputs: ['html', 'print', 'markdown', 'avp_json']
 ---
 
-{{% notice style="note" title="Site en cours de développement" icon="tools" %}}
-avps.nc est en construction : les offres arrivent progressivement, la présentation et
-certaines fonctionnalités vont encore évoluer. Pour consulter l'ensemble des avis de vacance
-de poste, référez-vous à la source officielle sur
+{{% notice style="note" title="Site en cours de validation" icon="circle-check" %}}
+avps.nc est en phase de validation : toutes les offres publiées sont en ligne, et nous
+vérifions encore la qualité des fiches et des illustrations. Si vous constatez une erreur,
+le PDF officiel fait foi. Pour consulter l'ensemble des avis de vacance de poste,
+référez-vous à la source officielle sur
 [data.gouv.nc](https://data.gouv.nc/explore/dataset/avis-de-vacances-de-poste-avp-drhfpnc).
 {{% /notice %}}
 
