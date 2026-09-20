@@ -58,7 +58,8 @@
   "name": "Directeur(trice) adjoint(e)",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie"
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -109,7 +110,8 @@
   "experienceRequirements": "Solide expérience du management stratégique et opérationnel dans des environnements complexes",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie"
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
