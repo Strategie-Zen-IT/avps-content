@@ -63,7 +63,8 @@
   "name": "Médecin /Conseiller technique médical performance",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie"
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -113,7 +114,8 @@
   "experienceRequirements": "Expérience indispensable dans le domaine de l'information médicale. Expérience dans une institution de santé (assurance maladie, ministère, hôpital) et/ou pratique clinique appréciée. Expérience de travail en outre-mer appréciée.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie"
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
   },
   "incentiveCompensation": null,
   "industry": "Santé publique",
