@@ -1,46 +1,110 @@
+{{- `<?xml version="1.0" encoding="utf-8"?>` | safeHTML }}
 <source>
+  {{/* Flux d'offres pour les agrégateurs d'emploi (Indeed, Jooble, Talent.com, Adzuna…).
+       Un seul flux, calé sur la spécification Indeed (docs.indeed.com/job-sync-xml/xml-feed),
+       qui sert de format de fait à la plupart des agrégateurs : ils la lisent telle quelle
+       ou en font la correspondance. Quelques balises non Indeed (pubdate, expirydate,
+       companyurl, startdate) sont ajoutées pour les lecteurs génériques ; un agrégateur
+       qui exigerait son propre schéma aura son propre format de sortie Hugo.
+       Texte en CDATA partout (voir xml-cdata.html). */}}
   <publisher>{{ .Site.Title }}</publisher>
   <publisherurl>{{ .Site.BaseURL }}</publisherurl>
-  <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
+  <lastBuildDate>{{ now.Format "2006-01-02T15:04:05-07:00" }}</lastBuildDate>
 
   {{/* 🎯 On pilote le flux par les PAGES réelles (et non par les data files) :
        cela garantit que l'URL diffusée existe vraiment et pointe sur la fiche publiée.
-       Les champs riches (missions, compétences) sont récupérés dans le JSON associé.
-       Les champs simples sont en texte XML échappé ; seule la description (HTML) est en CDATA. */}}
+       Les champs riches sont récupérés dans le JSON associé. */}}
   {{/* ⚠️ Ce flux n'a PAS de contrôle de date de clôture, contrairement au jobs-sitemap :
        le filtre des archives est donc ici la SEULE protection contre la diffusion d'une
-       offre close chez Indeed. Ne pas le retirer. */}}
+       offre close chez les agrégateurs. Ne pas le retirer. */}}
   {{ range partial "avp-actives.html" .Site.RegularPages }}
     {{ if .Params.ref }}
       {{ $page := . }}
       {{ $key := replace .Params.ref "/" "_" }}
       {{ with index $.Site.Data.avps $key }}
     <job>
+      {{/* Pas de CDATA ici : html/template traite <title> comme du texte brut HTML et
+           échappe tout ce qu'on y met, CDATA compris. Le texte échappé (&amp;) est du XML
+           valide, c'est suffisant. */}}
       <title>{{ .title | htmlUnescape }}</title>
-      <referencenumber>{{ .identifier }}</referencenumber>
 
-      {{/* ✅ URL canonique réelle de la fiche (et non un chemin /avps/ inexistant) */}}
+      {{/* Indeed exige la date en ISO 8601 ; `pubdate` (date seule) reste pour les
+           lecteurs génériques. Fuseau du site : une offre publiée « le 18 » l'est à Nouméa. */}}
+      {{ with .datePosted }}
+      <date>{{ (time.AsTime . "Pacific/Noumea").Format "2006-01-02T15:04:05-07:00" }}</date>
+      <pubdate>{{ . }}</pubdate>
+      {{ end }}
+
+      {{/* referencenumber : identifiant unique de l'annonce, jamais modifié après
+           publication (règle Indeed). requisitionid : identifiant de la demande côté
+           employeur, ici le même numéro d'avis. */}}
+      <referencenumber>{{ partial "xml-cdata.html" .identifier }}</referencenumber>
+      <requisitionid>{{ partial "xml-cdata.html" .identifier }}</requisitionid>
+
+      {{/* ✅ URL canonique réelle de la fiche */}}
       <url>{{ $page.Permalink }}</url>
 
-{{/* ⚠️ L'employeur n'est PAS le site : chaque offre a le sien. Un flux qui
-           annoncerait « avps.nc » comme entreprise recruteuse serait faux chez Indeed,
-           et les candidatures arriveraient au mauvais endroit. On prend donc la
-           collectivité de l'offre, avec la direction en repli. */}}
-      <company>{{ $page.Params.collectivite | default $page.Params.direction | default $.Site.Title }}</company>
-      <pubdate>{{ .datePosted }}</pubdate>
+      {{/* ⚠️ L'employeur n'est PAS le site : chaque offre a le sien. Un flux qui
+           annoncerait « avps.nc » comme entreprise recruteuse serait faux, et les
+           candidatures arriveraient au mauvais endroit. Collectivité, direction en repli. */}}
+      <company>{{ partial "xml-cdata.html" ($page.Params.collectivite | default $page.Params.direction | default $.Site.Title) }}</company>
+      {{ with .hiringOrganization }}{{ with .url }}
+      <companyurl>{{ . }}</companyurl>
+      {{ end }}{{ end }}
 
-      {{ with .validThrough }}<expirydate>{{ . }}</expirydate>{{ end }}
-
+      {{/* Localisation. `state` est requis par Indeed : la province joue ce rôle.
+           `country` en code ISO 3166-1 alpha-2, comme Indeed l'exige. */}}
       {{ $city := "Nouméa" }}
-      {{ if .applicantLocationRequirements }}
-        {{ with .applicantLocationRequirements.address }}{{ $city = .addressLocality }}{{ end }}
-      {{ else if .jobLocation }}
-        {{ with .jobLocation.address }}{{ $city = .addressLocality }}{{ end }}
-      {{ end }}
-      <city>{{ $city }}</city>
-      <country>Nouvelle-Calédonie</country>
+      {{ $state := "" }}
+      {{ $street := "" }}
+      {{ $postal := "" }}
+      {{ with .jobLocation }}{{ with .address }}
+        {{ with .addressLocality }}{{ $city = . }}{{ end }}
+        {{ with .addressRegion }}{{ $state = . }}{{ end }}
+        {{ with .streetAddress }}{{ $street = . }}{{ end }}
+        {{ with .postalCode }}{{ $postal = . }}{{ end }}
+      {{ end }}{{ end }}
+      {{ if not $state }}{{ with $page.Params.provinces }}{{ $state = index . 0 }}{{ end }}{{ end }}
+      <city>{{ partial "xml-cdata.html" $city }}</city>
+      {{ with $state }}<state>{{ partial "xml-cdata.html" . }}</state>{{ end }}
+      <country>NC</country>
+      {{ with $postal }}<postalcode>{{ partial "xml-cdata.html" . }}</postalcode>{{ end }}
+      {{ with $street }}<streetaddress>{{ partial "xml-cdata.html" . }}</streetaddress>{{ end }}
+      {{ if eq .jobLocationType "TELECOMMUTE" }}<remotetype>Fully remote</remotetype>{{ end }}
 
-      <category>{{ if and .occupationalCategory (gt (len .occupationalCategory) 0) }}{{ index .occupationalCategory 0 | htmlUnescape }}{{ else }}Autres métiers{{ end }}</category>
+      {{/* Contact : celui de l'avis (Indeed exige un e-mail par offre) ; à défaut celui
+           de l'éditeur du site, déjà public dans les mentions légales. */}}
+      {{ $email := $.Site.Params.editeur.contact }}
+      {{ with .applicationContact }}{{ with .email }}{{ $email = . }}{{ end }}{{ end }}
+      {{ with $email }}<email>{{ partial "xml-cdata.html" . }}</email>{{ end }}
+
+      {{/* Type de contrat : vocabulaire Indeed (fulltime, parttime, contract,
+           temporary, internship) depuis l'employmentType Schema.org. */}}
+      {{ $jobtype := "" }}
+      {{ with .employmentType }}
+        {{ $t := printf "%v" . }}
+        {{ if in $t "FULL_TIME" }}{{ $jobtype = "fulltime" }}
+        {{ else if in $t "PART_TIME" }}{{ $jobtype = "parttime" }}
+        {{ else if in $t "TEMPORARY" }}{{ $jobtype = "temporary" }}
+        {{ else if in $t "CONTRACTOR" }}{{ $jobtype = "contract" }}
+        {{ else if in $t "INTERN" }}{{ $jobtype = "internship" }}{{ end }}
+      {{ end }}
+      {{ with $jobtype }}<jobtype>{{ . }}</jobtype>{{ end }}
+
+      {{/* Date de prise de poste : uniquement quand c'est une vraie date AAAA-MM-JJ,
+           le champ contient parfois « dès que possible ». */}}
+      {{ with .jobStartDate }}{{ if findRE `^\d{4}-\d{2}-\d{2}$` (printf "%v" .) }}<startdate>{{ . }}</startdate>{{ end }}{{ end }}
+
+      {{/* Clôture : `expirationdate` (Indeed, AAAA-MM-JJ) et `expirydate` (générique). */}}
+      {{ with .validThrough }}
+      <expirationdate>{{ . }}</expirationdate>
+      <expirydate>{{ . }}</expirydate>
+      {{ end }}
+
+      {{ with .occupationalCategory }}<category>{{ partial "xml-cdata.html" (delimit . ", ") }}</category>{{ else }}<category>Autres métiers</category>{{ end }}
+
+      {{ with .educationRequirements }}{{ with .credentialCategory }}<education>{{ partial "xml-cdata.html" . }}</education>{{ end }}{{ end }}
+      {{ with .experienceRequirements }}{{ if reflect.IsSlice . }}<experience>{{ partial "xml-cdata.html" (delimit . " ") }}</experience>{{ else }}<experience>{{ partial "xml-cdata.html" . }}</experience>{{ end }}{{ end }}
 
       <description>{{ "<![CDATA[" | safeHTML }}
         {{ with .description }}
@@ -60,6 +124,17 @@
             {{ range . }}<li>{{ . | htmlUnescape | safeHTML }}</li>{{ end }}
           </ul>
         {{ end }}
+
+        {{ with .qualifications }}
+          <p><strong>Conditions :</strong> {{ . | htmlUnescape | safeHTML }}</p>
+        {{ end }}
+
+        {{/* Les agrégateurs vérifient qu'un candidat peut réellement postuler depuis la
+             page d'atterrissage : on le dit dans l'annonce, avec l'avis officiel. */}}
+        <p><strong>Comment candidater :</strong> la candidature s'adresse directement à
+        {{ $page.Params.collectivite | default $page.Params.direction | default "l'employeur" | htmlUnescape | safeHTML }},
+        selon les modalités de l'avis de vacance de poste officiel{{ with $page.Params.url_pdf }} (<a href="{{ . }}">télécharger le PDF</a>){{ end }}.
+        avps.nc n'enregistre aucune candidature.</p>
       {{ "]]>" | safeHTML }}</description>
     </job>
       {{ end }}

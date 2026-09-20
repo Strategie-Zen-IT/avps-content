@@ -1,0 +1,5 @@
+{{- /* Enveloppe une valeur texte dans une section CDATA pour les flux XML.
+       Hugo passe les gabarits XML par html/template : sans ceci, « & » ou « ' » sortent
+       en entités HTML, valides mais mal lues par certains agrégateurs. La séquence
+       « ]]> » à l'intérieur fermerait la section : on la scinde. */ -}}
+{{- printf "<![CDATA[%s]]>" (replace (printf "%v" . | htmlUnescape) "]]>" "]]]]><![CDATA[>") | safeHTML -}}
