@@ -1,0 +1,42 @@
+# Libellés des taxonomies du site.
+#
+# Le thème compose le titre d'une page de tag avec `i18n .Data.Singular`, en se rabattant
+# sur le nom technique de la taxonomie quand aucune traduction n'existe. Sans ce fichier,
+# les pages et les résultats de recherche affichaient « collectivite :: … »,
+# « direction :: … », « corps :: … » : des identifiants de configuration, sans accent ni
+# majuscule, donnés à lire au public.
+#
+# Les clés reprennent exactement les noms déclarés dans [taxonomies] de hugo.toml.
+
+[famille]
+other = "Famille de métier"
+
+[familles]
+other = "Familles de métier"
+
+[collectivite]
+other = "Collectivité"
+
+[collectivites]
+other = "Collectivités"
+
+[direction]
+other = "Direction"
+
+[directions]
+other = "Directions"
+
+[commune]
+other = "Commune"
+
+[communes]
+other = "Communes"
+
+[province]
+other = "Province"
+
+[provinces]
+other = "Provinces"
+
+[corps]
+other = "Corps ou grade"

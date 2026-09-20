@@ -9,6 +9,13 @@ timeZone = 'Pacific/Noumea'
 title = "avps.nc — Emploi public en Nouvelle-Calédonie"
 theme = 'hugo-theme-relearn'
 
+# Hugo fabrique le titre des pages de tags à partir du terme, et le passe par défaut en
+# capitales de titre à l'anglaise : « Action sociale » devenait « Action Sociale »,
+# « province Sud » devenait « Province Sud », et « Agence de développement de la culture
+# kanake » devenait « Agence De Développement De La Culture Kanake ». Ce n'est pas la
+# typographie française, et surtout ce n'est plus le libellé qui figure sur les fiches.
+titleCaseStyle = 'none'
+
 [params]
   # Options du thème Relearn
   # Variantes de couleurs propres au site : assets/css/theme-avps-{light,dark}.css
@@ -30,6 +37,10 @@ theme = 'hugo-theme-relearn'
   # interne reste dans le même onglet. Le thème y ajoute rel="external" ; les
   # navigateurs actuels impliquent d'eux-mêmes `noopener` sur toute cible _blank.
   externalLinkTarget = "_blank"
+
+  # Séparateur entre le nom de la taxonomie et le terme, sur les pages de tags et dans
+  # les résultats de recherche. Le défaut du thème est « :: », qui fait balise technique.
+  titleSeparator = ":"
 
   # ⚠️ Les clés simples de [params] doivent rester AVANT le premier sous-tableau
   # ([params.editeur], [params.author]…) : en TOML, tout ce qui suit l'ouverture d'un

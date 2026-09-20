@@ -4,6 +4,11 @@ description: "Suivre les avis de vacance de poste par flux RSS : le flux génér
 archetype: "page"
 disableNextPrev: true
 hidden: true
+
+# Le corps de cette page est une LISTE produite par un shortcode : l'indexer en entier
+# ferait répondre cette page à presque toutes les recherches. Seuls son titre et sa
+# description sont indexés (voir assets/_relearn_searchindex.js).
+index_contenu: false
 ---
 
 Plutôt que de revenir vérifier, laissez les nouvelles offres venir à vous. Chaque famille
