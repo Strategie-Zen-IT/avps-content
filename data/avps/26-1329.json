@@ -56,8 +56,7 @@
   "name": "2 Aides-soignant(e)s en unité de soins intensifs cardiologiques et neuro-vasculaires",
   "owner": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
-    "logo": "https://avps.nc/logos/cht.png"
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
   },
   "potentialAction": null,
   "sameAs": null,
@@ -105,8 +104,7 @@
   "experienceRequirements": "Expérience dans un service similaire serait un plus",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
-    "logo": "https://avps.nc/logos/cht.png"
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
   },
   "incentiveCompensation": null,
   "industry": "Santé",

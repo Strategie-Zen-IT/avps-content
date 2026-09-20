@@ -42,8 +42,7 @@
   "name": "DSB - Contrôleur Client - Centre de Production Bancaire",
   "owner": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications",
-    "logo": "https://avps.nc/logos/opt.png"
+    "name": "Office des postes et télécommunications"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -95,8 +94,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications",
-    "logo": "https://avps.nc/logos/opt.png"
+    "name": "Office des postes et télécommunications"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

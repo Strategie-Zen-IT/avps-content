@@ -34,8 +34,7 @@
   "name": "01 INFIRMIER (ERE)",
   "owner": {
     "@type": "Organization",
-    "name": "Centre hospitalier du Nord",
-    "logo": "https://avps.nc/logos/chn.png"
+    "name": "Centre hospitalier du Nord"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -87,8 +86,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Centre hospitalier du Nord",
-    "logo": "https://avps.nc/logos/chn.png"
+    "name": "Centre hospitalier du Nord"
   },
   "incentiveCompensation": null,
   "industry": "Santé",

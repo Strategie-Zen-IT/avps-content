@@ -37,8 +37,7 @@
   "name": "Chef du service des centres de secours",
   "owner": {
     "@type": "Organization",
-    "name": "Ville de Nouméa",
-    "logo": "https://avps.nc/logos/ville-de-noumea.png"
+    "name": "Ville de Nouméa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -76,8 +75,7 @@
   "experienceRequirements": "Expérience confirmée en commandement et gestion opérationnelle de secours.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Ville de Nouméa",
-    "logo": "https://avps.nc/logos/ville-de-noumea.png"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

@@ -64,8 +64,7 @@
   "name": "Chef du service de la protection sociale",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -108,8 +107,7 @@
   "experienceRequirements": "Expérience en méthodologie de projet, connaissance confirmée de l'organisation du domaine sanitaire et social, idéalement du contexte calédonien ou d'un territoire ultramarin/insulaire.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

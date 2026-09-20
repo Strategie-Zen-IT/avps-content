@@ -54,8 +54,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province des îles Loyauté",
-    "url": "http://www.province-iles.nc",
-    "logo": "https://avps.nc/logos/pil.png"
+    "url": "http://www.province-iles.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -105,8 +104,7 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province des îles Loyauté",
-    "url": "http://www.province-iles.nc",
-    "logo": "https://avps.nc/logos/pil.png"
+    "url": "http://www.province-iles.nc"
   },
   "incentiveCompensation": null,
   "industry": "Santé",

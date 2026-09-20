@@ -64,8 +64,7 @@
   "name": "Chef du service du pilotage budgétaire et de la stratégie financière",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -105,8 +104,7 @@
   "experienceRequirements": "Une expérience souhaitée dans un poste similaire en collectivité ou d'analyste économique et/ou financier est souhaitée.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

@@ -31,8 +31,7 @@
   "name": "Chef(fe) du service des finances",
   "owner": {
     "@type": "Organization",
-    "name": "Ville du Mont-Dore",
-    "logo": "https://avps.nc/logos/ville-du-mont-dore.png"
+    "name": "Ville du Mont-Dore"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -72,8 +71,7 @@
   "experienceRequirements": "Expérience professionnelle dans un poste similaire exigée",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Ville du Mont-Dore",
-    "logo": "https://avps.nc/logos/ville-du-mont-dore.png"
+    "name": "Ville du Mont-Dore"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

@@ -69,8 +69,7 @@
   "name": "Inspecteur(trice) en sécurité sanitaire des aliments",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -108,8 +107,7 @@
   "experienceRequirements": "Expérience de la pratique de l'inspection en particulier dans les domaines décrits.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

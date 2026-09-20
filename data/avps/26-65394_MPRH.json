@@ -74,8 +74,7 @@
   "name": "Éducateur spécialisé en milieu ouvert - Nord",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -118,8 +117,7 @@
   "experienceRequirements": "Non spécifié",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

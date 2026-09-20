@@ -49,8 +49,7 @@
   "name": "INFIRMIER RÉFÉRENT EN GÉRONTOLOGIE - CÔTE EST (Poindimié)",
   "owner": {
     "@type": "Organization",
-    "name": "Province Nord",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "name": "Province Nord"
   },
   "applicantLocationRequirements": {
     "@type": "Place",
@@ -86,8 +85,7 @@
   "experienceRequirements": "Expérience du travail en poste isolé, expérience des urgences, une première expérience professionnelle serait appréciée dans le domaine de la gérontologie.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Province Nord",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "name": "Province Nord"
   },
   "jobLocation": {
     "@type": "Place",

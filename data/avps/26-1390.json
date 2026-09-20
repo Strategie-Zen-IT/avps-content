@@ -40,8 +40,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Office des postes et télécommunications",
-    "url": "http://www.opt.nc",
-    "logo": "https://avps.nc/logos/opt.png"
+    "url": "http://www.opt.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -85,8 +84,7 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Office des postes et télécommunications",
-    "url": "http://www.opt.nc",
-    "logo": "https://avps.nc/logos/opt.png"
+    "url": "http://www.opt.nc"
   },
   "incentiveCompensation": null,
   "industry": "Postes et télécommunications",

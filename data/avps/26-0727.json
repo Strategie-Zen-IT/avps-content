@@ -43,8 +43,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "http://www.province-nord.nc",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "url": "http://www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -95,8 +94,7 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "http://www.province-nord.nc",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "url": "http://www.province-nord.nc"
   },
   "incentiveCompensation": null,
   "industry": "Santé",

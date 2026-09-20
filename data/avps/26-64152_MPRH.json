@@ -71,8 +71,7 @@
   "name": "Chargé de mission - Contrôleur de gestion",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -119,8 +118,7 @@
   "experienceRequirements": "Une expérience dans les domaines de la comptabilité publique, du contrôle de gestion ou de la conduite de projets de modernisation constitue un atout.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

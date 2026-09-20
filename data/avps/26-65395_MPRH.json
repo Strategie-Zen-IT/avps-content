@@ -67,8 +67,7 @@
   "name": "Educateur spécialisé - UEMO Sud/Iles",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -125,8 +124,7 @@
   "experienceRequirements": "Une expérience en Nouvelle-Calédonie est souhaitée, notamment dans l'accompagnement de mineurs confiés en famille d'accueil ou accueillis en structure d'hébergement collectif, et la mise en œuvre des mesures éducatives relevant de la protection judiciaire de l'enfance (CJPM).",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

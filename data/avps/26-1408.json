@@ -71,8 +71,7 @@
   "name": "2 Infirmier(e) en oncologie soins palliatifs",
   "owner": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
-    "logo": "https://avps.nc/logos/cht.png"
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
   },
   "potentialAction": null,
   "sameAs": null,
@@ -121,8 +120,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
-    "logo": "https://avps.nc/logos/cht.png"
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
   },
   "incentiveCompensation": "Primes spécifiques (nuit, week-end...)",
   "industry": "Santé publique",

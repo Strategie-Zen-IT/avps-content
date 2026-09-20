@@ -34,8 +34,7 @@
   "name": "DSI - Responsable qualité du SI - Service des Moyens",
   "owner": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications",
-    "logo": "https://avps.nc/logos/opt.png"
+    "name": "Office des postes et télécommunications"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -74,8 +73,7 @@
   "experienceRequirements": "Expérience souhaitée",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications",
-    "logo": "https://avps.nc/logos/opt.png"
+    "name": "Office des postes et télécommunications"
   },
   "incentiveCompensation": null,
   "industry": "Postes et télécommunications",

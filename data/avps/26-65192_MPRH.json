@@ -75,8 +75,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie",
-    "url": "https://gouv.nc",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "url": "https://gouv.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -130,8 +129,7 @@
   "experienceRequirements": "Bonnes connaissances des pathologies du bâtiment et notamment dans le domaine de l'entretien et de la maintenance.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

@@ -69,8 +69,7 @@
   "name": "Conseiller technique sportif de volley-ball",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -132,8 +131,7 @@
   "experienceRequirements": "Expérience significative dans l'encadrement, le développement ou la structuration du volley-ball, en tant qu'entraîneur, cadre technique ou responsable de projet. Expérience dans la mise en place ou l'animation de dispositifs de formation ou de parcours de progression sportive appréciée. Une expérience dans des environnements de performance constitue un atout.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

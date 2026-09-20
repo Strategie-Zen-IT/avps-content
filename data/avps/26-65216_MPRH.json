@@ -63,8 +63,7 @@
   "name": "Conseiller(e) pédagogique-4ème circonscription-Poindimié",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -107,8 +106,7 @@
   "experienceRequirements": "Titulaire d'un CAFIPEMF (Certificat d'aptitude aux fonctions d'instituteur ou de professeur des écoles maître formateur)",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Éducation",

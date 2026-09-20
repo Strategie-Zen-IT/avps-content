@@ -73,8 +73,7 @@
   "name": "Chargé de mission pour les relations multilatérales",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -122,8 +121,7 @@
   "experienceRequirements": "Expérience professionnelle dans les relations internationales (relations diplomatiques, coopération au développement, coopération multilatérale) et l'événementiel (organisation de conférences) souhaitée. Expérience en négociation internationale, diplomatie.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

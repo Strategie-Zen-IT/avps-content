@@ -39,8 +39,7 @@
   "name": "DPS - Chef d'agence - Agence de Lifou et ses annexes",
   "owner": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications",
-    "logo": "https://avps.nc/logos/opt.png"
+    "name": "Office des postes et télécommunications"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -78,8 +77,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications",
-    "logo": "https://avps.nc/logos/opt.png"
+    "name": "Office des postes et télécommunications"
   },
   "incentiveCompensation": "Indemnité de Chef d'agence",
   "industry": "Postes et télécommunications",

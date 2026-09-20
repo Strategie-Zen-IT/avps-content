@@ -58,8 +58,7 @@
   "name": "Gestionnaire des ressources humaines - section développement des carrières",
   "owner": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
-    "logo": "https://avps.nc/logos/cht.png"
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
   },
   "potentialAction": null,
   "sameAs": null,
@@ -96,8 +95,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
-    "logo": "https://avps.nc/logos/cht.png"
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
   },
   "incentiveCompensation": null,
   "industry": "Santé",

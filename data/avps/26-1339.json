@@ -29,8 +29,7 @@
   "name": "Directeur (trice) adjoint(e)",
   "owner": {
     "@type": "Organization",
-    "name": "Congrès de la Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/cnc.png"
+    "name": "Congrès de la Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -88,8 +87,7 @@
   "experienceRequirements": "Non spécifié",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Congrès de la Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/cnc.png"
+    "name": "Congrès de la Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

@@ -36,8 +36,7 @@
   "name": "Chargé(e) du développement du secteur touristique",
   "owner": {
     "@type": "Organization",
-    "name": "Province Sud",
-    "logo": "https://avps.nc/logos/pvs.png"
+    "name": "Province Sud"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -72,8 +71,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Province Sud",
-    "logo": "https://avps.nc/logos/pvs.png"
+    "name": "Province Sud"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

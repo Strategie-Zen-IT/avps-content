@@ -27,8 +27,7 @@
   "name": "Assistant(e) social(e) de secteur Pouembout-Poya",
   "owner": {
     "@type": "Organization",
-    "name": "Province Nord",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "name": "Province Nord"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -65,8 +64,7 @@
   "experienceRequirements": "Expérience professionnelle appréciée",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Province Nord",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "name": "Province Nord"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

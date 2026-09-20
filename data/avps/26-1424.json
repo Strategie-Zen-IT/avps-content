@@ -29,8 +29,7 @@
   "name": "Adjoint d'éducation à Poindimié",
   "owner": {
     "@type": "Organization",
-    "name": "Province Nord",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "name": "Province Nord"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -72,8 +71,7 @@
   "experienceRequirements": "Expérience souhaitée",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Province Nord",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "name": "Province Nord"
   },
   "incentiveCompensation": null,
   "industry": "Éducation",

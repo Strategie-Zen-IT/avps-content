@@ -29,8 +29,7 @@
   "name": "Adjoint d'éducation (dortoir garçon) - Internat de Canala",
   "owner": {
     "@type": "Organization",
-    "name": "Province Nord",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "name": "Province Nord"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -83,8 +82,7 @@
   "experienceRequirements": "Expérience souhaitée",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Province Nord",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "name": "Province Nord"
   },
   "incentiveCompensation": null,
   "industry": "Éducation",

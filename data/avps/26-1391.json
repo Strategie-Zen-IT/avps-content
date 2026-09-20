@@ -34,8 +34,7 @@
   "name": "DPS - AGENT POLYVALENT D'EXPLOITATION CELLULE DÉPART - CTP",
   "owner": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications",
-    "logo": "https://avps.nc/logos/opt.png"
+    "name": "Office des postes et télécommunications"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -89,8 +88,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications",
-    "logo": "https://avps.nc/logos/opt.png"
+    "name": "Office des postes et télécommunications"
   },
   "incentiveCompensation": null,
   "industry": "Postes et télécommunications",

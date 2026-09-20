@@ -64,8 +64,7 @@
   "name": "Chargé(e) de Planification et Financements",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -115,8 +114,7 @@
   "experienceRequirements": "Expérience confirmée en ingénierie financière de projets publics, montage de dossiers de subventions, ou gestion de patrimoine d'infrastructures. Une expérience en pilotage de projets informatiques (déploiement de SIR ou SIG) est fortement recommandée.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Travaux publics",

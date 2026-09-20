@@ -32,8 +32,7 @@
   "name": "Chargé de mission RH",
   "owner": {
     "@type": "Organization",
-    "name": "Congrès de la Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/cnc.png"
+    "name": "Congrès de la Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -71,8 +70,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Congrès de la Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/cnc.png"
+    "name": "Congrès de la Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

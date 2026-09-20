@@ -30,8 +30,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "https://www.province-nord.nc",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "url": "https://www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -67,8 +66,7 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "https://www.province-nord.nc",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
   "industry": "Restauration collective",

@@ -68,8 +68,7 @@
   "name": "Responsable du bureau de la performance du système de protection sociale",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -111,8 +110,7 @@
   "experienceRequirements": "Expérience professionnelle dans le secteur de la protection sociale et/ou de la gestion hospitalière/sanitaire/médico-sociale",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",

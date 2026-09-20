@@ -29,8 +29,7 @@
   "name": "Responsable du Pôle Préparatoire - S.P.O.T",
   "owner": {
     "@type": "Organization",
-    "name": "Groupement insertion évolution professionnelles de Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/giep-nc.png"
+    "name": "Groupement insertion évolution professionnelles de Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -81,8 +80,7 @@
   "experienceRequirements": "Expérience exigée d'un management structuré et participatif d'une équipe pluridisciplinaire",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Groupement insertion évolution professionnelles de Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/giep-nc.png"
+    "name": "Groupement insertion évolution professionnelles de Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Formation professionnelle",

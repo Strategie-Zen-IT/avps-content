@@ -38,8 +38,7 @@
   "name": "1 infirmier à l'unité de soins médicaux rapprochés",
   "owner": {
     "@type": "Organization",
-    "name": "Centre hospitalier spécialisé \"Albert Bousquet\"",
-    "logo": "https://avps.nc/logos/chs.png"
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
   },
   "potentialAction": null,
   "sameAs": null,
@@ -96,8 +95,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Centre hospitalier spécialisé \"Albert Bousquet\"",
-    "logo": "https://avps.nc/logos/chs.png"
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
   },
   "incentiveCompensation": null,
   "industry": "Santé",

@@ -45,8 +45,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
-    "logo": "https://avps.nc/logos/pvs.png"
+    "url": "https://www.province-sud.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -97,8 +96,7 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
-    "logo": "https://avps.nc/logos/pvs.png"
+    "url": "https://www.province-sud.nc"
   },
   "incentiveCompensation": null,
   "industry": "Santé publique",
