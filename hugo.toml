@@ -23,6 +23,14 @@ theme = 'hugo-theme-relearn'
   disableShortcutsTitle = true
   images = ["/assets/logo-avps.svg"]
 
+  # Les liens sortants (data.gouv.nc, dépôts GitHub, sites des collectivités…) s'ouvrent
+  # dans un nouvel onglet. Un candidat qui part consulter le PDF officiel ou le jeu de
+  # données source ne doit pas perdre la page d'offre qu'il était en train de lire.
+  # Paramètre natif du thème : il ne s'applique qu'aux URL absolues, la navigation
+  # interne reste dans le même onglet. Le thème y ajoute rel="external" ; les
+  # navigateurs actuels impliquent d'eux-mêmes `noopener` sur toute cible _blank.
+  externalLinkTarget = "_blank"
+
   # ⚠️ Les clés simples de [params] doivent rester AVANT le premier sous-tableau
   # ([params.editeur], [params.author]…) : en TOML, tout ce qui suit l'ouverture d'un
   # sous-tableau lui appartient. Placées après, `dataset_url` et `ga_id` se retrouvaient
@@ -152,6 +160,16 @@ weight = 40
 [outputFormats.offres]
   mediaType = "application/json"
   baseName = "offres"
+  isPlainText = true
+  notAlternative = true
+
+# JSON-LD complet d'une offre, servi à côté de sa fiche : `/famille/reference/index.json`.
+# C'est exactement le balisage Schema.org/JobPosting embarqué dans la page, mais en
+# fichier séparé — un réutilisateur n'a plus à découper du HTML pour l'obtenir.
+# N'est activé que sur les fiches d'offres, via le `cascade` de content/_index.md.
+[outputFormats.avp_json]
+  mediaType = "application/json"
+  baseName = "index"
   isPlainText = true
   notAlternative = true
 

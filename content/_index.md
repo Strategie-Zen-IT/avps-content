@@ -5,10 +5,13 @@ weight: 1
 # Les fiches d'offres — et elles seules — sont aussi servies en JSON-LD, à côté de leur
 # page. Le motif `/*/*` ne vise que les pages à deux niveaux (`/famille/référence`) :
 # les pages éditoriales de la racine (à propos, mentions légales…) n'ont pas de données
-# structurées à exposer et ne doivent pas produire un fichier vide.
+# structurées à exposer et ne doivent pas produire un fichier vide. `kind: page` écarte
+# en plus les pages de tags (collectivités, communes…), qui sont elles aussi à deux
+# niveaux mais n'ont pas de référence d'offre.
 cascade:
-  - _target:
+  - target:
       path: '/*/*'
+      kind: 'page'
     outputs: ['html', 'print', 'markdown', 'avp_json']
 ---
 
