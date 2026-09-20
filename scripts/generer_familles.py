@@ -26,8 +26,11 @@ Les deux fichiers ont la même forme (`familles: {libellé: "#RRGGBB"}`) que l'u
 fichier d'avant : rien n'a changé pour les gabarits qui ne lisent que le ton foncé.
 `familles_themes.yml` donne le thème de chaque famille (légendes, regroupements).
 
-⚠️ Le moteur (avps-engine/src/pipeline/schema.py) porte encore la palette par lettre ROME
-pour les bannières : à aligner sur le ton foncé de ce fichier lors du chantier bannières.
+Le moteur utilise les MÊMES tons pour les bannières : ce script réécrit aussi le
+référentiel CSV du moteur en y ajoutant les colonnes `theme`, `couleur` (ton foncé) et
+`couleur_claire`, que `avps-engine/src/pipeline/schema.py` lit (`couleur_famille`). Une
+seule source pour les deux dépôts, régénérée d'un seul geste. Une collectivité abonnée
+garde la main : sa charte (`employeurs_partenaires.yml`) prime sur la couleur de famille.
 
 Usage :
     python3 scripts/generer_familles.py [chemin/vers/famille-code-rome.csv]
@@ -204,6 +207,17 @@ def main() -> int:
         lignes += [f'  "{famille}": "{valeur(famille, rome, pal)}"' for famille, rome in familles]
         pathlib.Path(fichier).write_text("\n".join(lignes) + "\n", encoding="utf-8")
         print(f"✅ {fichier} — {len(familles)} familles")
+
+    # Référentiel du moteur : mêmes familles, mêmes codes, plus les colonnes de couleur.
+    # Réécrit trié, en UTF-8 sans BOM, fins de ligne \n. Les colonnes id_famille et
+    # code_rome ne changent jamais ici : ce script n'invente aucune famille.
+    with open(chemin, "w", encoding="utf-8", newline="") as fh:
+        w = csv.writer(fh, lineterminator="\n")
+        w.writerow(["id_famille", "code_rome", "theme", "couleur", "couleur_claire"])
+        for famille, rome in familles:
+            theme, fonce, clair = pal.get(famille, (THEME_DEFAUT, DEFAUT, DEFAUT_CLAIR))
+            w.writerow([famille, rome, theme, fonce, clair])
+    print(f"✅ {chemin} — colonnes theme / couleur / couleur_claire réécrites pour le moteur")
 
     pire_fonce = min(min(contraste(f, BLANC), contraste(f, FOND_CLAIR)) for _, f, _ in pal.values())
     pire_clair = min(contraste(c, FOND_SOMBRE) for _, _, c in pal.values())
