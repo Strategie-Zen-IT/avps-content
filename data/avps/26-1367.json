@@ -65,7 +65,8 @@
   "name": "1 Infirmier(ère) en pratique avancée - service oncologie/hématologie",
   "owner": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -116,7 +117,8 @@
   "experienceRequirements": "Une expérience dans un service similaire serait un plus",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
   },
   "incentiveCompensation": "Primes spécifiques de nuit et de week-end",
   "industry": "Santé",
