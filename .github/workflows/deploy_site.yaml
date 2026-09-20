@@ -45,6 +45,94 @@ jobs:
         with:
           path: ./public
 
+  # --------------------------------------------------------------------------
+  # Contrôle des liens et du formatage.
+  #
+  # Motif : le lien du logo a pointé vers /odata-avps (404) sans qu'aucun signal ne le
+  # remonte, et des URL contenant %20 passent le build sans broncher.
+  #
+  # ⚠️ Ce job NE CONDITIONNE PAS la publication, et c'est délibéré. Le moteur pousse une
+  # fiche par AVP en rafale chaque nuit : bloquer la mise en ligne de toutes les offres
+  # sur un contrôle de liens ferait courir plus de risque au service qu'il n'en évite.
+  # Un échec rend le run rouge — donc visible et notifié — pendant que le site part.
+  # C'est un écart assumé par rapport à l'issue #6, qui demandait les liens internes
+  # bloquants.
+  liens:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build with Hugo
+        run: |
+          mkdir -p data
+          echo "hash: $(git rev-parse --short HEAD)" > data/git_commit.yaml
+          python3 scripts/enrich_descriptions.py
+          hugo --minify
+
+      # Le HTML publié est minifié : un grep sur les sources ne dit rien de ce qui est
+      # réellement servi. On contrôle donc `public/`, pas `layouts/`.
+      - name: Liens internes (bloquant pour ce job)
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # `--offline` ne touche pas au réseau : il ne vérifie que l'existence des
+          # fichiers visés. Aucun faux positif dû à un site tiers indisponible.
+          #
+          # ⚠️ À SURVEILLER au premier passage. Les adresses des pages de tags sont
+          # POURCENT-ENCODÉES (`/communes/noum%C3%A9a/`) alors que les dossiers sur le
+          # disque portent les accents. Un vérificateur qui ne décode pas l'URL avant de
+          # chercher le fichier signale environ 5 800 faux liens morts — je l'ai
+          # constaté en écrivant ce contrôle. Relevé du 20/09/2026, décodage fait :
+          # 78 765 liens internes, ZÉRO mort. Si ce job sort rouge avec des `%C3`, c'est
+          # ce défaut-là, pas une régression du site.
+          args: >-
+            --offline
+            --base public
+            --exclude-path public/vendor
+            'public/**/*.html'
+          fail: true
+          jobSummary: true
+
+      - name: Liens externes (avertissement)
+        uses: lycheeverse/lychee-action@v2
+        continue-on-error: true
+        with:
+          # Une offre sur deux pointe vers data.gouv.nc : on limite la concurrence pour
+          # ne pas marteler la plateforme, et on accepte 403 et 429, que certains sites
+          # renvoient à un client automatisé sans que le lien soit mort pour autant.
+          args: >-
+            --scheme https
+            --scheme http
+            --max-concurrency 4
+            --timeout 20
+            --retry-wait-time 5
+            --accept 200,206,403,429
+            --exclude-path public/vendor
+            --cache
+            --max-cache-age 1d
+            'public/**/*.html'
+          fail: true
+          jobSummary: true
+
+      # Un formateur HTML qui passe sur layouts/ déplace les espaces des actions Go et
+      # casse silencieusement le rendu. `git diff -w` masque précisément ce dégât.
+      - name: Espaces en tête de chaîne Go
+        run: |
+          if grep -rnE '\{\{ *" +[^"]' layouts/; then
+            echo "::error::Une action Go commence par une chaîne à espace initial : un formateur est passé sur layouts/."
+            exit 1
+          fi
+          echo "✅ Aucun espace parasite en tête de chaîne Go."
+
   deploy:
     environment:
       name: github-pages
