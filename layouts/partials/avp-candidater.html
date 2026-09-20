@@ -13,7 +13,7 @@
 */ -}}
 {{- $p := .page }}
 {{- $rappel := .rappel }}
-{{- $jsonld := index site.Data.avps (replace ($p.Params.ref | default "") "/" "_") }}
+{{- $jsonld := index hugo.Data.avps (replace ($p.Params.ref | default "") "/" "_") }}
 {{- $contact := "" }}
 {{- with $jsonld }}{{ $contact = .applicationContact }}{{ end }}
 

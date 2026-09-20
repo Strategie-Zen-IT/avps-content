@@ -8,8 +8,8 @@
 */ -}}
 {{- $offres := partial "avp-actives.html" (where site.RegularPages "Params.ref" "!=" nil) }}
 {{- $offres = sort $offres "Params.date_cloture" "asc" }}
-{{- $couleurs := site.Data.familles_couleurs.familles }}
-{{- $claires := site.Data.familles_couleurs_claires.familles }}
+{{- $couleurs := hugo.Data.familles_couleurs.familles }}
+{{- $claires := hugo.Data.familles_couleurs_claires.familles }}
 
 {{- /* Valeurs distinctes de chaque axe, pour alimenter les menus déroulants. */ -}}
 {{- $familles := slice }}{{ $collectivites := slice }}{{ $communes := slice }}

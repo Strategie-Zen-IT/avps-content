@@ -22,7 +22,7 @@
 */ -}}
 {{- $page := . }}
 {{- $logo := "" }}
-{{- $partenaires := site.Data.employeurs_partenaires.employeurs | default dict }}
+{{- $partenaires := hugo.Data.employeurs_partenaires.employeurs | default dict }}
 {{- $sigle := $page.Params.employeur_sigle | default "" }}
 {{- $nom := $page.Params.collectivite | default "" }}
 {{- range slice ($sigle | urlize) ($nom | urlize) }}

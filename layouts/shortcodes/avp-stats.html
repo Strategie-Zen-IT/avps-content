@@ -55,7 +55,7 @@
 {{- range $ouvertes }}
   {{- $k := replace .Params.ref "/" "_" }}
   {{- $n := 1 }}
-  {{- with index site.Data.avps $k }}{{ with .totalJobOpenings }}{{ $n = . }}{{ end }}{{ end }}
+  {{- with index hugo.Data.avps $k }}{{ with .totalJobOpenings }}{{ $n = . }}{{ end }}{{ end }}
   {{- $postes = add $postes $n }}
 {{- end }}
 
@@ -386,7 +386,7 @@
 
     // Charte officielle des familles de métier — la même que les badges et les pins de
     // la carte, pour qu'une famille garde sa couleur partout sur le site.
-    var FAM_COLORS = {{ site.Data.familles_couleurs.familles | jsonify | safeJS }};
+    var FAM_COLORS = {{ hugo.Data.familles_couleurs.familles | jsonify | safeJS }};
 
     // Tous les classements partagent la même forme : barres horizontales, triées,
     // libellé à gauche, valeur en abscisse. Une seule fonction, cinq appels — c'est

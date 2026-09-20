@@ -15,7 +15,7 @@
   neutre : « Site de … » plutôt qu'une formule que nous aurions choisie à sa place.
 */ -}}
 {{- if eq .Data.Plural "collectivites" }}
-  {{- $registre := site.Data.employeurs_partenaires.employeurs | default dict }}
+  {{- $registre := hugo.Data.employeurs_partenaires.employeurs | default dict }}
   {{- $entree := index $registre (.Data.Term | urlize) }}
   {{- with $entree }}
     {{- $logo := "" }}

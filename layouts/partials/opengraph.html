@@ -10,7 +10,7 @@
     <meta property="og:description" content="{{ . }}">
 {{- end }}
 {{- /* Facebook exige la forme langue_TERRITOIRE (fr_FR) : `fr-fr` de Hugo donnait `fr_fr`. */ -}}
-{{- with site.Language.LanguageCode }}
+{{- with site.Language.Locale }}
   {{- $parts := split . "-" }}
   {{- $locale := index $parts 0 }}
   {{- if gt (len $parts) 1 }}{{ $locale = printf "%s_%s" $locale (upper (index $parts 1)) }}{{ end }}

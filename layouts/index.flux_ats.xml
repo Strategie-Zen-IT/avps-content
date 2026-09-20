@@ -21,7 +21,7 @@
     {{ if .Params.ref }}
       {{ $page := . }}
       {{ $key := replace .Params.ref "/" "_" }}
-      {{ with index $.Site.Data.avps $key }}
+      {{ with index hugo.Data.avps $key }}
     <job>
       {{/* Pas de CDATA ici : html/template traite <title> comme du texte brut HTML et
            échappe tout ce qu'on y met, CDATA compris. Le texte échappé (&amp;) est du XML

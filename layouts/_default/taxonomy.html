@@ -76,33 +76,33 @@
 
     {{/* Page d'un THÈME : badge à sa couleur et liste de ses familles (celles présentes
          dans les offres ouvertes), chacune vers sa rubrique. */}}
-    {{- with index $.Site.Data.themes_couleurs.themes $term }}
+    {{- with index hugo.Data.themes_couleurs.themes $term }}
     <p style="margin-bottom: 1rem;">
       <span style="display: inline-flex; align-items: center; gap: 8px; padding: 0.6rem 1rem; background-color: {{ . }}; color: #fff; border-radius: 6px; font-weight: bold;">
         <i class="fas fa-layer-group" aria-hidden="true"></i> Thème « {{ $term }} »
       </span>
     </p>
     {{- $famsTheme := slice }}
-    {{- range $actives }}{{ range .Params.familles }}{{ if eq (index $.Site.Data.familles_themes.familles .) $term }}{{ $famsTheme = $famsTheme | append . }}{{ end }}{{ end }}{{ end }}
+    {{- range $actives }}{{ range .Params.familles }}{{ if eq (index hugo.Data.familles_themes.familles .) $term }}{{ $famsTheme = $famsTheme | append . }}{{ end }}{{ end }}{{ end }}
     {{- with $famsTheme | uniq | sort }}
     <p style="margin-bottom: 2.5rem;">
       {{- range . }}
         {{- $fam := . }}
         {{- $lien := "" }}
         {{- with site.GetPage "/familles" }}{{ range .Pages }}{{ if eq .Title $fam }}{{ $lien = .RelPermalink }}{{ end }}{{ end }}{{ end }}
-        {{- if $lien }}<a href="{{ $lien }}" class="famille-badge" style="--couleur: {{ index $.Site.Data.familles_couleurs.familles $fam | default "#6B7280" }}">{{ $fam }}</a>
-        {{- else }}<span class="famille-badge" style="--couleur: {{ index $.Site.Data.familles_couleurs.familles $fam | default "#6B7280" }}">{{ $fam }}</span>{{ end }}
+        {{- if $lien }}<a href="{{ $lien }}" class="famille-badge" style="--couleur: {{ index hugo.Data.familles_couleurs.familles $fam | default "#6B7280" }}">{{ $fam }}</a>
+        {{- else }}<span class="famille-badge" style="--couleur: {{ index hugo.Data.familles_couleurs.familles $fam | default "#6B7280" }}">{{ $fam }}</span>{{ end }}
       {{- end }}
     </p>
     {{- end }}
     {{- end }}
 
-    {{- $couleur := index $.Site.Data.familles_couleurs.familles $term }}
+    {{- $couleur := index hugo.Data.familles_couleurs.familles $term }}
     {{- with $couleur }}
     <p style="margin-bottom: 2.5rem;">
       <span style="display: inline-flex; align-items: center; gap: 8px; padding: 0.6rem 1rem; background-color: {{ . }}; color: #fff; border-radius: 6px; font-weight: bold;">
         <i class="fas fa-book" aria-hidden="true"></i>
-        Famille RESPNC « {{ $term }} »{{ with index $.Site.Data.familles_rome.familles $term }} — ROME {{ . }}{{ end }}
+        Famille RESPNC « {{ $term }} »{{ with index hugo.Data.familles_rome.familles $term }} — ROME {{ . }}{{ end }}
       </span>
     </p>
     {{- end }}

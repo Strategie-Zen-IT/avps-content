@@ -112,6 +112,6 @@
 {{- /* Conservé volontairement : c'est le seul moyen, sur un site statique, de savoir
        d'un coup d'œil si les données affichées sont à jour. Sur une seule ligne. */ -}}
 <p class="avp-build-info">
-  Révision <code>r-{{ if site.Data.git_commit }}{{ site.Data.git_commit.hash }}{{ else }}dev{{ end }}</code>
+  Révision <code>r-{{ if hugo.Data.git_commit }}{{ hugo.Data.git_commit.hash }}{{ else }}dev{{ end }}</code>
   · généré le {{ now.Format "02/01/2006 à 15:04" }}
 </p>

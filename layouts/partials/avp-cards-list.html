@@ -8,8 +8,8 @@
   l'échéance. Le mini QR code est ajouté ensuite par `custom-footer.html`, qui cible
   `.avp-list-card` — classe conservée pour cette raison.
 */ -}}
-{{- $couleurs := site.Data.familles_couleurs.familles }}
-{{- $claires := site.Data.familles_couleurs_claires.familles }}
+{{- $couleurs := hugo.Data.familles_couleurs.familles }}
+{{- $claires := hugo.Data.familles_couleurs_claires.familles }}
 <div class="avp-cards">
   {{- range . }}
     {{- $fam := "" }}

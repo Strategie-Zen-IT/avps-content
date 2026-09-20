@@ -11,7 +11,7 @@
   Contexte attendu : la page de l'offre.
 */ -}}
 {{- $p := . }}
-{{- $j := index site.Data.avps (replace ($p.Params.ref | default "") "/" "_") }}
+{{- $j := index hugo.Data.avps (replace ($p.Params.ref | default "") "/" "_") }}
 
 {{- /* Certaines valeurs extraites sont du bruit (un point seul, « N/A », « néant »…) :
        on ne garde que ce qui a la longueur d'un vrai critère. */ -}}

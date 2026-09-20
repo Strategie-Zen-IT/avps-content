@@ -7,8 +7,8 @@
   title énumère ses familles présentes sur la carte.
 */ -}}
 {{- $pages := . }}
-{{- $colors := site.Data.themes_couleurs.themes }}
-{{- $themeDe := site.Data.familles_themes.familles }}
+{{- $colors := hugo.Data.themes_couleurs.themes }}
+{{- $themeDe := hugo.Data.familles_themes.familles }}
 {{- $liens := dict }}
 {{- with site.GetPage "/themes" }}{{ range .Pages }}{{ $liens = merge $liens (dict .Title .RelPermalink) }}{{ end }}{{ end }}
 {{- $famillesParTheme := dict }}

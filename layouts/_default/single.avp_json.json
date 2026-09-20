@@ -20,7 +20,7 @@
        refusionnait le logo qu'on venait d'écarter. L'objet de sortie est donc reconstruit
        clé par clé à partir d'un dictionnaire VIDE, seule façon de garantir une absence. */ -}}
 {{- $cle := replace (.Params.ref | default "") "/" "_" -}}
-{{- with index site.Data.avps $cle -}}
+{{- with index hugo.Data.avps $cle -}}
   {{- $sortie := dict -}}
   {{- range $k, $v := . -}}
     {{- if eq $k "hiringOrganization" -}}

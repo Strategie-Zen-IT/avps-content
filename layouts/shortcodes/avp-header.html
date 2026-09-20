@@ -11,12 +11,12 @@
    ========================================================================== */ -}}
 
 {{- $p := .Page }}
-{{- $jsonld := index site.Data.avps (replace ($p.Params.ref | default "") "/" "_") }}
+{{- $jsonld := index hugo.Data.avps (replace ($p.Params.ref | default "") "/" "_") }}
 {{- $collectivite := $p.Params.collectivite }}
 {{- if not $collectivite }}{{ with $jsonld }}{{ with .hiringOrganization }}{{ $collectivite = .name }}{{ end }}{{ end }}{{ end }}
 {{- $sigle := $p.Params.employeur_sigle | default "" }}
 {{- $termsColl := $p.GetTerms "collectivites" }}
-{{- $couleurs := site.Data.familles_couleurs.familles }}
+{{- $couleurs := hugo.Data.familles_couleurs.familles }}
 
 {{- /* Table slug -> URL des pages de tag réelles : .RelPermalink gère le préfixe de
        baseURL ET l'encodage des accents, ce qu'une URL reconstruite à la main rate. */ -}}
@@ -199,8 +199,8 @@
 
       // Pin coloré selon le(s) grand(s) thème(s) de métiers (anneau segmenté, même rendu
       // que la carte globale : par thème, pas par famille, voir avp-map.html).
-      const THEME_COLORS = {{ site.Data.themes_couleurs.themes | jsonify | safeJS }};
-      const FAMILY_THEME = {{ site.Data.familles_themes.familles | jsonify | safeJS }};
+      const THEME_COLORS = {{ hugo.Data.themes_couleurs.themes | jsonify | safeJS }};
+      const FAMILY_THEME = {{ hugo.Data.familles_themes.familles | jsonify | safeJS }};
       const FAMILIES = {{ $p.Params.familles | jsonify | safeJS }};
       function avpRingIcon() {
         const themes = [];

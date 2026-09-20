@@ -36,8 +36,8 @@
     if (typeof L === "undefined") return;
     L.Icon.Default.imagePath = {{ "vendor/leaflet/images/" | relURL }};
 
-    var THEME_COLORS = {{ site.Data.themes_couleurs.themes | jsonify | safeJS }};
-    var FAMILY_THEME = {{ site.Data.familles_themes.familles | jsonify | safeJS }};
+    var THEME_COLORS = {{ hugo.Data.themes_couleurs.themes | jsonify | safeJS }};
+    var FAMILY_THEME = {{ hugo.Data.familles_themes.familles | jsonify | safeJS }};
     function themesOf(families) {
       var out = [];
       (families || []).forEach(function (f) {
