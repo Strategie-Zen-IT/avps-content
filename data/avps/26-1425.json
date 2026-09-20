@@ -45,7 +45,8 @@
   "name": "Chef de projets",
   "owner": {
     "@type": "Organization",
-    "name": "Province Nord"
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -94,7 +95,8 @@
   "experienceRequirements": "Expérience professionnelle confirmée",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Province Nord"
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
   },
   "incentiveCompensation": null,
   "industry": "Système d'information",
