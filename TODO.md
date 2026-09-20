@@ -52,14 +52,15 @@ Le site est fonctionnel mais n'a pas de charte. Rien ici n'est bloquant.
 - [ ] **`static/assets/logo-avps.svg`** est un monogramme provisoire. Volontairement
       neutre : il ne doit évoquer aucune des collectivités agrégées, sous peine de
       laisser croire que l'une d'elles édite le site.
-- [ ] **`data/familles_couleurs.yml`** porte une palette provisoire : **une couleur par
-      domaine ROME** (8 présents) et non par famille — 41 couleurs ne se distinguent pas
-      à l'œil. Ce fichier est **généré** : éditer `scripts/generer_familles.py`, pas le
-      YAML. Les mêmes valeurs sont dupliquées dans `avps-engine/src/pipeline/schema.py`
-      (palette des prompts de bannière) : **garder les deux alignées**.
-
-## D. Logos des employeurs
-
+- [x] **Couleurs des familles** (20/09/2026) : camaïeux par grand thème, sept univers de
+      métiers au lieu des huit lettres ROME, deux tons par famille avec contraste WCAG
+      4,5:1 garanti (`familles_couleurs.yml` pour les badges et le thème clair,
+      `familles_couleurs_claires.yml` pour les libellés du thème sombre,
+      `familles_themes.yml` pour le rattachement). Générés par
+      `scripts/generer_familles.py`, ne pas éditer les YAML.
+- [ ] **Aligner la palette des bannières** dans `avps-engine/src/pipeline/schema.py`
+      (encore par lettre ROME) sur le ton foncé de `familles_couleurs.yml` : à faire dans
+      le chantier bannières, pas ailleurs.
 - [ ] **Déposer les logos** dans `static/logos/{sigle}.png` (voir le README du dossier
       pour la convention et la requête SQL qui donne les manquants par priorité). Le
       moteur essaie `{sigle}.png` puis `{collectivité-slug}.png` : déposer
