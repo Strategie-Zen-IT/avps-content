@@ -96,9 +96,14 @@ jobs:
           # constaté en écrivant ce contrôle. Relevé du 20/09/2026, décodage fait :
           # 78 765 liens internes, ZÉRO mort. Si ce job sort rouge avec des `%C3`, c'est
           # ce défaut-là, pas une régression du site.
+          # 91 liens sur 108 d'une page type sont RACINE-RELATIFS (`/communes/…`). Pour
+          # les résoudre sur le disque il faut `--root-dir`, et non `--base` : depuis
+          # lychee 0.24, `--base` n'accepte plus qu'une URL complète ou un chemin absolu,
+          # et refusait donc `public` (run 35508497213, 20/09/2026). Le chemin doit être
+          # ABSOLU, d'où `github.workspace` plutôt que `public`.
           args: >-
             --offline
-            --base public
+            --root-dir ${{ github.workspace }}/public
             --exclude-path public/vendor
             'public/**/*.html'
           fail: true
