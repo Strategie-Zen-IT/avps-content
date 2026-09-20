@@ -10,13 +10,8 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Type de remplacement",
-        "value": "Remplacement d'un titulaire placé en position de disponibilité"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Astreintes",
-        "value": "Assurer des astreintes de santé publique dans le cadre de la veille sanitaire"
+        "name": "Type de mission",
+        "value": "Mission ponctuelle dans le cadre d'un remplacement d'un titulaire placé en position de disponibilité"
       },
       {
         "@type": "PropertyValue",
@@ -57,7 +52,7 @@
   },
   "alternateName": null,
   "description": "La direction des affaires sanitaires et sociales de la Nouvelle-Calédonie est une des directions techniques du gouvernement de la Nouvelle-Calédonie.\nElle est responsable de la mise en œuvre de la politique de la Nouvelle-Calédonie en matière de santé publique et de protection sociale. \n\nElle comprend un service administration et support et quatre services métiers.\n\nLe service de santé publique est chargé de la connaissance et des études relative à la situation sanitaire, de la veille et de la surveillance, et de l'amélioration de la santé des calédoniens (prévention). Les principaux enjeux de la politique de santé reposent sur le concept Une seule santé et sont liés aux déterminants de santé, à la santé relationnelle, à la prévention et aux parcours.",
-  "disambiguatingDescription": "Remplacement d'un an au Service de la santé publique de la DASS",
+  "disambiguatingDescription": null,
   "identifier": "26-65193/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -118,7 +113,7 @@
     "name": "Direction des affaires sanitaires et sociales",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "B.P M2",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -128,8 +123,7 @@
   "jobLocationType": null,
   "jobStartDate": "2026-03-30",
   "occupationalCategory": [
-    "Politique de santé publique",
-    "Santé publique soins"
+    "Politique de santé publique"
   ],
   "physicalRequirement": null,
   "qualifications": "Doctorat en médecine",
@@ -177,10 +171,10 @@
     "Ouverture d'esprit",
     "Appétence pour le travail en équipe."
   ],
-  "specialCommitments": "Assurer des astreintes de santé publique dans le cadre de la veille sanitaire",
-  "title": "Médecin",
+  "specialCommitments": "Astreintes de santé publique dans le cadre de la veille sanitaire",
+  "title": "Médecin de santé publique",
   "totalJobOpenings": 3,
-  "validThrough": "2026-09-18",
+  "validThrough": "2026-10-09",
   "workHours": null,
   "champs_open_data": 28,
   "employeur_sigle": "DASS",
