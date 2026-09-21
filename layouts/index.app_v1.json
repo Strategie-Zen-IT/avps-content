@@ -1,0 +1,101 @@
+{{- /*
+  Flux de l'application mobile — `/app-v1.json`.
+
+  Consommateur UNIQUE : l'application `avps-app` (Android et iOS). Son contrat est
+  écrit du côté qui consomme : `avps-app/docs/contrat-flux-app.md`. Toute modification
+  de ce gabarit se lit d'abord là-bas.
+
+  ─── Pourquoi un fichier distinct de `/offres.json` ──────────────────────────────
+
+  Les deux consommateurs ont des besoins OPPOSÉS, mesuré le 21/09/2026 :
+
+    - le site veut TOUTES les offres, archives comprises, parce que sa recherche doit
+      retrouver une offre close dont on a la référence, et que rien n'est supprimé ;
+    - l'application veut un flux de TAILLE CONSTANTE. À 723 octets par offre et
+      2333 AVP/an, `/offres.json` grossit de ~1,6 Mo par an (167 Ko aujourd'hui, ~5 Mo
+      dans trois ans). Comme il change presque tous les jours, l'ETag ne protège pas :
+      un téléphone qui ouvre l'application chaque matin retéléchargerait tout, chaque
+      matin, sur un forfait calédonien.
+
+  D'où ce fichier, limité aux offres OUVERTES (~140 Ko, stable). Les favoris sur une
+  offre close restent affichables côté application, qui recopie localement le résumé au
+  moment de la mise en favori.
+
+  ⚠️ Ce fichier part sur des téléphones qui NE SE METTENT PAS À JOUR. Ajouter un champ
+  ne casse rien (l'application ignore ce qu'elle ne connaît pas). En RETIRER un, en
+  renommer un ou en changer le type casse les versions déjà installées : cela impose un
+  `app-v2.json` servi EN PLUS, et la v1 maintenue tant qu'une version publiée la lit.
+*/ -}}
+{{- $aujourdhui := now.Format "2006-01-02" }}
+{{- $offres := slice }}
+{{- range where site.RegularPages "Params.ref" "!=" nil }}
+  {{- /* Offres ouvertes seulement : ni archivées, ni clôturées. La comparaison de
+         dates se fait en CHAÎNES au format AAAA-MM-JJ, qui se trient comme des dates —
+         et `now` respecte `timeZone = Pacific/Noumea` du site, sans quoi une offre
+         clôturant le jour même disparaîtrait onze heures trop tôt (le build tourne en
+         UTC sur GitHub Actions). */ -}}
+  {{- $ouverte := ne .Params.archive true }}
+  {{- if $ouverte }}
+    {{- with .Params.date_cloture }}
+      {{- $d := string . }}
+      {{- if and (eq (len $d) 10) (lt $d $aujourdhui) }}{{ $ouverte = false }}{{ end }}
+    {{- end }}
+  {{- end }}
+  {{- if $ouverte }}
+    {{- /* `codeemploirome` vaut « N0000 » / « Hors rome » sur 77 % des AVP actifs : le
+           moteur ne remplit `code_rome` que s'il ressemble à un vrai code. On recopie
+           donc tel quel, en chaîne vide quand il manque. */ -}}
+    {{- $rome := "" }}
+    {{- with .Params.code_rome }}{{ $rome = string . }}{{ end }}
+    {{- /* Date de publication. `.Params.date` est une date Hugo, pas une chaîne :
+           la formater explicitement évite un ISO 8601 complet là où l'application
+           attend une date nue — une offre paraît un jour, pas à un instant. */ -}}
+    {{- $publiee := "" }}
+    {{- with .Date }}{{ $publiee = .Format "2006-01-02" }}{{ end }}
+    {{- /* Coordonnées : les SEULES valeurs nullables du flux. Zéro est une latitude
+           valide, donc on distingue « absent » de « zéro » — un `| default 0` mettrait
+           les offres sans géocodage au large du Ghana. */ -}}
+    {{- $lat := false }}{{ with .Params.latitude }}{{ $lat = . }}{{ end }}
+    {{- $lon := false }}{{ with .Params.longitude }}{{ $lon = . }}{{ end }}
+    {{- /* Le logo n'est servi QUE pour les employeurs ayant donné leur accord
+           (`data/employeurs_partenaires.yml`, vide par défaut) : reproduire l'emblème
+           d'une collectivité sur un site qu'elle n'édite pas suppose son autorisation.
+           Le partial renvoie donc "" dans le cas courant.
+           ⚠️ `absURL ""` renvoie l'URL du site, pas une chaîne vide : sans ce garde,
+           chaque offre sortait avec `"logo": "https://avps.nc/"`. */ -}}
+    {{- $logo := partial "avp-logo.html" . }}
+    {{- with $logo }}{{ $logo = . | absURL }}{{ end }}
+    {{- $offres = $offres | append (dict
+        "ref"          (.Params.ref | default "")
+        "titre"        .Title
+        "url"          .RelPermalink
+        "resume"       (.Params.summary | default "")
+        "famille"      (.Params.famille | default "")
+        "theme"        (index (.Params.themes | default slice) 0 | default "")
+        "collectivite" (.Params.collectivite | default "")
+        "commune"      (.Params.ville | default "")
+        "province"     (index (.Params.provinces | default slice) 0 | default "")
+        "corps"        (.Params.corps_grade | default "")
+        "metier"       (.Params.metier_ref_nom | default "")
+        "rome"         $rome
+        "publiee"      $publiee
+        "cloture"      (.Params.date_cloture | default "")
+        "dispo"        (.Params.disponibilite | default "")
+        "lat"          (cond (eq $lat false) nil $lat)
+        "lon"          (cond (eq $lon false) nil $lon)
+        "banniere"     (.Params.featured_image | default "")
+        "logo"         $logo
+        "pdf"          (.Params.url_pdf | default "")
+        "ouverte"      true
+    ) }}
+  {{- end }}
+{{- end }}
+{{- /* Tri par date de publication décroissante : l'application affiche les nouveautés
+       d'abord et n'a donc rien à retrier au démarrage. */ -}}
+{{- $offres = sort $offres "publiee" "desc" }}
+{{- dict
+      "version"   1
+      "genere_le" (now.Format "2006-01-02T15:04:05-07:00")
+      "nombre"    (len $offres)
+      "offres"    $offres
+    | jsonify }}

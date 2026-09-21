@@ -193,6 +193,24 @@ weight = 40
   isPlainText = true
   notAlternative = true
 
+# Flux de l'application mobile (dépôt `avps-app`). SEUL consommateur : l'application.
+#
+# Distinct d'`offres` à dessein : ce dernier porte TOUTES les offres, archives comprises,
+# parce que la recherche du site doit retrouver une offre close dont on a la référence.
+# À 723 octets par offre et 2333 AVP/an, il grossit de ~1,6 Mo par an — intenable pour un
+# téléphone qui le retéléchargerait presque chaque jour. Le flux app ne porte donc que les
+# offres ouvertes, et reste de taille constante. Contrat complet :
+# `avps-app/docs/contrat-flux-app.md`.
+#
+# ⚠️ Ce fichier part sur des téléphones qui ne se mettent pas à jour : on peut y AJOUTER
+# un champ, jamais en retirer ni en renommer un. Une rupture impose un `app-v2.json`
+# servi en plus, et la v1 maintenue tant qu'une version publiée la lit.
+[outputFormats.app_v1]
+  mediaType = "application/json"
+  baseName = "app-v1"
+  isPlainText = true
+  notAlternative = true
+
 # JSON-LD complet d'une offre, servi à côté de sa fiche : `/famille/reference/index.json`.
 # C'est exactement le balisage Schema.org/JobPosting embarqué dans la page, mais en
 # fichier séparé — un réutilisateur n'a plus à découper du HTML pour l'obtenir.
@@ -209,7 +227,7 @@ weight = 40
   isHTML = false
 
 [outputs]
-  home = ['html', 'rss', 'print','markdown','jobs_sitemap','flux_ats','sitemap-index','offres']
+  home = ['html', 'rss', 'print','markdown','jobs_sitemap','flux_ats','sitemap-index','offres','app_v1']
   page = ['html', 'print','markdown']
   section = ['html', 'rss', 'print','markdown']
 

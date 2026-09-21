@@ -68,6 +68,29 @@ publique calédonienne a imposé les changements suivants :
    — les données sont exposées en fichiers statiques (JSON-LD, RSS, flux ATS, dataset
    Hugging Face).
 
+### Les flux produits au build
+
+| Adresse | Pour qui | Contenu |
+|---|---|---|
+| `/index.xml` et 449 flux par section et par terme | lecteurs de flux | nouvelles offres |
+| `/offres.json` | **le site lui-même** | toutes les offres, archives comprises, pour les filtres de « Toutes les offres » et les compteurs du menu |
+| `/app-v1.json` | **l'application mobile** (`avps-app`) | les offres **ouvertes** seulement |
+| `/{famille}/{ref}/index.json` | réutilisateurs | le JSON-LD complet d'une offre |
+| `/flux_ats.xml` | agrégateurs d'emploi | format Indeed élargi |
+| `/jobs-sitemap.xml` | moteurs | sitemap des offres |
+
+⚠️ **`/offres.json` et `/app-v1.json` ne sont pas redondants**, et fusionner les deux
+serait une régression. `/offres.json` porte **toutes** les offres parce que la
+recherche du site doit retrouver une offre close dont on a la référence, et que les
+archives ne sont jamais supprimées : à 723 octets par offre et 2333 AVP/an, il grossit
+d'environ 1,6 Mo par an. L'application, elle, le retéléchargerait presque chaque jour
+sur un forfait calédonien. Son flux est donc limité aux offres ouvertes et reste de
+taille constante — 130 Ko pour 169 offres, mesuré le 21/09/2026.
+
+⚠️ **`/app-v1.json` part sur des téléphones qui ne se mettent pas à jour.** On peut y
+ajouter un champ, jamais en retirer ni en renommer un. Son contrat fait foi et vit
+dans le dépôt qui le consomme : `avps-app/docs/contrat-flux-app.md`.
+
 ## 🛠️ Développer en local
 
 ```bash
