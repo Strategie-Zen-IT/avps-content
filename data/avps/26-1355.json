@@ -58,7 +58,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-11",
-  "directApply": false,
+  "directApply": null,
   "educationRequirements": {
     "credentialCategory": "Bac",
     "competencyRequired": [
@@ -95,8 +95,7 @@
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98800"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
