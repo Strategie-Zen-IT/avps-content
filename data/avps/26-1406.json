@@ -56,7 +56,8 @@
   "name": "1 Préparateur en pharmacie hospitalière",
   "owner": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -83,7 +84,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-18",
-  "directApply": false,
+  "directApply": true,
   "educationRequirements": {
     "credentialCategory": "Diplôme de préparateur en pharmacie hospitalière",
     "competencyRequired": [
@@ -111,7 +112,8 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
   },
   "incentiveCompensation": "Prise en charge du billet aller uniquement",
   "industry": "Santé",
@@ -127,8 +129,7 @@
       "addressLocality": "Dumbéa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98835"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
