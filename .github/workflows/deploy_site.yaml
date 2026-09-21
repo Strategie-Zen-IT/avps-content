@@ -10,6 +10,21 @@ permissions:
   pages: write
   id-token: write
 
+# Fuseau du runner, et donc de `now` dans les gabarits Hugo.
+#
+# ⚠️ `timeZone = 'Pacific/Noumea'` dans hugo.toml ne suffit PAS : ce réglage sert à
+# interpréter les dates SANS décalage écrites dans le front-matter, il ne change pas
+# `now`, qui suit l'horloge du runner. Constaté le 21/09/2026 : `genere_le` sortait en
+# `+00:00` dans /offres.json comme dans /app-v1.json, alors que le commentaire de
+# hugo.toml affirmait le contraire.
+#
+# Conséquence concrète : la comparaison `date_cloture < aujourd'hui` qui décide de
+# l'ouverture d'une offre se faisait sur la date UTC. UTC ayant onze heures de retard
+# sur Nouméa, une offre clôturée hier restait listée comme ouverte jusqu'à 11 h du
+# matin, heure locale.
+env:
+  TZ: Pacific/Noumea
+
 # Le moteur commite une fiche par AVP, en rafale après le fetcher de 23h : les builds
 # s'empilent. Le dernier gagne toujours (le site est reconstruit en entier), donc on
 # annule les builds en cours plutôt que de saturer la limite de GitHub Pages (~10/h).

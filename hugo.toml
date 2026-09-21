@@ -2,9 +2,17 @@ baseURL = 'https://avps.nc'
 locale = 'fr-fr'
 defaultContentLanguage = 'fr'
 
-# Fuseau de référence du site. Sans lui, `now` vaut l'heure du serveur de build (UTC sur
-# GitHub Actions), soit onze heures d'écart avec Nouméa : une offre clôturant le jour même
-# aurait disparu des listes une demi-journée trop tôt.
+# Fuseau de référence du site : il sert à interpréter les dates SANS décalage écrites
+# dans le front-matter des fiches (`date`, `date_cloture`…).
+#
+# ⚠️ Il ne change PAS `now`, contrairement à ce qui était écrit ici jusqu'au
+# 21/09/2026. `now` suit l'horloge du processus, donc celle du runner — UTC sur GitHub
+# Actions. Vérifié : `TZ=UTC hugo` produit `genere_le: …+00:00`,
+# `TZ=Pacific/Noumea hugo` produit `…+11:00`, avec ce réglage inchangé dans les deux cas.
+#
+# C'est pourquoi le workflow de déploiement pose `TZ: Pacific/Noumea` sur le runner.
+# Les deux sont nécessaires et ne font pas la même chose : celui-ci pour lire les dates
+# du contenu, celui-là pour que `now` soit l'heure de Nouméa.
 timeZone = 'Pacific/Noumea'
 title = "avps.nc — Emploi public en Nouvelle-Calédonie"
 theme = 'hugo-theme-relearn'
