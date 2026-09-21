@@ -105,7 +105,8 @@
       "addressLocality": "Bélep",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
-      "province": "province Nord"
+      "province": "province Nord",
+      "postalCode": "98811"
     }
   },
   "jobLocationType": null,

@@ -93,7 +93,8 @@
       "addressLocality": "Touho",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
-      "province": "province Nord"
+      "province": "province Nord",
+      "postalCode": "98831"
     }
   },
   "jobLocationType": null,

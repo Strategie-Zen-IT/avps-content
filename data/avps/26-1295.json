@@ -103,7 +103,8 @@
       "addressLocality": "Nouméa",
       "addressRegion": "Nouvelle-Calédonie",
       "addressCountry": "NC",
-      "province": "province Sud"
+      "province": "province Sud",
+      "postalCode": "98800"
     }
   },
   "jobLocationType": null,

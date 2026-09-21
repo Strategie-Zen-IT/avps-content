@@ -91,7 +91,8 @@
       "addressLocality": "Koumac",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
-      "province": "province Nord"
+      "province": "province Nord",
+      "postalCode": "98850"
     }
   },
   "jobLocationType": null,
