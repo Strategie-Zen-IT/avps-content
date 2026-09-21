@@ -37,7 +37,8 @@
   "name": "Chef du service des centres de secours",
   "owner": {
     "@type": "Organization",
-    "name": "Ville de Nouméa"
+    "name": "Ville de Nouméa",
+    "logo": "https://avps.nc/logos/ville-de-noumea.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -53,7 +54,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-08-28",
-  "directApply": false,
+  "directApply": null,
   "educationRequirements": {
     "credentialCategory": "Diplôme de chef de colonne",
     "competencyRequired": [
@@ -75,7 +76,8 @@
   "experienceRequirements": "Expérience confirmée en commandement et gestion opérationnelle de secours.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Ville de Nouméa"
+    "name": "Ville de Nouméa",
+    "logo": "https://avps.nc/logos/ville-de-noumea.png"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -91,8 +93,7 @@
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98800"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
