@@ -68,7 +68,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-18",
-  "directApply": true,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme d’Etat d’éducateur spécialisé",
     "competencyRequired": [

@@ -54,7 +54,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-06-05",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'État d'infirmier",
     "competencyRequired": [

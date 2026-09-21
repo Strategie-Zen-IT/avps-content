@@ -77,7 +77,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-11",
-  "directApply": true,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'Etat d'infirmier en pratique avancée",
     "competencyRequired": [
@@ -166,7 +166,7 @@
     "Communication"
   ],
   "specialCommitments": "Poste soumis à astreintes",
-  "title": "INFIRMIER EN PRATIQUE AVANCÉE",
+  "title": "Infirmier en pratique avancée",
   "totalJobOpenings": 5,
   "validThrough": "2026-10-02",
   "workHours": "Astreintes",

@@ -52,7 +52,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-18",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Bac+5",
     "competencyRequired": [
@@ -144,7 +144,7 @@
     "Charisme et aisance à l’oral"
   ],
   "specialCommitments": null,
-  "title": "DIRECTEUR GENERAL (H/F)",
+  "title": "Directeur général (h/f)",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-09",
   "workHours": null,

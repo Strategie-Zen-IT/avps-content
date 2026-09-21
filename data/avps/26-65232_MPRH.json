@@ -77,7 +77,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-08-26",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": null,
     "competencyRequired": [

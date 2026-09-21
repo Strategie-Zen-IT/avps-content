@@ -70,7 +70,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-05-08",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Doctorat",
     "competencyRequired": [
@@ -153,7 +153,7 @@
     "Goût du travail en équipe"
   ],
   "specialCommitments": "Poste soumis à astreinte.",
-  "title": "MEDECIN ITINERANT ET DE TELECONSULTATION",
+  "title": "Médecin itinerant et de teleconsultation",
   "totalJobOpenings": 1,
   "validThrough": "2026-09-18",
   "workHours": null,

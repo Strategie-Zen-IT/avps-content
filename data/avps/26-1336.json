@@ -61,7 +61,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-04",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": null,
     "competencyRequired": [
@@ -159,7 +159,7 @@
     "Disponibilité et adaptabilité"
   ],
   "specialCommitments": null,
-  "title": "ASSISTANT ADMINISTRATIF",
+  "title": "Assistant administratif",
   "totalJobOpenings": 1,
   "validThrough": "2026-09-25",
   "workHours": null,

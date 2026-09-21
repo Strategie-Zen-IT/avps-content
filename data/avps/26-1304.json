@@ -73,7 +73,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-08-28",
-  "directApply": true,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Attaché d'administration ou cadre socio-éducatif",
     "competencyRequired": [

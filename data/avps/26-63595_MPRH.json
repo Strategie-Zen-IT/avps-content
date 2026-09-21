@@ -96,7 +96,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-06-12",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme de médecine",
     "competencyRequired": [

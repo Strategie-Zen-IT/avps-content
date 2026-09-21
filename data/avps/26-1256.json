@@ -84,7 +84,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-08-21",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'aide-soignant ou certificat d'aptitude à la fonction d'aide-soignant",
     "competencyRequired": [

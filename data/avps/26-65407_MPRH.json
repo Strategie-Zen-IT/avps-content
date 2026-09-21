@@ -79,7 +79,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-04",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "CAFERUIS, CAFDES ou validation de la formation de responsable d'unité éducative de la PJJ",
     "competencyRequired": [

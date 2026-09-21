@@ -67,7 +67,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-05-22",
-  "directApply": true,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'Etat d'Infirmier",
     "competencyRequired": [
@@ -165,7 +165,7 @@
     "Prendre en compte les spécificités culturelles de la population"
   ],
   "specialCommitments": "Astreintes de nuit et/ou de week-end",
-  "title": "INFIRMIER EN SOINS GENERAUX",
+  "title": "Infirmier en soins generaux",
   "totalJobOpenings": 1,
   "validThrough": "2026-09-18",
   "workHours": "Astreintes possibles",

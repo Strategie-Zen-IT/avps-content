@@ -55,7 +55,7 @@
   },
   "baseSalary": null,
   "datePosted": "2025-11-07",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": null,
     "competencyRequired": [

@@ -65,7 +65,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-08-21",
-  "directApply": true,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'Etat d'éducateur spécialisé ou d'assistant de service social ou d'éducateur de jeunes enfants, ou diplôme d'enseignant du premier degré",
     "competencyRequired": [

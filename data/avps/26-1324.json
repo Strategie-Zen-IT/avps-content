@@ -46,7 +46,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-04",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'Etat d'assistant de service social",
     "competencyRequired": [

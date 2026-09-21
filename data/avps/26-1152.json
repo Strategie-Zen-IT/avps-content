@@ -66,7 +66,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-07-31",
-  "directApply": true,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme de Cadre de santé ou d'infirmier diplômé d'Etat",
     "competencyRequired": [

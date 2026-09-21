@@ -64,7 +64,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-04",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'Etat d'Infirmier",
     "competencyRequired": [
@@ -153,7 +153,7 @@
     "Esprit d'équipe"
   ],
   "specialCommitments": null,
-  "title": "INFIRMIER (ERE)",
+  "title": "Infirmier (ere)",
   "totalJobOpenings": 4,
   "validThrough": "2026-09-25",
   "workHours": "Roulement en 12 heures aux urgences, en 08h au centre de détention. Travail weekend end et jours fériés. Polyvalence Jour-Nuit aux urgences.",

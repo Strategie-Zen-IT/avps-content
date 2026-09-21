@@ -44,7 +44,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-18",
-  "directApply": true,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Formation initiale axée sur la comptabilité et les finances",
     "competencyRequired": [

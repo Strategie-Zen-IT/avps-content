@@ -61,7 +61,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-18",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'état infirmier",
     "competencyRequired": [
@@ -146,7 +146,7 @@
     "Esprit d'équipe"
   ],
   "specialCommitments": null,
-  "title": "INFIRMIER (ERE)",
+  "title": "Infirmier (ere)",
   "totalJobOpenings": 4,
   "validThrough": "2026-10-09",
   "workHours": "Roulement en 12 heures, Polyvalence Jour-Nuit",

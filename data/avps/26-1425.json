@@ -73,7 +73,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-18",
-  "directApply": true,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Bac+5",
     "competencyRequired": [
@@ -181,7 +181,7 @@
     "Respect de la hiérarchie"
   ],
   "specialCommitments": "Astreintes communication",
-  "title": "CHEF DE PROJETS",
+  "title": "Chef de projets",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-09",
   "workHours": null,

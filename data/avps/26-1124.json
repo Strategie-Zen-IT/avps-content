@@ -67,7 +67,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-07-24",
-  "directApply": true,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Brevet d'Etat d'Educateur Sportif des Activités de la Natation (B.E.E.S.A.N) ou BPJEPS AAN",
     "competencyRequired": [

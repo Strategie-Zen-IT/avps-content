@@ -65,7 +65,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-08-07",
-  "directApply": true,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'état",
     "competencyRequired": [
@@ -145,7 +145,7 @@
     "Goût du travail en équipe"
   ],
   "specialCommitments": "Ce poste est soumis à astreinte de nuit.",
-  "title": "INFIRMIER EN SOINS GÉNÉRAUX",
+  "title": "Infirmier en soins généraux",
   "totalJobOpenings": 1,
   "validThrough": "2026-09-25",
   "workHours": "Astreinte de nuit",

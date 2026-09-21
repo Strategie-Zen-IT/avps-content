@@ -66,7 +66,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-04-10",
-  "directApply": true,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'État d'éducateur spécialisé ou de moniteur éducateur",
     "competencyRequired": [

@@ -72,7 +72,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-05-01",
-  "directApply": true,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Bac+3",
     "competencyRequired": [

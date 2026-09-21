@@ -149,7 +149,7 @@
     "Savoir inclure les spécificités culturelles de la population dans sa pratique professionnelle"
   ],
   "specialCommitments": "Ce poste est soumis à astreinte de nuit et de week-end selon le planning établi par roulement et l'effectif médical. Pour des raisons de service ce poste peut être sollicité pour une mobilité de secteur.",
-  "title": "INFIRMIER RÉFÉRENT EN GÉRONTOLOGIE – CÔTE EST",
+  "title": "Infirmier référent en gérontologie – côte est",
   "validThrough": "2026-09-18",
   "champs_open_data": 6,
   "employeur_sigle": "PVN",
@@ -159,5 +159,6 @@
   "famille_respnc": "Santé publique soins",
   "famille_source": "respnc",
   "famille_score": 0.994,
-  "dossier": "sante-publique-soins"
+  "dossier": "sante-publique-soins",
+  "directApply": false
 }
