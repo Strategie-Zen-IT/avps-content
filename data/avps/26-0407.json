@@ -7,13 +7,14 @@
     "superieurHierarchique": "Directeur de la direction des finances budgétaires",
     "placeOrganigramme": "Placée sous l'autorité du directeur",
     "relationsFonctionnelles": [
+      "Directions de la province Nord",
       "SAEML",
       "SPL"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
         "value": "Au moins égale à 10 ans"
       },
       {
@@ -29,8 +30,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La direction des finances et du budget de la province Nord est chargée de la gestion comptable budgétaire et financière. Elle prépare le budget de la province et assure le contrôle de son exécution tant en dépenses qu'en recettes. Elle remplit une mission de conseil et d'aide à la décision au travers des analyses rétrospectives et prospectives qu'elle produit et propose une stratégie soutenable des finances de la collectivité. La direction des finances et du budget présente une ossature composée de 3 pôles : Celui de support, enjeux stratégiques et budget.",
-  "disambiguatingDescription": null,
+  "description": "La direction des finances et du budget de la province Nord est chargée de la gestion comptable budgétaire et financière. Elle prépare le budget de la province et assure le contrôle de son exécution tant en dépenses qu'en recettes. Elle remplit une mission de conseil et d'aide à la décision au travers des analyses rétrospectives et prospectives qu'elle produit et propose une stratégie soutenable des finances de la collectivité.",
+  "disambiguatingDescription": "Chargé d'études Hors bilan au sein de la Direction des finances et du budget de la province Nord.",
   "identifier": "26-0407",
   "image": null,
   "mainEntityOfPage": null,
@@ -46,7 +47,18 @@
   "url": "https://www.province-nord.nc/avp",
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Hôtel de la province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
@@ -54,20 +66,25 @@
   },
   "baseSalary": null,
   "datePosted": "2026-03-20",
-  "directApply": null,
+  "directApply": true,
   "educationRequirements": {
     "credentialCategory": "Bac+3",
     "competencyRequired": [
-      "Comptabilité et gestion",
-      "Finance",
+      "Bac +3 minimum dans le domaine de la comptabilité et de la gestion",
+      "Master II dans le domaine de la finance requis dans le cadre d'un recrutement sur titre",
       "Bonne connaissance des règles financières, budgétaire et comptable de la fonction publique et privée",
       "Bonne connaissance de l'organisation administrative de la collectivité et des procédures administratives"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : Au moins égale à 10 ans",
-  "employerOverview": null,
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
+  "employerOverview": "La direction des finances et du budget présente une ossature composée de 3 pôles : Celui de support, enjeux stratégiques et budget.",
   "employmentType": "FULL_TIME",
-  "employmentUnit": null,
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Direction des finances et du budget (DFB)",
+    "url": null,
+    "logo": null
+  },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
   "experienceRequirements": "Expérience requise sur un poste similaire",
@@ -77,7 +94,7 @@
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Service public",
+  "industry": "Finances et budget",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -95,24 +112,23 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "immédiatement",
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Finances et budget"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis B",
+  "qualifications": "Être titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Chargé d'études",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1901",
-      "name": "Analyse financière"
+      "name": "Direction administrative et financière"
     }
   },
   "responsibilities": [
-    "Suivi des engagements hors bilan de la province",
-    "Production d'analyses financières",
+    "Suivi des engagements hors bilan de la province ainsi que la production d'analyses financières",
     "Participation à la préparation du débat d'orientation budgétaire (DOB) à présenter à l'assemblée de province",
     "Participation à l'élaboration du rapport annuel d'analyse financière de la collectivité sur l'année écoulée",
     "Préparation de la séance plénière annuelle dédiée aux SAEML",
@@ -121,14 +137,14 @@
     "Suivi des ratios en lien avec les engagements hors bilan",
     "Mise en œuvre des outils de gestion de la dette et des garanties d'emprunt",
     "Suivi de la trésorerie",
-    "L'assistance aux directions",
-    "Le conseil et l'aide à la décision"
+    "Assistance aux directions",
+    "Conseil et aide à la décision"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Maîtrise des applications informatiques métiers et bureautique (REGINET/ASTRE-SURFI/ISILOG/WORK-FLOW...)",
+    "Maîtrise des applications informatiques métiers et bureautique (REGINET, ASTRE-SURFI, ISILOG, WORK-FLOW)",
     "Savoir analyser des comptes sociaux",
     "Connaître les ratios de la comptabilité privée",
     "Élaboration de tableaux de bords financiers et comptables",
@@ -143,7 +159,7 @@
   "specialCommitments": null,
   "title": "Chargé d'études Hors bilan",
   "totalJobOpenings": 1,
-  "validThrough": "2026-09-18",
+  "validThrough": "2026-10-09",
   "workHours": null,
   "champs_open_data": 6,
   "employeur_sigle": "PVN",
