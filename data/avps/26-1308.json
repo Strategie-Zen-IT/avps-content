@@ -61,7 +61,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-04",
-  "directApply": false,
+  "directApply": null,
   "educationRequirements": {
     "credentialCategory": "Catégorie C",
     "competencyRequired": [
@@ -100,8 +100,7 @@
       "addressLocality": "Dumbéa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98835"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
