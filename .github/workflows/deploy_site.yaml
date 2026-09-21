@@ -40,6 +40,12 @@ jobs:
         uses: actions/checkout@v7
         with:
           submodules: recursive
+          # ⚠️ `fetch-depth: 0` est OBLIGATOIRE, pas une commodité : `enableGitInfo`
+          # (hugo.toml) tire la date de modification de chaque fiche du dernier commit
+          # qui l'a touchée. Un checkout superficiel viderait ces dates SANS erreur —
+          # le site se construirait, et le <lastmod> du sitemap retomberait sur la date
+          # de parution. L'étape « Vérifier que les dates de modification
+          # viennent bien de git », plus bas, rend la panne visible.
           fetch-depth: 0
 
       - name: Setup Hugo
@@ -55,6 +61,25 @@ jobs:
           python3 scripts/enrich_descriptions.py
           python3 scripts/enrich_themes.py
           hugo --minify
+
+      # `enableGitInfo` échoue en SILENCE sur un checkout superficiel : Hugo n'avertit
+      # pas, il retombe simplement sur la date de parution. Le sitemap resterait valide
+      # et Google se verrait dire, comme avant le 22/09/2026, que rien ne change jamais.
+      #
+      # Signature de la panne : les dates de parution sont des dates nues, donc rendues
+      # à minuit pile. Une date de commit à minuit à la seconde près est un accident ;
+      # 170 d'affilée n'en est pas un.
+      - name: Vérifier que les dates de modification viennent bien de git
+        run: |
+          total=$(grep -c '<lastmod>' public/jobs-sitemap.xml)
+          minuit=$(grep -o '<lastmod>[^<]*</lastmod>' public/jobs-sitemap.xml \
+                   | grep -c 'T00:00:00' || true)
+          echo "jobs-sitemap.xml : $total dates, dont $minuit à minuit pile."
+          if [ "$total" -gt 0 ] && [ "$total" -eq "$minuit" ]; then
+            echo "::error::Toutes les dates de modification sont à minuit : enableGitInfo" \
+                 "n'a pas vu l'historique. Vérifier 'fetch-depth: 0' sur le checkout."
+            exit 1
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
@@ -80,6 +105,13 @@ jobs:
         uses: actions/checkout@v7
         with:
           submodules: recursive
+          # ⚠️ `fetch-depth: 0` est OBLIGATOIRE, pas une commodité : `enableGitInfo`
+          # (hugo.toml) tire la date de modification de chaque fiche du dernier commit
+          # qui l'a touchée. Un checkout superficiel viderait ces dates SANS erreur —
+          # le site se construirait, et le <lastmod> du sitemap retomberait sur la date
+          # de parution. Ce job ne fait que vérifier des liens : il ne sert pas le
+          # site, mais il doit se construire comme lui pour que les liens contrôlés
+          # soient les vrais. Le garde-fou est dans le job « build ».
           fetch-depth: 0
 
       - name: Setup Hugo

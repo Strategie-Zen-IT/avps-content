@@ -27,6 +27,24 @@
         <link>{{ .Permalink }}</link>
         <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
         <guid>{{ .Permalink }}</guid>
+        {{/* 🔄 Date de révision, quand la fiche a bougé depuis sa parution.
+
+             Un AVP est souvent republié par la source : intitulé corrigé, clôture
+             reportée, poste révisé. Le flux le rediffusait sans le dire, et rien ne
+             distinguait une offre neuve d'une offre corrigée.
+
+             `pubDate` reste la date OFFICIELLE de parution : la changer ferait remonter
+             l'offre en tête des lecteurs sans qu'elle soit nouvelle, et fausserait le
+             tri. `guid` reste le permalien : le changer créerait un doublon au lieu
+             d'une mise à jour.
+
+             ⚠️ À tempérer : `atom:updated` est la balise juste, mais la plupart des
+             lecteurs RSS 2.0 l'ignorent. Elle documente la révision pour ceux qui la
+             lisent ; elle ne provoque PAS de nouvelle notification chez les autres.
+             Le vrai gain de fraîcheur passe par le <lastmod> du sitemap. */}}
+        {{ if .Lastmod.After .Date }}
+        <atom:updated>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</atom:updated>
+        {{ end }}
         <description>{{ or .Description .Summary | html }}</description>
         
         {{/* 🎯 INJECTION DE L'ILLUSTRATION NANO BANANA DE L'AVP */}}

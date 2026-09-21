@@ -52,6 +52,14 @@
            attend une date nue — une offre paraît un jour, pas à un instant. */ -}}
     {{- $publiee := "" }}
     {{- with .Date }}{{ $publiee = .Format "2006-01-02" }}{{ end }}
+    {{- /* Date de dernière révision de la fiche, issue de git (`enableGitInfo`) : le
+           dernier commit qui a réellement touché le fichier. La source republie
+           souvent un AVP (intitulé corrigé, clôture reportée) sans que ce soit une
+           nouvelle offre, et l'application n'avait aucun moyen de le voir.
+           Vide quand la fiche n'a jamais bougé depuis sa parution, pour que
+           « modifiee » non vide signifie toujours quelque chose. */ -}}
+    {{- $modifiee := "" }}
+    {{- if .Lastmod.After .Date }}{{ $modifiee = .Lastmod.Format "2006-01-02" }}{{ end }}
     {{- /* Coordonnées : les SEULES valeurs nullables du flux. Zéro est une latitude
            valide, donc on distingue « absent » de « zéro » — un `| default 0` mettrait
            les offres sans géocodage au large du Ghana. */ -}}
@@ -65,6 +73,18 @@
            chaque offre sortait avec `"logo": "https://avps.nc/"`. */ -}}
     {{- $logo := partial "avp-logo.html" . }}
     {{- with $logo }}{{ $logo = . | absURL }}{{ end }}
+    {{- /* Couleurs de la famille, reprises telles quelles des données du site.
+           L'application ne tient AUCUNE liste de familles ni de couleurs : elle lit
+           celles-ci, et une nouvelle famille RESPNC arrive donc colorée sans
+           republication sur les stores. Deux tons, comme sur le site : le foncé pour
+           les fonds de badge et le thème clair, le clair pour les libellés sur fond
+           sombre. Chaîne vide si la famille est inconnue du référentiel. */ -}}
+    {{- $fam := .Params.famille | default "" }}
+    {{- $couleur := "" }}{{ $couleurClaire := "" }}
+    {{- with $fam }}
+      {{- with index (hugo.Data.familles_couleurs.familles | default dict) . }}{{ $couleur = . }}{{ end }}
+      {{- with index (hugo.Data.familles_couleurs_claires.familles | default dict) . }}{{ $couleurClaire = . }}{{ end }}
+    {{- end }}
     {{- $offres = $offres | append (dict
         "ref"          (.Params.ref | default "")
         "titre"        .Title
@@ -72,6 +92,8 @@
         "resume"       (.Params.summary | default "")
         "famille"      (.Params.famille | default "")
         "theme"        (index (.Params.themes | default slice) 0 | default "")
+        "couleur"      $couleur
+        "couleur_claire" $couleurClaire
         "collectivite" (.Params.collectivite | default "")
         "commune"      (.Params.ville | default "")
         "province"     (index (.Params.provinces | default slice) 0 | default "")
@@ -79,6 +101,7 @@
         "metier"       (.Params.metier_ref_nom | default "")
         "rome"         $rome
         "publiee"      $publiee
+        "modifiee"     $modifiee
         "cloture"      (.Params.date_cloture | default "")
         "dispo"        (.Params.disponibilite | default "")
         "lat"          (cond (eq $lat false) nil $lat)

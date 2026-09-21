@@ -109,6 +109,23 @@
 
 </section>
 
+{{- /* Révision de l'offre elle-même, à ne pas confondre avec la ligne de build qui
+       suit : celle-ci date le CONTENU, celle-là date la fabrication du site.
+
+       La source republie régulièrement un AVP (intitulé corrigé, clôture reportée).
+       Un candidat qui revient sur une fiche déjà lue n'avait aucun moyen de voir
+       qu'elle avait changé. `.Lastmod` vient de git (`enableGitInfo`), donc du dernier
+       commit qui a réellement touché le fichier : une régénération à l'identique ne
+       l'avance pas.
+
+       Affichée seulement si la fiche a bougé depuis sa parution, sinon la date de
+       publication est déjà en haut de page et la répéter n'apprend rien. */ -}}
+{{- if and .Params.ref (.Lastmod.After .Date) }}
+<p class="avp-build-info">
+  Fiche mise à jour le {{ .Lastmod.Format "02/01/2006" }}
+</p>
+{{- end }}
+
 {{- /* Conservé volontairement : c'est le seul moyen, sur un site statique, de savoir
        d'un coup d'œil si les données affichées sont à jour. Sur une seule ligne. */ -}}
 <p class="avp-build-info">

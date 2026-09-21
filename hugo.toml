@@ -24,6 +24,26 @@ theme = 'hugo-theme-relearn'
 # typographie française, et surtout ce n'est plus le libellé qui figure sur les fiches.
 titleCaseStyle = 'none'
 
+# Date de dernière modification : c'est git qui fait foi, pas le front-matter.
+#
+# Une fiche d'AVP est régulièrement republiée par la source (correction d'intitulé,
+# report de clôture, révision du poste). Jusqu'au 22/09/2026 le sitemap servait
+# `datePosted` comme <lastmod> : toutes les dates tombaient à minuit et ne bougeaient
+# plus jamais après la première publication. Google s'en sert pour décider quoi
+# recrawler, on lui disait donc que rien ne changeait jamais.
+#
+# `:git` prend la date du dernier commit ayant touché le fichier. C'est la seule
+# valeur qu'on ne peut pas oublier de mettre à jour, et elle est juste rétroactivement
+# pour les fiches déjà publiées. Elle exige l'historique complet : le workflow de
+# déploiement fait bien `fetch-depth: 0` (un checkout superficiel viderait ces dates).
+#
+# L'ordre est explicite pour ne pas dépendre des valeurs par défaut de Hugo : git
+# d'abord, un `lastmod` écrit à la main ensuite, et `date` en dernier recours.
+enableGitInfo = true
+
+[frontmatter]
+  lastmod = [':git', 'lastmod', 'modified', 'date']
+
 [params]
   # Options du thème Relearn
   # Variantes de couleurs propres au site : assets/css/theme-avps-{light,dark}.css
