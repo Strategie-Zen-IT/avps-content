@@ -203,6 +203,7 @@ name = "<i class='fas fa-fw fa-balance-scale'></i> Mentions légales"
 pageRef = "/mentions-legales"
 weight = 40
 
+
 [outputFormats.jobs_sitemap]
   mediaType = "application/xml"
   baseName = "jobs-sitemap"

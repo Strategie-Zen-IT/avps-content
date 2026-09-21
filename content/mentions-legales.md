@@ -119,6 +119,11 @@ une connexion à un serveur tiers, qui journalise l'adresse IP appelante.
 Le Site ne collecte aucune donnée personnelle sur ses visiteurs : il n'y a ni formulaire,
 ni compte, ni inscription.
 
+L'**application mobile** avps.nc suit le même principe — ni compte, ni inscription, et
+tout ce qui vous concerne reste sur votre téléphone. Ce qu'elle traite et ce qu'elle
+contacte sont détaillés dans
+[Confidentialité de l'application](/confidentialite-application/).
+
 #### Personnes nommées dans les avis
 
 Les fiches reprennent des données à caractère personnel **telles qu'elles figurent dans

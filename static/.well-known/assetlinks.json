@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "nc.avps.app",
+      "sha256_cert_fingerprints": [
+        "09:DD:6B:65:8B:19:F7:5F:17:15:EE:AD:CB:BC:C4:82:86:18:45:24:AB:B1:98:1E:B1:15:D7:12:BC:C0:5E:F9"
+      ]
+    }
+  }
+]

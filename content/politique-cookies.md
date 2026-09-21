@@ -6,8 +6,9 @@ disableNextPrev: true
 hidden: true
 ---
 
-Cette page dit exactement ce que le site dépose sur votre appareil, et ce qu'il ne dépose
-pas.
+Cette page dit exactement ce que le **site** dépose sur votre appareil, et ce qu'il ne
+dépose pas. L'**application mobile** ne dépose pas de cookie et fonctionne autrement :
+voir [Confidentialité de l'application](/confidentialite-application/).
 
 ### Ce qui est déposé sans votre accord
 
