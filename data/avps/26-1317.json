@@ -64,7 +64,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-04",
-  "directApply": false,
+  "directApply": null,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'Etat d'Infirmier",
     "competencyRequired": [
@@ -108,8 +108,7 @@
       "addressLocality": "Koné",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
-      "province": "province Nord",
-      "postalCode": "98860"
+      "province": "province Nord"
     }
   },
   "jobLocationType": null,
@@ -153,7 +152,7 @@
     "Esprit d'équipe"
   ],
   "specialCommitments": null,
-  "title": "Infirmier (ere)",
+  "title": "INFIRMIER (ERE)",
   "totalJobOpenings": 4,
   "validThrough": "2026-09-25",
   "workHours": "Roulement en 12 heures aux urgences, en 08h au centre de détention. Travail weekend end et jours fériés. Polyvalence Jour-Nuit aux urgences.",
