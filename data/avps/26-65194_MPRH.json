@@ -4,18 +4,23 @@
     "direction": "DIRECTION DES ACHATS, DU PATRIMOINE ET DES MOYENS",
     "uniteOrganisationnelle": "Service exploitation, maintenance et moyens",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef de bureau",
+    "superieurHierarchique": "Chef du service",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
+      "Directions et services du gouvernement de la Nouvelle-Calédonie",
       "Services occupants",
-      "Fournisseurs",
-      "Demandeurs"
+      "Fournisseurs"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
-        "value": "Au moins égale à 10 ans pour le recrutement sur titre (Technicien 1er et 2ème grade domaine équipement)"
+        "value": "Pour le recrutement sur titre : Technicien 1er et 2ème grade domaine équipement : au moins égale à 10 ans."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Budget annuel géré",
+        "value": "Environ 500 millions sur les deux sections investissement et fonctionnement."
       },
       {
         "@type": "PropertyValue",
@@ -56,7 +61,7 @@
   },
   "alternateName": null,
   "description": "Placé sous l'autorité du chef du service, le bureau exploitation, maintenance et énergie (BEME) est composé des bâtiments administratifs, des logements administratifs, des équipements sportifs territoriaux. Le budget annuel géré s'élève à environ 500 millions sur les deux sections investissement et fonctionnement.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Technicien en bâtiment au sein du bureau exploitation, maintenance et énergie (BEME) pour valoriser et optimiser le patrimoine bâti et non bâti de la collectivité.",
   "identifier": "26-65194/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -103,7 +108,7 @@
       "Google Suite."
     ]
   },
-  "eligibilityToWorkRequirement": "- Technicien 2ème grade domaine équipement : au moins égale à 10 ans.",
+  "eligibilityToWorkRequirement": "- Technicien 1er et 2ème grade domaine équipement : au moins égale à 10 ans.",
   "employerOverview": "La direction des achats, du patrimoine et des moyens (DAPM) est une direction support au gouvernement de la Nouvelle-Calédonie, de ses directions et de ses établissements publics.\nElle définit la politique d'achats et la stratégie immobilière de la collectivité. Elle assure la réalisation des constructions publiques, la gestion et l'entretien du patrimoine bâti et des moyens généraux (parc de véhicules,\ngestion centralisée du courrier, gestion du mobilier, prestations d'imprimerie).\nElle est également compétente en matière de réglementation et d'assistance des marchés publics.\nElle est également compétente en matière des normes et assurances de la construction, des travaux publics et du génie civil de Nouvelle-Calédonie.\n\nLe service exploitation, maintenance et moyens est un service support des directions et services du gouvernement de la Nouvelle-Calédonie. Il est composé d'une trentaine de personnes, répartis en 4 bureaux : le bureau exploitation, maintenance et énergie, le bureau des travaux en régie, le bureau de la gestion du parc véhicules et le bureau des vaguemestres.\n\nLe bureau exploitation, maintenance et énergie (BEME) a pour mission de valoriser et d'optimiser le patrimoine bâti et non bâti de la collectivité en lien avec les objectifs du schéma directeur immobilier. Il met en œuvre la stratégie de maîtrise de l'énergie et de développement d'énergies renouvelables en assurant la cohérence entre conception énergétique des équipements, exploitations des installations climatiques et gestion des dépenses d'énergie. Il veille à la conformité réglementaire du patrimoine et assure les audits requis.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
@@ -114,14 +119,14 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": null,
+  "experienceRequirements": "Non spécifié",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": "Informations salaire : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/techniquenc.pdf",
+  "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": false,
   "jobLocation": {
@@ -129,7 +134,7 @@
     "name": "Nouméa",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "18 avenue Paul Doumer",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -172,7 +177,7 @@
     "lors de travaux en régie, il s'assure d'effectuer les commandes auprès des fournisseurs et d'en assurer le suivi.",
     "Le technicien contribue aux actions mises en œuvre pour structurer le bureau et améliorer la qualité du service."
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -202,7 +207,7 @@
   "specialCommitments": null,
   "title": "Technicien en bâtiment",
   "totalJobOpenings": 3,
-  "validThrough": "2026-09-18",
+  "validThrough": "2026-09-25",
   "workHours": null,
   "champs_open_data": 30,
   "employeur_sigle": "DAPM",
