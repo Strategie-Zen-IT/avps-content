@@ -38,7 +38,8 @@
   "name": "1 infirmier à l'unité de soins médicaux rapprochés",
   "owner": {
     "@type": "Organization",
-    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\"",
+    "logo": "https://avps.nc/logos/chs.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -95,7 +96,8 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\"",
+    "logo": "https://avps.nc/logos/chs.png"
   },
   "incentiveCompensation": null,
   "industry": "Santé",
@@ -111,8 +113,7 @@
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98800"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
