@@ -52,7 +52,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-18",
-  "directApply": false,
+  "directApply": null,
   "educationRequirements": {
     "credentialCategory": "Bac+5",
     "competencyRequired": [
@@ -87,8 +87,7 @@
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98800"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
@@ -144,7 +143,7 @@
     "Charisme et aisance à l’oral"
   ],
   "specialCommitments": null,
-  "title": "Directeur général (h/f)",
+  "title": "DIRECTEUR GENERAL (H/F)",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-09",
   "workHours": null,
