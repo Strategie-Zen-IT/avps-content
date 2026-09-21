@@ -11,7 +11,7 @@
       {
         "@type": "PropertyValue",
         "name": "Type de mission",
-        "value": "Mission ponctuelle dans le cadre d'un remplacement d'un titulaire placé en position de disponibilité"
+        "value": "Mission ponctuelle de remplacement d'un titulaire placé en position de disponibilité"
       },
       {
         "@type": "PropertyValue",
@@ -52,7 +52,7 @@
   },
   "alternateName": null,
   "description": "La direction des affaires sanitaires et sociales de la Nouvelle-Calédonie est une des directions techniques du gouvernement de la Nouvelle-Calédonie.\nElle est responsable de la mise en œuvre de la politique de la Nouvelle-Calédonie en matière de santé publique et de protection sociale. \n\nElle comprend un service administration et support et quatre services métiers.\n\nLe service de santé publique est chargé de la connaissance et des études relative à la situation sanitaire, de la veille et de la surveillance, et de l'amélioration de la santé des calédoniens (prévention). Les principaux enjeux de la politique de santé reposent sur le concept Une seule santé et sont liés aux déterminants de santé, à la santé relationnelle, à la prévention et aux parcours.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Remplacement d'un médecin titulaire en disponibilité pour une durée d'un an au sein du Service de la santé publique de la DASS.",
   "identifier": "26-65193/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -97,8 +97,8 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience professionnelle sur un poste en Nouvelle-Calédonie, au contact des populations du territoire appréciée",
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Expérience professionnelle sur un poste en Nouvelle-Calédonie, au contact des populations du territoire appréciée.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
@@ -176,7 +176,7 @@
   "title": "Médecin de santé publique",
   "totalJobOpenings": 3,
   "validThrough": "2026-10-09",
-  "workHours": null,
+  "workHours": "Astreintes",
   "champs_open_data": 28,
   "employeur_sigle": "DASS",
   "collectivite": "Nouvelle-Calédonie",
