@@ -56,7 +56,8 @@
   "name": "2 Aides-soignant(e)s en unité de soins intensifs cardiologiques et neuro-vasculaires",
   "owner": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -83,7 +84,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-04",
-  "directApply": false,
+  "directApply": true,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'aide-soignant ou certificat d'aptitude à la fonction d'aide-soignant",
     "competencyRequired": [
@@ -104,7 +105,8 @@
   "experienceRequirements": "Expérience dans un service similaire serait un plus",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
   },
   "incentiveCompensation": null,
   "industry": "Santé",
@@ -120,8 +122,7 @@
       "addressLocality": "Dumbéa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98835"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
