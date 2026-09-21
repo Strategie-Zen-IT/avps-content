@@ -34,7 +34,8 @@
   "name": "01 INFIRMIER (ERE)",
   "owner": {
     "@type": "Organization",
-    "name": "Centre hospitalier du Nord"
+    "name": "Centre hospitalier du Nord",
+    "logo": "https://avps.nc/logos/chn.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -61,7 +62,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-18",
-  "directApply": false,
+  "directApply": null,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'état infirmier",
     "competencyRequired": [
@@ -86,7 +87,8 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Centre hospitalier du Nord"
+    "name": "Centre hospitalier du Nord",
+    "logo": "https://avps.nc/logos/chn.png"
   },
   "incentiveCompensation": null,
   "industry": "Santé",
@@ -102,8 +104,7 @@
       "addressLocality": "Poindimié",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
-      "province": "province Nord",
-      "postalCode": "98822"
+      "province": "province Nord"
     }
   },
   "jobLocationType": null,
@@ -146,7 +147,7 @@
     "Esprit d'équipe"
   ],
   "specialCommitments": null,
-  "title": "Infirmier (ere)",
+  "title": "INFIRMIER (ERE)",
   "totalJobOpenings": 4,
   "validThrough": "2026-10-09",
   "workHours": "Roulement en 12 heures, Polyvalence Jour-Nuit",
