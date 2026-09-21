@@ -61,7 +61,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-04",
-  "directApply": false,
+  "directApply": null,
   "educationRequirements": {
     "credentialCategory": null,
     "competencyRequired": [
@@ -102,8 +102,7 @@
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98800"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
@@ -159,7 +158,7 @@
     "Disponibilité et adaptabilité"
   ],
   "specialCommitments": null,
-  "title": "Assistant administratif",
+  "title": "ASSISTANT ADMINISTRATIF",
   "totalJobOpenings": 1,
   "validThrough": "2026-09-25",
   "workHours": null,
