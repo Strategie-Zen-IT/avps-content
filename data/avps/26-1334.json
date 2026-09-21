@@ -65,7 +65,8 @@
   "name": "Ingénieur(e) en données de santé et recherche",
   "owner": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -92,7 +93,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-04",
-  "directApply": false,
+  "directApply": true,
   "educationRequirements": {
     "credentialCategory": "Master 2",
     "competencyRequired": [
@@ -117,7 +118,8 @@
   "experienceRequirements": "Une expérience dans le domaine de la santé ou de la recherche clinique constitue un atout.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
   },
   "incentiveCompensation": "Primes statutaires pour les fonctionnaires",
   "industry": "Santé",
@@ -133,8 +135,7 @@
       "addressLocality": "Dumbéa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98835"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
