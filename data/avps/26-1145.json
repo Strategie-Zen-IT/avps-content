@@ -16,12 +16,17 @@
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
-        "value": "Au moins égale à 3 ans pour le recrutement sur titre"
+        "value": "au moins égale à 3 ans pour le recrutement sur titre"
       },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
         "value": "Nécessité de travailler en horaires d'internat pour ce poste (travail en soirées et week-ends) et en poste isolé."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Statut du poste",
+        "value": "Susceptible d'être vacant"
       },
       {
         "@type": "PropertyValue",
@@ -31,8 +36,8 @@
     ]
   },
   "alternateName": null,
-  "description": "Au sein du pôle enfance-famille, le service de la protection de l'enfance compte plus de 80 agents répartis en 4 bureaux et 3 structures d'accueil collectif. La maison maternelle Marcelle JORDA comprend 10 agents permanents et prend en charge des mères et de jeunes enfants. Au sein de la maison maternelle, rattachée au pôle petite enfance, l'auxiliaire de puériculture complète, par son savoir-faire médico-social spécifique, les missions de l'éducateur de jeunes enfants (EJE) et de l'assistante maternelle. Elle est la référente des prises en charge santé des enfants accueillis et apporte son expertise dans l'accompagnement des mères aux soins, à l'hygiène et à la prévention. Elle exerce ses missions sous l'autorité de la directrice et en étroite collaboration avec l'équipe pluridisciplinaire.",
-  "disambiguatingDescription": "Poste d'auxiliaire de puériculture à la Maison maternelle Marcelle JORDA en horaires d'internat et poste isolé.",
+  "description": "Au sein de la maison maternelle, rattachée au pôle petite enfance, l'auxiliaire de puériculture complète, par son savoir-faire médico-social spécifique, les missions de l'éducateur de jeunes enfants (EJE) et de l'assistante maternelle. Elle est la référente des prises en charge santé des enfants accueillis et apporte son expertise dans l'accompagnement des mères aux soins, à l'hygiène et à la prévention. Elle exerce ses missions sous l'autorité de la directrice et en étroite collaboration avec l'équipe pluridisciplinaire.",
+  "disambiguatingDescription": "Poste d'auxiliaire de puériculture en horaires d'internat et poste isolé à la Maison maternelle Marcelle JORDA à Boulari.",
   "identifier": "26-1145",
   "image": null,
   "mainEntityOfPage": null,
@@ -83,7 +88,7 @@
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence en Nouvelle-Calédonie au moins égale à 3 ans pour le recrutement sur titre",
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein de ses services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et de ses autres sites excentrés.",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial au sein de ses services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et de ses autres sites excentrés. Le service de la protection de l'enfance compte plus de 80 agents répartis en 4 bureaux et 3 structures d'accueil collectif.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -92,8 +97,8 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": null,
-  "experienceRequirements": null,
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Non spécifié",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
@@ -106,7 +111,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Boulari",
+    "name": "Maison maternelle Marcelle JORDA",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -172,7 +177,7 @@
     "Sensibilité aux spécificités culturelles calédoniennes et du Pacifique",
     "Sens de l'organisation et méthode"
   ],
-  "specialCommitments": "Travail en soirées et week-ends (horaires d'internat)",
+  "specialCommitments": "Travail en horaires d'internat (soirées et week-ends) et en poste isolé",
   "title": "Auxiliaire de puériculture à la Maison maternelle Marcelle JORDA",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-16",
