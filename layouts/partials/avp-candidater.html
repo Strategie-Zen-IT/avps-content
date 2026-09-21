@@ -31,17 +31,19 @@
     </p>
 
     {{- with $p.Params.url_pdf }}
-    <a href="{{ . }}" class="avp-apply__btn" target="_blank" rel="noopener">
+    <a href="{{ . }}" class="avp-apply__btn" target="_blank" rel="noopener"
+       data-avp-evt="avp_pdf_officiel" data-avp-detail="avis">
       <i class="fas fa-file-pdf" aria-hidden="true"></i> Lire l'avis officiel (PDF)
     </a>
     {{- end }}
 
     {{- with $contact }}
     <ul class="avp-apply__contact">
-      {{- with .email }}<li><i class="fas fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ . }}">{{ . }}</a></li>{{ end }}
+      {{- with .email }}<li><i class="fas fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ . }}" data-avp-evt="avp_contact" data-avp-detail="email">{{ . }}</a></li>{{ end }}
       {{- with .telephone }}
         {{- $tel := replaceRE `[^0-9+]` "" . }}
-        <li><i class="fas fa-phone" aria-hidden="true"></i> <a href="tel:{{ if not (hasPrefix $tel "+") }}+687{{ end }}{{ $tel }}">{{ . }}</a></li>
+        <li><i class="fas fa-phone" aria-hidden="true"></i> <a href="tel:{{ if not (hasPrefix $tel "+") }}+687{{ end }}{{ $tel }}"
+            data-avp-evt="avp_contact" data-avp-detail="telephone">{{ . }}</a></li>
       {{- end }}
     </ul>
     {{- end }}

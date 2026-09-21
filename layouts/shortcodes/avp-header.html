@@ -138,6 +138,7 @@
         {{- /* Fiche d'emploi générique du référentiel RESPNC, valable pour tous les employeurs. */ -}}
         {{- if $p.Params.url_fiche_generique }}
           <a href="{{ $p.Params.url_fiche_generique }}" target="_blank" rel="noopener"
+             data-avp-evt="avp_pdf_officiel" data-avp-detail="fiche_respnc"
              title="Voir la fiche d'emploi générique RESPNC — nouvelle fenêtre">
             <i class="fas fa-book" aria-hidden="true"></i> {{ . }}</a>
         {{- else }}{{ . }}{{ end }}

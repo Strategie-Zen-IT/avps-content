@@ -1,0 +1,66 @@
+{{- /*
+  Événements de mesure, SOUS LE MÊME CONSENTEMENT que le reste de la mesure d'audience.
+
+  Pourquoi ce partial existe
+  --------------------------
+  Le site ne posait que `gtag('config')` : pages vues, plus ce que la « mesure améliorée »
+  de GA4 capte d'office. Aucun événement propre. Or la question que pose un employeur
+  public est « combien de personnes ont vu mon offre, et combien sont allées au bout ? » —
+  et « aller au bout », ici, c'est ouvrir l'avis officiel ou contacter la collectivité.
+  Sans ces événements, le rapport mensuel ne peut pas répondre, et la donnée ne se
+  rattrape PAS : elle commence à exister le jour où on la pose.
+
+  Consentement
+  ------------
+  Rien n'est envoyé si `window.gtag` n'existe pas, c'est-à-dire tant que le visiteur n'a
+  pas accepté la mesure d'audience (voir avp-consentement.html). Un refus laisse ce code
+  inerte : il écoute des clics, il n'en fait rien.
+
+  Principe déclaratif
+  -------------------
+  Les gabarits marquent les éléments avec `data-avp-evt="<nom>"`, et UN seul écouteur
+  délégué les relève. Accrocher des classes CSS (`.avp-apply__btn`) coupleraient la mesure
+  à la mise en forme : une refonte du style casserait la mesure en silence, ce qui est le
+  pire des cas — on ne s'en apercevrait qu'au rapport suivant, un mois trop tard.
+
+  Contexte de page
+  ----------------
+  La référence de l'offre, sa famille et sa collectivité sont émises UNE fois ici plutôt
+  que répétées sur chaque lien. Elles partent en paramètres d'événement, ce qui permet au
+  rapport de dire « l'offre 26-1234 de la Province Sud a généré N ouvertures du PDF ».
+  ⚠️ Ces paramètres doivent être déclarés en DIMENSIONS PERSONNALISÉES dans GA4, sinon ils
+  sont collectés mais restent illisibles dans les rapports et l'API.
+*/ -}}
+{{- with site.Params.ga_id }}
+<script>
+  (function () {
+    var CTX = {{ dict
+        "ref" ($.Params.ref | default "")
+        "famille" ($.Params.famille | default "")
+        "collectivite" ($.Params.collectivite | default "")
+      | jsonify }};
+
+    function envoyer(nom, extra) {
+      // Pas de consentement = pas de gtag = on ne fait rien. Volontairement silencieux.
+      if (typeof window.gtag !== 'function') return;
+      var params = {};
+      if (CTX.ref) params.avp_ref = CTX.ref;
+      if (CTX.famille) params.avp_famille = CTX.famille;
+      if (CTX.collectivite) params.avp_collectivite = CTX.collectivite;
+      for (var k in (extra || {})) params[k] = extra[k];
+      window.gtag('event', nom, params);
+    }
+
+    document.addEventListener('click', function (e) {
+      var cible = e.target.closest && e.target.closest('[data-avp-evt]');
+      if (!cible) return;
+      var nom = cible.getAttribute('data-avp-evt');
+      if (!nom) return;
+      var extra = {};
+      var detail = cible.getAttribute('data-avp-detail');
+      if (detail) extra.avp_detail = detail;
+      envoyer(nom, extra);
+    }, true);   // capture : le lien peut naviguer avant la phase de bouillonnement
+  })();
+</script>
+{{- end }}
