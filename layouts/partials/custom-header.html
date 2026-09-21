@@ -54,6 +54,25 @@
 {{ if .Params.ref }}
   {{ $key := replace .Params.ref "/" "_" }}
   {{ with index hugo.Data.avps $key }}
+    {{/* ⚠️ RIEN n'est émis si un champ OBLIGATOIRE de Google for Jobs manque.
+         Un JobPosting incomplet n'est pas un balisage « partiel » : il est INVALIDE, il
+         ne produit aucun résultat enrichi, et il remonte en erreur dans la Search
+         Console. Ne rien émettre vaut donc mieux qu'émettre un objet amputé.
+         Constaté le 21/09/2026 : 26-1292 (extraction ratée, description vide, ni lieu
+         ni nom d'employeur) déclenchait à elle seule les trois erreurs bloquantes
+         « Champ name manquant », « Champ jobLocation manquant », « Champ description
+         manquant ». Les fiches concernées gardent leur page et leur contenu lisible ;
+         elles sortent seulement de Google for Jobs, où elles n'avaient rien à faire.
+         Champs requis : title, description, datePosted, hiringOrganization.name,
+         jobLocation. */}}
+    {{ $orgNom := "" }}
+    {{ with .hiringOrganization }}{{ $orgNom = .name | default "" }}{{ end }}
+    {{ $complet := and (trim (.title | default "") " ")
+                       (trim (.description | default "") " ")
+                       (.datePosted | default "")
+                       (trim ($orgNom | default "") " ")
+                       .jobLocation }}
+    {{ if $complet }}
     {{/* Identifiant au format PropertyValue recommandé par Google.
          `identifier.name` est l'autorité qui attribue la référence : c'est la
          collectivité employeuse, pas le site (un nom d'employeur en dur ne serait
@@ -94,6 +113,7 @@
     <script type="application/ld+json">
       {{ $ld | jsonify (dict "indent" "  ") | safeJS }}
     </script>
+    {{ end }}
   {{ end }}
 {{ end }}
 
