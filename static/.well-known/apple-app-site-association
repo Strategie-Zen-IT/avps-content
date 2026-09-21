@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["AS38SGA86S.nc.avps.app"],
+        "components": [
+          {
+            "/": "/*/*/",
+            "comment": "Les fiches d'offres : /{famille}/{reference}/"
+          }
+        ]
+      }
+    ]
+  }
+}
