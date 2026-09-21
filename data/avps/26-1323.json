@@ -4,33 +4,33 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": "Bureau de Proximité de Soins",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef de bureau de proximité des soins",
+    "superieurHierarchique": "Chef(fe) de bureau de proximité des soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Médecin d'un Centre Médico-Social",
-      "Téléconsultation de la Province Nord",
+      "Médecin d'un Centre Médico-Social (CMS)",
+      "Téléconsultation (TLC) de la Province Nord",
       "Équipe pluridisciplinaire"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
         "value": "Au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
-        "name": "Astreintes",
-        "value": "Poste soumis à astreintes"
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Poste soumis à astreintes. L'IPA exerce au sein d'une équipe pluridisciplinaire en établissement médico-social coordonnée par un médecin d’un Centre Médico-Social (CMS) ou de Téléconsultation (TLC) de la Province Nord."
       },
       {
         "@type": "PropertyValue",
-        "name": "Cadre d'emploi",
-        "value": "Infirmier en soins généraux des personnels paramédicaux"
+        "name": "Cadre réglementaire",
+        "value": "LOI n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé. Décret n° 2018-629 du 18 juillet 2018 relatif à l'exercice infirmier en pratique avancée. Loi du pays n° 2023-5 du 26 mai 2023. Délibération n° 119/CP du 26 juin 2023."
       },
       {
         "@type": "PropertyValue",
         "name": "Assurance requise",
-        "value": "Prévoir une assurance professionnelle responsabilité civile IPA spécifique"
+        "value": "Prévoir une assurance professionnelle responsabilité civile IPA spécifique."
       },
       {
         "@type": "PropertyValue",
@@ -39,9 +39,9 @@
       }
     ]
   },
-  "alternateName": "Infirmier en pratique avancée",
+  "alternateName": null,
   "description": "La Direction des Affaires sanitaires, Sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
-  "disambiguatingDescription": "Poste d'infirmier en pratique avancée basé à Houaïlou au sein de la DASSPS de la Province Nord.",
+  "disambiguatingDescription": null,
   "identifier": "26-1323",
   "image": null,
   "mainEntityOfPage": null,
@@ -58,7 +58,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
+    "@type": "Area",
     "name": "Province Nord",
     "address": {
       "@type": "PostalAddress",
@@ -76,34 +76,35 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-04",
-  "directApply": true,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'Etat d'infirmier en pratique avancée",
     "competencyRequired": [
-      "Être titulaire d'un diplôme d'Etat d'infirmier en pratique avancée délivré par une université accréditée",
+      "Être titulaire d’un diplôme d’Etat d’infirmier en pratique avancée délivré par une université accréditée",
+      "Justifier de trois années minimales d’exercice en équivalent temps plein de la profession d’infirmier",
       "Être enregistré auprès de la DASS NC",
-      "Disposer de l'autorisation de prescription auprès de la CAFAT et la DASS-PS"
+      "Disposer de l’autorisation de prescription auprès de la CAFAT et la DASS-PS"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
-  "employerOverview": "La Direction des Affaires sanitaires, Sociales, de la Prévention et de la Solidarité (DASSPS) de la Province Nord gère l'offre de soins de proximité et d'action sociale sur l'ensemble de la province.",
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
+  "employerOverview": "La Direction des Affaires sanitaires, Sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
+    "@type": "OrganizationalUnit",
     "name": "Bureau de Proximité de Soins",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Justifier de trois années minimales d'exercice en équivalent temps plein de la profession d'infirmier",
+  "experienceRequirements": "Justifier de trois années minimales d’exercice en équivalent temps plein de la profession d’infirmier",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique",
+  "industry": "Santé",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -121,12 +122,12 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Dès que possible",
   "occupationalCategory": [
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis B",
+  "qualifications": "Être titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Infirmier",
@@ -137,12 +138,12 @@
     }
   },
   "responsibilities": [
-    "Prise en charge et suivi des patients atteints de pathologies chroniques selon le domaine d'intervention défini et sous la coordination du médecin",
+    "Prise en charge et suivi des patients atteints de pathologies chroniques selon le domaine d’intervention défini et sous la coordination du médecin",
     "Prescription de renouvellement de traitement chronique, de traitement selon les listes autorisées, de vaccins, de bilans complémentaires",
     "Rédaction de courriers médicaux et comptes rendus",
     "Éducation du patient dans sa prise en charge du suivi ou de la personne de confiance",
     "Coordination de soins, orientation",
-    "Mise en place d'actions de prévention, dépistage et éducation à la santé",
+    "Mise en place d’actions de prévention, dépistage et éducation à la santé",
     "Coordination et développement de la pratique"
   ],
   "salaryCurrency": null,
@@ -156,22 +157,23 @@
     "Adaptation",
     "Dynamisme",
     "Disponibilité",
-    "Esprit d'équipe",
-    "Esprit d'initiative",
+    "Esprit d’équipe",
+    "Esprit d’initiative",
     "Esprit de négociation",
     "Sens des relations humaines",
     "Communication"
   ],
   "specialCommitments": "Poste soumis à astreintes",
-  "title": "Infirmier en pratique avancée",
+  "title": "INFIRMIER EN PRATIQUE AVANCEE",
   "totalJobOpenings": 1,
   "validThrough": "2026-09-25",
-  "workHours": "Temps plein avec astreintes",
+  "workHours": null,
   "champs_open_data": 6,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
   "direction": "PROVINCE NORD",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Santé publique soins",
   "famille_source": "respnc",
   "famille_score": 1.0,
