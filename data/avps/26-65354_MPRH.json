@@ -7,15 +7,19 @@
     "superieurHierarchique": "Directeur de la PJEJ",
     "placeOrganigramme": "Placé sous la responsabilité du directeur",
     "relationsFonctionnelles": [
-      "Services concernés",
-      "Foyers et services de la DPJEJ",
-      "Réseau partenarial social de la Nouvelle-Calédonie"
+      "Services de la DPJEJ",
+      "Foyers de la DPJEJ"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Titulaire du permis de conduire B, déplacements réguliers dans le cadre des activités sportives organisées, transport et manutention de matériel"
+        "value": "Titulaire du permis de conduire B ; Déplacements réguliers dans le cadre des activités sportives organisées ; Transport et manutention de matériel."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Vacant à partir du 02/12/2026"
       },
       {
         "@type": "PropertyValue",
@@ -49,9 +53,9 @@
       }
     ]
   },
-  "alternateName": null,
+  "alternateName": "Éducateur des activités physiques et sportives",
   "description": "Placé sous la responsabilité du directeur, l'agent contribue à la mise en œuvre de la politique sportive définie par la collectivité. Il conçoit, anime et encadre des activités physiques et sportives, dans une ou plusieurs disciplines, auprès d'un public de mineurs en grande difficulté.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Éducateur des activités physiques et sportives auprès d'un public de mineurs en grande difficulté au sein de la DPJEJ.",
   "identifier": "26-65354/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -74,7 +78,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-08-14",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "BPJEPS ou DEUST",
     "competencyRequired": [
@@ -101,10 +105,10 @@
   "industry": "Service public",
   "jobBenefits": null,
   "jobDuration": null,
-  "jobImmediateStart": null,
+  "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Direction de la protection judiciaire de l'enfance et de la jeunesse",
+    "name": "DPJEJ",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -119,7 +123,7 @@
   "jobStartDate": "2026-12-02",
   "occupationalCategory": [
     "Animation",
-    "Education"
+    "Action sociale"
   ],
   "physicalRequirement": "Transport et manutention de matériel",
   "qualifications": "Titulaire du permis de conduire B",
@@ -159,7 +163,7 @@
     "Capacité à développer et entretenir un réseau de partenaires",
     "Savoir rendre compte auprès de la hiérarchie."
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -179,7 +183,7 @@
   "specialCommitments": "Titulaire du permis de conduire B ;\nDéplacements réguliers dans le cadre des activités sportives organisées ;\nTransport et manutention de matériel.",
   "title": "Educateur des activités physiques et sportives",
   "totalJobOpenings": 3,
-  "validThrough": "2026-09-18",
+  "validThrough": "2026-09-25",
   "workHours": "Disponibilité, y compris le samedi",
   "champs_open_data": 29,
   "employeur_sigle": "DPJEJ",
