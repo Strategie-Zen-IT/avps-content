@@ -58,7 +58,8 @@
   "name": "3 Infirmier(e)s en pneumologie",
   "owner": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -84,7 +85,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-18",
-  "directApply": false,
+  "directApply": true,
   "educationRequirements": {
     "credentialCategory": "Diplome d Etat d infirmier / infirmiere en soins generaux",
     "competencyRequired": [
@@ -106,7 +107,8 @@
   "experienceRequirements": "Experience souhaitee en pneumologie, soins respiratoires, reanimation legere ou soins critiques appreciee",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
   },
   "incentiveCompensation": null,
   "industry": "Sante",
@@ -122,8 +124,7 @@
       "addressLocality": "Dumbéa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98835"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
