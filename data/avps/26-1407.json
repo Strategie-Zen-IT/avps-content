@@ -60,7 +60,8 @@
   "name": "2 Infirmier(e)s en gériatrie",
   "owner": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -76,7 +77,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-18",
-  "directApply": false,
+  "directApply": null,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'État d'infirmier",
     "competencyRequired": [
@@ -92,7 +93,8 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
   },
   "incentiveCompensation": null,
   "industry": "Santé",
@@ -108,8 +110,7 @@
       "addressLocality": "Dumbéa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98835"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
