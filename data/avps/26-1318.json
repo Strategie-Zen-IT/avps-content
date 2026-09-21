@@ -54,7 +54,7 @@
   },
   "baseSalary": null,
   "datePosted": "2026-09-04",
-  "directApply": null,
+  "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme en comptabilité générale ou publique, finances ou management des organisations de santé",
     "competencyRequired": [
