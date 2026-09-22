@@ -27,7 +27,8 @@
   "name": "Assistant(e) social(e) de secteur Pouembout-Poya",
   "owner": {
     "@type": "Organization",
-    "name": "Province Nord"
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -64,7 +65,8 @@
   "experienceRequirements": "Expérience professionnelle appréciée",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Province Nord"
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -80,8 +82,7 @@
       "addressLocality": "Poya",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
-      "province": "province Nord",
-      "postalCode": "98827"
+      "province": "province Nord"
     }
   },
   "jobLocationType": null,
