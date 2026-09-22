@@ -2,26 +2,21 @@
   "additionalType": {
     "corpsDomaine": "Chirurgien dentiste",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "Bureau dentaire du Service des Métiers de Soins du Pôle Soins",
-    "nbAgentsEncadres": 1,
+    "uniteOrganisationnelle": "CMS de TOUHO",
+    "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef(fe) de Bureau Dentaire",
-    "placeOrganigramme": null,
+    "placeOrganigramme": "Placée sous l'autorité du (de la) chef(fe) de Bureau Dentaire, et du (de la) directeur(-trice) adjoint(e) en charge du Pôle Soins",
     "relationsFonctionnelles": [
-      "Directeur(-trice) adjoint(e) en charge du Pôle Soins",
-      "Equipes des CMS",
-      "Spécialistes et partenaires (médicaux, sociaux, associatifs, scolaires)",
+      "Bureau dentaire du Service des Métiers de Soins du Pôle Soins",
+      "Équipes des CMS",
+      "Partenaires médicaux, sociaux, associatifs, scolaires",
       "Agence sanitaire et sociale"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
         "value": "inférieure à 3 ans"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Poste à pourvoir",
-        "value": "immédiatement"
       },
       {
         "@type": "PropertyValue",
@@ -31,7 +26,7 @@
     ]
   },
   "alternateName": null,
-  "description": "Placée sous l'autorité du (de la) chef(fe) de Bureau Dentaire, et du (de la) directeur(-trice) adjoint(e) en charge du Pôle Soins ; la personne retenue effectuera les actes du champ professionnel du praticien dentaire en veillant à répondre à la mission de santé publique du poste. Elle veillera notamment à appliquer la politique de santé publique de la province Nord et à mettre en œuvre ses programmes de dépistage, de prévention et de promotion de la santé bucco-dentaire.",
+  "description": "La DASSPS compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles, 8 services et 14 bureaux. Le Bureau dentaire du Service des Métiers de Soins du Pôle Soins gère les chirurgiens-dentistes et les assistantes dentaires des centres médico-sociaux et compte 20 agents. La personne retenue effectuera les actes du champ professionnel du praticien dentaire en veillant à répondre à la mission de santé publique du poste. Elle veillera notamment à appliquer la politique de santé publique de la province Nord et à mettre en œuvre ses programmes de dépistage, de prévention et de promotion de la santé bucco-dentaire.",
   "disambiguatingDescription": null,
   "identifier": "26-1184",
   "image": null,
@@ -40,13 +35,12 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "url": "www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": "www.province-nord.nc",
+  "url": "www.drhfpnc.gouv.nc",
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": null,
@@ -62,27 +56,30 @@
     "credentialCategory": "Diplôme d'Etat de chirurgien-dentiste ou de docteur en chirurgie-dentaire",
     "competencyRequired": [
       "Diplôme d'Etat de chirurgien-dentiste ou de docteur en chirurgie-dentaire",
-      "Permis de conduire B"
+      "Permis de conduire B",
+      "Expérience professionnelle en outre-mer appréciée",
+      "Expérience professionnelle d'au moins un an en matière de santé publique et de prévention appréciée"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La DASSP compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux.",
+  "employerOverview": "La DASSPS compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Bureau dentaire du Service des Métiers de Soins du Pôle Soins"
+    "name": "CMS de TOUHO",
+    "url": null,
+    "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Une expérience professionnelle en outre-mer serait appréciée. Une expérience professionnelle d'au moins un an en matière de santé publique et de prévention serait appréciée.",
+  "experienceRequirements": "Expérience professionnelle d'au moins un an en matière de santé publique et de prévention appréciée. Expérience en outre-mer appréciée.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "url": "www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique soins",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -95,36 +92,37 @@
       "addressLocality": "Touho",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
-      "province": "province Nord"
+      "province": "province Nord",
+      "postalCode": "98831"
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis B",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Chirurgien-Dentiste",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Soins dentaires"
+      "name": "Médecine de prévention"
     }
   },
   "responsibilities": [
     "Réalisation des soins conservateurs et restaurateurs, extractions dentaires, acte de petite chirurgie et de parodontie, prothèse adjointe et conjointe",
-    "Gestion et le suivi des soins aux publics cible (RAA/CRC, diabétique, etc.)",
-    "Participation aux actions de dépistage et de prévention propres à la province Nord ou en partenariat avec d'autres organismes (agence sanitaire et sociale...)",
+    "Gestion et le suivi des soins aux publics cible (RAA/CRC, diabétique, etc...)",
+    "Participation aux actions de dépistage et de prévention propres à la province Nord ou en partenariat avec d'autres organismes",
     "Entretien, le nettoyage et la désinfection du mobilier et de l'équipement professionnels",
     "Désinfection des instruments et leur stérilisation en autoclave",
     "Supervision de l'activité de l'assistant(te) dentaire",
-    "Restitution de bilans d'activité et de tableaux de soins aux publics cible (RAA/CRC, diabétiques, etc.) sur demande de la direction",
+    "Restitution de bilans d'activité et de tableaux de soins aux publics cible sur demande de la direction",
     "Enregistrement, la codification (selon la CIM 10) et la cotation des actes sur le logiciel de la province Nord",
     "Information des patients en matière d'hygiène bucco-dentaire et alimentaire et leur motivation aux gestes d'hygiène",
-    "Intervention sur site lors de certaines manifestations ou journées à thème (journées provinciales du diabète, journées d'informations en lien avec la santé bucco-dentaire, etc.)",
+    "Intervention sur site lors de certaines manifestations ou journées à thème",
     "Interventions de prévention ou d'information dans les écoles, collèges, lycées de proximité",
     "Réalisation des EAE de l'assistant(e) dentaire"
   ],
@@ -137,28 +135,24 @@
     "Travailler en réseau avec les équipes des CMS et les autres spécialistes et partenaires",
     "Rédiger des rapports circonstanciés, des tableaux de bord, des registres",
     "Organiser son activité en fonction des particularités locales",
-    "Rigueur",
-    "Ponctualité",
-    "Sens des responsabilités",
-    "Appliquer avec constance et rigueur des règles, des procédures et des protocoles",
-    "Goût des relations humaines",
-    "Disponibilité",
+    "Rigueur, ponctualité et sens des responsabilités",
+    "Savoir appliquer avec constance et rigueur des règles, des procédures et des protocoles",
+    "Goût des relations humaines et disponibilité",
     "Sens de l'organisation",
-    "Esprit d'initiative",
-    "Autonomie",
-    "Respect de la confidentialité des informations",
-    "Respect du secret médical et des règles déontologiques de la profession"
+    "Esprit d'initiative, autonomie",
+    "Respect de la confidentialité des informations, du secret médical et des règles déontologiques de la profession"
   ],
   "specialCommitments": null,
-  "title": "Chirurgien-dentiste",
+  "title": "Chirurgien-dentiste à Touho",
   "totalJobOpenings": 1,
   "validThrough": "2026-09-25",
   "workHours": null,
-  "champs_open_data": 6,
+  "champs_open_data": 7,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
   "direction": "PROVINCE NORD",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Santé publique soins",
   "famille_source": "respnc",
   "famille_score": 0.803,
