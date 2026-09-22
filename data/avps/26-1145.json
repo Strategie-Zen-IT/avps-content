@@ -15,13 +15,13 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
-        "value": "au moins égale à 3 ans pour le recrutement sur titre"
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Nécessité de travailler en horaires d'internat pour ce poste (travail en soirées et week-ends) et en poste isolé."
       },
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Nécessité de travailler en horaires d'internat pour ce poste (travail en soirées et week-ends) et en poste isolé."
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 3 ans pour le recrutement sur titre"
       },
       {
         "@type": "PropertyValue",
@@ -36,8 +36,8 @@
     ]
   },
   "alternateName": null,
-  "description": "Au sein de la maison maternelle, rattachée au pôle petite enfance, l'auxiliaire de puériculture complète, par son savoir-faire médico-social spécifique, les missions de l'éducateur de jeunes enfants (EJE) et de l'assistante maternelle. Elle est la référente des prises en charge santé des enfants accueillis et apporte son expertise dans l'accompagnement des mères aux soins, à l'hygiène et à la prévention. Elle exerce ses missions sous l'autorité de la directrice et en étroite collaboration avec l'équipe pluridisciplinaire.",
-  "disambiguatingDescription": "Poste d'auxiliaire de puériculture en horaires d'internat et poste isolé à la Maison maternelle Marcelle JORDA à Boulari.",
+  "description": "Au sein de la maison maternelle Marcelle JORDA, rattachée au pôle petite enfance de la DPASS, l'auxiliaire de puériculture complète, par son savoir-faire médico-social spécifique, les missions de l'éducateur de jeunes enfants et de l'assistante maternelle. Elle est la référente des prises en charge santé des enfants accueillis et apporte son expertise dans l'accompagnement des mères aux soins, à l'hygiène et à la prévention. Elle exerce ses missions sous l'autorité de la directrice et en étroite collaboration avec l'équipe pluridisciplinaire.",
+  "disambiguatingDescription": "Poste d'auxiliaire de puériculture à la Maison maternelle Marcelle JORDA située à Boulari, rattaché à la Direction Provinciale de l'Action Sanitaire et Sociale de la Province Sud.",
   "identifier": "26-1145",
   "image": null,
   "mainEntityOfPage": null,
@@ -88,7 +88,7 @@
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence en Nouvelle-Calédonie au moins égale à 3 ans pour le recrutement sur titre",
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial au sein de ses services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et de ses autres sites excentrés. Le service de la protection de l'enfance compte plus de 80 agents répartis en 4 bureaux et 3 structures d'accueil collectif.",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial au sein de ses services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et de ses autres sites excentrés. Le service de la protection de l'enfance compte plus de 80 agents répartis en 4 bureaux et 3 structures d'accueil collectif. La maison maternelle Marcelle JORDA comprend 10 agents permanents et prend en charge des mères et de jeunes enfants.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -97,7 +97,7 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": false,
+  "experienceInPlaceOfEducation": null,
   "experienceRequirements": "Non spécifié",
   "hiringOrganization": {
     "@type": "Organization",
@@ -111,7 +111,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Maison maternelle Marcelle JORDA",
+    "name": "Boulari",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -125,7 +125,8 @@
   "jobLocationType": null,
   "jobStartDate": null,
   "occupationalCategory": [
-    "Santé publique soins"
+    "Santé publique soins",
+    "Action sociale"
   ],
   "physicalRequirement": null,
   "qualifications": "Permis de conduire B souhaité (accompagnements aux rendez-vous médicaux)",
@@ -140,10 +141,10 @@
   },
   "responsibilities": [
     "Assurer la prise en charge globale des enfants accueillis sur les plans de la santé, de la sécurité, de l'hygiène et de l'éveil",
-    "Être le/la référent(e) des prises en charge santé des enfants accueillis et de veiller au suivi du calendrier vaccinal et des rendez-vous PMI",
+    "Être le ou la référente des prises en charge santé des enfants accueillis et veiller au suivi du calendrier vaccinal et des rendez-vous PMI",
     "Accompagner les mères pendant la grossesse, l'allaitement et dans l'acquisition des premiers gestes de soin (hygiène, changes, portage, alimentation)",
-    "Accompagner et d'expliquer aux parents la réalisation des soins médicaux spécifiques",
-    "Favoriser l'autonomie parentale des mères et de contribuer à la prévention des risques pour l'enfant",
+    "Accompagner et expliquer aux parents la réalisation des soins médicaux spécifiques",
+    "Favoriser l'autonomie parentale des mères et contribuer à la prévention des risques pour l'enfant",
     "Participer à la prévention et à l'information concernant les maladies infantiles et les accidents domestiques",
     "Être capable de détecter des signes de maltraitance ou de danger et d'alerter les professionnels compétents",
     "Assurer l'accompagnement aux visites médicales et aux soins spécifiques",
@@ -153,7 +154,7 @@
     "Participer aux réunions d'équipe, de synthèse et institutionnelles",
     "Participer à l'élaboration et à l'application des protocoles d'hygiène et de sécurité",
     "Contribuer à la réflexion collective et à la mise en œuvre du projet d'établissement",
-    "Gérer le stock de pharmacie, le rangement des traitements et d'assurer leur traçabilité",
+    "Gérer le stock de pharmacie, le rangement des traitements et assurer leur traçabilité",
     "Encadrer des stagiaires dans le cadre de ses fonctions"
   ],
   "salaryCurrency": null,
@@ -178,11 +179,11 @@
     "Sens de l'organisation et méthode"
   ],
   "specialCommitments": "Travail en horaires d'internat (soirées et week-ends) et en poste isolé",
-  "title": "Auxiliaire de puériculture à la Maison maternelle Marcelle JORDA",
+  "title": "Auxiliaire de puériculture à la Maison maternelle Marcelle JORDA (SPE)",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-16",
   "workHours": "Horaires d'internat (soirées et week-ends)",
-  "champs_open_data": 10,
+  "champs_open_data": 11,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
   "direction": "PROVINCE SUD",
