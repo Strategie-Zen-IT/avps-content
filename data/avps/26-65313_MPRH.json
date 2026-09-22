@@ -64,7 +64,8 @@
   "name": "Adjoint(e) au chef de service du pilotage budgétaire et de la stratégie financière",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie"
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -106,7 +107,8 @@
   "experienceRequirements": "Une expérience souhaitée dans un poste similaire en collectivité ou d'analyste économique et/ou financier est souhaitée.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie"
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
