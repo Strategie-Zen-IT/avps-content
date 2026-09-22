@@ -29,7 +29,8 @@
   "name": "Directeur (trice) adjoint(e)",
   "owner": {
     "@type": "Organization",
-    "name": "Congrès de la Nouvelle-Calédonie"
+    "name": "Congrès de la Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/cnc.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -87,7 +88,8 @@
   "experienceRequirements": "Non spécifié",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Congrès de la Nouvelle-Calédonie"
+    "name": "Congrès de la Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/cnc.png"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -103,8 +105,7 @@
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98800"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
