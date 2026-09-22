@@ -38,7 +38,8 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "http://www.province-nord.nc"
+    "url": "http://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -76,7 +77,8 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "http://www.province-nord.nc"
+    "url": "http://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
   },
   "incentiveCompensation": null,
   "industry": "Santé",
@@ -92,8 +94,7 @@
       "addressLocality": "Houaïlou",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
-      "province": "province Nord",
-      "postalCode": "98816"
+      "province": "province Nord"
     }
   },
   "jobLocationType": null,
@@ -135,7 +136,7 @@
     "Goût du travail en équipe"
   ],
   "specialCommitments": "Poste soumis à astreintes",
-  "title": "Médecin Houaïlou",
+  "title": "MEDECIN HOUAILOU",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-02",
   "workHours": null,
