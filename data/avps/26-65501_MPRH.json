@@ -64,7 +64,8 @@
   "name": "Statisticien(ne)",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie"
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -102,7 +103,8 @@
   "experienceRequirements": "Expérience significative (3 à 5 ans minimum) dans la conduite d'analyses statistiques avancées, le développement de modèles et la production d'indicateurs pour l'aide à la décision.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie"
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -118,8 +120,7 @@
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98800"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
