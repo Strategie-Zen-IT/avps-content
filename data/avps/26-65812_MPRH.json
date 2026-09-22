@@ -68,7 +68,8 @@
   "name": "Responsable du bureau de la performance du système de protection sociale",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie"
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -110,7 +111,8 @@
   "experienceRequirements": "Expérience professionnelle dans le secteur de la protection sociale et/ou de la gestion hospitalière/sanitaire/médico-sociale",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie"
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -126,8 +128,7 @@
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98800"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
