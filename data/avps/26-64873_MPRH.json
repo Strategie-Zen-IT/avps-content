@@ -68,7 +68,8 @@
   "name": "Conseiller(e) pédagogique- Inspection 4ème circonscription",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie"
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -111,7 +112,8 @@
   "experienceRequirements": "Titulaire d'un CAFIPEMF (Certificat d'aptitude aux fonctions d'instituteur ou de professeur des écoles maître formateur) ou vivement souhaité",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie"
+    "name": "Nouvelle-Calédonie",
+    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
   },
   "incentiveCompensation": null,
   "industry": "Education",
@@ -127,8 +129,7 @@
       "addressLocality": "Poindimié",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
-      "province": "province Nord",
-      "postalCode": "98822"
+      "province": "province Nord"
     }
   },
   "jobLocationType": null,
