@@ -38,7 +38,8 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "https://www.province-nord.nc"
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -87,7 +88,8 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "https://www.province-nord.nc"
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
   },
   "incentiveCompensation": null,
   "industry": "Santé",
@@ -103,8 +105,7 @@
       "addressLocality": "Canala",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
-      "province": "province Nord",
-      "postalCode": "98813"
+      "province": "province Nord"
     }
   },
   "jobLocationType": null,
@@ -145,7 +146,7 @@
     "Goût du travail en équipe"
   ],
   "specialCommitments": "Ce poste est soumis à astreinte de nuit.",
-  "title": "Infirmier en soins généraux",
+  "title": "INFIRMIER EN SOINS GÉNÉRAUX",
   "totalJobOpenings": 1,
   "validThrough": "2026-09-25",
   "workHours": "Astreinte de nuit",
