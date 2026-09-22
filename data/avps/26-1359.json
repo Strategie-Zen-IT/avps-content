@@ -2,36 +2,29 @@
   "additionalType": {
     "corpsDomaine": "Infirmier en soins généraux",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "Bureau de proximité des soins",
+    "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef(fe) de bureau de proximité des soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Médecin d'un Centre Médico-Social",
-      "Téléconsultation de la Province Nord",
-      "DASS NC",
-      "CAFAT"
+      "Médecin d'un Centre Médico-Social (CMS) ou de Téléconsultation (TLC)",
+      "Équipe pluridisciplinaire"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "au moins égale à 5 ans"
-      },
-      {
-        "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Poste soumis à astreintes. L'IPA exerce au sein d'une équipe pluridisciplinaire en établissement médico-sociale coordonnée par un médecin d'un Centre Médico-Social (CMS) ou de Téléconsultation (TLC) de la Province Nord."
+        "value": "Poste soumis à astreintes. L'IPA exerce au sein d'une équipe pluridisciplinaire en établissement médico-social coordonnée par un médecin d'un Centre Médico-Social (CMS) ou de Téléconsultation (TLC) de la Province Nord. Prévoir une assurance professionnelle responsabilité civile IPA spécifique."
       },
       {
         "@type": "PropertyValue",
         "name": "Cadre réglementaire",
-        "value": "LOI n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé. Décret n° 2018-629 du 18 juillet 2018 relatif à l'exercice infirmier en pratique avancée. Loi du pays n° 2023-5 du 26 mai 2023. Délibération n° 119/CP du 26 juin 2023."
+        "value": "LOI n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé. Décret n° 2018-629 du 18 juillet 2018 relatif à l'exercice infirmier en pratique avancée. Loi du pays n° 2023-5 du 26 mai 2023. Délibération n° 476 du 28 avril 2025 (catégorie A). Délibération n° 119/CP du 26 juin 2023. Arrêté n° 2023-2079/GNC du 9 août 2023."
       },
       {
         "@type": "PropertyValue",
-        "name": "Assurance requise",
-        "value": "Prévoir une assurance professionnelle responsabilité civile IPA spécifique."
+        "name": "Réorganisation",
+        "value": "Réorganisation interne"
       },
       {
         "@type": "PropertyValue",
@@ -41,7 +34,7 @@
     ]
   },
   "alternateName": null,
-  "description": "La Direction des Affaires sanitaires, Sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
+  "description": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
   "disambiguatingDescription": null,
   "identifier": "26-1359",
   "image": null,
@@ -59,7 +52,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "AreaServed",
+    "@type": "Place",
     "name": "Province Nord",
     "address": {
       "@type": "PostalAddress",
@@ -82,18 +75,17 @@
     "credentialCategory": "Diplôme d'Etat d'infirmier en pratique avancée",
     "competencyRequired": [
       "Être titulaire d'un diplôme d'Etat d'infirmier en pratique avancée délivré par une université accréditée",
-      "Justifier de trois années minimales d'exercice en équivalent temps plein de la profession d'infirmier",
       "Être enregistré auprès de la DASS NC",
       "Disposer de l'autorisation de prescription auprès de la CAFAT et la DASS-PS"
     ]
   },
   "eligibilityToWorkRequirement": "au moins égale a 5 ans",
-  "employerOverview": "La Direction des Affaires sanitaires, Sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
+  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles, 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Province Nord",
-    "url": "https://www.province-nord.nc",
+    "name": "Bureau de Proximité de Soins (BPS) du Pôle Soins",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
@@ -105,13 +97,13 @@
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique soins",
+  "industry": "Santé",
   "jobBenefits": null,
   "jobDuration": null,
-  "jobImmediateStart": true,
+  "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Centre Médico-Social de Canala",
+    "name": "Centre Médico-Social (CMS) ou de Téléconsultation (TLC)",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -128,7 +120,7 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Être titulaire du permis B",
+  "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Infirmier",
@@ -146,7 +138,9 @@
     "Éducation du patient dans sa prise en charge du suivi ou de la personne de confiance",
     "Coordination de soins, orientation",
     "Mise en place d'actions de prévention, dépistage et éducation à la santé",
-    "Coordination et développement de la pratique"
+    "Coordination et développement de la pratique",
+    "Restitution de l'activité (cotation et codification, bilan d'activité)",
+    "Recherche et veille professionnelle"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
@@ -166,11 +160,11 @@
     "Communication"
   ],
   "specialCommitments": "Poste soumis à astreintes",
-  "title": "Infirmier en pratique avancée",
+  "title": "Infirmier en pratique avancée - Canala",
   "totalJobOpenings": 5,
   "validThrough": "2026-10-02",
-  "workHours": "Astreintes",
-  "champs_open_data": 8,
+  "workHours": null,
+  "champs_open_data": 9,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
   "direction": "PROVINCE NORD",
