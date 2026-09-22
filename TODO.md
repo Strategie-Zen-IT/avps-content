@@ -52,6 +52,10 @@ Le site est fonctionnel mais n'a pas de charte. Rien ici n'est bloquant.
 - [ ] **`static/assets/logo-avps.svg`** est un monogramme provisoire. Volontairement
       neutre : il ne doit évoquer aucune des collectivités agrégées, sous peine de
       laisser croire que l'une d'elles édite le site.
+      ⚠️ **C'est la SOURCE de l'icône de l'application mobile** : `avps-app` en dérive
+      par `scripts/generer_icones.py`, pour les deux stores et l'écran de lancement
+      iOS. Le reprendre ici sans relancer ce script ferait diverger les deux
+      identités. Suivi commun dans `avps-app` issue #26, à traiter en fin de projet.
 - [x] **Couleurs des familles** (20/09/2026) : camaïeux par grand thème, sept univers de
       métiers au lieu des huit lettres ROME, deux tons par famille avec contraste WCAG
       4,5:1 garanti (`familles_couleurs.yml` pour les badges et le thème clair,
