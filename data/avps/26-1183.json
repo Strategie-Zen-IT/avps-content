@@ -2,21 +2,23 @@
   "additionalType": {
     "corpsDomaine": "Chirurgien dentiste",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "Service des Métiers de Soins / Bureau dentaire-Centres médico sociaux",
-    "nbAgentsEncadres": 1,
-    "superieurHierarchique": "Chef de Bureau Dentaire",
+    "uniteOrganisationnelle": "Bureau dentaire-Centres médico sociaux",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef(fe) de Bureau Dentaire, et directeur(-trice) adjoint(e) en charge du Pôle Soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Service des Métiers de Soins",
       "Pôle Soins",
-      "CMS de Ponérihouen",
-      "Écoles, collèges, lycées de proximité",
+      "Centres médico-sociaux",
+      "Écoles",
+      "Collèges",
+      "Lycées de proximité",
       "Agence sanitaire et sociale"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
         "value": "inférieure à 3 ans"
       },
       {
@@ -27,8 +29,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La DASSPS de la Province Nord recrute un Chirurgien-dentiste pour le CMS de Ponérihouen. Le titulaire effectuera les actes du champ professionnel du praticien dentaire en veillant à répondre à la mission de santé publique du poste. Il veillera notamment à appliquer la politique de santé publique de la province Nord et à mettre en œuvre ses programmes de dépistage, de prévention et de promotion de la santé bucco-dentaire.",
-  "disambiguatingDescription": null,
+  "description": "La DASSP compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux. Le Bureau dentaire du Service des Métiers de Soins du Pôle Soins gère les chirurgiens-dentistes et les assistantes dentaires des centres médico-sociaux et compte 20 agents (1 chef de Bureau dentaire, 10 chirurgiens-dentistes, 9 assistants(es) dentaires).",
+  "disambiguatingDescription": "Poste de chirurgien-dentiste au sein du CMS de Ponérihouen sous l'autorité de la DASSPS de la Province Nord.",
   "identifier": "26-1183",
   "image": null,
   "mainEntityOfPage": null,
@@ -36,29 +38,30 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "url": "www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": "www.drhfpnc.gouv.nc",
+  "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.72.30",
-    "email": "drh.emplois@province-nord.nc"
+    "email": "m.oudare@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-08-07",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Doctorat",
+    "credentialCategory": "Diplôme d'Etat de chirurgien-dentiste ou de docteur en chirurgie-dentaire",
     "competencyRequired": [
       "Diplôme d'Etat de chirurgien-dentiste ou de docteur en chirurgie-dentaire",
-      "Permis de conduire B"
+      "Permis de conduire B",
+      "Expérience professionnelle en outre-mer appréciée",
+      "Expérience professionnelle d'au moins un an en matière de santé publique et de prévention appréciée"
     ]
   },
   "eligibilityToWorkRequirement": null,
@@ -66,61 +69,63 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Bureau dentaire du Service des Métiers de Soins",
+    "name": "CMS de Ponérihouen",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience professionnelle en outre-mer appréciée. Expérience professionnelle d'au moins un an en matière de santé publique et de prévention appréciée.",
+  "experienceRequirements": "Expérience professionnelle d'au moins un an en matière de santé publique et de prévention appréciée. Expérience professionnelle en outre-mer appréciée.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "url": "www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique soins",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "CMS de PONÉRIHOUEN",
+    "name": "CMS de Ponérihouen",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
       "addressLocality": "Ponérihouen",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
-      "province": "province Nord"
+      "province": "province Nord",
+      "postalCode": "98823"
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis B",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Chirurgien-Dentiste",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Chirurgie dentaire"
+      "name": "Médecine de prévention"
     }
   },
   "responsibilities": [
+    "Effectuer les actes du champ professionnel du praticien dentaire en veillant à répondre à la mission de santé publique du poste",
+    "Appliquer la politique de santé publique de la province Nord et mettre en œuvre ses programmes de dépistage, de prévention et de promotion de la santé bucco-dentaire",
     "Réalisation des soins conservateurs et restaurateurs, extractions dentaires, acte de petite chirurgie et de parodontie, prothèse adjointe et conjointe",
-    "Gestion et le suivi des soins aux publics cible (RAA/CRC, diabétique, etc.)",
+    "Gestion et suivi des soins aux publics cible (RAA/CRC, diabétique, etc.)",
     "Participation aux actions de dépistage et de prévention propres à la province Nord ou en partenariat avec d'autres organismes",
-    "Entretien, le nettoyage et la désinfection du mobilier et de l'équipement professionnels",
+    "Entretien, nettoyage et désinfection du mobilier et de l'équipement professionnels",
     "Désinfection des instruments et leur stérilisation en autoclave",
     "Supervision de l'activité de l'assistant(te) dentaire",
     "Restitution de bilans d'activité et de tableaux de soins aux publics cible sur demande de la direction",
-    "Enregistrement, la codification (selon la CIM 10) et la cotation des actes sur le logiciel de la province Nord",
+    "Enregistrement, codification (selon la CIM 10) et cotation des actes sur le logiciel de la province Nord",
     "Information des patients en matière d'hygiène bucco-dentaire et alimentaire et leur motivation aux gestes d'hygiène",
     "Intervention sur site lors de certaines manifestations ou journées à thème",
     "Interventions de prévention ou d'information dans les écoles, collèges, lycées de proximité",
@@ -135,29 +140,24 @@
     "Travailler en réseau avec les équipes des CMS et les autres spécialistes et partenaires",
     "Rédiger des rapports circonstanciés, des tableaux de bord, des registres",
     "Organiser son activité en fonction des particularités locales",
-    "Rigueur",
-    "Ponctualité",
-    "Sens des responsabilités",
+    "Rigueur, ponctualité et sens des responsabilités",
     "Savoir appliquer avec constance et rigueur des règles, des procédures et des protocoles",
-    "Goût des relations humaines",
-    "Disponibilité",
+    "Goût des relations humaines et disponibilité",
     "Sens de l'organisation",
-    "Esprit d'initiative",
-    "Autonomie",
-    "Respect de la confidentialité des informations",
-    "Respect du secret médical",
-    "Respect des règles déontologiques de la profession"
+    "Esprit d'initiative, autonomie",
+    "Respect de la confidentialité des informations, du secret médical et des règles déontologiques de la profession"
   ],
   "specialCommitments": null,
-  "title": "CHIRURGIEN-DENTISTE PONÉRIHOUEN",
+  "title": "Chirurgien-dentiste à Ponérihouen",
   "totalJobOpenings": 1,
   "validThrough": "2026-09-25",
   "workHours": null,
-  "champs_open_data": 6,
+  "champs_open_data": 7,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
   "direction": "PROVINCE NORD",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Santé publique soins",
   "famille_source": "respnc",
   "famille_score": 0.803,
