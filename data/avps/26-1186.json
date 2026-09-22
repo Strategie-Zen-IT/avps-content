@@ -2,24 +2,24 @@
   "additionalType": {
     "corpsDomaine": "Infirmier en soins généraux",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "CMS de Houaïlou",
+    "uniteOrganisationnelle": "CMS de HOUAILOU",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef de bureau de proximité des soins",
+    "superieurHierarchique": "Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Chef du Bureau de Proximité de Soins",
-      "Médecin",
-      "Étudiants infirmiers"
+      "Pôle Soins",
+      "DASSPS"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
-        "value": "Au moins égale à 5 ans"
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale 5 ans"
       },
       {
         "@type": "PropertyValue",
-        "name": "Astreintes",
+        "name": "Caractéristiques particulières de l'emploi",
         "value": "Ce poste est soumis à astreinte de nuit"
       },
       {
@@ -30,7 +30,7 @@
     ]
   },
   "alternateName": null,
-  "description": "Placé sous l'autorité du (de la) chef(fe) de bureau de proximité des soins, l'infirmier en soins généraux assure sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe.",
+  "description": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
   "disambiguatingDescription": null,
   "identifier": "26-1186",
   "image": null,
@@ -39,8 +39,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "https://www.province-nord.nc",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "url": "https://www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -50,11 +49,11 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Hôtel de la province Nord",
+    "name": "CMS de HOUAILOU",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "41 avenue Jimmy Welepane",
-      "addressLocality": "Koné",
+      "streetAddress": null,
+      "addressLocality": "Houaïlou",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
       "province": "province Nord"
@@ -63,13 +62,13 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
-    "email": "drh-emplois@province-nord.nc"
+    "email": "m.oudare@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-08-07",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'État d'infirmier",
+    "credentialCategory": "Diplôme d'état infirmier",
     "competencyRequired": [
       "Diplôme d'état infirmier exigé",
       "Expérience du travail en poste isolé",
@@ -77,11 +76,13 @@
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale 5 ans",
-  "employerOverview": "La Direction des Affaires sanitaires, Sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
+  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
-    "name": "CMS de Houaïlou"
+    "@type": "OrganizationalUnit",
+    "name": "CMS de HOUAILOU",
+    "url": null,
+    "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
@@ -89,20 +90,19 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "https://www.province-nord.nc",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "CMS de Houaïlou",
+    "name": "CMS de HOUAILOU",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "CMS de Houaïlou",
+      "streetAddress": null,
       "addressLocality": "Houaïlou",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
@@ -116,21 +116,22 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis B",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Infirmier",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Infirmier en soins généraux"
+      "name": "Infirmier / Infirmière en soins généraux"
     }
   },
   "responsibilities": [
-    "Assurer les actes curatifs (consultations, urgences, soins)",
-    "Assurer les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques)",
-    "Assurer les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire)",
-    "Assurer la téléconsultation en l'absence de médecin en présentiel",
+    "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
+    "Les actes curatifs (consultations, urgences, soins)",
+    "Les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
+    "Les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
+    "La téléconsultation (en l'absence de médecin en présentiel)",
     "Assurer l'encadrement des stagiaires, notamment les étudiants infirmiers"
   ],
   "salaryCurrency": null,
@@ -140,24 +141,24 @@
     "Maîtrise des logiciels de bureautique (Excel et Word)",
     "Disponibilité",
     "Rigueur",
-    "Respect de la confidentialité des informations",
-    "Respect du secret médical",
+    "Respect de la confidentialité des informations et du secret médical",
     "Sens des responsabilités",
     "Goût des relations humaines",
     "Esprit d'initiative",
     "Capacité d'écoute",
     "Goût du travail en équipe"
   ],
-  "specialCommitments": "Ce poste est soumis à astreinte de nuit",
-  "title": "Infirmier en soins généraux",
+  "specialCommitments": "Astreinte de nuit",
+  "title": "2 Infimier(e)s en soins généraux à Houailou",
   "totalJobOpenings": 2,
   "validThrough": "2026-09-25",
   "workHours": "Astreinte de nuit",
-  "champs_open_data": 6,
+  "champs_open_data": 7,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
   "direction": "PROVINCE NORD",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Santé publique soins",
   "famille_source": "respnc",
   "famille_score": 1.0,
