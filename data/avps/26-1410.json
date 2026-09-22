@@ -57,7 +57,8 @@
   "name": "2 Aide-soignant(e)s en médecine polyvalente",
   "owner": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -106,7 +107,8 @@
   "experienceRequirements": "Expérience dans un service similaire souhaitée",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
+    "logo": "https://avps.nc/logos/cht.png"
   },
   "incentiveCompensation": null,
   "industry": "Santé",
@@ -122,8 +124,7 @@
       "addressLocality": "Dumbéa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98835"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
