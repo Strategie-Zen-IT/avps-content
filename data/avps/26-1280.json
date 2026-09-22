@@ -29,7 +29,8 @@
   "name": "Secrétaire-comptable",
   "owner": {
     "@type": "Organization",
-    "name": "Ville du Mont-Dore"
+    "name": "Ville du Mont-Dore",
+    "logo": "https://avps.nc/logos/ville-du-mont-dore.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -70,7 +71,8 @@
   "experienceRequirements": "Expérience confirmée en secrétariat",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Ville du Mont-Dore"
+    "name": "Ville du Mont-Dore",
+    "logo": "https://avps.nc/logos/ville-du-mont-dore.png"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -86,8 +88,7 @@
       "addressLocality": "Mont-Dore",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98809"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
