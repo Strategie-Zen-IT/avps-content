@@ -1,0 +1,61 @@
+{{- /*
+  Invitation à installer l'application, sur Android.
+
+  Pourquoi seulement Android : iOS a son bandeau natif, posé par `avp-app-meta.html`.
+  En afficher un second ferait doublon.
+
+  Pourquoi ce bandeau existe : un lien d'offre partagé depuis l'application ouvre le
+  SITE chez le destinataire. Sans cette invitation, personne ne découvre qu'une
+  application existe — et c'est elle qui porte les alertes, les offres mises de côté
+  et la consultation hors ligne.
+
+  Le jour où les liens profonds seront en place, un lien partagé ouvrira directement
+  l'application chez qui l'a déjà installée. Ce bandeau reste utile pour les autres.
+
+  Aucun SDK, aucun pixel : un lien vers le Play Store, et un choix mémorisé
+  localement. Tant que `params.application.android_package` est vide, ce partial ne
+  produit RIEN.
+*/ -}}
+{{- with site.Params.application.android_package }}
+<div id="avp-app-banniere" class="avp-app-banniere" hidden>
+  <div class="avp-app-banniere__texte">
+    <strong>L'application avps.nc</strong>
+    <span>Les nouvelles offres de vos métiers, en notification. Sans inscription.</span>
+  </div>
+  <a class="avp-app-banniere__action"
+     href="https://play.google.com/store/apps/details?id={{ . }}"
+     rel="noopener">Installer</a>
+  <button type="button" class="avp-app-banniere__fermer" id="avp-app-banniere-fermer"
+          aria-label="Masquer cette invitation">&times;</button>
+</div>
+
+<script>
+  (function () {
+    var CLE = 'app-banniere-masquee';
+    var banniere = document.getElementById('avp-app-banniere');
+    if (!banniere) return;
+
+    // iOS est écarté : son bandeau natif s'en charge (voir avp-app-meta.html).
+    if (!/Android/i.test(navigator.userAgent)) return;
+
+    function lire() {
+      try { return window.localStorage.getItem(CLE); } catch (e) { return null; }
+    }
+    function masquer(memoriser) {
+      banniere.hidden = true;
+      if (!memoriser) return;
+      try { window.localStorage.setItem(CLE, '1'); } catch (e) { /* navigation privée */ }
+    }
+
+    if (lire() === '1') return;
+    banniere.hidden = false;
+
+    var fermer = document.getElementById('avp-app-banniere-fermer');
+    if (fermer) fermer.addEventListener('click', function () { masquer(true); });
+
+    // Un clic sur « Installer » masque aussi : l'invitation a fait son office.
+    var action = banniere.querySelector('.avp-app-banniere__action');
+    if (action) action.addEventListener('click', function () { masquer(true); });
+  })();
+</script>
+{{- end }}

@@ -90,6 +90,17 @@ enableGitInfo = true
   # désactiver : plus de bannière, plus de script, plus de cookie.
   ga_id = "G-M5ZZ0TTRB3"
 
+  # Application mobile. VIDES tant qu'elle n'est pas publiée : les deux invitations
+  # à l'installer ne produisent alors rien du tout. Un bandeau pointant vers une
+  # application inexistante serait pire que pas de bandeau.
+  #
+  # `ios_id` est l'identifiant NUMÉRIQUE de l'App Store (visible dans l'URL de la
+  # fiche publique, `.../id6740000000`), PAS `nc.avps.app`.
+  # `android_package` est l'identifiant de paquet, lui : `nc.avps.app`.
+  [params.application]
+    ios_id = ""
+    android_package = ""
+
   # Éditeur du site (affiché dans le pied de page et les mentions légales).
   [params.editeur]
     nom = "Stratégie Zen IT"

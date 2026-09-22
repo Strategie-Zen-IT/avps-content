@@ -10,6 +10,10 @@
    - Ci-dessous : URL canonique + métadonnées de build + JSON-LD JobPosting épuré.
    ========================================================================== */}}
 
+{{/* 📱 Bandeau natif d'Apple invitant à installer l'application. Doit être dans le
+     <head>. Inerte tant que l'identifiant App Store n'est pas renseigné. */}}
+{{ partial "avp-app-meta.html" . }}
+
 {{/* 🎨 Styles des composants AVP (fin des styles inline dans les templates) */}}
 {{ with resources.Get "css/avp-components.css" }}
   {{ $css := . | minify | fingerprint }}

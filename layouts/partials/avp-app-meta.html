@@ -1,0 +1,20 @@
+{{- /*
+  Bandeau natif d'Apple, dans le <head>.
+
+  Safari sur iOS affiche de lui-même une invitation à installer l'application quand
+  cette balise est présente, avec l'icône, la note et un bouton. C'est le mécanisme
+  officiel : rien à styler, rien à maintenir, et il disparaît tout seul une fois
+  l'application installée — auquel cas le bouton devient « Ouvrir » et bascule sur
+  l'application.
+
+  ⚠️ Il faut l'identifiant NUMÉRIQUE de l'App Store, pas `nc.avps.app`. Il apparaît
+  dans App Store Connect une fois la fiche créée, et dans l'URL de la page publique
+  (`.../id6740000000`).
+
+  Tant que `params.application.ios_id` est vide, ce partial ne produit RIEN. C'est
+  l'état par défaut, et c'est voulu : une balise pointant vers une application
+  inexistante ferait afficher un bandeau mort.
+*/ -}}
+{{- with site.Params.application.ios_id }}
+<meta name="apple-itunes-app" content="app-id={{ . }}">
+{{- end }}
