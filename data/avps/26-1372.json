@@ -14,8 +14,13 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Cadre ou Corps ou Grade",
-        "value": "Emploi fonctionnel"
+        "name": "Cadre Corps Grade",
+        "value": "rédacteur du CAG"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "vacant au 1er octobre 2026"
       },
       {
         "@type": "PropertyValue",
@@ -33,7 +38,7 @@
   "name": "Secrétaire Général Adjoint",
   "owner": {
     "@type": "Organization",
-    "name": "Commune de Pouembout"
+    "name": "Commune de POUEMBOUT"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -61,25 +66,30 @@
   "eligibilityToWorkRequirement": null,
   "employerOverview": null,
   "employmentType": "FULL_TIME",
-  "employmentUnit": null,
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Commune de POUEMBOUT",
+    "url": null,
+    "logo": null
+  },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": true,
   "experienceRequirements": "Expérience professionnelle avérée sur un poste similaire dans une collectivité territoriale",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Commune de Pouembout"
+    "name": "Commune de POUEMBOUT"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
   "jobBenefits": null,
   "jobDuration": null,
-  "jobImmediateStart": null,
+  "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Pouembout",
+    "name": "Mairie de Pouembout",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "302, Avenue de Pouembout",
       "addressLocality": "Pouembout",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
@@ -101,7 +111,7 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1601",
-      "name": "Management de département administratif"
+      "name": "Conception et pilotage de la politique des pouvoirs publics"
     }
   },
   "responsibilities": [
@@ -121,7 +131,7 @@
     "Connaissances en informatique et bureautique",
     "Qualités rédactionnelles",
     "Rendre compte à sa hiérarchie",
-    "Sens de l'initiative et du service public",
+    "Sens de l'initiative et du service public exigé",
     "Discrétion professionnelle et respect de la confidentialité",
     "Capacité d'adaptation à la multiplicité des tâches",
     "Grande disponibilité",
@@ -134,9 +144,9 @@
   "totalJobOpenings": 4,
   "validThrough": "2026-10-09",
   "workHours": null,
-  "champs_open_data": 8,
+  "champs_open_data": 9,
   "employeur_sigle": "COMMUNE-DE-POUEMBOUT",
-  "collectivite": "Commune de Pouembout",
+  "collectivite": "Commune de POUEMBOUT",
   "direction": "SERVICE ADMINISTRATIF",
   "direction_source": "document",
   "employeur_source": "document",
