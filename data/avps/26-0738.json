@@ -2,12 +2,12 @@
   "additionalType": {
     "corpsDomaine": "Médecin de santé publique",
     "direction": "PROVINCE SUD",
-    "uniteOrganisationnelle": "UPASS de Nouméa - Centre de médecine scolaire",
+    "uniteOrganisationnelle": "Unité provinciale d'action sanitaire et sociale (UPASS) de Nouméa",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Responsable de l'UPASS de Nouméa",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Service de protection de l'enfance",
+      "Service de protection de l'enfance (SPE)",
       "CSF",
       "DPASS",
       "CMP",
@@ -19,12 +19,12 @@
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
-        "value": "inférieure à 3 ans"
+        "value": "inférieure à 3 ans pour le recrutement sur titre"
       },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Le poste nécessite autonomie, capacité d'adaptation et prise d'initiatives en concertation avec l'équipe. De nombreux déplacements sur l'ensemble de la province Sud pour la réalisation des missions de santé scolaire sont à prévoir, notamment dans le grand Nouméa, ainsi qu'à Yaté et à l'île des Pins. Hors calendrier scolaire, l'agent pourra être amené à contribuer à d'autres missions de santé publique."
+        "value": "Le poste nécessite autonomie, capacité d'adaptation et prise d'initiatives en concertation avec l'équipe. De nombreux déplacements sur l'ensemble de la province Sud pour la réalisation des missions de santé scolaire sont à prévoir, notamment dans le grand Nouméa, ainsi qu'à Yaté et à l'île des Pins. Hors calendrier scolaire, l'agent pourra être amené à contribuer à d'autres missions de santé publique (CMS)."
       },
       {
         "@type": "PropertyValue",
@@ -34,8 +34,8 @@
     ]
   },
   "alternateName": null,
-  "description": "Rattachée au pôle développement et épanouissement de la personne de la province Sud, la direction de l'action sanitaire et sociale (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein de ses services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS) et de ses centres médico-sociaux (CMS) et de ses autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
-  "disambiguatingDescription": "Poste de médecin au sein du centre de médecine scolaire de l'UPASS de Nouméa, avec des déplacements à prévoir sur l'ensemble de la province Sud.",
+  "description": "Rattachée au pôle développement et épanouissement de la personne de la province Sud, la direction de l'action sanitaire et sociale (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein de ses services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS) et de ses centres médico-sociaux (CMS) et de ses autres sites excentrés. Au sein du pôle santé et territoires, l'unité provinciale d'action sanitaire et sociale (UPASS) de Nouméa comprend l'espace Santé situé au centre-ville, et, sur le site de Montravel, le centre de protection maternelle et infantile (PMI), le centre médico-social de Montravel, et le centre de médecine scolaire dont le champ d'action s'étend à l'ensemble de la province Sud.",
+  "disambiguatingDescription": "Médecin au centre médico-scolaire au sein de l'UPASS de Nouméa",
   "identifier": "26-0738",
   "image": null,
   "mainEntityOfPage": null,
@@ -43,8 +43,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
-    "logo": "https://avps.nc/logos/pvs.png"
+    "url": "https://www.province-sud.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -54,10 +53,10 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Hôtel de province",
+    "name": "Centre de médecine scolaire",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "6 route des artifices",
+      "streetAddress": "Site de Montravel",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -82,13 +81,13 @@
       "Capacités à travailler dans le cadre du réseau en Nouvelle-Calédonie, CMP, ISA, UMJP et des services sociaux et des services de la protection de l'enfance"
     ]
   },
-  "eligibilityToWorkRequirement": null,
-  "employerOverview": null,
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre inférieure à 3 ans",
+  "employerOverview": "La direction de l'action sanitaire et sociale (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein de ses services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS) et de ses centres médico-sociaux (CMS) et de ses autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
-    "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
+    "@type": "OrganizationalUnit",
+    "name": "Centre de médecine scolaire de l'UPASS de Nouméa",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
@@ -97,54 +96,52 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
-    "logo": "https://avps.nc/logos/pvs.png"
+    "url": "https://www.province-sud.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "UPASS de Nouméa - Centre de médecine scolaire",
+    "name": "Centre de médecine scolaire",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Site de Montravel",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud"
+      "province": "province Sud",
+      "postalCode": "98800"
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
-    "Santé publique soins",
-    "Politique de santé publique"
+    "Politique de santé publique",
+    "Santé publique soins"
   ],
   "physicalRequirement": null,
   "qualifications": "Permis B exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecin au centre médico-scolaire",
+    "name": "Médecin du travail",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K2104",
-      "name": "Médecine de prévention"
+      "name": "Médecine généraliste et spécialisée"
     }
   },
   "responsibilities": [
     "Assurer le suivi médico-social des enfants relevant de l'enseignement du premier degré public et privé et sur les élèves de 6e",
-    "Repérer et dépister les problématiques de santé, notamment celles spécifiques à la Nouvelle-Calédonie pouvant impacter l'apprentissage",
-    "Accompagner les familles pour la prise en charge des problématiques de santé repérées et dépistées",
+    "Repérer et dépister les problématiques de santé, notamment celles spécifiques à la Nouvelle-Calédonie (obésité, hygiène bucco-dentaire, rhumatisme articulaire aigu) pouvant impacter l'apprentissage",
+    "Accompagner les familles pour la prise en charge des problématiques de santé repérées, dépistées",
     "Participer à la connaissance et à l'évaluation de l'état de santé des jeunes calédoniens",
     "Assurer la vaccination des enfants de l'enseignement du premier degré public et privé dans le cadre de la médecine préventive et curative",
-    "Participer au dépistage et à la surveillance des mineurs en danger",
-    "Faire des signalements en relation avec le service de protection de l'enfance",
-    "Siéger aux commissions de reconnaissance du handicap pour les enfants de 0 à 6 ans",
-    "Participer aux équipes éducatives et valider les projets d'accueil individualisé de l'enfant",
-    "Participer aux différentes actions et projets de santé communautaire en lien avec le CSF et la DPASS"
+    "Participer au dépistage et à la surveillance des mineurs en danger, effectuer des signalements en relation avec le service de protection de l'enfance (SPE)",
+    "Siéger aux commissions de reconnaissance du handicap pour les enfants de 0 à 6 ans (CEJH), participer aux équipes éducatives et valider les PAI (projet d'accueil individualisé de l'enfant)",
+    "Participer aux différentes actions et projets de santé communautaire en lien avec le CSF, et la DPASS"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
@@ -162,16 +159,17 @@
     "Capacités à répondre aux demandes institutionnelles et aux demandes du responsable de service",
     "Disponibilité"
   ],
-  "specialCommitments": null,
+  "specialCommitments": "Déplacements fréquents sur l'ensemble de la province Sud (Yaté, Île des Pins, Grand Nouméa)",
   "title": "Médecin au centre médico-scolaire",
   "totalJobOpenings": 1,
   "validThrough": "2026-09-25",
-  "workHours": null,
-  "champs_open_data": 6,
+  "workHours": "Hors calendrier scolaire, l'agent pourra être amené à contribuer à d'autres missions de santé publique (CMS)",
+  "champs_open_data": 7,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
   "direction": "PROVINCE SUD",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Travail",
   "famille_source": "respnc",
   "famille_score": 0.78,
