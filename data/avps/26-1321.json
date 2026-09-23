@@ -5,21 +5,25 @@
     "uniteOrganisationnelle": "UPASS Nord, CMS de Bourail",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Responsable de l'UPASS de Bourail",
-    "placeOrganigramme": null,
+    "placeOrganigramme": "Rattachée au pôle développement et épanouissement de la personne, au sein du pôle santé et territoires",
     "relationsFonctionnelles": [
-      "UPASS Nord",
-      "CMS de Bourail"
+      "Equipe pluridisciplinaire"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
-        "value": "au moins égale à 5 ans"
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
       },
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Une attention particulière est portée à la santé communautaire, à la prévention et à la promotion de la santé, étant rappelé que le poste nécessite un bon niveau en termes d'urgences médicales. A noter que le roulement infirmier demande une permanence de soins en astreinte de nuit et de week-end."
+        "name": "Statut du poste",
+        "value": "Susceptible d'être vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Modification de calendrier",
+        "value": "Modification de la date de clôture initialement prévue le 25/09/2026"
       },
       {
         "@type": "PropertyValue",
@@ -28,9 +32,9 @@
       }
     ]
   },
-  "alternateName": null,
-  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein de ses services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS), ses centres médico-sociaux (CMS) et de ses autres sites excentrés. Au sein du pôle santé et territoires, le/la candidat(e) retenu(e) exercera ses missions à l'UPASS Nord, au CMS de Bourail, dans une équipe pluridisciplinaire.",
-  "disambiguatingDescription": null,
+  "alternateName": "Infirmier(ère) à l'UPASS de Bourail",
+  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein de ses services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS), ses centres médico-sociaux (CMS) et de ses autres sites excentrés. Grace à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "disambiguatingDescription": "Infirmier à l'UPASS Nord, au CMS de Bourail au sein du pôle santé et territoires",
   "identifier": "26-1321",
   "image": null,
   "mainEntityOfPage": null,
@@ -38,8 +42,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
-    "logo": "https://avps.nc/logos/pvs.png"
+    "url": "https://www.province-sud.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -48,7 +51,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
+    "@type": "Schedule",
     "name": "CMS de Bourail",
     "address": {
       "@type": "PostalAddress",
@@ -72,33 +75,32 @@
     "competencyRequired": [
       "Connaissances des spécificités culturelles néo-calédoniennes",
       "Connaissances en prévention et en promotion de la santé (charte d'Ottawa) souhaitée",
-      "Connaissances en calcul de dose, règles d'hygiène et d'asepsie",
+      "Connaissances en calcul de dose, règles d’hygiène et d’asepsie",
       "Connaissances des règles de sécurité en matière de manutention"
     ]
   },
-  "eligibilityToWorkRequirement": "au moins égale à 5 ans de résidence exigée",
-  "employerOverview": null,
+  "eligibilityToWorkRequirement": "Durée de résidence au moins égale à 5 ans pour le recrutement sur titre",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial au travers de ses services centraux, UPASS et CMS pour offrir des prestations de santé publique et d'accompagnement médico-social.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
-    "name": "CMS de Bourail",
-    "url": null,
+    "@type": "OrganizationalUnit",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience en urgence, en prise en charge psychiatrique, en puériculture souhaitée, et du travail en poste isolé.",
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Expérience du travail en poste isolé, en urgence, en prise en charge psychiatrique et en puériculture souhaitée",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
-    "logo": "https://avps.nc/logos/pvs.png"
+    "url": "https://www.province-sud.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
-  "jobBenefits": null,
+  "industry": "Santé publique",
+  "jobBenefits": "Astreintes de nuit et de week-end",
   "jobDuration": null,
-  "jobImmediateStart": null,
+  "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
     "name": "CMS de Bourail",
@@ -108,7 +110,8 @@
       "addressLocality": "Bourail",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud"
+      "province": "province Sud",
+      "postalCode": "98870"
     }
   },
   "jobLocationType": null,
@@ -124,14 +127,14 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Soins d'infirmiers généraux"
+      "name": "Infirmier / Infirmière en soins généraux"
     }
   },
   "responsibilities": [
     "Réaliser des soins (biométrie, infections, prélèvements, pansements et stérilisation)",
     "Pratiquer les activités préventives individuelles (éducation du patient)",
     "Pratiquer les activités collectives (protection maternelle et infantile (PMI), santé scolaire, vaccinations)",
-    "Accueillir et de prendre en charge les urgences (relevage des victimes, conditionnement, évacuations)",
+    "Accueillir et prendre en charge les urgences (relevage des victimes, conditionnement, évacuations)",
     "Prendre en charge des patients admis en observation",
     "Réaliser le suivi de la pharmacie et du matériel"
   ],
@@ -147,7 +150,7 @@
     "Savoir évaluer les critères de gravité des patients",
     "Savoir prioriser",
     "Gérer des situations imprévues (les situations de crise, agressivité…), gestion des familles",
-    "Travailler en collaboration dans la gestion de l'urgence",
+    "Travailler en collaboration dans la gestion de l’urgence",
     "Maîtriser l'outil informatique",
     "Volontaire",
     "Dynamique",
@@ -163,15 +166,16 @@
     "Adaptabilité"
   ],
   "specialCommitments": "Permanence de soins en astreinte de nuit et de week-end",
-  "title": "Infirmier(ère) à l'UPASS de Bourail",
+  "title": "Infirmier(e) à l'UPASS de Bourail",
   "totalJobOpenings": 1,
   "validThrough": "2026-09-25",
   "workHours": "Roulement infirmier avec astreintes",
-  "champs_open_data": 7,
+  "champs_open_data": 8,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
   "direction": "PROVINCE SUD",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Santé publique soins",
   "famille_source": "respnc",
   "famille_score": 1.0,
