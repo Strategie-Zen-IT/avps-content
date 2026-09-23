@@ -72,8 +72,8 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "AreaServed",
-    "name": "Nouvelle-Calédonie",
+    "@type": "Place",
+    "name": "Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -128,7 +128,7 @@
     "name": "Service des collectivités locales et des établissements publics",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "18 avenue Paul Doumer",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -164,7 +164,7 @@
     "Réaliser des audits éventuels sur les établissements publics",
     "Participer à la mise en place d'un contrôle de gestion au sein du service et au sein des établissements."
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
