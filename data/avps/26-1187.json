@@ -7,9 +7,10 @@
     "superieurHierarchique": "Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Chef de bureau de proximité des soins",
+      "Chef du Bureau de Proximité de Soins",
       "Pôle Soins",
-      "DASSPS"
+      "Étudiants infirmiers",
+      "Stagiaires"
     ],
     "informationsLibres": [
       {
@@ -68,25 +69,26 @@
   "datePosted": "2026-08-07",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'état",
+    "credentialCategory": "Diplôme d'état infirmier exigé",
     "competencyRequired": [
       "Diplôme d'état infirmier exigé",
       "Expérience du travail en poste isolé",
-      "Expérience des urgences"
+      "Expérience des urgences",
+      "Être titulaire du permis de conduire B"
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale 5 ans",
   "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "OrganizationalUnit",
+    "@type": "Organization",
     "name": "CMS de POUEBO",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience du travail en poste isolé, Expérience des urgences",
+  "experienceRequirements": "Expérience du travail en poste isolé et expérience des urgences exigées.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
@@ -94,7 +96,7 @@
   },
   "incentiveCompensation": null,
   "industry": "Santé publique soins",
-  "jobBenefits": "Astreinte de nuit",
+  "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -128,10 +130,10 @@
   },
   "responsibilities": [
     "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
-    "Les actes curatifs (consultations, urgences, soins)",
-    "Les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
-    "Les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
-    "La téléconsultation (en l'absence de médecin en présentiel)",
+    "Prendre en charge les actes curatifs (consultations, urgences, soins)",
+    "Prendre en charge les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
+    "Prendre en charge les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
+    "Assurer la téléconsultation (en l'absence de médecin en présentiel)",
     "Assurer l'encadrement des stagiaires, notamment les étudiants infirmiers"
   ],
   "salaryCurrency": null,
@@ -151,7 +153,7 @@
   "specialCommitments": "Astreinte de nuit",
   "title": "2 Infimier(e)s en soins généraux à Pouebo",
   "totalJobOpenings": 2,
-  "validThrough": "2026-09-25",
+  "validThrough": "2026-10-16",
   "workHours": "Astreinte de nuit",
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
