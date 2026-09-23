@@ -1,3 +1,13 @@
+{{- /* Icône d'écran d'accueil iOS.
+
+       Le thème Relearn détecte tout seul `/images/favicon.{svg,png,ico}` et en fait des
+       `rel="icon"`, mais il n'émet PAS `apple-touch-icon` : sans cette ligne, un visiteur
+       qui ajoute avps.nc à son écran d'accueil sur iPhone obtient une capture de la page
+       à la place de l'icône.
+
+       ⚠️ À ne pas confondre avec l'icône de l'APPLICATION (avps-app) : celle-ci ne sert
+       qu'au site épinglé depuis Safari. Les deux viennent du même logo, et c'est voulu. */ -}}
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "images/apple-touch-icon.png" | relURL }}">
 {{/* Le script qui masquait côté client les rubriques sans enfant a été retiré le
      19/09/2026 : depuis que les fiches sont sorties du menu, AUCUNE famille n'a plus
      d'enfant, et il les masquait donc toutes. Les familles sans offre ouverte sont
