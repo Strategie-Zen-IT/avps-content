@@ -1,7 +1,7 @@
 {
   "additionalType": {
     "corpsDomaine": "Emploi fonctionnel",
-    "direction": "SERVICE ADMINISTRATIF",
+    "direction": "ADMINISTRATIF",
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Secrétaire Général",
@@ -14,7 +14,7 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Cadre Corps Grade",
+        "name": "Cadre/Corps/Grade",
         "value": "rédacteur du CAG"
       },
       {
@@ -131,7 +131,7 @@
     "Connaissances en informatique et bureautique",
     "Qualités rédactionnelles",
     "Rendre compte à sa hiérarchie",
-    "Sens de l'initiative et du service public exigé",
+    "Sens de l'initiative et du service public",
     "Discrétion professionnelle et respect de la confidentialité",
     "Capacité d'adaptation à la multiplicité des tâches",
     "Grande disponibilité",
@@ -147,7 +147,7 @@
   "champs_open_data": 9,
   "employeur_sigle": "COMMUNE-DE-POUEMBOUT",
   "collectivite": "Commune de POUEMBOUT",
-  "direction": "SERVICE ADMINISTRATIF",
+  "direction": "ADMINISTRATIF",
   "direction_source": "document",
   "employeur_source": "document",
   "famille_respnc": "Administration générale",
