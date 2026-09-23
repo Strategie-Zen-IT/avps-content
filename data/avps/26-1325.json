@@ -2,22 +2,22 @@
   "additionalType": {
     "corpsDomaine": "Assistant socio-éducatif",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "Service de l’Action Sociale (SAS)",
+    "uniteOrganisationnelle": "Service de l'Action Sociale (SAS) du Pôle Solidarité",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef de service",
-    "placeOrganigramme": "Placée sous l'autorité du chef de service",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Institutions",
-      "Services et associations œuvrant dans le domaine social et de la protection de l’enfance",
       "Magistrats",
       "Service de l'aide sociale à l'enfance",
-      "Service de l'action sociale"
+      "Service de l'action sociale",
+      "Institutions",
+      "Services et associations œuvrant dans le domaine social et de la protection de l'enfance"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Détails de l'offre",
-        "value": "Le Service de l’Action Sociale (SAS) du Pôle Solidarité compte 14 agents (1 chef de service, 13 assistantes sociales)"
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
       },
       {
         "@type": "PropertyValue",
@@ -26,9 +26,9 @@
       }
     ]
   },
-  "alternateName": "Assistant(e) social(e) de secteur",
-  "description": "Placée sous l'autorité du chef de service, la personne retenue accompagnera les personnes, les familles et les groupes afin de leur permettre de surmonter leurs difficultés, de tendre vers un mieux-être et de faciliter leur participation à la vie sociale. Elle sera amenée à intervenir sur un secteur d’intervention en polyvalence de secteur en effectuant un accueil tout public et à assurer un accompagnement des différents types de difficultés : financières, administratives, psychologiques et/ou éducatives dans sa mission de protection de l’enfance.",
-  "disambiguatingDescription": "Poste d'assistant social de secteur basé au CMS de Ponérihouen au sein de la Direction des affaires sanitaires et sociales et des problèmes de société de la Province-Nord.",
+  "alternateName": null,
+  "description": "Par délibération n° 68/89 du 29 décembre 1989, l’Assemblée de la province Nord a créé la Direction Provinciale des Affaires Sanitaires et Sociales de la Province Nord. Depuis le 1er mars 2023, par délibération n° 2023-03/APN du 27 janvier 2023, cette direction est dénommée, Direction des Affaires Sanitaires et Sociale, de la Prévention et de la Solidarité (DASSPS). Elle comprend une direction, des services centraux et décentralisés regroupés en quatre (4) pôles. Le Service de l’Action Sociale (SAS) du Pôle Solidarité compte 14 agents (1 chef de service, 13 assistantes sociales).",
+  "disambiguatingDescription": null,
   "identifier": "26-1325",
   "image": null,
   "mainEntityOfPage": null,
@@ -41,7 +41,7 @@
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": "www.province-nord.nc",
+  "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": null,
@@ -54,19 +54,18 @@
   "datePosted": "2026-09-04",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d’Etat d’assistant de service social",
+    "credentialCategory": "Diplôme d'Etat d'assistant de service social (obligatoire)",
     "competencyRequired": [
-      "Diplôme d’Etat d’assistant de service social (obligatoire)",
       "Connaissance des réalités locales"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "Par délibération n° 68/89 du 29 décembre 1989, l’Assemblée de la province Nord a créé la Direction Provinciale des Affaires Sanitaires et Sociales de la Province Nord. Depuis le 1er mars 2023, par délibération n° 2023-03/APN du 27 janvier 2023, cette direction est dénommée, Direction des Affaires Sanitaires et Sociale, de la Prévention et de la Solidarité (DASSPS). Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles.",
+  "employerOverview": null,
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Service de l’Action Sociale (SAS)",
-    "url": null,
+    "name": "Province-Nord",
+    "url": "www.province-nord.nc",
     "logo": null
   },
   "estimatedSalary": null,
@@ -112,17 +111,19 @@
     }
   },
   "responsibilities": [
-    "La rencontre et la prise en charge des personnes lors de permanences, des visites à domicile ou sur rendez-vous",
-    "L’accueil, l’écoute, l’évaluation, le conseil, l’information et l’orientation",
-    "La conduite des évaluations sociales à la demande des magistrats, du service de l'aide sociale à l'enfance et du service de l'action sociale",
-    "La participation aux démarches d'agrément concernant l'adoption",
-    "La participation aux commissions ou réunions de synthèse où sa présence pourrait être nécessaire pour consultation ou prise de décision",
-    "La mise en place d’un travail partenarial et en transversalité avec les institutions, les services et les associations œuvrant dans le domaine social et de la protection de l’enfance",
-    "La participation à la réflexion en matière d'action sociale",
-    "La promotion des actions préventives en direction des groupes",
-    "L’intervention sur son secteur binôme en cas d’absence de son collègue",
-    "La participation à la formation de ses pairs par l’accueil de stagiaires",
-    "Le retour d’informations par un rapport d’activité annuel et lors de réunions de synthèse"
+    "Accompagner les personnes, les familles et les groupes afin de leur permettre de surmonter leurs difficultés, de tendre vers un mieux-être et de faciliter leur participation à la vie sociale",
+    "Intervenir sur un secteur d’intervention en polyvalence de secteur en effectuant un accueil tout public et assurer un accompagnement des différents types de difficultés : financières, administratives, psychologiques et/ou éducatives dans sa mission de protection de l’enfance",
+    "Rencontrer et prendre en charge des personnes lors de permanences, des visites à domicile ou sur rendez-vous",
+    "Assurer l’accueil, l’écoute, l’évaluation, le conseil, l’information et l’orientation",
+    "Conduire des évaluations sociales à la demande des magistrats, du service de l'aide sociale à l'enfance et du service de l'action sociale",
+    "Participer aux démarches d'agrément concernant l'adoption",
+    "Participer aux commissions ou réunions de synthèse où sa présence pourrait être nécessaire pour consultation ou prise de décision",
+    "Mettre en place d’un travail partenarial et en transversalité avec les institutions, les services et les associations œuvrant dans le domaine social et de la protection de l’enfance",
+    "Participer à la réflexion en matière d'action sociale",
+    "Promouvoir des actions préventives en direction des groupes",
+    "Intervenir sur son secteur binôme en cas d’absence de son collègue",
+    "Participer à la formation de ses pairs par l’accueil de stagiaires",
+    "Assurer le retour d’informations par un rapport d’activité annuel et lors de réunions de synthèse"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
@@ -140,7 +141,7 @@
   "specialCommitments": null,
   "title": "Assistant(e) social(e) de secteur - Ponérihouen",
   "totalJobOpenings": 1,
-  "validThrough": "2026-09-25",
+  "validThrough": "2026-10-16",
   "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
