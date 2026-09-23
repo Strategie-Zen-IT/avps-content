@@ -9,24 +9,19 @@
     "relationsFonctionnelles": [
       "Service de la protection de l'enfance",
       "Enseignante spécialisée de la MDEB",
-      "Établissement scolaire de l'enfant",
+      "Établissements scolaires",
       "Magistrat ordonnateur de la mesure"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
-        "value": "au moins égale à 5 ans"
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
       },
       {
         "@type": "PropertyValue",
-        "name": "Statut du poste",
-        "value": "Susceptible d'être vacant"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Horaires",
-        "value": "Horaires d'internat (soirées, week-ends et jours fériés), possibilité de travail de nuit"
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Poste à temps plein à horaires d'internat (soirées, week-ends et jours fériés). Pourra être amené, pour raisons de service, à travailler de nuit en cas d'absence de ses collègues."
       },
       {
         "@type": "PropertyValue",
@@ -36,8 +31,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La maison de l'enfance de Bourail accueille des jeunes de 6 à 16 ans bénéficiant d'une mesure d'assistance éducative. Cette structure, qui dépend du service de la protection de l'enfance (SPE), a pour objectif d'accompagner des enfants et des jeunes avec des parcours de vie difficiles faits de ruptures familiales et sociales.",
-  "disambiguatingDescription": null,
+  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial. Au sein du pôle enfance-famille, le service de la protection de l'enfance compte plus de 80 agents. La maison de l'enfance de Bourail accueille des jeunes de 6 à 16 ans bénéficiant d'une mesure d'assistance éducative. Cette structure a pour objectif d'accompagner des enfants et des jeunes avec des parcours de vie difficiles faits de ruptures familiales et sociales.",
+  "disambiguatingDescription": "Travailleur Social au sein de la maison de l'enfance de Bourail sous la responsabilité du directeur de la structure.",
   "identifier": "26-0648",
   "image": null,
   "mainEntityOfPage": null,
@@ -45,8 +40,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
-    "logo": "https://avps.nc/logos/pvs.png"
+    "url": "https://www.province-sud.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -75,18 +69,19 @@
   "datePosted": "2026-05-01",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Bac+3",
+    "credentialCategory": "Bac+3 ou équivalent (Diplôme d'État)",
     "competencyRequired": [
+      "Diplôme d'État d'éducateur spécialisé (DEES) ou diplôme de conseiller en économie sociale et familiale (CESF) ou diplôme d'assistant de service social ou diplôme d'éducateur de jeunes enfants",
       "Connaissances des techniques de prévention et de gestion des conflits",
-      "Connaissances du développement de l'enfant, des approches systémiques (génogramme, médiation familiale, etc.)",
-      "Connaissances des diversités culturelles en Nouvelle-Calédonie (histoire, toponymie, etc.)"
+      "Connaissances du développement de l'enfant, des approches systémiques (génogramme, médiation familiale)",
+      "Connaissances des diversités culturelles en Nouvelle-Calédonie (histoire, toponymie)"
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
-  "employerOverview": "Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
+    "@type": "OrganizationalUnit",
     "name": "Maison de l'enfance de Bourail",
     "url": null,
     "logo": null
@@ -97,14 +92,13 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
-    "logo": "https://avps.nc/logos/pvs.png"
+    "url": "https://www.province-sud.nc"
   },
   "incentiveCompensation": null,
   "industry": "Action sociale",
   "jobBenefits": null,
   "jobDuration": null,
-  "jobImmediateStart": null,
+  "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
     "name": "Maison de l'enfance de Bourail",
@@ -114,7 +108,8 @@
       "addressLocality": "Bourail",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud"
+      "province": "province Sud",
+      "postalCode": "98870"
     }
   },
   "jobLocationType": null,
@@ -123,7 +118,7 @@
     "Action sociale"
   ],
   "physicalRequirement": null,
-  "qualifications": "Titulaire du diplôme d'État d'éducateur spécialisé (DEES) ou du diplôme de conseiller en économie sociale et familiale (CESF) (niveau 6) ou du diplôme d'assistant de service social ou du diplôme d'éducateur de jeunes enfants. Permis B indispensable.",
+  "qualifications": "Titulaire du permis B (indispensable)",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Travailleur social",
@@ -134,19 +129,19 @@
     }
   },
   "responsibilities": [
-    "Assurer le suivi des enfants confiés à l'aide sociale à l'enfance dans le cadre du placement au sein de la MDEB dans leurs différents aspects (scolarité, soins…) pour garantir leur santé physique et morale, leur épanouissement, leur développement affectif, intellectuel, etc.",
+    "Assurer le suivi des enfants confiés à l'aide sociale à l'enfance dans le cadre du placement au sein de la MDEB dans leurs différents aspects (scolarité, soins) pour garantir leur santé physique et morale, leur épanouissement, leur développement affectif, intellectuel",
     "Participer au soutien du parcours scolaire de l'enfant, en facilitant son intégration scolaire, en collaboration avec l'enseignante spécialisée de la MDEB ainsi qu'avec l'établissement scolaire de l'enfant",
-    "Élaborer et de mettre en œuvre le projet pour l'enfant avec les prises en charge adaptées aux problématiques familiales pour travailler sur un retour à terme quand cela est envisageable",
+    "Élaborer et mettre en œuvre le projet pour l'enfant avec les prises en charge adaptées aux problématiques familiales pour travailler sur un retour à terme quand cela est envisageable",
     "Procéder à l'évaluation des situations familiales dans une approche globale en prenant en compte à la fois l'intérêt de l'enfant, la place des parents et les ressources de l'environnement, notamment sur le plan coutumier ou de la famille élargie",
     "Garantir en lien avec le référent socio-éducatif des familles de la MDEB l'accompagnement des familles naturelles, de les soutenir et de les accompagner dans leurs compétences parentales, tout en favorisant le lien avec l'enfant et en proposant des prises en charge adaptées pour faire évoluer la situation",
-    "Organiser et d'encadrer les rencontres et les visites médiatisées parents/enfants",
-    "Participer à la révision des situations aux échéances prévues (audiences, synthèses, réunions partenariales…), en produisant les écrits nécessaires à destination du service et du magistrat ordonnateur de la mesure, pour l'aider à la décision",
-    "Proposer, de planifier et d'animer des activités à visée de responsabilisation et d'accès à l'autonomie",
+    "Organiser et encadrer les rencontres et les visites médiatisées parents/enfants",
+    "Participer à la révision des situations aux échéances prévues (audiences, synthèses, réunions partenariales), en produisant les écrits nécessaires à destination du service et du magistrat ordonnateur de la mesure, pour l'aider à la décision",
+    "Proposer, planifier et animer des activités à visée de responsabilisation et d'accès à l'autonomie",
     "Participer à l'encadrement des camps de vacances dans le cadre de projets collectifs",
     "Participer aux commissions de placement",
     "Travailler avec les jeunes autour de l'appropriation des règles et des normes de la vie en société",
     "Participer à garantir la sécurité des personnes comme des biens",
-    "Constituer, de développer et de pérenniser le réseau partenarial",
+    "Constituer, développer et pérenniser le réseau partenarial",
     "Contribuer à la mise en œuvre et à l'évaluation de l'accueil et à la prise en charge ainsi qu'aux réflexions autour de son évolution et à la démarche qualité",
     "Participer à l'accueil des stagiaires"
   ],
@@ -169,16 +164,17 @@
     "Autonomie et créativité",
     "Prise d'initiatives"
   ],
-  "specialCommitments": null,
+  "specialCommitments": "Horaires d'internat (soirées, week-ends et jours fériés), travail de nuit possible pour raisons de service",
   "title": "Travailleur Social au sein de la maison de l'enfance de Bourail",
   "totalJobOpenings": 1,
   "validThrough": "2026-09-25",
-  "workHours": "Temps plein à horaires d'internat (soirées, week-ends et jours fériés). Possibilité de travail de nuit.",
-  "champs_open_data": 6,
+  "workHours": "Temps plein à horaires d'internat",
+  "champs_open_data": 7,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
   "direction": "PROVINCE SUD",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Action sociale",
   "famille_source": "respnc",
   "famille_score": 1.0,
