@@ -2,16 +2,16 @@
   "additionalType": {
     "corpsDomaine": "Assistant socio-éducatif",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "Service de l'Action Sociale (SAS) du Pôle Solidarité",
+    "uniteOrganisationnelle": "Service de l'Action Sociale (SAS)",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef de service",
-    "placeOrganigramme": null,
+    "placeOrganigramme": "Placée sous l'autorité du chef de service",
     "relationsFonctionnelles": [
-      "Magistrats",
       "Service de l'aide sociale à l'enfance",
       "Service de l'action sociale",
+      "Magistrats",
       "Institutions",
-      "Services et associations œuvrant dans le domaine social et de la protection de l'enfance"
+      "Associations œuvrant dans le domaine social et de la protection de l'enfance"
     ],
     "informationsLibres": [
       {
@@ -21,24 +21,14 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Date de clôture initialement prévue",
-        "value": "25/09/2026"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Note sur la date de clôture",
-        "value": "La date de clôture initialement prévue le 25/09/2026 a été reportée."
-      },
-      {
-        "@type": "PropertyValue",
         "name": "Fiche d'emploi générique RESPNC",
         "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953804.PDF"
       }
     ]
   },
-  "alternateName": null,
-  "description": "Placée sous l'autorité du chef de service, la personne retenue accompagnera les personnes, les familles et les groupes afin de leur permettre de surmonter leurs difficultés, de tendre vers un mieux-être et de faciliter leur participation à la vie sociale. Elle sera amenée à intervenir sur un secteur d’intervention en polyvalence de secteur en effectuant un accueil tout public et à assurer un accompagnement des différents types de difficultés : financières, administratives, psychologiques et/ou éducatives dans sa mission de protection de l’enfance.",
-  "disambiguatingDescription": "Assistant(e) social(e) de secteur Pouembout-Poya au sein du CMS de POYA",
+  "alternateName": "Assistant(e) social(e) de secteur Pouembout-Poya",
+  "description": "Placée sous l'autorité du chef de service, la personne retenue accompagnera les personnes, les familles et les groupes afin de leur permettre de surmonter leurs difficultés, de tendre vers un mieux-être et de faciliter leur participation à la vie sociale. Elle sera amenée à intervenir sur un secteur d'intervention en polyvalence de secteur en effectuant un accueil tout public et à assurer un accompagnement des différents types de difficultés : financières, administratives, psychologiques et/ou éducatives dans sa mission de protection de l'enfance.",
+  "disambiguatingDescription": "Poste d'assistant social de secteur en polyvalence sur la zone Pouembout-Poya au sein de la DASSPS de la Province-Nord.",
   "identifier": "26-1326",
   "image": null,
   "mainEntityOfPage": null,
@@ -46,12 +36,12 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "https://www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": "www.province-nord.nc",
+  "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": null,
@@ -64,28 +54,28 @@
   "datePosted": "2026-09-04",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'Etat d'assistant de service social",
+    "credentialCategory": "Diplôme d'Etat d'assistant de service social (obligatoire)",
     "competencyRequired": [
-      "Diplôme d'Etat d'assistant de service social (obligatoire)",
+      "Diplôme d'Etat d'assistant de service social",
       "Connaissance des réalités locales"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "Par délibération n° 68/89 du 29 décembre 1989, l’Assemblée de la province Nord a créé la Direction Provinciale des Affaires Sanitaires et Sociales de la Province Nord. Depuis le 1er mars 2023, par délibération n° 2023-03/APN du 27 janvier 2023, cette direction est dénommée, Direction des Affaires Sanitaires et Sociale, de la Prévention et de la Solidarité (DASSPS). Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles. Le Service de l’Action Sociale (SAS) du Pôle Solidarité compte 14 agents (1 chef de service, 13 assistantes sociales).",
+  "employerOverview": "La Direction Provinciale des Affaires Sanitaires et Sociales de la Province Nord, dénommée Direction des Affaires Sanitaires et Sociale, de la Prévention et de la Solidarité (DASSPS), comprend une direction, des services centraux et décentralisés regroupés en quatre pôles. Le Service de l'Action Sociale (SAS) du Pôle Solidarité compte 14 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Province-Nord",
-    "url": "www.province-nord.nc",
+    "name": "Service de l'Action Sociale (SAS)",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": null,
+  "experienceInPlaceOfEducation": false,
   "experienceRequirements": "Expérience professionnelle appréciée",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
   "industry": "Action sociale",
@@ -139,18 +129,23 @@
   "sensoryRequirement": null,
   "skills": [
     "Capacité à travailler en partenariat et en réseau",
-    "Maîtrise des logiciels de bureautique (Excel, Outlook et Word)",
+    "Maîtrise des logiciels de bureautique Excel Outlook et Word",
     "Rigueur professionnelle",
     "Sens de l'éthique et de la déontologie",
-    "Esprit d'initiative, autonomie et grande réactivité face à l'urgence",
-    "Goût des relations humaines, esprit d'équipe et disponibilité",
-    "Capacité de remise en question et capacité à reconnaître ses erreurs",
+    "Esprit d'initiative",
+    "Autonomie",
+    "Grande réactivité face à l'urgence",
+    "Goût des relations humaines",
+    "Esprit d'équipe",
+    "Disponibilité",
+    "Capacité de remise en question",
+    "Capacité à reconnaître ses erreurs",
     "Sens de l'organisation"
   ],
   "specialCommitments": null,
   "title": "Assistant(e) social(e) de secteur Pouembout-Poya",
   "totalJobOpenings": 1,
-  "validThrough": "2026-09-25",
+  "validThrough": "2026-10-16",
   "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
