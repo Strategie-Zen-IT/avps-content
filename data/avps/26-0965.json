@@ -2,17 +2,23 @@
   "additionalType": {
     "corpsDomaine": "Orthophoniste",
     "direction": "PROVINCE SUD",
-    "uniteOrganisationnelle": "Service de Prévention et Promotion de la Santé",
+    "uniteOrganisationnelle": "Service de prévention et de promotion de la santé (SPPS)",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef du service de prévention et de promotion de la santé",
-    "placeOrganigramme": "Rattaché au pôle développement et épanouissement de la personne, au sein du pôle Enfance-Famille",
+    "superieurHierarchique": "Chef du service de prévention et de promotion de la santé (SPPS)",
+    "placeOrganigramme": "Rattaché au pôle Enfance-Famille au sein de la direction de l'action sanitaire et sociale de la province Sud (DPASS)",
     "relationsFonctionnelles": [
-      "Equipes pluridisciplinaires des centres de soins provinciaux",
-      "Professionnels du champ médico-social",
-      "Professionnels de la petite enfance",
-      "Personnel enseignant"
+      "Pôle Enfance-Famille",
+      "Centres médico-sociaux (CMS)",
+      "Unités provinciales d'action sanitaire et sociale (UPASS)",
+      "Équipes pluridisciplinaires des centres de soins provinciaux",
+      "Professionnels du champ médico-social, de la petite enfance et de l'enseignement"
     ],
     "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 10 ans pour le recrutement sur titre"
+      },
       {
         "@type": "PropertyValue",
         "name": "Déplacements",
@@ -25,8 +31,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
-        "value": "Au moins égale à 10 ans pour le recrutement sur titre"
+        "name": "Compensation",
+        "value": "Récupération prévue pour les interventions réalisées en dehors des horaires de travail"
       },
       {
         "@type": "PropertyValue",
@@ -36,8 +42,8 @@
     ]
   },
   "alternateName": null,
-  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial. L'orthophoniste recruté interviendra principalement sur 2 CMS de Nouméa et du grand Nouméa dans le cadre d'un exercice alliant suivi clinique et actions collectives de prévention. Le champ d'activité concerne la rééducation des troubles du langage des enfants, des écoles maternelles et primaires, à l'exclusion du handicap.",
-  "disambiguatingDescription": "Poste d'orthophoniste au sein du Service de Prévention et Promotion de la Santé de la Province Sud, alliant suivi clinique et actions collectives de prévention.",
+  "description": "L'orthophoniste recruté(e) interviendra principalement sur 2 CMS de Nouméa et du grand Nouméa dans le cadre d'un exercice alliant suivi clinique et actions collectives de prévention. Le champ d'activité couvert concerne la rééducation des troubles du langage des enfants, des écoles maternelles et primaires, à l'exclusion du handicap dont la prise en charge relève d'une autre institution.",
+  "disambiguatingDescription": "Poste d'orthophoniste au sein du Service de Prévention et Promotion de la Santé de la DPASS, alliant suivi clinique et actions collectives de prévention.",
   "identifier": "26-0965",
   "image": null,
   "mainEntityOfPage": null,
@@ -45,8 +51,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
-    "logo": "https://avps.nc/logos/pvs.png"
+    "url": "https://www.province-sud.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -56,7 +61,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Nouvelle-Calédonie",
+    "name": "Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -82,27 +87,26 @@
       "Connaissances en prévention et en promotion de la santé (charte d'Ottawa)"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 10 ans",
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.",
+  "eligibilityToWorkRequirement": "Durée de résidence au moins égale à 10 ans pour le recrutement sur titre",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés. Ses services contribuent à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Service de Prévention et Promotion de la Santé",
-    "url": null,
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Non spécifié",
+  "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
-    "logo": "https://avps.nc/logos/pvs.png"
+    "url": "https://www.province-sud.nc"
   },
-  "incentiveCompensation": null,
+  "incentiveCompensation": "Récupération prévue pour les interventions réalisées en dehors des horaires de travail",
   "industry": "Santé publique",
-  "jobBenefits": "Véhicule de service mis à disposition pour les interventions extérieures. Récupération prévue pour les interventions réalisées en dehors des horaires de travail.",
+  "jobBenefits": "Véhicule de service mis à disposition pour les interventions extérieures, outils orthophoniques et supports de prévention disponibles",
   "jobDuration": null,
   "jobImmediateStart": false,
   "jobLocation": {
@@ -159,18 +163,19 @@
     "Disponibilité",
     "Mobilité",
     "Goût pour le contact humain",
-    "Sens de la communication"
+    "Sens de la communication avec enfants, parents, enseignants et autres professionnels"
   ],
   "specialCommitments": "Déplacements hebdomadaires à prévoir",
-  "title": "Orthophoniste au Service de Prévention et Promotion de la Santé",
+  "title": "Orthophoniste au service de prévention et promotion de la santé",
   "totalJobOpenings": 2,
   "validThrough": "2026-09-25",
   "workHours": "39h hebdomadaires du lundi au vendredi 7h30-16h",
-  "champs_open_data": 8,
+  "champs_open_data": 9,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
   "direction": "PROVINCE SUD",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Santé publique soins",
   "famille_source": "respnc",
   "famille_score": 1.0,
