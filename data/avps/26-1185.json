@@ -4,14 +4,13 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": "CMS de CANALA",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins",
+    "superieurHierarchique": "Chef du Bureau de Proximité de Soins (BPS)",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Chef du Bureau de Proximité de Soins",
+      "Chef du Bureau de Proximité de Soins (BPS)",
       "Pôle Soins",
-      "Médecins",
-      "Stagiaires",
-      "Étudiants infirmiers"
+      "Étudiants infirmiers",
+      "Stagiaires"
     ],
     "informationsLibres": [
       {
@@ -41,7 +40,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "https://www.province-nord.nc"
+    "url": "www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -50,7 +49,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
+    "@type": "AreaServed",
     "name": "CMS de CANALA",
     "address": {
       "@type": "PostalAddress",
@@ -64,15 +63,15 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
-    "email": "drh-emplois@province-nord.nc"
+    "email": "m.oudare@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-08-07",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'état infirmier exigé",
+    "credentialCategory": "Diplôme d'état infirmier",
     "competencyRequired": [
-      "Diplôme d'état infirmier",
+      "Diplôme d'état infirmier exigé",
       "Expérience du travail en poste isolé",
       "Expérience des urgences"
     ]
@@ -82,17 +81,17 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "PROVINCE NORD",
-    "url": "https://www.province-nord.nc",
+    "name": "CMS de CANALA",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience du travail en poste isolé, Expérience des urgences",
+  "experienceRequirements": "Expérience du travail en poste isolé et expérience des urgences exigées.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "https://www.province-nord.nc"
+    "url": "www.province-nord.nc"
   },
   "incentiveCompensation": null,
   "industry": "Santé publique soins",
@@ -141,7 +140,8 @@
   "sensoryRequirement": null,
   "skills": [
     "Maîtrise des logiciels de bureautique (Excel et Word)",
-    "Disponibilité et rigueur",
+    "Disponibilité",
+    "Rigueur",
     "Respect de la confidentialité des informations et du secret médical",
     "Sens des responsabilités",
     "Goût des relations humaines",
@@ -149,10 +149,10 @@
     "Capacité d'écoute",
     "Goût du travail en équipe"
   ],
-  "specialCommitments": "Astreinte de nuit",
+  "specialCommitments": "Ce poste est soumis à astreinte de nuit.",
   "title": "Infirmier(e) en soins généraux à Canala",
   "totalJobOpenings": 1,
-  "validThrough": "2026-09-25",
+  "validThrough": "2026-10-16",
   "workHours": "Astreinte de nuit",
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
