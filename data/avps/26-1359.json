@@ -2,13 +2,14 @@
   "additionalType": {
     "corpsDomaine": "Infirmier en soins généraux",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": null,
+    "uniteOrganisationnelle": "Bureau de Proximité de Soins (BPS) du Pôle Soins",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef(fe) de bureau de proximité des soins",
-    "placeOrganigramme": null,
+    "superieurHierarchique": "Chef du Bureau de Proximité de Soins (BPS)",
+    "placeOrganigramme": "Placé sous l'autorité du (de la) chef(fe) de bureau de proximité des soins",
     "relationsFonctionnelles": [
-      "Médecin d'un Centre Médico-Social (CMS) ou de Téléconsultation (TLC)",
-      "Équipe pluridisciplinaire"
+      "Médecin d'un Centre Médico-Social (CMS)",
+      "Téléconsultation (TLC) de la Province Nord",
+      "Équipe pluridisciplinaire en établissement médico-social"
     ],
     "informationsLibres": [
       {
@@ -18,12 +19,12 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Cadre réglementaire",
-        "value": "LOI n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé. Décret n° 2018-629 du 18 juillet 2018 relatif à l'exercice infirmier en pratique avancée. Loi du pays n° 2023-5 du 26 mai 2023. Délibération n° 476 du 28 avril 2025 (catégorie A). Délibération n° 119/CP du 26 juin 2023. Arrêté n° 2023-2079/GNC du 9 août 2023."
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
-        "name": "Réorganisation",
+        "name": "Contexte de recrutement",
         "value": "Réorganisation interne"
       },
       {
@@ -33,9 +34,9 @@
       }
     ]
   },
-  "alternateName": null,
+  "alternateName": "IPA",
   "description": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Poste d'infirmier en pratique avancée localisé à Canala au sein de la DASSPS de la Province Nord.",
   "identifier": "26-1359",
   "image": null,
   "mainEntityOfPage": null,
@@ -52,7 +53,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
+    "@type": "Area",
     "name": "Province Nord",
     "address": {
       "@type": "PostalAddress",
@@ -66,7 +67,7 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
-    "email": "drh.emplois@province-nord.nc"
+    "email": "p.jolly@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-09-11",
@@ -75,17 +76,18 @@
     "credentialCategory": "Diplôme d'Etat d'infirmier en pratique avancée",
     "competencyRequired": [
       "Être titulaire d'un diplôme d'Etat d'infirmier en pratique avancée délivré par une université accréditée",
+      "Justifier de trois années minimales d'exercice en équivalent temps plein de la profession d'infirmier",
       "Être enregistré auprès de la DASS NC",
       "Disposer de l'autorisation de prescription auprès de la CAFAT et la DASS-PS"
     ]
   },
   "eligibilityToWorkRequirement": "au moins égale a 5 ans",
-  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles, 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
+  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité (DASSPS) de la Province Nord comprend 249 agents répartis en 4 pôles, 8 services et 14 bureaux.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Bureau de Proximité de Soins (BPS) du Pôle Soins",
-    "url": null,
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
     "logo": null
   },
   "estimatedSalary": null,
@@ -100,10 +102,10 @@
   "industry": "Santé",
   "jobBenefits": null,
   "jobDuration": null,
-  "jobImmediateStart": false,
+  "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Centre Médico-Social (CMS) ou de Téléconsultation (TLC)",
+    "name": "Centre Médico-Social de Canala",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -120,20 +122,19 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis B",
+  "qualifications": "Être titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Infirmier",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Soins d'infirmier généraliste"
+      "name": "Soins d'infirmiers généralistes"
     }
   },
   "responsibilities": [
-    "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
     "Prise en charge et suivi des patients atteints de pathologies chroniques selon le domaine d'intervention défini et sous la coordination du médecin",
-    "Prescription de renouvellement de traitement chronique, de traitement selon les listes autorisées, de vaccins, de bilans complémentaires",
+    "Prescription de renouvellement de traitement chronique, de traitement selon les listes autorisées, de vaccins, de bilans complémentaires (BS, radiographie, ...)",
     "Rédaction de courriers médicaux et comptes rendus",
     "Éducation du patient dans sa prise en charge du suivi ou de la personne de confiance",
     "Coordination de soins, orientation",
@@ -151,13 +152,9 @@
     "Capacités de coordination",
     "Autonomie et sens des responsabilités",
     "Adaptation",
-    "Dynamisme",
-    "Disponibilité",
-    "Esprit d'équipe",
-    "Esprit d'initiative",
-    "Esprit de négociation",
-    "Sens des relations humaines",
-    "Communication"
+    "Dynamisme, disponibilité",
+    "Esprit d'équipe, d'initiative et de négociation",
+    "Sens des relations humaines et communication"
   ],
   "specialCommitments": "Poste soumis à astreintes",
   "title": "Infirmier en pratique avancée - Canala",
