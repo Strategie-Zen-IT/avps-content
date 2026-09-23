@@ -6,17 +6,21 @@
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chargé de mission auprès du secrétariat général",
     "placeOrganigramme": null,
-    "relationsFonctionnelles": [],
+    "relationsFonctionnelles": [
+      "Secrétariat général",
+      "Brigade de surveillance provinciale",
+      "Autorités et services compétents"
+    ],
     "informationsLibres": [
-      {
-        "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": null
-      },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
         "value": "Horaires flexibles : Possibilité de travailler à différents moments de la journée et de la nuit. Travail en extérieur : Évoluer dans un environnement varié, loin d'un bureau traditionnel. Bonne condition physique et capacité à travailler en horaires décalés."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
       },
       {
         "@type": "PropertyValue",
@@ -26,8 +30,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La province Sud a connu de violentes exactions qui ont impacté de nombreux bâtiments publics dont plusieurs relèvent de la province Sud. De plus, la province Sud est compétente en matière de développement économique et veille à permettre la reprise économique suite à ces mêmes exactions. Jouant un rôle crucial dans la détection des risques et la prévention des incidents, l'agent de gardiennage et de surveillance, rattaché au secrétariat général de la province Sud, et au sein de la brigade de surveillance provinciale, est chargé de la vigilance et de la protection des espaces publics ou des installations notamment celles provinciales ou des zones d'activités. Il effectue sa mission principalement par des observations systématiques et des interventions proactives. Ses tâches relèvent de la surveillance, du contrôle d'accès, de la vérification de la bonne tenue des équipements notamment provinciaux en matière de sécurité active et passive et de l'assistance aux usagers en cas de besoin.",
-  "disambiguatingDescription": null,
+  "description": "Jouant un rôle crucial dans la détection des risques et la prévention des incidents, l'agent de gardiennage et de surveillance, rattaché au secrétariat général de la province Sud, et au sein de la brigade de surveillance provinciale, est chargé de la vigilance et de la protection des espaces publics ou des installations notamment celles provinciales ou des zones d'activités. Il effectue sa mission principalement par des observations systématiques et des interventions proactives. Ses tâches relèvent de la surveillance, du contrôle d'accès, de la vérification de la bonne tenue des équipements notamment provinciaux en matière de sécurité active et passive et de l'assistance aux usagers en cas de besoin.",
+  "disambiguatingDescription": "Agent de gardiennage et de surveillance - veilleur de nuit",
   "identifier": "26-1305",
   "image": null,
   "mainEntityOfPage": null,
@@ -55,12 +59,13 @@
   "educationRequirements": {
     "credentialCategory": "Certificat de formation en sécurité ou qualification similaire recommandé",
     "competencyRequired": [
+      "Certificat de formation en sécurité ou qualification similaire recommandé",
       "Formation aux gestes de premiers secours et aux techniques de prévention des risques souhaitée",
-      "Avoir des notions en self-défense serait un avantage"
+      "Notions en self-défense"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": null,
+  "employerOverview": "La province Sud a connu de violentes exactions qui ont impacté de nombreux bâtiments publics dont plusieurs relèvent de la province Sud. De plus, la province Sud est compétente en matière de développement économique et veille à permettre la reprise économique suite à ces mêmes exactions.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -77,13 +82,13 @@
     "url": "https://www.province-sud.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Service public",
+  "industry": "Prévention et sécurité",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Secrétariat Général",
+    "name": "Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -139,7 +144,7 @@
   "specialCommitments": "Astreintes et horaires décalés (journée et nuit)",
   "title": "Agent de gardiennage et de surveillance",
   "totalJobOpenings": 4,
-  "validThrough": "2026-09-25",
+  "validThrough": "2026-10-09",
   "workHours": "Horaires flexibles (jour et nuit)",
   "champs_open_data": 9,
   "employeur_sigle": "PVS",
