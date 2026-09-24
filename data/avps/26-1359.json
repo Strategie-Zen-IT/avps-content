@@ -2,14 +2,15 @@
   "additionalType": {
     "corpsDomaine": "Infirmier en soins généraux",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "Bureau de Proximité de Soins (BPS) du Pôle Soins",
+    "uniteOrganisationnelle": "Bureau de Proximité de Soins",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef du Bureau de Proximité de Soins (BPS)",
-    "placeOrganigramme": "Placé sous l'autorité du (de la) chef(fe) de bureau de proximité des soins",
+    "superieurHierarchique": "Chef de bureau de proximité des soins",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Médecin d'un Centre Médico-Social (CMS)",
-      "Téléconsultation (TLC) de la Province Nord",
-      "Équipe pluridisciplinaire en établissement médico-social"
+      "Médecin d'un Centre Médico-Social",
+      "Équipe pluridisciplinaire en établissement médico-social",
+      "DASS NC",
+      "CAFAT"
     ],
     "informationsLibres": [
       {
@@ -19,13 +20,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Au moins égale à 5 ans"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Contexte de recrutement",
-        "value": "Réorganisation interne"
+        "name": "Textes réglementaires applicables",
+        "value": "LOI n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé. Décret n° 2018-629 du 18 juillet 2018 relatif à l'exercice infirmier en pratique avancée. Loi du pays n° 2023-5 du 26 mai 2023. Délibération n° 476 du 28 avril 2025. Délibération n° 119/CP du 26 juin 2023. Arrêté n° 2023-2079/GNC du 9 août 2023."
       },
       {
         "@type": "PropertyValue",
@@ -36,7 +32,7 @@
   },
   "alternateName": "IPA",
   "description": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
-  "disambiguatingDescription": "Poste d'infirmier en pratique avancée localisé à Canala au sein de la DASSPS de la Province Nord.",
+  "disambiguatingDescription": "Recrutement d'un infirmier en pratique avancée à Canala pour la Direction des affaires sanitaires et sociales, de la prévention et de la solidarité de la Province Nord.",
   "identifier": "26-1359",
   "image": null,
   "mainEntityOfPage": null,
@@ -53,7 +49,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Area",
+    "@type": "Place",
     "name": "Province Nord",
     "address": {
       "@type": "PostalAddress",
@@ -67,7 +63,7 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
-    "email": "p.jolly@province-nord.nc"
+    "email": "drh.emplois@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-09-11",
@@ -82,12 +78,12 @@
     ]
   },
   "eligibilityToWorkRequirement": "au moins égale a 5 ans",
-  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité (DASSPS) de la Province Nord comprend 249 agents répartis en 4 pôles, 8 services et 14 bureaux.",
+  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Province Nord",
-    "url": "https://www.province-nord.nc",
+    "name": "Bureau de Proximité de Soins",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
@@ -99,7 +95,7 @@
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique soins",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -122,14 +118,14 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Être titulaire du permis B",
+  "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Infirmier",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Soins d'infirmiers généralistes"
+      "name": "Soins d'infirmier généraliste"
     }
   },
   "responsibilities": [
@@ -152,15 +148,19 @@
     "Capacités de coordination",
     "Autonomie et sens des responsabilités",
     "Adaptation",
-    "Dynamisme, disponibilité",
-    "Esprit d'équipe, d'initiative et de négociation",
-    "Sens des relations humaines et communication"
+    "Dynamisme",
+    "Disponibilité",
+    "Esprit d'équipe",
+    "Esprit d'initiative",
+    "Esprit de négociation",
+    "Sens des relations humaines",
+    "Communication"
   ],
   "specialCommitments": "Poste soumis à astreintes",
   "title": "Infirmier en pratique avancée - Canala",
   "totalJobOpenings": 5,
   "validThrough": "2026-10-02",
-  "workHours": null,
+  "workHours": "Astreintes",
   "champs_open_data": 9,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
