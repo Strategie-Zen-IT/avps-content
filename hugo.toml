@@ -56,7 +56,12 @@ enableGitInfo = true
   ordersectionsby = "title"
   collapsibleMenu = true
   disableShortcutsTitle = true
-  images = ["/assets/logo-avps.svg"]
+  # ⚠️ Paramètre INERTE ici : la vignette de partage est produite par
+  # `layouts/partials/avp-og-image.html`, que `opengraph.html` et `twitter_cards.html`
+  # appellent à la place du gabarit interne de Hugo. On garde la clé renseignée et
+  # valide — elle pointait vers un SVG désormais supprimé — sans en faire une seconde
+  # source de vérité.
+  images = ["/assets/logo-avps.png"]
 
   # Suffixe court des <title> : « Educateur spécialisé : avps.nc » au lieu du titre complet
   # du site, qui à lui seul fait 48 caractères et poussait 684 pages au-delà des 60

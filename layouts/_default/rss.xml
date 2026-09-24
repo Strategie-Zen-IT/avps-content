@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} sur {{ end }}{{ .Site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
@@ -7,7 +7,7 @@
     <language>{{ site.Language.Locale }}</language>
     
     <image>
-      <url>{{ "assets/logo-avps.svg" | absURL }}</url>
+      <url>{{ "assets/logo-avps.png" | absURL }}</url>
       <title>{{ .Site.Title }}</title>
       <link>{{ .Permalink }}</link>
     </image>
@@ -42,10 +42,97 @@
              lecteurs RSS 2.0 l'ignorent. Elle documente la révision pour ceux qui la
              lisent ; elle ne provoque PAS de nouvelle notification chez les autres.
              Le vrai gain de fraîcheur passe par le <lastmod> du sitemap. */}}
+        {{/* 🗂️ `category` est le SEUL champ de classement que prévoie RSS 2.0. On y
+             verse les taxonomies du site — famille, commune, province, employeur — ce
+             qui permet de filtrer sans analyser le texte. */}}
+        {{- range .Params.familles }}
+        <category>{{ . }}</category>
+        {{- end }}
+        {{- range .Params.communes }}
+        <category>{{ . }}</category>
+        {{- end }}
+        {{- range .Params.provinces }}
+        <category>{{ . }}</category>
+        {{- end }}
+        {{- range .Params.collectivites }}
+        <category>{{ . }}</category>
+        {{- end }}
         {{ if .Lastmod.After .Date }}
         <atom:updated>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</atom:updated>
         {{ end }}
         <description>{{ or .Description .Summary | html }}</description>
+
+        {{/* 📄 FLUX COMPLET : l'offre ENTIÈRE, pas seulement son résumé.
+
+             Jusqu'au 24/09/2026 un item ne portait que `description`, soit 425 signes
+             en médiane : un lecteur de flux ou un agrégateur devait ouvrir le site pour
+             savoir de quoi parlait l'offre. Une offre d'emploi se lit ou ne se lit pas ;
+             la tronquer n'a d'intérêt que pour forcer la visite, ce qui n'est pas le but
+             d'un service d'intérêt public.
+
+             On part de `RawContent` (le Markdown source) et NON de `.Content` : ce
+             dernier contient le rendu du shortcode `avp-header`, c'est-à-dire la
+             bannière interactive, le bouton de candidature, le QR et leur JavaScript.
+             Rien de tout cela ne fonctionne dans un lecteur de flux, et beaucoup le
+             retireraient de toute façon. On retire donc les shortcodes du source, puis
+             on rend le Markdown restant — la description, l'organisation, les missions,
+             le profil et les modalités de candidature.
+
+             Les liens du corps sont tous absolus (https, mailto, tel), vérifié : rien à
+             réécrire pour qu'ils fonctionnent hors du site. */}}
+        {{- $corps := .RawContent | replaceRE `\{\{[<%][\s\S]*?[>%]\}\}` "" | markdownify }}
+        {{/* `markdownify` applique les crochets de rendu du thème, qui greffent dans
+             chaque titre un bouton « copier le lien » : un <button> et une icône Font
+             Awesome, neuf fois par offre. Dans un lecteur de flux, ce bouton ne fait
+             rien, et l'icône s'affiche en carré vide faute de la police. On les retire.
+             Le bloc ne contient pas de <span> imbriqué, la coupe au premier `</span>`
+             est donc exacte. */}}
+        {{- $corps = $corps | replaceRE `<span class="btn cstyle anchor[^>]*>[\s\S]*?</span>` "" }}
+        {{/* ⚠️ Dans ce gabarit, `$` est la page d'ACCUEIL et non l'offre en cours : le
+             flux est une sortie du site, pas de la fiche. `$.Title` donnait donc le titre
+             du site en texte alternatif sur toutes les bannières. */}}
+        {{- $titre := .Title }}
+        {{- $illustration := "" }}
+        {{- with .Params.featured_image }}
+          {{- $illustration = printf "<p><img src=%q alt=%q /></p>" (. | absURL) $titre }}
+        {{- end }}
+        {{/* 🏷️ Les faits saillants, EN TÊTE du contenu.
+
+             Ils vivent normalement dans le shortcode `avp-header`, retiré ci-dessus
+             avec le reste de l'interactif. Sans ce bloc, un lecteur de flux recevait la
+             description du poste sans jamais voir QUI recrute, OÙ, ni JUSQU'À QUAND —
+             c'est-à-dire ce qu'on regarde en premier sur une offre.
+
+             RSS n'a de champ ni pour une date de clôture ni pour un employeur : le seul
+             endroit où ces informations peuvent voyager est le contenu lui-même. Les
+             agrégateurs qui veulent du structuré lisent `/flux_ats.xml`, qui existe pour
+             eux ; ce flux-ci s'adresse à des humains. */}}
+        {{- $faits := slice }}
+        {{- with .Params.collectivite }}{{ $faits = $faits | append (printf "<li><strong>Employeur :</strong> %s</li>" .) }}{{ end }}
+        {{/* La direction ne vaut d'être citée que si elle DIFFÈRE de la collectivité :
+             la source la renseigne souvent à l'identique, et en capitales. */}}
+        {{- $coll := .Params.collectivite | default "" }}
+        {{- with .Params.direction }}{{ if ne (lower .) (lower $coll) }}{{ $faits = $faits | append (printf "<li><strong>Direction :</strong> %s</li>" .) }}{{ end }}{{ end }}
+        {{- with .Params.ville }}{{ $faits = $faits | append (printf "<li><strong>Lieu de travail :</strong> %s</li>" .) }}{{ end }}
+        {{- with .Params.corps_grade }}{{ if ne . "Non spécifié" }}{{ $faits = $faits | append (printf "<li><strong>Corps ou grade :</strong> %s</li>" .) }}{{ end }}{{ end }}
+        {{/* `familles` (la taxonomie du site) et non `famille` (le métier de référence
+             RESPNC) : c'est `familles` qui s'affiche sur la fiche, et le flux doit dire
+             la même chose que la page. Les deux diffèrent réellement — « Santé publique
+             soins » d'un côté, « Politique de santé publique » de l'autre. */}}
+        {{- with .Params.familles }}{{ $faits = $faits | append (printf "<li><strong>Famille de métier :</strong> %s</li>" (delimit . ", ")) }}{{ end }}
+        {{/* En clair, pas en ISO : le flux se lit tel quel dans un agrégateur. */}}
+        {{- with .Params.date_cloture }}
+          {{- $cloture := . }}
+          {{- if findRE `^\d{4}-\d{2}-\d{2}$` (printf "%v" .) }}{{ $cloture = (time.AsTime .).Format "02/01/2006" }}{{ end }}
+          {{- $faits = $faits | append (printf "<li><strong>Candidatures jusqu'au :</strong> %s</li>" $cloture) }}
+        {{- end }}
+        {{- with .Params.ref }}{{ $faits = $faits | append (printf "<li><strong>Référence :</strong> %s</li>" .) }}{{ end }}
+        {{- with .Params.url_pdf }}{{ $faits = $faits | append (printf "<li><a href=%q>Avis officiel au format PDF</a></li>" .) }}{{ end }}
+        {{- $entete := "" }}
+        {{- if $faits }}{{ $entete = printf "<ul>%s</ul>" (delimit $faits "") }}{{ end }}
+        {{- $complet := printf "%s%s%s" $illustration $entete $corps }}
+        {{/* `]]>` fermerait la section CDATA au milieu du contenu et casserait le XML. */}}
+        <content:encoded>{{ printf "<![CDATA[%s]]>" (replace $complet "]]>" "]]&gt;") | safeHTML }}</content:encoded>
         
         {{/* 🎯 INJECTION DE L'ILLUSTRATION NANO BANANA DE L'AVP */}}
         {{ with .Params.featured_image }}

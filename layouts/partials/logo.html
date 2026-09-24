@@ -1,6 +1,11 @@
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%; padding-right: 10px;">
   <a href="{{ "/" | relLangURL }}" style="display: flex; align-items: center; text-decoration: none;">
-    <img src="{{ "assets/logo-avps.svg" | relURL }}" alt="avps.nc" style="height: 40px; margin-top: 5px;">
+    {{/* Le fichier est choisi par la VARIANTE de thème (--LOGO-url, défini dans
+         assets/css/theme-avps-{light,dark}.css) et non ici : le logotype bleu marine
+         est illisible sur le fond presque noir du menu en variante sombre, et le
+         sélecteur de variante du thème ne suit pas `prefers-color-scheme`.
+         `role`/`aria-label` remplacent le `alt` que porterait un <img>. */}}
+    <span role="img" aria-label="avps.nc" style="display: block; height: 40px; width: 199px; margin-top: 5px; background: var(--LOGO-url, url('{{ "assets/logo-avps.png" | relURL }}')) left center / contain no-repeat;"></span>
   </a>
   
   <a href="{{ "index.xml" | relURL }}" title="S'abonner au flux RSS" style="color: var(--ACCENT-color, #D9A441); font-size: 1.3rem; transition: transform 0.2s;" target="_blank" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">

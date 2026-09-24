@@ -1,4 +1,7 @@
 :root {
+  /* Bloc-marque du menu : logotype crème, sur le fond sombre du menu. Les deux fichiers sont
+     produits par avps-app/scripts/generer_icones.py. */
+  --LOGO-url: url("../assets/logo-avps-dark.png");
   /* avps-dark — pendant sombre de avps-light (voir ce fichier pour les intentions). */
   --PRIMARY-color: rgba( 61, 178, 146, 1 );
   --PRIMARY-HOVER-color: rgba( 122, 212, 186, 1 );

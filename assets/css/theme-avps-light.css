@@ -1,4 +1,7 @@
 :root {
+  /* Bloc-marque du menu : logotype bleu marine, sur fond clair. Les deux fichiers sont
+     produits par avps-app/scripts/generer_icones.py. */
+  --LOGO-url: url("../assets/logo-avps.png");
   /* avps-light — variante Relearn propre à avps.nc.
      Palette « lagon » : vert profond + or, sur fonds sable. Volontairement éloignée des
      chartes des collectivités agrégées (bleu/orange, bleu/rouge) pour qu'aucune ne
