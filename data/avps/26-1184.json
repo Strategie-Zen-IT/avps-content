@@ -7,11 +7,11 @@
     "superieurHierarchique": "Chef(fe) de Bureau Dentaire",
     "placeOrganigramme": "Placée sous l'autorité du (de la) chef(fe) de Bureau Dentaire, et du (de la) directeur(-trice) adjoint(e) en charge du Pôle Soins",
     "relationsFonctionnelles": [
-      "Équipes des CMS",
-      "Partenaires médicaux",
-      "Partenaires sociaux",
-      "Partenaires associatifs",
-      "Partenaires scolaires",
+      "Equipes des CMS",
+      "Spécialistes et partenaires médicaux",
+      "Spécialistes et partenaires sociaux",
+      "Spécialistes et partenaires associatifs",
+      "Spécialistes et partenaires scolaires",
       "Agence sanitaire et sociale"
     ],
     "informationsLibres": [
@@ -22,17 +22,12 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Poste à pourvoir",
-        "value": "immédiatement"
-      },
-      {
-        "@type": "PropertyValue",
         "name": "Effectif de la direction",
-        "value": "La DASSP compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre (4) pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux."
+        "value": "La DASSP compte 249 agents"
       },
       {
         "@type": "PropertyValue",
-        "name": "Effectif de l'unité",
+        "name": "Effectif du bureau",
         "value": "Le Bureau dentaire compte 20 agents (1 chef de Bureau dentaire, 10 chirurgiens-dentistes, 9 assistants(es) dentaires)"
       },
       {
@@ -57,7 +52,7 @@
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": null,
+  "url": "www.province-nord.nc",
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": null,
@@ -73,21 +68,23 @@
     "credentialCategory": "Diplôme d'Etat de chirurgien-dentiste ou de docteur en chirurgie-dentaire",
     "competencyRequired": [
       "Diplôme d'Etat de chirurgien-dentiste ou de docteur en chirurgie-dentaire",
-      "Permis de conduire B"
+      "Permis de conduire B",
+      "Expérience professionnelle en outre-mer appréciée",
+      "Expérience professionnelle d'au moins un an en matière de santé publique et de prévention appréciée"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La DASSP compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux.",
+  "employerOverview": "La DASSP comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Province Nord",
-    "url": "www.province-nord.nc",
+    "name": "CMS de TOUHO",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Une expérience professionnelle en outre-mer serait appréciée. Une expérience professionnelle d'au moins un an en matière de santé publique et de prévention serait appréciée.",
+  "experienceRequirements": "Expérience professionnelle d'au moins un an en matière de santé publique et de prévention appréciée. Expérience en outre-mer appréciée.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
@@ -112,10 +109,9 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
-    "Santé publique soins",
-    "Politique de santé publique"
+    "Santé publique soins"
   ],
   "physicalRequirement": null,
   "qualifications": "Permis B",
@@ -125,21 +121,21 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Chirurgie dentaire"
+      "name": "Médecine de prévention"
     }
   },
   "responsibilities": [
     "Réalisation des soins conservateurs et restaurateurs, extractions dentaires, acte de petite chirurgie et de parodontie, prothèse adjointe et conjointe",
     "Gestion et le suivi des soins aux publics cible (RAA/CRC, diabétique, etc...)",
-    "Participation aux actions de dépistage et de prévention propres à la province Nord ou en partenariat avec d'autres organismes (agence sanitaire et sociale...)",
+    "Participation aux actions de dépistage et de prévention propres à la province Nord ou en partenariat avec d'autres organismes",
     "Entretien, le nettoyage et la désinfection du mobilier et de l'équipement professionnels",
     "Désinfection des instruments et leur stérilisation en autoclave",
     "Supervision de l'activité de l'assistant(e) dentaire",
-    "Restitution de bilans d'activité et de tableaux de soins aux publics cible (RAA/CRC, diabétiques, etc...) sur demande de la direction",
+    "Restitution de bilans d'activité et de tableaux de soins aux publics cible sur demande de la direction",
     "Enregistrement, la codification (selon la CIM 10) et la cotation des actes sur le logiciel de la province Nord",
     "Information des patients en matière d'hygiène bucco-dentaire et alimentaire et leur motivation aux gestes d'hygiène",
-    "Intervention sur site lors de certaines manifestations ou journées à thème (journées provinciales du diabète, journées d'informations en lien avec la santé bucco-dentaire, etc...)",
-    "Éventuelles interventions de prévention ou d'information dans les écoles, collèges, lycées de proximité",
+    "Intervention sur site lors de certaines manifestations ou journées à thème",
+    "Interventions de prévention ou d'information dans les écoles, collèges, lycées de proximité",
     "Réalisation des EAE de l'assistant(e) dentaire"
   ],
   "salaryCurrency": null,
