@@ -4,14 +4,13 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": "Bureau dentaire-Centres médico sociaux",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef de Bureau Dentaire",
-    "placeOrganigramme": null,
+    "superieurHierarchique": "Chef(fe) de Bureau Dentaire",
+    "placeOrganigramme": "Placée sous l'autorité du (de la) chef(fe) de Bureau Dentaire, et du (de la) directeur(-trice) adjoint(e) en charge du Pôle Soins",
     "relationsFonctionnelles": [
       "Service des Métiers de Soins",
       "Pôle Soins",
-      "Centres médico-sociaux",
-      "Équipes des CMS",
-      "Partenaires médicaux, sociaux, associatifs, scolaires"
+      "Equipes des CMS",
+      "Spécialistes et partenaires (médicaux, sociaux, associatifs, scolaires)"
     ],
     "informationsLibres": [
       {
@@ -36,7 +35,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "http://www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -44,7 +43,18 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "CMS de Ponérihouen",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Ponérihouen",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.72.30",
@@ -57,25 +67,27 @@
     "credentialCategory": "Diplôme d'Etat de chirurgien-dentiste ou de docteur en chirurgie-dentaire",
     "competencyRequired": [
       "Diplôme d'Etat de chirurgien-dentiste ou de docteur en chirurgie-dentaire",
-      "Permis de conduire B"
+      "Permis de conduire B",
+      "Expérience professionnelle en outre-mer appréciée",
+      "Expérience professionnelle d'au moins un an en matière de santé publique et de prévention appréciée"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La DASSPS compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux.",
+  "employerOverview": "La DASSP compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
     "name": "Province Nord",
-    "url": "www.province-nord.nc",
+    "url": "http://www.province-nord.nc",
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Une expérience professionnelle en outre-mer serait appréciée. Une expérience professionnelle d'au moins un an en matière de santé publique et de prévention serait appréciée.",
+  "experienceRequirements": "Expérience professionnelle d'au moins un an en matière de santé publique et de prévention appréciée. Expérience en outre-mer appréciée.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "http://www.province-nord.nc"
   },
   "incentiveCompensation": null,
   "industry": "Santé",
@@ -96,7 +108,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Santé publique soins"
   ],
@@ -108,16 +120,16 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Médecine dentaire"
+      "name": "Chirurgie dentaire"
     }
   },
   "responsibilities": [
     "Réalisation des soins conservateurs et restaurateurs, extractions dentaires, acte de petite chirurgie et de parodontie, prothèse adjointe et conjointe",
-    "Gestion et le suivi des soins aux publics cible (RAA/CRC, diabétique, etc.)",
+    "Gestion et le suivi des soins aux publics cible (RAA/CRC, diabétique, etc...)",
     "Participation aux actions de dépistage et de prévention propres à la province Nord ou en partenariat avec d'autres organismes",
     "Entretien, le nettoyage et la désinfection du mobilier et de l'équipement professionnels",
     "Désinfection des instruments et leur stérilisation en autoclave",
-    "Supervision de l'activité de l'assistant(e) dentaire",
+    "Supervision de l'activité de l'assistant(te) dentaire",
     "Restitution de bilans d'activité et de tableaux de soins aux publics cible sur demande de la direction",
     "Enregistrement, la codification (selon la CIM 10) et la cotation des actes sur le logiciel de la province Nord",
     "Information des patients en matière d'hygiène bucco-dentaire et alimentaire et leur motivation aux gestes d'hygiène",
