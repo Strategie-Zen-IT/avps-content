@@ -4,19 +4,24 @@
     "direction": "DIRECTION DU BUDGET ET DES AFFAIRES FINANCIERES",
     "uniteOrganisationnelle": "Service du pilotage budgétaire et de la stratégie financière",
     "nbAgentsEncadres": 8,
-    "superieurHierarchique": "Directeur de la DBAF",
-    "placeOrganigramme": "Sous l'autorité du directeur de la DBAF et de son adjointe",
+    "superieurHierarchique": "Directeur de la DBAF et de son adjointe",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Directions de la collectivité",
+      "Partenaires bancaires et financiers",
       "Établissements publics",
-      "Collectivités locales",
-      "Partenaires bancaires et financiers"
+      "Collectivités locales"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
         "value": "Pics d'activité lors des étapes budgétaires."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Oui"
       },
       {
         "@type": "PropertyValue",
@@ -57,7 +62,7 @@
   },
   "alternateName": null,
   "description": "Le service du pilotage budgétaire et de la stratégie financière est chargé :\n\n- de la préparation du débat d'orientation budgétaire et des documents budgétaires ; \n- de l'élaboration et du pilotage des budgets ; \n- de la définition de la stratégie financière et de l'analyse des risques ; \n- du suivi de la dette, de la trésorerie et des garanties d'emprunt ; \n\nIl comprend deux sections :\n\n1. La section Stratégie financière et analyse des risques, chargée de :\n- l'élaboration du rapport sur le débat budgétaire \n- des études financières prospectives et rétrospectives ;\n- de la gestion de la dette, de la trésorerie et des garanties d'emprunt.\n\n2. La section du Pilotage budgétaire, chargée de :\n- l'élaboration des rapports associés aux étapes budgétaire ;\n- du pilotage des crédits budgétaires en lien avec les directions ;\n- la gestion du cadre comptable, de l'élaboration et l'analyse des écarts des situations d'exécution.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Poste de chef du service du pilotage budgétaire et de la stratégie financière au sein de la DBAF de la Nouvelle-Calédonie.",
   "identifier": "26-65832/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -115,7 +120,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Direction du budget et des affaires financières (DBAF)",
+    "name": "Direction du budget et des affaires financières",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "17 avenue Paul Doumer",
@@ -125,7 +130,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "immédiatement",
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Finances et budget"
   ],
@@ -187,7 +192,7 @@
   "title": "Chef du service du pilotage budgétaire et de la stratégie financière",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-09",
-  "workHours": "Temps plein",
+  "workHours": "Grande disponibilité en période budgétaire",
   "champs_open_data": 29,
   "employeur_sigle": "DBAF",
   "collectivite": "Nouvelle-Calédonie",
