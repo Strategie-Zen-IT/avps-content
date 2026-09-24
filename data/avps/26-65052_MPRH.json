@@ -72,8 +72,8 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "Nouméa",
+    "@type": "Schedule",
+    "name": "Nouvelle-Calédonie",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -92,7 +92,7 @@
   "datePosted": "2026-08-28",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Master 2",
+    "credentialCategory": "Bac+5",
     "competencyRequired": [
       "Les compétences suivies de (*) pourront être acquises à la suite de la prise de poste via un accompagnement et des formations dispensées au sein de la collectivité.",
       "Master 2 exigé pour le recrutement sur titre s'agissant d'un métier identifié comme pénurique",
@@ -113,14 +113,14 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": null,
+  "experienceRequirements": "Master 2 exigé pour le recrutement sur titre s'agissant d'un métier identifié comme pénurique",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": null,
+  "jobBenefits": "Informations salaire disponibles sur le site de la DRHFPNC",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -164,7 +164,7 @@
     "Réaliser des audits éventuels sur les établissements publics",
     "Participer à la mise en place d'un contrôle de gestion au sein du service et au sein des établissements."
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
