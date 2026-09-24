@@ -4,13 +4,12 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": "CMS de POUEBO",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins",
+    "superieurHierarchique": "Chef de bureau de proximité des soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Chef du Bureau de Proximité de Soins",
       "Pôle Soins",
-      "Étudiants infirmiers",
-      "Stagiaires"
+      "DASSPS"
     ],
     "informationsLibres": [
       {
@@ -69,7 +68,7 @@
   "datePosted": "2026-08-07",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'état infirmier exigé",
+    "credentialCategory": "Diplôme d'état infirmier",
     "competencyRequired": [
       "Diplôme d'état infirmier exigé",
       "Expérience du travail en poste isolé",
@@ -81,9 +80,9 @@
   "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
-    "name": "CMS de POUEBO",
-    "url": null,
+    "@type": "OrganizationalUnit",
+    "name": "PROVINCE NORD",
+    "url": "https://www.province-nord.nc",
     "logo": null
   },
   "estimatedSalary": null,
@@ -95,7 +94,7 @@
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique soins",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -113,7 +112,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Dès que possible",
+  "jobStartDate": "dès que possible",
   "occupationalCategory": [
     "Santé publique soins"
   ],
@@ -125,14 +124,14 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Infirmier / Infirmière en soins généraux"
+      "name": "Infirmier en soins généraux"
     }
   },
   "responsibilities": [
     "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
-    "Prendre en charge les actes curatifs (consultations, urgences, soins)",
-    "Prendre en charge les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
-    "Prendre en charge les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
+    "Réaliser les actes curatifs (consultations, urgences, soins)",
+    "Réaliser les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
+    "Réaliser les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
     "Assurer la téléconsultation (en l'absence de médecin en présentiel)",
     "Assurer l'encadrement des stagiaires, notamment les étudiants infirmiers"
   ],
