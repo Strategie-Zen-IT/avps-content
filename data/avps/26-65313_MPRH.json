@@ -5,12 +5,10 @@
     "uniteOrganisationnelle": "Service du pilotage budgétaire et de la stratégie financière",
     "nbAgentsEncadres": 7,
     "superieurHierarchique": "Chef de service du pilotage budgétaire et de la stratégie financière",
-    "placeOrganigramme": "Sous l'autorité du chef du service",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Directions de la Nouvelle-Calédonie",
       "Partenaires bancaires et financiers",
-      "Établissements publics",
-      "Collectivités locales"
+      "Directions de la collectivité"
     ],
     "informationsLibres": [
       {
@@ -57,15 +55,14 @@
   },
   "alternateName": null,
   "description": "Le service du pilotage budgétaire et de la stratégie financière est chargé :\n\n- de la préparation du débat d'orientation budgétaire et des documents budgétaires ; \n- de l'élaboration et du pilotage des budgets ; \n- de la définition de la stratégie financière et de l'analyse des risques ; \n- du suivi de la dette, de la trésorerie et des garanties d'emprunt ; \n\nIl comprend deux sections :\n\n1. La section Stratégie financière et analyse des risques, chargée de :\n- l'élaboration du rapport sur le débat d'orientation budgétaire ;\n- de l'analyse et des études financières prospectives et rétrospectives ;\n- de la gestion de la dette, de la trésorerie et des garanties d'emprunt ; \n- de la gestion et du suivi des opérations d'investissement (PPI).\n\n2. La section du Pilotage budgétaire, chargée de :\n- la participation à la production des états, des rapports associés aux étapes budgétaire ;\n- l'accompagnement des directions dans le pilotage des crédits budgétaires ;\n- la gestion de la nomenclature, du cadre comptable et de l'analyse de l'allocation budgétaire.",
-  "disambiguatingDescription": "Adjoint au chef de service du pilotage budgétaire et de la stratégie financière au sein de la Direction du budget et des affaires financières de la Nouvelle-Calédonie.",
+  "disambiguatingDescription": "Adjoint(e) au chef de service du pilotage budgétaire et de la stratégie financière au sein de la Direction du budget et des affaires financières de la Nouvelle-Calédonie.",
   "identifier": "26-65313/MPRH",
   "image": null,
   "mainEntityOfPage": null,
   "name": "Adjoint(e) au chef de service du pilotage budgétaire et de la stratégie financière",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "url": "https://gouv.nc"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -107,8 +104,7 @@
   "experienceRequirements": "Une expérience souhaitée dans un poste similaire en collectivité ou d'analyste économique et/ou financier est souhaitée.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "url": "https://gouv.nc"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
