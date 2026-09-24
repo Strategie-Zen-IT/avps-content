@@ -5,7 +5,7 @@
     "uniteOrganisationnelle": "Maison maternelle Marcelle JORDA",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Directrice de la maison maternelle Marcelle JORDA",
-    "placeOrganigramme": "Rattachée au pôle petite enfance, au sein du pôle enfance-famille, service de la protection de l'enfance",
+    "placeOrganigramme": "Rattachée au pôle petite enfance au sein de la maison maternelle",
     "relationsFonctionnelles": [
       "Éducateur de jeunes enfants (EJE)",
       "Assistante maternelle",
@@ -25,19 +25,14 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Poste à pourvoir",
-        "value": "Susceptible d'être vacant"
-      },
-      {
-        "@type": "PropertyValue",
         "name": "Fiche d'emploi générique RESPNC",
         "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952032.PDF"
       }
     ]
   },
   "alternateName": null,
-  "description": "L'auxiliaire de puériculture complète, par son savoir-faire médico-social spécifique, les missions de l'éducateur de jeunes enfants (EJE) et de l'assistante maternelle. Elle est la référente des prises en charge santé des enfants accueillis et apporte son expertise dans l'accompagnement des mères aux soins, à l'hygiène et à la prévention. Elle exerce ses missions sous l'autorité de la directrice et en étroite collaboration avec l'équipe pluridisciplinaire au sein de la maison maternelle Marcelle JORDA.",
-  "disambiguatingDescription": "Poste d'auxiliaire de puériculture en horaires d'internat à la Maison maternelle Marcelle JORDA à Boulari.",
+  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l’action sanitaire et sociale de la province Sud (DPASS), exerce son action sur l’ensemble du territoire provincial. Au sein du pôle enfance-famille, le service de la protection de l'enfance compte plus de 80 agents répartis en 4 bureaux et 3 structures d'accueil collectif. La maison maternelle Marcelle JORDA comprend 10 agents permanents et prend en charge des mères et de jeunes enfants. Au sein de la maison maternelle, rattachée au pôle petite enfance, l'auxiliaire de puériculture complète, par son savoir-faire médico-social spécifique, les missions de l'éducateur de jeunes enfants (EJE) et de l'assistante maternelle. Elle est la référente des prises en charge santé des enfants accueillis et apporte son expertise dans l'accompagnement des mères aux soins, à l'hygiène et à la prévention. Elle exerce ses missions sous l'autorité de la directrice et en étroite collaboration avec l'équipe pluridisciplinaire.",
+  "disambiguatingDescription": "Poste d'auxiliaire de puériculture à la Maison maternelle Marcelle JORDA à Boulari, sous l'autorité de la directrice de l'établissement.",
   "identifier": "26-1145",
   "image": null,
   "mainEntityOfPage": null,
@@ -76,6 +71,7 @@
   "educationRequirements": {
     "credentialCategory": "Diplôme d'État d'Auxiliaire de Puériculture (DEAP)",
     "competencyRequired": [
+      "Diplôme d'État d'Auxiliaire de Puériculture (DEAP)",
       "Développement psychomoteur et psychoaffectif de l'enfant de 0 à 4 ans",
       "Soins de base du nourrisson et du jeune enfant (hygiène, alimentation, sommeil, changes)",
       "Prévention des maladies infantiles, des accidents domestiques et détection de la maltraitance",
@@ -88,7 +84,7 @@
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 3 ans",
-  "employerOverview": "Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS), exerce son action sur l'ensemble du territoire provincial, au sein de ses services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et de ses autres sites excentrés.",
+  "employerOverview": "La direction de l’action sanitaire et sociale de la province Sud (DPASS), exerce son action sur l’ensemble du territoire provincial, au sein de ses services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et de ses autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -98,7 +94,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Non spécifié",
+  "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
@@ -111,7 +107,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Maison maternelle Marcelle JORDA",
+    "name": "Boulari",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
