@@ -2,29 +2,30 @@
   "additionalType": {
     "corpsDomaine": "Infirmier en soins généraux",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "Bureau de Proximité de Soins (BPS)",
+    "uniteOrganisationnelle": "Bureau de Proximité de Soins (BPS) du Pôle Soins",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef(fe) de bureau de proximité des soins",
-    "placeOrganigramme": "Placé sous l'autorité du (de la) chef(fe) de bureau de proximité des soins",
+    "superieurHierarchique": "Chef du Bureau de Proximité de Soins (BPS)",
+    "placeOrganigramme": "Placé sous l’autorité du (de la) chef(fe) de bureau de proximité des soins",
     "relationsFonctionnelles": [
-      "Médecin d'un Centre Médico-Social (CMS)",
-      "Téléconsultation (TLC) de la Province Nord",
-      "Équipe pluridisciplinaire en établissement médico-social"
+      "Bureau de Proximité de Soins",
+      "Pôle Soins",
+      "Centre Médico-Social",
+      "Téléconsultation"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Au moins égale à 5 ans"
+        "value": "au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Poste soumis à astreintes. L'IPA exerce au sein d'une équipe pluridisciplinaire en établissement médico-social coordonnée par un médecin d'un Centre Médico-Social (CMS) ou de Téléconsultation (TLC) de la Province Nord. LOI n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé."
+        "value": "Poste soumis à astreintes. L'IPA exerce au sein d'une équipe pluridisciplinaire en établissement médico-social coordonnée par un médecin d’un Centre Médico-Social (CMS) ou de Téléconsultation (TLC) de la Province Nord. LOI n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé."
       },
       {
         "@type": "PropertyValue",
-        "name": "Cadre réglementaire",
+        "name": "Réglementation applicable",
         "value": "Décret n° 2018-629 du 18 juillet 2018 relatif à l'exercice infirmier en pratique avancée. Délibération n° 476 du 28 avril 2025 : intègre les infirmiers en pratique avancée au cadre des personnels paramédicaux de Nouvelle-Calédonie, en catégorie A. Loi du pays n° 2023-5 du 26 mai 2023. Délibération n° 119/CP du 26 juin 2023. Arrêté n° 2023-2079/GNC du 9 août 2023."
       },
       {
@@ -39,9 +40,9 @@
       }
     ]
   },
-  "alternateName": "IPA",
-  "description": "L'infirmier en pratique avancée assure sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe au sein de la Direction des affaires sanitaires et sociales, de la prévention et de la solidarité.",
-  "disambiguatingDescription": "Recrutement d'un infirmier en pratique avancée à Houaïlou pour la Direction des affaires sanitaires, de la prévention et de la solidarité de la Province Nord.",
+  "alternateName": null,
+  "description": "L'infirmier en pratique avancée assure sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe au sein de la Direction des Affaires sanitaires, Sociales, de la Prévention et de la Solidarité.",
+  "disambiguatingDescription": null,
   "identifier": "26-1323",
   "image": null,
   "mainEntityOfPage": null,
@@ -59,11 +60,11 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Hôtel de la province Nord",
+    "name": "Province Nord",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "41 avenue Jimmy Welepane",
-      "addressLocality": "Koné",
+      "streetAddress": null,
+      "addressLocality": "Houaïlou",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
       "province": "province Nord"
@@ -78,12 +79,12 @@
   "datePosted": "2026-09-04",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'Etat d'infirmier en pratique avancée",
+    "credentialCategory": "Diplôme d’Etat d’infirmier en pratique avancée",
     "competencyRequired": [
-      "Être titulaire d'un diplôme d'Etat d'infirmier en pratique avancée délivré par une université accréditée",
-      "Justifier de trois années minimales d'exercice en équivalent temps plein de la profession d'infirmier",
+      "Être titulaire d’un diplôme d’Etat d’infirmier en pratique avancée délivré par une université accréditée",
+      "Justifier de trois années minimales d’exercice en équivalent temps plein de la profession d’infirmier",
       "Être enregistré auprès de la DASS NC",
-      "Disposer de l'autorisation de prescription auprès de la CAFAT et la DASS-PS"
+      "Disposer de l’autorisation de prescription auprès de la CAFAT et la DASS-PS"
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
@@ -91,26 +92,26 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Bureau de Proximité de Soins (BPS)",
-    "url": null,
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Justifier de trois années minimales d'exercice en équivalent temps plein de la profession d'infirmier.",
+  "experienceRequirements": "Justifier de trois années minimales d’exercice en équivalent temps plein de la profession d’infirmier",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique",
+  "industry": "Santé",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Centre Médico-Social de Houaïlou",
+    "name": "Centre Médico-Social",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -134,18 +135,18 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Soins d'infirmier généraliste"
+      "name": "Soins d'infirmiers généralistes"
     }
   },
   "responsibilities": [
-    "Prise en charge et suivi des patients atteints de pathologies chroniques selon le domaine d'intervention défini et sous la coordination du médecin",
+    "Prise en charge et suivi des patients atteints de pathologies chroniques selon le domaine d’intervention défini et sous la coordination du médecin",
     "Prescription de renouvellement de traitement chronique, de traitement selon les listes autorisées, de vaccins, de bilans complémentaires (BS, radiographie, ...)",
     "Rédaction de courriers médicaux et comptes rendus",
     "Éducation du patient dans sa prise en charge du suivi ou de la personne de confiance",
     "Coordination de soins, orientation",
-    "Mise en place d'actions de prévention, dépistage et éducation à la santé",
+    "Mise en place d’actions de prévention, dépistage et éducation à la santé",
     "Coordination et développement de la pratique",
-    "Restitution de l'activité (cotation et codification, bilan d'activité)",
+    "Restitution de l’activité (cotation et codification, bilan d’activité)",
     "Recherche et veille professionnelle"
   ],
   "salaryCurrency": null,
@@ -157,9 +158,13 @@
     "Capacités de coordination",
     "Autonomie et sens des responsabilités",
     "Adaptation",
-    "Dynamisme, disponibilité",
-    "Esprit d'équipe, d'initiative et de négociation",
-    "Sens des relations humaines et communication"
+    "Dynamisme",
+    "Disponibilité",
+    "Esprit d’équipe",
+    "Esprit d'initiative",
+    "Esprit de négociation",
+    "Sens des relations humaines",
+    "Communication"
   ],
   "specialCommitments": "Poste soumis à astreintes",
   "title": "Infirmier(e) en pratique avancée - Houaïlou",
