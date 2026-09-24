@@ -7,10 +7,9 @@
     "superieurHierarchique": "Chef du service de prévention et de promotion de la santé (SPPS)",
     "placeOrganigramme": "Rattaché au pôle Enfance-Famille au sein de la direction de l'action sanitaire et sociale de la province Sud (DPASS)",
     "relationsFonctionnelles": [
-      "Pôle Enfance-Famille",
-      "Centres médico-sociaux (CMS)",
-      "Unités provinciales d'action sanitaire et sociale (UPASS)",
       "Équipes pluridisciplinaires des centres de soins provinciaux",
+      "Divers spécialistes",
+      "Personnel enseignant",
       "Professionnels du champ médico-social, de la petite enfance et de l'enseignement"
     ],
     "informationsLibres": [
@@ -26,13 +25,13 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Matériel",
-        "value": "Outils orthophoniques et supports de prévention disponibles"
+        "name": "Compensation",
+        "value": "Récupération prévue pour les interventions réalisées en dehors des horaires de travail"
       },
       {
         "@type": "PropertyValue",
-        "name": "Compensation",
-        "value": "Récupération prévue pour les interventions réalisées en dehors des horaires de travail"
+        "name": "Matériel",
+        "value": "Outils orthophoniques et supports de prévention disponibles"
       },
       {
         "@type": "PropertyValue",
@@ -43,7 +42,7 @@
   },
   "alternateName": null,
   "description": "L'orthophoniste recruté(e) interviendra principalement sur 2 CMS de Nouméa et du grand Nouméa dans le cadre d'un exercice alliant suivi clinique et actions collectives de prévention. Le champ d'activité couvert concerne la rééducation des troubles du langage des enfants, des écoles maternelles et primaires, à l'exclusion du handicap dont la prise en charge relève d'une autre institution.",
-  "disambiguatingDescription": "Poste d'orthophoniste au sein du Service de Prévention et Promotion de la Santé de la DPASS, alliant suivi clinique et actions collectives de prévention.",
+  "disambiguatingDescription": "Poste d'orthophoniste au sein du service de prévention et de promotion de la santé de la DPASS, alliant suivi clinique et actions collectives de prévention.",
   "identifier": "26-0965",
   "image": null,
   "mainEntityOfPage": null,
@@ -60,11 +59,11 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "Nouméa",
+    "@type": "Schedule",
+    "name": "Province Sud",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "6 route des artifices",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -87,26 +86,26 @@
       "Connaissances en prévention et en promotion de la santé (charte d'Ottawa)"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence au moins égale à 10 ans pour le recrutement sur titre",
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés. Ses services contribuent à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales.",
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés. Le service de prévention et de promotion de la santé (SPPS) comprend 30 agents permanents et élabore des actions de promotion et de communication relatives au domaine de la santé.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
+    "name": "Service de Prévention et de Promotion de la Santé (SPPS)",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": null,
-  "experienceRequirements": null,
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Non spécifié",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
     "url": "https://www.province-sud.nc"
   },
-  "incentiveCompensation": "Récupération prévue pour les interventions réalisées en dehors des horaires de travail",
+  "incentiveCompensation": null,
   "industry": "Santé publique",
-  "jobBenefits": "Véhicule de service mis à disposition pour les interventions extérieures, outils orthophoniques et supports de prévention disponibles",
+  "jobBenefits": "Véhicule de service mis à disposition pour les interventions extérieures, récupération prévue pour les interventions réalisées en dehors des horaires de travail",
   "jobDuration": null,
   "jobImmediateStart": false,
   "jobLocation": {
@@ -163,12 +162,12 @@
     "Disponibilité",
     "Mobilité",
     "Goût pour le contact humain",
-    "Sens de la communication avec enfants, parents, enseignants et autres professionnels"
+    "Sens de la communication"
   ],
   "specialCommitments": "Déplacements hebdomadaires à prévoir",
   "title": "Orthophoniste au service de prévention et promotion de la santé",
   "totalJobOpenings": 2,
-  "validThrough": "2026-09-25",
+  "validThrough": "2026-10-23",
   "workHours": "39h hebdomadaires du lundi au vendredi 7h30-16h",
   "champs_open_data": 9,
   "employeur_sigle": "PVS",
