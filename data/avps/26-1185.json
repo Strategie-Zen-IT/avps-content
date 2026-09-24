@@ -4,13 +4,12 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": "CMS de CANALA",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef du Bureau de Proximité de Soins (BPS)",
+    "superieurHierarchique": "Chef de bureau de proximité des soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Chef du Bureau de Proximité de Soins (BPS)",
+      "Chef du Bureau de Proximité de Soins",
       "Pôle Soins",
-      "Étudiants infirmiers",
-      "Stagiaires"
+      "DASSPS"
     ],
     "informationsLibres": [
       {
@@ -40,7 +39,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "https://www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -49,7 +48,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "AreaServed",
+    "@type": "Place",
     "name": "CMS de CANALA",
     "address": {
       "@type": "PostalAddress",
@@ -63,13 +62,13 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
-    "email": "m.oudare@province-nord.nc"
+    "email": "drh-emplois@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-08-07",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'état infirmier",
+    "credentialCategory": "Diplôme d'état",
     "competencyRequired": [
       "Diplôme d'état infirmier exigé",
       "Expérience du travail en poste isolé",
@@ -91,7 +90,7 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
   "industry": "Santé publique soins",
@@ -117,7 +116,7 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis de conduire B",
+  "qualifications": "Être titulaire du permis de conduire B.",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Infirmier",
@@ -129,10 +128,10 @@
   },
   "responsibilities": [
     "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
-    "Les actes curatifs (consultations, urgences, soins)",
-    "Les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
-    "Les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
-    "La téléconsultation (en l'absence de médecin en présentiel)",
+    "Prendre en charge les actes curatifs (consultations, urgences, soins)",
+    "Prendre en charge les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
+    "Prendre en charge les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
+    "Assurer la téléconsultation (en l'absence de médecin en présentiel)",
     "Assurer l'encadrement des stagiaires, notamment les étudiants infirmiers"
   ],
   "salaryCurrency": null,
@@ -140,8 +139,7 @@
   "sensoryRequirement": null,
   "skills": [
     "Maîtrise des logiciels de bureautique (Excel et Word)",
-    "Disponibilité",
-    "Rigueur",
+    "Disponibilité et rigueur",
     "Respect de la confidentialité des informations et du secret médical",
     "Sens des responsabilités",
     "Goût des relations humaines",
@@ -149,7 +147,7 @@
     "Capacité d'écoute",
     "Goût du travail en équipe"
   ],
-  "specialCommitments": "Ce poste est soumis à astreinte de nuit.",
+  "specialCommitments": "Astreinte de nuit",
   "title": "Infirmier(e) en soins généraux à Canala",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-16",
