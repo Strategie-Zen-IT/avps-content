@@ -2,14 +2,15 @@
   "additionalType": {
     "corpsDomaine": "Infirmier en soins généraux",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "Bureau de Proximité de Soins",
+    "uniteOrganisationnelle": "Centre Médico-Social de Poum",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef de bureau de proximité des soins",
-    "placeOrganigramme": null,
+    "placeOrganigramme": "Placé sous l'autorité du (de la) chef(fe) de bureau de proximité des soins",
     "relationsFonctionnelles": [
       "Médecin d'un Centre Médico-Social",
-      "Téléconsultation de la Province Nord",
-      "Équipe pluridisciplinaire en établissement médico-social"
+      "Équipe pluridisciplinaire en établissement médico-social",
+      "DASS NC",
+      "CAFAT"
     ],
     "informationsLibres": [
       {
@@ -24,8 +25,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Textes réglementaires applicables",
-        "value": "Décret n° 2018-629 du 18 juillet 2018 relatif à l'exercice infirmier en pratique avancée. Loi du pays n° 2023-5 du 26 mai 2023 instituant le sous-titre préliminaire du titre IV du livre IV de la partie législative de l'ancien code de la santé publique applicable en Nouvelle-Calédonie. Délibération n° 476 du 28 avril 2025. Délibération n° 119/CP du 26 juin 2023. Arrêté n° 2023-2079/GNC du 9 août 2023."
+        "name": "Cadre réglementaire",
+        "value": "Décret n° 2018-629 du 18 juillet 2018 relatif à l'exercice infirmier en pratique avancée. Loi du pays n° 2023-5 du 26 mai 2023. Délibération n° 476 du 28 avril 2025. Délibération n° 119/CP du 26 juin 2023. Arrêté n° 2023-2079/GNC du 9 août 2023."
       },
       {
         "@type": "PropertyValue",
@@ -58,12 +59,12 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Area",
+    "@type": "Place",
     "name": "Province Nord",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
-      "addressLocality": "Poum",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
       "province": "province Nord"
@@ -72,7 +73,7 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
-    "email": "drh.emplois@province-nord.nc"
+    "email": "l.siveton@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-09-11",
@@ -134,11 +135,10 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Soins d'infirmier généraliste"
+      "name": "Soins d'infirmiers généralistes"
     }
   },
   "responsibilities": [
-    "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
     "Prise en charge et suivi des patients atteints de pathologies chroniques selon le domaine d'intervention défini et sous la coordination du médecin",
     "Prescription de renouvellement de traitement chronique, de traitement selon les listes autorisées, de vaccins, de bilans complémentaires",
     "Rédaction de courriers médicaux et comptes rendus",
