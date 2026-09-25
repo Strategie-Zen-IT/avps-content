@@ -1,0 +1,183 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier diplômé d'Etat ou infirmier en soins généraux",
+    "direction": "DIRECTION DE LA COORDINATION DES SOINS",
+    "uniteOrganisationnelle": "CATTP grands",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Psychiatrie de l'enfant et de l'adolescent",
+      "Partenaires sanitaires",
+      "Partenaires médico-sociaux",
+      "Partenaires scolaires",
+      "Partenaires éducatifs",
+      "Partenaires sociaux",
+      "Partenaires judiciaires",
+      "Partenaires associatifs"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Pour le recrutement sur titre : au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions de travail",
+        "value": "Accepter la polyvalence sur le roulement jour et nuit"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953386.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'infirmier réalise des soins infirmiers afin de maintenir ou restaurer la santé de la personne et l'accompagner, qui concourent à la prévention, au dépistage, au diagnostic, au traitement et à la recherche, en référence à la délibération n° 104 du 15 décembre 2010 relative à l'exercice de la profession d'infirmier.",
+  "disambiguatingDescription": "Poste d'infirmier(ère) en pédopsychiatrie au sein du CATTP Grands du Centre Hospitalier Spécialisé Albert Bousquet.",
+  "identifier": "3134-26-1439/SR",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Infirmier(ère) en pédopsychiatrie (CATTP Grands)",
+  "owner": {
+    "@type": "Organization",
+    "name": "CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Nouméa (magenta)",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Magenta",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.36.38",
+    "email": "avp@chs.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'Etat d'infirmier",
+    "competencyRequired": [
+      "Les savoirs théoriques, procéduraux et pratiques relèvent des 10 compétences composant le référentiel d'aptitude à l'exercice de la profession d'infirmier",
+      "Maîtriser l'outil informatique et connaissance du logiciel Dx Care (DPI)",
+      "Savoir s'initier à l'utilisation du Dossier Patient Informatisé (DPI)",
+      "Savoir rechercher une information et la mettre en application",
+      "Connaissance dans le développement de l'enfant, les troubles déficitaires, les troubles du spectre autistique, troubles du comportement"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence au moins égale à 5 ans pour le recrutement sur titre",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "CATTP grands",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique soins",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Nouméa (magenta)",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Magenta",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplôme d'Etat d'infirmier",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "infirmier diplômé d’Etat ou infirmier en soins généraux",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1402",
+      "name": "Soins infirmiers généralistes"
+    }
+  },
+  "responsibilities": [
+    "Accueillir l'enfant et sa famille, contribuer à l'évaluation clinique pluridisciplinaire de son fonctionnement psychique, relationnel, comportemental, développemental et scolaire, repérer ses ressources, ses besoins et les situations de vulnérabilité ou de crise, et favoriser l'instauration d'une alliance thérapeutique",
+    "Participer à l'élaboration, à la mise en œuvre, à la traçabilité et à la réévaluation semestrielle du projet de soin individualisé et, lorsqu'il est désigné référent ou co-référent, garantir la continuité et la cohérence du parcours de l'enfant en lien avec sa famille, l'équipe, le médecin et les partenaires",
+    "Concevoir, mettre en œuvre et évaluer des entretiens infirmiers, des dispositifs de soins individualisés, des groupes et médiations thérapeutiques ou des séjours adaptés aux objectifs du projet de soin, au développement et aux particularités de l'enfant, dans un cadre garantissant sa sécurité physique et psychique",
+    "Assurer le suivi somatique de l'enfant, réaliser les soins infirmiers et la surveillance des traitements, coordonner les conduites à tenir liées aux pathologies chroniques, conduire des actions de prévention et d'éducation à la santé et intervenir de façon adaptée face aux situations d'urgence ou de crise",
+    "Soutenir l'enfant et sa famille dans la compréhension des troubles, l'observance et l'appropriation du projet de soin, renforcer les compétences parentales par des entretiens, des actions de psychoéducation, des soins parents-enfant ou des groupes de parents, et intervenir si nécessaire au domicile ou dans les lieux de vie",
+    "Contribuer au travail pluridisciplinaire et coordonner les échanges avec les partenaires sanitaires, médico-sociaux, scolaires, éducatifs, sociaux, judiciaires et associatifs afin d'assurer la cohérence du parcours, la continuité des soins ainsi que l'inclusion scolaire et sociale de l'enfant, dans le respect du secret professionnel",
+    "Assurer dans le dossier patient informatisé une traçabilité précise et actualisée des soins, observations et coordinations, contribuer aux démarches de qualité et de prévention des risques, participer à l'accueil des étudiants et nouveaux professionnels et actualiser régulièrement ses compétences en pédopsychiatrie de l'enfant et de la préadolescence"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Évaluer l'état de santé et le degré d'autonomie de la personne",
+    "Effectuer et formaliser le diagnostic infirmier et décider de la réalisation des soins relevant de son initiative",
+    "Réaliser les soins infirmiers et les activités thérapeutiques adaptés aux situations en respectant les protocoles d'hygiène et les règles de bonnes pratiques",
+    "Identifier les situations d'urgence ou de crise et y faire face par des actions adaptées",
+    "Créer une relation de confiance avec le patient et son entourage",
+    "Planifier et organiser son temps et celui de ses collaborateurs dans le cadre du travail d'équipe",
+    "Évaluer la qualité des pratiques et les résultats des soins infirmiers",
+    "Élaborer et utiliser des protocoles de soins concernant le rôle infirmier",
+    "Travailler en équipe interprofessionnelle",
+    "Analyser, synthétiser des informations permettant la prise en charge de la personne soignée et la continuité des soins",
+    "Conduire entretiens d'aide",
+    "Éduquer, conseiller le patient et l'entourage en vue d'une démarche d'autonomisation",
+    "Capacité d'autonomie et à travailler en équipe pluridisciplinaire",
+    "Aptitude à s'intégrer dans le projet de service",
+    "Appétence pour la prise en charge des enfants et des familles",
+    "Maîtriser la démarche de soins et les outils de travail infirmiers",
+    "Participer à l'amélioration de la qualité des soins du service et de l'établissement",
+    "Capacité à gérer sa propre affectivité et à analyser sa pratique dans les situations de soins",
+    "Posséder de réelles capacités d'adaptation et d'organisation",
+    "Rigueur et professionnalisme",
+    "Esprit d'initiative et de décision"
+  ],
+  "specialCommitments": "Accepter la polyvalence sur le roulement jour et nuit",
+  "title": "Infirmier(ère) en pédopsychiatrie (CATTP Grands)",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-16",
+  "workHours": "Roulement jour et nuit",
+  "employeur_sigle": "CENTRE-HOSPITALIER-SPECIALISE-ALBERT-BOUSQUET",
+  "collectivite": "CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET",
+  "direction": "DIRECTION DE LA COORDINATION DES SOINS",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 0.831,
+  "dossier": "politique-de-sante-publique"
+}
