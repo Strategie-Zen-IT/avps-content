@@ -39,7 +39,8 @@
   "name": "DPS - Chef d'agence - Agence de Lifou et ses annexes",
   "owner": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications"
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -77,7 +78,8 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications"
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
   },
   "incentiveCompensation": "Indemnité de Chef d'agence",
   "industry": "Postes et télécommunications",
@@ -93,8 +95,7 @@
       "addressLocality": "Lifou",
       "addressRegion": "Province des Îles",
       "addressCountry": "NC",
-      "province": "province des îles Loyauté",
-      "postalCode": "98820"
+      "province": "province des îles Loyauté"
     }
   },
   "jobLocationType": null,
