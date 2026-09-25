@@ -1,0 +1,165 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché / Attaché de conservation - conservateur",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Pôle développement humain",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du pôle développement humain",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Pôle développement humain",
+      "Direction de la culture de la jeunesse et des sports",
+      "Province Sud"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Participation aux évènements et aux manifestations organisées par le pôle et plus largement par la direction et la province Sud. Disponibilité régulière le week-end, le soir et occasionnellement les jours fériés. Transversalité opérationnelle."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952096.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de la culture, de la jeunesse et des sports de la province Sud (DCJS) développe et valorise les richesses patrimoniales et artistiques de la province Sud. Elle agit en matière de patrimoine, de création et de diffusion artistique et d’accès à la culture en favorisant son rayonnement sur l’ensemble de la province Sud. Elle favorise et soutient également le développement des pratiques socio-éducatives et sportives en province Sud. Le pôle développement humain (PDH) veille à contribuer à l’épanouissement de la personne au sein de la société, notamment grâce au sport et à la culture. Ses actions consistent à soutenir le milieu associatif sportif, à soutenir la création et la diffusion artistique sur son territoire et à déployer des actions et dispositifs au bénéfice des publics jeunes conformément à la politique provinciale jeunesse.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1429",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé(e) d'actions culturelles",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.48.07",
+    "email": "alexia.duchesne@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3",
+    "competencyRequired": [
+      "Formation BAC + 3 minimum",
+      "Formation supérieure et/ou expérience avérée dans les domaines concernés",
+      "Connaissances du contexte institutionnel de la Nouvelle-Calédonie, des partenaires et notamment du mouvement associatif calédonien",
+      "Connaissances du fonctionnement administratif et en techniques de projet",
+      "Connaissances des réseaux institutionnels et associatifs locaux, nationaux et régionaux"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Expérience avérée dans les domaines concernés",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction de la culture de la jeunesse et des sports",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "immédiatement",
+  "occupationalCategory": [
+    "Culture",
+    "Animation"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé d'actions culturelles",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1103",
+      "name": "Gestion de patrimoine culturel"
+    }
+  },
+  "responsibilities": [
+    "Contribuer à la mise en œuvre des orientations de la politique culturelle provinciale en participant à sa déclinaison opérationnelle au sein du pôle",
+    "Assurer une fonction d’expertise et de conseil dans le domaine culturel, en apportant une connaissance des acteurs, des pratiques, des enjeux et des évolutions du secteur",
+    "Concevoir, piloter et coordonner des projets et des actions culturelles, de leur définition à leur évaluation",
+    "Accompagner les projets de création et de diffusion artistiques, ainsi que les projets d’éducation artistique et culturelle, de médiation, de sensibilisation et d’accès aux pratiques culturelles",
+    "Instruire et assurer le suivi administratif et financier des demandes de subventions relevant de son secteur d’intervention, dans le respect des procédures et des orientations de la collectivité",
+    "Développer et mettre en œuvre des actions en direction des publics, notamment des actions de sensibilisation, de médiation et d’éducation artistique et culturelle, en portant une attention particulière aux publics éloignés de l’offre culturelle",
+    "Contribuer au développement de dispositifs favorisant l’accès des jeunes à la culture et aux pratiques artistiques, notamment par le suivi, l’évaluation et l’évolution des dispositifs dématérialisés et des offres proposées",
+    "Accompagner la structuration et la professionnalisation des acteurs artistiques et culturels, en identifiant leurs besoins et en contribuant à la conception ou à l’évolution des dispositifs d’accompagnement, de formation et de soutien",
+    "Assurer une veille active sur le secteur culturel, notamment sur les évolutions des pratiques artistiques et culturelles, les dispositifs de financement, les besoins des acteurs et les opportunités de développement de nouveaux partenariats",
+    "Identifier, analyser et faire remonter les besoins du territoire provincial, en étant à l’écoute des artistes, associations, structures et organisateurs et en formulant des propositions permettant d’adapter l’action de la collectivité",
+    "Participer aux réunions, groupes de travail et comités de pilotage en lien avec son domaine d’intervention",
+    "Contribuer aux actions transversales du pôle développement humain, en apportant son expertise dans le domaine culturel et en participant aux projets communs et aux démarches partenariales",
+    "Assurer la gestion et le suivi budgétaire de son domaine d’intervention",
+    "Produire les bilans, analyses, notes et outils d’aide à la décision nécessaires au suivi de son activité"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des méthodes et techniques de projet",
+    "Maîtrise des outils d'informatique, de bureautiques (Word, Excel, Power Point), de planification et de communication",
+    "Management par projet",
+    "Qualités rédactionnelles",
+    "Capacités à analyser et à synthétiser",
+    "Capacités à travailler en réseau et en transversalité",
+    "Élaboration de tableaux de bord",
+    "Élaboration de documents administratifs (convention, arrêté, délibération, etc.)",
+    "Sens du service public",
+    "Sens de l’organisation",
+    "Autonomie",
+    "Prise d’initiatives",
+    "Force de propositions"
+  ],
+  "specialCommitments": null,
+  "title": "Chargé(e) d'actions culturelles",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-16",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Culture",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "culture"
+}
