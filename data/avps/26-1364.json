@@ -30,7 +30,8 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "https://www.province-nord.nc"
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -70,7 +71,8 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "https://www.province-nord.nc"
+    "url": "https://www.province-nord.nc",
+    "logo": "https://avps.nc/logos/pvn.png"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -86,8 +88,7 @@
       "addressLocality": "Koumac",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
-      "province": "province Nord",
-      "postalCode": "98850"
+      "province": "province Nord"
     }
   },
   "jobLocationType": null,
