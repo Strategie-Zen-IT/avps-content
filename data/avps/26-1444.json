@@ -1,0 +1,164 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 3-Diplôme niveau IV",
+    "direction": "DIRECTION GENERALE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaire Général et/ou Secrétaire Général Adjoint",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Dock municipal",
+      "Dessalement",
+      "CIS"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Grille indiciaire",
+        "value": "Grille 3 - (Catégorie B)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements fréquents, Grande disponibilité"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957714.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité du Secrétaire Général et/ou du Secrétaire Général Adjoint, le directeur des services techniques pilote, coordonne et optimise l'ensemble des moyens techniques, humains et financiers. Il est responsable de la gestion du patrimoine immobilier, des infrastructures, de la logistique et de la sécurité. Il conçoit et dirige la mise en œuvre des projets de construction, d'aménagement et de maintenance. Il garantit la sécurité des bâtiments, la performance énergétique des installations et le respect des réglementations, tout en encadrant les équipes techniques (ateliers, logistique, maintenance, usines de dessalement).",
+  "disambiguatingDescription": null,
+  "identifier": "26-1444",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Directeur des services techniques",
+  "owner": {
+    "@type": "Organization",
+    "name": "Commune d'Ouvéa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "45.71.11",
+    "email": "direction@mairie-ouvea.com"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Catégorie B",
+    "competencyRequired": [
+      "Bonne connaissance du milieu politique et institutionnel de la Nouvelle-Calédonie",
+      "Avoir de l'expérience professionnelle dans les institutions",
+      "Animation de groupe",
+      "Capacité d'écoute et d'observations"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Commune d'Ouvéa",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Avoir de l'expérience professionnelle dans les institutions",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune d'Ouvéa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie d'Ouvéa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Tribu de Hwadrilla",
+      "addressLocality": "Ouvéa",
+      "addressRegion": "Province des îles Loyauté",
+      "addressCountry": "NC",
+      "province": "province des îles Loyauté",
+      "postalCode": "98814"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements",
+    "Patrimoine bâti",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B obligatoire",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Directeur",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2102",
+      "name": "Mise en œuvre et pilotage de la politique des pouvoirs publics"
+    }
+  },
+  "responsibilities": [
+    "Encadrer et coordonner les différents responsables des services (Dock municipal, Dessalement, CIS)",
+    "Planifier les plannings d'intervention d'urgence et la maintenance préventive",
+    "Evaluer les compétences et piloter la formation aux normes de sécurité (habilitations électriques, CACES)",
+    "Planifier les grands travaux de construction, de rénovation ou de modernisation",
+    "Rédiger les cahiers des charges techniques pour les appels d'offres ou consultations",
+    "Superviser les chantiers, de la phase d'étude à la réception finale des services techniques",
+    "Elaborer et exécuter le budget d'investissement et de fonctionnement des services techniques",
+    "Négocier et suivre les contrats de maintenance avec les prestataires externes",
+    "Assurer une veille technique et réglementaire constante",
+    "Garantir la conformité des établissements recevant du public ou des sites industriels",
+    "Déployer la transition énergétique (réduction des consommations, gestion des déchets)",
+    "Piloter les commissions de sécurité et veiller à l'application des règles d'hygiène et de sécurité"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Sens des priorités et excellente gestion des urgences ou crises",
+    "Esprit d'initiative et force de proposition",
+    "Discrétion professionnelle",
+    "Leadership affirmé et forte capacité à fédérer des équipes de terrain",
+    "Sens de l'écoute et de la communication",
+    "Sens de l'organisation et priorisation des tâches",
+    "Sens du travail en équipe",
+    "Sens de l'initiative et d'autonomie",
+    "Faculté d'adaptation",
+    "Disponibilité",
+    "Rigueur, sens de l'organisation et réactivité"
+  ],
+  "specialCommitments": "Déplacements fréquents, Grande disponibilité",
+  "title": "Directeur des services techniques",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-16",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "COMMUNE-D-OUVEA",
+  "collectivite": "Commune d'Ouvéa",
+  "direction": "DIRECTION GENERALE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Pilotage",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "pilotage"
+}
