@@ -39,7 +39,8 @@
   "name": "DPS - Chef de cellule guichet - Agence Mont Dore et ses annexes",
   "owner": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications"
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -72,7 +73,8 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications"
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
   },
   "incentiveCompensation": null,
   "industry": "Postes et télécommunications",
@@ -88,8 +90,7 @@
       "addressLocality": "Mont-Dore",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98809"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
