@@ -7,9 +7,9 @@
     "superieurHierarchique": "Directeur(trice) de la maison de l'enfance de Bourail",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Service de la protection de l'enfance",
       "Enseignante spécialisée de la MDEB",
       "Établissement scolaire de l'enfant",
+      "Référent socio-éducatif des familles de la MDEB",
       "Magistrat ordonnateur de la mesure"
     ],
     "informationsLibres": [
@@ -31,8 +31,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La maison de l'enfance de Bourail accueille des jeunes de 6 à 16 ans bénéficiant d'une mesure d'assistance éducative. Cette structure, qui dépend du service de la protection de l'enfance, a pour objectif d'accompagner des enfants et des jeunes avec des parcours de vie difficiles faits de ruptures familiales et sociales.",
-  "disambiguatingDescription": "Poste de travailleur social au sein de la maison de l'enfance de Bourail sous la responsabilité de la DPASS de la Province Sud.",
+  "description": "La maison de l'enfance de Bourail accueille des jeunes de 6 à 16 ans bénéficiant d'une mesure d'assistance éducative. Cette structure, qui dépend du service de la protection de l'enfance, a pour objectif d'accompagner des enfants et des jeunes avec des parcours de vie difficiles faits de ruptures familiales et sociales. Ils présentent des problématiques telles que la fragilité psychologique, le trouble du comportement, la déscolarisation, etc., qui vont nécessiter une prise en charge pluridisciplinaire de qualité.",
+  "disambiguatingDescription": "Travailleur Social au sein de la maison de l'enfance de Bourail",
   "identifier": "26-0648",
   "image": null,
   "mainEntityOfPage": null,
@@ -49,7 +49,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
+    "@type": "LandmarksOrHistoricalBuildings",
     "name": "Maison de l'enfance de Bourail",
     "address": {
       "@type": "PostalAddress",
@@ -69,14 +69,15 @@
   "datePosted": "2026-05-01",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'État d'éducateur spécialisé (DEES), diplôme de conseiller en économie sociale et familiale (CESF) (niveau 6), diplôme d'assistant de service social ou diplôme d'éducateur de jeunes enfants",
+    "credentialCategory": "Bac+3 ou équivalent (Niveau 6)",
     "competencyRequired": [
+      "Diplôme d'État d'éducateur spécialisé (DEES) ou diplôme de conseiller en économie sociale et familiale (CESF) ou diplôme d'assistant de service social ou diplôme d'éducateur de jeunes enfants",
       "Connaissances des techniques de prévention et de gestion des conflits",
       "Connaissances du développement de l'enfant, des approches systémiques (génogramme, médiation familiale, etc.)",
       "Connaissances des diversités culturelles en Nouvelle-Calédonie (histoire, toponymie, etc.)"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
   "employerOverview": "Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
@@ -86,7 +87,7 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": null,
+  "experienceInPlaceOfEducation": false,
   "experienceRequirements": "Expérience dans le domaine souhaitée",
   "hiringOrganization": {
     "@type": "Organization",
@@ -124,7 +125,7 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1302",
-      "name": "Intervention socioéducative"
+      "name": "Intervention socio-éducative"
     }
   },
   "responsibilities": [
@@ -163,11 +164,11 @@
     "Autonomie et créativité",
     "Prise d'initiatives"
   ],
-  "specialCommitments": "Horaires d'internat (soirées, week-ends et jours fériés). Pourra être amené, pour raisons de service, à travailler de nuit en cas d'absence de ses collègues.",
+  "specialCommitments": "Astreintes de nuit possibles en cas d'absence de collègues",
   "title": "Travailleur Social au sein de la maison de l'enfance de Bourail",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-09",
-  "workHours": "Temps plein à horaires d'internat",
+  "workHours": "Temps plein à horaires d'internat (soirées, week-ends et jours fériés). Travail de nuit possible pour raisons de service.",
   "champs_open_data": 7,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
