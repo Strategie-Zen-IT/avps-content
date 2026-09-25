@@ -34,7 +34,8 @@
   "name": "DSI - Responsable qualité du SI - Service des Moyens",
   "owner": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications"
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -73,7 +74,8 @@
   "experienceRequirements": "Expérience souhaitée",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications"
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
   },
   "incentiveCompensation": null,
   "industry": "Postes et télécommunications",
@@ -89,8 +91,7 @@
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98800"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
