@@ -31,7 +31,8 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc"
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -67,7 +68,8 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc"
+    "url": "https://www.province-sud.nc",
+    "logo": "https://avps.nc/logos/pvs.png"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -83,8 +85,7 @@
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98800"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
