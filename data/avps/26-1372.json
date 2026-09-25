@@ -2,7 +2,7 @@
   "additionalType": {
     "corpsDomaine": "Emploi fonctionnel",
     "direction": "",
-    "uniteOrganisationnelle": "Service Administratif",
+    "uniteOrganisationnelle": "Administratif",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Secrétaire Général",
     "placeOrganigramme": "Sous l'autorité du Secrétaire Général",
@@ -74,7 +74,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": true,
-  "experienceRequirements": "Expérience professionnelle avérée sur un poste similaire dans une collectivité territoriale souhaitée.",
+  "experienceRequirements": "Expérience professionnelle avérée sur un poste similaire dans une collectivité territoriale souhaitée",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Commune de POUEMBOUT"
@@ -131,7 +131,7 @@
     "Connaissances en informatique et bureautique",
     "Qualités rédactionnelles",
     "Rendre compte à sa hiérarchie",
-    "Sens de l'initiative et du service public exigé",
+    "Sens de l'initiative et du service public",
     "Discrétion professionnelle et respect de la confidentialité",
     "Capacité d'adaptation à la multiplicité des tâches",
     "Grande disponibilité",
