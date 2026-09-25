@@ -34,7 +34,8 @@
   "name": "DPS - AGENT POLYVALENT D'EXPLOITATION CELLULE INTERNATIONAL - CTP",
   "owner": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications"
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -77,7 +78,8 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications"
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
   },
   "incentiveCompensation": null,
   "industry": "Postes et télécommunications",
@@ -93,8 +95,7 @@
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98800"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
@@ -146,7 +147,7 @@
     "Obligations de discrétion et de secret professionnels"
   ],
   "specialCommitments": null,
-  "title": "Dps - Agent polyvalent d’exploitation cellule international - ctp",
+  "title": "DPS - AGENT POLYVALENT D’EXPLOITATION CELLULE INTERNATIONAL - CTP",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-09",
   "workHours": "Horaires de travail du lundi au vendredi en fonction du règlement intérieur du CTP",
