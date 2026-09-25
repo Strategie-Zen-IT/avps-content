@@ -9,13 +9,14 @@
     "relationsFonctionnelles": [
       "Magistrats",
       "Services de la direction",
-      "Partenaires institutionnels et associatifs"
+      "Partenaires institutionnels",
+      "Partenaires associatifs"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Titulaire du permis de conduire B."
+        "name": "Unité d'affectation spécifique",
+        "value": "UPAD"
       },
       {
         "@type": "PropertyValue",
@@ -56,15 +57,14 @@
   },
   "alternateName": null,
   "description": "Sous l'autorité du chef de service, le chef de service éducatif assure l'encadrement, l'animation et la coordination de l'équipe pluridisciplinaire de l'UPAD. Il veille à la mise en œuvre des missions de protection judiciaire de l'enfance et de la jeunesse, dans le respect des décisions judiciaires et des orientations institutionnelles.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Sous l'autorité du chef de service, le chef de service éducatif assure l'encadrement, l'animation et la coordination de l'équipe pluridisciplinaire de l'UPAD. Il veille à la mise en œuvre des missions de protection judiciaire de l'enfance et de la jeunesse, dans le respect des décisions judiciaires et des orientations institutionnelles.",
   "identifier": "26-65407/MPRH",
   "image": null,
   "mainEntityOfPage": null,
   "name": "Chef de service éducatif - UPAD",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -93,20 +93,21 @@
   "employerOverview": "La Direction de la Protection Judiciaire de l'Enfance et de la Jeunesse (DPJEJ) a notamment pour mission de prévenir et de lutter contre la délinquance des mineurs. À ce titre, elle met en œuvre les orientations de la Nouvelle-Calédonie en matière de protection judiciaire de l'enfance et de la jeunesse et veille à répondre aux besoins liés à l'instruction et à l'exécution des décisions judiciaires concernant les mineurs qui lui sont confiés.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
-    "name": "Etablissement de placement éducatif - foyer d'action éducative de Nouville"
+    "@type": "OrganizationalUnit",
+    "name": "Etablissement de placement éducatif - foyer d'action éducative de Nouville",
+    "url": null,
+    "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": "Informations salaire disponibles à l'adresse : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
+  "jobBenefits": "Grille salariale disponible sur https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -114,11 +115,12 @@
     "name": "Etablissement de placement éducatif - foyer d'action éducative de Nouville",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "Nouville",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud"
+      "province": "province Sud",
+      "postalCode": "98800"
     }
   },
   "jobLocationType": null,
@@ -127,7 +129,7 @@
     "Action sociale"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis B",
+  "qualifications": "Titulaire du permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Responsable socio éducatif",
@@ -150,7 +152,7 @@
     "En l'absence du chef de service, il assure, par délégation, la continuité du fonctionnement du service ainsi que la continuité de l'accompagnement éducatif et pédagogique des mineurs suivis",
     "Il contribue à l'accueil et à l'intégration des nouveaux professionnels en organisant leur accompagnement, notamment par la mise en place de périodes de tuilage, un soutien dans la prise en charge des premières mesures et des temps réguliers d'échange et de suivi."
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -169,11 +171,12 @@
   "totalJobOpenings": 1,
   "validThrough": "2026-09-25",
   "workHours": null,
-  "champs_open_data": 28,
+  "champs_open_data": 29,
   "employeur_sigle": "DPJEJ",
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Action sociale",
   "famille_source": "respnc",
   "famille_score": 1.0,
