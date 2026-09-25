@@ -29,7 +29,8 @@
   "name": "Agent de service en dortoir- Internat de Koumac",
   "owner": {
     "@type": "Organization",
-    "name": "Province Nord"
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -67,7 +68,8 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Province Nord"
+    "name": "Province Nord",
+    "logo": "https://avps.nc/logos/pvn.png"
   },
   "incentiveCompensation": null,
   "industry": "Education",
@@ -83,8 +85,7 @@
       "addressLocality": "Koumac",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
-      "province": "province Nord",
-      "postalCode": "98850"
+      "province": "province Nord"
     }
   },
   "jobLocationType": null,
