@@ -1,0 +1,189 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "CONGRES DE LA NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": "Sous-direction des séances et commissions",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur/directrice adjoint(e) de la sous-direction des séances et commissions",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Sous-direction des affaires juridiques et du contentieux"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Réorganisation interne"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Participation à l'organisation lors des séances solennelles de l'institution ou toute autre manifestation."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957658.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous l'autorité du directeur/directrice adjoint(e) de la sous-direction des séances et commissions, le chef du service des séances et commissions aura la charge d'organiser, d'assurer l'enregistrement et le suivi des textes déposés sur le bureau du congrès (dépôt, programmation en commission et en séance publique, adoption/promulgation, publication). En coordination avec la sous-direction des affaires juridiques et du contentieux, le chef de service pourra être amené à fournir une expertise juridique sur les dossiers dont il sera saisi.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1436",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef du service des séances et commissions",
+  "owner": {
+    "@type": "Organization",
+    "name": "Congrès de la Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "05.20.14",
+    "email": "formation-recrutement-drh@congres.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Maîtrise des procédures",
+      "Maîtrise des circuits administratifs",
+      "Très bonnes connaissances du contexte institutionnel et politique de la Nouvelle-Calédonie",
+      "Parfaite connaissance du fonctionnement et de l'organisation de l'institution",
+      "Maîtrise du pack office",
+      "Maîtrise des outils de la communication bienveillante",
+      "Maîtrise de la légistique",
+      "Excellente compétence juridique en droit administratif",
+      "Bonne connaissance des techniques de conduite de projets",
+      "Connaissance des règles relatives à la gestion des ressources humaines",
+      "Connaissances relatives à la gestion des moyens",
+      "Connaissance de l'outil de dématérialisation KBOX",
+      "Parfaite aisance rédactionnelle, orthographe, grammaire et syntaxe irréprochables"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Congrès de la Nouvelle-Calédonie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience sur un poste similaire souhaitée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Congrès de la Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Congrès de la Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Administration générale",
+    "Ingénierie juridique"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chef de service",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2501",
+      "name": "Mise en oeuvre et pilotage de la politique des pouvoirs publics"
+    }
+  },
+  "responsibilities": [
+    "Supervision de l'enregistrement des textes déposés sur le bureau du congrès",
+    "Organisation et élaboration de l'agenda des commissions et séances ainsi que le calendrier des travaux du congrès devant être soumis à la conférence des présidents et au bureau, en partenariat avec la direction des affaires juridiques et du contentieux",
+    "Programmation, préparation et suivi des réunions de la conférence des présidents, du bureau et des commissions et des séances publiques",
+    "Coordination et contrôle des convocations des réunions des commissions et des séances publiques",
+    "Contrôle des ordres du jour des réunions de commissions et des séances publiques",
+    "Participation aux travaux des commissions, assistance aux conseillers dans le respect des dispositions du règlement intérieur et de la loi organique",
+    "Veille à la sécurisation juridique des procédures mises en œuvre au sein de l'institution",
+    "Expertise juridique sur l'application des dispositions du règlement intérieur de l'institution",
+    "Correction et diffusion des rapports de commission, ainsi que des comptes rendus intégraux des séances publiques",
+    "Reporting régulier à sa hiérarchie sur l'état d'avancement des rapports de commissions et des comptes rendus intégraux",
+    "Consolidation et publication des textes adoptés par l'institution et de la commission permanente",
+    "Rédaction, contrôle et gestion de tous types d'écrits de la direction",
+    "Supervision de la préparation et de la mise à jour des documents relatifs au renouvellement annuel de l'institution",
+    "Gestion quotidienne de tableau de bord de la direction",
+    "Management et animation d'une équipe",
+    "Suivi, analyse et production des indicateurs des travaux du congrès (hebdomadaire, mensuel, annuel)",
+    "Coordination de la production du rapport d'activités annuel du congrès de la Nouvelle-Calédonie"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Concevoir des tableaux de bord",
+    "Savoir communiquer efficacement",
+    "Analyser et exploiter des données",
+    "Gérer les priorités et hiérarchiser l'urgence des demandes",
+    "Rédiger des documents de synthèse et courriers",
+    "Maîtriser l'analyse et la rédaction juridique (note, avis...)",
+    "Préparer et organiser les dossiers administratifs et budgétaires",
+    "Assurer les contacts avec les interlocuteurs internes et externes",
+    "Animer des réunions",
+    "Fonctionner en mode projet",
+    "Maîtriser les règles de grammaire et d'orthographe",
+    "Utilisation d'un outil de dématérialisation KBOX",
+    "Gestion des priorités et des urgences",
+    "Esprit d'analyse et de synthèse",
+    "Capacité d'anticipation et de réactivité",
+    "Méthode et sens de l'organisation",
+    "Sens de l'initiative",
+    "Savoir gérer le stress",
+    "Très bon relationnel",
+    "Sens du travail en équipe",
+    "Discrétion absolue",
+    "Grande rigueur et fiabilité",
+    "Neutralité",
+    "Disponibilité",
+    "Très grande autonomie"
+  ],
+  "specialCommitments": null,
+  "title": "Chef du service des séances et commissions",
+  "totalJobOpenings": 5,
+  "validThrough": "2026-10-16",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "CNC",
+  "collectivite": "Congrès de la Nouvelle-Calédonie",
+  "direction": "CONGRES DE LA NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Incendie et secours",
+  "famille_source": "respnc",
+  "famille_score": 0.871,
+  "dossier": "incendie-et-secours"
+}
