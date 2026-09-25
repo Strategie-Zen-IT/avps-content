@@ -41,7 +41,8 @@
   "name": "DPS - Chef de cellule distribution du courrier - CDC GN",
   "owner": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications"
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -97,7 +98,8 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications"
+    "name": "Office des postes et télécommunications",
+    "logo": "https://avps.nc/logos/opt.png"
   },
   "incentiveCompensation": "Indemnité hiérarchique de chef de cellule",
   "industry": "Postes et télécommunications",
@@ -113,8 +115,7 @@
       "addressLocality": "Mont-Dore",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud",
-      "postalCode": "98809"
+      "province": "province Sud"
     }
   },
   "jobLocationType": null,
