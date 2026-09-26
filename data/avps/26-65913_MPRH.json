@@ -1,0 +1,206 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif",
+    "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
+    "uniteOrganisationnelle": "Service éducatif de milieu ouvert et d'insertion",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service et chefs de service éducatif du STEMOI",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Éducation nationale",
+      "ASE",
+      "APEJ",
+      "Casado",
+      "Tribunal",
+      "Quartier des mineurs"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Pouvoir adapter son emploi du temps individuel au projet des mineurs pris en charge"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service éducatif de milieu ouvert et d'insertion"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Marie-Gabrielle TOLIKOLI-MOTUTOA , chef de service STEMOI"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952226.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous la responsabilité du chef de service et des chefs de service éducatif du STEMOI, l'éducateur en milieu ouvert intervient auprès de mineurs âgés de 13 à 18 ans dans le cadre d'un mandat judiciaire.\n\nIl assure l'accompagnement socio-éducatif et le suivi des jeunes concernés par des mesures judiciaires, qu'il s'agisse de mesures d'assistance éducative (articles 375 et suivants du Code civil) ou de mesures relevant de la protection judiciaire de la jeunesse au titre de l'enfance délinquante (CJPM).",
+  "disambiguatingDescription": "Éducateur spécialisé en milieu ouvert au sein du STEMOI de la DPJEJ à Nouméa.",
+  "identifier": "26-65913/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Educateur spécialisé en milieu ouvert - STEMOI",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "23.20.10",
+    "email": "marie-gabrielle.tolikoli-motutoa@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'État d'éducateur spécialisé",
+    "competencyRequired": [
+      "Être titulaire du diplôme d'État d'éducateur spécialisé ou de l'attestation de validation de la formation d'éducateur de la protection judiciaire de la jeunesse, délivrée par l'École nationale de la protection judiciaire de la jeunesse",
+      "Évaluer et analyser les situations",
+      "Élaborer un projet éducatif individualisé dans le respect des personnes, de leur culture et du cadre institutionnel",
+      "Conduire des entretiens individuels et familiaux",
+      "Maîtriser les écrits à destination des magistrats",
+      "Connaître les textes relatifs à l'enfance en danger et à l'enfance délinquante",
+      "Connaître le référentiel mesures de la PJJ",
+      "Justifier d'une expérience professionnelle dans la prise en charge de mineurs en difficulté",
+      "Connaître le milieu socio-culturel et les institutions de la Nouvelle-Calédonie."
+    ]
+  },
+  "eligibilityToWorkRequirement": "au\nmoins égale à 5 ans",
+  "employerOverview": "La direction de la Protection judiciaire de l'enfance et de la jeunesse (DPJEJ), auparavant service rattaché à la direction des Affaires sanitaires et sociales, a été créée en novembre 2016.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service éducatif de milieu ouvert et d'insertion",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Justifier d'une expérience professionnelle dans la prise en charge de mineurs en difficulté",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Informations salaire disponibles sur https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "STEMOI",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-09-14",
+  "occupationalCategory": [
+    "Action sociale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Educateur spécialisé",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1302",
+      "name": "Educateur (de la protection judiciaire de la jeunesse, en milieu ouvert, socioéducatif)"
+    }
+  },
+  "responsibilities": [
+    "Suivi et accompagnement des mineurs dans le cadre judiciaire (pénal et civil) en milieu ouvert :",
+    "Visites à domicile",
+    "Accompagnement des jeunes dans leurs démarches",
+    "Rédaction régulière de rapports (cf. référentiel mesures et projet de service) à destination des magistrats pour rendre compte de l'évolution du jeune et/ou des difficultés rencontrées",
+    "Présence aux audiences",
+    "Travail en équipe pluridisciplinaire (éducateurs, directrice, chef de service éducatif, assistante sociale, psychologue)",
+    "Travail en concertation avec les autres services de la DPJEJ et en partenariat avec l'Éducation nationale, l'ASE, l'APEJ, Casado, etc.",
+    "Permanence éducative auprès du tribunal",
+    "Suivi des mineurs détenus en collaboration avec les éducateurs du Quartier des mineurs",
+    "Participation à la vie institutionnelle, d'une part par les réunions de service hebdomadaires, et d'autre part par les différents projets en cours de réflexion."
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Faire preuve du sens du travail en équipe pluridisciplinaire et de coopération avec les services extérieurs",
+    "Savoir prendre de la distance par rapport aux situations complexes.",
+    "Sens du travail en équipe éducative et pluriprofessionnelle",
+    "Sens de l'écoute",
+    "Engagement professionnel dans un projet collectif à construire et sens quotidien de la responsabilité collective",
+    "Empathie",
+    "Déontologie",
+    "Disponibilité."
+  ],
+  "specialCommitments": "Être titulaire du permis de conduire B ;\nPouvoir adapter son emploi du temps individuel au projet des mineurs pris en charge.",
+  "title": "Educateur spécialisé en milieu ouvert - STEMOI",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-10-16",
+  "workHours": null,
+  "champs_open_data": 32,
+  "employeur_sigle": "DPJEJ",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "action-sociale"
+}
