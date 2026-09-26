@@ -2,17 +2,29 @@
   "additionalType": {
     "corpsDomaine": "Attaché",
     "direction": "GROUPEMENT INSERTION EVOLUTION PROFESSIONNELLES DE NOUVELLE-CALEDONIE",
-    "uniteOrganisationnelle": null,
+    "uniteOrganisationnelle": "Pôle Préparatoire – S.P.O.T.",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Directeur adjoint en charge de la formation",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
+      "Direction",
       "Directeur adjoint en charge de la formation",
       "Partenaires publics",
-      "Partenaires institutionnels, associatifs et économiques",
-      "Autres services du groupement"
+      "Acteurs du territoire",
+      "Services du groupement",
+      "Réseaux et collectifs territoriaux liés à l'insertion"
     ],
     "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "1er janvier 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Date de clôture initialement prévue",
+        "value": "18/09/2026 (reportée)"
+      },
       {
         "@type": "PropertyValue",
         "name": "Fiche d'emploi générique RESPNC",
@@ -21,7 +33,7 @@
     ]
   },
   "alternateName": null,
-  "description": "Le Groupement pour l'Insertion et l'Evolution Professionnelles en Nouvelle-Calédonie (GIEP-NC), un ensemble de pôles de compétences pour le développement professionnel, a pour mission d'informer, orienter et accompagner dans le projet professionnel, de préparer à l'emploi et/ou à une formation qualifiante, et de former aux métiers de l'hôtellerie-restauration, de l'industrie, de la maintenance automobile, de la mer et du transport logistique.",
+  "description": "Le Groupement pour l'Insertion et l'Evolution Professionnelles en Nouvelle-Calédonie (GIEP-NC), un ensemble de pôles de compétences pour le développement professionnel, recrute un Responsable du Pôle Préparatoire – S.P.O.T. Ce pôle a pour mission d'informer, orienter et accompagner dans le projet professionnel, préparer à l'emploi et/ou à une formation qualifiante, et former aux métiers de l'hôtellerie-restauration, de l'industrie, de la maintenance automobile, de la mer et du transport logistique.",
   "disambiguatingDescription": null,
   "identifier": "26-1297",
   "image": null,
@@ -29,8 +41,7 @@
   "name": "Responsable du Pôle Préparatoire - S.P.O.T",
   "owner": {
     "@type": "Organization",
-    "name": "Groupement insertion évolution professionnelles de Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/giep-nc.png"
+    "name": "Groupement insertion évolution professionnelles de Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -38,18 +49,7 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "GIEP-NC",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "10 rue Kataoui Nouville",
-      "addressLocality": "Nouméa",
-      "addressRegion": "Province Sud",
-      "addressCountry": "NC",
-      "province": "province Sud"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": null,
@@ -59,20 +59,18 @@
   "datePosted": "2026-08-28",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": null,
+    "credentialCategory": "Diplôme exigé",
     "competencyRequired": [
-      "Ingénierie de formation",
-      "Ingénierie de l'insertion",
-      "Fonctionnement des institutions",
-      "Système de formation professionnelle en Nouvelle Calédonie"
+      "Maîtrise de l'ingénierie de formation et en particulier de l'ingénierie de l'insertion",
+      "Connaissance du fonctionnement des institutions et en particulier du système de formation professionnelle en Nouvelle Calédonie"
     ]
   },
   "eligibilityToWorkRequirement": null,
   "employerOverview": "Le Groupement pour l'Insertion et l'Evolution Professionnelles en Nouvelle-Calédonie (GIEP-NC) est un ensemble de pôles de compétences pour le développement professionnel.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
-    "name": "Pôle Préparatoire – S.P.O.T.",
+    "@type": "OrganizationalUnit",
+    "name": "GIEP-NC",
     "url": null,
     "logo": null
   },
@@ -81,8 +79,7 @@
   "experienceRequirements": "Expérience exigée d'un management structuré et participatif d'une équipe pluridisciplinaire",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Groupement insertion évolution professionnelles de Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/giep-nc.png"
+    "name": "Groupement insertion évolution professionnelles de Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Formation professionnelle",
@@ -91,14 +88,15 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Pôle Préparatoire – S.P.O.T.",
+    "name": "GIEP-NC",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "10 rue Kataoui Nouville",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud"
+      "province": "province Sud",
+      "postalCode": "98800"
     }
   },
   "jobLocationType": null,
@@ -125,7 +123,7 @@
     "Développer un lien et coordonner l'action du pôle avec l'ensemble des acteurs du territoire",
     "Garantir la mise en œuvre de la politique santé et sécurité définie au niveau du GIEP",
     "Rendre compte de son activité au directeur adjoint en charge de la formation",
-    "Tenir à jour les statistiques et indicateurs de performance nécessaires au suivi de l'activité du pôle et des stagiaires",
+    "Tenir à jour les statistiques et indicateurs de performance nécessaires au suivi de l'activité du pôle et des stagiaires en sortie de formation",
     "Piloter le développement de nouveaux axes et la pérennisation de son pôle",
     "Définir les orientations opérationnelles du Pôle Préparatoire - SPOT et mettre en œuvre ses programmes de formations",
     "Assurer le suivi pédagogique des formations et piloter l'innovation pédagogique du dispositif",
@@ -136,7 +134,7 @@
     "Assurer la gestion interne et le suivi des budgets du pôle",
     "Assurer le management pluridisciplinaire du personnel du Pôle Préparatoire - SPOT",
     "Suivre les indicateurs de performance du pôle",
-    "Assurer une veille sur l'évolution des produits de formation et d'insertion",
+    "Assurer une veille sur l'évolution des produits de formation et d'insertion en Nouvelle-Calédonie et sur d'autres territoires",
     "Assurer une veille sur le maintien des compétences de l'équipe pédagogique",
     "Participer au recrutement des agents du pôle",
     "Participer aux réunions de direction",
@@ -162,11 +160,11 @@
     "Disponibilité et mobilité"
   ],
   "specialCommitments": null,
-  "title": "Responsable du Pôle Préparatoire – S.P.O.T.",
+  "title": "Responsable du Pôle Préparatoire - S.P.O.T",
   "totalJobOpenings": 4,
   "validThrough": "2026-10-09",
   "workHours": null,
-  "champs_open_data": 8,
+  "champs_open_data": 9,
   "employeur_sigle": "GIEP NC",
   "collectivite": "Groupement insertion évolution professionnelles de Nouvelle-Calédonie",
   "direction": "GROUPEMENT INSERTION EVOLUTION PROFESSIONNELLES DE NOUVELLE-CALEDONIE",
