@@ -1,0 +1,208 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien adjoint",
+    "direction": "DIRECTION DES INFRASTRUCTURES, DE LA TOPOGRAPHIE ET DES TRANSPORTS TERRESTRES",
+    "uniteOrganisationnelle": "Service des affaires administratives et financières, de l'informatique et de la réglementation",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "DINUM",
+      "Prestataires",
+      "Différents services de la DITTT"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 10 ans pour le recrutement sur titre de Technicien adjoint du domaine informatique."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service des affaires administratives et financières, de l'informatique et de la réglementation"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Sabrina ARGIRIOU, Directrice"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955506.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé(e) sous l'autorité du chef de service, le/la technicien(ne) assure le support informatique de proximité et le suivi des moyens logistiques de la DITTT. Il/Elle accompagne les utilisateurs, assure le maintien en condition opérationnelle des équipements et contribue à la disponibilité des moyens nécessaires au fonctionnement des différents services et sites de la direction, dans le respect des procédures de la DINUM",
+  "disambiguatingDescription": "Technicien support informatique et moyens logistiques au sein de la DITTT.",
+  "identifier": "26-65974/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Technicien support informatique et moyens logistiques",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "DITTT",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "28.03.23",
+    "email": "sabrina.argiriou@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Technicien adjoint du domaine informatique",
+    "competencyRequired": [
+      "Bonne maîtrise de l'environnement informatique et des outils bureautiques",
+      "Connaissances des postes de travail, réseaux, systèmes d'exploitation et messagerie",
+      "Sensibilisation aux enjeux de cybersécurité et de protection des données",
+      "Connaissance des outils de gestion des incidents et demandes informatiques",
+      "Connaissances en maintenance des équipements et en gestion logistiques seraient appréciées."
+    ]
+  },
+  "eligibilityToWorkRequirement": "Technicien adjoint du domaine informatique : au moins égale à 10 ans.",
+  "employerOverview": "La direction des infrastructures, de la topographie et des transports terrestres est une direction du gouvernement de la Nouvelle Calédonie traitant, sous l'autorité du secrétariat général, de missions principalement techniques. Composée de 133 agents et organisée autour de 7 services fonctionnels, elle agit sous l'animation et le contrôle de plusieurs membres du gouvernement.\nLes politiques publiques qui y sont mises en œuvre concernent les domaines suivants : aménagement, gestion et entretien du réseau routier territorial, balisage maritime, cadastre, cartographie, topographie, éducation et sécurité routière, autorisation de circuler et de conduire, contrôle technique des véhicules, réglementation du transport routier.\nAu sein de la DITTT, le service des permis de conduire  assure notamment l'organisation des examens et la délivrance des permis de conduire. Il assure  la gestion des autorisations liées à l'enseignement de la conduite, le traitement des retraits et suspensions des permis de conduire initiés par les forces de l'ordre et enfin, il assure la mise à jour des bases de données relatives aux permis de conduire.\nLe bureau de l'éducation et de la sécurité routière du service des permis de conduire a en charge l'organisation des examens de permis de conduire et sa gestion administrative.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service des affaires administratives et financières, de l'informatique et de la réglementation",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "DITTT",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Gestionnaire de parc informatique",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1801",
+      "name": "Gestionnaire du parc informatique"
+    }
+  },
+  "responsibilities": [
+    "1. Assurer le support informatique de proximité :",
+    "Installer, configurer et suivre les postes de travail, équipements mobiles, téléphone et logiciels",
+    "Assister les utilisateurs, diagnostiques les incidents et assurer leur résolution ou leur transmission à la DINUM",
+    "Gérer les profils, droits d'accès et équipements, dans le respect des règles de sécurité informatique.",
+    "2. Maintenir les équipements et accompagner les utilisateurs :",
+    "Assurer la maintenance de premier niveau et le suivi des interventions techniques",
+    "Accompagner les agents dans l'utilisation des outils et sensibiliser aux bonnes pratiques numériques",
+    "3. Assurer le suivi des interventions et le suivi des demandes.",
+    "Recenser les besoins, organiser la mise à disposition et assurer le suivi des équipements et petits matériels nécessaires aux services",
+    "Assurer le suivi des contrats, interventions de maintenance, commandes et prestations",
+    "Veiller au bon fonctionnement des moyens matériels sur les différents sites de la direction.",
+    "4. Contribuer à l'amélioration du fonctionnement des services :",
+    "Identifier les dysfonctionnements et proposer des solutions pratiques",
+    "Elaborer les outils de suivi et tableaux de bord nécessaires à l'activité",
+    "Participer aux projets d'évolution des équipements, des outils et des conditions de travail.",
+    "Assurer la gestion des accès physiques et des badges des différents sites de la DITTT",
+    "Contribuer à la mise à jour des outils de communication et du site internet de la DITTT",
+    "Participer à toute mission ponctuelle relevant des fonctions support de la direction."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Diagnostiquer et résoudre les incidents de premier niveau",
+    "Accompagner des utilisateurs aux profils et besoins variés",
+    "Organiser et suivre des interventions, commandes et prestations",
+    "Gérer les priorités et intervenir avec réactivité",
+    "Travailler en coordination avec la DINUM, les prestataires et les différents services de la DITTT",
+    "Être capable de travailler de manière autonome sur plusieurs sites.",
+    "Sens du service et de la proximité avec les utilisateurs",
+    "Réactivité et capacité à trouver des solutions",
+    "Polyvalence et capacité d'adaptation",
+    "Autonomie et esprit d'initiative",
+    "Rigueur et méthode",
+    "Qualités relationnelles et pédagogie",
+    "Discrétion et respect de la confidentialité",
+    "Goût du travail en équipe."
+  ],
+  "specialCommitments": null,
+  "title": "Technicien support informatique et moyens logistiques",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-16",
+  "workHours": null,
+  "champs_open_data": 29,
+  "employeur_sigle": "DITTT",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES INFRASTRUCTURES, DE LA TOPOGRAPHIE ET DES TRANSPORTS TERRESTRES",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Système d'information",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "systeme-d-information"
+}
