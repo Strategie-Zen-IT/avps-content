@@ -1,0 +1,217 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché / conseiller des APS",
+    "direction": "DIRECTION DE LA JEUNESSE ET DES SPORTS",
+    "uniteOrganisationnelle": "Service des sports",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service des sports",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Haut Conseil du Sport Calédonien (HCSC)",
+      "Mouvement sportif",
+      "Ligues",
+      "Fédérations",
+      "Collectivités",
+      "Chercheurs universitaires",
+      "Secteur médical (plan Do Kamo)",
+      "Experts du sport",
+      "Provinces",
+      "Communes",
+      "Associations",
+      "Conseil des jeux",
+      "Fédérations océaniennes",
+      "Instituts des sports"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Ponctualité, Déplacements et missions avec des horaires atypiques."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service des sports"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Marc HMAZUN, Chef du serive des sports"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957366.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'agent est placé sous l'autorité du chef de service des sports et sera chargé du suivi et de l'évaluation du plan stratégique de la pratique sportive de la Nouvelle-Calédonie. Ainsi, la mission consiste à suivre et à mesurer le déploiement des actions inscrites dans le plan sport selon ses 4 axes stratégiques (gouvernance, développement social et santé, développement territorial, accès au haut niveau) et de structurer la gouvernance des politiques sportives.",
+  "disambiguatingDescription": "Coordonnateur du plan stratégique de la pratique sportive en Nouvelle-Calédonie",
+  "identifier": "26-65912/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Coordonnateur du plan stratégique de la pratique sportive en Nouvelle-Calédonie",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.07.40",
+    "email": "djsnc@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Compétences professionnelles dans les principaux domaines d'intervention de la direction (sport, activités physiques, politiques publiques)",
+      "Avoir une bonne connaissance des circuits administratifs et des procédures internes à la direction et la collectivité",
+      "Maîtrise des principes de base du fonctionnement des collectivités locales et du mouvement sportif calédonien",
+      "Bonne connaissance du management de projets et des méthodologies d'évaluation des politiques publiques",
+      "Avoir une bonne connaissance des institutions publiques, éducationnelles et médicales en Nouvelle-Calédonie",
+      "Maîtriser les outils bureautiques et informatiques : Word, Excel, Gsuite, logiciels statistiques et cartographiques",
+      "Posséder des notions juridiques (réglementation sportive, agréments, dopage) et de comptabilité publique."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La Nouvelle-Calédonie s'appuie sur la Direction de la Jeunesse et des Sports (DJS) pour mettre en œuvre ses compétences en matière de réglementation des activités sportives et socio-éducatives, de création et de gestion d'infrastructures, et d'organisation de manifestations sportives et culturelles concernant l'institution.\n\nLa DJS est placée sous l'autorité d'un directeur, assisté de chefs de service. Elle est organisée en trois services :\n- le service des sports,\n- le service de la jeunesse,\n- le service de l'administration générale.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service des sports",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Service des sports",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-11-01",
+  "occupationalCategory": [
+    "Animation",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable administratif",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Responsable administratif, administratif de gestion, administratif et financier"
+    }
+  },
+  "responsibilities": [
+    "L'agent assistera le chef du service des sports et sera notamment chargé de définir les actions relatives aux leviers opérationnels du plan stratégique concerté en faveur du sport en Nouvelle-Calédonie, et d'en évaluer le déploiement.",
+    "Cela concerne notamment les actions suivantes :",
+    "Renforcer le pilotage et la gouvernance de la politique sportive à l'échelle de la NC :",
+    "Élaborer le plan d'action pour le suivi et la mise en œuvre des instances de concertation, notamment le positionnement du Haut Conseil du Sport Calédonien (HCSC)",
+    "Recenser les dispositifs et équipements sportifs locaux / provinciaux, territoriaux, nationaux et internationaux",
+    "Assurer le suivi administratif du Haut Conseil du Sport Calédonien, l'organisation des commissions ad hoc et de son secrétariat.",
+    "Participer à la mise en œuvre et à la déclinaison des axes stratégiques du plan sport NC",
+    "Participer à la rédaction des rapports, bilans et documents issus des travaux sur la politique sportive",
+    "Communiquer auprès de tous les acteurs du mouvement sportif, des ligues, fédérations et collectivités sur les orientations du plan sport",
+    "Communiquer avec des outils adaptés auprès de l'ensemble des pratiquants et usagers",
+    "Participer à l'élaboration de la démarche d'évaluation du plan stratégique de la pratique sportive de la NC",
+    "Concevoir un outil statistique et d'aide à la décision concernant la pratique sportive et les infrastructures",
+    "Travailler avec les chercheurs universitaires, le secteur médical (plan Do Kamo) et les experts du sport pour accompagner la mise en place des politiques publiques sportives et de santé.",
+    "Identifier et créer un réseau d'acteurs sur l'ensemble du territoire (provinces, communes, associations) pour apporter de la plus-value aux instances sportives",
+    "Créer et organiser un réseau d'acteurs  dans le Pacifique (Conseil des jeux, fédérations océaniennes, Instituts des sports... )",
+    "Recenser les dispositifs de financement (publics, privés, fonds régionaux/internationaux) dédiés au sport et proposer des partenariats pour optimiser les ressources.",
+    "Valoriser les initiatives et les pratiques sportives pour mettre en lumière le vivre-ensemble et l'excellence",
+    "Identifier et rencontrer les ligues, clubs et acteurs locaux afin d'inclure les dirigeants et éducateurs bénévoles dans le réseau territorial",
+    "Renforcer les espaces d'échanges autour du sport-santé, du sport pour tous et de l'intégration sociale",
+    "Accompagner la structuration des dispositifs d'accès au haut niveau et de suivi de la performance des athlètes calédoniens."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Innover, impulser, animer, piloter, évaluer et contrôler",
+    "Conduire des diagnostics et évaluations de politiques publiques",
+    "Traduire les orientations politiques en plans d'action ou projets stratégiques",
+    "Concevoir une organisation et arbitrer les grands équilibres de moyens",
+    "Sens des relations humaines",
+    "Travail en équipe",
+    "Sens de l'anticipation et méthode d'organisation",
+    "Maîtriser les logiciels et applicatifs suivants: CICA, Actes Manager, Jira, Surfi.",
+    "Sens de l'écoute et de la pédagogie",
+    "Curieux",
+    "Dynamisme et réactivité (force de proposition, sens de l'initiative et encadrement actif)",
+    "Rigueur et autonomie",
+    "Esprit d'équipe",
+    "Sens du travail en équipe et bon relationnel",
+    "Disponibilité",
+    "Loyauté",
+    "Sens du reporting",
+    "Aisance orale et écrite."
+  ],
+  "specialCommitments": "- Ponctualité,\n- Déplacements et missions avec des horaires atypiques.",
+  "title": "Coordonnateur du plan stratégique de la pratique sportive en Nouvelle-Calédonie",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-10-16",
+  "workHours": "Horaires atypiques",
+  "champs_open_data": 31,
+  "employeur_sigle": "DJS",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE LA JEUNESSE ET DES SPORTS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "administration-generale"
+}
