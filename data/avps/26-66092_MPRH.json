@@ -1,0 +1,176 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "CONSEIL COUTUMIER NENGONE",
+    "uniteOrganisationnelle": "Conseil coutumier Nengone",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Président",
+      "Secrétaire général",
+      "Membres du conseil coutumier",
+      "Autorités coutumières"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Horaires irréguliers en fonction des obligations du service."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Madeleine CAWA"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957366.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le ou la chargé(e) de mission assiste le président, le secrétaire général ainsi que les membres du conseil coutumier dans la mise en œuvre des compétences attribuées au conseil coutumier par la loi organique modifiée n° 99-209 du 19 mars 1999.",
+  "disambiguatingDescription": null,
+  "identifier": "26-66092/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé(e) de mission",
+  "owner": {
+    "@type": "Organization",
+    "name": "Conseil des aires coutumières"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "77.50.67",
+    "email": "madeleine.cawa@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaissance de la culture kanak",
+      "Connaissance générale des institutions de la Nouvelle-Calédonie",
+      "Connaissance des institutions coutumières et en particulier des chefferies et de l'organisation coutumière dans l'aire coutumière Nengone",
+      "Connaissance du fonctionnement et des procédures administratives",
+      "Maîtrise d'une langue vernaculaire souhaitée (Nengone)",
+      "Permis B."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Conseil des aires coutumières",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Conseil des aires coutumières"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Informations salaire : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Conseil coutumier Nengone",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": null,
+      "addressRegion": "Province des Îles Loyauté",
+      "addressCountry": "NC"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "immédiatement",
+  "occupationalCategory": [
+    "Administration générale",
+    "Culture"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable administratif",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Responsable administratif, administratif de gestion, administratif et financier"
+    }
+  },
+  "responsibilities": [
+    "Rédiger des notes et des rapports sur les sujets et missions confiées par sa hiérarchie",
+    "Gérer le registre des autorités coutumières",
+    "Travailler en étroite collaboration avec les autorités coutumières en participant aux réunions des districts",
+    "Gérer le patrimoine immobilier et mobilier et assurer la logistique des déplacements des membres de l'aire",
+    "Collecter le patrimoine culturel kanak de l'aire coutumière",
+    "Actualiser les bases de données et veille règlementaire",
+    "Gérer le tableau de suivi des incidences de fonctionnement."
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Rédiger des notes",
+    "Utiliser les outils informatique.",
+    "Sens de la communication",
+    "Esprit d'initiative, esprit d'équipe",
+    "Dynamisme",
+    "Méthode et rigueur",
+    "Intégrité",
+    "Sens élevé des responsabilités et du service public."
+  ],
+  "specialCommitments": "Horaires irréguliers en fonction des obligations du service.",
+  "title": "Chargé(e) de mission",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-16",
+  "workHours": "Horaires irréguliers",
+  "champs_open_data": 24,
+  "employeur_sigle": "CONSEIL-DES-AIRES-COUTUMIERES",
+  "collectivite": "Conseil des aires coutumières",
+  "direction": "CONSEIL COUTUMIER NENGONE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "administration-generale"
+}
