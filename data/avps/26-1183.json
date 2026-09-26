@@ -2,15 +2,16 @@
   "additionalType": {
     "corpsDomaine": "Chirurgien dentiste",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "Bureau dentaire-Centres médico sociaux",
+    "uniteOrganisationnelle": "Bureau dentaire du Service des Métiers de Soins du Pôle Soins",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef(fe) de Bureau Dentaire",
+    "superieurHierarchique": "Chef de Bureau Dentaire",
     "placeOrganigramme": "Placée sous l'autorité du (de la) chef(fe) de Bureau Dentaire, et du (de la) directeur(-trice) adjoint(e) en charge du Pôle Soins",
     "relationsFonctionnelles": [
-      "Service des Métiers de Soins",
-      "Pôle Soins",
       "Equipes des CMS",
-      "Spécialistes et partenaires (médicaux, sociaux, associatifs, scolaires)"
+      "Spécialistes et partenaires médicaux",
+      "Spécialistes et partenaires sociaux",
+      "Spécialistes et partenaires associatifs",
+      "Spécialistes et partenaires scolaires"
     ],
     "informationsLibres": [
       {
@@ -26,8 +27,8 @@
     ]
   },
   "alternateName": null,
-  "description": "Le Bureau dentaire du Service des Métiers de Soins du Pôle Soins gère les chirurgiens-dentistes et les assistantes dentaires des centres médico-sociaux et compte 20 agents. La personne retenue effectuera les actes du champ professionnel du praticien dentaire en veillant à répondre à la mission de santé publique du poste. Elle veillera notamment à appliquer la politique de santé publique de la province Nord et à mettre en œuvre ses programmes de dépistage, de prévention et de promotion de la santé bucco-dentaire.",
-  "disambiguatingDescription": null,
+  "description": "La DASSP compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux. Le Bureau dentaire du Service des Métiers de Soins du Pôle Soins gère les chirurgiens-dentistes et les assistantes dentaires des centres médico-sociaux et compte 20 agents (1 chef de Bureau dentaire, 10 chirurgiens-dentistes, 9 assistants(es) dentaires).",
+  "disambiguatingDescription": "Poste de Chirurgien-Dentiste au CMS de Ponérihouen sous l'autorité du chef de Bureau Dentaire.",
   "identifier": "26-1183",
   "image": null,
   "mainEntityOfPage": null,
@@ -35,7 +36,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "http://www.province-nord.nc"
+    "url": "www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -44,8 +45,8 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
-    "name": "CMS de Ponérihouen",
+    "@type": "Place",
+    "name": "CMS de PONÉRIHOUEN",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -67,9 +68,7 @@
     "credentialCategory": "Diplôme d'Etat de chirurgien-dentiste ou de docteur en chirurgie-dentaire",
     "competencyRequired": [
       "Diplôme d'Etat de chirurgien-dentiste ou de docteur en chirurgie-dentaire",
-      "Permis de conduire B",
-      "Expérience professionnelle en outre-mer appréciée",
-      "Expérience professionnelle d'au moins un an en matière de santé publique et de prévention appréciée"
+      "Permis de conduire B"
     ]
   },
   "eligibilityToWorkRequirement": null,
@@ -77,26 +76,26 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Province Nord",
-    "url": "http://www.province-nord.nc",
+    "name": "Bureau dentaire du Service des Métiers de Soins du Pôle Soins",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience professionnelle d'au moins un an en matière de santé publique et de prévention appréciée. Expérience en outre-mer appréciée.",
+  "experienceRequirements": "Expérience professionnelle en outre-mer serait appréciée. Expérience professionnelle d'au moins un an en matière de santé publique et de prévention serait appréciée.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "http://www.province-nord.nc"
+    "url": "www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "CMS de Ponérihouen",
+    "name": "CMS de PONÉRIHOUEN",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -120,10 +119,12 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Chirurgie dentaire"
+      "name": "Médecine de prévention"
     }
   },
   "responsibilities": [
+    "Effectuer les actes du champ professionnel du praticien dentaire en veillant à répondre à la mission de santé publique du poste",
+    "Appliquer la politique de santé publique de la province Nord et mettre en œuvre ses programmes de dépistage, de prévention et de promotion de la santé bucco-dentaire",
     "Réalisation des soins conservateurs et restaurateurs, extractions dentaires, acte de petite chirurgie et de parodontie, prothèse adjointe et conjointe",
     "Gestion et le suivi des soins aux publics cible (RAA/CRC, diabétique, etc...)",
     "Participation aux actions de dépistage et de prévention propres à la province Nord ou en partenariat avec d'autres organismes",
