@@ -1,0 +1,194 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Professeur des écoles / instituteur",
+    "direction": "DIRECTION DE L'ENSEIGNEMENT DE LA NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": "5ème circonscription",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Inspecteur de l'enseignement primaire",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Direction de l'enseignement de la Nouvelle-Calédonie",
+      "Inspecteur de l'enseignement primaire",
+      "Équipes enseignantes"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Les missions dévolues à l'agent recruté à l'annexe de la 5ème circonscription (Koné) nécessitent des déplacements fréquents sur de longues distances."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Susceptible d'être vacant le 01/07/2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "5ème circonscription"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Gabriel AVILEZ"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952122.PDF"
+      }
+    ]
+  },
+  "alternateName": "Conseiller pédagogique - IEP 5 - Résidence KOUMAC",
+  "description": "Placé  sous  l'autorité  de  l'inspecteur de  l'enseignement  primaire  au  sein  de  la  5ème   circonscription, le ou la conseiller(e) pédagogique est titulaire d'un CAFIPEMF (Certificat d'aptitude aux fonctions d'instituteur ou de professeur des écoles maître formateur), et détenteur de compétences avérées dans l'usage des technologies de l'information et de la communication pour l'enseignement (TICE). Il est souhaité qu'il porte un intérêt pour la formation ouverte à distance (FOAD).\n\nIl inscrit son action dans le cadre du projet de service de la DENC et du programme de travail de la circonscription, validé par la directrice de l'enseignement de la Nouvelle-Calédonie.",
+  "disambiguatingDescription": "Poste de conseiller pédagogique basé à Koumac, rattaché à la 5ème circonscription de la DENC, nécessitant des déplacements fréquents.",
+  "identifier": "26-65836/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Conseiller(e) pédagogique - IEP 5   -Résidence KOUMAC",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "52.86.79",
+    "email": "gabriel.aviles@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "CAFIPEMF",
+    "competencyRequired": [
+      "Titulaire d'un CAFIPEMF (Certificat d'aptitude aux fonctions d'instituteur ou de professeur des écoles maître formateur)",
+      "Parfaite connaissance des programmes scolaires et culture pédagogique actualisée pour les 3 cycles de l'école primaire",
+      "Bonne connaissance du système éducatif et de la répartition des compétences de l'enseignement en Nouvelle-Calédonie",
+      "Bonne culture générale",
+      "Disposer de bonnes connaissances des approches pédagogiques et didactiques",
+      "Maîtriser les technologies de l'information et de la communication",
+      "Bonne connaissance des TICE et de la FOAD."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction de l'enseignement de la Nouvelle-Calédonie est chargée :\n- des programmes scolaires de l'école primaire publique, sous réserve de la compétence des provinces pour leur adaptation en fonction des réalités culturelles et linguistiques ;\n- de la formation initiale et continue des maîtres de l'enseignement primaire public ;\n- du contrôle pédagogique de l'enseignement primaire public, c'est à dire notamment de l'animation, de l'aide et de l'inspection pédagogiques dans les écoles publiques ;\n\nLa direction comprend, une antenne à Koné, un service pédagogique, un service administratif et financier, un service de la prévention du décrochage scolaire et 7 circonscriptions.\nLa 5ème circonscription est située en Province Nord. Celle-ci exerce sur les communes de Poya, Pouembout, Koné, Voh, Kaala-Gomen,Ouégoa, Koumac,Poum.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "5ème circonscription",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Titulaire du CAFIPEMF (Certificat d'aptitude aux fonctions d'instituteur ou de professeur des écoles maître formateur) et compétences avérées dans l'usage des TICE.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Education",
+  "jobBenefits": "Informations de salaire disponibles sur le site de la DRHFPNC (filière enseignement).",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "5ème circonscription - Résidence KOUMAC",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Koumac",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98850"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-07-01",
+  "occupationalCategory": [
+    "Education"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "CAFIPEMF (Certificat d'aptitude aux fonctions d'instituteur ou de professeur des écoles maître formateur)",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Conseiller pédagogique",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2107",
+      "name": "Coordinateur (de formateurs, de stages de formation professionnelle, pédagogique, de dispositif de formation)"
+    }
+  },
+  "responsibilities": [
+    "Former les enseignants dans leurs pratiques professionnelles quotidiennes, en accompagnant en priorité les nouveaux nommés",
+    "Concevoir et organiser des animations pédagogiques",
+    "Assister les équipes enseignantes dans l'organisation et le fonctionnement des cycles pédagogiques, contribuer à la réalisation et au suivi des projets d'école",
+    "Favoriser le développement des usages du numérique dans la mise en œuvre des programmes et du socle commun des connaissances et des compétences et promouvoir l'utilisation des nouvelles technologies en favorisant l'émergence de projets pédagogiques intégrant leur utilisation.",
+    "Expertise pédagogique:",
+    "Participer à l'élaboration des documents et outils d'accompagnement des nouveaux programmes",
+    "Participer à la mise en œuvre des projets pédagogiques d'envergure",
+    "Caractéristique particulières de l'emploi : Les missions dévolues à l'agent recruté à l'annexe de Koné,  nécessitent des déplacements fréquents sur de longues distances",
+    "Aider à l'intégration harmonieuse des TICE dans les stratégies d'apprentissage et d'enseignement",
+    "Participer de manière secondaire à l'élaboration de sujets de concours et à certains jurys.",
+    "Activités secondaires : Activités secondaires : missions  et/ou  affectation ponctuelle sur une autre circonscription  en fonction des besoins de  la direction de l'enseignement."
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Assister les équipes d'enseignants",
+    "Organiser et mener des sessions de formation initiale et continue",
+    "Concevoir des outils pédagogiques.",
+    "Rigueur",
+    "Sens de l'organisation",
+    "Curiosité intellectuelle",
+    "Qualités relationnelles",
+    "Esprit d'équipe",
+    "Sens de l'écoute",
+    "Professionnalisme",
+    "Capacité à rendre compte."
+  ],
+  "specialCommitments": "Caractéristique particulières de l'emploi : Les missions dévolues à l'agent recruté à l'annexe de la 5ème circonscription (Koné) nécessitent des déplacements fréquents sur de longues distances.",
+  "title": "Conseiller(e) pédagogique - IEP 5   -Résidence KOUMAC",
+  "totalJobOpenings": 2,
+  "validThrough": "2026-10-16",
+  "workHours": null,
+  "champs_open_data": 31,
+  "employeur_sigle": "DENC",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE L'ENSEIGNEMENT DE LA NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Education",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "education"
+}
