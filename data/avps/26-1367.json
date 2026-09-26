@@ -4,30 +4,31 @@
     "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
     "uniteOrganisationnelle": "Service oncologie/hématologie",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Cadre supérieur de santé",
+    "superieurHierarchique": "Cadre supérieur de santé du CHT",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Médecins",
       "Médecins traitants",
-      "Infirmiers libéraux",
+      "Infirmier(ères) libéraux",
       "Pharmaciens",
-      "Structures de soins et associations"
+      "Structures de soins",
+      "Associations"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
         "value": "Au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
-        "name": "Prise en charge du billet",
-        "value": "Billet aller uniquement"
+        "name": "Primes spécifiques",
+        "value": "Nuit, week-end..."
       },
       {
         "@type": "PropertyValue",
-        "name": "Formation requise",
-        "value": "Formation AFGSU niveau 2 à jour"
+        "name": "Avantages",
+        "value": "Reprise de l'ancienneté possible selon la réglementation en vigueur, Prise en charge du billet aller uniquement"
       },
       {
         "@type": "PropertyValue",
@@ -56,24 +57,25 @@
       }
     ]
   },
-  "alternateName": null,
-  "description": "Ce poste s'inscrit dans une volonté institutionnelle d'élargir l'offre de compétences avancées et de renforcer la prise en charge globale des patients atteints de pathologies cancéreuses et hématologiques.",
-  "disambiguatingDescription": "Poste d'infirmier en pratique avancée au sein du service oncologie/hématologie du CHT Gaston Bourret.",
+  "alternateName": "IPA Oncologie-Hématologie",
+  "description": "Ce poste s'inscrit dans une volonté institutionnelle d'élargir l'offre de compétences avancées et de renforcer la prise en charge globale des patients atteints de pathologies cancéreuses et hématologiques. L'objectif est d'améliorer la fluidité et la continuité du parcours patient, l'accès rapide aux soins, la qualité du suivi des traitements, la coordination entre ville et hôpital, et la disponibilité médicale sur les consultations complexes.",
+  "disambiguatingDescription": "Infirmier(ère) en pratique avancée au sein du service oncologie/hématologie du Centre Hospitalier Territorial.",
   "identifier": "26-1367",
   "image": null,
   "mainEntityOfPage": null,
   "name": "1 Infirmier(ère) en pratique avancée - service oncologie/hématologie",
   "owner": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
-    "logo": "https://avps.nc/logos/cht.png"
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
   },
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
   "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "WorkLocation",
+    "@type": "Schedule",
     "name": "Médipôle Koutio",
     "address": {
       "@type": "PostalAddress",
@@ -95,34 +97,31 @@
   "educationRequirements": {
     "credentialCategory": "Diplôme d'État d'infirmier",
     "competencyRequired": [
-      "Évaluation clinique, biologique et psychologique du patient",
-      "Identification des patients fragiles",
-      "Gestion et surveillance des effets secondaires et complications des traitements",
-      "Réévaluation ou adaptation thérapeutique",
-      "Éducation thérapeutique du patient",
       "Expertise en oncologie, hématologie et soins palliatifs",
       "Maîtrise de l'évaluation clinique avancée",
-      "Connaissance approfondie des traitements spécifiques"
+      "Connaissance approfondie des traitements spécifiques (thérapie orale, protocoles, utilisation PCA)",
+      "Formation AFGSU niveau 2 à jour"
     ]
   },
   "eligibilityToWorkRequirement": "AU MOINS EGALE A 10 ANS",
-  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret est l'établissement hospitalier de référence en Nouvelle-Calédonie.",
+  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret est l'établissement de santé de référence en Nouvelle-Calédonie, situé au Médipôle Koutio.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Service oncologie/hématologie"
+    "name": "Centre Hospitalier Territorial",
+    "url": null,
+    "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": false,
+  "experienceInPlaceOfEducation": null,
   "experienceRequirements": "Une expérience dans un service similaire serait un plus",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Centre hospitalier territorial \"Gaston Bourret\"",
-    "logo": "https://avps.nc/logos/cht.png"
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
   },
-  "incentiveCompensation": "Primes spécifiques de nuit et de week-end",
-  "industry": "Santé",
-  "jobBenefits": "Reprise de l'ancienneté possible selon la réglementation en vigueur, grilles indiciaires de la fonction publique de Nouvelle-Calédonie, prise en charge du billet aller uniquement",
+  "incentiveCompensation": "Primes spécifiques (nuit, week-end...)",
+  "industry": "Santé publique soins",
+  "jobBenefits": "Grilles indiciaires de la fonction publique de Nouvelle-Calédonie, reprise de l'ancienneté possible, prise en charge du billet aller uniquement",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -144,26 +143,26 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Formation AFGSU niveau 2 à jour",
+  "qualifications": "Diplôme d'État d'infirmier / infirmier en soins généraux, Formation AFGSU niveau 2 à jour",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Infirmier en pratique avancée",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Infirmier en pratique avancée"
+      "name": "Coordination de services médicaux ou paramédicaux"
     }
   },
   "responsibilities": [
-    "Réaliser des consultations rapprochées, régulières et prolongées",
-    "Évaluer cliniquement, biologiquement et psychologiquement le patient",
-    "Identifier les patients fragiles",
-    "Gérer et surveiller les effets secondaires et complications des traitements",
+    "Réaliser des consultations rapprochées, régulières et prolongées dans le cadre des protocoles d'organisation validés avec les médecins",
+    "Assurer l'évaluation clinique, biologique et psychologique du patient",
+    "Identifier les patients fragiles présentant un isolement, une observance difficile, des comorbidités ou une vulnérabilité sociale",
+    "Gérer et surveiller les effets secondaires et les complications des traitements",
     "Réévaluer ou adapter la thérapeutique autorisée dans son champ de compétences",
     "Diminuer la charge des consultations de suivi des médecins",
-    "Prendre en charge certaines consultations identifiées en lymphomes, syndrome myélodysplasique, myélomes, cancers digestifs et cancers du sein",
+    "Prendre en charge certaines consultations identifiées pour les lymphomes, syndromes myélodysplasiques, myélomes, cancers digestifs et cancers du sein",
     "Faciliter l'accès aux premières consultations et l'orientation rapide des patients",
-    "Assurer un lien renforcé avec les médecins traitants, les infirmiers libéraux, les pharmaciens, les structures de soins et associations",
+    "Assurer un lien renforcé avec les médecins traitants, les infirmiers libéraux, les pharmaciens, les structures de soins et les associations",
     "Communiquer et diffuser les informations nécessaires à un parcours fluide",
     "Contribuer à la structuration d'un réseau territorialisé IPA Oncologie-Hématologie",
     "Participer à l'élaboration et l'animation d'ateliers d'éducation thérapeutique à destination des patients et de leur entourage",
@@ -179,23 +178,18 @@
     "Travail en équipe",
     "Bon relationnel",
     "Discrétion professionnelle",
-    "Adaptabilité",
-    "Capacité d'analyse",
+    "Forte adaptabilité",
+    "Grande capacité d'analyse",
     "Capacité de coordination",
     "Écoute active",
-    "Relation d'aide",
-    "Expertise en oncologie",
-    "Expertise en hématologie",
-    "Expertise en soins palliatifs",
-    "Évaluation clinique avancée",
-    "Maîtrise des traitements spécifiques"
+    "Relation d'aide"
   ],
-  "specialCommitments": "Travail en horaires adaptés à l'activité du service",
-  "title": "Infirmier(ère) en pratique avancée – service oncologie/hématologie",
+  "specialCommitments": "Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)",
+  "title": "1 Infirmier(ère) en pratique avancée - service oncologie/hématologie",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-02",
   "workHours": "Horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)",
-  "champs_open_data": 11,
+  "champs_open_data": 12,
   "employeur_sigle": "CHT",
   "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
   "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
