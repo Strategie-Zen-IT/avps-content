@@ -15,13 +15,18 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale. Polyvalence des missions nécessitant une expertise médicale transversale. Rôle de conseil et d'expertise auprès des professionnels de santé. Contribution à la modernisation du système d'information de santé."
+      },
+      {
+        "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
         "value": "inférieur à 3 ans"
       },
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale. Polyvalence des missions nécessitant une expertise médicale transversale. Rôle de conseil et d'expertise auprès des professionnels de santé. Contribution à la modernisation du système d'information de santé."
+        "name": "Poste à pourvoir",
+        "value": "vacant à partir du 01/04/2025"
       },
       {
         "@type": "PropertyValue",
@@ -57,7 +62,7 @@
   },
   "alternateName": "Conseiller technique médical performance",
   "description": "Le conseiller technique est le référent médical pour le secteur performance de la direction. Dans un contexte de modernisation du système de santé calédonien et de déploiement de l'analyse de l'activité au niveau territorial, il joue un rôle pivot dans l'amélioration de la performance médicale et le déploiement des outils d'information médicale. A ce titre, il a pour missions de:\n- Piloter et copiloter des plans d'actions visant à la progression de dossiers prioritaires de la Nouvelle-Calédonie ou certains indicateurs des CPOM pour lesquels la valeur ajoutée médicale est nécessaire ;\n- Etre l'interlocuteur privilégié des professionnels de santé de ville du territoire, des acteurs et des partenaires en termes de E santé ;\n- Participer aux travaux de mise en place de l'Observatoire de la santé, et du déploiement de la feuille de route E santé en Nouvelle-Calédonie.",
-  "disambiguatingDescription": "Médecin conseiller technique médical performance pour la Direction des affaires sanitaires et sociales de la Nouvelle-Calédonie.",
+  "disambiguatingDescription": "Le conseiller technique est le référent médical pour le secteur performance de la direction. Dans un contexte de modernisation du système de santé calédonien et de déploiement de l'analyse de l'activité au niveau territorial, il joue un rôle pivot dans l'amélioration de la performance médicale et le déploiement des outils d'information médicale.",
   "identifier": "26-63594/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -73,7 +78,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
+    "@type": "AreaServed",
     "name": "Nouméa",
     "address": {
       "@type": "PostalAddress",
@@ -115,7 +120,7 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": false,
+  "experienceInPlaceOfEducation": null,
   "experienceRequirements": "Expérience indispensable dans le domaine de l'information médicale. Expérience dans une institution de santé (assurance maladie, ministère, hôpital) et/ou pratique clinique appréciée. Expérience de travail en outre-mer appréciée.",
   "hiringOrganization": {
     "@type": "Organization",
@@ -128,7 +133,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "DASS",
+    "name": "Direction des affaires sanitaires et sociales (DASS)",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -188,7 +193,7 @@
     "Participation aux astreintes médicales selon les modalités prévues en interne de la direction",
     "Ponctuellement,  participation à diverses commissions médico-administratives ( commission des hospitalisations sans consentement en psychiatrie, comité médical des praticiens hospitaliers)."
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -211,8 +216,8 @@
   "specialCommitments": "Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale.\nPolyvalence des missions nécessitant une expertise médicale transversale.\nInterface entre le niveau stratégique (direction) et opérationnel (établissements de santé).\nRôle de conseil et d'expertise auprès des professionnels de santé.\nContribution à la modernisation du système d'information de santé.",
   "title": "Médecin /Conseiller technique médical performance",
   "totalJobOpenings": 3,
-  "validThrough": "2026-09-25",
-  "workHours": "Astreintes possibles",
+  "validThrough": "2026-10-16",
+  "workHours": "Astreintes médicales possibles",
   "champs_open_data": 30,
   "employeur_sigle": "DASS",
   "collectivite": "Nouvelle-Calédonie",
