@@ -1,0 +1,196 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "DIRECTION DES AFFAIRES VETERINAIRES, ALIMENTAIRES ET RURALES",
+    "uniteOrganisationnelle": "Service administratif et financier",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur de la DAVAR",
+    "placeOrganigramme": "Membre de l'équipe de direction",
+    "relationsFonctionnelles": [
+      "Services techniques de la DAVAR",
+      "Directions supports de la Nouvelle-Calédonie"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Permis B."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service administratif et financier"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Fabien ESCOT"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957366.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Membre à part entière de l'équipe de direction, le chef du service administratif et financier fournit aux services techniques les moyens humains, financiers et matériels nécessaires à leur fonctionnement. À ce titre, il est notamment responsable de l'élaboration du budget et de son exécution. Il encadre l'équipe du service, coordonne les activités relatives à la gestion du personnel ainsi qu'aux moyens logistiques de la direction. Il contribue à la rédaction de la réglementation relevant de la compétence de son service et assiste les services de la DAVAR. Il peut être désigné pour représenter le directeur. Interlocuteur privilégié des directions supports de la Nouvelle-Calédonie, il est en charge d'assurer le pilotage et le suivi de l'activité du service, de conduire les projets visant à optimiser les procédures, simplifier les démarches des agents et de poursuivre le développement d'outils de pilotage.",
+  "disambiguatingDescription": "Poste de chef du service administratif et financier au sein de la DAVAR, en charge des moyens humains, financiers et matériels.",
+  "identifier": "26-65784/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef du service administratif et financier",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.51.07",
+    "email": "fabien.escot@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Attaché",
+    "competencyRequired": [
+      "Connaissance du fonctionnement administratif et de l'environnement institutionnel de la Nouvelle-Calédonie",
+      "Connaissances théoriques et pratiques de la comptabilité publique",
+      "Connaissances juridiques requises",
+      "Techniques rédactionnelles et de communication",
+      "Connaissance des différents statuts des fonctions publiques",
+      "Maîtrise de l'outil informatique."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction des affaires vétérinaires, alimentaires et rurales de Nouvelle-Calédonie (DAVAR), placée sous l'autorité d'un directeur, est organisée en quatre services techniques et un service administratif et financier. Elle a en charge :\n- l'élaboration et la mise en œuvre des réglementations relatives à la santé publique vétérinaire, à la protection des végétaux et à la sécurité sanitaire des aliments,\n- la réalisation des analyses officielles de laboratoire dans les domaines des productions animales, végétales et alimentaires,\n- la production et la diffusion des statistiques agricoles, la réalisation d'études rurales, l'élaboration et la mise en œuvre des dispositifs réglementaires et/ou financiers d'accompagnement de l'activité agricole,\n- la gestion de la ressource en eau du domaine public fluvial de la Nouvelle-Calédonie.\nDe par ses missions de contrôle et de surveillance, la DAVAR concourt à la préservation du statut sanitaire exceptionnel du patrimoine naturel de la Nouvelle-Calédonie et à la protection de la santé des populations.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service administratif et financier",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Informations salaire : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "DAVAR",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Administration générale",
+    "Finances et budget",
+    "Ressources Humaines"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B.",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable administratif",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Responsable administratif, administratif de gestion, administratif et financier"
+    }
+  },
+  "responsibilities": [
+    "Responsable de l'animation et de la coordination d'une équipe, ses activités consistent à :",
+    "superviser le travail des deux sections RH et comptabilité ainsi que de la cellule informatique",
+    "travailler en transversalité et en soutien des autres services de la DAVAR",
+    "élaborer, contrôler la préparation des actes et décisions en matière de gestion du personnel et suivre la carrière des agents",
+    "dynamiser et améliorer dans un souci permanent d'efficience le service rendu (outils de pilotage, dématérialisation, bilan d'activité)",
+    "concourir et participer aux instances se rapportant à la qualité de la vie au travail et aux instances paritaires",
+    "préparer, suivre et exécuter les budgets de la direction",
+    "analyser, rédiger et suivre les actes réglementaires et marchés publics",
+    "participer au pilotage de la direction au sein du CODIR et apporter une aide à la définition de la politique du secteur concerné",
+    "préparer à l'attention de la direction divers documents d'aide à la décision",
+    "piloter ou instruire certains dossiers sensibles",
+    "maintenir une veille sur les évolutions réglementaires dans les domaines dévolus à son service",
+    "représenter la DAVAR aux réunions relatives aux missions et domaines d'activités du SAF.",
+    "Suppléer à l'absence des agents de son service."
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Manager, animer et piloter une équipe",
+    "Maîtriser la conduite de projets",
+    "Anticiper et organiser avec méthode",
+    "Gérer le budget : préparer et suivre l'exécution",
+    "Gérer les ressources humaines : carrières, formations, recrutement",
+    "Gérer les moyens logistiques : suivre le parc de véhicules, l'entretien des bâtiments, recenser et relayer les besoins en matériel et mobilier",
+    "Utiliser les techniques et outils de suivi d'activité.",
+    "Capacité d'analyse et de synthèse",
+    "Sens de la communication et de l'écoute",
+    "Respect de l'autorité et de la hiérarchie",
+    "Sens des responsabilités",
+    "Autonomie, disponibilité et polyvalence",
+    "Rigueur, sérieux et discrétion",
+    "Esprit d'initiative, d'organisation et de travail en équipe",
+    "Force de proposition."
+  ],
+  "specialCommitments": "Permis B.",
+  "title": "Chef du service administratif et financier",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-16",
+  "workHours": null,
+  "champs_open_data": 29,
+  "employeur_sigle": "DAVAR",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES AFFAIRES VETERINAIRES, ALIMENTAIRES ET RURALES",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "administration-generale"
+}
