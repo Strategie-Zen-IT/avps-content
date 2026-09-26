@@ -8,9 +8,9 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Médecin d'un Centre Médico-Social",
-      "Équipe pluridisciplinaire en établissement médico-social",
-      "DASS NC",
-      "CAFAT"
+      "Équipe pluridisciplinaire",
+      "CAFAT",
+      "DASS-PS"
     ],
     "informationsLibres": [
       {
@@ -20,8 +20,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Textes réglementaires applicables",
-        "value": "LOI n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé. Décret n° 2018-629 du 18 juillet 2018 relatif à l'exercice infirmier en pratique avancée. Loi du pays n° 2023-5 du 26 mai 2023. Délibération n° 476 du 28 avril 2025. Délibération n° 119/CP du 26 juin 2023. Arrêté n° 2023-2079/GNC du 9 août 2023."
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
@@ -30,9 +30,9 @@
       }
     ]
   },
-  "alternateName": "IPA",
+  "alternateName": null,
   "description": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
-  "disambiguatingDescription": "Recrutement d'un infirmier en pratique avancée à Canala pour la Direction des affaires sanitaires et sociales, de la prévention et de la solidarité de la Province Nord.",
+  "disambiguatingDescription": null,
   "identifier": "26-1359",
   "image": null,
   "mainEntityOfPage": null,
@@ -50,7 +50,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Province Nord",
+    "name": "Canala",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -101,7 +101,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Centre Médico-Social de Canala",
+    "name": "Canala",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -125,12 +125,12 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Soins d'infirmier généraliste"
+      "name": "Soins d'infirmiers généralistes"
     }
   },
   "responsibilities": [
     "Prise en charge et suivi des patients atteints de pathologies chroniques selon le domaine d'intervention défini et sous la coordination du médecin",
-    "Prescription de renouvellement de traitement chronique, de traitement selon les listes autorisées, de vaccins, de bilans complémentaires (BS, radiographie, ...)",
+    "Prescription de renouvellement de traitement chronique, de traitement selon les listes autorisées, de vaccins, de bilans complémentaires",
     "Rédaction de courriers médicaux et comptes rendus",
     "Éducation du patient dans sa prise en charge du suivi ou de la personne de confiance",
     "Coordination de soins, orientation",
@@ -160,7 +160,7 @@
   "title": "Infirmier en pratique avancée - Canala",
   "totalJobOpenings": 5,
   "validThrough": "2026-10-02",
-  "workHours": "Astreintes",
+  "workHours": null,
   "champs_open_data": 9,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
