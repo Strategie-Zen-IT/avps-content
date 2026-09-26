@@ -2,21 +2,27 @@
   "additionalType": {
     "corpsDomaine": "Orthophoniste",
     "direction": "PROVINCE SUD",
-    "uniteOrganisationnelle": "Service de prévention et de promotion de la santé (SPPS)",
+    "uniteOrganisationnelle": "Service de prévention et de promotion de la santé",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef du service de prévention et de promotion de la santé (SPPS)",
-    "placeOrganigramme": "Rattaché au pôle Enfance-Famille au sein de la direction de l'action sanitaire et sociale de la province Sud (DPASS)",
+    "superieurHierarchique": "Chef du service de prévention et de promotion de la santé",
+    "placeOrganigramme": "Sous l'autorité du chef du service de prévention et de promotion de la santé",
     "relationsFonctionnelles": [
+      "Pôle Enfance-Famille",
+      "Centres médico-sociaux",
       "Équipes pluridisciplinaires des centres de soins provinciaux",
-      "Divers spécialistes",
-      "Personnel enseignant",
-      "Professionnels du champ médico-social, de la petite enfance et de l'enseignement"
+      "Écoles maternelles et primaires",
+      "Crèches-garderies"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
         "value": "Au moins égale à 10 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Temps de travail",
+        "value": "39h hebdomadaires du lundi au vendredi 7h30-16h"
       },
       {
         "@type": "PropertyValue",
@@ -41,8 +47,8 @@
     ]
   },
   "alternateName": null,
-  "description": "L'orthophoniste recruté(e) interviendra principalement sur 2 CMS de Nouméa et du grand Nouméa dans le cadre d'un exercice alliant suivi clinique et actions collectives de prévention. Le champ d'activité couvert concerne la rééducation des troubles du langage des enfants, des écoles maternelles et primaires, à l'exclusion du handicap dont la prise en charge relève d'une autre institution.",
-  "disambiguatingDescription": "Poste d'orthophoniste au sein du service de prévention et de promotion de la santé de la DPASS, alliant suivi clinique et actions collectives de prévention.",
+  "description": "L'orthophoniste recruté interviendra principalement sur 2 CMS de Nouméa et du grand Nouméa dans le cadre d'un exercice alliant suivi clinique et actions collectives de prévention au sein du service de prévention et de promotion de la santé de la DPASS de la province Sud.",
+  "disambiguatingDescription": "Poste d'orthophoniste axé sur la rééducation des troubles du langage des enfants des écoles maternelles et primaires et sur des actions collectives de prévention.",
   "identifier": "26-0965",
   "image": null,
   "mainEntityOfPage": null,
@@ -59,8 +65,8 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
-    "name": "Province Sud",
+    "@type": "LandmarksOrHistoricalBuildings",
+    "name": "Direction Provinciale de l'Action Sanitaire et Sociale",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "6 route des artifices",
@@ -87,30 +93,30 @@
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés. Le service de prévention et de promotion de la santé (SPPS) comprend 30 agents permanents et élabore des actions de promotion et de communication relatives au domaine de la santé.",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Service de Prévention et de Promotion de la Santé (SPPS)",
+    "name": "Service de prévention et de promotion de la santé",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Non spécifié",
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
     "url": "https://www.province-sud.nc"
   },
-  "incentiveCompensation": null,
+  "incentiveCompensation": "Récupération prévue pour les interventions réalisées en dehors des horaires de travail",
   "industry": "Santé publique",
-  "jobBenefits": "Véhicule de service mis à disposition pour les interventions extérieures, récupération prévue pour les interventions réalisées en dehors des horaires de travail",
+  "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "CMS de Nouméa et du grand Nouméa",
+    "name": "Centres médico-sociaux de Nouméa et du grand Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -128,7 +134,7 @@
     "Politique de santé publique"
   ],
   "physicalRequirement": null,
-  "qualifications": "Titulaire du permis B",
+  "qualifications": "Permis B requis",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Orthophoniste",
@@ -145,9 +151,9 @@
     "Orienter les enfants dépistés vers les structures de soins appropriées",
     "Travailler en lien avec les équipes pluridisciplinaires des centres de soins provinciaux et les divers spécialistes",
     "Réaliser des actions de prévention",
-    "Intervenir en crèches-garderies et écoles maternelles et primaires pour animer des ateliers de prévention auprès des familles sur des thématiques clés : écrans et langage, lecture partagée, repérage précoce des troubles du langage, développement du langage",
-    "Conseiller et accompagner le personnel enseignant dans leur compréhension des étapes du développement langagier, les signaux d'alerte des troubles du langage",
-    "Co-animer des formations adressées aux professionnels du champ médico-social, de la petite enfance et de l'enseignement sur l'impact des écrans sur la santé et les apprentissages scolaires, sur l'alimentation et les troubles de la déglutition",
+    "Intervenir en crèches-garderies et écoles maternelles et primaires pour animer des ateliers de prévention auprès des familles sur des thématiques clés",
+    "Conseiller et accompagner le personnel enseignant dans leur compréhension des étapes du développement langagier et les signaux d'alerte",
+    "Co-animmer des formations adressées aux professionnels du champ médico-social, de la petite enfance et de l'enseignement",
     "Intervenir en binôme puéricultrice/orthophoniste lors d'actions de prévention journée sans écran dans les CMS",
     "Concevoir des outils pédagogiques et des supports de prévention destinés aux professionnels de terrain et aux familles"
   ],
@@ -168,7 +174,7 @@
   "title": "Orthophoniste au service de prévention et promotion de la santé",
   "totalJobOpenings": 2,
   "validThrough": "2026-10-23",
-  "workHours": "39h hebdomadaires du lundi au vendredi 7h30-16h",
+  "workHours": "39h hebdomadaires",
   "champs_open_data": 9,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
