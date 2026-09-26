@@ -4,12 +4,12 @@
     "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
     "uniteOrganisationnelle": "Unité Éducative de Milieu Ouvert (UEMO) Sud/Îles",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef de service",
+    "superieurHierarchique": "Marie-Gabrielle Tolikoli-Motutoa, chef de service",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Service Territorial Éducatif de Milieu Ouvert et d'Insertion (STEMOI)",
-      "Acteurs des champs judiciaire, éducatif, sanitaire, social et scolaire",
-      "Tribunal (PEAT)"
+      "Tribunal (PEAT)",
+      "Acteurs des champs judiciaire, éducatif, sanitaire, social et scolaire"
     ],
     "informationsLibres": [
       {
@@ -61,15 +61,14 @@
   },
   "alternateName": null,
   "description": "Par son implication dans une relation socio-éducative de proximité, inscrite dans la durée, l'éducateur spécialisé accompagne les mineurs et les jeunes majeurs en difficulté dans la mise en œuvre des mesures éducatives ordonnées par les magistrats. Ces interventions s'inscrivent dans le cadre de la justice pénale des mineurs (Code de la justice pénale des mineurs - CJPM) ou de la protection de l'enfance (articles 375 et suivants du Code civil), lorsque ces mesures sont confiées au Service Territorial Éducatif de Milieu Ouvert et d'Insertion (STEMOI).",
-  "disambiguatingDescription": "Recrutement d'un éducateur spécialisé au sein de l'UEMO Sud/Îles pour accompagner les mineurs et jeunes majeurs en difficulté dans le cadre de mesures éducatives judiciaires.",
+  "disambiguatingDescription": "Recrutement d'un éducateur spécialisé à l'UEMO Sud/Iles sous la direction de la DPJEJ.",
   "identifier": "26-65395/MPRH",
   "image": null,
   "mainEntityOfPage": null,
   "name": "Educateur spécialisé - UEMO Sud/Iles",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "url": "https://drhfpnc.gouv.nc"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -82,7 +81,7 @@
     "name": "UEMO Sud/Îles",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "18 avenue Paul Doumer",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -123,15 +122,14 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Une expérience en Nouvelle-Calédonie est souhaitée, notamment dans l'accompagnement de mineurs confiés en famille d'accueil ou accueillis en structure d'hébergement collectif, et dans la mise en œuvre des mesures éducatives relevant de la protection judiciaire de l'enfance (CJPM).",
+  "experienceRequirements": "Une expérience en Nouvelle-Calédonie est souhaitée, notamment dans l'accompagnement de mineurs confiés en famille d'accueil ou accueillis en structure d'hébergement collectif, et la mise en œuvre des mesures éducatives relevant de la protection judiciaire de l'enfance.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "url": "https://drhfpnc.gouv.nc"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": "Informations salaire disponibles sur le barème de la santé publique de la Nouvelle-Calédonie.",
+  "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -139,7 +137,7 @@
     "name": "UEMO Sud/Îles",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "18 avenue Paul Doumer",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -153,7 +151,7 @@
     "Action sociale"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis de conduire B",
+  "qualifications": "Être titulaire du permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Educateur spécialisé",
@@ -177,7 +175,7 @@
     "rédige les écrits professionnels nécessaires au suivi des situations et aux procédures judiciaires",
     "inscrit sa pratique dans une démarche de réflexion et d'amélioration continue, notamment par la formation, l'analyse des pratiques et la veille professionnelle."
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -197,8 +195,8 @@
   "specialCommitments": "Être titulaire du permis de conduire B ;\nFaire preuve de souplesse dans l'organisation du temps de travail afin de répondre aux besoins des mineurs accompagnés ;\nParticiper aux permanences éducatives auprès du tribunal (PEAT).",
   "title": "Educateur spécialisé - UEMO Sud/Iles",
   "totalJobOpenings": 1,
-  "validThrough": "2026-09-25",
-  "workHours": "Souplesse dans l'organisation du temps de travail",
+  "validThrough": "2026-10-02",
+  "workHours": "Faire preuve de souplesse dans l'organisation du temps de travail",
   "champs_open_data": 30,
   "employeur_sigle": "DPJEJ",
   "collectivite": "Nouvelle-Calédonie",
