@@ -1,0 +1,165 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien adjoint",
+    "direction": "DIRECTION DES AFFAIRES VETERINAIRES, ALIMENTAIRES ET RURALES",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Producteurs de fruits et légumes",
+      "Collègues contrôleurs",
+      "Équipes du service"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Coline Drain-Martin"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956348.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'agent fera des enquêtes mensuelles auprès des producteurs de fruits et légumes, sur une zone précise (Bourail ou Koné) afin de récupérer les données de commercialisation, prévisions de récolte et de plantation végétales. Il pourra être amener à réaliser des visites de contrôles également pour prêter main forte aux collègues contrôleurs, dans le cadre des missions réglementaires.",
+  "disambiguatingDescription": "Technicien adjoint chargé d'enquêtes mensuelles auprès des producteurs de fruits et légumes sur la zone de Bourail ou Koné.",
+  "identifier": "26-64585/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Technicien adjoint",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.51.35",
+    "email": "coline.drain-martin@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaissance du secteur agricole calédonien (filières fruits et légumes, cycles de production)",
+      "Connaissance des techniques d'enquête statistique (méthodes d'échantillonnage, protocoles de collecte)",
+      "Maîtrise des outils bureautiques (Excel, Google Sheets) et des bases de données du service",
+      "Connaissance du territoire et des zones agricoles de la Grande Terre"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Agriculture et mer",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction des affaires vétérinaires, alimentaires et rurales",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa - Bourail - Koné",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Agriculture et mer"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Technicien rural",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "A1203",
+      "name": "Technicien (du génie rural, du génie sanitaire et environnement, en agriculture biologique, en alimentation animale)"
+    }
+  },
+  "responsibilities": [
+    "Préparer et réaliser des visites terrain auprès des agriculteurs (prise de rendez-vous, collecte des données selon les protocoles d'enquête)",
+    "Réaliser des enquêtes téléphoniques en complément du terrain",
+    "Saisir et vérifier les données collectées dans les outils du service",
+    "Assurer un contrôle de cohérence et de qualité des données recueillies",
+    "Entretenir une relation de confiance avec les professionnels agricoles enquêtés",
+    "Participer à la restitution et à la valorisation des données auprès des équipes du service"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Communication facile avec les acteurs du monde agricole",
+    "Capacité à conduire un entretien structuré tout en s'adaptant à l'interlocuteur",
+    "Rigueur dans la collecte et la saisie des données",
+    "Autonomie dans l'organisation des tournées terrain",
+    "Capacité à détecter des incohérences ou anomalies dans les données recueillies",
+    "Sens du contact et de l'écoute",
+    "Rigueur et fiabilité",
+    "Autonomie et sens de l'organisation",
+    "Disponibilité et souplesse dans l'organisation de son emploi du temps",
+    "Discrétion vis-à-vis des informations recueillies auprès des exploitants",
+    "Esprit d'équipe et capacité à rendre compte au service",
+    "Ponctualité"
+  ],
+  "specialCommitments": null,
+  "title": "Technicien adjoint",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-16",
+  "workHours": null,
+  "champs_open_data": 26,
+  "employeur_sigle": "DAVAR",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES AFFAIRES VETERINAIRES, ALIMENTAIRES ET RURALES",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Agriculture et mer",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "agriculture-et-mer"
+}
