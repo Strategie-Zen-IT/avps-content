@@ -2,16 +2,20 @@
   "additionalType": {
     "corpsDomaine": "Rédacteur",
     "direction": "VILLE DU MONT-DORE",
-    "uniteOrganisationnelle": "Service administratif",
+    "uniteOrganisationnelle": "service administratif",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Cheffe du service administratif",
-    "placeOrganigramme": null,
-    "relationsFonctionnelles": [],
+    "superieurHierarchique": "Cheffe de service",
+    "placeOrganigramme": "Placé(e) sous l’autorité de la cheffe de service",
+    "relationsFonctionnelles": [
+      "services de la direction",
+      "entreprises",
+      "agents"
+    ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Spécificités de l'emploi",
-        "value": "Respect des dispositions prévues par la charte d'accueil de la Ville."
+        "value": "Respect des dispositions prévues par la charte d’accueil de la Ville."
       },
       {
         "@type": "PropertyValue",
@@ -20,17 +24,16 @@
       }
     ]
   },
-  "alternateName": null,
-  "description": "Placé(e) sous l'autorité de la cheffe de service, l'agent retenu exercera les fonctions de secrétariat et de comptabilité publique au sein du service administratif de la direction des services techniques et de proximité.",
-  "disambiguatingDescription": null,
+  "alternateName": "Secrétaire-comptable",
+  "description": "Placé(e) sous l’autorité de la cheffe de service, l’agent retenu exercera les fonctions de secrétariat et de comptabilité publique au sein du service administratif de la direction des services techniques et de proximité.",
+  "disambiguatingDescription": "Poste de secrétaire-comptable au sein du service administratif de la direction des services techniques et de proximité de la Ville du Mont-Dore.",
   "identifier": "26-1280",
   "image": null,
   "mainEntityOfPage": null,
   "name": "Secrétaire-comptable",
   "owner": {
     "@type": "Organization",
-    "name": "Ville du Mont-Dore",
-    "logo": "https://avps.nc/logos/ville-du-mont-dore.png"
+    "name": "Ville du Mont-Dore"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -54,7 +57,7 @@
       "Connaissance des règles et procédures de la commande publique",
       "Connaissances exigées en comptabilité publique M14",
       "Connaissances exigées en réglementation des marchés publics",
-      "Connaissance du fonctionnement et de l'organisation des collectivités publiques"
+      "Connaissance du fonctionnement et de l’organisation des collectivités publiques"
     ]
   },
   "eligibilityToWorkRequirement": null,
@@ -62,7 +65,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Service administratif de la direction des services techniques et de proximité",
+    "name": "Ville du Mont-Dore",
     "url": null,
     "logo": null
   },
@@ -71,8 +74,7 @@
   "experienceRequirements": "Expérience confirmée en secrétariat",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Ville du Mont-Dore",
-    "logo": "https://avps.nc/logos/ville-du-mont-dore.png"
+    "name": "Ville du Mont-Dore"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -88,7 +90,8 @@
       "addressLocality": "Mont-Dore",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud"
+      "province": "province Sud",
+      "postalCode": "98809"
     }
   },
   "jobLocationType": null,
@@ -101,11 +104,11 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Secrétaire-comptable",
+    "name": "secrétaire-comptable",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1601",
-      "name": "Secrétariat comptable"
+      "name": "Saisie de données"
     }
   },
   "responsibilities": [
@@ -117,7 +120,7 @@
     "Suivi des dossiers de déclarations de sinistres",
     "Consultation des entreprises, des agents, contrôle puis commande des vêtements de travail et équipements de protection individuelle",
     "Actualisation des données en ressources humaines (suivi des absences du personnel)",
-    "Gestion de l'agenda de la direction",
+    "Gestion de l’agenda de la direction",
     "Etablissement des bons de commande et engagements sur le logiciel de comptabilité",
     "Gestion comptable des factures, liquidation et archivage",
     "Gestion administrative et comptable des marchés publics",
@@ -127,25 +130,17 @@
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Maîtrise de l'outil informatique (publipostage, traitement de texte, tableur, messagerie électronique)",
+    "Maîtrise de l’outil informatique (publipostage, traitement de texte, tableur, messagerie électronique)",
     "Connaissance du logiciel MILLESIME (comptabilité)",
-    "Connaissance des logiciels DOCUWARE (gestion de courrier et factures)",
-    "Connaissance du logiciel Mainti (demandes d'interventions)",
+    "Connaissance des logiciels DOCUWARE (gestion de courrier et factures) et Mainti (demandes d’interventions)",
     "Bonnes qualités rédactionnelles",
     "Sens du service public",
-    "Rigueur",
-    "Sérieux",
-    "Discrétion professionnelle",
-    "Autonomie",
-    "Disponibilité",
-    "Sens de l'organisation",
-    "Capacité à gérer les priorités",
-    "Polyvalence",
-    "Esprit d'initiative",
+    "Rigueur, sérieux et discrétion professionnelle",
+    "Autonomie et disponibilité",
+    "Sens de l’organisation (capacité à gérer les priorités), polyvalence",
+    "Esprit d’initiative",
     "Bonne présentation",
-    "Bon relationnel",
-    "Aisance orale",
-    "Sens de l'écoute",
+    "Bon relationnel, aisance orale, sens de l’écoute",
     "Respect de la hiérarchie",
     "Respect des horaires"
   ],
@@ -154,7 +149,7 @@
   "totalJobOpenings": 1,
   "validThrough": "2026-10-02",
   "workHours": null,
-  "champs_open_data": 6,
+  "champs_open_data": 7,
   "employeur_sigle": "VILLE-DU-MONT-DORE",
   "collectivite": "Ville du Mont-Dore",
   "direction": "VILLE DU MONT-DORE",
@@ -162,6 +157,6 @@
   "employeur_source": "source",
   "famille_respnc": "Administration générale",
   "famille_source": "respnc",
-  "famille_score": 0.89,
+  "famille_score": 0.887,
   "dossier": "administration-generale"
 }
