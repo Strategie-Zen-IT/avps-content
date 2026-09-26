@@ -1,0 +1,192 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Professeur des écoles / instituteur",
+    "direction": "DIRECTION DE L'ENSEIGNEMENT DE LA NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": "6ème circonscription",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Inspectrice de l'enseignement primaire",
+    "placeOrganigramme": "Placé sous l'autorité de l'inspectrice de l'enseignement primaire au sein de la 6ème circonscription",
+    "relationsFonctionnelles": [
+      "Direction de l'enseignement de la Nouvelle-Calédonie",
+      "Équipes enseignantes"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Vacant à partir du 01/02/2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Circonscription d'exercice",
+        "value": "La 6ème circonscription exerce sur les communes de Dumbéa, Païta, Tontouta, Boulouparis, La Foa, Saraméa, Moindou, Bourail, Thio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "6ème circonscription"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Marie-Hélène WAMO"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952122.PDF"
+      }
+    ]
+  },
+  "alternateName": "Conseiller pédagogique",
+  "description": "Placé  sous  l'autorité  de  l'inspectrice  de  l'enseignement  primaire  au  sein  de  la  6ème   circonscription, le ou la conseillère pédagogique est titulaire d'un CAFIPEMF (Certificat d'aptitude aux fonctions d'instituteur ou de professeur des écoles maître formateur), et détenteur de compétences avérées dans l'usage des technologies de l'information et de la communication pour l'enseignement (TICE). Il est souhaité qu'il porte un intérêt pour la formation ouverte à distance (FOAD).\nIl inscrit son action dans le cadre du projet de service de la DENC et du programme de travail de la circonscription, validé par la directrice de l'enseignement de la Nouvelle-Calédonie.",
+  "disambiguatingDescription": "Poste de conseiller pédagogique rattaché à la 6ème circonscription avec une annexe à Païta.",
+  "identifier": "26-65712/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Conseiller(e) pédagogique- 6ème circonscription- annexe PAITA",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "77.69.64",
+    "email": "marie-helene.wamo@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "CAFIPEMF",
+    "competencyRequired": [
+      "Titulaire d'un  CAFIPEMF (Certificat d'aptitude aux fonctions d'instituteur ou de professeur des écoles maître formateur) ou vivement souhaité",
+      "Parfaite connaissance des programmes scolaires et culture pédagogique actualisée pour les 3 cycles de l'école primaire",
+      "Bonne connaissance du système éducatif et de la répartition des compétences de l'enseignement en Nouvelle-Calédonie",
+      "Bonne culture générale",
+      "Disposer de bonnes connaissances des approches pédagogiques et didactiques",
+      "Maîtriser les technologies de l'information et de la communication",
+      "Bonne connaissance du numérique et de la formation à distance."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction de l'enseignement de la Nouvelle-Calédonie est chargée :\n- des programmes scolaires de l'école primaire publique, sous réserve de la compétence des provinces pour leur adaptation en fonction des réalités culturelles et linguistiques ;\n- de la formation initiale et continue des maîtres de l'enseignement primaire public ;\n- du contrôle pédagogique de l'enseignement primaire public, c'est à dire notamment de l'animation, de l'aide et de l'inspection pédagogiques dans les écoles publiques ;\nLa direction comprend un service des affaires administratives, financières et de la communication, un service pédagogique , une annexe à Koné, 7 circonscriptions. et un service de la prévention du décrochage scolaire. \nLa 6ème circonscription est située en Province Sud. Celle-ci exerce sur les communes de Dumbéa,  Paîta, Tontouta, Boulouparis,La Foa, Saraméa, Moindou, Bourail,Thio.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "6ème circonscription - annexe PAITA",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience en tant que maître formateur ou professeur des écoles titulaire du CAFIPEMF vivement souhaitée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Éducation",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Annexe PAITA",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98890"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Education"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "CAFIPEMF (Certificat d'aptitude aux fonctions d'instituteur ou de professeur des écoles maître formateur)",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Conseiller pédagogique",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2107",
+      "name": "Coordinateur (de formateurs, de stages de formation professionnelle, pédagogique, de dispositif de formation)"
+    }
+  },
+  "responsibilities": [
+    "Former les enseignants dans leurs pratiques professionnelles quotidiennes, en accompagnant en priorité les nouveaux nommés :",
+    "concevoir et organiser des animations pédagogiques",
+    "assister les équipes enseignantes dans l'organisation et le fonctionnement des cycles pédagogiques, contribuer à la réalisation et au suivi des projets d'école",
+    "favoriser le développement des usages du numérique dans la mise en œuvre des programmes et du socle commun des connaissances et des compétences et promouvoir l'utilisation des nouvelles technologies en favorisant l'émergence de projets pédagogiques intégrant leur utilisation.",
+    "Expertise pédagogique :",
+    "participer à l'élaboration des documents et outils d'accompagnement des nouveaux programmes",
+    "participer à la mise en œuvre des projets pédagogiques d'envergure",
+    "aider à l'intégration harmonieuse du numérique dans les stratégies d'apprentissage et d'enseignement",
+    "participer de manière secondaire à l'élaboration de sujets de concours et à certains jurys.",
+    "Activités secondaires : missions  et/ou  affectation ponctuelle sur une autre circonscription  en fonction des besoins de  la direction de l'enseignement."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Assister les équipes d'enseignants",
+    "Organiser et mener des sessions de formation initiale et continue",
+    "Concevoir des outils pédagogiques.",
+    "Rigueur",
+    "Sens de l'organisation",
+    "Curiosité intellectuelle",
+    "Qualités relationnelles",
+    "Esprit d'équipe",
+    "Sens de l'écoute",
+    "Professionnalisme",
+    "Capacité à rendre compte."
+  ],
+  "specialCommitments": "Intérêt souhaité pour la formation ouverte à distance (FOAD)",
+  "title": "Conseiller(e) pédagogique- 6ème circonscription- annexe PAITA",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-10-16",
+  "workHours": null,
+  "champs_open_data": 30,
+  "employeur_sigle": "DENC",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE L'ENSEIGNEMENT DE LA NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Education",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "education"
+}
