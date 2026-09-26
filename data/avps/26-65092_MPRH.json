@@ -1,0 +1,188 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif",
+    "direction": "DIRECTION DU BUDGET ET DES AFFAIRES FINANCIERES",
+    "uniteOrganisationnelle": "Section SEMO \"Secrétariat et Moyens\"",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cheffe de section chargé du SEMO \"Secrétariat et Moyens\"",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "SCAI",
+      "GNC",
+      "DRHFPNC"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "au moins égale à 10 ans pour le recrutement sur titre pour le recrutement direct d'un adjoint administratif."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Paméla SIDOËN - Cheffe de section"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957150.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous l'autorité de la cheffe de section chargé du SEMO \"Secrétariat et Moyens\", l'assistant administratif assure pour l'ensemble de la direction la mise en forme de tous les documents administratifs, des projets d'actes et autres documents (fiche navette, note, lettre...) pour les courriers sortant de la DBAF (respect de la charte graphique en lien avec les procédures du SCAI et du GNC) ainsi que la veille juridique des actes rédigés par la DBAF. \nIl collabore à la mise à jour des procédures et modes opératoires en lien avec ses activités (veille juridique, RH) et suit les dossiers administratifs des agents de la direction en lien avec la cheffe de section, référente RH.\nIl réceptionne, enregistre, diffuse, photocopie si nécessaire et classe et/ou archive tous les courriers de la direction. Il assiste également dans l'archivage de la direction.",
+  "disambiguatingDescription": null,
+  "identifier": "26-65092/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Assistant(e) administratif(ve)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.60.83",
+    "email": "pamela.sidoen@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Une bonne connaissance des circuits administratifs ainsi que de l'organisation administrative et institutionnelle de la Nouvelle-Calédonie est demandée",
+      "Bonnes connaissances des applications métiers de la collectivité : Gsuite, Gaïac, JIRA, Fast docapost, CICA, Surfi",
+      "Maîtrise des outils bureautique Office : word, excel, powerpoint et de Google workspace (docs, sheet)",
+      "Maîtrise de la langue française."
+    ]
+  },
+  "eligibilityToWorkRequirement": "au moins égale à 10 ans pour le recrutement direct d'un adjoint administratif.",
+  "employerOverview": "La Direction du Budget et des Affaires Financières a pour mission principale la préparation et l'exécution du budget de la Nouvelle-Calédonie (budget annuel d'environ 275 milliards CFP) ainsi que le suivi et le contrôle des établissements publics et des collectivités locales. La Direction, composée de 62 agents, est amenée à évoluer fortement dans les 2-3 années à venir. \n\nD'une part, la Nouvelle-Calédonie est engagée dans une réforme de la gestion des finances publiques qui imposera de nombreux changements opérationnels et décisionnels.\n\nD'autre part, mais en lien avec cette réforme, la direction a vocation à se professionnaliser sur les métiers financiers pour apporter une véritable valeur ajoutée à la collectivité et ses décideurs en matière de prospective, d'analyse, d'évaluation des décisions financières.\n\nLa section SEMO \"Secrétariat et Moyens\" est chargée d'assurer la gestion administrative de la direction, d'apporter son concours à l'ensemble des services dans le cadre de leur fonctionnement administratif. Les missions de la section sont réparties sur 3 domaines d'intervention :\n- la gestion administrative\n- la gestion des moyens et la logistique\n- la gestion des ressources humaines.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Section SEMO \"Secrétariat et Moyens\"",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction du budget et des affaires financières",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "17 avenue Paul Doumer",
+      "addressLocality": "17 avenue Paul Doumer - Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Assistant administratif",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Agent administratif"
+    }
+  },
+  "responsibilities": [
+    "Le secrétariat :",
+    "assurer pour l'ensemble de la direction la mise en forme des documents administratifs, les projets d'actes et autres documents (fiche navette, note, lettre...) pour les courriers sortant de la DBAF (respect de la charte graphique en lien avec les procédures du SCAI et du GNC)",
+    "effectuer uniquement les corrections de mise en forme de tous types de courriers renvoyés à la direction par le SCAI",
+    "réceptionner, enregistrer, scanner, diffuser et photocopier si nécessaire tous les courriers de la direction",
+    "rédiger les relevés de décisions des réunions de service secrétariat",
+    "préparer les dossiers pour les réunions (photocopies) pour toute la direction",
+    "mettre à jour les procédures et modes opératoires en lien avec ses activités (veille juridique, RH)",
+    "transmission ou récupération des plis au SCAI.",
+    "La veille juridique :",
+    "rendu exécutoire des arrêtés",
+    "des délibérations en lien avec le congrès",
+    "transmission dématérialisée des actes au contrôle de légalité.",
+    "La RH :",
+    "suivi administratif des dossiers du personnel de la direction (carrière, formation etc...)",
+    "suivi de toutes les circulaires DRHFPNC (prestations familiales, PDC, concours, formations etc...).",
+    "En cas d'absence, il assure le remplacement de l'assistant administratif à l'accueil chargé de la logistique et des moyens et/ou du 2ème assistant administratif.  Il participe aux autres missions du service en cas de nécessité."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Gérer les priorités et hiérarchiser les demandes",
+    "Appliquer des procédures",
+    "Sens du service public",
+    "Sens de l'organisation",
+    "Sens des responsabilités",
+    "Rigueur",
+    "Présentation soignée",
+    "Discrétion",
+    "Confidentialité",
+    "Aptitude au travail en équipe",
+    "Bon relationnel",
+    "Réactivité face à l'urgence",
+    "Polyvalence",
+    "Disponibilité",
+    "Ponctualité"
+  ],
+  "specialCommitments": null,
+  "title": "Assistant(e) administratif(ve)",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-16",
+  "workHours": null,
+  "champs_open_data": 28,
+  "employeur_sigle": "DBAF",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DU BUDGET ET DES AFFAIRES FINANCIERES",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "administration-generale"
+}
