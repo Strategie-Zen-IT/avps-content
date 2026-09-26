@@ -1,0 +1,229 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "DIRECTION DU NUMERIQUE ET DE LA MODERNISATION",
+    "uniteOrganisationnelle": "Service assistance numérique et logistique",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "SANL",
+      "Equipes techniques",
+      "Equipes infrastructure/cybersécurité",
+      "SOC/CERT-NC"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Pour le recrutement sur titre : Ingénieur 2ème grade dans le domaine de l'informatique : au moins égale à 5 ans."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Immédiatement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service assistance numérique et logistique"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Estelle MICHAUX"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955310.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous la responsabilité du chef du service, le chef de section centre relation usagers a pour missions de :\n- Animer, encadrer et faire monter en compétence les équipes actuelles d'assistance utilisateurs et de hotline\n- Piloter et faire évoluer le dispositif de gestion des incidents et des demandes de service standards (processus ITIL Incident Management / Request Fulfillment)\n- Élargir le périmètre du N1 au-delà du poste de travail : intégration progressive de la supervision technique (infrastructure, réseau, applicatif) dans le rôle de première ligne.\n- Définir et ajuster les règles de tri et de qualification des alertes de supervision (seuils, priorisation, escalade vers N2/N3)\n- Exprimer les besoins de supervision auprès des équipes techniques et infogérants concernés\n- Contribuer à la démarche qualité ITIL portée par le SANL (indicateurs, SLA, amélioration continue)\n- Produire le reporting d'activité du périmètre (volumétrie, délais de traitement, taux de résolution N1, satisfaction utilisateurs)\n- Assurer la communication des incidents auprès des usagers \n- Assurer une assistance de proximité auprès des V.I.P afin de répondre à leurs besoins spécifiques",
+  "disambiguatingDescription": "La section centre relation usagers est potentiellement appelée à évoluer vers la branche run du futur Centre de Services Élargi (CSE), point d'entrée unique de l'ensemble des demandes numériques du Gouvernement.",
+  "identifier": "26-65293/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de section centre de relation usagers",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.58.88",
+    "email": "estelle.michaux@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3 à Bac+5",
+    "competencyRequired": [
+      "Maitrise des méthodes de gestion de projet",
+      "Maitrise des outils bureautiques, collaboratifs et décisionnels",
+      "Maitrise de l'anglais technique",
+      "Technique de management et de communication",
+      "Qualités rédactionnelles, relationnelles et sens du reporting",
+      "Analyse des dysfonctionnements",
+      "Organisation et planification",
+      "Bonne connaissance du référentiel ITIL (Foundation a minima ; certification appréciée)",
+      "Bonne connaissance des systèmes informatiques et systèmes d'exploitation",
+      "Connaissance des bases de gestion usagers",
+      "Capacité à faire évoluer un périmètre existant (conduite du changement) plutôt qu'à créer ex nihilo",
+      "Compétences managériales : encadrement d'équipes techniques et de proximité",
+      "Notions de supervision technique (infrastructure, réseau, applicatif) suffisantes pour dialoguer avec les équipes techniques et qualifier les besoins",
+      "Aisance avec les outils ITSM et de reporting"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Ingénieur 2ème grade dans le domaine de l'informatique : au moins égale à 5 ans.",
+  "employerOverview": "La Direction du Numérique et de la Modernisation (DINUM) est chargée de définir et d'assurer la mise en œuvre de la politique de développement numérique du gouvernement de la Nouvelle-Calédonie en articulation avec la stratégie générale de la collectivité, notamment en matière de transformation numérique de l'action publique, de simplification et de modernisation des services rendus grâce au numérique, de pilotage de la performance par le levier du numérique et de développement de l'économie numérique. Elle doit garantir la sécurité et la continuité du service informatique fourni aux utilisateurs et anticiper les changements et leurs impacts métiers sur le système d'information. A ce titre, elle agit en tant que prestataire de services informatiques auprès des directions, des institutions et établissements de la Nouvelle-Calédonie mais aussi en faveur des collectivités provinciales, des services de l'Etat et des communes. Elle vise également à développer des synergies avec les usagers internes, externes, et les entreprises.\n\nAfin de mener à bien ses missions, tout en étant dans une démarche constante de performance et d'innovation tant en termes de solutions que d'organisations dans le cadre de la gestion des projets et des produits, l'organisation fonctionnelle de la DINUM s'appuiera majoritairement sur un fonctionnement en mode produit, structuré autour de pools de ressources transverses mutualisées. En privilégiant la polyvalence des agents, la mutualisation des compétences et la coordination efficace des ressources internes, cette organisation s'inscrit également dans une démarche générale de rationalisation des moyens et de maîtrise des coûts.\n\nLa section centre relation usagers est potentiellement appelée à évoluer vers la branche « run » du futur Centre de Services Élargi (CSE), point d'entrée unique de l'ensemble des demandes numériques du Gouvernement. Dans sa configuration cible, cette branche assure le traitement des demandes courantes ( incidents et demandes de service standards ) et porte la démarche qualité (référentiel ITIL), la communication et le reporting associés à l'activité de support. Elle a vocation à faire évoluer le périmètre de son support de premier niveau (N1), aujourd'hui centré sur le poste de travail, vers l'ensemble du système d'information, en intégrant progressivement une fonction de supervision technique transverse (expression des besoins, qualification et tri des alertes). Elle assure aujourd'hui le support des utilisateurs internes et externes des produits et services numériques de la Nouvelle-Calédonie, le suivi et le traitement des déclarations d'incidents liés au poste de travail (N1), ainsi que la communication associée auprès des utilisateurs.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service assistance numérique et logistique",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Expérience managériale significative sur un périmètre support/exploitation. Expérience souhaitée en pilotage de centre de services / support N1-N2, idéalement dans un contexte multi-sites ou territorial isolé.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Système d'information",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chef de projet maîtrise d'œuvre",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1801",
+      "name": "Chef de projet (étude et développement informatique, maîtrise d'œuvre informatique)"
+    }
+  },
+  "responsibilities": [
+    "Organiser des plannings et de la couverture horaire des équipes hotline/assistance",
+    "Suivre des SLA et OLA avec les autres pôles du SANL et les équipes techniques",
+    "Animer des rituels ITIL (revues d'incidents majeurs, post-mortems, comités de pilotage run)",
+    "Interfacer avec les équipes infrastructure/cybersécurité (dont SOC/CERT-NC) pour la remontée d'alertes qualifiées",
+    "Participer à l'outillage du support (ITSM, supervision) en lien avec les équipes techniques",
+    "Participer à la réalisation des objectifs du service",
+    "Définir les indicateurs de performance en fonction des objectifs opérationnels définis",
+    "Participer à l'élaboration des normes, des procédures et des recommandations liées à son domaine de compétence",
+    "Participer, en tant que personne ressource, à des projets d'optimisation de l'organisation des activités (process, outils, systèmes d'information...) ou à des missions transverses",
+    "Identifier les risques et être force de propositions sur les solutions à mettre en œuvre.",
+    "Piloter ou participer, mener à bien un projet/ produit en lien avec les autres services/missions, directions internes ou partenaires de la collectivité",
+    "Participer aux activités de la section",
+    "Accompagner  les agents en contact avec les usagers et faciliter leur appropriation des nouveautés règlementaires, techniques mais aussi aux nouveaux produits et services de la collectivité",
+    "Participer aux actions de communication de l'organisme",
+    "Participer à l'amélioration continue de la relation aux usagers",
+    "Réaliser une veille concernant la gestion de la relation client"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Expérience souhaitée en pilotage de centre de services / support N1-N2, idéalement dans un contexte multi-sites ou territorial isolé",
+    "Conduire des réunions",
+    "Piloter ou participer à des projets",
+    "Reporting et soutien à la démarche performance",
+    "Mettre en place des modalités de suivi des résultats",
+    "Conduite du changement et gestion de conflit",
+    "Rédiger des documents administratifs et techniques",
+    "Prise de décisions dans son périmètre",
+    "Gestion et hiérarchisation des urgences et des échéances",
+    "Manager par objectif et par projets.",
+    "Méthode, rigueur et organisation",
+    "Esprit d'analyse et de synthèse, rendre compte",
+    "Qualités d'accompagnement, d'écoute et de communication",
+    "Prise en compte de la satisfaction usagers",
+    "Gestion du stress et des conflits",
+    "Esprit d'équipe, disponibilité et diplomatie",
+    "Dynamisme, curiosité intellectuelle",
+    "Autonomie, capacité d'adaptation et de réactivité",
+    "Sens de la performance et du service usager",
+    "Esprit d'initiative, d'innovation et de créativité",
+    "Respect des valeurs de la direction",
+    "Respect de la confidentialité des données."
+  ],
+  "specialCommitments": "- Formation Bac+3 à Bac+5 en informatique / systèmes d'information, ou expérience équivalente\n- Expérience managériale significative sur un périmètre support/exploitation\n- Sens du service, rigueur dans le suivi des engagements, capacité à arbitrer les priorités en environnement contraint.",
+  "title": "Chef de section centre de relation usagers",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-16",
+  "workHours": null,
+  "champs_open_data": 30,
+  "employeur_sigle": "DINUM",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DU NUMERIQUE ET DE LA MODERNISATION",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Système d'information",
+  "famille_source": "respnc",
+  "famille_score": 0.905,
+  "dossier": "systeme-d-information"
+}
