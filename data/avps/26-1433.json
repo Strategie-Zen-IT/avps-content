@@ -1,0 +1,178 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Sage femme",
+    "direction": "CENTRE HOSPITALIER DU NORD",
+    "uniteOrganisationnelle": "Pôle Sanitaire du Nord",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Coordinatrice des Soins",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Direction des Ressources Humaines",
+      "Coordinatrice des Soins",
+      "Gynécologue/obstétricien",
+      "Pédiatre",
+      "Auxiliaire de puériculture / Aide-soignant"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Rythme jour et nuit, travail weekend et jours fériés. Poste au bloc obstétrical et en suites de couches. Activité de consultation 2 jours/semaine. Travail en binôme avec l'AS et participation possible aux activités de l'AS en fonction de la charge de travail (1 AS pour le bloc obstétrical et les suites de couches). Gynéco/obstétricien en astreinte la nuit et weekend. Présence pédiatre (en astreinte la nuit du lundi au vendredi)."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "inférieure à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952074.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Accompagner la femme ou le couple avant, pendant et après la naissance, diagnostiquer et pratiquer le suivi de la grossesse, l'accouchement et les soins postnataux, le suivi et les soins du nouveau-né (jusqu'à 28 jours de vie), tant sur le plan médical que psychologique et social.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1433",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Sage-femme",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier du Nord"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Pôle Sanitaire du Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "rue Jimmy WELEPANE derrière la Province Nord à Paiamboué",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "42.65.09",
+    "email": "recrutement@chn.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme de sage-femme",
+    "competencyRequired": [
+      "rééducation périnéale",
+      "pédiatrie",
+      "éthique et déontologie médicales",
+      "psychologie générale",
+      "échographie",
+      "gynécologie-obstétrique-néonatalogie",
+      "pharmacologie",
+      "santé publique",
+      "communication et relation d'aide",
+      "diplôme de sagefemme",
+      "inscription à l'ordre nationale des sages-femmes",
+      "Assurance professionnelle"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre Hospitalier du Nord",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier du Nord"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Pôle Sanitaire du Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "rue Jimmy WELEPANE derrière la Province Nord à Paiamboué",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98860"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplôme de sage-femme, inscription à l'ordre national des sages-femmes, assurance professionnelle",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "sage-femme",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Suivi de la grossesse et accompagnement à la parentalité"
+    }
+  },
+  "responsibilities": [
+    "Accompagner la femme ou le couple avant, pendant et après la naissance",
+    "Diagnostiquer et pratiquer le suivi de la grossesse, l'accouchement et les soins postnataux",
+    "Assurer le suivi et les soins du nouveau-né jusqu'à 28 jours de vie sur le plan médical, psychologique et social"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Analyser / évaluer la situation clinique d'une personne, d'un groupe de personnes, relative à son domaine de compétence",
+    "Accueillir et orienter des personnes, des groupes, des publics",
+    "Adapter son comportement, sa pratique professionnelle à des situations critiques, dans son domaine de compétence",
+    "Analyser, synthétiser des informations permettant la prise en charge de la personne soignée et la continuité des soins",
+    "Choisir et mettre en œuvre les techniques et pratiques adaptées au patient, au regard de son métier / sa spécialité",
+    "Éduquer, conseiller le patient et son entourage dans le cadre du projet de soins",
+    "Élaborer et formaliser un diagnostic santé de la personne, relatif à son domaine de compétence",
+    "Évaluer et traiter la douleur des patients",
+    "Identifier / analyser des situations d'urgence spécifiques à son domaine de compétence et définir les actions",
+    "Identifier les informations communicables à autrui en respectant le secret professionnel",
+    "Autonomie",
+    "Respect",
+    "Sens de l'organisation",
+    "Esprit de synthèse et d'analyse",
+    "Esprit d'équipe"
+  ],
+  "specialCommitments": "Astreintes la nuit, le week-end et jours fériés",
+  "title": "Sage-femme",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-16",
+  "workHours": "Rythme jour et nuit, travail weekend et jours fériés",
+  "champs_open_data": 9,
+  "employeur_sigle": "CHN",
+  "collectivite": "Centre hospitalier du Nord",
+  "direction": "CENTRE HOSPITALIER DU NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.966,
+  "dossier": "sante-publique-soins"
+}
