@@ -15,7 +15,7 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Unité d'affectation spécifique",
+        "name": "Unité d'affectation",
         "value": "UPAD"
       },
       {
@@ -57,7 +57,7 @@
   },
   "alternateName": null,
   "description": "Sous l'autorité du chef de service, le chef de service éducatif assure l'encadrement, l'animation et la coordination de l'équipe pluridisciplinaire de l'UPAD. Il veille à la mise en œuvre des missions de protection judiciaire de l'enfance et de la jeunesse, dans le respect des décisions judiciaires et des orientations institutionnelles.",
-  "disambiguatingDescription": "Sous l'autorité du chef de service, le chef de service éducatif assure l'encadrement, l'animation et la coordination de l'équipe pluridisciplinaire de l'UPAD. Il veille à la mise en œuvre des missions de protection judiciaire de l'enfance et de la jeunesse, dans le respect des décisions judiciaires et des orientations institutionnelles.",
+  "disambiguatingDescription": null,
   "identifier": "26-65407/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -94,7 +94,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Etablissement de placement éducatif - foyer d'action éducative de Nouville",
+    "name": "Nouvelle-Calédonie",
     "url": null,
     "logo": null
   },
@@ -107,7 +107,7 @@
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": "Grille salariale disponible sur https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
+  "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -115,7 +115,7 @@
     "name": "Etablissement de placement éducatif - foyer d'action éducative de Nouville",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Nouville",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -124,7 +124,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Action sociale"
   ],
@@ -152,7 +152,7 @@
     "En l'absence du chef de service, il assure, par délégation, la continuité du fonctionnement du service ainsi que la continuité de l'accompagnement éducatif et pédagogique des mineurs suivis",
     "Il contribue à l'accueil et à l'intégration des nouveaux professionnels en organisant leur accompagnement, notamment par la mise en place de périodes de tuilage, un soutien dans la prise en charge des premières mesures et des temps réguliers d'échange et de suivi."
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -169,7 +169,7 @@
   "specialCommitments": "- Titulaire du permis de conduire B.",
   "title": "Chef de service éducatif - UPAD",
   "totalJobOpenings": 1,
-  "validThrough": "2026-09-25",
+  "validThrough": "2026-10-02",
   "workHours": null,
   "champs_open_data": 29,
   "employeur_sigle": "DPJEJ",
