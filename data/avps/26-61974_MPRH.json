@@ -1,0 +1,202 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
+    "uniteOrganisationnelle": "Service de la santé publique",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Observatoire de la santé",
+      "Réseaux sentinelles de Nouvelle-Calédonie",
+      "Médecins sentinelles"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Vacant à partir du 02/03/2026"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service de la santé publique"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "MESTRE Marie-Laure"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953384.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Dans le cadre de la création de l'Observatoire de la santé, l'épidémiologiste a pour mission de concevoir et mettre en place des études épidémiologiques (rédaction de protocoles, organisation du recueil de données, analyses statistiques, rédaction de rapports et articles scientifiques), d'animer les programmes de surveillance et d'analyser les données sanitaires pour éclairer les décisions de santé publique. Il/Elle est chargé(e) d'organiser et de participer activement au circuit de traitement de la donnée (recueil de terrain, retour aux dossiers cliniques, codage, saisie informatique, archivage et valorisation des données). Il/Elle participe également aux activités transversales de la direction et urgences sanitaires du service lorsque cela s'avère nécessaire.",
+  "disambiguatingDescription": "Poste d'enquêteur épidémiologiste au sein du service de la santé publique de la DASS en Nouvelle-Calédonie.",
+  "identifier": "26-61974/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Enquêteur épidémiologiste",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Gouvernement de la Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.37.15",
+    "email": "direction.dass@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Diplôme de niveau Bac +5 (Master / Ingénieur) spécialisé en épidémiologie et biostatistique souhaité.",
+      "Expérience professionnelle au sein d'une structure d'épidémiologie, d'un observatoire de la santé ou de santé publique.",
+      "Compétences métier : Expérience confirmée dans la conduite, le suivi et la coordination d'études épidémiologiques.",
+      "Solides connaissances en santé publique et compréhension des enjeux sanitaires spécifiques à la Nouvelle-Calédonie.",
+      "Langues : Anglais courant."
+    ]
+  },
+  "eligibilityToWorkRequirement": "au moins égale à 5 ans.",
+  "employerOverview": "La direction des affaires sanitaires et sociales de la Nouvelle-Calédonie est une des directions techniques du gouvernement de la Nouvelle-Calédonie. \nElle est responsable de la mise en œuvre de la politique de la Nouvelle-Calédonie en matière de santé et de protection sociale. \n\nElle comprend un service administration et support et quatre services métiers.\n\nLe service de santé publique est chargé de la connaissance et des études relatives à la situation sanitaire, de la veille et de la surveillance, et de l'amélioration de la santé des calédoniens (prévention).",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de la santé publique",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle au sein d'une structure d'épidémiologie, d'un observatoire de la santé ou de santé publique. Expérience confirmée dans la conduite, le suivi et la coordination d'études épidémiologiques.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction des affaires sanitaires et sociales",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-03-02",
+  "occupationalCategory": [
+    "Politique de santé publique",
+    "Santé publique inspection et contrôle"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Epidémiologiste",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1402",
+      "name": "Epidémiologiste"
+    }
+  },
+  "responsibilities": [
+    "Conduite et suivi des études épidémiologiques : Rédaction des protocoles d'étude, réalisation de synthèses bibliographiques et valorisation des résultats (rédaction de rapports d'étude, notes et articles scientifiques).",
+    "Organisation et gestion du recueil de données : Déploiement du recueil sur le terrain, animation de la collecte, organisation du retour aux dossiers cliniques, codage, saisie informatique, archivage et traitement des données.",
+    "Surveillance épidémiologique et observation de la santé : Animation des programmes de surveillance (notamment les réseaux sentinelles de Nouvelle-Calédonie), analyse et interprétation des données de santé pour le suivi et la révision de la situation sanitaire du territoire.",
+    "Veille et alerte sanitaires : Participation à la surveillance sanitaire, à la gestion des alertes et à la réactivité face aux crises émergentes.",
+    "Participation à la vie du service : Implication dans les autres projets et activités transversales du service de santé publique selon l'actualité sanitaire.",
+    "Assurer des astreintes de santé publique dans le cadre de la veille sanitaire.",
+    "Prise en charge de dossiers spécifiques de santé publique confiés par la hiérarchie en fonction de l'actualité et des alertes sanitaires."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtriser les logiciels d'analyse statistique (R) et les outils bureautiques.",
+    "Maîtriser la méthodologie épidémiologique et le traitement des bases de données.",
+    "Rédiger des protocoles d'étude, des synthèses bibliographiques, des rapports d'étude et des articles scientifiques.",
+    "Analyser, interpréter et restituer des données complexes à l'aide des outils adéquats.",
+    "Animer des programmes de surveillance et des réseaux de professionnels (ex. médecins sentinelles).",
+    "Conduire et animer des réunions de travail.",
+    "Rigueur scientifique, sens de l'analyse et esprit de synthèse.",
+    "Autonomie, sens de l'initiative et de l'organisation.",
+    "Excellente capacité de communication orale et écrite, sens de la pédagogie.",
+    "Qualités relationnelles et aptitude marquée pour le travail en équipe.",
+    "Sens de l'écoute, ouverture d'esprit et réactivité.  Respect des règles d'éthique, de déontologie et de confidentialité des données de santé.",
+    "Capacité d'adaptation aux différents contextes d'intervention (acteurs de terrain, institutions, administration).",
+    "Sens des responsabilités et du service public."
+  ],
+  "specialCommitments": "Assurer des astreintes de santé publique dans le cadre de la veille sanitaire.",
+  "title": "Enquêteur épidémiologiste",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-10-16",
+  "workHours": null,
+  "champs_open_data": 30,
+  "employeur_sigle": "DASS",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 0.954,
+  "dossier": "politique-de-sante-publique"
+}
