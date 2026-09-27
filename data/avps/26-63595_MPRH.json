@@ -7,14 +7,14 @@
     "superieurHierarchique": null,
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Infirmiers diplômés d'État du service de santé publique",
-      "Médecins de la direction",
+      "IDE du service de santé publique",
+      "Autres médecins de la direction",
       "Chargé de communication de la direction"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
         "value": "inférieure à 3 ans"
       },
       {
@@ -61,15 +61,14 @@
   },
   "alternateName": null,
   "description": "Le médecin de santé publique, en qualité de conseiller technique, intervient en expertise sur l'ensemble des thématiques  du service de santé publique. A ce titre, il a pour missions:\nau titre de la prévention et de la promotion de la santé : définition et participation à la rédaction des plans de santé; de cahiers des charges d'AAP, d'avis dans le cadre de l'instruction de projets, d'animation ou de co-animation des conférences de santé\ndans le champs propre des conseillers médicaux : participation aux processus de gestion formalisés et validés en matière de réglementation, d'EIG, d'EIAS, d'EIGS, inspections, contrôles,  gestion de crise, astreintes",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Conseiller médical Prévention, Promotion de la santé au sein du Service de la santé publique de la DASS.",
   "identifier": "26-63595/MPRH",
   "image": null,
   "mainEntityOfPage": null,
   "name": "Conseiller médical Prévention, Promotion de la santé",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -78,8 +77,8 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "Nouvelle-Calédonie",
+    "@type": "Schedule",
+    "name": "DASS",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -114,24 +113,25 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "Organization",
-    "name": "Service de la santé publique"
+    "name": "Service de la santé publique",
+    "url": null,
+    "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
   "experienceRequirements": "Expérience de travail en outre-mer appréciée",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Santé",
   "jobBenefits": null,
   "jobDuration": null,
-  "jobImmediateStart": null,
+  "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Nouméa",
+    "name": "DASS",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -145,8 +145,8 @@
   "jobLocationType": null,
   "jobStartDate": null,
   "occupationalCategory": [
-    "Santé publique inspection et contrôle",
-    "Politique de santé publique"
+    "Politique de santé publique",
+    "Santé publique inspection et contrôle"
   ],
   "physicalRequirement": null,
   "qualifications": "Diplôme de médecine",
@@ -186,7 +186,7 @@
     "Participe à la formation des étudiants en santé",
     "Apporter son concours aux situation de gestion de crise"
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -207,8 +207,8 @@
   "title": "Conseiller médical Prévention, Promotion de la santé",
   "totalJobOpenings": 3,
   "validThrough": "2026-10-09",
-  "workHours": null,
-  "champs_open_data": 29,
+  "workHours": "Astreintes",
+  "champs_open_data": 30,
   "employeur_sigle": "DASS",
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
