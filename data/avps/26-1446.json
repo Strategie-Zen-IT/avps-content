@@ -1,0 +1,174 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif",
+    "direction": "SECRETARIAT GENERAL",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaire Général",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Secrétariat général",
+      "Services communaux"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "au moins égale à 10 ans pour le recrutement sans concours des adjoints administratifs"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957154.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'agent retenu sera chargé de l'accueil physique et téléphonique des administrés, ainsi que de leur information et de leur orientation vers les services communaux. Il assurera également l'enregistrement du courrier et de sa diffusion auprès des services. Enfin, il pourra venir en soutien sur des missions de secrétariat.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1446",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé d'accueil polyvalent",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Païta"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Mairie de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12 route de la Mairie",
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "35.21.11",
+    "email": "recrutement@ville-paita.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-25",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaissance du fonctionnement d'un standard téléphonique et des outils et logiciels bureautiques",
+      "Connaissance des techniques de communication orale, de réception et d'accueil",
+      "Connaissance de l'organisation et des activités d'une collectivité",
+      "Connaissance du fonctionnement et des attributions des principales administrations",
+      "Maîtriser le fonctionnement des outils et logiciels bureautiques et du logiciel courrier (World, Excel, DocuWarre)",
+      "Savoir rédiger et mettre en forme tous types de documents",
+      "Connaissance des techniques de secrétariat"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs : au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Mairie de Païta",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience professionnelle dans les domaines d'activités concernés serait appréciée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Païta"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12 route de la Mairie",
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98890"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé d'accueil polyvalent",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Accueil et orientation"
+    }
+  },
+  "responsibilities": [
+    "L'accueil physique et téléphonique du public et renseignement de premier niveau des administrés",
+    "L'orientation du public vers le bon interlocuteur",
+    "La prise des messages et de la remontée de l'information au service concerné",
+    "Enregistrement du courrier sur le logiciel métier",
+    "Diffusion aux services",
+    "Numérisation",
+    "Distribution si besoin dans les casiers",
+    "Saisie et mise en forme de document",
+    "Gestion des stocks de fournitures",
+    "Gestion de l'archivage",
+    "Gestion des actes réglementaires",
+    "Assurer les missions de la secrétaire polyvalente du secrétariat général en cas d'absence"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Procéder à l'enregistrement, à la reprographie et au dispatching du courrier arrivé",
+    "Comprendre la demande des interlocuteurs, les renseigner ou les réorienter vers le service compétent",
+    "Identifier l'importance d'une information à partir de sa nature, son contenu, son émetteur",
+    "Apporter un premier niveau de réponse",
+    "Identifier l'agent responsable en fonction de l'information reçue",
+    "S'assurer de la prise en compte de l'appel par le bon interlocuteur",
+    "Respecter la confidentialité",
+    "Sens du contact humain, du travail en équipe et de l'écoute",
+    "Disponibilité, ponctualité et sens de l'organisation",
+    "Autonomie et initiative",
+    "Accueillir avec amabilité et professionnalisme",
+    "Avoir une attitude et une présentation compatible avec l'accueil du public",
+    "Adapter sa communication en fonction de son interlocuteur",
+    "Conserver son calme dans des situations conflictuelles ou de stress",
+    "Sens du service public"
+  ],
+  "specialCommitments": null,
+  "title": "Chargé d'accueil polyvalent",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-16",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "MAIRIE-DE-PAITA",
+  "collectivite": "Mairie de Païta",
+  "direction": "SECRETARIAT GENERAL",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.862,
+  "dossier": "administration-generale"
+}
