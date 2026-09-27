@@ -4,12 +4,13 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": "CMS de POUEBO",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef de bureau de proximité des soins",
+    "superieurHierarchique": "Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Chef du Bureau de Proximité de Soins",
       "Pôle Soins",
-      "DASSPS"
+      "Étudiants infirmiers",
+      "Stagiaires"
     ],
     "informationsLibres": [
       {
@@ -68,21 +69,20 @@
   "datePosted": "2026-08-07",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'état infirmier",
+    "credentialCategory": "Diplôme d'état infirmier exigé",
     "competencyRequired": [
       "Diplôme d'état infirmier exigé",
       "Expérience du travail en poste isolé",
-      "Expérience des urgences",
-      "Être titulaire du permis de conduire B"
+      "Expérience des urgences"
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale 5 ans",
   "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "OrganizationalUnit",
-    "name": "PROVINCE NORD",
-    "url": "https://www.province-nord.nc",
+    "@type": "Organization",
+    "name": "CMS de POUEBO",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
@@ -94,7 +94,7 @@
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique",
+  "industry": "Santé",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -112,27 +112,27 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "dès que possible",
+  "jobStartDate": "Dès que possible",
   "occupationalCategory": [
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis de conduire B",
+  "qualifications": "Être titulaire du permis de conduire B.",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Infirmier",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Infirmier en soins généraux"
+      "name": "Infirmier / Infirmière en soins généraux"
     }
   },
   "responsibilities": [
     "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
-    "Réaliser les actes curatifs (consultations, urgences, soins)",
-    "Réaliser les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
-    "Réaliser les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
-    "Assurer la téléconsultation (en l'absence de médecin en présentiel)",
+    "Les actes curatifs (consultations, urgences, soins)",
+    "Les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
+    "Les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
+    "La téléconsultation (en l'absence de médecin en présentiel)",
     "Assurer l'encadrement des stagiaires, notamment les étudiants infirmiers"
   ],
   "salaryCurrency": null,
