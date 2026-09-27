@@ -5,9 +5,9 @@
     "uniteOrganisationnelle": "Service de prévention et de promotion de la santé",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef du service de prévention et de promotion de la santé",
-    "placeOrganigramme": "Sous l'autorité du chef du service de prévention et de promotion de la santé",
+    "placeOrganigramme": "Sous l'autorité du chef du service de prévention et de promotion de la santé (SPPS)",
     "relationsFonctionnelles": [
-      "Équipes pluridisciplinaires des centres de soins provinciaux",
+      "Equipes pluridisciplinaires des centres de soins provinciaux",
       "Divers spécialistes",
       "Personnel enseignant",
       "Professionnels du champ médico-social, de la petite enfance et de l'enseignement"
@@ -20,8 +20,13 @@
       },
       {
         "@type": "PropertyValue",
+        "name": "Temps de travail",
+        "value": "39h hebdomadaires du lundi au vendredi 7h30-16h"
+      },
+      {
+        "@type": "PropertyValue",
         "name": "Déplacements",
-        "value": "Déplacements fréquents en province Sud, véhicule de service mis à disposition pour les interventions extérieures"
+        "value": "Véhicule de service mis à disposition pour les interventions extérieures. Déplacements fréquents en province Sud."
       },
       {
         "@type": "PropertyValue",
@@ -42,7 +47,7 @@
   },
   "alternateName": null,
   "description": "L'orthophoniste recruté interviendra principalement sur 2 CMS de Nouméa et du grand Nouméa dans le cadre d'un exercice alliant suivi clinique et actions collectives de prévention. Le champ d'activité concerne la rééducation des troubles du langage des enfants des écoles maternelles et primaires, à l'exclusion du handicap dont la prise en charge relève d'une autre institution.",
-  "disambiguatingDescription": "Poste d'orthophoniste au sein du pôle enfance-famille de la DPASS, alliant suivi clinique et actions collectives de prévention.",
+  "disambiguatingDescription": "Poste d'orthophoniste au sein du service de prévention et de promotion de la santé de la DPASS Province Sud, axé sur le suivi clinique et les actions de prévention auprès des enfants.",
   "identifier": "26-0791",
   "image": null,
   "mainEntityOfPage": null,
@@ -60,7 +65,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Province Sud",
+    "name": "Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -95,7 +100,7 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": null,
+  "experienceInPlaceOfEducation": false,
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
@@ -104,7 +109,7 @@
   },
   "incentiveCompensation": null,
   "industry": "Santé publique",
-  "jobBenefits": "Véhicule de service mis à disposition pour les interventions extérieures, récupération prévue pour les interventions réalisées en dehors des horaires de travail",
+  "jobBenefits": "Véhicule de service mis à disposition pour les interventions extérieures. Récupération prévue pour les interventions réalisées en dehors des horaires de travail.",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -169,7 +174,7 @@
   "title": "Orthophoniste au service de prévention et de promotion de la santé",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-23",
-  "workHours": "39h hebdomadaires du lundi au vendredi 7h30-16h",
+  "workHours": "39h hebdomadaires",
   "champs_open_data": 7,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
