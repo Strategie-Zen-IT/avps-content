@@ -7,21 +7,20 @@
     "superieurHierarchique": "Directeur du SIVOM VKP",
     "placeOrganigramme": "Sous l'autorité du directeur du SIVOM VKP",
     "relationsFonctionnelles": [
-      "Directeur",
+      "Directeur du SIVOM VKP",
       "Responsable technique",
-      "Trésor public",
-      "Régisseur"
+      "Trésor public"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
-        "value": "/"
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
       },
       {
         "@type": "PropertyValue",
-        "name": "Période de disponibilité requise",
-        "value": "Durant la période de préparation et de clôture budgétaire (de décembre à février)"
+        "name": "Comportement professionnel",
+        "value": "Disponibilité durant la période de préparation et de clôture budgétaire (de décembre à février), Adaptation à des interlocuteurs variés, Qualités relationnelles, Sens du reporting, rigueur, organisation, Discrétion, devoir de réserve et disponibilité, Objectivité et neutralité, Proactivité et force de proposition"
       },
       {
         "@type": "PropertyValue",
@@ -32,7 +31,7 @@
   },
   "alternateName": null,
   "description": "Le SIVOM VKP gère, par délégation de compétence, l'adduction en eau potable, l'assainissement collectif des eaux usées et les déchets des communes de Voh, Koné et Pouembout. Ces prestations sont confiées à des délégataires et prestataires.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Poste temporaire d'agent de gestion comptable et budgétaire au sein du SIVOM VKP à Koné.",
   "identifier": "26-1357",
   "image": null,
   "mainEntityOfPage": null,
@@ -47,18 +46,7 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "SIVOM VKP",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "148 Avenue de Baco",
-      "addressLocality": "Koné",
-      "addressRegion": "Province Nord",
-      "addressCountry": "NC",
-      "province": "province Nord"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "42.48.56",
@@ -70,24 +58,23 @@
   "educationRequirements": {
     "credentialCategory": "Bac+3",
     "competencyRequired": [
-      "Comptabilité publique",
-      "Administration des collectivités locales",
-      "Connaissances des domaines de l'AEP, de l'assainissement et de la gestion des déchets",
+      "Maîtrise de la comptabilité publique et de l'administration des collectivités locales",
+      "Connaissances des domaines de l'AEP, de l'assainissement et/ou de la gestion des déchets",
       "Connaissance du contexte socio-économique de la zone VKP"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": null,
+  "employerOverview": "Le SIVOM VKP gère, par délégation de compétence, l'adduction en eau potable, l'assainissement collectif des eaux usées et les déchets des communes de Voh, Koné et Pouembout.",
   "employmentType": "TEMPORARY",
   "employmentUnit": {
-    "@type": "Organization",
+    "@type": "OrganizationalUnit",
     "name": "SIVOM VKP",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": true,
-  "experienceRequirements": "Au moins 3 ans d'expérience à un poste similaire avec un diplôme BAC+3, ou au moins 8 ans d'expérience à un poste similaire sans le diplôme requis.",
+  "experienceRequirements": "Expérience d'au moins 3 ans à un poste similaire avec un diplôme BAC+3, ou expérience d'au moins 8 ans à un poste similaire sans le diplôme requis.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "SIVOM VKP"
@@ -128,6 +115,7 @@
     }
   },
   "responsibilities": [
+    "Gérer l'administration générale du syndicat et préparer et suivre les budgets de la structure",
     "Préparer les budgets prévisionnels en collaboration avec le Directeur",
     "Suivre et gérer le budget et toutes les opérations et saisies budgétaires",
     "Rédiger les actes administratifs du syndicat (délibération, arrêté, décisions modificatives, etc.) ou aider le directeur et le responsable technique dans ces rédactions (marchés, contrats, conventions, etc.)",
@@ -143,36 +131,22 @@
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Parfaite expression écrite et orale",
-    "Maîtrise de la suite Office",
-    "Maîtrise des logiciels BFC",
-    "Capacité de travail en autonomie",
-    "Capacité de travail en équipe réduite",
-    "Capacité à rendre des comptes",
-    "Capacité à tenir des délais",
-    "Adaptation à des interlocuteurs variés",
-    "Qualités relationnelles",
-    "Sens du reporting",
-    "Rigueur",
-    "Organisation",
-    "Discrétion",
-    "Devoir de réserve",
-    "Disponibilité",
-    "Objectivité",
-    "Neutralité",
-    "Proactivité",
-    "Force de proposition"
+    "Parfaite expression écrite et orale permettant la rédaction de délibérations, rapports, PV etc.",
+    "Maîtrise de la suite Office et des logiciels BFC",
+    "Capacité de travail en autonomie et en équipe réduite",
+    "Capacité à rendre des comptes et à tenir des délais"
   ],
-  "specialCommitments": null,
+  "specialCommitments": "Disponibilité durant la période de préparation et de clôture budgétaire (de décembre à février)",
   "title": "Agent de gestion comptable et budgétaire",
   "totalJobOpenings": 5,
   "validThrough": "2026-10-02",
   "workHours": null,
-  "champs_open_data": 7,
-  "employeur_sigle": "A-TRIER",
-  "collectivite": "",
+  "champs_open_data": 8,
+  "employeur_sigle": "SIVOM-VKP",
+  "collectivite": "SIVOM VKP",
   "direction": "SIVOM VKP",
   "direction_source": "document",
+  "employeur_source": "document",
   "famille_respnc": "Finances et budget",
   "famille_source": "respnc",
   "famille_score": 0.849,
