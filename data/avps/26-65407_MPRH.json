@@ -15,8 +15,8 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Unité d'affectation",
-        "value": "UPAD"
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Titulaire du permis de conduire B."
       },
       {
         "@type": "PropertyValue",
@@ -57,7 +57,7 @@
   },
   "alternateName": null,
   "description": "Sous l'autorité du chef de service, le chef de service éducatif assure l'encadrement, l'animation et la coordination de l'équipe pluridisciplinaire de l'UPAD. Il veille à la mise en œuvre des missions de protection judiciaire de l'enfance et de la jeunesse, dans le respect des décisions judiciaires et des orientations institutionnelles.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Sous l'autorité du chef de service, le chef de service éducatif assure l'encadrement, l'animation et la coordination de l'équipe pluridisciplinaire de l'UPAD. Il veille à la mise en œuvre des missions de protection judiciaire de l'enfance et de la jeunesse, dans le respect des décisions judiciaires et des orientations institutionnelles.",
   "identifier": "26-65407/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -93,7 +93,7 @@
   "employerOverview": "La Direction de la Protection Judiciaire de l'Enfance et de la Jeunesse (DPJEJ) a notamment pour mission de prévenir et de lutter contre la délinquance des mineurs. À ce titre, elle met en œuvre les orientations de la Nouvelle-Calédonie en matière de protection judiciaire de l'enfance et de la jeunesse et veille à répondre aux besoins liés à l'instruction et à l'exécution des décisions judiciaires concernant les mineurs qui lui sont confiés.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "OrganizationalUnit",
+    "@type": "Organization",
     "name": "Nouvelle-Calédonie",
     "url": null,
     "logo": null
@@ -107,7 +107,7 @@
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": null,
+  "jobBenefits": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -124,12 +124,12 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiatement",
+  "jobStartDate": null,
   "occupationalCategory": [
     "Action sociale"
   ],
   "physicalRequirement": null,
-  "qualifications": "Titulaire du permis de conduire B",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Responsable socio éducatif",
