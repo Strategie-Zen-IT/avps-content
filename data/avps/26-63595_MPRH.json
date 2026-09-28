@@ -8,8 +8,9 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "IDE du service de santé publique",
-      "Autres médecins de la direction",
-      "Chargé de communication de la direction"
+      "Médecins de la direction",
+      "Chargé de communication de la direction",
+      "Professionnels médicaux de la direction"
     ],
     "informationsLibres": [
       {
@@ -112,7 +113,7 @@
   "employerOverview": "La direction des affaires sanitaires et sociales de la Nouvelle-Calédonie est une des directions techniques du gouvernement de la Nouvelle-Calédonie.\nElle est responsable de la mise en œuvre de la politique de la Nouvelle-Calédonie en matière de santé publique et de protection sociale. \nElle comprend un service administration et support qui intervient en support de manière transversale et quatre services métiers.\nLes principaux enjeux de la politique de santé reposent sur le concept Une seule santé et sont liés aux déterminants de santé, à la santé relationnelle, à la prévention et aux parcours.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
+    "@type": "OrganizationalUnit",
     "name": "Service de la santé publique",
     "url": null,
     "logo": null
