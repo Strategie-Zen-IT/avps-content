@@ -1,0 +1,214 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
+    "uniteOrganisationnelle": "Service de l'offre et de la qualité de soin",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Provinces",
+      "Mairies",
+      "Communauté du Pacifique Sud (CPS)",
+      "Comité Régional OMS du Pacifique occidental",
+      "Centre Hospitalier du Nord (CHN)",
+      "Directions provinciales (DPASS)"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Oui"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Déplacements",
+        "value": "L'agent est amené à se déplacer sur l'ensemble de la Nouvelle-Calédonie."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service de l'offre et de la qualité de soin"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953412.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Au sein du service de l'offre et de la qualité des soins, ou au sein de l'Antenne Nord,  l'inspecteur des affaires sanitaires et sociales assure la conception, le pilotage et l'animation des dispositifs de veille sanitaire, de prévention et de gestion des crises sur le territoire, avec un ancrage fort en Province Nord et dans les Îles Loyauté. Il/Elle décline la stratégie globale de santé publique en intégrant les enjeux de santé environnementale (One Health) et le rayonnement régional dans le Pacifique.",
+  "disambiguatingDescription": null,
+  "identifier": "26-65612/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Inspecteur des affaires sanitaires et sociales",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "drhfpnc.recrutement@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-09-28",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaissance de l'environnement institutionnel et administratif de la Nouvelle Calédonie, Connaissance thématique (santé, sociale et médico-sociale)",
+      "Expérience professionnelle afférente au domaine d'intervention",
+      "Règles déontologiques et organisations professionnelles."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction des affaires sanitaires et sociales de la Nouvelle-Calédonie est une des directions techniques du gouvernement de la Nouvelle-Calédonie.\nElle est responsable de la mise en œuvre de la politique de la Nouvelle-Calédonie en matière de santé publique et de protection sociale.\nElle comprend un service administration et support et quatre services métiers.\nLe service de la protection sociale est chargé de la conception et de la mise en œuvre des politiques de protection sociale, de la performance du système de protection sociale. Il est également chargé de l'organisation, de la régulation et du contrôle de l'offre sociale et médico-sociale.\nIl assure également le secrétariat du conseil du handicap et de la dépendance et de la commission médicale des permis de conduire.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de l'offre et de la qualité de soin",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle afférente au domaine d'intervention",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Antenne Nord - Koné",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Antenne Nord - Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Politique de santé publique",
+    "Santé publique inspection et contrôle"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Inspecteur des affaires sanitaires et sociales",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1402",
+      "name": "Inspecteur (de la formation professionnelle, de l'action sanitaire et sociale, du travail des transports)"
+    }
+  },
+  "responsibilities": [
+    "L'inspecteur est chargé des missions suivantes :",
+    "1- Représentation institutionnelle de proximité et interface régionale :",
+    "Niveau local : interlocuteur des acteurs de terrain ; Provinces, Mairies, autres partenaires sur les questions de santé et de protection sociale.",
+    "Niveau régional : en lien avec la direction de la DASS, des services dédiés aux relations extérieures - référent des orientations de la Communauté du Pacifique Sud (CPS) et du Comité Régional OMS du Pacifique occidental, garantissant l'intégration des programmes régionaux (gestion de crises, résilience sanitaire...) dans les stratégies du pays.",
+    "2- Coordination, interopérabilité et animation de réseaux dans le respect des compétences de chaque acteur :",
+    "Fluidifier et sécuriser les relations transversales entre la DASSNC, les acteurs de terrain et les structures de soins décentralisées (CHN en PNord-DPASS-secteur libéral...)",
+    "Créer des passerelles humaines et techniques en réponse à l'isolement des structures décentrées, œuvrer à l'harmonisation des pratiques de soins et de prévention.",
+    "3- Appui et expertise territorial déconcentrée  :",
+    "Apporter une expertise technique de proximité en matière de santé et de protection sociale, éclairer les prises de décision des acteurs et partenaires locaux du système de santé.",
+    "> Ingénierie de la Veille Sanitaire et Pilotage du Réseau Sentinelle",
+    "Déploiement et animation du réseau sentinelle :",
+    "Promouvoir, mobiliser et accompagner les professionnels déclarant dans les dispensaires de la Province Nord et des Îles Loyauté.",
+    "Animer le réseau de santé de proximité et suivre l'implantation continue du dispositif sur le terrain.",
+    "Évaluation et optimisation stratégique : Évaluer l'impact, la pertinence et la performance du réseau sentinelle,  reformuler des préconisations d'ajustement stratégique auprès de la direction",
+    "Circuit de collecte et d'alimentation des données :",
+    "Dans le cadre de la mise en place de l'Observatoire accompagner les opérateurs dans la formalisation des circuits permettant de garantir la remontée d'informations exhaustives, fiables et réactives en provenance des Provinces Nord et Îles.",
+    "Astreinte et gouvernance interprovinciale :",
+    "Stabiliser le dispositif d'astreinte de veille sanitaire en étroite coordination avec les trois Provinces, afin de garantir une capacité d'alerte, une réponse rapide et une continuité de service sur l'ensemble de la Grande Terre et des Îles.",
+    "> Santé Publique & Gestion de Crise",
+    "Coordonner les programmes d'intervention ciblés face aux priorités sanitaires du territoire :",
+    "Tuberculose : coordination de la stratégie de lutte,  continuité des parcours de soins.",
+    "Arboviroses et Zoonoses : Dengue, Leptospirose.",
+    "Maladies Tropicales Négligées (MTN) et pathologies communautaires : Lèpre, Gale.",
+    "Coordination opérationnelle en cas de crise sanitaire :",
+    "Articuler l'action sur le terrain entre la DASS-NC, les directions provinciales (DPASS) et le Centre Hospitalier du Nord (CHN).",
+    "Assurer la liaison opérationnelle avec les autorités sanitaires provinciales lors de pic épidémique ou de situation d'urgence sanitaire.",
+    "Gestion de la chaîne des décès : Fluidifier, harmoniser et simplifier la chaîne de traitement administratif et sanitaire liée au suivi des décès sur le territoire Nord.",
+    "> Santé Environnementale et Déploiement de l'approche « One Health »",
+    "Portage territorial « One Health » : relayer la stratégie de santé environnementale en synergie avec les acteurs de la santé humaine, animale et environnementale (collectivités, recherche, monde agricole, associations).",
+    "Politique de l'Eau Partagée (PEP) : Appuyer la déclinaison des orientations stratégiques de la PEP au niveau communal et provincial :",
+    "Suivi des enjeux d'assainissement collectif et non collectif pour la préservation de la santé publique.",
+    "> Ancrage Territorial, animation de Réseaux",
+    "Représentation et relais de proximité : Servir de référent DASS-NC auprès des communes, des provinces et des structures de soins décentralisée.",
+    "Participation en tant que personne ressource, à des projets ou missions spécifiques de la direction",
+    "Participation aux astreintes de la direction",
+    "L'agent est amené à se déplacer sur l'ensemble de la Nouvelle-Calédonie."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Cadrage et sécurisation des procédures",
+    "Suivi et instruction de dossier",
+    "Concevoir et proposer des solutions innovantes et durables dont l'impact a été mesuré ainsi que les préalables à leur mise en œuvre",
+    "Capacité de synthèse et d'analyse",
+    "Disposer d'un bon relationnel, nécessaire au travail en réseau, coordination transverse",
+    "Construire et développer une démarche coopérative de projet",
+    "Compétences rédactionnelles",
+    "Forte capacité d'appréhension des enjeux de la mise en œuvre des politiques publiques et leur évaluation.",
+    "Faire preuve de rigueur, d'objectivité et de sens critique",
+    "Savoir travailler dans l'urgence et assurer la conduite de plusieurs dossiers simultanément",
+    "Avoir le sens de l'écoute et du dialogue",
+    "Savoir travailler en équipe et partager l'information",
+    "Bon relationnel."
+  ],
+  "specialCommitments": "Participation aux astreintes de la direction",
+  "title": "Inspecteur des affaires sanitaires et sociales",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-16",
+  "workHours": null,
+  "champs_open_data": 25,
+  "employeur_sigle": "DASS",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique inspection et contrôle",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-inspection-et-controle"
+}
