@@ -5,7 +5,7 @@
     "uniteOrganisationnelle": "Service de Prévention et de Promotion de la Santé",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef du service de prévention et de promotion de la santé",
-    "placeOrganigramme": null,
+    "placeOrganigramme": "Au sein du pôle enfance-famille",
     "relationsFonctionnelles": [
       "Equipes pluridisciplinaires des centres de soins provinciaux",
       "Divers spécialistes",
@@ -21,17 +21,17 @@
       {
         "@type": "PropertyValue",
         "name": "Déplacements",
-        "value": "Déplacements fréquents en province Sud. Véhicule de service mis à disposition pour les interventions extérieures."
+        "value": "Déplacements fréquents en province Sud, véhicule de service mis à disposition pour les interventions extérieures"
       },
       {
         "@type": "PropertyValue",
         "name": "Compensation",
-        "value": "Récupération prévue pour les interventions réalisées en dehors des horaires de travail."
+        "value": "Récupération prévue pour les interventions réalisées en dehors des horaires de travail"
       },
       {
         "@type": "PropertyValue",
         "name": "Matériel",
-        "value": "Outils orthophoniques et supports de prévention disponibles."
+        "value": "Outils orthophoniques et supports de prévention disponibles"
       },
       {
         "@type": "PropertyValue",
@@ -42,7 +42,7 @@
   },
   "alternateName": null,
   "description": "L'orthophoniste recruté intervient principalement sur 2 CMS de Nouméa et du grand Nouméa dans le cadre d'un exercice alliant suivi clinique et actions collectives de prévention. Le champ d'activité concerne la rééducation des troubles du langage des enfants des écoles maternelles et primaires, à l'exclusion du handicap dont la prise en charge relève d'une autre institution.",
-  "disambiguatingDescription": "Poste d'orthophoniste au sein du pôle enfance-famille de la DPASS, axé sur la rééducation des troubles du langage et les actions de prévention.",
+  "disambiguatingDescription": "Poste d'orthophoniste au sein du service de prévention et de promotion de la santé de la DPASS Province Sud, axé sur la rééducation des troubles du langage en milieu scolaire et des actions de prévention.",
   "identifier": "26-0791",
   "image": null,
   "mainEntityOfPage": null,
@@ -59,11 +59,11 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "Hôtel de province",
+    "@type": "Schedule",
+    "name": "Nouméa",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "6 route des artifices",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -104,7 +104,7 @@
   },
   "incentiveCompensation": null,
   "industry": "Santé publique",
-  "jobBenefits": "Véhicule de service mis à disposition pour les interventions extérieures, récupération prévue pour les interventions réalisées en dehors des horaires de travail.",
+  "jobBenefits": "Véhicule de service mis à disposition pour les interventions extérieures, récupération prévue pour les interventions réalisées en dehors des horaires de travail",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
