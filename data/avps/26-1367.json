@@ -27,7 +27,7 @@
       {
         "@type": "PropertyValue",
         "name": "Avantages",
-        "value": "Reprise de l'ancienneté possible selon la réglementation en vigueur, Prise en charge du billet aller uniquement"
+        "value": "Prise en charge du billet aller uniquement"
       },
       {
         "@type": "PropertyValue",
@@ -57,8 +57,8 @@
     ]
   },
   "alternateName": "IPA Oncologie-Hématologie",
-  "description": "Ce poste s'inscrit dans une volonté institutionnelle d'élargir l'offre de compétences avancées et de renforcer la prise en charge globale des patients atteints de pathologies cancéreuses et hématologiques. Il a pour objectif d'améliorer la fluidité et la continuité du parcours patient, l'accès rapide aux soins, la qualité du suivi des traitements, notamment des thérapies orales, la coordination entre ville et hôpital, et la disponibilité médicale sur les consultations complexes et premières visites.",
-  "disambiguatingDescription": "Infirmier(ère) en pratique avancée au sein du service oncologie/hématologie du Centre Hospitalier Territorial.",
+  "description": "Ce poste s'inscrit dans une volonté institutionnelle d'élargir l'offre de compétences avancées et de renforcer la prise en charge globale des patients atteints de pathologies cancéreuses et hématologiques. L'objectif est d'améliorer la fluidité et la continuité du parcours patient, l'accès rapide aux soins, la qualité du suivi des traitements, la coordination entre ville et hôpital, et la disponibilité médicale sur les consultations complexes.",
+  "disambiguatingDescription": "Infirmier(ère) en pratique avancée spécialisé en oncologie et hématologie au Centre Hospitalier Territorial.",
   "identifier": "26-1367",
   "image": null,
   "mainEntityOfPage": null,
@@ -98,11 +98,12 @@
     "competencyRequired": [
       "Expertise en oncologie, hématologie et soins palliatifs",
       "Maîtrise de l'évaluation clinique avancée",
-      "Connaissance approfondie des traitements spécifiques (thérapie orale, protocoles, utilisation PCA)"
+      "Connaissance approfondie des traitements spécifiques (thérapie orale, protocoles, utilisation PCA)",
+      "Formation AFGSU niveau 2 à jour"
     ]
   },
   "eligibilityToWorkRequirement": "AU MOINS EGALE A 10 ANS",
-  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret (Médipôle Koutio) est l'établissement hospitalier de référence en Nouvelle-Calédonie.",
+  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret (Médipôle) est l'établissement de santé de référence en Nouvelle-Calédonie.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -112,14 +113,14 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Une expérience dans un service similaire serait un plus",
+  "experienceRequirements": "Une expérience dans un service similaire serait un plus.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Centre hospitalier territorial \"Gaston Bourret\""
   },
   "incentiveCompensation": "Primes spécifiques (nuit, week-end...)",
-  "industry": "Santé",
-  "jobBenefits": "Grilles indiciaires de la fonction publique de Nouvelle-Calédonie, reprise de l'ancienneté possible, prise en charge du billet aller uniquement",
+  "industry": "Santé publique soins",
+  "jobBenefits": "Reprise de l'ancienneté possible selon la réglementation en vigueur, grilles indiciaires de la fonction publique de Nouvelle-Calédonie, prise en charge du billet aller uniquement.",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -141,7 +142,7 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Formation AFGSU niveau 2 à jour",
+  "qualifications": "Diplôme d'État d'infirmier / infirmier en soins généraux, Formation AFGSU niveau 2 à jour",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Infirmier en pratique avancée",
@@ -158,13 +159,13 @@
     "Gérer et surveiller les effets secondaires et complications des traitements",
     "Réévaluer ou adapter la thérapeutique autorisée dans son champ de compétences (prescriptions, examens complémentaires, ajustements)",
     "Diminuer la charge des consultations de suivi des médecins",
-    "Prendre en charge certaines consultations identifiées (Lymphomes, Syndrome Myélodysplasique, myélomes, Cancers digestifs et cancers du sein)",
+    "Prendre en charge certaines consultations identifiées (Lymphomes, Syndrome Myélodysplasique, myélomes, cancers digestifs et cancers du sein)",
     "Faciliter l'accès aux premières consultations et l'orientation rapide des patients",
     "Assurer un lien renforcé avec les médecins traitants, les infirmier(ères) libéraux, les pharmaciens, les structures de soins et associations",
-    "Communiquer et diffuser les informations nécessaires à un parcours fluide : protocoles, notes, courriers",
+    "Communiquer et diffuser les informations nécessaires à un parcours fluide (protocoles, notes, courriers)",
     "Contribuer à la structuration d'un réseau territorialisé IPA Oncologie-Hématologie",
     "Participer à l'élaboration et l'animation d'ateliers d'éducation thérapeutique à destination des patients et de leur entourage",
-    "Se positionner sur des activités de recherche et d'amélioration des pratiques"
+    "Participer à des activités de recherche et d'amélioration des pratiques"
   ],
   "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
@@ -177,7 +178,8 @@
     "Bon relationnel",
     "Discrétion professionnelle",
     "Forte adaptabilité",
-    "Grande capacité d'analyse et de coordination",
+    "Grande capacité d'analyse",
+    "Capacité de coordination",
     "Sens aigu de l'écoute active",
     "Relation d'aide"
   ],
