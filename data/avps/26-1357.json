@@ -5,10 +5,11 @@
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 2,
     "superieurHierarchique": "Directeur du SIVOM VKP",
-    "placeOrganigramme": "Sous l'autorité du directeur du SIVOM VKP",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Directeur du SIVOM VKP",
       "Responsable technique",
+      "Assistant administratif du syndicat",
       "Trésor public"
     ],
     "informationsLibres": [
@@ -19,8 +20,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Comportement professionnel",
-        "value": "Disponibilité durant la période de préparation et de clôture budgétaire (de décembre à février), Adaptation à des interlocuteurs variés, Qualités relationnelles, Sens du reporting, rigueur, organisation, Discrétion, devoir de réserve et disponibilité, Objectivité et neutralité, Proactivité et force de proposition"
+        "name": "Poste à pourvoir",
+        "value": "Du 12/10/2026 au 11/03/2027"
       },
       {
         "@type": "PropertyValue",
@@ -31,7 +32,7 @@
   },
   "alternateName": null,
   "description": "Le SIVOM VKP gère, par délégation de compétence, l'adduction en eau potable, l'assainissement collectif des eaux usées et les déchets des communes de Voh, Koné et Pouembout. Ces prestations sont confiées à des délégataires et prestataires.",
-  "disambiguatingDescription": "Poste temporaire d'agent de gestion comptable et budgétaire au sein du SIVOM VKP à Koné.",
+  "disambiguatingDescription": "Agent de gestion comptable et budgétaire au sein du SIVOM VKP",
   "identifier": "26-1357",
   "image": null,
   "mainEntityOfPage": null,
@@ -82,7 +83,7 @@
   "incentiveCompensation": null,
   "industry": "Service public",
   "jobBenefits": null,
-  "jobDuration": "Du 12/10/2026 au 11/03/2027",
+  "jobDuration": "5 mois",
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
@@ -115,7 +116,6 @@
     }
   },
   "responsibilities": [
-    "Gérer l'administration générale du syndicat et préparer et suivre les budgets de la structure",
     "Préparer les budgets prévisionnels en collaboration avec le Directeur",
     "Suivre et gérer le budget et toutes les opérations et saisies budgétaires",
     "Rédiger les actes administratifs du syndicat (délibération, arrêté, décisions modificatives, etc.) ou aider le directeur et le responsable technique dans ces rédactions (marchés, contrats, conventions, etc.)",
@@ -134,7 +134,14 @@
     "Parfaite expression écrite et orale permettant la rédaction de délibérations, rapports, PV etc.",
     "Maîtrise de la suite Office et des logiciels BFC",
     "Capacité de travail en autonomie et en équipe réduite",
-    "Capacité à rendre des comptes et à tenir des délais"
+    "Capacité à rendre des comptes et à tenir des délais",
+    "Disponibilité durant la période de préparation et de clôture budgétaire (de décembre à février)",
+    "Adaptation à des interlocuteurs variés",
+    "Qualités relationnelles",
+    "Sens du reporting, rigueur, organisation",
+    "Discrétion, devoir de réserve et disponibilité",
+    "Objectivité et neutralité",
+    "Proactivité et force de proposition"
   ],
   "specialCommitments": "Disponibilité durant la période de préparation et de clôture budgétaire (de décembre à février)",
   "title": "Agent de gestion comptable et budgétaire",
