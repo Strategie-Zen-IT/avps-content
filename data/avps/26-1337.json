@@ -20,8 +20,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": null
+        "name": "Date de clôture initialement prévue",
+        "value": "25/09/2026 (reportée)"
       },
       {
         "@type": "PropertyValue",
@@ -58,7 +58,7 @@
   "datePosted": "2026-09-04",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": null,
+    "credentialCategory": "Catégorie B ou A",
     "competencyRequired": [
       "Maîtrise du fonctionnement administratif des collectivités",
       "Maîtrise des procédures de contrats et marchés publics",
@@ -80,14 +80,14 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expériences dans le management d'équipe, les procédures administratives des collectivités, la gestion et planification des échéances, et le travail en transversalité.",
+  "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
     "url": "http://www.taneo.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Transports terrestres et maritimes",
+  "industry": "Service public",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -96,19 +96,18 @@
     "name": "SMTU",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "BP 48",
-      "addressLocality": "Dumbéa",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
       "province": "province Sud",
-      "postalCode": "98835"
+      "postalCode": "98800"
     }
   },
   "jobLocationType": null,
   "jobStartDate": "Dès que possible",
   "occupationalCategory": [
     "Administration générale",
-    "Transports terrestres et maritimes",
     "Communication"
   ],
   "physicalRequirement": null,
@@ -119,7 +118,7 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1601",
-      "name": "Direction administrative et financière"
+      "name": "Assistance en ressources humaines"
     }
   },
   "responsibilities": [
@@ -162,7 +161,7 @@
   "totalJobOpenings": 1,
   "validThrough": "2026-10-09",
   "workHours": null,
-  "champs_open_data": 6,
+  "champs_open_data": 7,
   "employeur_sigle": "SYNDICAT-MIXTE-DES-TRANSPORTS-URBAINS-DU-GRAND-NOUMEA-SMTU",
   "collectivite": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
   "direction": "SMTU",
