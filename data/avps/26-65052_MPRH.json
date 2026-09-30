@@ -4,7 +4,7 @@
     "direction": "DIRECTION DU BUDGET ET DES AFFAIRES FINANCIERES",
     "uniteOrganisationnelle": "Service des collectivités locales et des établissements publics",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef de service et de son adjoint(e)",
+    "superieurHierarchique": "Chef de service et son adjoint(e)",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Membres du gouvernement",
@@ -56,7 +56,7 @@
   },
   "alternateName": null,
   "description": "Sous l'autorité du chef de service et de son adjoint(e), le contrôleur financier effectue le contrôle administratif et financier des établissements publics de la Nouvelle-Calédonie et contribue à l'identification des risques financiers inhérents à leur fonctionnement.",
-  "disambiguatingDescription": "Contrôle administratif et financier des établissements publics de la Nouvelle-Calédonie et contribution à l'identification des risques financiers.",
+  "disambiguatingDescription": null,
   "identifier": "26-65052/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -92,7 +92,7 @@
   "datePosted": "2026-08-28",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Bac+5",
+    "credentialCategory": "Master 2",
     "competencyRequired": [
       "Les compétences suivies de (*) pourront être acquises à la suite de la prise de poste via un accompagnement et des formations dispensées au sein de la collectivité.",
       "Master 2 exigé pour le recrutement sur titre s'agissant d'un métier identifié comme pénurique",
@@ -113,14 +113,14 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Master 2 exigé pour le recrutement sur titre s'agissant d'un métier identifié comme pénurique",
+  "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": "Informations salaire disponibles sur le site de la DRHFPNC",
+  "jobBenefits": "Informations salaire : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -137,7 +137,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiatement",
+  "jobStartDate": "immédiatement",
   "occupationalCategory": [
     "Finances et budget"
   ],
