@@ -5,14 +5,28 @@
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Directeur des ressources humaines",
-    "placeOrganigramme": "Placé sous l'autorité hiérarchique du directeur des ressources humaines",
+    "placeOrganigramme": "Placé sous l'autorité hiérarchique du directeur des ressources humaines, le directeur adjoint sera amené à l'assister dans la gestion des personnels administratifs et des collaborateurs politiques de l'Institution",
     "relationsFonctionnelles": [
       "Directeur des ressources humaines",
       "Secrétariat général",
-      "Responsables de service",
-      "Collaborateurs politiques"
+      "Responsables de service"
     ],
     "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Emploi fonctionnel",
+        "value": "Oui"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Non applicable"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Date de clôture reportée",
+        "value": "La date de clôture initialement prévue le 02/10/2026 a été reportée au 23/10/2026"
+      },
       {
         "@type": "PropertyValue",
         "name": "Fiche d'emploi générique RESPNC",
@@ -22,15 +36,14 @@
   },
   "alternateName": "Directeur adjoint de la direction des ressources humaines",
   "description": "Placé sous l'autorité hiérarchique du directeur des ressources humaines, le directeur adjoint sera amené à l'assister dans la gestion des personnels administratifs et des collaborateurs politiques de l'Institution, afin de contribuer à la mise en œuvre de la politique du Congrès de la Nouvelle-Calédonie en la matière et à la coordination de l'activité des services de la direction. Il a ainsi pour objectif général de garantir la sécurisation de la décision RH, la continuité, la qualité et l'efficacité du service des ressources humaines au quotidien.",
-  "disambiguatingDescription": "Poste de direction adjointe axé sur l'expertise juridique, statutaire et le pilotage RH au Congrès de la Nouvelle-Calédonie.",
+  "disambiguatingDescription": "Poste de Directeur (trice) adjoint(e) en expertise juridique, statutaire et pilotage RH au Congrès de la Nouvelle-Calédonie.",
   "identifier": "26-1339",
   "image": null,
   "mainEntityOfPage": null,
   "name": "Directeur (trice) adjoint(e)",
   "owner": {
     "@type": "Organization",
-    "name": "Congrès de la Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/cnc.png"
+    "name": "Congrès de la Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -39,11 +52,11 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
+    "@type": "Schedule",
     "name": "Congrès de la Nouvelle-Calédonie",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "1, boulevard Vauban",
+      "streetAddress": "1, boulevard Vauban - Centre-ville",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -63,7 +76,7 @@
     "competencyRequired": [
       "Droit public",
       "Droit des ressources humaines",
-      "Droit de la fonction publique",
+      "Droit de la fonction publique ou domaine juridique connexe",
       "Droit applicable à la fonction publique de Nouvelle-Calédonie",
       "Règles relatives à la gestion administrative des agents publics",
       "Droit du travail applicable en Nouvelle-Calédonie",
@@ -75,7 +88,7 @@
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": null,
+  "employerOverview": "Le Congrès de la Nouvelle-Calédonie est l'assemblée délibérante de la Nouvelle-Calédonie.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -88,8 +101,7 @@
   "experienceRequirements": "Non spécifié",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Congrès de la Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/cnc.png"
+    "name": "Congrès de la Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -101,18 +113,20 @@
     "name": "Congrès de la Nouvelle-Calédonie",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "1, boulevard Vauban",
+      "streetAddress": "1, boulevard Vauban - Centre-ville",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud"
+      "province": "province Sud",
+      "postalCode": "98800"
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Ressources Humaines",
-    "Pilotage"
+    "Administration générale",
+    "Ingénierie juridique"
   ],
   "physicalRequirement": null,
   "qualifications": null,
@@ -122,7 +136,7 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K2102",
-      "name": "Direction des ressources humaines"
+      "name": "Management des ressources humaines"
     }
   },
   "responsibilities": [
@@ -164,16 +178,17 @@
     "Grande disponibilité",
     "Sens avéré de la communication et de la diplomatie"
   ],
-  "specialCommitments": null,
-  "title": "Directeur (trice) adjoint(e) - Expertise juridique, statutaire et pilotage RH",
+  "specialCommitments": "Assurer l'intérim du directeur des ressources humaines en son absence",
+  "title": "Directeur (trice) adjoint(e)",
   "totalJobOpenings": 1,
-  "validThrough": "2026-09-25",
+  "validThrough": "2026-10-23",
   "workHours": null,
-  "champs_open_data": 6,
+  "champs_open_data": 7,
   "employeur_sigle": "CNC",
   "collectivite": "Congrès de la Nouvelle-Calédonie",
   "direction": "CONGRES DE LA NOUVELLE-CALEDONIE",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Pilotage",
   "famille_source": "respnc",
   "famille_score": 1.0,
