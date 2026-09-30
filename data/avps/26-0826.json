@@ -7,22 +7,21 @@
     "superieurHierarchique": "Directeur de la Maison de l'enfance de Dumbéa sur mer",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Service de protection de l'enfance",
       "Pôle enfance-famille",
+      "Service de protection de l'enfance",
       "Juge des enfants",
-      "Parquet",
-      "SPE"
+      "Parquet"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
         "value": "Au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Capacité à travailler en horaires d'internat (journées, soirées et week-ends)"
+        "name": "Date de clôture initiale",
+        "value": "02/10/26 (reportée)"
       },
       {
         "@type": "PropertyValue",
@@ -32,7 +31,7 @@
     ]
   },
   "alternateName": "Moniteur éducateur",
-  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial. Au sein du pôle enfance-famille, le service de protection de l'enfance compte plus de 80 agents répartis en 4 bureaux et 3 structures d'accueil collectif. La maison de l'enfance accueille des jeunes de 14 ans à 18 ans bénéficiant d'une mesure d'Assistance Éducative et est complété par le dispositif d'accueil d'urgence et d'orientation (DAUO). Ces deux structures ont pour objectif d'accompagner des jeunes avec des parcours de vie difficiles faits de ruptures familiales et sociales.",
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial. Au sein du pôle enfance-famille, le service de protection de l'enfance compte plus de 80 agents. La maison de l'enfance accueille des jeunes de 14 ans à 18 ans bénéficiant d'une mesure d'Assistance Éducative et est complétée par le dispositif d'accueil d'urgence et d'orientation (DAUO). Ces deux structures ont pour objectif d'accompagner des jeunes avec des parcours de vie difficiles faits de ruptures familiales et sociales.",
   "disambiguatingDescription": "Accompagnement éducatif de jeunes de 14 à 18 ans en situation de rupture familiale et sociale au sein de la Maison de l'enfance de Dumbéa sur mer.",
   "identifier": "26-0826",
   "image": null,
@@ -41,8 +40,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
-    "logo": "https://avps.nc/logos/pvs.png"
+    "url": "https://www.province-sud.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -73,15 +71,18 @@
   "educationRequirements": {
     "credentialCategory": "Diplôme d'État d'éducateur spécialisé ou de moniteur éducateur",
     "competencyRequired": [
-      "Connaissance du travail avec les familles"
+      "Connaissance du travail avec les familles",
+      "Connaissance en bureautique"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "eligibilityToWorkRequirement": "Durée de résidence d'au moins 5 ans exigée pour le recrutement sur titre",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
-    "name": "Maison de l'enfance de Dumbéa sur mer"
+    "@type": "OrganizationalUnit",
+    "name": "Maison de l'enfance de Dumbéa sur mer",
+    "url": null,
+    "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
@@ -89,8 +90,7 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
-    "logo": "https://avps.nc/logos/pvs.png"
+    "url": "https://www.province-sud.nc"
   },
   "incentiveCompensation": null,
   "industry": "Action sociale",
@@ -106,11 +106,12 @@
       "addressLocality": "Dumbéa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud"
+      "province": "province Sud",
+      "postalCode": "98835"
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Action sociale"
   ],
@@ -127,7 +128,7 @@
   },
   "responsibilities": [
     "Participer à la prise en charge globale des mineurs accueillis au foyer",
-    "Elaborer, mettre en œuvre et évaluer les projets individualisés des mineurs",
+    "Élaborer, mettre en œuvre et évaluer les projets individualisés des mineurs",
     "Favoriser, lorsque possible, les conditions de retour dans leur famille",
     "Aider les mineurs à se responsabiliser et à développer des ressources pour s'engager dans un projet constructif",
     "Prendre en compte leur situation familiale et leur statut civil ou coutumier",
@@ -144,28 +145,27 @@
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Expérience en foyer d'aide sociale à l'enfance souhaitée",
     "Aptitudes dans la gestion des relations humaines",
     "Aptitudes au travail en équipe pluri-professionnelle et de réseau",
     "Aptitudes à accompagner sur le quotidien un groupe mixte (garçons et filles)",
     "Qualités rédactionnelles",
-    "Connaissance en bureautique",
     "Bonne communication",
     "Disponibilité",
     "Respect du secret professionnel",
     "Sensibilité aux cultures océaniennes",
     "Qualités relationnelles certaines"
   ],
-  "specialCommitments": "Astreintes et horaires d'internat (journées, soirées et week-ends)",
-  "title": "Educateur spécialisé ou moniteur éducateur, à la Maison de l'enfance de Dumbéa sur mer",
+  "specialCommitments": "Horaires d'internat (journées, soirées et week-ends)",
+  "title": "Educateur spécialisé ou moniteur éducateur à la maison de l'enfance de Dumbéa su mer",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-02",
   "workHours": "Horaires d'internat (journées, soirées et week-ends)",
-  "champs_open_data": 6,
+  "champs_open_data": 7,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
   "direction": "PROVINCE SUD",
   "direction_source": "source",
+  "employeur_source": "source",
   "famille_respnc": "Action sociale",
   "famille_source": "respnc",
   "famille_score": 0.984,
