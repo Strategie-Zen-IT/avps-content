@@ -8,10 +8,19 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Producteurs de fruits et légumes",
-      "Collègues contrôleurs",
-      "Équipes du service"
+      "Contrôleurs de la DAVAR"
     ],
     "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de la mission",
+        "value": "Un an"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Zone géographique d'activité",
+        "value": "Bourail ou Koné"
+      },
       {
         "@type": "PropertyValue",
         "name": "Interlocuteur",
@@ -81,7 +90,7 @@
   },
   "eligibilityToWorkRequirement": null,
   "employerOverview": null,
-  "employmentType": "FULL_TIME",
+  "employmentType": "TEMPORARY",
   "employmentUnit": null,
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
@@ -93,11 +102,11 @@
   "incentiveCompensation": null,
   "industry": "Agriculture et mer",
   "jobBenefits": null,
-  "jobDuration": null,
-  "jobImmediateStart": true,
+  "jobDuration": "1 an",
+  "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Direction des affaires vétérinaires, alimentaires et rurales",
+    "name": "DAVAR",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
