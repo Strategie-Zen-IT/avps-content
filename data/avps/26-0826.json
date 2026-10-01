@@ -7,10 +7,9 @@
     "superieurHierarchique": "Directeur de la Maison de l'enfance de Dumbéa sur mer",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Pôle enfance-famille",
       "Service de protection de l'enfance",
-      "Juge des enfants",
-      "Parquet"
+      "Pôle enfance-famille",
+      "Dispositif d'accueil d'urgence et d'orientation"
     ],
     "informationsLibres": [
       {
@@ -20,8 +19,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Date de clôture initiale",
-        "value": "02/10/26 (reportée)"
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Capacité à travailler en horaires d'internat (journées, soirées et week-ends)"
       },
       {
         "@type": "PropertyValue",
@@ -49,7 +48,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
+    "@type": "Schedule",
     "name": "Maison de l'enfance de Dumbéa sur mer",
     "address": {
       "@type": "PostalAddress",
@@ -75,8 +74,8 @@
       "Connaissance en bureautique"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence d'au moins 5 ans exigée pour le recrutement sur titre",
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue à offrir des prestations de santé publique, à mener des actions de prévention, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -158,8 +157,8 @@
   "specialCommitments": "Horaires d'internat (journées, soirées et week-ends)",
   "title": "Educateur spécialisé ou moniteur éducateur à la maison de l'enfance de Dumbéa su mer",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-02",
-  "workHours": "Horaires d'internat (journées, soirées et week-ends)",
+  "validThrough": "2026-10-30",
+  "workHours": "Horaires d'internat",
   "champs_open_data": 7,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
