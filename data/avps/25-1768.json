@@ -22,8 +22,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Le poste nécessite une autonomie et une capacité d'adaptation. L'attention des candidats est attirée sur le fait que ce poste nécessite un bon niveau en termes d'urgences médicales. Il est spécifié également que les horaires pour permettre la continuité des soins sont de semaine, de nuit et de weekend."
+        "name": "Date de clôture initialement prévue",
+        "value": "02/10/2026 (reportée)"
       },
       {
         "@type": "PropertyValue",
@@ -33,8 +33,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des UPASS, des centres médico-sociaux et des autres sites excentrés. Au sein du pôle santé et territoires de la DPASS, notamment au sein de l'unité provinciale d'actions sanitaire et sociale de Bourail (UPASS), le médecin généraliste retenu travaillera au sein d'une équipe pluridisciplinaire attachée à la synergie médico-sociale et aux démarches continues d'amélioration de la qualité et de l'évaluation des pratiques professionnelles. Une attention particulière est portée à la prévention, à la promotion de la santé ainsi qu'aux différentes priorités de santé publique (protection maternelle et infantile (PMI), contraception, etc.).",
-  "disambiguatingDescription": "Poste de médecin généraliste au sein de l'UPASS de Bourail, rattaché à la DPASS de la Province Sud, impliquant de la médecine curative, préventive et des astreintes.",
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des UPASS, des centres médico-sociaux et des autres sites excentrés. Au sein du pôle santé et territoires de la DPASS, notamment au sein de l'unité provinciale d'actions sanitaire et sociale de Bourail (UPASS), le médecin généraliste retenu travaillera au sein d'une équipe pluridisciplinaire attachée à la synergie médico-sociale et aux démarches continues d'amélioration de la qualité et de l'évaluation des pratiques professionnelles.",
+  "disambiguatingDescription": "Poste de médecin généraliste au sein de l'UPASS de Bourail, rattaché à la DPASS de la Province Sud, avec une attention particulière portée à la prévention, à la promotion de la santé et aux priorités de santé publique.",
   "identifier": "25-1768",
   "image": null,
   "mainEntityOfPage": null,
@@ -50,18 +50,7 @@
   "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "UPASS de Bourail",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": null,
-      "addressLocality": "Bourail",
-      "addressRegion": "Province Sud",
-      "addressCountry": "NC",
-      "province": "province Sud"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "20.46.59",
@@ -135,18 +124,18 @@
     }
   },
   "responsibilities": [
-    "assurer la médecine curative, y compris les urgences avec des périodes d'astreintes",
-    "assurer la médecine préventive, notamment l'activité de protection maternelle et infantile, la médecine scolaire et la contraception",
-    "participer et, le cas échéant, de mener des programmes de santé publique et des projets impliquant plusieurs partenaires",
-    "proposer des actions de prévention en lien avec les pathologies prédominantes et les problématiques de santé publique rencontrées",
-    "formuler des propositions d'actions visant à améliorer la prise en charge des patients"
+    "Assurer la médecine curative, y compris les urgences avec des périodes d'astreintes",
+    "Assurer la médecine préventive, notamment l'activité de protection maternelle et infantile, la médecine scolaire et la contraception",
+    "Participer et, le cas échéant, mener des programmes de santé publique et des projets impliquant plusieurs partenaires",
+    "Proposer des actions de prévention en lien avec les pathologies prédominantes et les problématiques de santé publique rencontrées",
+    "Formuler des propositions d'actions visant à améliorer la prise en charge des patients"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
     "Gestion des urgences",
-    "Gestion de programmes de prévention et de promotion de la santé au sens de la charte d'Ottawa",
+    "Gestion de programmes de prévention et de promotion de la santé",
     "Capacité à mener des projets de santé communautaire",
     "Réelles capacités relationnelles et d'accueil",
     "Grande motivation professionnelle",
@@ -157,11 +146,11 @@
     "Force de propositions",
     "Ouverture d'esprit"
   ],
-  "specialCommitments": "Astreintes, horaires de semaine, de nuit et de weekend pour permettre la continuité des soins.",
+  "specialCommitments": "Périodes d'astreintes, horaires de nuit et de week-end pour assurer la continuité des soins.",
   "title": "Médecin à l'UPASS de Bourail",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-02",
-  "workHours": "Horaires pour permettre la continuité des soins (semaine, nuit et weekend)",
+  "validThrough": "2026-10-30",
+  "workHours": "Horaires pour permettre la continuité des soins de semaine, de nuit et de week-end",
   "champs_open_data": 7,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
