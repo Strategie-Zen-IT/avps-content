@@ -7,8 +7,7 @@
     "superieurHierarchique": "Responsable du bureau zoologique",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Cadres du bureau zoologique",
-      "Membres de l'équipe du bureau zoologique",
+      "Membres de l'équipe",
       "Autres bureaux du PPZF",
       "Agents des autres parcs"
     ],
@@ -26,7 +25,7 @@
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Travail les week-ends et les jours fériés réguliers"
+        "value": "Travail les week-ends et les jours fériés réguliers."
       },
       {
         "@type": "PropertyValue",
@@ -36,8 +35,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La Direction du Développement Durable des Territoires de la province Sud (DDDT) est chargée, au sein du pôle transition écologique, de contribuer à la mise en œuvre des politiques publiques en matière de développement des territoires (notamment économique et d'aménagement) en assurant la transition écologique, la protection et la valorisation des patrimoines naturels et des espaces agricoles. Le Service de Gestion des Aires Protégées (SGAP) est chargé notamment de la mise en œuvre des stratégies élaborées par la direction, adaptée aux différentes structures qu'il gère et dans le cadre de ses compétences. Le service est composé de 3 départements et d'une cellule situés sur l'ensemble de la province Sud. L'équipe du parc provincial zoologique et forestier (PPZF) Michel Corbasson élabore et met en œuvre le plan de gestion et le règlement intérieur, l'organisation de l'accueil et de la sécurité du public, l'entretien des aménagements existants et de la surveillance, la gestion de la collection animale, l'organisation et du suivi des travaux botaniques et de la pépinière, la supervision des nouveaux aménagements, la gestion et le suivi des relations avec les prestataires extérieurs. Le parc provincial zoologique et forestier est composé de 2 bureaux.",
-  "disambiguatingDescription": "Recrutement d'un soigneur d'animaux au bureau zoologique du parc provincial zoologique et forestier Michel Corbasson.",
+  "description": "La Direction du Développement Durable des Territoires de la province Sud (DDDT) est chargée, au sein du pôle transition écologique, de contribuer à la mise en œuvre des politiques publiques en matière de développement des territoires (notamment économique et d’aménagement) en assurant la transition écologique, la protection et la valorisation des patrimoines naturels et des espaces agricoles. Le Service de Gestion des Aires Protégées (SGAP) est chargé notamment de la mise en œuvre des stratégies élaborées par la direction, adaptée aux différentes structures qu’il gère et dans le cadre de ses compétences. Le service est composé de 3 départements et d’une cellule situés sur l’ensemble de la province Sud. L’équipe du parc provincial zoologique et forestier (PPZF) Michel Corbasson élabore et met en œuvre le plan de gestion et le règlement intérieur, l’organisation de l’accueil et de la sécurité du public, l’entretien des aménagements existants et de la surveillance, la gestion de la collection animale, l’organisation et du suivi des travaux botaniques et de la pépinière, la supervision des nouveaux aménagements, la gestion et le suivi des relations avec les prestataires extérieurs. Le parc provincial zoologique et forestier est composé de 2 bureaux.",
+  "disambiguatingDescription": "Soigneur au bureau zoologique du parc provincial zoologique et forestier Michel Corbasson",
   "identifier": "26-1342",
   "image": null,
   "mainEntityOfPage": null,
@@ -55,7 +54,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Province Sud",
+    "name": "Parc provincial zoologique et forestier Michel Corbasson",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -74,10 +73,10 @@
   "datePosted": "2026-09-11",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": null,
+    "credentialCategory": "Savoir / Connaissance / Diplôme exigé",
     "competencyRequired": [
       "Solide expérience dans les techniques de soins aux animaux (capture et manipulation, alimentation, prophylaxie, reproduction, etc.)",
-      "Maîtrise des notions d'hygiène générale (désinfection, prévention des maladies et infestations, biosécurité, lutte contre les nuisibles)"
+      "Maîtrise des notions d’hygiène générale (désinfection, prévention des maladies et infestations, biosécurité, lutte contre les nuisibles)"
     ]
   },
   "eligibilityToWorkRequirement": "au moins égale a 10 ans",
@@ -91,7 +90,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Solide expérience dans les techniques de soins aux animaux",
+  "experienceRequirements": "Solide expérience dans les techniques de soins aux animaux (capture et manipulation, alimentation, prophylaxie, reproduction, etc.)",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
@@ -134,7 +133,7 @@
   "responsibilities": [
     "Soins quotidiens de la collection animale (oiseaux, reptiles, mammifères, élevages parallèles, etc.)",
     "Nourrissage des animaux : préparation des plats selon les menus et les dosages établis, distribution et ramassage des aliments non consommés",
-    "Renouvellement de l'eau de boisson et de baignade",
+    "Renouvellement de l’eau de boisson et de baignade",
     "Observation rigoureuse des animaux, leur état de santé, leur comportement et le décompte des effectifs",
     "Hygiène des cages, des volières et des enclos ainsi que le rangement, le nettoyage et l'entretien des installations, des outillages et des engins du bureau zoologique",
     "Relais des informations vers les cadres du bureau zoologique",
@@ -142,28 +141,28 @@
     "Soins vétérinaires (préventifs et curatifs) selon les instructions du responsable de bureau",
     "Maîtrise des techniques de captures et de contentions des animaux",
     "Travaux de petites constructions en rapport avec les besoins des animaux : nichoirs, perchoirs etc.",
-    "Embellissement et l'enrichissement des cages, des volières et des enclos par des plantations ainsi que l'entretien des abords directs des installations",
-    "Respect des procédures d'hygiène et de sécurité éditées dans le règlement de service",
+    "Embellissement et l’enrichissement des cages, des volières et des enclos par des plantations ainsi que l’entretien des abords directs des installations",
+    "Respect des procédures d’hygiène et de sécurité éditées dans le règlement de service",
     "Gestion des nuisibles",
-    "Participation aux travaux d'équipe et inter-équipe selon les besoins et les urgences du moment",
+    "Participation aux travaux d’équipe et inter-équipe selon les besoins et les urgences du moment",
     "Participation ponctuelle aux animations auprès du public",
     "Veiller au respect du code de déontologie",
-    "S'assurer du bien-être animal selon les programmes d'amélioration proposés (sensoriel, cognitif, alimentaire et structurel)",
+    "S'assurer du bien-être animal selon les programmes d’amélioration proposés (sensoriel, cognitif, alimentaire et structurel)",
     "Mettre en œuvre les moyens appropriés pour résoudre les problèmes mineurs et en rendre compte à sa hiérarchie",
-    "S'assurer de la bonne circulation de l'information ascendante et transversale avec les autres membres de l'équipe, des autres bureaux du PPZF et des agents des autres parcs"
+    "S'assurer de la bonne circulation de l’information ascendante et transversale avec les autres membres de l’équipe, des autres bureaux du PPZF et des agents des autres parcs"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Mise en œuvre et mémorisation des procédures de soins animaliers selon les consignes des cadres de l'équipe",
+    "Mise en œuvre et mémorisation des procédures de soins animaliers selon les consignes des cadres de l’équipe",
     "Respect des consignes",
     "Capacité à anticiper et à gérer des situations difficiles",
     "Observation, rigueur et vigilance dans les tâches routinières",
     "Organisation du travail",
-    "Travail et esprit d'équipe",
+    "Travail et esprit d’équipe",
     "Aptitude à anticiper et à organiser",
-    "Prise d'initiatives",
+    "Prise d’initiatives",
     "Autonomie",
     "Grande disponibilité",
     "Déontologie",
@@ -174,7 +173,7 @@
   "specialCommitments": "Travail les week-ends et les jours fériés réguliers",
   "title": "Soigneur au bureau zoologique du parc provincial zoologique et forestier Michel Corbasson",
   "totalJobOpenings": 4,
-  "validThrough": "2026-10-02",
+  "validThrough": "2026-10-16",
   "workHours": "Travail les week-ends et les jours fériés réguliers",
   "champs_open_data": 13,
   "employeur_sigle": "PVS",
