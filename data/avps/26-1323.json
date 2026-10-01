@@ -2,7 +2,7 @@
   "additionalType": {
     "corpsDomaine": "Infirmier en soins généraux",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "Bureau de Proximité de Soins (BPS) du Pôle Soins",
+    "uniteOrganisationnelle": "Bureau de Proximité de Soins (BPS)",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef(fe) de bureau de proximité des soins",
     "placeOrganigramme": null,
@@ -20,7 +20,7 @@
       {
         "@type": "PropertyValue",
         "name": "Textes réglementaires applicables",
-        "value": "Décret n° 2018-629 du 18 juillet 2018 relatif à l'exercice infirmier en pratique avancée. Délibération n° 476 du 28 avril 2025 : intègre les infirmiers en pratique avancée au cadre des personnels paramédicaux de Nouvelle-Calédonie, en catégorie A. Loi du pays n° 2023-5 du 26 mai 2023. Délibération n° 119/CP du 26 juin 2023. Arrêté n° 2023-2079/GNC du 9 août 2023."
+        "value": "Décret n° 2018-629 du 18 juillet 2018 relatif à l'exercice infirmier en pratique avancée. Délibération n° 476 du 28 avril 2025. Loi du pays n° 2023-5 du 26 mai 2023. Délibération n° 119/CP du 26 juin 2023. Arrêté n° 2023-2079/GNC du 9 août 2023."
       },
       {
         "@type": "PropertyValue",
@@ -34,9 +34,9 @@
       }
     ]
   },
-  "alternateName": "IPA",
-  "description": "L'infirmier en pratique avancée assure sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe. Il intervient au sein de la Direction des affaires sanitaires et sociales, de la prévention et de la solidarité de la Province Nord, à Houaïlou.",
-  "disambiguatingDescription": "Poste d'infirmier en pratique avancée localisé à Houaïlou, soumis à astreintes, au sein d'une équipe pluridisciplinaire.",
+  "alternateName": null,
+  "description": "L'infirmier en pratique avancée assure sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe au sein de la Direction des affaires sanitaires et sociales, de la prévention et de la solidarité de la Province Nord.",
+  "disambiguatingDescription": null,
   "identifier": "26-1323",
   "image": null,
   "mainEntityOfPage": null,
@@ -99,13 +99,13 @@
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique",
+  "industry": "Santé",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Centre Médico-Social de Houaïlou",
+    "name": "Centre Médico-Social",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -122,19 +122,19 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis B",
+  "qualifications": "Être titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Infirmier",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Soins d'infirmier généraliste"
+      "name": "Coordination de services médicaux ou paramédicaux"
     }
   },
   "responsibilities": [
     "Prise en charge et suivi des patients atteints de pathologies chroniques selon le domaine d'intervention défini et sous la coordination du médecin",
-    "Prescription de renouvellement de traitement chronique, de traitement selon les listes autorisées, de vaccins, de bilans complémentaires (BS, radiographie, ...)",
+    "Prescription de renouvellement de traitement chronique, de traitement selon les listes autorisées, de vaccins, de bilans complémentaires",
     "Rédaction de courriers médicaux et comptes rendus",
     "Éducation du patient dans sa prise en charge du suivi ou de la personne de confiance",
     "Coordination de soins, orientation",
@@ -152,19 +152,15 @@
     "Capacités de coordination",
     "Autonomie et sens des responsabilités",
     "Adaptation",
-    "Dynamisme",
-    "Disponibilité",
-    "Esprit d'équipe",
-    "Esprit d'initiative",
-    "Esprit de négociation",
-    "Sens des relations humaines",
-    "Communication"
+    "Dynamisme, disponibilité",
+    "Esprit d'équipe, d'initiative et de négociation",
+    "Sens des relations humaines et communication"
   ],
   "specialCommitments": "Poste soumis à astreintes",
   "title": "Infirmier(e) en pratique avancée - Houaïlou",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-02",
-  "workHours": "Astreintes",
+  "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
