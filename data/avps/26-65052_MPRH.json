@@ -4,7 +4,7 @@
     "direction": "DIRECTION DU BUDGET ET DES AFFAIRES FINANCIERES",
     "uniteOrganisationnelle": "Service des collectivités locales et des établissements publics",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef de service et son adjoint(e)",
+    "superieurHierarchique": "Chef de service et de son adjoint(e)",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Membres du gouvernement",
@@ -12,6 +12,11 @@
       "Gestionnaire des établissements publics"
     ],
     "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 10 ans"
+      },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
@@ -56,7 +61,7 @@
   },
   "alternateName": null,
   "description": "Sous l'autorité du chef de service et de son adjoint(e), le contrôleur financier effectue le contrôle administratif et financier des établissements publics de la Nouvelle-Calédonie et contribue à l'identification des risques financiers inhérents à leur fonctionnement.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Contrôle administratif et financier des établissements publics de la Nouvelle-Calédonie et contribution à l'identification des risques financiers.",
   "identifier": "26-65052/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -72,8 +77,8 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
-    "name": "Nouvelle-Calédonie",
+    "@type": "Place",
+    "name": "Service des collectivités locales et des établissements publics",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -113,14 +118,14 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": null,
+  "experienceRequirements": "Métier identifié comme pénurique, Master 2 exigé pour le recrutement sur titre.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": "Informations salaire : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
+  "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -128,7 +133,7 @@
     "name": "Service des collectivités locales et des établissements publics",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "18 avenue Paul Doumer",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -137,7 +142,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "immédiatement",
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Finances et budget"
   ],
@@ -164,7 +169,7 @@
     "Réaliser des audits éventuels sur les établissements publics",
     "Participer à la mise en place d'un contrôle de gestion au sein du service et au sein des établissements."
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -184,7 +189,7 @@
   "specialCommitments": "- Déplacements fréquents pour assister aux conseils d'administration des établissements.",
   "title": "Contrôleur financier des établissements publics",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-02",
+  "validThrough": "2026-10-16",
   "workHours": null,
   "champs_open_data": 30,
   "employeur_sigle": "DBAF",
