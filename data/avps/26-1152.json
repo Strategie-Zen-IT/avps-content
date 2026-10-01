@@ -5,7 +5,7 @@
     "uniteOrganisationnelle": "UPASS de Thio",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Directrice adjointe en charge du pôle santé et territoires",
-    "placeOrganigramme": null,
+    "placeOrganigramme": "Sous l'autorité de la directrice adjointe en charge du pôle santé et territoires",
     "relationsFonctionnelles": [
       "Médecins",
       "Infirmiers",
@@ -35,8 +35,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'actions sanitaire et sociale (UPASS), des centres médico-sociaux et des autres sites excentrés. Au sein du pôle santé et territoires, le ou la responsable de l'UPASS de Thio, se verra confier l'organisation de l'offre de santé au sein de cette structure ainsi que l'encadrement des personnels de santé qui y exercent. Il ou Elle sera également chargé(e) de coordonner l'action de l'ensemble des agents (directement rattachés ou non) et des acteurs intervenant au sein du CMS, afin de permettre un fonctionnement optimal de celui-ci.",
-  "disambiguatingDescription": "Responsable de l'UPASS de Thio, chargé de l'organisation de l'offre de santé et de l'encadrement des personnels de santé au sein de la structure.",
+  "description": "Au sein du pôle santé et territoires, le ou la responsable de l'UPASS de Thio, se verra confier l'organisation de l'offre de santé au sein de cette structure ainsi que l'encadrement des personnels de santé qui y exercent. Il ou Elle sera également chargé(e) de coordonner l'action de l'ensemble des agents (directement rattachés ou non) et des acteurs intervenant au sein du CMS, afin de permettre un fonctionnement optimal de celui-ci. Il ou Elle animera cette équipe pluridisciplinaire de manière à favoriser une cohérence de l'action sanitaire et sociale sur ce territoire.",
+  "disambiguatingDescription": "Responsable de l'UPASS de Thio - Encadrement et coordination de l'offre de santé et d'une équipe pluridisciplinaire au sein du CMS.",
   "identifier": "26-1152",
   "image": null,
   "mainEntityOfPage": null,
@@ -54,7 +54,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "UPASS de Thio",
+    "name": "Province Sud",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -82,8 +82,8 @@
       "Expérience en management et/ou projet professionnel en lien avec le management"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée au moins égale à 5 ans pour le recrutement sur titre",
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
+  "employerOverview": "La direction de l’action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l’ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'actions sanitaire et sociale (UPASS), des centres médico-sociaux et des autres sites excentrés.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -121,7 +121,7 @@
   "jobStartDate": "2027-01-01",
   "occupationalCategory": [
     "Santé publique soins",
-    "Politique de santé publique"
+    "Santé publique inspection et contrôle"
   ],
   "physicalRequirement": null,
   "qualifications": "Diplôme de Cadre de santé ou d'infirmier diplômé d'Etat",
@@ -136,7 +136,7 @@
   },
   "responsibilities": [
     "gérer la programmation hebdomadaire et journalière des activités de soins",
-    "garantir et de contrôler la qualité, la sécurité des soins et des activités paramédicales : procédures, protocoles, réalisation d'audits, suivis d'indicateurs",
+    "garantir et de contrôler la qualité, la sécurité des soins et des activités paramédicales : procédures, protocoles, réalisation d’audits, suivis d’indicateurs",
     "favoriser la synergie professionnelle au profit des usagers, dans le respect des compétences et des obligations de chacun",
     "encadrer les professionnels de santé intervenant au sein de la structure",
     "repartir et de gérer les ressources et les moyens de l'unité",
@@ -168,11 +168,11 @@
     "Ethique et déontologie",
     "Sens du service public"
   ],
-  "specialCommitments": "Nombreux déplacements sur le territoire de la province Sud",
+  "specialCommitments": "Le poste nécessite de nombreux déplacements sur le territoire de la province Sud.",
   "title": "Responsable de l'UPASS de Thio",
   "totalJobOpenings": 4,
-  "validThrough": "2026-10-02",
-  "workHours": null,
+  "validThrough": "2026-10-16",
+  "workHours": "Temps plein avec déplacements fréquents",
   "champs_open_data": 9,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
