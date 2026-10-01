@@ -21,7 +21,7 @@
       {
         "@type": "PropertyValue",
         "name": "Date de clôture initialement prévue",
-        "value": "25/09/2026 (reportée)"
+        "value": "25/09/2026"
       },
       {
         "@type": "PropertyValue",
@@ -32,7 +32,7 @@
   },
   "alternateName": null,
   "description": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes sur le territoire du Grand Nouméa.",
-  "disambiguatingDescription": "Le chef de service pilote et gère les missions sur l'ensemble des tâches administratives du SMTU, la communication et les réclamations auprès de la clientèle du réseau Tanéo.",
+  "disambiguatingDescription": null,
   "identifier": "26-1337",
   "image": null,
   "mainEntityOfPage": null,
@@ -70,7 +70,7 @@
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes sur le territoire du Grand Nouméa.",
+  "employerOverview": null,
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -96,7 +96,7 @@
     "name": "SMTU",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "BP 48",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -108,7 +108,8 @@
   "jobStartDate": "Dès que possible",
   "occupationalCategory": [
     "Administration générale",
-    "Communication"
+    "Communication",
+    "Transports terrestres et maritimes"
   ],
   "physicalRequirement": null,
   "qualifications": null,
@@ -118,10 +119,12 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1601",
-      "name": "Assistance en ressources humaines"
+      "name": "Direction administrative et financière"
     }
   },
   "responsibilities": [
+    "Piloter et gérer les missions sur l'ensemble des tâches administratives du SMTU (suivi des actes, comité syndical, commissions, courriers, marchés)",
+    "Gérer la communication et les réclamations auprès de la clientèle du réseau Tanéo",
     "Gérer et manager les agents placés sous son autorité",
     "Assister la Direction dans l'organisation administrative du SMTU notamment pour le suivi administratif, lors des comités syndicaux et des commissions du SMTU",
     "Assurer l'établissement des procès-verbaux, les rapports et les ampliations",
