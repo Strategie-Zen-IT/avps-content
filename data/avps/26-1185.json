@@ -4,13 +4,11 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": "CMS de CANALA",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins",
+    "superieurHierarchique": "Chef de bureau de proximité des soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Chef du Bureau de Proximité de Soins",
-      "Pôle Soins",
-      "Étudiants infirmiers",
-      "Stagiaires"
+      "Pôle Soins"
     ],
     "informationsLibres": [
       {
@@ -49,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
+    "@type": "Place",
     "name": "CMS de CANALA",
     "address": {
       "@type": "PostalAddress",
@@ -63,13 +61,13 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
-    "email": "m.oudare@province-nord.nc"
+    "email": "drh-emplois@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-08-07",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'état infirmier",
+    "credentialCategory": "Diplôme d'état",
     "competencyRequired": [
       "Diplôme d'état infirmier exigé",
       "Expérience du travail en poste isolé",
@@ -77,7 +75,7 @@
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale 5 ans",
-  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
+  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles, 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -87,7 +85,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience du travail en poste isolé et expérience des urgences exigées.",
+  "experienceRequirements": "Expérience du travail en poste isolé et expérience des urgences requises.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
@@ -129,10 +127,10 @@
   },
   "responsibilities": [
     "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
-    "Les actes curatifs (consultations, urgences, soins)",
-    "Les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
-    "Les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire...)",
-    "La téléconsultation (en l'absence de médecin en présentiel)",
+    "Prendre en charge les actes curatifs (consultations, urgences, soins)",
+    "Prendre en charge les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
+    "Prendre en charge les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
+    "Assurer la téléconsultation (en l'absence de médecin en présentiel)",
     "Assurer l'encadrement des stagiaires, notamment les étudiants infirmiers"
   ],
   "salaryCurrency": null,
