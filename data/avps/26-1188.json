@@ -11,7 +11,7 @@
       "Spécialistes et partenaires médicaux",
       "Sociaux",
       "Associatifs",
-      "Scolaire"
+      "Scolaires"
     ],
     "informationsLibres": [
       {
@@ -22,7 +22,7 @@
       {
         "@type": "PropertyValue",
         "name": "Fiche d'emploi générique RESPNC",
-        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952030.PDF"
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952036.PDF"
       }
     ]
   },
@@ -44,7 +44,18 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "CMS de HIENGHENE",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Hienghène",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.72.30",
@@ -65,20 +76,20 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Province Nord",
-    "url": "www.province-nord.nc",
+    "name": "CMS de HIENGHENE",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Une expérience professionnelle en outre-mer serait appréciée ; une expérience professionnelle d'au moins un an en matière de santé publique et de prévention serait appréciée.",
+  "experienceRequirements": "Expérience professionnelle en outre-mer appréciée. Expérience professionnelle d'au moins un an en matière de santé publique et de prévention appréciée.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
     "url": "www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -104,7 +115,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chirurgien-dentiste",
+    "name": "Chirurgien-dentiste du cadre santé",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
@@ -113,15 +124,15 @@
   },
   "responsibilities": [
     "Réalisation des soins conservateurs et restaurateurs, extractions dentaires, acte de petite chirurgie et de parodontie, prothèse adjointe et conjointe",
-    "Gestion et le suivi des soins aux publics cible (RAA/CRC, diabétique, etc...)",
-    "Participation aux actions de dépistage et de prévention propres à la province Nord ou en partenariat avec d'autres organismes (agence sanitaire et sociale...)",
+    "Gestion et le suivi des soins aux publics cible (RAA/CRC, diabétique, etc.)",
+    "Participation aux actions de dépistage et de prévention propres à la province Nord ou en partenariat avec d'autres organismes",
     "Entretien, le nettoyage et la désinfection du mobilier et de l'équipement professionnels",
     "Désinfection des instruments et leur stérilisation en autoclave",
-    "Supervision de l'activité de l'assistant(te) dentaire",
-    "Restitution de bilans d'activité et de tableaux de soins aux publics cible (RAA/CRC, diabétiques, etc...) sur demande de la direction",
+    "Supervision de l'activité de l'assistant(e) dentaire",
+    "Restitution de bilans d'activité et de tableaux de soins aux publics cible sur demande de la direction",
     "Enregistrement, la codification (selon la CIM 10) et la cotation des actes sur le logiciel de la province Nord",
     "Information des patients en matière d'hygiène bucco-dentaire et alimentaire et leur motivation aux gestes d'hygiène",
-    "Intervention sur site lors de certaines manifestations ou journées à thème (journées provinciales du diabète, journées d'informations en lien avec la santé bucco-dentaire, etc...)",
+    "Intervention sur site lors de certaines manifestations ou journées à thème",
     "Interventions de prévention ou d'information dans les écoles, collèges, lycées de proximité",
     "Réalisation des EAE de l'assistant(e) dentaire"
   ],
@@ -154,6 +165,6 @@
   "employeur_source": "source",
   "famille_respnc": "Santé publique soins",
   "famille_source": "respnc",
-  "famille_score": 0.8,
+  "famille_score": 0.812,
   "dossier": "sante-publique-soins"
 }
