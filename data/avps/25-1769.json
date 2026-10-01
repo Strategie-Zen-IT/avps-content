@@ -2,7 +2,7 @@
   "additionalType": {
     "corpsDomaine": "Médecin de santé publique",
     "direction": "PROVINCE SUD",
-    "uniteOrganisationnelle": "UPASS de Nouméa (centre de Montravel)",
+    "uniteOrganisationnelle": "Centre de protection maternelle et infantile (PMI) de l'UPASS de Nouméa",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Médecin responsable du centre de protection maternelle et infantile (PMI)",
     "placeOrganigramme": null,
@@ -31,8 +31,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La direction de l'action sanitaire et sociale (DPASS) est rattachée au pôle développement et épanouissement de la personne de la province Sud et exerce son action sur l'ensemble du territoire provincial, au sein de ses services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS) et de ses centres médico-sociaux et de ses autres sites excentrés. Au sein du pôle santé et territoires, l'unité provinciale d'action sanitaire et sociale (UPASS) de Nouméa comprend l'espace Santé situé au centre-ville, et, sur le site de Montravel, le centre de protection maternelle et infantile (PMI), le centre médico-social de Montravel, et le centre de médecine scolaire.",
-  "disambiguatingDescription": "Poste de médecin au centre de protection maternelle et infantile rattaché à l'UPASS de Nouméa (centre de Montravel) avec déplacements sur la province Sud.",
+  "description": "La direction de l'action sanitaire et sociale (DPASS) est rattachée au pôle développement et épanouissement de la personne de la province Sud et exerce son action sur l'ensemble du territoire provincial, au sein de ses services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS) et de ses centres médico-sociaux et de ses autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales. Au sein du pôle santé et territoires, l'unité provinciale d'action sanitaire et sociale (UPASS) de Nouméa comprend l'espace Santé situé au centre-ville, et, sur le site de Montravel, le centre de protection maternelle et infantile (PMI), le centre médico-social de Montravel, et le centre de médecine scolaire.",
+  "disambiguatingDescription": "Poste de médecin au centre de protection maternelle et infantile rattaché à l'UPASS de Nouméa, avec déplacements sur la province Sud.",
   "identifier": "25-1769",
   "image": null,
   "mainEntityOfPage": null,
@@ -40,7 +40,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "http://www.province-sud.nc"
+    "url": "https://www.province-sud.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -50,7 +50,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "UPASS de Nouméa (centre de Montravel)",
+    "name": "Hôtel de province",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "6 route des artifices",
@@ -69,7 +69,7 @@
   "datePosted": "2025-11-07",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'État de docteur en médecine",
+    "credentialCategory": "Diplôme d'État de Docteur en Médecine",
     "competencyRequired": [
       "Connaissances de la population néo-calédonienne",
       "Connaissances de l'allaitement",
@@ -79,13 +79,13 @@
       "Capacités à travailler dans le cadre du réseau périnatalité en Nouvelle-Calédonie, des services sociaux et des services de la protection de l'enfance"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre inférieure à 3 ans",
-  "employerOverview": "La direction de l'action sanitaire et sociale (DPASS) contribue dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction de l'action sanitaire et sociale (DPASS) contribue à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "UPASS de Nouméa (centre de Montravel)",
-    "url": null,
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
     "logo": null
   },
   "estimatedSalary": null,
@@ -94,10 +94,10 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "http://www.province-sud.nc"
+    "url": "https://www.province-sud.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique",
+  "industry": "Santé",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -106,7 +106,7 @@
     "name": "UPASS de Nouméa (centre de Montravel)",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "Montravel",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -132,15 +132,15 @@
     }
   },
   "responsibilities": [
-    "assurer la vaccination des enfants de 0 à 6 ans dans le cadre de la médecine préventive et curative",
-    "assurer les consultations de suivi des nourrissons et des enfants et de réaliser le dépistage de troubles somatiques et du développement psychomoteur ou du lien d'attachement",
-    "participer au dépistage et à la surveillance des mineurs en danger. Il ou elle peut être amené(e) en relation avec le service de protection de l'enfance (SPE) à faire des signalements pouvant mener soit à une enquête d'évaluation sociale, soit à une mesure d'accompagnement administrative ou judiciaire, soit à un placement",
-    "suppléer le médecin responsable lors des commissions de reconnaissance du handicap pour les enfants de 0 à 6 ans (CEJH)",
-    "intervenir lors de séances de promotion de la santé dans le domaine de la PMI en lien avec le service de prévention et de promotion de la santé (SPPS)",
-    "participer à la mise œuvre des référentiels de suivis pédiatriques",
-    "participer à des ateliers de guidance parentale et éducative à destination du public de la PMI en fonction des projets du service",
-    "assurer des liens avec la médecine scolaire pour les enfant suivis à la PMI avec des pathologies ou handicaps pouvant avoir un retentissement sur la scolarité",
-    "collaborer avec l'équipe du CMS"
+    "Assurer la vaccination des enfants de 0 à 6 ans dans le cadre de la médecine préventive et curative",
+    "Assurer les consultations de suivi des nourrissons et des enfants et réaliser le dépistage de troubles somatiques et du développement psychomoteur ou du lien d'attachement",
+    "Participer au dépistage et à la surveillance des mineurs en danger, avec possibilité de faire des signalements au service de protection de l'enfance (SPE)",
+    "Suppléer le médecin responsable lors des commissions de reconnaissance du handicap pour les enfants de 0 à 6 ans (CEJH)",
+    "Intervenir lors de séances de promotion de la santé dans le domaine de la PMI en lien avec le service de prévention et de promotion de la santé (SPPS)",
+    "Participer à la mise œuvre des référentiels de suivis pédiatriques",
+    "Participer à des ateliers de guidance parentale et éducative à destination du public de la PMI en fonction des projets du service",
+    "Assurer des liens avec la médecine scolaire pour les enfants suivis à la PMI avec des pathologies ou handicaps pouvant avoir un retentissement sur la scolarité",
+    "Collaborer avec l'équipe du CMS"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
@@ -158,11 +158,11 @@
     "Capacités à répondre aux demandes institutionnelles et aux demandes du responsable de service",
     "Disponibilité"
   ],
-  "specialCommitments": "Déplacements possibles à prévoir sur tous les sites de la province Sud",
+  "specialCommitments": "Déplacements possibles à prévoir sur tous les sites de la province Sud.",
   "title": "Médecin au centre de protection maternelle et infantile",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-02",
-  "workHours": "Temps plein ou temps partiel envisageable",
+  "validThrough": "2026-10-30",
+  "workHours": "Temps plein (recrutement à temps partiel envisageable)",
   "champs_open_data": 7,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
