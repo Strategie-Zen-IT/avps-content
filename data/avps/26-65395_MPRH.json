@@ -4,10 +4,11 @@
     "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
     "uniteOrganisationnelle": "Unité Éducative de Milieu Ouvert (UEMO) Sud/Îles",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef de service",
+    "superieurHierarchique": "Marie-Gabrielle Tolikoli-Motutoa, chef de service",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Service Territorial Éducatif de Milieu Ouvert et d'Insertion (STEMOI)",
+      "Magistrats",
       "Acteurs des champs judiciaire, éducatif, sanitaire, social et scolaire",
       "Tribunal (PEAT)"
     ],
@@ -15,7 +16,7 @@
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
-        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+        "value": "au moins égale à 5 ans pour le recrutement sur titre"
       },
       {
         "@type": "PropertyValue",
@@ -61,7 +62,7 @@
   },
   "alternateName": null,
   "description": "Par son implication dans une relation socio-éducative de proximité, inscrite dans la durée, l'éducateur spécialisé accompagne les mineurs et les jeunes majeurs en difficulté dans la mise en œuvre des mesures éducatives ordonnées par les magistrats. Ces interventions s'inscrivent dans le cadre de la justice pénale des mineurs (Code de la justice pénale des mineurs - CJPM) ou de la protection de l'enfance (articles 375 et suivants du Code civil), lorsque ces mesures sont confiées au Service Territorial Éducatif de Milieu Ouvert et d'Insertion (STEMOI).",
-  "disambiguatingDescription": "Recrutement d'un éducateur spécialisé au sein de l'UEMO Sud/Îles sous l'autorité de la DPJEJ.",
+  "disambiguatingDescription": "Recrutement d'un éducateur spécialisé en milieu ouvert et d'insertion à Nouméa.",
   "identifier": "26-65395/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -78,10 +79,10 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Schedule",
-    "name": "Nouvelle-Calédonie",
+    "name": "Hôtel de la Nouvelle-Calédonie",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "18 avenue Paul Doumer",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -122,14 +123,14 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Une expérience en Nouvelle-Calédonie est souhaitée, notamment dans l'accompagnement de mineurs confiés en famille d'accueil ou accueillis en structure d'hébergement collectif, et la mise en œuvre des mesures éducatives relevant de la protection judiciaire de l'enfance (CJPM).",
+  "experienceRequirements": "Une expérience en Nouvelle-Calédonie est souhaitée, notamment dans l'accompagnement de mineurs confiés en famille d'accueil ou accueillis en structure d'hébergement collectif, et la mise en œuvre des mesures éducatives relevant de la protection judiciaire de l'enfance.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Action sociale",
-  "jobBenefits": "Régime indemnitaire selon le lien d'information salaire fourni",
+  "industry": "Service public",
+  "jobBenefits": "Informations salaire disponibles sur le site de la DRHFPNC",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -151,7 +152,7 @@
     "Action sociale"
   ],
   "physicalRequirement": null,
-  "qualifications": "Être titulaire du permis de conduire B",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Educateur spécialisé",
