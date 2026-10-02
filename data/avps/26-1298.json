@@ -4,14 +4,11 @@
     "direction": "DES SERVICES D'INCENDIE ET DE SECOURS",
     "uniteOrganisationnelle": "des centre de secours",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Directeur des services d'incendie et de secours",
+    "superieurHierarchique": "Directeur",
     "placeOrganigramme": "Sous l’autorité hiérarchique du directeur",
     "relationsFonctionnelles": [
-      "Secrétaire général en charge du pôle sécurité",
-      "Centre de secours Lucien PARENT",
-      "Centre de secours Normandie",
-      "Centre de traitement de l’alerte",
-      "Centre de surveillance et de sauvetage nautique"
+      "Directeur des services d'incendie et de secours",
+      "Secrétaire général en charge du pôle sécurité"
     ],
     "informationsLibres": [
       {
@@ -48,18 +45,7 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Schedule",
-    "name": "Ville de Nouméa",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "16, rue du général Mangin",
-      "addressLocality": "Nouméa",
-      "addressRegion": "Province Sud",
-      "addressCountry": "NC",
-      "province": "province Sud"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "73.12.66",
@@ -87,13 +73,13 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Service des centre de secours",
+    "name": "Ville de Nouméa",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience confirmée requise en commandement et gestion opérationnelle de secours (niveau chef de colonne).",
+  "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Ville de Nouméa"
@@ -102,13 +88,13 @@
   "industry": "Incendie et secours",
   "jobBenefits": null,
   "jobDuration": null,
-  "jobImmediateStart": false,
+  "jobImmediateStart": null,
   "jobLocation": {
     "@type": "Place",
-    "name": "Service des centre de secours",
+    "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "16, rue du général Mangin",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -129,7 +115,7 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K2501",
-      "name": "Sécurité civile et secours"
+      "name": "Direction de la sécurité civile et des secours"
     }
   },
   "responsibilities": [
@@ -152,16 +138,14 @@
     "Piloter",
     "Coordonner",
     "Organiser",
+    "Manager",
     "Évaluer",
     "Optimiser",
     "Superviser",
     "Mobiliser",
-    "Traduire en objectifs opérationnels",
-    "Management",
-    "Pilotage budgétaire",
-    "Gestion de projet"
+    "Conseiller"
   ],
-  "specialCommitments": "Astreintes de niveau chef de colonne et astreintes de cadre de permanence de la ville de Nouméa.",
+  "specialCommitments": "Astreintes de niveau chef de colonne et astreintes de cadre de permanence de la ville de Nouméa",
   "title": "Chef du service des centres de secours",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-02",
