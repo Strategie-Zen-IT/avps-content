@@ -4,10 +4,9 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": "CMS de TOUHO",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Directeur adjoint des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité",
+    "superieurHierarchique": "Directeur(trice) adjoint(e) des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Chef du Bureau de Proximité de Soins du Pôle Soins",
       "CMS limitrophes"
     ],
     "informationsLibres": [
@@ -19,7 +18,7 @@
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Poste soumis à astreintes"
+        "value": "Poste soumis à astreintes."
       },
       {
         "@type": "PropertyValue",
@@ -30,7 +29,7 @@
   },
   "alternateName": null,
   "description": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Recrutement d'un médecin au CMS de Touho pour assurer la continuité de l'offre de soin.",
   "identifier": "26-1212",
   "image": null,
   "mainEntityOfPage": null,
@@ -38,8 +37,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "https://www.province-nord.nc",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "url": "http://www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -47,18 +45,7 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "WorkLocationConnection",
-    "name": "CMS de TOUHO",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": null,
-      "addressLocality": "Touho",
-      "addressRegion": "Province Nord",
-      "addressCountry": "NC",
-      "province": "province Nord"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
@@ -68,30 +55,29 @@
   "datePosted": "2026-08-14",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Doctorat en médecine",
+    "credentialCategory": "Diplôme d'État de docteur en médecine",
     "competencyRequired": [
-      "Maîtrise de la médecine générale et de l'urgence",
+      "Maîtrise de la médecine générale et de l'urgence (CAMU souhaité)",
       "Connaissance en santé publique",
       "Connaissances en gynécologie-obstétrique, pédiatrie, cardiologie, endocrinologie et/ou infectiologie"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : inférieure à 3 ans",
-  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles, 8 services et 14 bureaux, comprenant 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "CMS de TOUHO",
-    "url": null,
+    "name": "PROVINCE NORD",
+    "url": "http://www.province-nord.nc",
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Une expérience professionnelle sur un poste isolé serait appréciée et au contact de populations océaniennes",
+  "experienceRequirements": "Une expérience professionnelle sur un poste isolé serait appréciée et au contact de populations océaniennes.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "https://www.province-nord.nc",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "url": "http://www.province-nord.nc"
   },
   "incentiveCompensation": null,
   "industry": "Santé",
@@ -107,7 +93,8 @@
       "addressLocality": "Touho",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
-      "province": "province Nord"
+      "province": "province Nord",
+      "postalCode": "98831"
     }
   },
   "jobLocationType": null,
@@ -116,14 +103,14 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis de conduire B, CAMU souhaité",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Médecin",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1402",
-      "name": "Médecine générale et spécialisée"
+      "name": "Médecine de prévention"
     }
   },
   "responsibilities": [
@@ -149,11 +136,11 @@
     "Goût du travail en équipe"
   ],
   "specialCommitments": "Poste soumis à astreintes",
-  "title": "MEDECIN TOUHO",
+  "title": "Médecin à Touho",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-02",
-  "workHours": "Poste soumis à astreintes",
-  "champs_open_data": 6,
+  "workHours": null,
+  "champs_open_data": 7,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
   "direction": "PROVINCE NORD",
