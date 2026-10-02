@@ -1,0 +1,194 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif",
+    "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
+    "uniteOrganisationnelle": "Service éducatif de milieu ouvert et d'insertion",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service éducatif (PEAD-UPAD)",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Familles d'accueil",
+      "Magistrats",
+      "Partenaires d'insertion scolaire ou professionnelle",
+      "Services extérieurs"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions particulières d'exercice",
+        "value": "Être titulaire du permis de conduire B."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service éducatif de milieu ouvert et d'insertion"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Monsieur Dick-Samuel UKEIWE, chef de service éducatif par intérim PEAD"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952226.PDF"
+      }
+    ]
+  },
+  "alternateName": "Éducateur spécialisé en famille d'accueil",
+  "description": "La DPJEJ est chargée de mettre en œuvre les orientations de la Nouvelle-Calédonie en matière de protection judiciaire de l'enfance et de la jeunesse. À ce titre, elle veille à répondre aux besoins liés à l'instruction et à l'exécution des décisions judiciaires concernant les mineurs.\n\nSous l'autorité du chef de service éducatif (PEAD-UPAD), l'éducateur spécialisé en famille d'accueil intervient auprès de mineurs âgés de 13 à 18 ans dans le cadre d'un mandat judiciaire. Il assure l'accompagnement socio-éducatif et le suivi des mineurs confiés en famille d'accueil au titre des mesures judiciaires ordonnées. Le poste est basé à Koné.",
+  "disambiguatingDescription": "Éducateur spécialisé en hébergement diversifié basé à Koné pour une mission ponctuelle jusqu'en juin 2027.",
+  "identifier": "26-66112/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Éducateur spécialisé en hébergement diversifié - Nord",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "23.19.31",
+    "email": "dick-samuel.ukeiwe@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-02",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'État d'éducateur spécialisé",
+    "competencyRequired": [
+      "Titulaire du diplôme d'État d'éducateur spécialisé ou attestation de validation de la formation d'éducation de la protection judiciaire de la jeunesse délivrée par l'École nationale de la protection judiciaire de la jeunesse du ministère de la Justice.",
+      "Compétences requises :",
+      "Maîtriser les compétences liées au diplôme d'État d'éducateur spécialisé",
+      "Évaluer et analyser les situations éducatives et sociales",
+      "Élaborer et mettre en œuvre des projets éducatifs individualisés dans le respect des personnes, de leur culture et du cadre institutionnel",
+      "Conduire des entretiens individuels et familiaux",
+      "Maîtriser les écrits professionnels destinés aux magistrats",
+      "Connaître les textes relatifs à l'enfance en danger et à l'enfance délinquante, ainsi que le Code de la justice pénale des mineurs (CJPM)",
+      "Connaître le milieu socio-culturel et les institutions de la Nouvelle-Calédonie",
+      "Justifier d'une expérience professionnelle dans la prise en charge de mineurs en difficulté."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La DPJEJ est chargée de mettre en œuvre les orientations de la Nouvelle-Calédonie en matière de protection judiciaire de l'enfance et de la jeunesse. À ce titre, elle veille à répondre aux besoins liés à l'instruction et à l'exécution des décisions judiciaires concernant les mineurs.",
+  "employmentType": "TEMPORARY",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service éducatif de milieu ouvert et d'insertion",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Justifier d'une expérience professionnelle dans la prise en charge de mineurs en difficulté.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Action sociale",
+  "jobBenefits": null,
+  "jobDuration": "Jusqu'au 18 Juin 2027",
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Service éducatif de milieu ouvert et d'insertion",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98860"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Action sociale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Educateur spécialisé",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1302",
+      "name": "Educateur (de la protection judiciaire de la jeunesse, en milieu ouvert, socioéducatif)"
+    }
+  },
+  "responsibilities": [
+    "Assurer l'accompagnement éducatif individualisé des mineurs de 13 à 18 ans",
+    "Assurer le suivi et le soutien des familles d'accueil",
+    "Rédiger les écrits éducatifs destinés aux magistrats",
+    "Maintenir le lien du jeune avec son environnement familial d'origine",
+    "Rechercher de nouvelles familles d'accueil",
+    "Rechercher des partenaires dans le cadre de l'insertion scolaire ou professionnelle des mineurs suivis",
+    "Organiser des rencontres entre les familles d'accueil",
+    "Élaborer et mettre en œuvre des projets éducatifs",
+    "Participer à la réflexion d'équipe sur les différentes formes de prise en charge",
+    "Assurer le remplacement des collègues éducateurs en cas d'absence (congés, maladie, formation, etc.)."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Savoir-Faire :",
+    "Capacité à construire et conduire un accompagnement éducatif individualisé",
+    "Capacité à travailler en équipe pluridisciplinaire et en coopération avec les services extérieurs",
+    "Capacité à adapter son emploi du temps au projet des mineurs pris en charge",
+    "Capacité rédactionnelle (notes et rapports éducatifs).",
+    "Comportements professionnels :",
+    "Comportements professionnels :",
+    "Disponibilité, autonomie et capacité d'organisation",
+    "Capacité d'adaptation",
+    "Capacité à prendre de la distance face aux situations complexes",
+    "Discrétion professionnelle.",
+    "Conditions particulières d'exercice :",
+    "Être titulaire du permis de conduire B."
+  ],
+  "specialCommitments": null,
+  "title": "Éducateur spécialisé en hébergement diversifié - Nord",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-23",
+  "workHours": null,
+  "champs_open_data": 27,
+  "employeur_sigle": "DPJEJ",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "action-sociale"
+}
