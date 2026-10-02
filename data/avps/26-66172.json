@@ -1,0 +1,180 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché de conservation - conservateur",
+    "direction": "DIRECTION DE LA CULTURE, DE LA CONDITION FEMININE ET DE LA CITOYENNETE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur de la culture de la condition féminine et de la citoyenneté de la Nouvelle-Calédonie",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Services de la douane",
+      "Services de la Nouvelle-Calédonie",
+      "Responsable logistique"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de la mission",
+        "value": "1 an"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Événement",
+        "value": "14ème festival des arts et de la culture du Pacifique"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Christophe AUGIAS"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957714.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité du directeur de la culture de la condition féminine et de la citoyenneté de la Nouvelle-Calédonie, le directeur artistique est chargé d'élaborer la proposition artistique du festival.",
+  "disambiguatingDescription": "Directeur artistique pour le 14ème festival des arts et de la culture du Pacifique",
+  "identifier": "26-66172",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Directeur artistique pour le 14ème festival des arts et de la culture du Pacifique",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.04.21",
+    "email": "christophe.augias@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-02",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Non spécifié",
+    "competencyRequired": [
+      "Savoir / Connaissances / Diplôme éxigé :",
+      "Maîtrise du contexte et du tissu culturel local",
+      "Expérience dans des organisations culturelle d'envergure",
+      "Aptitude à travailler en équipe et à encadrer",
+      "Aptitude à élaborer et gérer un budget dans un cadre de la comptabilité publique",
+      "Aptitude à anticiper les flux d'importation de matériels et matériaux (en coordination avec les services de la douane et de la Nouvelle-Calédonie)",
+      "Aptitude à structurer et documenter son action et son reporting pour une parfaite transparence",
+      "Maîtrise de l'anglais",
+      "Connaissance du contexte institutionnel de la Nouvelle-Calédonie et du fonctionnement des aires coutumières",
+      "Titulaire du permis B."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "TEMPORARY",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience dans des organisations culturelles d'envergure exigée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Culture",
+  "jobBenefits": null,
+  "jobDuration": "1 an",
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction de la culture, de la condition féminine et de la citoyenneté",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Culture",
+    "Animation"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Titulaire du permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Directeur artistique",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2102",
+      "name": "Directeur artistique musique"
+    }
+  },
+  "responsibilities": [
+    "Placé sous l'autorité du directeur de la culture de la condition féminine et de la citoyenneté de la Nouvelle-Calédonie, le directeur artistique est chargé de :",
+    "Elaborer le programme artistique du festival : dans le cadre de la thématique choisie et en tenant compte de la composition des délégations annoncées, élaborer la programmation générale du festival.",
+    "Elaborer l'offre calédonienne : en accord avec le thème et en lien étroit avec les forces vives identifiées sur l'ensemble du territoire, lancer dès 2027 un programme de création et de préparation en vue du festival",
+    "Programmation opérationnelle : réaliser la programmation artistique du festival, contribuer au recensement des besoins pour chaque discipline artistique en lien avec le responsable logistique"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Savoir-faire:",
+    "Compétences rédactionnelles, organisationnelles et managériales ainsi que des capacités de négociation et de propositions",
+    "Aptitude à proposer, à conduire et à préparer une délégation lors d'événements culturels importants (Festival des arts)",
+    "Comportement professionnel:",
+    "Gestion rigoureuse des dossiers",
+    "Discrétion",
+    "Bon relationnel",
+    "Capacité d'adaptation face à la multiplicité des tâches et au travail en réseau",
+    "Rigueur et investissement personnel",
+    "Grande disponibilité"
+  ],
+  "specialCommitments": null,
+  "title": "Directeur artistique pour le 14ème festival des arts et de la culture du Pacifique",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-23",
+  "workHours": null,
+  "champs_open_data": 25,
+  "employeur_sigle": "DCCFC",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE LA CULTURE, DE LA CONDITION FEMININE ET DE LA CITOYENNETE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Pilotage",
+  "famille_source": "respnc",
+  "famille_score": 0.892,
+  "dossier": "pilotage"
+}
