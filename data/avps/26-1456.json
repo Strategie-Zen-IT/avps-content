@@ -1,0 +1,161 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 2-Diplôme niveau V",
+    "direction": "FOURRIERE INTERCOMMUNALE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de voie publique",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Maires du Grand Nouméa",
+      "Officiers de police judiciaire"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Est assermenté. En qualité d'agent de police judiciaire adjoint, il seconde dans leur fonctions les officiers de police judiciaire. Doit jouir de ses droits civils, civiques et familiaux et avoir un casier judiciaire vierge. Travaille en portant l'uniforme. Travaille selon des horaires flexibles avec des modifications hebdomadaires. Peut être amené à travailler en soirée, le week-end et les jours fériés. Participe au dispositif d'astreinte permanent (24h/24, 7j/7) pour la mise en fourrière des véhicules et des animaux, pouvant inclure les week-ends durant lequel il assure également l'entretien du chenil, le nourrissage et les soins aux animaux de la fourrière."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Processus de sélection",
+        "value": "Parmi les candidatures reçues, dix (10) au maximum seront sélectionnées et recevront une convocation pour participer à un examen professionnel comportant une épreuve physique (natation et course à pied), une épreuve de rédaction en français et un entretien."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956364.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le garde-champêtre est chargé de garantir le bon ordre, la tranquillité et la salubrité publique sur les communes du Grand Nouméa notamment en assurant les missions dévolues à cette fonction pour la fourrière pour animaux et la fourrière pour véhicules. Ces missions sont celles prévues par le code des communes dans le cadre des pouvoirs de police du Maire et par le code de procédure pénale.",
+  "disambiguatingDescription": "Recrutement de gardes champêtres pour la Fourrière Intercommunale du Syndicat Intercommunal du Grand Nouméa.",
+  "identifier": "26-1456",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "3 Gardes champêtres",
+  "owner": {
+    "@type": "Organization",
+    "name": "Syndicat Intercommunal du Grand Nouméa (SIGN)"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "23.86.66",
+    "email": "sonia.paturel@sign.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-02",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Baccalauréat",
+    "competencyRequired": [
+      "Connaissances souhaitées des prérogatives des gardes champêtres",
+      "Connaissances souhaitées du cadre réglementaire encadrant l'intervention des gardes champêtres",
+      "Connaissances souhaitées des principes du bien-être animal",
+      "Connaissance de la réglementation sur la protection des données à caractère personnel"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Fourrière Intercommunale",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Non spécifié",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Syndicat Intercommunal du Grand Nouméa (SIGN)"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Fourrière Intercommunale",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16 rue Raymonde JORE - Ducos",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Prévention et sécurité"
+  ],
+  "physicalRequirement": "Bonne condition physique - certificat médical attestant de l'aptitude à exercer les fonctions de garde champêtre exigés",
+  "qualifications": "Permis B exigé, Casier judiciaire vierge",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Garde champêtre",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2501",
+      "name": "Direction de la sécurité publique"
+    }
+  },
+  "responsibilities": [
+    "Réalise sur le terrain, sur le périmètre des quatre communes du Grand Nouméa, les interventions entrant dans les prérogatives des gardes champêtres en matière de maintien du bon ordre, de la tranquillité et de la salubrité publique",
+    "Assure l'exécution des arrêtés de police des maires du Grand Nouméa et dresse le constat par procès-verbal des infractions auxdits arrêtés ou à la réglementation en vigueur",
+    "Rédige les écrits professionnels relatifs à son activité",
+    "Participe aux admissions et aux sorties des animaux et des véhicules en fourrière",
+    "Peut participer à des escortes au cours de cérémonies officielles",
+    "Peut participer à l'entretien des infrastructures, des espaces verts et du matériel de la fourrière intercommunale",
+    "S'acquitte de toute activité contribuant à la réalisation des missions du SIGN confiées par sa hiérarchie",
+    "Rend compte à sa hiérarchie de tous crimes, délits ou contraventions"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": "Casier judiciaire vierge",
+  "sensoryRequirement": null,
+  "skills": [
+    "Mise en œuvre des procédures de mise en fourrière de véhicules et d'animaux",
+    "Comportement adapté avec les chiens y compris agressifs",
+    "Aisance relationnelle",
+    "Utilisation des logiciels de bureautique et en particulier les tableurs",
+    "Gestion des bases de données",
+    "Bonne capacité rédactionnelle",
+    "Sens du service public",
+    "Disponibilité",
+    "Rigueur, fiabilité et sens des responsabilité",
+    "Sens de l'écoute et maîtrise de soi",
+    "Gestion du stress et prise de recul",
+    "Autonomie et réactivité",
+    "Respect des procédures administratives",
+    "Respect de la hiérarchie et loyauté",
+    "Discrétion et respect de la confidentialité"
+  ],
+  "specialCommitments": "Astreinte permanente (24h/24, 7j/7) pour la mise en fourrière des véhicules et des animaux, incluant les week-ends",
+  "title": "3 Gardes champêtres",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-10-23",
+  "workHours": "Horaires flexibles avec des modifications hebdomadaires, travail possible en soirée, week-end et jours fériés",
+  "champs_open_data": 7,
+  "employeur_sigle": "SYNDICAT-INTERCOMMUNAL-DU-GRAND-NOUMEA-SIGN",
+  "collectivite": "Syndicat Intercommunal du Grand Nouméa (SIGN)",
+  "direction": "FOURRIERE INTERCOMMUNALE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Prévention et sécurité",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "prevention-et-securite"
+}
