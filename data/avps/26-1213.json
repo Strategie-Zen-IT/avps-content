@@ -5,7 +5,7 @@
     "uniteOrganisationnelle": "CMS de POUM",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Directeur(trice) adjoint(e) des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité",
-    "placeOrganigramme": null,
+    "placeOrganigramme": "Sous l'autorité du/de la directeur(trice) adjoint(e) de la DASSPS",
     "relationsFonctionnelles": [
       "Chef du Bureau de Proximité de Soins",
       "CMS limitrophes"
@@ -29,8 +29,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La personne retenue aura la charge de la continuité de l'offre de soin au sein du centre médico-social.",
-  "disambiguatingDescription": null,
+  "description": "La personne retenue aura la charge de la continuité de l'offre de soin au sein du centre médico-social de Poum. La DASSPS comprend 249 agents et est organisée en 4 pôles, 8 services et 14 bureaux.",
+  "disambiguatingDescription": "Poste de médecin au CMS de Poum sous l'autorité de la DASSPS de la Province Nord.",
   "identifier": "26-1213",
   "image": null,
   "mainEntityOfPage": null,
@@ -56,9 +56,10 @@
   "datePosted": "2026-08-14",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'Etat de Docteur en Médecine",
+    "credentialCategory": "Diplôme d'État de docteur en médecine",
     "competencyRequired": [
       "Maîtrise de la médecine générale et de l'urgence",
+      "CAMU souhaité",
       "Connaissance en santé publique",
       "Connaissances en gynécologie-obstétrique, pédiatrie, cardiologie, endocrinologie et/ou infectiologie"
     ]
@@ -68,8 +69,8 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "PROVINCE NORD",
-    "url": "http://www.province-nord.nc",
+    "name": "CMS de POUM",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
@@ -81,8 +82,8 @@
     "url": "http://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
-  "jobBenefits": null,
+  "industry": "Santé publique",
+  "jobBenefits": "Poste soumis à astreintes",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -99,12 +100,13 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
-    "Santé publique soins"
+    "Santé publique soins",
+    "Politique de santé publique"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis de conduire B, CAMU souhaité",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Médecin",
@@ -115,31 +117,31 @@
     }
   },
   "responsibilities": [
-    "Assurer la médecine curative : consultations, urgences, visites en tribu",
-    "Assurer la médecine préventive : santé scolaire, PMI, dépistage tuberculose, médecin du travail et du sport, éducation pour la santé, hygiène publique",
-    "Gérer les activités administratives : gestion des moyens en personnel et matériel, rapports",
-    "Assurer la veille sanitaire et sociale",
-    "Établir des partenariats extérieurs",
-    "Gérer la pharmacie de la structure",
-    "Participer aux actions de formation et d'animation de sécurité civile",
-    "Assurer le renfort aux CMS limitrophes en cas de nécessité",
-    "Établir un bilan d'activité annuel"
+    "La médecine curative : consultations, urgences, visites en tribu",
+    "La médecine préventive : santé scolaire, PMI, dépistage tuberculose, médecin du travail et du sport, éducation pour la santé, hygiène publique",
+    "Les activités administratives : gestion des moyens en personnel et matériel, rapports",
+    "La veille sanitaire et sociale",
+    "L'établissement de partenariats extérieurs",
+    "La gestion de la pharmacie de la structure",
+    "La participation aux actions de formation et d'animation de sécurité civile",
+    "Le renfort aux CMS limitrophes essentiellement en cas de nécessité",
+    "Etablir un bilan d'activité annuel"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Maîtrise des logiciels de bureautique Excel et Word",
+    "Maîtrise des logiciels de bureautique (Excel et Word)",
     "Goût des relations humaines",
     "Esprit d'initiative",
     "Capacité d'écoute",
     "Goût du travail en équipe"
   ],
-  "specialCommitments": "Poste soumis à astreintes",
+  "specialCommitments": "Astreintes",
   "title": "Médecin à Poum",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-02",
-  "workHours": null,
+  "validThrough": "2026-10-23",
+  "workHours": "Poste soumis à astreintes",
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
