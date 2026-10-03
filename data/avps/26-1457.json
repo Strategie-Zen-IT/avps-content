@@ -1,0 +1,164 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "DIRECTION DE L'ACCOMPAGNEMENT DE L'ANIMATION ET DE LA CULTURE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaire Générale",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Secrétaire Générale",
+      "Ensemble des directions de la commune",
+      "Partenaires institutionnels et associatifs",
+      "Réseaux de proximité",
+      "Équipe de direction",
+      "Élus"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Grande disponibilité : l'agent peut être amené à travailler en soirée, certains week-ends ou jours fériés lors de manifestations, réunions ou événements particuliers. Déplacements réguliers sur les différents sites et équipements de la commune."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952096.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité de la Secrétaire Générale, l'agent retenu exercera les fonctions de Directeur / Directrice de l'Accompagnement, de l'Animation et de la Culture. Il assure le management et l'organisation de la direction ainsi que la mise en œuvre des orientations stratégiques de la collectivité et des modes de gestion du service public relevant de son périmètre.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1457",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Directeur(trice)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Bourail"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "44.11.16",
+    "email": "g.guathoti@mairie-bourail.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-02",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Compétences avérées en management d'équipes et de projets transversaux",
+      "Maîtrise des procédures administratives et connaissance du fonctionnement des collectivités territoriales",
+      "Connaissance des finances publiques, de la gestion budgétaire et de la recherche de financements",
+      "Connaissance des politiques publiques locales dans les domaines social, jeunesse, culture, animation, lecture publique et patrimoine",
+      "Méthodologie de projet, outils de pilotage et évaluation des politiques publiques",
+      "Connaissance du territoire, du milieu associatif, des partenaires institutionnels et de la culture locale",
+      "Expérience au sein d'une collectivité publique souhaitée"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience au sein d'une collectivité publique souhaitée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Bourail"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Bourail",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Bourail",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98870"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "au plus tôt",
+  "occupationalCategory": [
+    "Administration générale",
+    "Animation",
+    "Culture",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Directeur de l'Accompagnement, de l'Animation et de la Culture",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1103",
+      "name": "Conception et pilotage de la politique des pouvoirs publics"
+    }
+  },
+  "responsibilities": [
+    "Manager, animer et coordonner les agents et organiser le fonctionnement des services et équipements de la DAAC",
+    "Assurer la gestion administrative, opérationnelle et budgétaire de la direction et contrôler l'application des règles et procédures",
+    "Participer à la définition et mettre en œuvre les orientations de l'exécutif municipal dans les domaines de l'accompagnement social, de l'animation, de la culture et de la jeunesse",
+    "Piloter le service social / Service Solidarité et Accompagnement et la Maison des familles : accueil, information, orientation, partenariats et dispositifs d'accompagnement",
+    "Piloter la Maison des jeunes de Bourail et les actions municipales en direction de la jeunesse",
+    "Piloter les politiques et actions d'animation et de culture : manifestations, lecture publique, patrimoine, cinéma et équipements rattachés",
+    "S'articuler avec l'ensemble des directions afin d'inscrire les actions dans la stratégie communale et conduire les projets transversaux notamment le CLSPD",
+    "Participer à la préparation budgétaire et rechercher des financements extérieurs publics et privés",
+    "Traduire les orientations en projets, organiser les moyens, piloter les opérations et études et rendre compte régulièrement à la hiérarchie",
+    "Coordonner et développer les partenariats institutionnels et associatifs et les réseaux de proximité",
+    "Assurer la gestion et la valorisation des salles, sites, équipements, matériels et véhicules affectés à la direction, notamment le site de Téné",
+    "Contribuer à la programmation pluriannuelle des investissements de la DAAC",
+    "Mettre en place des outils de suivi et d'évaluation des politiques publiques et valoriser les résultats de la direction",
+    "Participer à la stratégie de communication en collaboration avec la hiérarchie, l'équipe de direction et les élus"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Encadrer, écouter, fédérer et accompagner une équipe pluridisciplinaire",
+    "Formaliser et piloter un projet de direction cohérent avec les orientations de la collectivité",
+    "Élaborer des procédures, tableaux de bord, bilans et outils d'aide à la décision",
+    "Répartir et planifier les activités et optimiser les moyens humains, matériels et budgétaires",
+    "Conduire des projets complexes et coordonner des partenaires multiples",
+    "Rendre compte, alerter et formuler des propositions à la hiérarchie",
+    "Superviser l'application des règles de sécurité lors des manifestations et dans les équipements",
+    "Sens du service public et des responsabilités",
+    "Leadership, qualités relationnelles et capacité à fédérer",
+    "Esprit d'analyse et de synthèse",
+    "Écoute, disponibilité, rigueur et réactivité",
+    "Force de proposition, autonomie et aptitude au travail transversal"
+  ],
+  "specialCommitments": null,
+  "title": "Directeur(trice)",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-23",
+  "workHours": "Grande disponibilité requise (soirées, week-ends et jours fériés lors d'événements)",
+  "champs_open_data": 7,
+  "employeur_sigle": "MAIRIE-DE-BOURAIL",
+  "collectivite": "Mairie de Bourail",
+  "direction": "DIRECTION DE L'ACCOMPAGNEMENT DE L'ANIMATION ET DE LA CULTURE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Culture",
+  "famille_source": "respnc",
+  "famille_score": 0.865,
+  "dossier": "culture"
+}
