@@ -38,19 +38,30 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "http://www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": "www.province-nord.nc",
+  "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "CMS de BELEP",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Bélep",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
-    "email": "m.oudare@province-nord.nc"
+    "email": "drh-emplois@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-08-14",
@@ -68,8 +79,8 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "PROVINCE NORD",
-    "url": "www.province-nord.nc",
+    "name": "CMS de BELEP",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
@@ -78,7 +89,7 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "http://www.province-nord.nc"
   },
   "incentiveCompensation": null,
   "industry": "Santé",
@@ -104,7 +115,7 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Être titulaire du permis de conduire B.",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Médecin",
@@ -136,10 +147,10 @@
     "Capacité d'écoute",
     "Goût du travail en équipe"
   ],
-  "specialCommitments": "Poste soumis à astreintes.",
+  "specialCommitments": "Poste soumis à astreintes",
   "title": "Médecin à Belep",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-02",
+  "validThrough": "2026-10-23",
   "workHours": "Astreintes",
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
