@@ -7,6 +7,7 @@
     "superieurHierarchique": "Responsable du bureau zoologique",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
+      "Cadres du bureau zoologique",
       "Membres de l'équipe",
       "Autres bureaux du PPZF",
       "Agents des autres parcs"
@@ -73,7 +74,7 @@
   "datePosted": "2026-09-11",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Savoir / Connaissance / Diplôme exigé",
+    "credentialCategory": "Technicien adjoint",
     "competencyRequired": [
       "Solide expérience dans les techniques de soins aux animaux (capture et manipulation, alimentation, prophylaxie, reproduction, etc.)",
       "Maîtrise des notions d’hygiène générale (désinfection, prévention des maladies et infestations, biosécurité, lutte contre les nuisibles)"
@@ -83,14 +84,14 @@
   "employerOverview": "La Direction du Développement Durable des Territoires de la province Sud (DDDT) est chargée, au sein du pôle transition écologique, de contribuer à la mise en œuvre des politiques publiques en matière de développement des territoires en assurant la transition écologique, la protection et la valorisation des patrimoines naturels et des espaces agricoles.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "OrganizationalUnit",
-    "name": "Parc provincial zoologique et forestier Michel Corbasson",
-    "url": null,
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Solide expérience dans les techniques de soins aux animaux (capture et manipulation, alimentation, prophylaxie, reproduction, etc.)",
+  "experienceRequirements": "Solide expérience dans les techniques de soins aux animaux",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
