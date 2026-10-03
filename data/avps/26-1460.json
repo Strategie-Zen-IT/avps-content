@@ -1,0 +1,165 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Service Développement de la Condition Féminine",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service",
+    "placeOrganigramme": "Placée sous l'autorité hiérarchique du chef de service",
+    "relationsFonctionnelles": [
+      "Communes",
+      "Provinces",
+      "Gouvernement",
+      "Fédérations communales",
+      "Associations de femmes"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Poste soumis à des horaires atypiques. Déplacements à prévoir sur l’ensemble de la Province Nord."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952096.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La Direction du Développement de l’Humain et des Identités (DDHI) est une direction opérationnelle de la province Nord qui met en œuvre la politique provinciale en faveur du développement humain dans les secteurs de la condition féminine, des activités culturelles, physiques, sportives et socio-éducatives participant à l’émancipation des individus et l’animation du lien social. Cette direction privilégiera une approche holistique dans la tenue de ses actions afin de prendre en compte l’homme, son histoire, son identité, ses pratiques, ses valeurs et son bien-être.",
+  "disambiguatingDescription": "Poste de chargé d'actions au sein de la Direction du Développement de l’Humain et des Identités de la Province Nord, axé sur la promotion des droits des femmes et de l'égalité hommes-femmes.",
+  "identifier": "26-1460",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé d'actions",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-nord.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.72.16",
+    "email": "d.rokuad@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-02",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Rédacteur",
+    "competencyRequired": [
+      "Connaissance en matière de condition féminine et en termes d’égalité hommes-femmes",
+      "Très bonne connaissance du contexte institutionnel, humain et du réseau associatif des femmes en Province Nord"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La Direction du Développement de l’Humain et des Identités (DDHI) est une direction opérationnelle de la province Nord qui met en œuvre la politique provinciale en faveur du développement humain dans les secteurs de la condition féminine, des activités culturelles, physiques, sportives et socio-éducatives.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de la province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98860"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "dans les meilleurs délais",
+  "occupationalCategory": [
+    "Action sociale",
+    "Administration générale",
+    "Animation"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "chargé d’actions",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1103",
+      "name": "Développement local"
+    }
+  },
+  "responsibilities": [
+    "Proposer et mettre en œuvre les orientations stratégiques de la collectivité en matière de promotion des droits des femmes et de l’égalité hommes-femmes",
+    "Accompagner le public reçu et consolider les actions menées au bénéfice des femmes de la province nord et du pays",
+    "Coordonner les activités organisées par le service et en transversalité avec les différents partenaires",
+    "Gestion et organisation de projets initiés par le service notamment les évènementiels en partenariat de valorisation de la condition féminine",
+    "Participation aux rencontres et réunions de travail avec les différents partenaires institutionnels",
+    "Rédaction de projet de délibération, ainsi que des notes et des rapports",
+    "Concours à l’animation des Maisons de la Femme de Paiamboué et de Pum",
+    "Mise en œuvre des outils de suivi, d’observation et d’évaluation des dispositifs d’aide de la collectivité et aide à l’animation de l’observatoire de la condition féminine",
+    "Mise en œuvre d’un travail en transversalité en interne à la DDHI, en interne à la province et en externe",
+    "Participation aux actions de sensibilisation à l’égalité des genres",
+    "Accompagnement et animation du réseau partenarial",
+    "Suivi et l’appui technique des fédérations communales et associations de femmes, dans le montage de leurs projets",
+    "Accompagnement des associations à rédiger un bilan moral, financier, BP, aide au montage d'un projet",
+    "Participation à l’élaboration et l’évaluation d’outils visant à renforcer l’efficacité des actions du service"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise de la gestion de projets",
+    "Qualités rédactionnelles",
+    "Sens de l’organisation",
+    "Maîtrise de l'outil informatique Word Excel Power point Outlook",
+    "Maîtrise des techniques de communication",
+    "Capacité à animer une réunion",
+    "Capacité à travailler en équipe et en réseau",
+    "Rigueur et diplomatie",
+    "Sens de l'initiative",
+    "Être force de proposition",
+    "Goût des relations humaines",
+    "Autonomie et grande disponibilité",
+    "Discrétion professionnelle"
+  ],
+  "specialCommitments": "Poste soumis à des horaires atypiques. Déplacements à prévoir sur l’ensemble de la Province Nord.",
+  "title": "Chargé d'actions",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-23",
+  "workHours": "Horaires atypiques",
+  "champs_open_data": 7,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Culture",
+  "famille_source": "respnc",
+  "famille_score": 0.812,
+  "dossier": "culture"
+}
