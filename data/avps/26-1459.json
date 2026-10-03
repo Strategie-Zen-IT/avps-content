@@ -1,0 +1,180 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "",
+    "uniteOrganisationnelle": "Service administratif",
+    "nbAgentsEncadres": 10,
+    "superieurHierarchique": "Secrétaire général",
+    "placeOrganigramme": "Sous l'autorité du secrétaire général",
+    "relationsFonctionnelles": [
+      "Commune de Maré",
+      "Trésorier payeur des îles loyautés",
+      "Régisseur",
+      "Directeurs et directrices d'établissements scolaires",
+      "Familles et associations de parents d'élèves",
+      "Assistantes sociales"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristique particulière de l'emploi",
+        "value": "L'agent pourrait se voir confier d'autres missions selon les besoins de la collectivité. Des missions peuvent avoir lieu en dehors des horaires et des lieux habituels. Travail en relation avec d'autres collectivités."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957366.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous l'autorité du secrétaire général, l'agent retenu contribue à la recherche de financements et à définir les orientations stratégiques communales. Il/elle assure l'instruction des dossiers et la gestion des projets qui lui sont confiés et collabore aux projets transversaux. Il conseille ses supérieurs hiérarchiques et les élus sur les dossiers traités.",
+  "disambiguatingDescription": "Poste de Responsable au sein de la Caisse des Écoles de Maré, axé sur la gestion administrative, budgétaire et le management d'équipe.",
+  "identifier": "26-1459",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Responsable",
+  "owner": {
+    "@type": "Organization",
+    "name": "Caisse des Écoles de Maré"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "45.41.07",
+    "email": "assistanterh.commpta@mare.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-02",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3",
+    "competencyRequired": [
+      "Gestion administrative et finance publique ou diplômes équivalents",
+      "Procédures administratives et comptables d'une collectivité publique",
+      "Réglementation et procédures d'hygiène et de sécurité d'un service de restauration",
+      "Aspects juridiques, administratifs, financiers des établissements publics et des services publics en général",
+      "Techniques en matière d'inspection et de contrôle",
+      "Logiciels BFC (millésime, paye)",
+      "Langue Nengone"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Caisse des Écoles de Maré",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Avoir au moins 5 années d'expériences dans les missions précitées",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Caisse des Écoles de Maré"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Maré",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Tadine",
+      "addressLocality": "Maré",
+      "addressRegion": "Province des Îles Loyauté",
+      "addressCountry": "NC",
+      "province": "province des îles Loyauté",
+      "postalCode": "98828"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Administration générale",
+    "Finances et budget",
+    "Restauration collective / hôtellerie"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire souhaité",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Conception et pilotage de la politique des pouvoirs publics"
+    }
+  },
+  "responsibilities": [
+    "Diriger et assurer le bon fonctionnement de l'établissement public communal",
+    "Gestion administrative et budgétaire du service",
+    "Préparation suivie du budget primitif et modificatif",
+    "Organiser et direction administrative et opérationnelle",
+    "Gestion des ressources humaines, notamment manager une équipe de 10 personnes",
+    "Respect de la réglementation en matière de commande publique",
+    "Suivi des procédures d'hygiène et de sécurité d'un service de restauration scolaire",
+    "Suivi travaux maintenance bâtiment et flotte mobile",
+    "Garant d'un dialogue social nourri et constructif",
+    "Suivi des dossiers en relation avec les partenaires notamment avec la commune de Maré, le trésorier payeur des îles loyautés, le régisseur, les directeurs et directrices d'établissements scolaires et les familles et les associations de parents d'élèves, les assistantes sociales",
+    "Organisation et préparation des séances des comités de gestion et les assemblées générales",
+    "Rédaction des délibérations et les comptes rendus des AG et des comités de gestion"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Autonomie",
+    "Grande disponibilité",
+    "Sens des responsabilités",
+    "Aptitudes rédactionnelles et à la négociation",
+    "Aisance rédactionnelle",
+    "Sens de l'écoute",
+    "Capacité d'analyse et de synthèse",
+    "Méthodologie de projet",
+    "Piloter un budget",
+    "Capacité à participer et à animer des réunions et des groupes de réflexions",
+    "Capacité d'organisation et de planification",
+    "Capacités managériales éprouvées",
+    "Esprit d'initiative",
+    "Loyauté",
+    "Rigueur",
+    "Disponibilité",
+    "Assiduité",
+    "Dynamisme et réactivité",
+    "Sens de la discrétion et de la confidentialité",
+    "Sens de l'organisation et des responsabilités",
+    "Sens du travail en équipe"
+  ],
+  "specialCommitments": "Des missions peuvent avoir lieu en dehors des horaires et des lieux habituels",
+  "title": "Responsable",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-23",
+  "workHours": "Horaires variables selon les besoins du service",
+  "champs_open_data": 9,
+  "employeur_sigle": "CAISSE-DES-ECOLES-DE-MARE",
+  "collectivite": "Caisse des Écoles de Maré",
+  "direction": "",
+  "direction_source": "absente",
+  "employeur_source": "document",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.84,
+  "dossier": "administration-generale"
+}
