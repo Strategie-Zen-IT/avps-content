@@ -1,0 +1,182 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "VILLE DU MONT-DORE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaire générale",
+    "placeOrganigramme": "Rattaché(e) au Secrétariat général",
+    "relationsFonctionnelles": [
+      "Entreprises",
+      "Commerçants",
+      "Artisans",
+      "Producteurs",
+      "Porteurs de projets",
+      "Partenaires institutionnels",
+      "Partenaires économiques",
+      "Chambres consulaires",
+      "Services municipaux"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi",
+        "value": "Attaché du CAG"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953330.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Dans le cadre de la mise en œuvre de sa politique de développement et d’attractivité du territoire, la commune du Mont-Dore souhaite renforcer son action en faveur du développement économique local et de l’accompagnement des acteurs économiques. Rattaché(e) au Secrétariat général, le/la chargé(e) de mission Développement économique contribue à la définition et à la mise en œuvre de la stratégie économique de la commune. Il/elle constitue un interlocuteur privilégié des entreprises, commerçants, artisans, producteurs, porteurs de projets et partenaires institutionnels et économiques du territoire.",
+  "disambiguatingDescription": "Poste de Chargé(e) de mission développement économique au sein du Secrétariat Général de la Ville du Mont-Dore.",
+  "identifier": "26-1412",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé(e) de mission développement économique",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "43.70.89",
+    "email": "christine.aita@ville-montdore.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-02",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Formation supérieure correspondant aux missions exercées (diplôme de niveau 7) ou expérience",
+      "Une expérience professionnelle significative dans le domaine du développement économique, territorial ou de l’animation d’un réseau d’acteurs est souhaitée",
+      "Analyser des données physiques, socio-économiques et environnementales du territoire avec identification des axes d’intervention",
+      "Élaborer ou participer à l’élaboration d’un projet d’aménagement en assurant un appui technique aux acteurs locaux",
+      "Communiquer et échanger des informations sur les stratégies de développement lors de rencontres professionnelles",
+      "Connaissance avérée de l’environnement institutionnel, politique, administratif et économique de la Nouvelle-Calédonie",
+      "Maîtriser des outils de gestion, de reporting, des systèmes d’information et de communication",
+      "Méthodes de gestion du projet",
+      "Expérience en conduite de projet",
+      "Sens du travail en équipe et qualité d’organisateur et d’écoute indispensables"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Une expérience professionnelle significative dans le domaine du développement économique, territorial ou de l’animation d’un réseau d’acteurs est souhaitée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de Ville de Boulari",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4468 avenue des deux baies Boulari",
+      "addressLocality": "Mont-Dore",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98809"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Développement du territoire"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé de mission développement économique",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "I1304",
+      "name": "Développement local"
+    }
+  },
+  "responsibilities": [
+    "Participer à la définition et à la mise en œuvre de la stratégie de développement économique et d’attractivité de la commune, en cohérence avec les orientations municipales",
+    "Réaliser des diagnostics économiques et territoriaux, identifier les enjeux, les besoins, les secteurs d’activité à potentiel et les opportunités de développement",
+    "Élaborer et suivre les plans d’actions pluriannuels en matière de développement économique, et en évaluer les résultats à travers des indicateurs et tableaux de bord",
+    "Assurer un rôle d’interlocuteur de proximité auprès des entreprises, commerçants, artisans, producteurs et porteurs de projets, en les informant, orientant et accompagnant dans leurs démarches",
+    "Accompagner les projets d’implantation, de création, de maintien ou de développement d’activités économiques et faciliter leur relation avec les services municipaux et les partenaires institutionnels",
+    "Constituer et animer un réseau des acteurs économiques du Mont-Dore, favoriser les échanges, les mises en relation et l’émergence d’initiatives collectives",
+    "Développer et entretenir les partenariats avec les chambres consulaires, institutions, agences, organismes professionnels et autres acteurs du développement économique",
+    "Contribuer à la dynamisation et à l’attractivité commerciale du territoire, notamment par la revitalisation des pôles commerciaux, la valorisation des entreprises et savoir-faire locaux et l’identification de nouvelles activités ou services",
+    "Proposer et accompagner des actions d’animation, de promotion et de valorisation économique et commerciale, en lien avec les acteurs du territoire",
+    "Assurer une veille économique, réglementaire et territoriale, identifier les appels à projets, dispositifs d’accompagnement et opportunités de financement, et contribuer au montage et au suivi des dossiers",
+    "Assurer le suivi et la coordination de la gestion du marché communal avec le prestataire gestionnaire, veiller au respect des objectifs fixés par la commune et proposer des actions visant à renforcer son attractivité et son développement",
+    "Piloter ou contribuer à des projets transversaux relevant du développement économique et de l’attractivité, en assurant la coordination des partenaires, le suivi des échéances, des moyens mobilisés et des résultats attendus, et produire les analyses et notes d’aide à la décision nécessaires"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Analyser un territoire et identifier ses potentialités",
+    "conduire un diagnostic économique",
+    "élaborer et suivre un plan d’action",
+    "conduire et coordonner des projets",
+    "construire des partenariats",
+    "animer des réunions et des réseaux professionnels",
+    "rédiger des notes, rapports et documents d’aide à la décision",
+    "élaborer des tableaux de bord et indicateurs",
+    "rechercher des financements",
+    "négocier avec différents interlocuteurs",
+    "assurer le suivi administratif et financier d’une activité",
+    "rendre compte régulièrement de son activité",
+    "Sens du service public",
+    "autonomie et capacité d’initiative",
+    "force de proposition",
+    "excellent relationnel",
+    "sens de l’écoute et du dialogue",
+    "diplomatie et capacité de négociation",
+    "capacité à travailler en transversalité",
+    "rigueur et organisation",
+    "réactivité",
+    "capacité à gérer les situations conflictuelles",
+    "capacité à travailler avec des interlocuteurs de niveaux et d’horizons différents",
+    "disponibilité et sens du terrain"
+  ],
+  "specialCommitments": null,
+  "title": "Chargé(e) de mission développement économique",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-23",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "VILLE-DU-MONT-DORE",
+  "collectivite": "Ville du Mont-Dore",
+  "direction": "VILLE DU MONT-DORE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Ingénierie industrielle minière et énergétique",
+  "famille_source": "respnc",
+  "famille_score": 0.791,
+  "dossier": "ingenierie-industrielle-miniere-et-energetique"
+}
