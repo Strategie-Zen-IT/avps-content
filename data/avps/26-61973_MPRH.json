@@ -1,0 +1,205 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
+    "uniteOrganisationnelle": "Service de la santé publique",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du bureau santé environnement",
+    "placeOrganigramme": "Placé(e) sous l'autorité du chef du bureau santé environnement",
+    "relationsFonctionnelles": [
+      "Technicien entomologiste",
+      "Autres bureaux du service de santé publique",
+      "Autres directions du gouvernement de la Nouvelle-Calédonie"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Ingénieur 2ème grade du domaine de l'économie rurale: au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Astreintes",
+        "value": "Assurer des astreintes de santé publique dans le cadre de la veille sanitaire"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service de la santé publique"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "BAROUSSE Chantal"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953806.PDF"
+      }
+    ]
+  },
+  "alternateName": "Chargé d'études en santé environnementale",
+  "description": "Placé(e) sous l'autorité du chef du bureau santé environnement, le/la chargé(e) d'études aura pour mission principale de piloter, structurer et développer la thématique de l'assainissement, dossier prioritaire et en fort développement au sein de la DASS. En parallèle, et dans le cadre d'une réorganisation future de l'équipe, l'agent devra faire preuve d'une grande polyvalence en intervenant sur d'autres thématiques de santé environnement clés du bureau, notamment la surveillance entomologique. L'ensemble de ces missions s'inscrira pleinement dans une approche transversale « One Health » (Une seule santé), liant la préservation des milieux de vie et la prévention des risques sanitaires.\n\nÀ ce titre, il/elle sera chargé(e) d'analyser les risques sanitaires pour la santé humaine, puis de proposer, mettre en œuvre, suivre et évaluer des programmes d'action, de contrôle, de prévention et de protection.\n\nDans le cadre de ses fonctions, le/la chargé(e) d'études sera amené(e) à rédiger des notes, rapports, courriers divers et à contribuer activement à l'élaboration de textes réglementaires en partenariat avec les autres directions du gouvernement de la Nouvelle-Calédonie. Il/Elle participera à la structuration et à la mise à jour des bases de données du bureau. Des missions de terrain régulières sont à prévoir sur l'ensemble du territoire de la Nouvelle-Calédonie.",
+  "disambiguatingDescription": "Chargé(e) d'études en santé environnementale au sein du bureau santé environnement de la DASS, axé sur l'assainissement et l'approche One Health.",
+  "identifier": "26-61973/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé(e) d'études en santé environnementale",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.37.15",
+    "email": "chantal.barousse@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-02",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Formation supérieure de niveau Bac +5 (Master, diplôme d'ingénieur) dans le domaine de la santé environnementale, du génie de l'environnement ou des sciences de l'eau et de l'assainissement",
+      "Expérience professionnelle souhaitée dans une structure de santé publique ou en ingénierie sanitaire",
+      "Solides connaissances techniques et réglementaires dans le domaine de l'eau et de l'assainissement",
+      "Connaissances en entomologie médicale et dans la gestion des maladies à transmission vectorielle",
+      "Connaissances en épidémiologie et en méthodologie d'évaluation des risques sanitaires et forte sensibilité à l'approche « One Health » (interdépendance entre santés humaine, animale et environnementale)",
+      "Bonnes connaissances du contexte institutionnel, réglementaire, ainsi que des spécificités culturelles, sociologiques et géographiques de la Nouvelle-Calédonie",
+      "Bon niveau d'anglais professionnel."
+    ]
+  },
+  "eligibilityToWorkRequirement": "- Ingénieur 2ème grade du domaine de l'économie rurale: au moins égale à 5 ans",
+  "employerOverview": "La direction des affaires sanitaires et sociales de la Nouvelle-Calédonie est une des directions techniques du gouvernement de la Nouvelle-Calédonie. \nElle est responsable de la mise en œuvre de la politique de la Nouvelle-Calédonie en matière de santé et de protection sociale. \n\nElle comprend un service administration et support et quatre services métiers.\n\nLe service de santé publique est chargé de la connaissance et des études relatives à la situation sanitaire, de la veille et de la surveillance, et de l'amélioration de la santé des calédoniens (prévention).\n\nAu sein de ce service, le bureau santé environnement a pour mission de prévenir, d'évaluer et de gérer les risques sanitaires liés aux milieux de vie et aux facteurs environnementaux.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de la santé publique",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle souhaitée dans une structure de santé publique ou en ingénierie sanitaire",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": "Informations salaire disponibles sur le site de la DRHFPNC",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "DASS - Service de la santé publique",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Politique de santé publique",
+    "Environnement",
+    "Infrastructures, réseaux, eaux et assainissements"
+  ],
+  "physicalRequirement": "Aptitude physique et goût pour les déplacements et le travail sur le terrain",
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé d'études en santé environnementale",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1703",
+      "name": "Ingénieur Hygiène, Sécurité et Environnement en industrie -HSE-"
+    }
+  },
+  "responsibilities": [
+    "Le/la chargé(e) d'études est chargé(e) de :",
+    "Piloter et développer la thématique Assainissement : Structurer la stratégie de la DASS sur cette thématique ; apporter une expertise technique et réaliser l'instruction des volets eau et assainissement des dossiers ; contribuer à l'élaboration des textes réglementaires sur l'assainissement non collectif des eaux usées domestiques, participer activement à la Politique de l'Eau Partagée (PEP) et co-animer le groupe de travail interinstitutionnel de l'OS4 de la PEP",
+    "Contribuer à la gestion d'autres thématiques de santé environnement clés du bureau : Participer, de manière flexible et selon la future répartition des dossiers au sein de l'équipe, au suivi technique et à la gestion opérationnelle des autres dossiers clés du bureau (notamment la surveillance entomologique en lien avec le technicien entomologiste) ; analyser les données de terrain, évaluer les risques et contribuer aux actions de prévention, de contrôle ou de gestion sanitaire correspondantes",
+    "Contribuer à la surveillance environnementale et épidémiologique : Participer à la conception et au pilotage d'études ou d'enquêtes environnementales sur des problématiques locales spécifiques ; analyser les données pour guider les politiques de prévention et de protection de la population",
+    "Instruire des avis sanitaires : Instruire les demandes d'autorisation et formuler des avis sanitaires motivés et rigoureux sur l'ensemble des dossiers soumis au bureau",
+    "Contribuer à la gestion des alertes sanitaires : Participer activement au dispositif de veille et à la gestion opérationnelle des alertes sanitaires environnementales du bureau",
+    "Assurer une veille scientifique, réglementaire et collaboration transversale : Assurer une veille scientifique et juridique constante ; collaborer à des projets transversaux avec les autres bureaux du service de santé publique.",
+    "Participer au fonctionnement du bureau (définition des orientations stratégiques, suivi des indicateurs et du budget, contribution aux réunions d'équipe)",
+    "Contribuer aux projets communs et transversaux du service de santé publique",
+    "Contribuer ponctuellement sur d'autres dossiers du bureau selon les besoins (pesticides, métaux lourds, gestion des eaux de loisirs et/ou de consommation, etc.)",
+    "Assurer des astreintes de santé publique dans le cadre de la veille sanitaire."
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Excellentes capacités rédactionnelles (protocoles d'études, rapports scientifiques, notes d'aide à la décision, textes réglementaires)",
+    "Aptitude à l'instruction technique de dossiers complexes et à la formulation d'avis sanitaires",
+    "Compétences en gestion de projet (planification, animation de réunions, suivi budgétaire) et capacité à gérer de nombreux dossiers de front",
+    "Maîtrise des outils bureautiques et des outils de cartographie (Systèmes d'Information Géographique - SIG).",
+    "Grande autonomie, esprit d'initiative et forte capacité d'adaptation dans un contexte d'évolution des missions du bureau",
+    "Rigueur scientifique et excellentes capacités d'analyse et de synthèse",
+    "Aisance relationnelle et sens du travail en équipe pluridisciplinaire et en réseau",
+    "Aptitude physique et goût pour les déplacements et le travail sur le terrain",
+    "Capacité à gérer les priorités et à répondre aux urgences sanitaires."
+  ],
+  "specialCommitments": "Des missions de terrain régulières sont à prévoir sur l'ensemble du territoire de la Nouvelle-Calédonie. Assurer des astreintes de santé publique.",
+  "title": "Chargé(e) d'études en santé environnementale",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-16",
+  "workHours": "Astreintes de santé publique à prévoir",
+  "champs_open_data": 28,
+  "employeur_sigle": "DASS",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Environnement",
+  "famille_source": "respnc",
+  "famille_score": 0.909,
+  "dossier": "environnement"
+}
