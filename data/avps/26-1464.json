@@ -1,0 +1,161 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "DAJAP",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directrice des affaires juridiques, administratives et du patrimoine",
+    "placeOrganigramme": "Fonction d'assistance directe auprès de la Directrice",
+    "relationsFonctionnelles": [
+      "Directrice",
+      "Services de la DAJAP",
+      "Interlocuteurs internes et externes de la collectivité"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Activité nécessitant discrétion, confidentialité et réactivité. Diversité des interlocuteurs et des sujets traités. Nécessité de gérer simultanément des sollicitations et des priorités de nature différente. Rôle d'interface entre la direction, ses services et les interlocuteurs internes et externes de la collectivité."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957152.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La DAJAP est une direction support transversale, chargée notamment de la sécurisation juridique, de l'accompagnement administratif des services et de la gestion des moyens et du patrimoine de la Province Nord. Dans un contexte de forte contrainte sur les effectifs, elle doit renforcer son organisation, la coordination de ses activités et le suivi de ses dossiers. Le recrutement d'un(e) assistant(e) de direction vise à sécuriser le fonctionnement quotidien de la direction et à faciliter la coordination et la circulation de l'information entre ses différents services et interlocuteurs. Cette fonction permet également de préserver la disponibilité de la Directrice et des encadrants pour leurs missions de pilotage, d'anticipation et d'accompagnement des services.",
+  "disambiguatingDescription": "Assistant de direction au sein de la DAJAP de la Province Nord à Koné.",
+  "identifier": "26-1464",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Assistant de direction à Koné",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-nord.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.71.67",
+    "email": "e.dhures@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-02",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Formation ou expérience en gestion administrative / assistanat de direction",
+    "competencyRequired": [
+      "Connaissance du fonctionnement des collectivités territoriales et de leur environnement administratif",
+      "Connaissance des circuits administratifs et décisionnels",
+      "Maîtrise des outils bureautiques et collaboratifs"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La DAJAP est une direction support transversale, chargée notamment de la sécurisation juridique, de l'accompagnement administratif des services et de la gestion des moyens et du patrimoine de la Province Nord.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Une formation ou une expérience en gestion administrative / assistanat de direction serait appréciée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de la province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98860"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Dès que possible",
+  "occupationalCategory": [
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Assistant de direction",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Assistanat de direction"
+    }
+  },
+  "responsibilities": [
+    "Assister la direction dans la gestion administrative et organisationnelle de la DAJAP",
+    "Gérer et optimiser l'agenda de la Directrice et organiser ses rendez-vous et réunions",
+    "Préparer, mettre en forme et suivre les dossiers et documents nécessaires à l'activité de la direction",
+    "Rédiger et suivre les courriers, notes et documents administratifs",
+    "Suivre les circuits de signature et des parapheurs",
+    "Recevoir, traiter et orienter les sollicitations adressées à la direction",
+    "Organiser matériellement et suivre les réunions de direction",
+    "Coordonner et faire circuler l'information entre la Directrice, les services de la DAJAP et les interlocuteurs internes et externes",
+    "Suivre les demandes, dossiers et échéances nécessitant une relance ou une coordination entre plusieurs interlocuteurs",
+    "Classer et archiver les dossiers de la direction",
+    "Assurer l'accueil physique et téléphonique et orienter les demandes vers les interlocuteurs compétents",
+    "Apporter un appui ponctuel aux services de la direction en fonction des besoins et des priorités",
+    "Contribuer à l'amélioration des outils et supports administratifs de la direction"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Organiser et prioriser son activité en fonction des urgences et des échéances",
+    "Gérer un agenda et des réunions dans un environnement complexe",
+    "Rédiger et mettre en forme des documents administratifs avec rigueur",
+    "Assurer le suivi des courriers, dossiers, circuits de validation et échéances",
+    "Coordonner et relancer différents interlocuteurs",
+    "Utiliser efficacement les outils bureautiques et collaboratifs",
+    "Rigueur et sens de l'organisation",
+    "Discrétion et respect de la confidentialité",
+    "Fiabilité, réactivité et constance dans le suivi des dossiers",
+    "Capacité à travailler en autonomie dans un cadre hiérarchique défini",
+    "Diplomatie et aisance relationnelle",
+    "Sens du service et posture facilitatrice",
+    "Capacité d'adaptation et esprit d'initiative"
+  ],
+  "specialCommitments": null,
+  "title": "Assistant de direction à Koné",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-23",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "administration-generale"
+}
