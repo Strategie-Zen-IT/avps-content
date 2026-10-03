@@ -1,0 +1,151 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Animateur socio-éducatif",
+    "direction": "DIRECTION DE LA POLITIQUE DE LA VILLE",
+    "uniteOrganisationnelle": "Section territoires",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef d’équipe",
+    "placeOrganigramme": "Sous l'autorité du chef d’équipe",
+    "relationsFonctionnelles": [
+      "Service vie de la cité",
+      "Section actions jeunesse",
+      "Section programmation et services de proximité",
+      "Section territoires"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Travail en équipe, sur différents sites, certains week-ends, en soirées et jours fériés. Renfort possible des autres personnels du service. Autorisation de congé en période de vacances scolaires soumise aux nécessités de service. Horaires atypiques régulièrement positionnés en fin de journée, variables selon la programmation."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952078.PDF"
+      }
+    ]
+  },
+  "alternateName": "Animateur socio-éducatif",
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune. Placée sous l’autorité du secrétaire général adjoint en charge du pôle vie locale, la direction politique de la Ville a pour mission principale de répondre aux ambitions fixées par l’Exécutif municipal avec une Ville solidaire et à l’écoute des quartiers et de la population.",
+  "disambiguatingDescription": "Recrutement de 2 animateurs socio-éducatifs pour la section territoires de la ville de Nouméa.",
+  "identifier": "26-1463",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "2 Animateurs socio-éducatifs",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.07.02",
+    "email": "mairie.recrutement@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-02",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "BPJEPS",
+    "competencyRequired": [
+      "BPJEPS mention loisirs tous publics ou équivalent",
+      "Connaissance des techniques et pédagogie de l’animation",
+      "Connaissance de la méthodologie de projet",
+      "Maîtrise de l’outil informatique et des outils Google Workspace (Drive, Docs, Sheets, Agenda et Messagerie)",
+      "Certification en matière de secourisme appréciée",
+      "Bonne connaissance des quartiers et de leur fonctionnement"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service vie de la cité",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle sur un poste similaire appréciée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16 rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Animation",
+    "Action sociale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B exigé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Animateur socio-éducatif",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1206",
+      "name": "Animation d'activités de loisirs"
+    }
+  },
+  "responsibilities": [
+    "Élaborer des projets d’animations socio-éducatives en favorisant la participation des habitants",
+    "Mettre en place des animations socio-éducatives dans le respect des règles de sécurité",
+    "Élaborer, proposer et mettre en place des animations lors des évènements organisés par le service",
+    "Participer, initier ou conduire des actions d’animations inter-quartiers",
+    "Gérer les volets administratif, budgétaire et logistique des projets et les suivis de fréquentation dans le respect des procédures en place",
+    "Diffuser le programme d’animation de la section et promouvoir les dispositifs de la direction et plus largement de la Ville",
+    "Évaluer les activités, préparer les bilans, saisir les informations dans les outils dédiés et être force de proposition"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Élaborer des projets d'animation",
+    "Animer un groupe",
+    "Travailler en équipe",
+    "S'adapter à des horaires atypiques",
+    "Rigueur administrative",
+    "Force de proposition"
+  ],
+  "specialCommitments": "Astreintes et horaires décalés possibles en soirée et week-end",
+  "title": "2 Animateurs socio-éducatifs",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-23",
+  "workHours": "Horaires atypiques régulièrement positionnés en fin de journée, week-ends et soirées",
+  "champs_open_data": 9,
+  "employeur_sigle": "MAIRIE-DE-NOUMEA",
+  "collectivite": "Mairie de Nouméa",
+  "direction": "DIRECTION DE LA POLITIQUE DE LA VILLE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Animation",
+  "famille_source": "respnc",
+  "famille_score": 0.817,
+  "dossier": "animation"
+}
