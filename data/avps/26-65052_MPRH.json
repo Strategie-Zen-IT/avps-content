@@ -4,7 +4,7 @@
     "direction": "DIRECTION DU BUDGET ET DES AFFAIRES FINANCIERES",
     "uniteOrganisationnelle": "Service des collectivités locales et des établissements publics",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef de service et de son adjoint(e)",
+    "superieurHierarchique": "Chef de service et son adjoint(e)",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Membres du gouvernement",
@@ -12,11 +12,6 @@
       "Gestionnaire des établissements publics"
     ],
     "informationsLibres": [
-      {
-        "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Au moins égale à 10 ans"
-      },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
@@ -78,10 +73,10 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Service des collectivités locales et des établissements publics",
+    "name": "Gouvernement de la Nouvelle-Calédonie",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "18 avenue Paul Doumer, Centre-ville",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -118,14 +113,14 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Métier identifié comme pénurique, Master 2 exigé pour le recrutement sur titre.",
+  "experienceRequirements": "Master 2 exigé pour le recrutement sur titre s'agissant d'un métier identifié comme pénurique",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": null,
+  "jobBenefits": "Informations salaire : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -142,7 +137,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiatement",
+  "jobStartDate": "immédiatement",
   "occupationalCategory": [
     "Finances et budget"
   ],
@@ -169,7 +164,7 @@
     "Réaliser des audits éventuels sur les établissements publics",
     "Participer à la mise en place d'un contrôle de gestion au sein du service et au sein des établissements."
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
