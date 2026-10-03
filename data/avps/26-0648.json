@@ -4,24 +4,30 @@
     "direction": "PROVINCE SUD",
     "uniteOrganisationnelle": "Maison de l'enfance de Bourail",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Directeur(trice) de la maison de l'enfance de Bourail",
+    "superieurHierarchique": "Directeur(trice) de la maison de l'enfance de Bourail (MDEB)",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Référent socio-éducatif des familles de la MDEB",
+      "Service de la protection de l'enfance (SPE)",
       "Enseignante spécialisée de la MDEB",
-      "Établissement scolaire de l'enfant",
-      "Magistrat ordonnateur de la mesure"
+      "Établissements scolaires",
+      "Magistrat ordonnateur de la mesure",
+      "Référent socio-éducatif des familles de la MDEB"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Au moins égale à 5 ans"
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre (UPASS)"
       },
       {
         "@type": "PropertyValue",
         "name": "Statut du poste",
         "value": "Susceptible d'être vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Particularités horaires",
+        "value": "Horaires d'internat (soirées, week-ends et jours fériés). Possibilité de travail de nuit en cas d'absence de collègues."
       },
       {
         "@type": "PropertyValue",
@@ -69,15 +75,14 @@
   "datePosted": "2026-05-01",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Bac+3 ou équivalent (niveau 6)",
+    "credentialCategory": "Diplôme d'État d'éducateur spécialisé (DEES) ou diplôme de conseiller en économie sociale et familiale (CESF) (niveau 6) ou diplôme d'assistant de service social ou diplôme d'éducateur de jeunes enfants",
     "competencyRequired": [
-      "Diplôme d'État d'éducateur spécialisé (DEES) ou diplôme de conseiller en économie sociale et familiale (CESF) ou diplôme d'assistant de service social ou diplôme d'éducateur de jeunes enfants",
       "Connaissances des techniques de prévention et de gestion des conflits",
       "Connaissances du développement de l'enfant, des approches systémiques (génogramme, médiation familiale, etc.)",
       "Connaissances des diversités culturelles en Nouvelle-Calédonie (histoire, toponymie, etc.)"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
+  "eligibilityToWorkRequirement": "Durée de résidence au moins égale à 5 ans pour le recrutement sur titre",
   "employerOverview": "Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
@@ -131,7 +136,7 @@
   "responsibilities": [
     "Assurer le suivi des enfants confiés à l'aide sociale à l'enfance dans le cadre du placement au sein de la MDEB dans leurs différents aspects (scolarité, soins...) pour garantir leur santé physique et morale, leur épanouissement, leur développement affectif, intellectuel, etc.",
     "Participer au soutien du parcours scolaire de l'enfant, en facilitant son intégration scolaire, en collaboration avec l'enseignante spécialisée de la MDEB ainsi qu'avec l'établissement scolaire de l'enfant",
-    "Élaborer et mettre en œuvre le projet pour l'enfant avec les prises en charge adaptées aux problématiques familiales pour travailler sur un retour à terme quand cela est envisageable",
+    "Élaborer et de mettre en œuvre le projet pour l'enfant avec les prises en charge adaptées aux problématiques familiales pour travailler sur un retour à terme quand cela est envisageable",
     "Procéder à l'évaluation des situations familiales dans une approche globale en prenant en compte à la fois l'intérêt de l'enfant, la place des parents et les ressources de l'environnement, notamment sur le plan coutumier ou de la famille élargie",
     "Garantir en lien avec le référent socio-éducatif des familles de la MDEB l'accompagnement des familles naturelles, de les soutenir et de les accompagner dans leurs compétences parentales, tout en favorisant le lien avec l'enfant et en proposant des prises en charge adaptées pour faire évoluer la situation",
     "Organiser et d'encadrer les rencontres et les visites médiatisées parents/enfants",
@@ -164,7 +169,7 @@
     "Autonomie et créativité",
     "Prise d'initiatives"
   ],
-  "specialCommitments": "Horaires d'internat (soirées, week-ends et jours fériés). Pourra être amené, pour raisons de service, à travailler de nuit en cas d'absence de ses collègues.",
+  "specialCommitments": "Astreintes et horaires d'internat (soirées, week-ends et jours fériés), travail de nuit possible",
   "title": "Travailleur Social au sein de la maison de l'enfance de Bourail",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-09",
