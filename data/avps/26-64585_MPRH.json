@@ -8,9 +8,16 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Producteurs de fruits et légumes",
-      "Contrôleurs de la DAVAR"
+      "Agriculteurs",
+      "Collègues contrôleurs",
+      "Équipes du service"
     ],
     "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de la mission",
+        "value": "Un an"
+      },
       {
         "@type": "PropertyValue",
         "name": "Zone géographique d'activité",
@@ -50,7 +57,7 @@
   },
   "alternateName": null,
   "description": "L'agent fera des enquêtes mensuelles auprès des producteurs de fruits et légumes, sur une zone précise (Bourail ou Koné) afin de récupérer les données de commercialisation, prévisions de récolte et de plantation végétales. Il pourra être amener à réaliser des visites de contrôles également pour prêter main forte aux collègues contrôleurs, dans le cadre des missions réglementaires.",
-  "disambiguatingDescription": "Technicien adjoint chargé d'enquêtes mensuelles auprès des producteurs de fruits et légumes et de visites de contrôles.",
+  "disambiguatingDescription": "Technicien adjoint pour une mission ponctuelle d'un an à la DAVAR, réalisant des enquêtes auprès des producteurs agricoles sur la zone de Bourail ou Koné.",
   "identifier": "26-64585/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -97,7 +104,7 @@
   "incentiveCompensation": null,
   "industry": "Agriculture et mer",
   "jobBenefits": null,
-  "jobDuration": "1 an",
+  "jobDuration": "P1Y",
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
