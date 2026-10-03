@@ -7,11 +7,11 @@
     "superieurHierarchique": "Chef(fe) de Bureau Dentaire, et directeur(-trice) adjoint(e) en charge du Pôle Soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
+      "Bureau Dentaire",
+      "Pôle Soins",
       "CMS",
-      "Spécialistes et partenaires médicaux",
-      "Sociaux",
-      "Associatifs",
-      "Scolaires"
+      "Spécialistes et partenaires (médicaux, sociaux, associatifs, scolaires...)",
+      "Agence sanitaire et sociale"
     ],
     "informationsLibres": [
       {
@@ -22,7 +22,7 @@
       {
         "@type": "PropertyValue",
         "name": "Fiche d'emploi générique RESPNC",
-        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952036.PDF"
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952030.PDF"
       }
     ]
   },
@@ -44,18 +44,7 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "CMS de HIENGHENE",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": null,
-      "addressLocality": "Hienghène",
-      "addressRegion": "Province Nord",
-      "addressCountry": "NC",
-      "province": "province Nord"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.72.30",
@@ -65,10 +54,9 @@
   "datePosted": "2026-08-07",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'Etat de chirurgien-dentiste ou de docteur en chirurgie-dentaire",
+    "credentialCategory": "Docteur en chirurgie-dentaire",
     "competencyRequired": [
-      "Diplôme d'Etat de chirurgien-dentiste ou de docteur en chirurgie-dentaire",
-      "Permis de conduire B"
+      "Diplôme d'Etat de chirurgien-dentiste ou de docteur en chirurgie-dentaire"
     ]
   },
   "eligibilityToWorkRequirement": null,
@@ -81,15 +69,15 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience professionnelle en outre-mer appréciée. Expérience professionnelle d'au moins un an en matière de santé publique et de prévention appréciée.",
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Une expérience professionnelle en outre-mer serait appréciée ; une expérience professionnelle d'au moins un an en matière de santé publique et de prévention serait appréciée.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
     "url": "www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique",
+  "industry": "Santé",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -115,7 +103,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chirurgien-dentiste du cadre santé",
+    "name": "Chirurgien-dentiste",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
@@ -124,11 +112,11 @@
   },
   "responsibilities": [
     "Réalisation des soins conservateurs et restaurateurs, extractions dentaires, acte de petite chirurgie et de parodontie, prothèse adjointe et conjointe",
-    "Gestion et le suivi des soins aux publics cible (RAA/CRC, diabétique, etc.)",
+    "Gestion et suivi des soins aux publics cible (RAA/CRC, diabétique, etc...)",
     "Participation aux actions de dépistage et de prévention propres à la province Nord ou en partenariat avec d'autres organismes",
-    "Entretien, le nettoyage et la désinfection du mobilier et de l'équipement professionnels",
+    "Entretien, nettoyage et désinfection du mobilier et de l'équipement professionnels",
     "Désinfection des instruments et leur stérilisation en autoclave",
-    "Supervision de l'activité de l'assistant(e) dentaire",
+    "Supervision de l'activité de l'assistant(te) dentaire",
     "Restitution de bilans d'activité et de tableaux de soins aux publics cible sur demande de la direction",
     "Enregistrement, la codification (selon la CIM 10) et la cotation des actes sur le logiciel de la province Nord",
     "Information des patients en matière d'hygiène bucco-dentaire et alimentaire et leur motivation aux gestes d'hygiène",
@@ -165,6 +153,6 @@
   "employeur_source": "source",
   "famille_respnc": "Santé publique soins",
   "famille_source": "respnc",
-  "famille_score": 0.812,
+  "famille_score": 0.8,
   "dossier": "sante-publique-soins"
 }
