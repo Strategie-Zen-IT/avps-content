@@ -1,0 +1,165 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "AGENCE SANITAIRE ET SOCIALE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directrice adjointe des finances et de la modernisation",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Direction des finances et de la modernisation",
+      "Personnel de l'agence",
+      "Encadrants"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Statut du poste",
+        "value": "Susceptible d'être vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Sans objet"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953282.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'agence sanitaire et sociale de la Nouvelle-Calédonie, établissement public administratif, a pour objet de faciliter la garantie du droit à la santé pour tous. Elle met en œuvre les programmes prioritaires de prévention et de promotion de la santé décidés par la Nouvelle-Calédonie. Placé sous l'autorité et la responsabilité de la directrice adjointe des finances et de la modernisation, le gestionnaire des ressources humaines aura pour missions la gestion et le suivi administratif des agents de l'agence.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1466",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Gestionnaire des ressources humaines",
+  "owner": {
+    "@type": "Organization",
+    "name": "Agence sanitaire et sociale"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.04.44",
+    "email": "recrutement@ass.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-02",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Législation du travail",
+      "Statut général des fonctionnaires et statuts particuliers",
+      "Instances, processus et circuits de décision"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "L'agence sanitaire et sociale de la Nouvelle-Calédonie, établissement public administratif, a pour objet de faciliter la garantie du droit à la santé pour tous. Elle met en œuvre les programmes prioritaires de prévention et de promotion de la santé décidés par la Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Agence sanitaire et sociale de la Nouvelle-Calédonie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Agence sanitaire et sociale"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Agence sanitaire et sociale de la Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du Général Gallieni",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Ressources Humaines"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Gestionnaire des ressources humaines",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1503",
+      "name": "Assistance en ressources humaines"
+    }
+  },
+  "responsibilities": [
+    "La constitution et la gestion du fichier personnel",
+    "La gestion individuelle du personnel de l'agence",
+    "La rémunération du personnel (préparer et suivre le calcul de l'exécution de la paie, des charges sociales et accessoires de paie, frais de déplacements de missions)",
+    "L'information et le conseil au personnel et aux encadrants",
+    "La gestion administrative des recrutements",
+    "La rédaction des actes administratifs liés à la carrière",
+    "La participation au suivi de l'exécution budgétaire de la masse salariale",
+    "Le suivi des effectifs dans un objectif de garantie de fiabilité",
+    "La collecte des données pour le plan social",
+    "Le suivi de la mise en œuvre du plan de formation",
+    "Travail en binôme pour la continuité du service",
+    "Ponctuellement en cas d'absence du secrétariat : l'accueil et l'information du public, l'accueil téléphonique, l'enregistrement des courriers"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Gestion des salaires et des charges sociales",
+    "Effectuer des recherches statutaires",
+    "Maîtriser les outils bureautiques (Word, Excel)",
+    "Connaissance requise du logiciel de paie et de gestion (Tiarhé) et de comptabilité (SURFI)",
+    "Mettre en œuvre la législation statutaire et juridique",
+    "Appliquer des statuts et des règles internes de fonctionnement",
+    "Élaborer les actes administratifs (positions, promotions, cessations de fonction, contrats, etc.)",
+    "Contribuer à la mise en œuvre des procédures collectives (notations, évaluations)",
+    "Aptitude au travail en équipe",
+    "Disponibilité",
+    "Discrétion",
+    "Qualités relationnelles",
+    "Sens de l'organisation",
+    "Rigueur et réactivité",
+    "Prise d'initiative"
+  ],
+  "specialCommitments": null,
+  "title": "Gestionnaire des ressources humaines",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-23",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "ASS-NC",
+  "collectivite": "Agence sanitaire et sociale",
+  "direction": "AGENCE SANITAIRE ET SOCIALE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Ressources Humaines",
+  "famille_source": "respnc",
+  "famille_score": 0.974,
+  "dossier": "ressources-humaines"
+}
