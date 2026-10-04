@@ -18,7 +18,7 @@
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "inférieure à 3 ans"
+        "value": "Inférieure à 3 ans"
       },
       {
         "@type": "PropertyValue",
@@ -33,8 +33,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des UPASS, des centres médico-sociaux et des autres sites excentrés. Au sein du pôle santé et territoires de la DPASS, notamment au sein de l'unité provinciale d'actions sanitaire et sociale de Bourail (UPASS), le médecin généraliste retenu travaillera au sein d'une équipe pluridisciplinaire attachée à la synergie médico-sociale et aux démarches continues d'amélioration de la qualité et de l'évaluation des pratiques professionnelles.",
-  "disambiguatingDescription": "Poste de médecin généraliste au sein de l'UPASS de Bourail, rattaché à la DPASS de la Province Sud, avec une attention particulière portée à la prévention, à la promotion de la santé et aux priorités de santé publique.",
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des UPASS, des centres médico-sociaux et des autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales. Au sein du pôle santé et territoires de la DPASS, notamment au sein de l'unité provinciale d'actions sanitaire et sociale de Bourail (UPASS), le médecin généraliste retenu travaillera au sein d'une équipe pluridisciplinaire, attachée à la synergie médico-sociale et aux démarches continues d'amélioration de la qualité et de l'évaluation des pratiques professionnelles. Une attention particulière est portée à la prévention, à la promotion de la santé ainsi qu'aux différentes priorités de santé publique (protection maternelle et infantile (PMI), contraception, etc.).",
+  "disambiguatingDescription": "Poste de médecin généraliste à l'UPASS de Bourail au sein de la DPASS de la Province Sud, axé sur la médecine curative, préventive et les programmes de santé publique.",
   "identifier": "25-1768",
   "image": null,
   "mainEntityOfPage": null,
@@ -50,7 +50,18 @@
   "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "UPASS de Bourail",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Bourail",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "20.46.59",
@@ -64,15 +75,11 @@
     "competencyRequired": [
       "Titulaire d'un diplôme de médecin ou de spécialiste en médecine générale ou en médecine d'urgence",
       "Titulaire d'un diplôme d'épidémiologie et/ou de santé publique",
-      "Connaissances de la charte d'Ottawa",
-      "Connaissances en obstétrique",
-      "Connaissances en pédiatrie",
-      "Connaissances en santé publique (protection maternelle et infantile, médecine scolaire, contraception-IVG dépistage et traitement des IST, etc.)",
-      "Notions du logiciel de gestion de données médicales (ASCLEPIOS)"
+      "Connaissances de la charte d'Ottawa"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -135,8 +142,12 @@
   "sensoryRequirement": null,
   "skills": [
     "Gestion des urgences",
-    "Gestion de programmes de prévention et de promotion de la santé",
+    "Gestion de programmes de prévention et de promotion de la santé au sens de la charte d'Ottawa",
     "Capacité à mener des projets de santé communautaire",
+    "Connaissances en obstétrique",
+    "Connaissances en pédiatrie",
+    "Connaissances en santé publique (protection maternelle et infantile, médecine scolaire, contraception-IVG dépistage et traitement des IST, etc.)",
+    "Notions du logiciel de gestion de données médicales (ASCLEPIOS)",
     "Réelles capacités relationnelles et d'accueil",
     "Grande motivation professionnelle",
     "Envie d'entreprendre et d'innover",
@@ -146,11 +157,11 @@
     "Force de propositions",
     "Ouverture d'esprit"
   ],
-  "specialCommitments": "Périodes d'astreintes, horaires de nuit et de week-end pour assurer la continuité des soins.",
+  "specialCommitments": "Périodes d'astreintes",
   "title": "Médecin à l'UPASS de Bourail",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-30",
-  "workHours": "Horaires pour permettre la continuité des soins de semaine, de nuit et de week-end",
+  "workHours": "Horaires pour permettre la continuité des soins de semaine, de nuit et de weekend",
   "champs_open_data": 7,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
