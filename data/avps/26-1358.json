@@ -2,26 +2,34 @@
   "additionalType": {
     "corpsDomaine": "Attaché / professeur des écoles",
     "direction": "PROVINCE SUD",
-    "uniteOrganisationnelle": "Bureau de la vie scolaire et de l’action éducative (BVSAE)",
+    "uniteOrganisationnelle": "Bureau de la vie scolaire et de l’action éducative",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Responsable du BVSAE",
-    "placeOrganigramme": "Sous l’autorité de la responsable du BVSAE",
+    "placeOrganigramme": "Rattachée au pôle développement et épanouissement de la personne, au sein du service de l’action éducative et de la proximité (SAEP)",
     "relationsFonctionnelles": [
       "Services administratifs de la DERES",
-      "Directeurs des écoles primaires publiques de la province Sud",
+      "Directeurs des écoles primaires publiques de la province sud",
+      "Équipes enseignantes",
       "Structures éducatives et culturelles territoriales",
-      "Partenaires institutionnels et associatifs"
+      "Musées",
+      "Centre culturel Tjibaou",
+      "Conservatoire",
+      "Compagnies artistiques",
+      "Médiathèques",
+      "Associations",
+      "Partenaires institutionnels et associatifs",
+      "Cellule communication"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Le poste est soumis au rythme \"administratif\" des congés annuels et devra s’adapter à la saisonnalité des pics d’activité du service, notamment en juillet/août et en janvier/février. En fonction des nécessités de service, l’agent sera amené à venir en soutien sur l’ensemble des missions de la DERES."
+        "value": "Le poste est soumis au rythme administratif des congés annuels et devra s’adapter à la saisonnalité des pics d’activité du service, notamment en juillet/août et en janvier/février. En fonction des nécessités de service, l’agent sera amené à venir en soutien sur l’ensemble des missions de la DERES."
       },
       {
         "@type": "PropertyValue",
-        "name": "Durée de la mission",
-        "value": "Mission d'un an renouvelable"
+        "name": "Corps ou Cadre d'emploi alternatif",
+        "value": "Professeur des écoles ou instituteur"
       },
       {
         "@type": "PropertyValue",
@@ -30,9 +38,9 @@
       }
     ]
   },
-  "alternateName": null,
-  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l’éducation et de la réussite scolaire de la province Sud (DERES) a pour mission de garantir l’épanouissement de la jeunesse plurielle dans un environnement éducatif propice à la réussite quel que soit le niveau du système scolaire et de favoriser le bien-être de ses personnels. Au sein du service de l’action éducative et de la proximité (SAEP), le bureau de la vie scolaire et de l’action éducative (BVSAE) est chargé principalement du pilotage des actions éducatives, de garantir un lien de proximité avec les écoles, de la scolarisation des élèves à besoins particuliers, des inscriptions scolaires et de la gestion prévisionnelle des effectifs.",
-  "disambiguatingDescription": "Chargé de projets vie scolaire et actions éducatives au sein de la DERES de la Province Sud pour une mission d'un an renouvelable.",
+  "alternateName": "Chargé de projets vie scolaire et actions éducatives",
+  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l’éducation et de la réussite scolaire de la province Sud (DERES) a pour mission de garantir l’épanouissement de la jeunesse plurielle dans un environnement éducatif propice à la réussite quel que soit le niveau du système scolaire et de favoriser le bien-être de ses personnels. Au sein du service de l’action éducative et de la proximité (SAEP), le bureau de la vie scolaire et de l’action éducative (BVSAE) est chargé principalement du pilotage des actions éducatives, de garantir un lien de proximité, de la scolarisation des élèves à besoins particuliers, des inscriptions scolaires et de mener des réflexions pour élaborer des solutions concrètes.",
+  "disambiguatingDescription": "Mission d'un an renouvelable de chargé de projets vie scolaire et actions éducatives au sein de la DERES de la Province Sud.",
   "identifier": "26-1358",
   "image": null,
   "mainEntityOfPage": null,
@@ -52,7 +60,7 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "20.49.15",
-    "email": "anne.clement@province-sud.nc"
+    "email": "drh.candidatures@province-sud.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-09-11",
@@ -73,8 +81,8 @@
   "employmentType": "TEMPORARY",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
+    "name": "Bureau de la vie scolaire et de l’action éducative (BVSAE)",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
@@ -88,7 +96,7 @@
   "incentiveCompensation": null,
   "industry": "Éducation",
   "jobBenefits": null,
-  "jobDuration": "1 an",
+  "jobDuration": "Mission d'un an renouvelable",
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
@@ -107,11 +115,10 @@
   "jobStartDate": "2027-01-15",
   "occupationalCategory": [
     "Education",
-    "Animation",
-    "Culture"
+    "Administration générale"
   ],
   "physicalRequirement": null,
-  "qualifications": "Être titulaire du permis B",
+  "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Chargé de projets vie scolaire et actions éducatives",
@@ -127,14 +134,14 @@
     "Coordonner les interventions des différents acteurs en milieu scolaire (accueil, organisation, suivi)",
     "Veiller à la cohérence des actions avec le projet d'école et le cadre réglementaire provincial",
     "Organiser des temps de sensibilisation et d'accompagnement à destination des directeurs d’école et des enseignants sur les thématiques prioritaires définies dans le cadre de politique éducative provinciale",
-    "Faciliter le partage d’expériences entre personnels (mutualisation des pratiques, journées thématiques…)",
+    "Faciliter le partage d’expériences entre personnels (mutualisation des pratiques, journées thématiques...)",
     "Accompagner les équipes dans la valorisation de leurs projets auprès des familles et de la communauté éducative",
     "Concevoir et formaliser des partenariats avec les structures éducatives et culturelles territoriales (musées, centre culturel Tjibaou, conservatoire, compagnies artistiques, médiathèques, associations...)",
-    "Construire et animer un réseau de partenaires institutionnels et associatifs",
+    "Construire et d'animer un réseau de partenaires institutionnels et associatifs",
     "Assurer une veille sur les dispositifs appels à projets et ressources culturelles mobilisables",
-    "Assurer le suivi administratif des actions menées (conventions, bilans…)",
+    "Assurer le suivi administratif des actions menées (conventions, bilans...)",
     "Produire les outils de suivi et bilans",
-    "Contribuer à la communication institutionnelle sur les actions éducatives (ENT, Cellule com…)"
+    "Contribuer à la communication institutionnelle sur les actions éducatives (ENT, Cellule com...)"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
@@ -143,7 +150,7 @@
     "Capacité à travailler en équipe, à mobiliser et à consolider des partenariats",
     "Capacité à animer des réunions et des groupes de travail",
     "Forte appétence à l’usage de nouveaux outils informatiques",
-    "Qualité rédactionnelle (notes de synthèse, rapports…)",
+    "Qualité rédactionnelle (notes de synthèse, rapports...)",
     "Aptitude à collecter et à analyser des données",
     "Capacité d’écoute et de dialogue avec des interlocuteurs variés",
     "Sens de l’initiative et autonomie dans l’organisation du travail",
@@ -155,7 +162,7 @@
   "title": "Chargé de projets vie scolaire et actions éducatives -  Mission d'un an renouvelable",
   "totalJobOpenings": 4,
   "validThrough": "2026-10-16",
-  "workHours": "Rythme administratif",
+  "workHours": "Soumis au rythme administratif des congés annuels",
   "champs_open_data": 9,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
