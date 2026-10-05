@@ -4,22 +4,28 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": "Bureau de Proximité de Soins",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef de bureau de proximité des soins",
+    "superieurHierarchique": "Chef du bureau de proximité des soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Médecin d'un Centre Médico-Social",
-      "Équipe pluridisciplinaire en établissement médico-social"
+      "Téléconsultation",
+      "Équipe pluridisciplinaire"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "au moins égale à 5 ans"
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Poste soumis à astreintes. L'IPA exerce au sein d'une équipe pluridisciplinaire en établissement médico-social coordonnée par un médecin d'un Centre Médico-Social (CMS) ou de Téléconsultation (TLC) de la Province Nord. La personne serait essentiellement mobilisée sur la zone de Canala-Kouaoua."
       },
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Poste soumis à astreintes. L'IPA exerce au sein d'une équipe pluridisciplinaire en établissement médico-social coordonnée par un médecin d'un Centre Médico-Social (CMS) ou de Téléconsultation (TLC) de la Province Nord. La personne serait essentiellement mobilisée sur la zone de Canala-Kouaoua. Prévoir une assurance professionnelle responsabilité civile IPA spécifique."
+        "name": "Textes de référence",
+        "value": "Délibération n°476 du 28 avril 2025, Arrêté n°2023-2079/GNC du 09.08.2023, LOI n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé, Décret n° 2018-629 du 18 juillet 2018 relatif à l'exercice infirmier en pratique avancée, Loi du pays n° 2023-5 du 26 mai 2023, Délibération n° 119/CP du 26 juin 2023, Arrêté n° 2023-2079/GNC du 9 août 2023"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Assurance requise",
+        "value": "Prévoir une assurance professionnelle responsabilité civile IPA spécifique."
       },
       {
         "@type": "PropertyValue",
@@ -28,9 +34,9 @@
       }
     ]
   },
-  "alternateName": null,
+  "alternateName": "IPA",
   "description": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
-  "disambiguatingDescription": "Infirmier en pratique avancée pour le Secteur Sud minier, basé à Canala, avec une mobilisation sur la zone de Canala-Kouaoua.",
+  "disambiguatingDescription": "Infirmier en pratique avancée pour le Secteur Sud minier, mobilisé sur la zone de Canala-Kouaoua.",
   "identifier": "26-1359",
   "image": null,
   "mainEntityOfPage": null,
@@ -47,12 +53,12 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "LandmarksOrHistoricalBuildings",
-    "name": "Hôtel de la province Nord",
+    "@type": "Area",
+    "name": "Province Nord",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "41 avenue Jimmy Welepane",
-      "addressLocality": "Koné",
+      "streetAddress": null,
+      "addressLocality": "Canala",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
       "province": "province Nord"
@@ -76,30 +82,30 @@
     ]
   },
   "eligibilityToWorkRequirement": "au moins égale a 5 ans",
-  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité (DASSPS) comprend 249 agents, organisée en 4 pôles, 8 services et 14 bureaux.",
+  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles, 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Bureau de Proximité de Soins",
-    "url": null,
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Justifier de trois années minimales d'exercice en équivalent temps plein de la profession d'infirmier.",
+  "experienceRequirements": "Justifier de trois années minimales d'exercice en équivalent temps plein de la profession d'infirmier",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique soins",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Centre Médico-Social",
+    "name": "Secteur Sud minier",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -123,11 +129,10 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Soins d'infirmier généralistes"
+      "name": "Coordination de services médicaux ou paramédicaux"
     }
   },
   "responsibilities": [
-    "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
     "Prise en charge et suivi des patients atteints de pathologies chroniques selon le domaine d'intervention défini et sous la coordination du médecin",
     "Prescription de renouvellement de traitement chronique, de traitement selon les listes autorisées, de vaccins, de bilans complémentaires",
     "Rédaction de courriers médicaux et comptes rendus",
@@ -160,7 +165,7 @@
   "title": "INFIRMIER EN PRATIQUE AVANCÉE - Secteur Sud minier",
   "totalJobOpenings": 5,
   "validThrough": "2026-10-09",
-  "workHours": "Astreintes",
+  "workHours": "Poste soumis à astreintes",
   "champs_open_data": 9,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
