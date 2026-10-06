@@ -8,9 +8,7 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Secrétariat général",
-      "Exécutif",
-      "Administration municipale",
-      "Services de la commune"
+      "Services de la collectivité"
     ],
     "informationsLibres": [
       {
@@ -20,24 +18,14 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Date de clôture initialement prévue",
-        "value": "02/10/2026"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Report de date de clôture",
-        "value": "La date de clôture initialement prévue au 02/10/2026 a été reportée"
-      },
-      {
-        "@type": "PropertyValue",
         "name": "Fiche d'emploi générique RESPNC",
         "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952006.PDF"
       }
     ]
   },
   "alternateName": null,
-  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune. Le secrétariat général assure l'interface privilégiée entre l'exécutif et l'administration municipale. En charge du pilotage administratif de la commune, il est le garant du contrôle de la bonne exécution des décisions de l'exécutif par les services. Le secrétariat général comprend 9 agents placés sous l'autorité du secrétaire général dont une section administrative et comptable.",
-  "disambiguatingDescription": null,
+  "description": "Le secrétariat général assure l'interface privilégiée entre l'exécutif et l'administration municipale. En charge du pilotage administratif de la commune, il est le garant du contrôle de la bonne exécution des décisions de l'exécutif par les services. Le secrétariat général comprend 9 agents placés sous l'autorité du secrétaire général dont une section administrative et comptable.",
+  "disambiguatingDescription": "Gestion administrative et comptable de la section, soutien direct et indispensable à l'action du secrétariat général en optimisant la gestion et la coordination administrative des dossiers.",
   "identifier": "26-1354",
   "image": null,
   "mainEntityOfPage": null,
@@ -69,11 +57,11 @@
       "Maîtrise des techniques de communication écrites et orales",
       "Maîtrise des outils bureautiques et informatiques",
       "Connaissance des règles budgétaires et comptables de la comptabilité publique",
-      "Connaissance de la réglementation des marchés publics"
+      "Réglementation des marchés publics"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils oeuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -124,8 +112,6 @@
     }
   },
   "responsibilities": [
-    "Assurer la gestion administrative et comptable de la section",
-    "Apporter un soutien direct et indispensable à l'action du secrétariat général en optimisant la gestion et la coordination administrative des dossiers",
     "Encadrer l'activité de la section composée d'un assistant administratif et comptable (catégorie C)",
     "Saisir, mettre à jour et/ou sauvegarder les données, les informations et les tableaux dans son domaine",
     "Prendre des notes et mettre en forme tous types de courriers ou documents",
@@ -154,7 +140,7 @@
   "specialCommitments": null,
   "title": "1 chef de section administrative et comptable",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-02",
+  "validThrough": "2026-10-16",
   "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
