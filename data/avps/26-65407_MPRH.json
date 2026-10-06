@@ -15,8 +15,8 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Titulaire du permis de conduire B."
+        "name": "Unité d'affectation spécifique",
+        "value": "UPAD"
       },
       {
         "@type": "PropertyValue",
@@ -57,7 +57,7 @@
   },
   "alternateName": null,
   "description": "Sous l'autorité du chef de service, le chef de service éducatif assure l'encadrement, l'animation et la coordination de l'équipe pluridisciplinaire de l'UPAD. Il veille à la mise en œuvre des missions de protection judiciaire de l'enfance et de la jeunesse, dans le respect des décisions judiciaires et des orientations institutionnelles.",
-  "disambiguatingDescription": "Sous l'autorité du chef de service, le chef de service éducatif assure l'encadrement, l'animation et la coordination de l'équipe pluridisciplinaire de l'UPAD. Il veille à la mise en œuvre des missions de protection judiciaire de l'enfance et de la jeunesse, dans le respect des décisions judiciaires et des orientations institutionnelles.",
+  "disambiguatingDescription": null,
   "identifier": "26-65407/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -129,7 +129,7 @@
     "Action sociale"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis de conduire B",
+  "qualifications": "Titulaire du permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Responsable socio éducatif",
@@ -169,7 +169,7 @@
   "specialCommitments": "- Titulaire du permis de conduire B.",
   "title": "Chef de service éducatif - UPAD",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-02",
+  "validThrough": "2026-10-09",
   "workHours": null,
   "champs_open_data": 29,
   "employeur_sigle": "DPJEJ",
