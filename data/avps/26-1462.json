@@ -9,13 +9,18 @@
     "relationsFonctionnelles": [
       "Usagers",
       "Fournisseurs",
-      "Services de la DAJAP"
+      "Services de la direction"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sans concours",
-        "value": "Au moins égale à 10 ans"
+        "name": "Cadre d'emploi",
+        "value": "Rédacteur du CAG - catégorie B"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
       },
       {
         "@type": "PropertyValue",
@@ -26,7 +31,7 @@
   },
   "alternateName": null,
   "description": "La DAJAP est une direction fonctionnelle qui intervient dans les domaines suivants : activité juridique, coordination administrative, activité institutionnelle, gestion des moyens, gestion du domaine, gestion du patrimoine et gestion des archives. Elle compte 38 postes répartis notamment dans 4 services et 4 bureaux. Dans un contexte budgétaire contraint et face aux enjeux des services de la DAJAP, le BAF est un véritable appui au management stratégique. Il contribue à la fiabilité de la gestion budgétaire, à l'optimisation des ressources et à la mise en œuvre des procédures internes, dans un esprit de transversalité et de pédagogie auprès des services.",
-  "disambiguatingDescription": "Poste de gestionnaire comptable au sein de la DAJAP de la Province Nord à Koné.",
+  "disambiguatingDescription": "Placée sous l'autorité du responsable du bureau, le comptable assure le traitement comptable et le contrôle de l'exécution des dépenses et des recettes de la direction. Il assure la relation avec les usagers, les fournisseurs et les services.",
   "identifier": "26-1462",
   "image": null,
   "mainEntityOfPage": null,
@@ -42,18 +47,7 @@
   "url": "https://www.province-nord.nc/avp",
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "Hôtel de la province Nord",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "41 avenue Jimmy Welepane",
-      "addressLocality": "Koné",
-      "addressRegion": "Province Nord",
-      "addressCountry": "NC",
-      "province": "province Nord"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.67",
@@ -63,7 +57,7 @@
   "datePosted": "2026-10-02",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Catégorie C",
+    "credentialCategory": "Catégorie B",
     "competencyRequired": [
       "Comptabilité publique",
       "Réglementation des marchés publics",
@@ -71,13 +65,13 @@
       "Notions de droit civil, administratif et public"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs : au moins égale à 10 ans",
-  "employerOverview": "La DAJAP est une direction fonctionnelle qui intervient dans les domaines d'activité juridique, coordination administrative, activité institutionnelle, gestion des moyens, gestion du domaine, gestion du patrimoine et gestion des archives.",
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Bureau d'appui fonctionnel",
-    "url": null,
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
     "logo": null
   },
   "estimatedSalary": null,
@@ -123,8 +117,6 @@
     }
   },
   "responsibilities": [
-    "Assurer le traitement comptable et le contrôle de l'exécution des dépenses et des recettes de la direction",
-    "Assurer la relation avec les usagers, les fournisseurs et les services",
     "Réception, vérification et classement des pièces comptables",
     "Gestion des engagements, des mandatements et des titres de recettes",
     "Gestion des relations avec les tiers et mise à jour des bases de données",
@@ -143,11 +135,11 @@
     "Méthode et sens de l'organisation",
     "Bon relationnel"
   ],
-  "specialCommitments": "Disponibilité notamment en décembre et janvier (période de clôture budgétaire)",
+  "specialCommitments": "Charge de travail importante en période de clôture budgétaire (disponibilité notamment en décembre et janvier)",
   "title": "Comptable à Koné",
   "totalJobOpenings": 38,
   "validThrough": "2026-10-23",
-  "workHours": "Charge de travail importante en période de clôture budgétaire",
+  "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
