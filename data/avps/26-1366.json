@@ -2,10 +2,10 @@
   "additionalType": {
     "corpsDomaine": "Attaché d'administration générale",
     "direction": "DE LA POLICE MUNICIPALE",
-    "uniteOrganisationnelle": null,
+    "uniteOrganisationnelle": "Hôtel de police",
     "nbAgentsEncadres": 222,
     "superieurHierarchique": "Secrétaire général chargé du pôle sécurité",
-    "placeOrganigramme": "Sous l'autorité directe du Secrétaire général chargé du pôle sécurité",
+    "placeOrganigramme": "Sous la responsabilité directe du Secrétaire général",
     "relationsFonctionnelles": [
       "Secrétariat général",
       "Élus",
@@ -15,13 +15,13 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": null
+        "name": "Date de clôture reportée",
+        "value": "La date de clôture initialement prévue au 02/10/2026 a été reportée"
       },
       {
         "@type": "PropertyValue",
-        "name": "Date de clôture initialement prévue",
-        "value": "02/10/2026 (reportée)"
+        "name": "Catégorie de fonctionnaire",
+        "value": "Catégorie A"
       },
       {
         "@type": "PropertyValue",
@@ -31,8 +31,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune. Placée sous l'autorité directe du Secrétaire général chargé du pôle sécurité, la direction de la police municipale a pour mission générale d'assurer, en tout temps et sur l'ensemble du territoire communal, le bon ordre, la sûreté, la sécurité et la salubrité publique. Elle agit également dans le cadre de ses compétences judiciaires, sous le contrôle du procureur de la République, dans la lutte contre la délinquance et l'insécurité routière. La direction de la police municipale comprend le pôle opérationnel qui est composé de cinq unités, une de coordination, quatre de voie publique et le service coordination administrative et financière.",
-  "disambiguatingDescription": "Recrutement d'un directeur de police municipale pour la Ville de Nouméa afin de définir la stratégie de la direction en matière de prévention et de sécurité, et d'assurer le pilotage et la coordination de 222 agents.",
+  "description": "La direction de la police municipale a pour mission générale d'assurer, en tout temps et sur l'ensemble du territoire communal, le bon ordre, la sûreté, la sécurité et la salubrité publique. Elle agit également dans le cadre de ses compétences judiciaires, sous le contrôle du procureur de la République, dans la lutte contre la délinquance et l'insécurité routière. La direction de la police municipale comprend le pôle opérationnel qui est composé de cinq unités, une de coordination, quatre de voie publique et le service coordination administrative et financière.",
+  "disambiguatingDescription": "Directeur de police municipale chargé de définir la stratégie en matière de prévention et de sécurité, et de piloter le pôle opérationnel ainsi que le service coordination administrative et financière.",
   "identifier": "26-1366",
   "image": null,
   "mainEntityOfPage": null,
@@ -59,7 +59,6 @@
   "educationRequirements": {
     "credentialCategory": "Bac+3",
     "competencyRequired": [
-      "Fonctionnaire de catégorie A et/ou titulaire d'un diplôme de niveau 6 (Bac+3) minimum exigé",
       "Connaissance de l'environnement territorial, les enjeux, les évolutions et le cadre réglementaire des politiques publiques de sécurité",
       "Connaissance du cadre réglementaire en vigueur dans le domaine (droit pénal et administratif, cadre réglementaire de la vidéoprotection, droits et obligations des fonctionnaires dépositaires de l'autorité publique, doctrine d'emploi de la police municipale, etc.)"
     ]
@@ -75,13 +74,13 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": true,
-  "experienceRequirements": "Expérience professionnelle significative sur un poste de direction en service de police exigée à défaut de diplôme.",
+  "experienceRequirements": "Expérience professionnelle significative sur un poste de direction en service de police.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
-  "industry": "Service public",
+  "industry": "Prévention et sécurité",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -101,8 +100,7 @@
   "jobLocationType": null,
   "jobStartDate": "Dès que possible",
   "occupationalCategory": [
-    "Prévention et sécurité",
-    "Pilotage"
+    "Prévention et sécurité"
   ],
   "physicalRequirement": null,
   "qualifications": null,
@@ -131,7 +129,7 @@
   "sensoryRequirement": null,
   "skills": [
     "Qualités relationnelles et managériales éprouvées permettant de s'adapter dans un environnement multiculturel",
-    "Leadership affirmé : justifier d'une très bonne aptitude au commandement et à la communication",
+    "Leadership affirmé : très bonne aptitude au commandement et à la communication",
     "Pilotage et conduite de projets transversaux et/ou participatifs en maîtrisant les méthodes d'analyses et de diagnostics",
     "Bonnes capacités rédactionnelles",
     "Sens de la communication, concertation et négociation",
@@ -142,8 +140,8 @@
   "specialCommitments": "Très grande disponibilité",
   "title": "1 directeur de police municipale",
   "totalJobOpenings": 5,
-  "validThrough": "2026-10-02",
-  "workHours": "Très grande disponibilité",
+  "validThrough": "2026-10-16",
+  "workHours": null,
   "champs_open_data": 8,
   "employeur_sigle": "VILLE-DE-NOUMEA",
   "collectivite": "Ville de Nouméa",
