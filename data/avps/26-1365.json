@@ -4,10 +4,10 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": "Internat de Canala",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Directeur d’internat",
-    "placeOrganigramme": "Placé sous l’autorité du directeur d’internat",
+    "superieurHierarchique": "Directeur d'internat",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Directeur d’internat",
+      "Directeur d'internat",
       "Personnel de cuisine",
       "Élèves",
       "Livreurs"
@@ -32,7 +32,7 @@
   },
   "alternateName": null,
   "description": "La direction de l’enseignement, de la formation, de l’insertion et de la jeunesse de la province Nord compte environ 564 agents. Elle emploi notamment l’ensemble des enseignants du premier degré public (338 enseignants pour 48 écoles), l’ensemble des personnels d’internats provinciaux (168 agents pour 7 internats) et environ 58 agents chargés de l’administration basés à l’hôtel de la province Nord et au centre de formation de Touho. La DEFIJ est chargée d’appliquer les orientations politiques de la province Nord en matière d’enseignement, de formation et d’insertion.",
-  "disambiguatingDescription": "Recrutement d'un chef cuisinier pour l'internat de Canala au sein de la DEFIJ de la Province Nord.",
+  "disambiguatingDescription": "Recrutement d'un chef cuisinier pour l'Internat de Canala au sein de la DEFIJ de la Province Nord.",
   "identifier": "26-1365",
   "image": null,
   "mainEntityOfPage": null,
@@ -58,7 +58,7 @@
   "datePosted": "2026-09-11",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Bac Pro",
+    "credentialCategory": "Bac Pro Cuisine",
     "competencyRequired": [
       "Bac Pro Cuisine ou formation attestant d’une expertise en production culinaire",
       "Management des équipes et hygiène HACCP",
@@ -72,7 +72,7 @@
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La direction de l’enseignement, de la formation, de l’insertion et de la jeunesse de la province Nord compte environ 564 agents. La DEFIJ est chargée d’appliquer les orientations politiques de la province Nord en matière d’enseignement, de formation et d’insertion.",
+  "employerOverview": "La direction de l’enseignement, de la formation, de l’insertion et de la jeunesse de la province Nord compte environ 564 agents. Elle emploi notamment l’ensemble des enseignants du premier degré public, l’ensemble des personnels d’internats provinciaux et environ 58 agents chargés de l’administration.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -82,7 +82,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": true,
-  "experienceRequirements": "Formation attestant d’une expertise en production culinaire ou Bac Pro Cuisine.",
+  "experienceRequirements": "Formation attestant d’une expertise en production culinaire acceptée en équivalence du Bac Pro Cuisine.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
@@ -111,7 +111,7 @@
   "occupationalCategory": [
     "Restauration collective / hôtellerie"
   ],
-  "physicalRequirement": "Station debout, port de lourdes charges",
+  "physicalRequirement": "Station debout, port de lourdes charges, milieu bruyant.",
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
@@ -140,7 +140,7 @@
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
-  "sensoryRequirement": "Milieu bruyant",
+  "sensoryRequirement": null,
   "skills": [
     "Planifier et répartir l'activité de l'équipe",
     "Prendre la parole en public et conduire des réunions",
@@ -154,17 +154,26 @@
     "Prendre des décisions et les assumer (courage managérial, exemplarité)",
     "S’adapter devant des situations critiques",
     "Sens du service public et des responsabilités",
-    "Ponctualité, assiduité, rigueur et grande disponibilité",
+    "Ponctualité, assiduité, rigueur et grande disponibilité avec des horaires liés à la vie de l’internat",
+    "Rigueur, efficacité et autonomie",
     "Esprit d’initiative, sens de l’organisation et de l’anticipation",
+    "Disponibilité",
+    "Sens de l’écoute et de la communication",
     "Respect de la confidentialité",
+    "Capacité d’adaptation",
     "Savoir gérer la pression et le stress",
-    "Sens du travail en équipe"
+    "Capacités relationnelles, respect de la hiérarchie",
+    "Sens du travail en équipe",
+    "Capacité à rendre compte",
+    "Polyvalence",
+    "Force de proposition",
+    "Souci de la qualité"
   ],
   "specialCommitments": "Horaires liés à la vie de l'internat",
   "title": "Chef cuisinier-  Internat de Canala",
   "totalJobOpenings": 4,
-  "validThrough": "2026-10-02",
-  "workHours": "Horaires liés à la vie de l’internat",
+  "validThrough": "2026-10-09",
+  "workHours": "Horaires liés à la vie de l'internat",
   "champs_open_data": 9,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
