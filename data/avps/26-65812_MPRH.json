@@ -5,22 +5,25 @@
     "uniteOrganisationnelle": "Service de la protection sociale",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef du service de la protection sociale",
-    "placeOrganigramme": null,
+    "placeOrganigramme": "Placé(e) sous l'autorité directe du chef du service de la protection sociale",
     "relationsFonctionnelles": [
-      "Nouvelle-Calédonie",
       "Agence Sanitaire et Sociale (ASS)",
-      "Organismes de protection sociale",
-      "CAFAT",
-      "Établissements de santé",
-      "Établissements médico-sociaux",
-      "Conseil du Handicap et de la Dépendance (CHD)",
-      "Commission Médicale des Permis de Conduire (CMPC)"
+      "Organismes de protection sociale (notamment la CAFAT)",
+      "Établissements de santé, médico-sociaux",
+      "Établissements hospitaliers du territoire",
+      "Professionnels de santé",
+      "Fournisseurs de biens, de prestations et de matériels médicaux"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Poste à pourvoir",
         "value": "Vacant à partir du 04/01/2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Modification de la date de clôture",
+        "value": "Initialement prévue le 09/10/2026"
       },
       {
         "@type": "PropertyValue",
@@ -61,15 +64,14 @@
   },
   "alternateName": null,
   "description": "Placé(e) sous l'autorité directe du chef du service de la protection sociale, l'agent a pour missions principales d'organiser, de gérer, d'animer et de piloter le bureau.\nLe poste s'inscrit dans un contexte de réforme structurelle majeure du modèle calédonien de protection sociale. En tant que responsable, vous piloterez des travaux d'analyse et de modélisation stratégique qui nourriront directement les orientations politiques du gouvernement. Votre objectif principal sera d'éclairer les décisions publiques afin d'encadrer, d'optimiser et de maîtriser l'évolution des dépenses des différents régimes sociaux, dans une constante perspective d'efficience et de pérennité du système.",
-  "disambiguatingDescription": "Responsable du bureau de la performance du système de protection sociale au sein de la DASS.",
+  "disambiguatingDescription": "Responsable du bureau de la performance du système de protection sociale au sein de la DASS",
   "identifier": "26-65812/MPRH",
   "image": null,
   "mainEntityOfPage": null,
   "name": "Responsable du bureau de la performance du système de protection sociale",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -101,7 +103,7 @@
   "employerOverview": "La direction des affaires sanitaires et sociales de la Nouvelle-Calédonie est une direction technique essentielle du gouvernement. Elle est chargée de concevoir, de planifier et de mettre en œuvre la politique publique de la Nouvelle-Calédonie dans les domaines fondamentaux de la santé publique et de la protection sociale. \nPour accomplir ses missions, la DASS s'appuie sur :\n- Un service « administration et support » (ressources humaines, budget, moyens généraux) ;\n- Quatre services « métiers » spécialisés, dont le Service de la Protection Sociale (SPS).\n\nLe service de la protection sociale assure un rôle stratégique et opérationnel de premier plan. Il est chargé de :\n- Concevoir et mettre en œuvre les politiques de protection sociale du territoire ;\n- Veiller à la performance globale et à la viabilité financière du système de protection sociale ;\n- Organiser, réguler et contrôler l'offre de soins ainsi que l'offre sociale et médico-sociale ;\n- Assurer le secrétariat d'instances clés, notamment le Conseil du Handicap et de la Dépendance (CHD) et la Commission Médicale des Permis de Conduire (CMPC).",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
+    "@type": "OrganizationalUnit",
     "name": "Service de la protection sociale",
     "url": null,
     "logo": null
@@ -111,12 +113,11 @@
   "experienceRequirements": "Expérience professionnelle dans le secteur de la protection sociale et/ou de la gestion hospitalière/sanitaire/médico-sociale",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": "Informations salaire : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
+  "jobBenefits": "Informations salaire disponibles sur https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
   "jobDuration": null,
   "jobImmediateStart": false,
   "jobLocation": {
@@ -128,15 +129,16 @@
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud"
+      "province": "province Sud",
+      "postalCode": "98800"
     }
   },
   "jobLocationType": null,
   "jobStartDate": "2027-01-04",
   "occupationalCategory": [
+    "Politique de santé publique",
     "Finances et budget",
-    "Pilotage",
-    "Politique de santé publique"
+    "Administration générale"
   ],
   "physicalRequirement": null,
   "qualifications": null,
@@ -181,7 +183,7 @@
   "totalJobOpenings": 3,
   "validThrough": "2026-10-09",
   "workHours": null,
-  "champs_open_data": 29,
+  "champs_open_data": 30,
   "employeur_sigle": "DASS",
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
