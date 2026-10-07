@@ -8,9 +8,8 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "IDE du service de santé publique",
-      "Médecins de la direction",
-      "Chargé de communication de la direction",
-      "Professionnels médicaux de la direction"
+      "Autres médecins de la direction",
+      "Chargé de communication de la direction"
     ],
     "informationsLibres": [
       {
@@ -62,7 +61,7 @@
   },
   "alternateName": null,
   "description": "Le médecin de santé publique, en qualité de conseiller technique, intervient en expertise sur l'ensemble des thématiques  du service de santé publique. A ce titre, il a pour missions:\nau titre de la prévention et de la promotion de la santé : définition et participation à la rédaction des plans de santé; de cahiers des charges d'AAP, d'avis dans le cadre de l'instruction de projets, d'animation ou de co-animation des conférences de santé\ndans le champs propre des conseillers médicaux : participation aux processus de gestion formalisés et validés en matière de réglementation, d'EIG, d'EIAS, d'EIGS, inspections, contrôles,  gestion de crise, astreintes",
-  "disambiguatingDescription": "Conseiller médical Prévention, Promotion de la santé au sein du Service de la santé publique de la DASS.",
+  "disambiguatingDescription": null,
   "identifier": "26-63595/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -79,7 +78,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Schedule",
-    "name": "DASS",
+    "name": "Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -126,13 +125,13 @@
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
-  "jobImmediateStart": false,
+  "jobImmediateStart": null,
   "jobLocation": {
     "@type": "Place",
-    "name": "DASS",
+    "name": "Service de la santé publique",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
