@@ -7,16 +7,22 @@
     "superieurHierarchique": "Directeur et directeur adjoint",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Etablissements de santé",
+      "Autres services de la DASS",
+      "Établissements de santé",
       "Provinces",
       "Organismes de protection sociale",
-      "Etablissements et services sanitaires, sociaux et médico-sociaux"
+      "Établissements et services sanitaires, sociaux et médico-sociaux"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Astreintes",
-        "value": "Participer aux astreintes"
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Modification de la date de clôture",
+        "value": "Initialement prévue le 09/10/2026"
       },
       {
         "@type": "PropertyValue",
@@ -57,15 +63,14 @@
   },
   "alternateName": null,
   "description": "Sous l'autorité du directeur et du directeur adjoint, le chef de service de la protection sociale encadre l'ensemble des agents intervenant dans les domaines suivants :\n- l'inspection et le contrôle du respect de la réglementation sociale et médico-sociale ;\n- la planification et l'organisation de l'offre sociale et médico-sociale ;\n- le suivi du fonctionnement et de l'activité des établissements sociaux et médico-sociaux, en lien avec les établissements de santé et les provinces ;\n- la gestion des financements alloués aux établissements et services sanitaires, sociaux et médico-sociaux relevant de la compétence de la Nouvelle-Calédonie, ainsi que le suivi des comptes sociaux ;\n- la gestion de diverses commissions médico-administratives réglementaires (conseil du handicap et de la dépendance, commission médicale des permis de conduire).",
-  "disambiguatingDescription": "Chef du service de la protection sociale à la DASS de la Nouvelle-Calédonie",
+  "disambiguatingDescription": null,
   "identifier": "25-65752/MPRH",
   "image": null,
   "mainEntityOfPage": null,
   "name": "Chef du service de la protection sociale",
   "owner": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -98,18 +103,17 @@
   "employerOverview": "La direction des affaires sanitaires et sociales (DASS) de la Nouvelle-Calédonie est responsable de la mise en œuvre de la politique du territoire en matière de santé et de protection sociale, et assure par ailleurs le service public du handicap et de la dépendance. Elle est placée sous l'autorité d'un directeur, assisté d'un directeur adjoint qui le supplée en cas d'absence. Elle s'organise autour de cinq services : administration et support, offre et qualité des soins, santé publique, protection sociale, handicap et dépendance.\n\nLa direction couvre ainsi un champ très large, qui va de la régulation de l'offre de soins et de la santé publique -- dont relève notamment la veille épidémiologique -- au financement et à la performance du système de protection sociale, jusqu'à l'accompagnement social des personnes en situation de handicap ou de dépendance.\n\nLe service de la protection sociale est chargé de la conception et de la mise en œuvre des politiques de protection sociale, de la performance du système de protection sociale, de la régulation et du contrôle de l'offre sociale et médico-sociale.\nIl assure également le secrétariat du conseil du handicap et de la dépendance et de la commission médicale des permis de conduire.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
-    "name": "Service de la protection sociale",
+    "@type": "OrganizationalUnit",
+    "name": "Nouvelle-Calédonie",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience en méthodologie de projet, connaissance confirmée de l'organisation du domaine sanitaire et social, idéalement du contexte calédonien ou d'un territoire ultramarin/insulaire.",
+  "experienceRequirements": "Expérience en méthodologie de projet",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "logo": "https://avps.nc/logos/nouvelle-caledonie.png"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -118,21 +122,23 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "DASS",
+    "name": "Service de la protection sociale",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
-      "province": "province Sud"
+      "province": "province Sud",
+      "postalCode": "98800"
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiatement",
+  "jobStartDate": null,
   "occupationalCategory": [
     "Politique de santé publique",
-    "Administration générale"
+    "Administration générale",
+    "Action sociale"
   ],
   "physicalRequirement": null,
   "qualifications": null,
@@ -173,12 +179,12 @@
     "Savoir travailler en équipe et partager l'information",
     "Bon relationnel."
   ],
-  "specialCommitments": "Astreintes",
+  "specialCommitments": "Participer aux astreintes",
   "title": "Chef du service de la protection sociale",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-09",
   "workHours": null,
-  "champs_open_data": 26,
+  "champs_open_data": 27,
   "employeur_sigle": "DASS",
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
