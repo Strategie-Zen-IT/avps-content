@@ -5,7 +5,7 @@
     "uniteOrganisationnelle": "Internat de Canala",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Directeur d'internat",
-    "placeOrganigramme": null,
+    "placeOrganigramme": "Placé sous l'autorité du directeur d'internat",
     "relationsFonctionnelles": [
       "Directeur d'internat",
       "Personnel de cuisine",
@@ -20,19 +20,14 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Poste à pourvoir",
-        "value": "15/04/2027"
-      },
-      {
-        "@type": "PropertyValue",
         "name": "Fiche d'emploi générique RESPNC",
         "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12954716.PDF"
       }
     ]
   },
-  "alternateName": null,
+  "alternateName": "Chef cuisinier",
   "description": "La direction de l’enseignement, de la formation, de l’insertion et de la jeunesse de la province Nord compte environ 564 agents. Elle emploi notamment l’ensemble des enseignants du premier degré public (338 enseignants pour 48 écoles), l’ensemble des personnels d’internats provinciaux (168 agents pour 7 internats) et environ 58 agents chargés de l’administration basés à l’hôtel de la province Nord et au centre de formation de Touho. La DEFIJ est chargée d’appliquer les orientations politiques de la province Nord en matière d’enseignement, de formation et d’insertion.",
-  "disambiguatingDescription": "Recrutement d'un chef cuisinier pour l'Internat de Canala au sein de la DEFIJ de la Province Nord.",
+  "disambiguatingDescription": "Chef cuisinier pour l'Internat de Canala au sein de la DEFIJ de la Province Nord.",
   "identifier": "26-1365",
   "image": null,
   "mainEntityOfPage": null,
@@ -58,21 +53,21 @@
   "datePosted": "2026-09-11",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Bac Pro Cuisine",
+    "credentialCategory": "Bac Pro",
     "competencyRequired": [
       "Bac Pro Cuisine ou formation attestant d’une expertise en production culinaire",
-      "Management des équipes et hygiène HACCP",
-      "Conception des menus et techniques culinaires",
-      "Bonnes connaissances de la diététique",
-      "Maintenance et hygiène des locaux et des matériels",
-      "Respect et application des normes et procédures d’hygiène et de sécurité (HACCP)",
-      "Gestion de l’ensemble des approvisionnements, réception des marchandises, contrôle de la qualité des produits, des dates de péremption et du stockage",
+      "management des équipes et hygiène HACCP",
+      "conception des menus et techniques culinaires",
+      "bonnes connaissances de la diététique",
+      "maintenance et hygiène des locaux et des matériels",
+      "respect et application des normes et procédures d’hygiène et de sécurité (HACCP)",
+      "gestion de l’ensemble des approvisionnements, réception des marchandises, contrôle de la qualité des produits, des dates de péremption et du stockage",
       "Maîtrise Word et Excel pour rapports écrits et gestion des stocks",
-      "Notions de management"
+      "notions de management"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La direction de l’enseignement, de la formation, de l’insertion et de la jeunesse de la province Nord compte environ 564 agents. Elle emploi notamment l’ensemble des enseignants du premier degré public, l’ensemble des personnels d’internats provinciaux et environ 58 agents chargés de l’administration.",
+  "employerOverview": "La direction de l’enseignement, de la formation, de l’insertion et de la jeunesse de la province Nord compte environ 564 agents. Elle emploi notamment l’ensemble des enseignants du premier degré public (338 enseignants pour 48 écoles), l’ensemble des personnels d’internats provinciaux (168 agents pour 7 internats) et environ 58 agents chargés de l’administration basés à l’hôtel de la province Nord et au centre de formation de Touho. La DEFIJ est chargée d’appliquer les orientations politiques de la province Nord en matière d’enseignement, de formation et d’insertion.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -82,7 +77,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": true,
-  "experienceRequirements": "Formation attestant d’une expertise en production culinaire acceptée en équivalence du Bac Pro Cuisine.",
+  "experienceRequirements": "Formation attestant d'une expertise en production culinaire acceptée en équivalence du Bac Pro Cuisine.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
@@ -127,7 +122,7 @@
     "Participer aux missions de distribution et du service des repas, à l’entretien des locaux et des matériels de restauration",
     "Mettre en œuvre les actions favorisant le bien-être des élèves pendant les temps de repas",
     "Élaborer les menus en partenariat avec les acteurs concernés",
-    "Manager le personnel de cuisine, élaborer les plannings hebdomadaires et répartir les tâches",
+    "Gérer le management du personnel de cuisine, l’élaboration des plannings hebdomadaires et la répartition des tâches",
     "Définir les besoins quantitatifs et qualitatifs en matières premières, ustensiles et matériels",
     "Assurer la production culinaire",
     "Entretenir et nettoyer les ustensiles de cuisine (matériel de cuisson, de préparation, etc)",
