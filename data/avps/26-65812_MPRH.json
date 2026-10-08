@@ -10,9 +10,7 @@
       "Agence Sanitaire et Sociale (ASS)",
       "Organismes de protection sociale (notamment la CAFAT)",
       "Établissements de santé, médico-sociaux",
-      "Établissements hospitaliers du territoire",
-      "Professionnels de santé",
-      "Fournisseurs de biens, de prestations et de matériels médicaux"
+      "Établissements hospitaliers du territoire"
     ],
     "informationsLibres": [
       {
@@ -117,7 +115,7 @@
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": "Informations salaire disponibles sur https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
+  "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": false,
   "jobLocation": {
@@ -164,7 +162,7 @@
     "5- Animation et représentation institutionnelle",
     "Préparer et participer activement aux différentes instances de gouvernance et commissions techniques relevant des compétences du bureau."
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -181,7 +179,7 @@
   "specialCommitments": null,
   "title": "Responsable du bureau de la performance du système de protection sociale",
   "totalJobOpenings": 3,
-  "validThrough": "2026-10-09",
+  "validThrough": "2026-10-30",
   "workHours": null,
   "champs_open_data": 30,
   "employeur_sigle": "DASS",
