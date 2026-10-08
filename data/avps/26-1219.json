@@ -7,6 +7,7 @@
     "superieurHierarchique": "Directeur(trice) adjoint(e) des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
+      "Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins",
       "CMS limitrophes"
     ],
     "informationsLibres": [
@@ -42,20 +43,20 @@
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": null,
+  "url": "http://www.province-nord.nc",
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
-    "email": "drh-emplois@province-nord.nc"
+    "email": "m.oudare@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-08-14",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'Etat de docteur en médecine",
+    "credentialCategory": "Médecin",
     "competencyRequired": [
       "Maîtrise de la médecine générale et de l'urgence (CAMU souhaité)",
       "Connaissance en santé publique",
@@ -67,8 +68,8 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "PROVINCE NORD",
-    "url": "http://www.province-nord.nc",
+    "name": "CMS de HOUAILOU",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
@@ -115,15 +116,15 @@
   },
   "responsibilities": [
     "Assurer la continuité de l'offre de soin au sein du centre médico-social",
-    "Assurer la médecine curative : consultations, urgences, visites en tribu",
-    "Assurer la médecine préventive : santé scolaire, PMI, dépistage tuberculose, médecin du travail et du sport, éducation pour la santé, hygiène publique",
-    "Gérer les activités administratives : gestion des moyens en personnel et matériel, rapports",
-    "Assurer la veille sanitaire et sociale",
-    "Établir des partenariats extérieurs",
-    "Gérer la pharmacie de la structure",
-    "Participer aux actions de formation et d'animation de sécurité civile",
-    "Assurer le renfort aux CMS limitrophes essentiellement en cas de nécessité",
-    "Établir un bilan d'activité annuel"
+    "La médecine curative : consultations, urgences, visites en tribu",
+    "La médecine préventive : santé scolaire, PMI, dépistage tuberculose, médecin du travail et du sport, éducation pour la santé, hygiène publique",
+    "Les activités administratives : gestion des moyens en personnel et matériel, rapports",
+    "La veille sanitaire et sociale",
+    "L'établissement de partenariats extérieurs",
+    "La gestion de la pharmacie de la structure",
+    "La participation aux actions de formation et d'animation de sécurité civile",
+    "Le renfort aux CMS limitrophes essentiellement en cas de nécessité",
+    "Etablir un bilan d'activité annuel"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
