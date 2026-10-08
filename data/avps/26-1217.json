@@ -30,7 +30,7 @@
   },
   "alternateName": null,
   "description": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
-  "disambiguatingDescription": "La personne retenue aura la charge de la continuité de l'offre de soin au sein du centre médico-social.",
+  "disambiguatingDescription": null,
   "identifier": "26-1217",
   "image": null,
   "mainEntityOfPage": null,
@@ -43,14 +43,14 @@
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": "www.province-nord.nc",
+  "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
-    "email": "drh-emplois@province-nord.nc"
+    "email": "m.oudare@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-08-14",
@@ -115,9 +115,10 @@
     }
   },
   "responsibilities": [
+    "Assurer la continuité de l'offre de soin au sein du centre médico-social",
     "La médecine curative : consultations, urgences, visites en tribu",
     "La médecine préventive : santé scolaire, PMI, dépistage tuberculose, médecin du travail et du sport, éducation pour la santé, hygiène publique",
-    "Les activités administratives : gestion des moyens en personnel et matériel, rapports, etc",
+    "Les activités administratives : gestion des moyens en personnel et matériel, rapports",
     "La veille sanitaire et sociale",
     "L'établissement de partenariats extérieurs",
     "La gestion de la pharmacie de la structure",
@@ -139,7 +140,7 @@
   "title": "Médecin à Canala",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-23",
-  "workHours": "Astreintes",
+  "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
