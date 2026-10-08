@@ -18,7 +18,7 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Astreintes",
+        "name": "Caractéristiques particulières de l'emploi",
         "value": "Poste soumis à astreintes"
       },
       {
@@ -29,8 +29,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
-  "disambiguatingDescription": "La personne retenue aura la charge de la continuité de l'offre de soin au sein du centre médico-social.",
+  "description": "La personne retenue aura la charge de la continuité de l'offre de soin au sein du centre médico-social de Ouegoa, sous l'autorité de la direction des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité de la Province Nord.",
+  "disambiguatingDescription": null,
   "identifier": "26-1222",
   "image": null,
   "mainEntityOfPage": null,
@@ -38,7 +38,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "http://www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -79,8 +79,8 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "PROVINCE NORD",
-    "url": "www.province-nord.nc",
+    "name": "CMS de OUEGOA",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
@@ -89,10 +89,10 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "http://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique",
+  "industry": "Santé",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -128,7 +128,7 @@
   "responsibilities": [
     "La médecine curative : consultations, urgences, visites en tribu",
     "La médecine préventive : santé scolaire, PMI, dépistage tuberculose, médecin du travail et du sport, éducation pour la santé, hygiène publique",
-    "Les activités administratives : gestion des moyens en personnel et matériel, rapports, etc.",
+    "Les activités administratives : gestion des moyens en personnel et matériel, rapports",
     "La veille sanitaire et sociale",
     "L'établissement de partenariats extérieurs",
     "La gestion de la pharmacie de la structure",
