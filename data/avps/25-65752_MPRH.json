@@ -7,11 +7,10 @@
     "superieurHierarchique": "Directeur et directeur adjoint",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Autres services de la DASS",
-      "Établissements de santé",
+      "Etablissements de santé",
       "Provinces",
-      "Organismes de protection sociale",
-      "Établissements et services sanitaires, sociaux et médico-sociaux"
+      "Etablissements et services sanitaires, sociaux et médico-sociaux",
+      "Organismes de protection sociale"
     ],
     "informationsLibres": [
       {
@@ -63,7 +62,7 @@
   },
   "alternateName": null,
   "description": "Sous l'autorité du directeur et du directeur adjoint, le chef de service de la protection sociale encadre l'ensemble des agents intervenant dans les domaines suivants :\n- l'inspection et le contrôle du respect de la réglementation sociale et médico-sociale ;\n- la planification et l'organisation de l'offre sociale et médico-sociale ;\n- le suivi du fonctionnement et de l'activité des établissements sociaux et médico-sociaux, en lien avec les établissements de santé et les provinces ;\n- la gestion des financements alloués aux établissements et services sanitaires, sociaux et médico-sociaux relevant de la compétence de la Nouvelle-Calédonie, ainsi que le suivi des comptes sociaux ;\n- la gestion de diverses commissions médico-administratives réglementaires (conseil du handicap et de la dépendance, commission médicale des permis de conduire).",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Chef du service de la protection sociale au sein de la DASS de la Nouvelle-Calédonie.",
   "identifier": "25-65752/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -104,25 +103,25 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Nouvelle-Calédonie",
+    "name": "Service de la protection sociale",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience en méthodologie de projet",
+  "experienceRequirements": "Expérience en méthodologie de projet, aptitude au management, connaissance confirmée de l'organisation du domaine sanitaire et social.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": "Informations salaire : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
+  "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Service de la protection sociale",
+    "name": "DASS",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -134,11 +133,10 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Politique de santé publique",
-    "Administration générale",
-    "Action sociale"
+    "Administration générale"
   ],
   "physicalRequirement": null,
   "qualifications": null,
@@ -165,7 +163,7 @@
     "Participer aux inspections, contrôles et évaluations",
     "Participer aux missions transversales confiées par le directeur."
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -179,10 +177,10 @@
     "Savoir travailler en équipe et partager l'information",
     "Bon relationnel."
   ],
-  "specialCommitments": "Participer aux astreintes",
+  "specialCommitments": "Astreintes",
   "title": "Chef du service de la protection sociale",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-09",
+  "validThrough": "2026-10-30",
   "workHours": null,
   "champs_open_data": 27,
   "employeur_sigle": "DASS",
