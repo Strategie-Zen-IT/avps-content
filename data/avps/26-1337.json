@@ -5,12 +5,12 @@
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 4,
     "superieurHierarchique": "Directeur général ou de son adjoint",
-    "placeOrganigramme": "Rattaché à l'autorité hiérarchique du directeur général ou de son adjoint",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Régie Tanéo",
       "Service exploitation",
       "Service systèmes",
-      "Services patrimoine"
+      "Service patrimoine"
     ],
     "informationsLibres": [
       {
@@ -20,18 +20,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": null
-      },
-      {
-        "@type": "PropertyValue",
         "name": "Date de clôture initialement prévue",
-        "value": "25/09/2026"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Note de report",
-        "value": "La date de clôture initialement prévue le 25/09/2026 a été reportée"
+        "value": "25/09/2026 (reportée)"
       },
       {
         "@type": "PropertyValue",
@@ -42,7 +32,7 @@
   },
   "alternateName": null,
   "description": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes sur le territoire du Grand Nouméa.",
-  "disambiguatingDescription": "Le chef de service pilote et gère les missions sur l'ensemble des tâches administratives du SMTU, la communication et les réclamations auprès de la clientèle du réseau Tanéo.",
+  "disambiguatingDescription": "Chef de service pilotant et gérant les missions administratives, la communication et les réclamations du SMTU.",
   "identifier": "26-1337",
   "image": null,
   "mainEntityOfPage": null,
@@ -68,7 +58,7 @@
   "datePosted": "2026-09-04",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Catégorie B ou A",
+    "credentialCategory": null,
     "competencyRequired": [
       "Maîtrise du fonctionnement administratif des collectivités",
       "Maîtrise des procédures de contrats et marchés publics",
@@ -90,7 +80,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience dans le management d'équipe et la maîtrise des procédures administratives des collectivités.",
+  "experienceRequirements": "Expériences dans le management d'équipe, les procédures administratives des collectivités, la gestion d'échéances et le travail en transversalité.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
@@ -107,11 +97,11 @@
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "BP 48",
-      "addressLocality": "Dumbéa",
+      "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
       "province": "province Sud",
-      "postalCode": "98835"
+      "postalCode": "98800"
     }
   },
   "jobLocationType": null,
@@ -129,7 +119,7 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1601",
-      "name": "Assistance en gestion de ressources humaines"
+      "name": "Assistance en ressources humaines"
     }
   },
   "responsibilities": [
