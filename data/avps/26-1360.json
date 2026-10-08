@@ -4,8 +4,8 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": "Bureau de Proximité de Soins (BPS) du Pôle Soins",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef(fe) de bureau de proximité des soins",
-    "placeOrganigramme": "Placé sous l'autorité du (de la) chef(fe) de bureau de proximité des soins",
+    "superieurHierarchique": "Chef de bureau de proximité des soins",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Médecin d'un Centre Médico-Social (CMS)",
       "Téléconsultation (TLC) de la Province Nord",
@@ -24,13 +24,13 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Zone de mobilisation",
-        "value": "Essentiellement mobilisé sur les communes de Poum, Ouégoa, Pouébo et Belep"
+        "name": "Secteur géographique",
+        "value": "Secteur Grand Nord"
       },
       {
         "@type": "PropertyValue",
-        "name": "Assurance professionnelle",
-        "value": "Prévoir une assurance professionnelle responsabilité civile IPA spécifique"
+        "name": "Communes de mobilisation",
+        "value": "Poum, Ouégoa, Pouébo et Belep"
       },
       {
         "@type": "PropertyValue",
@@ -40,8 +40,8 @@
     ]
   },
   "alternateName": "IPA",
-  "description": "L'infirmier en pratique avancée assure sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe au sein d'une équipe pluridisciplinaire en établissement médico-social coordonnée par un médecin d'un Centre Médico-Social (CMS) ou de Téléconsultation (TLC) de la Province Nord.",
-  "disambiguatingDescription": "Recrutement d'un infirmier en pratique avancée pour le Secteur Grand Nord de la Province Nord, basé à Poum.",
+  "description": "L'infirmier en pratique avancée exerce au sein d'une équipe pluridisciplinaire en établissement médico-social coordonnée par un médecin d'un Centre Médico-Social (CMS) ou de Téléconsultation (TLC) de la Province Nord. La personne sera essentiellement mobilisée sur les communes de Poum, Ouégoa, Pouébo et Belep.",
+  "disambiguatingDescription": "Poste d'infirmier en pratique avancée basé à Poum, couvrant le secteur Grand Nord avec astreintes.",
   "identifier": "26-1360",
   "image": null,
   "mainEntityOfPage": null,
@@ -59,10 +59,10 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Hôtel de la province Nord",
+    "name": "Province Nord",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "41 avenue Jimmy Welepane",
+      "streetAddress": "Hôtel de la province Nord - 41 avenue Jimmy Welepane",
       "addressLocality": "Koné",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
@@ -103,7 +103,7 @@
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -133,12 +133,13 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Soins d'infirmiers généralistes"
+      "name": "Soins d'infirmier en pratique avancée"
     }
   },
   "responsibilities": [
+    "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
     "Prise en charge et suivi des patients atteints de pathologies chroniques selon le domaine d'intervention défini et sous la coordination du médecin",
-    "Prescription de renouvellement de traitement chronique, de traitement selon les listes autorisées, de vaccins, de bilans complémentaires (BS, radiographie, ...)",
+    "Prescription de renouvellement de traitement chronique, de traitement selon les listes autorisées, de vaccins, de bilans complémentaires",
     "Rédaction de courriers médicaux et comptes rendus",
     "Éducation du patient dans sa prise en charge du suivi ou de la personne de confiance",
     "Coordination de soins, orientation",
@@ -169,7 +170,7 @@
   "title": "INFIRMIER EN PRATIQUE AVANCÉE - Secteur Grand Nord",
   "totalJobOpenings": 5,
   "validThrough": "2026-10-09",
-  "workHours": "Temps plein avec astreintes",
+  "workHours": "Astreintes",
   "champs_open_data": 9,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
