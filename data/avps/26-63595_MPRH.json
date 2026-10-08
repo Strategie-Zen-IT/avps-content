@@ -112,7 +112,7 @@
   "employerOverview": "La direction des affaires sanitaires et sociales de la Nouvelle-Calédonie est une des directions techniques du gouvernement de la Nouvelle-Calédonie.\nElle est responsable de la mise en œuvre de la politique de la Nouvelle-Calédonie en matière de santé publique et de protection sociale. \nElle comprend un service administration et support qui intervient en support de manière transversale et quatre services métiers.\nLes principaux enjeux de la politique de santé reposent sur le concept Une seule santé et sont liés aux déterminants de santé, à la santé relationnelle, à la prévention et aux parcours.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "OrganizationalUnit",
+    "@type": "Organization",
     "name": "Service de la santé publique",
     "url": null,
     "logo": null
@@ -125,7 +125,7 @@
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique",
+  "industry": "Santé",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": null,
@@ -186,7 +186,7 @@
     "Participe à la formation des étudiants en santé",
     "Apporter son concours aux situation de gestion de crise"
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -206,7 +206,7 @@
   "specialCommitments": "Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale.",
   "title": "Conseiller médical Prévention, Promotion de la santé",
   "totalJobOpenings": 3,
-  "validThrough": "2026-10-09",
+  "validThrough": "2026-10-30",
   "workHours": "Astreintes",
   "champs_open_data": 30,
   "employeur_sigle": "DASS",
