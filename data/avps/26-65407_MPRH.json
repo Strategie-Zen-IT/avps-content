@@ -15,8 +15,8 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Unité d'affectation spécifique",
-        "value": "UPAD"
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Titulaire du permis de conduire B"
       },
       {
         "@type": "PropertyValue",
@@ -129,7 +129,7 @@
     "Action sociale"
   ],
   "physicalRequirement": null,
-  "qualifications": "Titulaire du permis de conduire B",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Responsable socio éducatif",
