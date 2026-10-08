@@ -5,13 +5,12 @@
     "uniteOrganisationnelle": "des centre de secours",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Directeur des services d'incendie et de secours",
-    "placeOrganigramme": "Sous l'autorité hiérarchique du directeur",
+    "placeOrganigramme": "Sous l’autorité hiérarchique du directeur",
     "relationsFonctionnelles": [
       "Secrétaire général en charge du pôle sécurité",
-      "Directeur des services d'incendie et de secours",
       "Centre de secours Lucien PARENT",
       "Centre de secours Normandie",
-      "Centre de traitement de l'alerte",
+      "Centre de traitement de l’alerte",
       "Centre de surveillance et de sauvetage nautique"
     ],
     "informationsLibres": [
@@ -27,7 +26,7 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Statut du poste",
+        "name": "Poste à pourvoir",
         "value": "Susceptible d'être vacant"
       },
       {
@@ -38,8 +37,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils oeuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune. Placée sous l'autorité directe du secrétaire général en charge du pôle sécurité, la direction des services d'incendie et de secours est composée de plusieurs unités opérationnelles qui permettent la gestion des alertes (appel 18), le traitement des opérations, le secours aux personnes, la surveillance des plages ainsi que la protection des biens et de l'environnement. Son fonctionnement est organisé 24 heures sur 24 et 7 jours sur 7, au service de la population de la ville de Nouméa.",
-  "disambiguatingDescription": "Le service des centres de secours est composé de quatre centres opérationnels : le centre de secours Lucien PARENT, le centre de secours Normandie, le centre de traitement de l'alerte, le centre de surveillance et de sauvetage nautique.",
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune. Placée sous l’autorité directe du secrétaire général en charge du pôle sécurité, la direction des services d’incendie et de secours est composée de plusieurs unités opérationnelles qui permettent la gestion des alertes (appel 18), le traitement des opérations, le secours aux personnes, la surveillance des plages ainsi que la protection des biens et de l’environnement. Son fonctionnement est organisé 24 heures sur 24 et 7 jours sur 7, au service de la population de la ville de Nouméa.",
+  "disambiguatingDescription": null,
   "identifier": "26-1298",
   "image": null,
   "mainEntityOfPage": null,
@@ -64,7 +63,7 @@
   "datePosted": "2026-08-28",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplômes exigés : chef de colonne ; Diplômes souhaités : FDF3 ou FDF4",
+    "credentialCategory": "Chef de colonne",
     "competencyRequired": [
       "Diplômes exigés : chef de colonne",
       "Diplômes souhaités : FDF3 ou FDF4",
@@ -78,11 +77,11 @@
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils oeuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Service des centres de secours",
+    "name": "Ville de Nouméa",
     "url": null,
     "logo": null
   },
@@ -100,10 +99,10 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Nouméa",
+    "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "16, rue du général Mangin",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -117,26 +116,26 @@
     "Incendie et secours"
   ],
   "physicalRequirement": null,
-  "qualifications": "Diplômes exigés : chef de colonne ; Diplômes souhaités : FDF3 ou FDF4",
+  "qualifications": "Diplômes exigés : chef de colonne. Diplômes souhaités : FDF3 ou FDF4.",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Chef du service des centres de secours",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K2501",
-      "name": "Sécurité civile et secours"
+      "name": "Direction de la sécurité civile et des secours"
     }
   },
   "responsibilities": [
     "Assister et conseiller le directeur des services d'incendie et de secours",
     "Piloter et coordonner les 4 centres placés sous sa responsabilité",
-    "Organiser et mettre en oeuvre la politique communale d'incendie et de secours",
-    "Décliner les politiques publiques en mettant en oeuvre des plans d'actions et en pilotant des projets",
+    "Organiser et mettre en œuvre la politique communale d'incendie et de secours",
+    "Décliner les politiques publiques en mettant en œuvre des plans d'actions et en pilotant des projets",
     "Évaluer et optimiser la qualité des services, les procédures, l'organisation du travail, la performance et l'utilisation des ressources (budgétaires, financières, administratives et humaines)",
     "Coordonner et superviser l'action des agents sous sa responsabilité",
     "Mobiliser et faire évoluer les compétences professionnelles des agents",
-    "Organiser la mise en oeuvre des règles d'hygiène, de santé et de sécurité au travail",
-    "Partager et mettre en oeuvre la vision stratégique de la collectivité auprès des agents et être le relais de ses valeurs",
+    "Organiser la mise en œuvre des règles d’hygiène, de santé et de sécurité au travail",
+    "Partager et mettre en œuvre la vision stratégique de la collectivité auprès des agents et être le relais de ses valeurs",
     "Traduire en objectifs opérationnels les missions de service public",
     "Réaliser toutes les activités contribuant à la réalisation des missions de la direction et confiées à l'agent par la hiérarchie"
   ],
@@ -144,20 +143,14 @@
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Assister et conseiller",
-    "Piloter et coordonner",
-    "Organiser et mettre en oeuvre",
-    "Décliner les politiques publiques",
-    "Évaluer et optimiser",
-    "Coordonner et superviser",
-    "Mobiliser et faire évoluer",
-    "Partager et mettre en oeuvre",
-    "Traduire en objectifs opérationnels",
-    "Maîtrise des techniques rédactionnelles",
-    "Maîtrise des outils informatiques",
-    "Techniques de management",
-    "Pilotage budgétaire",
-    "Management par projets"
+    "Piloter",
+    "Coordonner",
+    "Organiser",
+    "Manager",
+    "Évaluer",
+    "Optimiser",
+    "Mobiliser",
+    "Conseiller"
   ],
   "specialCommitments": "Astreintes de niveau chef de colonne et astreintes de cadre de permanence de la ville de Nouméa",
   "title": "Chef du service des centres de secours",
