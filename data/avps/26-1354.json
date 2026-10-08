@@ -8,7 +8,7 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Secrétariat général",
-      "Services de la collectivité"
+      "Services municipaux"
     ],
     "informationsLibres": [
       {
@@ -24,8 +24,8 @@
     ]
   },
   "alternateName": null,
-  "description": "Le secrétariat général assure l'interface privilégiée entre l'exécutif et l'administration municipale. En charge du pilotage administratif de la commune, il est le garant du contrôle de la bonne exécution des décisions de l'exécutif par les services. Le secrétariat général comprend 9 agents placés sous l'autorité du secrétaire général dont une section administrative et comptable.",
-  "disambiguatingDescription": "Gestion administrative et comptable de la section, soutien direct et indispensable à l'action du secrétariat général en optimisant la gestion et la coordination administrative des dossiers.",
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune. Le secrétariat général assure l’interface privilégiée entre l’exécutif et l’administration municipale. En charge du pilotage administratif de la commune, il est le garant du contrôle de la bonne exécution des décisions de l’exécutif par les services.",
+  "disambiguatingDescription": null,
   "identifier": "26-1354",
   "image": null,
   "mainEntityOfPage": null,
@@ -52,7 +52,7 @@
   "educationRequirements": {
     "credentialCategory": "Bac",
     "competencyRequired": [
-      "Maîtrise de l'organisation et des procédures administratives de la collectivité",
+      "Maîtrise de l’organisation et des procédures administratives de la collectivité",
       "Solides connaissances des institutions de la Nouvelle-Calédonie",
       "Maîtrise des techniques de communication écrites et orales",
       "Maîtrise des outils bureautiques et informatiques",
@@ -61,7 +61,7 @@
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils oeuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -108,11 +108,11 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "M1203",
-      "name": "Assistanat technique et administratif"
+      "name": "Direction administrative et financière"
     }
   },
   "responsibilities": [
-    "Encadrer l'activité de la section composée d'un assistant administratif et comptable (catégorie C)",
+    "Encadrer l'activité de la section composée d’un assistant administratif et comptable (catégorie C)",
     "Saisir, mettre à jour et/ou sauvegarder les données, les informations et les tableaux dans son domaine",
     "Prendre des notes et mettre en forme tous types de courriers ou documents",
     "Traiter des courriers, dossiers et documents (enregistrement, tri, diffusion, archivage)",
@@ -122,7 +122,7 @@
     "Assurer le suivi du budget, des commandes et des factures du secrétariat général",
     "Réaliser les engagements et le suivi des crédits",
     "Tenir à jour des tableaux de bords de suivi des engagements et réalisations",
-    "Participer, à son niveau, à l'activité de la cellule de gestion de crise lorsqu'elle est activée (cyclone, etc.)"
+    "Participer, à son niveau, à l’activité de la cellule de gestion de crise lorsqu’elle est activée (cyclone, etc.)"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
@@ -133,7 +133,7 @@
     "Autonomie",
     "Fortes capacités rédactionnelles",
     "Fortes capacités relationnelles",
-    "Grand sens de l'organisation",
+    "Grand sens de l’organisation",
     "Travail en équipe",
     "Disponibilité"
   ],
