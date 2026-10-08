@@ -8,6 +8,7 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Service Territorial Éducatif de Milieu Ouvert et d'Insertion (STEMOI)",
+      "Magistrats",
       "Acteurs des champs judiciaire, éducatif, sanitaire, social et scolaire",
       "Tribunal (PEAT)"
     ],
@@ -61,7 +62,7 @@
   },
   "alternateName": null,
   "description": "Par son implication dans une relation socio-éducative de proximité, inscrite dans la durée, l'éducateur spécialisé accompagne les mineurs et les jeunes majeurs en difficulté dans la mise en œuvre des mesures éducatives ordonnées par les magistrats. Ces interventions s'inscrivent dans le cadre de la justice pénale des mineurs (Code de la justice pénale des mineurs - CJPM) ou de la protection de l'enfance (articles 375 et suivants du Code civil), lorsque ces mesures sont confiées au Service Territorial Éducatif de Milieu Ouvert et d'Insertion (STEMOI).",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Recrutement d'un éducateur spécialisé au sein de l'UEMO Sud/Îles de la DPJEJ en Nouvelle-Calédonie.",
   "identifier": "26-65395/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -77,7 +78,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
+    "@type": "Place",
     "name": "Nouvelle-Calédonie",
     "address": {
       "@type": "PostalAddress",
@@ -121,15 +122,16 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": null,
+  "experienceInPlaceOfEducation": false,
   "experienceRequirements": "Une expérience en Nouvelle-Calédonie est souhaitée, notamment dans l'accompagnement de mineurs confiés en famille d'accueil ou accueillis en structure d'hébergement collectif, et la mise en œuvre des mesures éducatives relevant de la protection judiciaire de l'enfance (CJPM).",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie"
+    "name": "Nouvelle-Calédonie",
+    "url": "https://gouv.nc"
   },
   "incentiveCompensation": null,
   "industry": "Action sociale",
-  "jobBenefits": "Informations salaire disponibles sur https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
+  "jobBenefits": "Informations de salaire disponibles sur le barème de la fonction publique de Nouvelle-Calédonie.",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -137,7 +139,7 @@
     "name": "UEMO Sud/Îles",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "18 avenue Paul Doumer, Centre-ville",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -151,7 +153,7 @@
     "Action sociale"
   ],
   "physicalRequirement": null,
-  "qualifications": "Être titulaire du permis de conduire B ; Diplôme d'État d'éducateur spécialisé (DEES) et/ou attestation de validation de la formation des éducateurs de la PJJ délivrée par l'ENPJJ.",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Educateur spécialisé",
@@ -196,7 +198,7 @@
   "title": "Educateur spécialisé - UEMO Sud/Iles",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-09",
-  "workHours": "Souplesse dans l'organisation du temps de travail",
+  "workHours": "Faire preuve de souplesse dans l'organisation du temps de travail",
   "champs_open_data": 30,
   "employeur_sigle": "DPJEJ",
   "collectivite": "Nouvelle-Calédonie",
