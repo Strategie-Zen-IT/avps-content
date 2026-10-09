@@ -1,0 +1,157 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Professeur des écoles",
+    "direction": "UNIVERSITE DE NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Mathieu BUFFET, directeur du département des sciences, techniques et santé",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Département des Sciences, Techniques et Santé",
+      "Pôle enseignants et enseignants-chercheurs",
+      "Direction des ressources humaines"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Le candidat devra faire preuve d'engagement dans la vie de l'université et contribuer à son rayonnement et à son développement. Il est notamment attendu un investissement dans les responsabilités pédagogiques et dans la promotion des formations de l'établissement."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Référente disciplinaire informatique",
+        "value": "Nazha SELMAOUI-FOLCHER"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952134.PDF"
+      }
+    ]
+  },
+  "alternateName": "Enseignant du 2nd degré en informatique",
+  "description": "L’Université de la Nouvelle-Calédonie est un établissement pluridisciplinaire qui répond notamment aux besoins de formation et de recherche propres à la Nouvelle-Calédonie. Elle veille à accompagner efficacement les évolutions de la Nouvelle-Calédonie et à répondre à ses besoins spécifiques. Un emploi d'enseignant agrégé ou certifié en informatique est susceptible d’être à pourvoir à l'université de la Nouvelle-Calédonie à compter du 1er février 2027. Une polyvalence est globalement attendue en enseignement dans la licence Informatique y compris le parcours L3 MIAGE et le Master MIAGE, avec une implication à terme dans la responsabilité pédagogique et la coordination des vacataires.",
+  "disambiguatingDescription": "Poste d'enseignant agrégé ou certifié en informatique au sein du Département des Sciences, Techniques et Santé de l'Université de la Nouvelle-Calédonie.",
+  "identifier": "26-1470",
+  "image": null,
+  "mainEntityOfPage": "https://unc.nc/utile/recrutement/recrutement-emplois-stages/",
+  "name": "Profersseur agrégé ou certifié en Anglais",
+  "owner": {
+    "@type": "Organization",
+    "name": "Université de Nouvelle-Calédonie",
+    "url": "https://unc.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://unc.nc/utile/recrutement/recrutement-emplois-stages/",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "recrutement-enseignants@unc.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Master",
+    "competencyRequired": [
+      "Mathématiques appliquées à l’informatique",
+      "Algorithmique et programmation en Python",
+      "Programmation orientée objet",
+      "Systèmes d'exploitation",
+      "Réseaux",
+      "Génie logiciel",
+      "Architecture des ordinateurs"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "L’Université de la Nouvelle-Calédonie est un établissement pluridisciplinaire qui répond notamment aux besoins de formation et de recherche propres à la Nouvelle-Calédonie. Elle veille à accompagner efficacement les évolutions de la Nouvelle-Calédonie et à répondre à ses besoins spécifiques. Ancrée dans son environnement et sa région, l’UNC a pour ambition de promouvoir son activité de recherche sur la base de l’excellence et de la reconnaissance nationale et internationale.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Université de la Nouvelle-Calédonie",
+    "url": "https://unc.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une polyvalence est globalement attendue en enseignement dans la licence Informatique y compris le parcours L3 MIAGE et le Master MIAGE.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Université de Nouvelle-Calédonie",
+    "url": "https://unc.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Education",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Campus de Nouville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Campus de Nouville",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Education"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Enseignant du 2nd degré",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2107",
+      "name": "Enseignement général du second degré"
+    }
+  },
+  "responsibilities": [
+    "Assurer des enseignements classiques de la licence Informatique de niveau L1 au niveau L3",
+    "Intervenir sur des enseignements de mathématiques appliquées à l’informatique, d'algorithmique et programmation en Python, de programmation orientée objet, de systèmes d'exploitation, de réseaux, de génie logiciel, d’architecture des ordinateurs",
+    "Animer et coordonner une équipe d’enseignants vacataires",
+    "Intervenir potentiellement en Master MIAGE",
+    "S'impliquer dans l'encadrement des projets tuteurés et le suivi des stages",
+    "S'investir dans les responsabilités pédagogiques et dans la promotion des formations de l'établissement"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Enseignement universitaire",
+    "Coordination pédagogique",
+    "Animation d'équipe",
+    "Encadrement de projets",
+    "Suivi de stages",
+    "Rigueur",
+    "Engagement"
+  ],
+  "specialCommitments": null,
+  "title": "Profersseur agrégé ou certifié en Anglais",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-30",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "UNC",
+  "collectivite": "Université de Nouvelle-Calédonie",
+  "direction": "UNIVERSITE DE NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Education",
+  "famille_source": "respnc",
+  "famille_score": 0.945,
+  "dossier": "education"
+}
