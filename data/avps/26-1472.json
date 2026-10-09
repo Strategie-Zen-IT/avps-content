@@ -1,0 +1,189 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif",
+    "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+    "uniteOrganisationnelle": "CATTP Grands",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cadre de santé de l'unité",
+    "placeOrganigramme": "Sous l'autorité du directeur du C.H.S. Albert Bousquet et sous la responsabilité directe du cadre de santé de l'unité",
+    "relationsFonctionnelles": [
+      "Médecin",
+      "Psychologue",
+      "Psychomotricien",
+      "Orthophoniste",
+      "Infirmiers diplômés d'Etat",
+      "Éducateurs spécialisés",
+      "Assistante sociale",
+      "ASH",
+      "Secrétaire médicale",
+      "Cadre de santé",
+      "Écoles",
+      "ASE",
+      "APEJ",
+      "Aides sociales et familiales",
+      "Psychiatre"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952226.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'éducateur spécialisé œuvre au sein d'une équipe pluridisciplinaire au sein du Centre Hospitalier Spécialisé Albert Bousquet. Il exerce sous l'autorité du directeur du C.H.S. Albert Bousquet et sous la responsabilité directe du cadre de santé de l'unité.",
+  "disambiguatingDescription": "Poste d'éducateur spécialisé au CATTP Grands au sein du Service de Psychiatrie de l'enfant et de l'adolescent.",
+  "identifier": "26-1472",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Educateur spécialisé CATTPS Grands",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Centre Hospitalier Spécialisé Albert Bousquet",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Magenta",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.25.29",
+    "email": "avp@chs.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'État d'Éducateur Spécialisé",
+    "competencyRequired": [
+      "Solides bases théoriques en pédopsychiatrie",
+      "Expérience souhaitée en pédopsychiatrie",
+      "Connaissance du travail en réseau et des partenaires qui collaborent dans la prise en charge des enfants en Nouvelle-Calédonie",
+      "Connaissance des particularités culturelles du territoire",
+      "Expérience en milieu socioculturel traditionnel océanien souhaitée"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence au moins égale à 5 ans pour le recrutement sur titre",
+  "employerOverview": "Le Centre Hospitalier Spécialisé Albert Bousquet est l'établissement de référence en santé mentale en Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "CATTP Grands",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience souhaitée en pédopsychiatrie et si possible en milieu socioculturel traditionnel océanien.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "CATTP Grands - Nouméa (Magenta)",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Magenta",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Action sociale",
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Éducateur spécialisé",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1302",
+      "name": "Intervention socio-éducative"
+    }
+  },
+  "responsibilities": [
+    "Accueillir les enfants et leur famille",
+    "Participer à la prise en charge des enfants accueillis en collaboration avec le médecin et l'équipe pluridisciplinaire",
+    "Etablir un partenariat auprès des professionnels du réseau dans une fonction de travail en collaboration, d'aide et de conseil",
+    "Animer et participer à des groupes à médiation thérapeutique",
+    "Participer à l'encadrement des étudiants en stage",
+    "Participer aux entretiens avec les enfants et/ou leur famille en collaboration avec le médecin de la structure",
+    "Evaluer la problématique des enfants et proposer en équipe une orientation pour la prise en charge thérapeutique",
+    "Organiser et animer des activités à médiation thérapeutiques",
+    "Participer à des PEC individuelles spécifiques",
+    "Réaliser le nursing pour les tout petits (change des couches, lavage des mains)",
+    "Réaliser les visites à domicile sur indication médicale et en faire les comptes rendus",
+    "Encadrer et participer aux séjours thérapeutiques organisés pour les enfants pris en charge à l'hôpital de jour",
+    "Participer au recueil des données et la tenue des dossiers patients",
+    "Participer aux régulations après chaque activité d'activité et à leur traçabilité",
+    "Participer aux réunions de synthèses cliniques, organisationnelles, institutionnelles et de service",
+    "Participer à l'encadrement des stagiaires",
+    "Etablir un partenariat de complémentarité avec les professionnels du réseau (écoles, ASE, APEJ, aides sociales et familiales, etc.) dans une fonction de collaboration d'aide et de conseil",
+    "Assurer un relais auprès du psychiatre",
+    "Participer aux différentes réunions concernant les enfants dont il est référent (écoles, services sociaux, etc.)",
+    "Rendre compte à sa hiérarchie"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacités d'analyse et de synthèse dans la relation avec l'enfant",
+    "Bonnes capacités relationnelles et de relations thérapeutiques dans une distance ajustée",
+    "Capacité à maintenir des liens avec l'ensemble des partenaires du soin",
+    "Capacité à gérer sa propre affectivité, ses émotions et à analyser sa pratique dans les situations de soins",
+    "Aptitude à coordonner et gérer des actions de soins dans des lieux différents",
+    "Autonomie",
+    "Créativité",
+    "Travail en équipe",
+    "Capacités à se former et esprit de recherche",
+    "Discrétion"
+  ],
+  "specialCommitments": null,
+  "title": "Educateur spécialisé CATTPS Grands",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-30",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "CHS",
+  "collectivite": "Centre hospitalier spécialisé \"Albert Bousquet\"",
+  "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 0.984,
+  "dossier": "action-sociale"
+}
