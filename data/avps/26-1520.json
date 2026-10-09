@@ -1,0 +1,179 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif",
+    "direction": "",
+    "uniteOrganisationnelle": "Cellule Communication",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable de la cellule communication",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Autres directions",
+      "Prestataires",
+      "Presse",
+      "Journalistes"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs : au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "novembre 2026"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957368.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune. Sous l’autorité du Maire, la cellule communication est chargée d’informer les administrés et ses agents sur les actions menées par la ville de Nouméa. Elle a pour principales missions la mise en œuvre de la stratégie de communication, la diffusion des supports de communication interne et externe, la promotion des évènements organisés par la Ville, l’interactivité et l’échange d’informations.",
+  "disambiguatingDescription": "Sous l’autorité du responsable de la cellule communication, le secrétaire comptable assure la gestion administrative et comptable de la direction.",
+  "identifier": "26-1520",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Secrétaire comptable",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Hôtel de Ville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.07.78",
+    "email": "gregory.louzier@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Bonnes connaissances en comptabilité publique et communication",
+      "Maîtriser les procédures comptables",
+      "Connaissance de l’organisation et des procédures administratives de la collectivité",
+      "Appliquer des procédures",
+      "Maîtriser les outils bureautiques et informatiques (Google Workspace, Astre, Post-Office, etc.)",
+      "Maîtriser les techniques de secrétariat",
+      "Rédiger et mettre en forme tous types de documents",
+      "Organiser et classer des documents ou informations divers",
+      "Maîtriser les techniques de communication interne et externe",
+      "Une connaissance des bases de la communication institutionnelle et des relations presse serait souhaitée",
+      "Accueillir du public",
+      "Analyser les demandes et leur apporter la réponse appropriée"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs : au moins égale à 10 ans",
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Cellule Communication",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience significative sur un poste similaire serait souhaitée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de Ville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-11-01",
+  "occupationalCategory": [
+    "Administration générale",
+    "Finances et budget"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Secrétaire comptable",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Secrétariat comptable"
+    }
+  },
+  "responsibilities": [
+    "Gérer la comptabilité et le budget de la cellule",
+    "Suivre l’exécution budgétaire de la cellule (engagements, bons de commande, suivi des factures)",
+    "Assurer le suivi des facturations et la relation avec les prestataires",
+    "Veiller au respect des procédures comptables et des délais de paiement",
+    "Mettre à jour les tableaux de bord budgétaires et de suivi des dépenses",
+    "Gérer le secrétariat du service",
+    "Assurer l’accueil physique et téléphonique de la cellule",
+    "Assurer l’interface entre la cellule et les autres directions pour la circulation des documents et de l’information",
+    "Assurer la gestion des courriers sur Post-Office",
+    "Organiser, tenir le classement et archiver les documents",
+    "Rédiger et mettre en forme les documents administratifs, courriers, notes et compte-rendus",
+    "Suivre la transmission des informations à la presse",
+    "Faire le lien avec les journalistes pour le recueil et le traitement de leurs demandes"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Avoir de bonnes capacités rédactionnelles et relationnelles",
+    "Esprit d’équipe",
+    "Rigueur et sens de l’organisation",
+    "Autonomie",
+    "Grande disponibilité, réactivité et capacité à gérer plusieurs tâches simultanément",
+    "Discrétion et respect de la confidentialité"
+  ],
+  "specialCommitments": null,
+  "title": "Secrétaire comptable",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-30",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "MAIRIE-DE-NOUMEA",
+  "collectivite": "Mairie de Nouméa",
+  "direction": "",
+  "direction_source": "absente",
+  "employeur_source": "document",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.887,
+  "dossier": "administration-generale"
+}
