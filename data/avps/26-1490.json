@@ -1,0 +1,163 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien adjoint",
+    "direction": "SERVICES TECHNIQUES",
+    "uniteOrganisationnelle": "Service AEP",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable des services techniques",
+    "placeOrganigramme": "Sous l'autorité du responsable des services techniques",
+    "relationsFonctionnelles": [
+      "Services municipaux"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements fréquents sur l'ensemble du territoire communal, y compris sur routes ou pistes difficiles. Travail en extérieur, manutention et exposition aux conditions climatiques. Horaires pouvant être adaptés aux contraintes de livraison, aux urgences AEP et aux nécessités de service. Port des équipements de protection individuelle obligatoire."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957428.PDF"
+      }
+    ]
+  },
+  "alternateName": "Chauffeur poids lourds polyvalent",
+  "description": "Sous l’autorité du responsable des services techniques, l’agent assure prioritairement la conduite des véhicules poids lourds affectés au service de l’alimentation en eau potable (AEP), notamment pour la livraison d’eau aux administrés et l’appui aux interventions sur le réseau communal. Polyvalent, il peut également être mobilisé pour renforcer les autres services municipaux selon les besoins, dans le respect de ses habilitations, de ses compétences et des consignes de sécurité.",
+  "disambiguatingDescription": "Chauffeur poids lourds polyvalent affecté au service de l'alimentation en eau potable avec renfort ponctuel des autres services municipaux.",
+  "identifier": "26-1490",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chauffeur poids lourds polyvalent - service AEP",
+  "owner": {
+    "@type": "Organization",
+    "name": "Commune de POUM"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Mairie de POUM",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Lotissement municipal - BP 05",
+      "addressLocality": "Poum",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "sg@mairie-poum.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Permis poids lourds",
+    "competencyRequired": [
+      "Permis poids lourds en cours de validité exigé",
+      "Expérience dans la conduite de poids lourds souhaitée, idéalement avec camion-citerne",
+      "Connaissance des règles de sécurité routière, de chargement, de manutention et d'entretien courant des véhicules",
+      "Connaissance des règles d'hygiène applicables au transport et à la distribution d'eau potable",
+      "Connaissance du territoire communal appréciée"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Commune de POUM",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience dans la conduite de poids lourds souhaitée, idéalement avec camion-citerne.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de POUM"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de POUM",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Lotissement municipal - BP 05",
+      "addressLocality": "Poum",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98826"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements",
+    "Transports terrestres et maritimes"
+  ],
+  "physicalRequirement": "Travail en extérieur, manutention et exposition aux conditions climatiques.",
+  "qualifications": "Permis poids lourds en cours de validité exigé.",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Conducteur de véhicules poids lourds / Agent technique polyvalent",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "I1602",
+      "name": "Conduite de transport de marchandises sur longue distance"
+    }
+  },
+  "responsibilities": [
+    "Conduire le camion-citerne et les autres véhicules poids lourds communaux dans le respect du code de la route et des règles de sécurité",
+    "Assurer les tournées de livraison d'eau potable auprès des administrés, des sites communaux et des secteurs identifiés par la hiérarchie",
+    "Effectuer le remplissage, le transport et la distribution de l'eau en appliquant les procédures d'hygiène et de prévention des contaminations",
+    "Renseigner les fiches de tournée : volumes livrés, lieux desservis, horaires, kilométrage et anomalies constatées",
+    "Participer aux interventions du service AEP : signalement de fuites, appui logistique, manutention, balisage et sécurisation des chantiers",
+    "Contrôler quotidiennement l'état du véhicule et de ses équipements ; réaliser l'entretien courant et signaler toute panne ou anomalie",
+    "Maintenir propres le véhicule, la citerne, les flexibles et les équipements utilisés",
+    "Renforcer ponctuellement les autres services municipaux : transport de matériels, travaux de voirie, propreté, espaces verts, logistique et interventions diverses, selon les nécessités de service"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Conduire et manœuvrer un poids lourd en sécurité, y compris sur des voies étroites ou non revêtues",
+    "Organiser une tournée et respecter les consignes, les priorités et les délais",
+    "Réaliser les contrôles de premier niveau et détecter les anomalies mécaniques ou matérielles",
+    "Appliquer les procédures de distribution d'eau potable et renseigner les documents de suivi",
+    "Travailler en équipe et s'adapter à des missions techniques variées",
+    "Sens du service public et bon relationnel avec les administrés",
+    "Rigueur, ponctualité, prudence et respect des consignes",
+    "Autonomie, réactivité et capacité à rendre compte",
+    "Disponibilité et capacité d'adaptation aux urgences et aux nécessités de service",
+    "Esprit d'équipe, polyvalence et respect du matériel communal"
+  ],
+  "specialCommitments": "Horaires pouvant être adaptés aux contraintes de livraison, aux urgences AEP et aux nécessités de service.",
+  "title": "Chauffeur poids lourds polyvalent - service AEP",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-30",
+  "workHours": "Horaires adaptables",
+  "champs_open_data": 7,
+  "employeur_sigle": "COMMUNE-DE-POUM",
+  "collectivite": "Commune de POUM",
+  "direction": "SERVICES TECHNIQUES",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Ateliers et véhicules",
+  "famille_source": "respnc",
+  "famille_score": 0.897,
+  "dossier": "ateliers-et-vehicules"
+}
