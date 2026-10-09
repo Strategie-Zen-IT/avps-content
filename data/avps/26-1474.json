@@ -1,0 +1,201 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Psychomotricien",
+    "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+    "uniteOrganisationnelle": "Centre de gérontologie clinique",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Médecins gériatres",
+      "Équipe pluridisciplinaire",
+      "Infirmier Diplômé d'État (IDE)",
+      "Aide-soignant",
+      "Équipes relais",
+      "Structures de soin"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 10 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Activités secondaires",
+        "value": "Accueil et encadrement pédagogique des étudiants et des stagiaires, Réalisation d'études et de travaux de groupe, Veille professionnelle, Contribuer à l'élaboration et la rédaction du rapport d'activité annuel de son activité"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952072.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le Centre Hospitalier Spécialisé Albert Bousquet recrute un(e) psychomotricien(ne) pour son centre de gérontologie clinique au sein de la Direction de la coordination des soins. Le poste consiste à réaliser des soins, des activités de rééducation et de stimulation sensorielle auprès de patients âgés présentant des troubles neuromoteurs et psychomoteurs.",
+  "disambiguatingDescription": "Poste de psychomotricien au centre de gérontologie clinique du CHS Albert Bousquet à Nouméa.",
+  "identifier": "26-1474",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Psychomotricien(ne)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "AreaServed",
+    "name": "Centre Hospitalier Spécialisé Albert Bousquet",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Nouville",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.25.29",
+    "email": "avp@chs.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'État de psychomotricien",
+    "competencyRequired": [
+      "Maîtrise des bases théoriques et pratiques en psychomotricité",
+      "Connaissances théoriques de la maladie Alzheimer ou maladies apparentées",
+      "Connaissance des concepts en éducation et rééducation thérapeutique",
+      "Connaissance des particularités culturelles présentes sur le territoire",
+      "Connaissances du réseau et des partenaires collaborant dans la prise en charge des personnes âgées en Nouvelle-Calédonie",
+      "Connaissance des règles d'éthique et déontologie",
+      "Capacité rédactionnelle et bonne pratique de l'outil informatique (Word et Excel, DXCARE, DxPlanning)"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence en Nouvelle-Calédonie au moins égale à 10 ans pour le recrutement sur titre",
+  "employerOverview": "Le Centre Hospitalier Spécialisé Albert Bousquet est un établissement public de santé de Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre de gérontologie clinique",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Expérience professionnelle auprès des personnes âgées souhaitée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique soins",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre Hospitalier Spécialisé Albert Bousquet - Nouville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Nouville",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire de catégorie B depuis plus de 2 ans",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "psychomotricien",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Professionnels de la rééducation en psychomotricité"
+    }
+  },
+  "responsibilities": [
+    "Réaliser des soins et des activités de rééducation et de stimulation sensorielle auprès de patients âgés présentant des troubles neuromoteurs et psychomoteurs pour un mieux-être psychocorporel, et qui concourent à la prévention, au dépistage, au diagnostic, au traitement",
+    "Animer des ateliers, individuels ou de groupe, de réhabilitation cognitive, sensorielle et locomotrice",
+    "Réalisation et rédaction de bilans psychomoteurs",
+    "Réalisation de techniques de psychomotricité : médiation corporelle, stimulation et relaxation en individuel et en groupe",
+    "Formalisation et actualisation du projet thérapeutique de la personne",
+    "Accueil et guidance de la famille et des proches de la personne",
+    "Information et éducation de la personne et de son entourage : participer au projet d'éducation thérapeutique du patient et de l'aidant",
+    "Rédaction et mise à jour du dossier du patient",
+    "Participer aux réunions cliniques de l'unité",
+    "Coordination avec les structures de soin concernant la personne",
+    "Concevoir, réaliser et évaluer des séances de stimulation multisensorielle dans la salle Snoezelen, adaptées aux besoins et aux capacités des patients, pour favoriser l'apaisement, le confort et la relation",
+    "Concevoir et animer des ateliers de cuisine thérapeutique dans la cuisine dédiée de l'établissement, afin de mobiliser les capacités psychomotrices, sensorielles et cognitives des patients et de soutenir leur autonomie dans les gestes du quotidien",
+    "Organiser et participer à des activités thérapeutiques à l'extérieur de l'établissement, en lien avec l'équipe soignante et le projet personnalisé du patient",
+    "Participer à des visites à domicile ou dans les structures d'accueil, notamment en EHPAD, avec un IDE ou un aide-soignant, afin d'évaluer les capacités psychomotrices et l'adaptation du patient à son environnement lors de la préparation ou du suivi de sa sortie",
+    "Contribuer, à partir de ces évaluations, aux recommandations auprès des proches et des équipes relais, pour faciliter la continuité de l'accompagnement et le maintien de l'autonomie"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Utiliser des méthodes et instruments d'évaluation : tests psychomoteurs",
+    "Réaliser un diagnostic des difficultés et capacités psychomotrices de la personne",
+    "Interpréter les données cliniques issues du bilan",
+    "Utiliser et adapter les techniques corporelles personnalisées",
+    "Organiser un cadre thérapeutique singulier à chaque patient",
+    "Élaborer et évaluer le projet thérapeutique",
+    "Créer une relation de confiance avec le patient et son entourage",
+    "Analyser, synthétiser et transmettre des données utiles et précises",
+    "Éduquer, conseiller le patient et l'entourage en vue d'une démarche d'autonomisation",
+    "Participer aux staffs cliniques",
+    "Utiliser le dossier patient informatisé",
+    "Réaliser des transmissions écrites et compte-rendu cliniques sur le dossier du patient",
+    "Capacité à s'adapter au fonctionnement de la structure et à l'organisation des soins",
+    "Capacité à gérer sa propre affectivité et à analyser sa pratique dans les situations de diagnostic et de soins",
+    "Capacité à se former (lecture, échanges avec les médecins gériatres et l'équipe pluridisciplinaire)",
+    "Esprit de recherche",
+    "Discrétion",
+    "Respect de la hiérarchie au sein de la structure",
+    "Respect de l'usager et de son entourage",
+    "Avoir le sens des responsabilités",
+    "Autonomie",
+    "Disponibilité",
+    "Adaptabilité",
+    "Organisation",
+    "Rigueur",
+    "Honnêteté",
+    "Sens du service public",
+    "Capacité à rendre compte",
+    "Dynamisme",
+    "Bonne humeur"
+  ],
+  "specialCommitments": null,
+  "title": "Psychomotricien(ne)",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-30",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "CHS",
+  "collectivite": "Centre hospitalier spécialisé \"Albert Bousquet\"",
+  "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.991,
+  "dossier": "sante-publique-soins"
+}
