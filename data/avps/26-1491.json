@@ -1,0 +1,202 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien",
+    "direction": "SERVICE TECHNIQUE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 3,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "RSF",
+      "TP",
+      "Chef de travaux",
+      "Service ressources humaines"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égal à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Poste au sein des locaux administratifs de la mairie avec des déplacements réguliers sur chantier."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953866.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le/la responsable du service technique aura en charge de diriger, coordonner et animer le service technique de la collectivité selon les projets établis par l'exécutif et les élus. Il/elle conseille et accompagner ces derniers. Il/elle assure le pilotage des projets techniques de la collectivité tant d'un point de vue administratif, financier que organisationnel et technique.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1491",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Responsable du service technique",
+  "owner": {
+    "@type": "Organization",
+    "name": "MAIRIE DE HIENGHÈNE"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Mairie de Hienghène",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "BP 71",
+      "addressLocality": "Hienghène",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "drh@mairie-hienghene.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac",
+    "competencyRequired": [
+      "Marché public (mode de passation et suivi de contrats)",
+      "Technique dans le domaine des infrastructures (normes, réglementation…)",
+      "Techniques de gestion de projet (planification, allocation de ressources…)",
+      "Règles administratives et comptables"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service technique",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience significative d'un an minimum dans le domaine de responsabilité d'un service technique, en conduite de travaux, maintenance des infrastructures, gestion des équipements publics et encadrement d'équipe.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "MAIRIE DE HIENGHÈNE"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Hienghène",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "BP 71",
+      "addressLocality": "Hienghène",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98815"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-11-27",
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements",
+    "Patrimoine bâti"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable d'opération en infrastructure",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "I1302",
+      "name": "Conduite de travaux du BTP"
+    }
+  },
+  "responsibilities": [
+    "Informer l'exécutif puis les élus et prendre en compte les orientations et priorités (commission des finances)",
+    "Conseiller l'exécutif puis les élus et alerter sur les risques techniques et financiers pour la collectivité",
+    "Préparer les commissions, expliquer les solutions proposées, rédiger le compte-rendu",
+    "Concevoir les projets et préparer le programme de réalisation",
+    "Prépare le programme de réalisation et détermine les périodes d'intervention",
+    "Suivre l'avancée des travaux et apporter les modifications nécessaires",
+    "Piloter et suivre les projets",
+    "Lancement de consultation et suivi des dossiers",
+    "Préparer des scénarios d'élaboration et de réalisation budgétaire",
+    "Déterminer une organisation, des étapes et un calendrier budgétaire cohérent",
+    "Garant du suivi des conformités des factures",
+    "Echanger régulièrement avec RSF et si nécessaire le TP pour un bon suivi budgétaire",
+    "Organiser le service afin de répondre aux objectifs en tenant compte des moyens humains, des moyens matériels et des moyens organisationnels",
+    "Définir les objectifs et des indicateurs de performance du service et des 3 agents en management directe",
+    "Evaluer les contributions collectives et individuelles de son équipe",
+    "Contrôler le travail réalisé par les agents sous sa responsabilité",
+    "Assurer un suivi disciplinaire avec le Chef de travaux et le service ressources humaines lorsque nécessaire",
+    "Accompagner le développement de son service et de son équipe",
+    "Garantir la communication ascendante et descendante entre son équipe et la hiérarchie",
+    "Organiser des réunions d'équipe",
+    "S'assurer du port des EPI et du travail réalisé en toute sécurité",
+    "Optimiser les niveaux de productivité",
+    "S'assurer du bon suivi des directives et du management du chef de travaux (le cas échéant les chefs de cellule)",
+    "Veiller à la bonne application du cahier des charges",
+    "Vérification du respect des normes applicables et des règles de constructions",
+    "Faire vérifier par le chef de travaux (le cas échéant les chefs de cellule) les prestations à son niveau",
+    "Rédaction de rapport et de notes",
+    "Rendre compte à sa hiérarchie"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Manager",
+    "Conduire et piloter un projet",
+    "Lancer les commandes en tant que Maitre d'ouvrage",
+    "Gérer et hiérarchiser des urgences et des échéances",
+    "Rédiger des rapports et des notes",
+    "Élaborer et mettre en œuvre des tableaux de bord par opération",
+    "Utiliser des outils d'amélioration continue (indicateurs, tableaux de bord…)",
+    "Construire un budget pluriannuel",
+    "Être en veille juridique et adapter son organisation aux évolutions législatives",
+    "Sens du relationnel et sens du dialogue, tout en restant dans l'intérêt global de la collectivité",
+    "Discrétion et respect de la confidentialité",
+    "Rigueur, méthode et organisation",
+    "Polyvalence et autonomie",
+    "Sens de l'organisation et capacité d'encadrement",
+    "Capacités d'analyse et de synthèse",
+    "Familiarité avec les données chiffrées",
+    "Réactivité",
+    "Qualité rédactionnelle",
+    "Exemplarité",
+    "Grande disponibilité",
+    "Sens du service public",
+    "Sens de l'initiative"
+  ],
+  "specialCommitments": null,
+  "title": "Responsable du service technique",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-30",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "MAIRIE-DE-HIENGHENE",
+  "collectivite": "MAIRIE DE HIENGHÈNE",
+  "direction": "SERVICE TECHNIQUE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Infrastructures, réseaux, eaux et assainissements",
+  "famille_source": "respnc",
+  "famille_score": 0.988,
+  "dossier": "infrastructures-reseaux-eaux-et-assainissements"
+}
