@@ -1,0 +1,160 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Médecin de santé publique",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directrice adjointe de la DPASS",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Médecins",
+      "Sages-femmes",
+      "Assistantes sociales",
+      "Orthophonistes",
+      "Spécialistes vacataires",
+      "Psychothérapeutes"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "inférieure à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Une attention particulière est portée à la santé communautaire, à la prévention et à la promotion de la santé, étant rappelé que le poste nécessite un bon niveau en termes d'urgences médicales. Ce poste demande des déplacements fréquents en province Sud. Les agents sont soumis à des astreintes de nuit et de week-end selon les plannings établis par roulements. Lors des remplacements en brousse, un logement provincial sera mis à disposition."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955534.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le poste de médecin itinérant permet de garantir la continuité de l’activité médicale sur toutes les structures de la province Sud et présente l’intérêt de la diversité. Le médecin ayant vocation à intervenir dans les équipes pluridisciplinaires aura pour missions des activités de médecine curative et préventive.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1484",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Médecin itinérant DPASS",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "75.26.97",
+    "email": "patricia.pedre@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme de médecin",
+    "competencyRequired": [
+      "Titulaire d'un diplôme de médecin ou de spécialiste en médecine générale ou d'urgence",
+      "Titulaire d'un diplôme d’épidémiologie et/ou de santé publique",
+      "Connaissances de la charte d’Ottawa"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Rattachée au pôle développement et épanouissement de la personne, la direction de l’action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l’ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience en poste isolé serait utile",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": "Lors des remplacements en brousse, un logement provincial sera mis à disposition.",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction Provinciale de l'Action Sanitaire et Sociale",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-05-01",
+  "occupationalCategory": [
+    "Politique de santé publique",
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Titulaire du permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Médecin itinérant",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2104",
+      "name": "Médecine de prévention"
+    }
+  },
+  "responsibilities": [
+    "assurer les remplacements des médecins dans les CMS de la province Sud, en particulier ceux situés en brousse et qui assurent les urgences médicales 24h/24 (La Foa, Bourail, Thio, Yaté, Île des Pins)",
+    "assurer la médecine curative, y compris les urgences avec des périodes d'astreintes",
+    "assurer la médecine préventive, notamment l'activité de protection maternelle et infantile, la médecine scolaire et la contraception",
+    "participer et, le cas échéant, de mener des programmes de santé publique et des projets impliquant plusieurs partenaires",
+    "proposer des actions de prévention en lien avec les pathologies prédominantes et les problématiques de santé publique rencontrées",
+    "formuler des propositions d'actions visant à améliorer la prise en charge des patients"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Connaissance dans la gestion des urgences",
+    "Connaissance dans la gestion de programmes de prévention et de promotion de la santé au sens de la charte d'Ottawa",
+    "Capacité à mener des projets de santé communautaire",
+    "Connaissances en obstétrique",
+    "Connaissances en pédiatrie",
+    "Connaissances en santé publique (PMI, médecine scolaire, contraception-IVG dépistage et traitement des IST, etc.)",
+    "Notions du logiciel de gestion de données médicales (ASCLEPIOS)",
+    "Capacités relationnelles et d'accueil",
+    "Motivation professionnelle",
+    "Capacités d’entreprendre et d’innover",
+    "Adaptabilité",
+    "Disponibilité",
+    "Force de propositions",
+    "Ouvert d’esprit",
+    "Sens du travail en équipe et en synergie médico-sociale"
+  ],
+  "specialCommitments": "Astreintes de nuit et de week-end selon les plannings établis par roulements. Déplacements fréquents en province Sud.",
+  "title": "Médecin itinérant DPASS",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-30",
+  "workHours": "Astreintes de nuit et de week-end",
+  "champs_open_data": 9,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Travail",
+  "famille_source": "respnc",
+  "famille_score": 0.787,
+  "dossier": "travail"
+}
