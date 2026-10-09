@@ -1,0 +1,168 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 2-Diplôme niveau V",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Parc Provincial de la Rivière Bleue",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable de bureau du service du PPRB",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Service de Gestion des Aires Protégées",
+      "Service administratif et financier"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Horaires atypiques (travail en weekend end et en jours fériés). Marche de longue durée avec dénivelé, et travaux manuels en extérieur et par tout temps dans des espaces naturels isolés. Polyvalence et diversité des activités/tâches. Manipulation de produits dangereux."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interventions spécifiques",
+        "value": "Formé à un niveau FDF1 et équipé en EPI en conséquence, l'agent est amené à intervenir en DFCI sur le PPRB et hors du parc, sur réquisition."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957432.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction du développement durable des territoires de la province Sud (DDDT) est chargée, au sein du pôle transition écologique, de contribuer à la mise en œuvre des politiques publiques en matière de développement des territoires (notamment économique et d'aménagement) en assurant la transition écologique, la protection et la valorisation des patrimoines naturels et des espaces agricoles. Le Service de Gestion des Aires Protégées (SGAP) est chargé notamment de la mise en œuvre des stratégies élaborées par la direction, adaptées aux différentes structures qu'il gère et dans le cadre de ses compétences. L'équipe du Parc Provincial de la Rivière Bleue (PPRB) élabore sa feuille de route et la met en œuvre conformément à son plan de gestion et au règlement intérieur du parc.",
+  "disambiguatingDescription": "Poste d'agent mécanicien du parc de véhicules engins et matériels au Parc Provincial de la Rivière Bleue, localisé à Yaté.",
+  "identifier": "26-1480",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Agent mécanicien du parc de véhicules engins et matériels au PPRB",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.33.92",
+    "email": "drh.candidatures@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "CAP/BEP",
+    "competencyRequired": [
+      "Compétences et expériences en mécanique générale VL PL engins exigé",
+      "Connaissance en entretien de petits matériels d'espaces verts",
+      "Connaissances en circuits électriques, hydrauliques et pneumatiques",
+      "Maîtrise du diagnostic mécanique, hydraulique et électropneumatique",
+      "Connaissance du réseau de concessionnaires, de fournisseurs de pièces détachées, et de réparateurs spécialisés de la place"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction du développement durable des territoires de la province Sud (DDDT) est chargée, au sein du pôle transition écologique, de contribuer à la mise en œuvre des politiques publiques en matière de développement des territoires en assurant la transition écologique, la protection et la valorisation des patrimoines naturels et des espaces agricoles.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Parc Provincial de la Rivière Bleue",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Compétences et expériences en mécanique générale VL - PL - engins exigé",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Parc Provincial de la Rivière Bleue",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Yaté",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98834"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Ateliers et véhicules",
+    "Environnement"
+  ],
+  "physicalRequirement": "Marche de longue durée avec dénivelé, et travaux manuels en extérieur et par tout temps dans des espaces naturels isolés. Bonne condition physique.",
+  "qualifications": "Permis B exigé, C D et E fortement souhaité. Formation FDF1.",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Mécanicien",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "I1602",
+      "name": "Mécanique d'engins de chantier, de levage et manutention et de machines agricoles"
+    }
+  },
+  "responsibilities": [
+    "Mettre en œuvre les prescriptions techniques de la délibération n° 56/CP, notamment, d'assurer la complétude et le suivi du registre d'observations commun à l'ensemble du parc de véhicules et engins mis à disposition des agents les exploitant",
+    "Compléter et suivre le registre de sécurité de chaque véhicule et engin dont le format papier peut être exigé par réquisition des autorités compétentes en cas d'accident et le suivi des matériels et engins selon un format numérique",
+    "Contrôler le bon entretien courant des véhicules et engins par leurs responsables",
+    "Faire mettre en œuvre, le cas échéant, les mesures correctives par les responsables des véhicules et engins",
+    "Procéder aux vérifications du bon état de fonctionnement des véhicules et engins",
+    "Garantir leur état de marche",
+    "Effectuer les diagnostics mécaniques",
+    "Procéder aux réparations pouvant être faites sur site, ou faire faire les réparations ad hoc par un opérateur spécialisé",
+    "Assurer la responsabilité des matériels et outils de diagnostic et de réparation (pont élévateur, compresseur, dispositif de vidange, caisse à outils, etc.)",
+    "Prendre en charge le traitement des déchets issus de l'activité d'entretien ou de leur recyclage",
+    "Assurer la gestion de l'approvisionnement en vrac en carburants et lubrifiants du PPRB",
+    "Exploiter et faire évoluer l'outil numérique de suivi du parc de matériels, d'engins et de véhicules du PPRB",
+    "Conduire des travaux manuels et mécanisés d'entretiens courant des aménagements (sentiers, signalétiques), des mobiliers, des bâtis, des VRD et des espaces verts, et de maîtrise des espèces exotiques nuisibles",
+    "Suivre des petits chantiers d'aménagements, d'entretien d'espaces verts, ou de bâtiments confiés au secteur privé",
+    "Assurer des missions d'information pour l'accueil du public, effectuer des patrouilles de surveillance et réaliser des permanences les week-ends et jours fériés",
+    "Intervenir en DFCI sur le PPRB et hors du parc, sur réquisition",
+    "Encadrer des stagiaires le cas échéant"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Accueil et information de public",
+    "Capacité à décrire et rapporter les contextes et situations d'état des lieux et en cas de gestion de crise (accidents, détresse, incendies, blessures)",
+    "Connaissance informatique de base (Word, Excel, Outlook)",
+    "Assiduité et ponctualité",
+    "Sens du service public",
+    "Aisance relationnelle",
+    "Rigueur et disponibilité",
+    "Goût de l'effort et du travail manuel en extérieur par tout temps",
+    "Capacité à travailler en équipe"
+  ],
+  "specialCommitments": "Permanences les week-ends et jours fériés, astreintes et interventions DFCI sur réquisition.",
+  "title": "Agent mécanicien du parc de véhicules engins et matériels au PPRB",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-30",
+  "workHours": "Horaires atypiques (travail en week-end et en jours fériés)",
+  "champs_open_data": 8,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Ateliers et véhicules",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "ateliers-et-vehicules"
+}
