@@ -1,0 +1,167 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Bureau de la vie scolaire et de l’action éducative (BVSAE)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable du BVSAE",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Service de l’action éducative et de la proximité (SAEP)",
+      "Service administratif et financier (SAF)",
+      "Directeurs des écoles primaires publiques de la province Sud"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Les évolutions des activités du service impliquent que l’ensemble des agents du SAEP adapte ses missions aux besoins prioritaires du service ou de la DERES."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Évolution de carrière",
+        "value": "Possibilité d’évolution des missions en fonction de l’aptitude du candidat."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952136.PDF"
+      }
+    ]
+  },
+  "alternateName": "Gestionnaire administratif - profil éducation",
+  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l’éducation et de la réussite scolaire de la province Sud (DERES) a pour mission de garantir l’épanouissement de la jeunesse plurielle dans un environnement éducatif propice à la réussite quel que soit le niveau du système scolaire et de favoriser le bien-être de ses personnels. Au sein du service de l’action éducative et de la proximité (SAEP), le bureau de la vie scolaire et de l’action éducative (BVSAE) est chargé principalement du pilotage des actions éducatives, de garantir un lien de proximité entre les services administratifs de la DERES et les directeurs des écoles primaires publiques de la province sud, de la scolarisation des élèves avec une attention particulière envers les élèves à besoin éducatifs particuliers, en situation de handicap ou de situation sociale difficile, des inscriptions scolaires et de la gestion prévisionnelle des effectifs des élèves dans le cadre de la préparation de la carte scolaire, de mener des réflexions et d’élaborer des solutions concrètes aux problématiques rencontrées au sein des établissements scolaires.",
+  "disambiguatingDescription": "Gestionnaire administratif aux écoles au sein du bureau de la vie scolaire et de l'action éducative de la province Sud.",
+  "identifier": "26-1469",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Gestionnaire administratif aux écoles",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.49.74",
+    "email": "devi.minatchy@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Débutant accepté",
+    "competencyRequired": [
+      "Connaissance des procédures administratives et comptables",
+      "Compréhension des enjeux des politiques d’éducation",
+      "Connaissance de l’organisation de la province Sud et des circuits de validation",
+      "Maîtrise de la méthodologie de projet et de ses outils",
+      "Maîtrise des outils informatiques et bureautique",
+      "Maîtrise des techniques de communication et d’animation de groupe",
+      "Capacité à travailler en équipe, à mobiliser et à consolider des partenariats"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction de l’éducation et de la réussite scolaire de la province Sud (DERES) a pour mission de garantir l’épanouissement de la jeunesse plurielle dans un environnement éducatif propice à la réussite quel que soit le niveau du système scolaire et de favoriser le bien-être de ses personnels.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Débutant accepté",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Education",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Province Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-03-01",
+  "occupationalCategory": [
+    "Education",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Gestionnaire administratif - profil éducation",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2107",
+      "name": "Médiation sociale et facilitation de la vie citoyenne"
+    }
+  },
+  "responsibilities": [
+    "Traiter et assurer un suivi des demandes de sorties scolaires",
+    "Participer à l'élaboration et au suivi des conventions de partenariat établies dans le cadre des prestations proposées dans le Guide de l'offre éducative",
+    "Organiser des modalités de gestion administrative et financière de l’ensemble des dossiers (subventions, budgets participatifs) en lien avec le service administratif et financier (SAF)",
+    "Organiser et suivre administrativement les commissions d’attribution des subventions (s’assurer du respect des procédures, de la rédaction du procès-verbal, de la communication des résultats)",
+    "Être force de proposition pour faire évoluer les process administratifs en place au bénéfice d'un meilleur service public rendu",
+    "Participer à la gestion courante du bureau, notamment pendant les pics d’activité : d'accueillir les parents, les partenaires, les enseignants et les directeurs, et de les informer",
+    "Rédiger et diffuser des courriers, des comptes-rendus et des supports d'information",
+    "Assister les équipes-écoles in situ dans leurs démarches administratives"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Forte appétence à l’usage de nouveaux outils informatiques",
+    "Capacité à travailler en équipe, à mobiliser et à consolider un collectif",
+    "Qualité rédactionnelle (notes de synthèse, rapports…)",
+    "Aptitude à collecter et à analyser des données",
+    "Capacité à rendre compte",
+    "Capacité à mobiliser des ressources et des compétences extérieures pour enrichir les projets",
+    "Capacité à valoriser et à promouvoir des actions en interne et en externe",
+    "Grande qualité relationnelle",
+    "Sens des responsabilités et de l’initiative",
+    "Excellent esprit d’analyse et de synthèse",
+    "Force de proposition et créativité",
+    "Esprit d’équipe et polyvalence",
+    "Etat d’esprit positif",
+    "Dynamisme"
+  ],
+  "specialCommitments": null,
+  "title": "Gestionnaire administratif aux écoles",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-30",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Education",
+  "famille_source": "respnc",
+  "famille_score": 0.992,
+  "dossier": "education"
+}
