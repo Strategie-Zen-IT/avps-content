@@ -1,0 +1,170 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Gardien de la police municipale",
+    "direction": "DIRECTION DE LA POLICE MUNICIPALE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur de la police municipale",
+    "placeOrganigramme": "Placé sous l'autorité du Directeur de la police municipale et des chefs de brigade",
+    "relationsFonctionnelles": [
+      "Directeur de la police municipale",
+      "Chefs de brigade",
+      "Procureur de la République",
+      "Haut-commissaire"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Travail en régime hebdomadaire ou cyclique selon l'affection; Disponibilité; Titulaire du permis B; Compétences judiciaires (APJA); Bonne condition physique; Aptitude médicale à l'exercice de l'emploi et au port d'armes de catégories B et D; La ville de DUMBÉA demandera l'agrément et l'assermentation délivrés par le procureur de la République ainsi que l'agrément délivré par le Haut-commissaire; Casier judiciaire vierge; Visite médicale d'aptitude conforme aux statuts."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956374.PDF"
+      }
+    ]
+  },
+  "alternateName": "Policier municipal",
+  "description": "Deuxième commune de Nouvelle Calédonie avec ses 35 000 habitants, DUMBEA s'affiche comme une ville d'avenir, dynamique, vivante et multiculturelle dans laquelle il fait bon vivre. Sa richesse est de réunir à la fois un caractère très urbain au sud et plus rural au nord. Avec cette forte densification des infrastructures et de logements, les actions de tranquillité publique, de sécurité et bon ordre se sont diversifiées et multipliées ces dernières années. Il convient d'assurer également la tranquillité et le respect de l'environnement et des usages dans la partie Nord de la commune qui s'affiche comme le poumon vert de l'agglomération.",
+  "disambiguatingDescription": "Placé sous l'autorité du Directeur de la police municipale, l'agent a pour mission générale d'assurer, en tout temps et sur l'ensemble du territoire communal, le bon ordre, la sûreté, la sécurité et la salubrité publique.",
+  "identifier": "26-1493",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "3 Gardiens de police municipale",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Dumbéa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "41.88.88",
+    "email": "olivier.lebeulze@ville-dumbea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Réussite au concours de gardien de police municipale",
+    "competencyRequired": [
+      "Textes législatifs, règlements et codes relevant des compétences de l'activité",
+      "Code de la route",
+      "Mode de fonctionnement des institutions judiciaires et des procédures pénales",
+      "Code des communes",
+      "Code de la sécurité intérieure",
+      "Pouvoirs de police du maire",
+      "Méthodes et principes de surveillance des lieux sensibles",
+      "Techniques de résolution de conflits",
+      "Techniques de négociation et médiation",
+      "Acteurs et intervenants de la sécurité et de la précaution",
+      "Caractéristiques géographiques et socio-économiques du territoire de compétences",
+      "Bonne maîtrise de l'outil informatique et des logiciels Word et Excel sous Windows",
+      "Réussite au concours de gardien de police municipale",
+      "Avoir déjà suivi la formation initiale des agents de police municipale serait un plus"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Deuxième commune de Nouvelle Calédonie avec ses 35 000 habitants, DUMBEA s'affiche comme une ville d'avenir, dynamique, vivante et multiculturelle dans laquelle il fait bon vivre.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Ville de Dumbéa",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Avoir déjà suivi la formation initiale des agents de police municipale serait un plus.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Dumbéa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Dumbéa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Prévention et sécurité"
+  ],
+  "physicalRequirement": "Bonne condition physique, aptitude médicale à l'exercice de l'emploi et au port d'armes de catégories B et D",
+  "qualifications": "Titulaire du permis B, Compétences judiciaires (APJA), Agrément et assermentation délivrés par le procureur de la République, Agrément délivré par le Haut-commissaire, Casier judiciaire vierge",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Policier municipal",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2501",
+      "name": "Police municipale"
+    }
+  },
+  "responsibilities": [
+    "Surveillance et prévention des désordres et incivilités sur la voie publique et le parc de Dumbéa",
+    "Opérateur vidéo",
+    "Recherche et constat des infractions relevant des pouvoirs de police du maire, ou du code de la sécurité intérieure (APJA)",
+    "Rédaction d'écrits de service et comptes rendus d'activité",
+    "Maintien du lien social",
+    "Application de la police funéraire et de l'urbanisme"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": "Casier judiciaire vierge, agrément et assermentation délivrés par le procureur de la République et le Haut-commissaire",
+  "sensoryRequirement": null,
+  "skills": [
+    "Appliquer les missions définies par la hiérarchie",
+    "Tenir des permanences au centre de vidéo protection",
+    "Analyser et gérer les situations",
+    "Réaliser des enquêtes administratives, établir et rédiger des rapports d'activités, des comptes rendus de missions d'îlotage et de prévention",
+    "Porter assistance à des usagers",
+    "Accueil du public",
+    "Sécurité des biens et des personnes",
+    "Probité",
+    "Respect de la hiérarchie",
+    "Sens aigu de la discipline et du service public en général",
+    "Aptitude au travail en équipe",
+    "Disponibilité et forte motivation",
+    "Respect des mesures de sécurité, du cadre juridique et de la déontologie",
+    "Rigueur face à l'application des procédures",
+    "Diplomatie et qualités relationnelles",
+    "Sens de l'adaptation et de réactivité",
+    "Sens de l'observation et de l'écoute",
+    "Respect du devoir de réserve",
+    "Stabilité d'humeur, maîtrise de soi dans les situations d'urgence"
+  ],
+  "specialCommitments": "Travail en régime hebdomadaire ou cyclique selon l'affection, disponibilité",
+  "title": "3 Gardiens de police municipale",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-30",
+  "workHours": "Travail en régime hebdomadaire ou cyclique selon l'affection",
+  "champs_open_data": 8,
+  "employeur_sigle": "VILLE-DE-DUMBEA",
+  "collectivite": "Ville de Dumbéa",
+  "direction": "DIRECTION DE LA POLICE MUNICIPALE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Prévention et sécurité",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "prevention-et-securite"
+}
