@@ -1,0 +1,183 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "Service de l'économie numérique, des filières d'avenir et de l'attractivité",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service de l'économie numérique, des filières d'avenir et de l'attractivité",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "French Tech NC",
+      "Centre Cyber NC",
+      "Campus N",
+      "Agence de développement et d'attractivité"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée du contrat",
+        "value": "1 an renouvelable"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Bruno FERRANDIS, directeur adjoint en charge du pôle entreprises et attractivité"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957422.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Inaugurée en 2022, la Station N constitue aujourd'hui un lieu fédérateur de 700 m² au cœur de l'écosystème numérique, entrepreneurial et innovant calédonien. Conçue à l'origine comme la vitrine de la Tech et de l'innovation en Nouvelle-Calédonie, elle a permis de structurer une communauté d'acteurs, de faire émerger des projets et de donner de la visibilité aux savoir-faire calédoniens en matière de numérique.\n\nLes enjeux économiques de la Nouvelle-Calédonie (diversification économique, structuration des filières d'avenir, urgence de l'attractivité du territoire) ont naturellement conduit à élargir le positionnement de la Station N vers un outil collectif au service de la stratégie d'attractivité et de diversification économique de la Nouvelle-Calédonie, sans remettre en cause son ancrage numérique fondateur. Ses objectifs sont désormais les suivants :\n- Réunir les forces vives du territoire sur un site partagé, pour favoriser les synergies et soutenir le développement des filières d'avenir. À terme, l'objectif est d'y regrouper les clusters, la French Tech NC, le Centre Cyber NC, le Campus N et la future agence d'attractivité, sur un site plus grand ;\n- Animer l'écosystème entrepreneurial, numérique et des filières d'avenir, via des ateliers, formations, événements et partenariats ;\n- Faire émerger des projets et des champions calédoniens, en orientant les porteurs de projets vers les bons experts, dispositifs, financements et réseaux (RDV en ligne avec un acteur, futur annuaire d'experts et de dispositifs transverses aux filières) ;\n- Valoriser les savoir-faire, talents et compétences calédoniens, et ainsi porter l'expertise calédonienne à l'extérieur du territoire.\n\nMissions : rattaché(e) au service de l'économie numérique, des filières d'avenir et de l'attractivité de la DECAT, le coordinateur de la Station N a pour principales missions la gestion logistique et technique du tiers-lieu, ainsi que son animation. Garant du bon fonctionnement quotidien et de la qualité de vie du lieu, il contribue également à l'élaboration de nouveaux services.",
+  "disambiguatingDescription": "Coordinateur de la Station N, tiers-lieu de l'entrepreneuriat et de l'innovation en Nouvelle-Calédonie.",
+  "identifier": "26-65113",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Coordinateur de la Station N, le tiers-lieu de l'entrepreneuriat, des filières d'avenir et de l'attractivité.",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "23.22.50",
+    "email": "bruno.ferrandis@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Savoir :",
+      "Connaissance de l'environnement socio-culturel calédonien, de ses enjeux sociétaux et économiques",
+      "Connaissance approfondie du rôle de la Station N."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La Station N est conçue comme la vitrine de la Tech et de l'innovation en Nouvelle-Calédonie, permettant de structurer une communauté d'acteurs, de faire émerger des projets et de donner de la visibilité aux savoir-faire calédoniens en matière de numérique.",
+  "employmentType": "TEMPORARY",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de l'économie numérique, des filières d'avenir et de l'attractivité",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience avérée dans l'animation d'un tiers-lieu",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": "1 an",
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Station N",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-10-01",
+  "occupationalCategory": [
+    "Administration générale",
+    "Communication",
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Coordinateur de la Station N",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "I1602",
+      "name": "Coordinateur de site logistique"
+    }
+  },
+  "responsibilities": [
+    "Placé sous l'autorité du chef du service de l'économie numérique, des filières d'avenir et de l'attractivité, le coordinateur de la station N a pour activités principales :",
+    "L'intendance du lieu (ouverture, fermeture, accueil, gestion des prestataires, maintenance, réservation des espaces, etc)",
+    "L'animation du lieu, en lien avec les résidents du tiers-lieu (comité de suivi, actions de cohésion, afterwork, networking, qualité de vie au travail, etc)",
+    "L'amélioration de l'offre de la station N en s'appuyant sur les retours de sa communauté et les évolutions de l'écosystème",
+    "La mise en place d' indicateurs de suivi et la réalisation d'un reporting régulier de ses activités auprès de sa hiérarchie.",
+    "Activités secondaires :",
+    "Préparer le budget du site pour l'intégrer dans la nomenclature budgétaire de la DECAT",
+    "Participer activement au développement de nouveaux partenariats",
+    "Effectuer un travail de veille et proposer des évolutions."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Savoir Faire:",
+    "Expérience avérée dans l'animation d'un tiers-lieu",
+    "Maîtrise des règles budgétaires et comptables publiques.",
+    "Comportements professionnels :",
+    "Esprit d'équipe, qualité d'écoute, de communication et de pédagogie",
+    "Méthode, rigueur et organisation",
+    "Sens du relationnel",
+    "Esprit d'analyse et de synthèse",
+    "Autonomie, capacité d'adaptation et réactivité",
+    "Dynamisme, esprit d'initiative et curiosité intellectuelle",
+    "Sens de la performance et du service public",
+    "Conduite de réunions multi partenariales.",
+    "Disponibilité."
+  ],
+  "specialCommitments": null,
+  "title": "Coordinateur de la Station N, le tiers-lieu de l'entrepreneuriat, des filières d'avenir et de l'attractivité.",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-30",
+  "workHours": null,
+  "champs_open_data": 27,
+  "employeur_sigle": "NOUVELLE-CALEDONIE",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Ateliers et véhicules",
+  "famille_source": "respnc",
+  "famille_score": 0.761,
+  "dossier": "ateliers-et-vehicules"
+}
