@@ -1,0 +1,182 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+    "uniteOrganisationnelle": "Hôpital de jour",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Unités de soins du CHS",
+      "Institutions et associations diverses"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service",
+        "value": "Psychiatrie générale"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953386.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'Hôpital de jour est une unité de soins visant à la resocialisation psychosociale des patients. Les missions de l'infirmier(ère) font référence à la délibération n° 104 du 15 décembre 2010 du congrès de la Nouvelle-Calédonie relative à l'exercice et aux règles professionnelles de la profession d'infirmier.",
+  "disambiguatingDescription": "Poste d'infirmier(ère) en extra-hospitalier au sein de l'Hôpital de jour en psychiatrie générale.",
+  "identifier": "26-1471",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Infirmier(e) en extra-hospitalier",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Centre Hospitalier Spécialisé Albert Bousquet",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.25.29",
+    "email": "avp@chs.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'État d'Infirmier",
+    "competencyRequired": [
+      "Règles professionnelles de la profession d'infirmier",
+      "Délibération n° 104 du 15 décembre 2010 du congrès de la Nouvelle-Calédonie",
+      "Psychopathologie",
+      "Santé mentale",
+      "Démarche de soins"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence au moins égale à 5 ans pour le recrutement sur titre",
+  "employerOverview": "Le Centre Hospitalier Spécialisé Albert Bousquet est l'établissement de référence en santé mentale en Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Hôpital de jour",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience de travail en santé mentale souhaitée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique soins",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôpital de jour (centre-ville)",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplôme d'État d'Infirmier ou infirmier en soins généraux",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "infirmier diplômé d’Etat ou infirmier en soins généraux",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1402",
+      "name": "Infirmier / Infirmière en soins généraux"
+    }
+  },
+  "responsibilities": [
+    "Conduire un entretien d'accueil du patient et/ou de son entourage : établir un recueil d'informations relatif à la personne accueillie",
+    "Concourir au recueil de données cliniques et d'informations utiles aux différents professionnels de l'équipe",
+    "Participer à l'élaboration du projet de soins personnalisé",
+    "Mener une réflexion et élaborer des projets relatifs à la mise en place et/ou l'amélioration des différents ateliers à visée psycho socio thérapeutique",
+    "Proposer, organiser et animer des activités à visée psycho socio thérapeutique individuelle et de groupe puis en réaliser l'évaluation",
+    "Restaurer les capacités de relation et revaloriser celles de création",
+    "Aider à maintenir ou à retrouver une identité sociale",
+    "Mener des entretiens individuels (aide, suivi, évaluation)",
+    "Associer les familles au soin : rencontres, entretiens, soutien, et travail du lien",
+    "Participer aux consultations pluridisciplinaires",
+    "Effectuer des visites à domicile, en lien avec le projet de soins",
+    "Surveiller et évaluer les engagements thérapeutiques qui allient le patient, le médecin et l'infirmier",
+    "Vérifier et/ou ponctuellement aider à la prise du traitement. Informer le patient et surveiller l'effet de ce traitement",
+    "Participer à l'éducation relative à la prise du traitement, en matière d'hygiène, d'équilibre alimentaire, de santé individuelle et collective, de sécurité, d'éducation sexuelle",
+    "Mettre en place le dossier de soins pour chaque patient et veiller à la traçabilité des soins et à la mise à jour du dossier patient informatisé",
+    "Concourir au recueil de données pour l'élaboration du rapport d'activité",
+    "Participer aux réunions de l'unité nécessaires au bon déroulement du suivi",
+    "Etablir un travail de partenariat permettant la cohérence et la continuité du soin",
+    "Assurer l'encadrement des stagiaires en formation",
+    "Réaliser des interventions pédagogiques auprès des étudiants",
+    "Participer à la vie institutionnelle de l'établissement"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Bonne connaissance en psychopathologie",
+    "Expérience de travail en santé mentale",
+    "Qualités relationnelles",
+    "Maîtrise de la démarche de soins",
+    "Sens du travail en équipe",
+    "Logique et rigueur dans l'organisation",
+    "Autonomie et créativité",
+    "Disponibilité",
+    "Goût pour les arts et/ou le sport",
+    "Sens de la communication",
+    "Qualités rédactionnelles"
+  ],
+  "specialCommitments": null,
+  "title": "Infirmier(e) en extra-hospitalier",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-30",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "CHS",
+  "collectivite": "Centre hospitalier spécialisé \"Albert Bousquet\"",
+  "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 0.831,
+  "dossier": "politique-de-sante-publique"
+}
