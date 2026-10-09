@@ -1,0 +1,165 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Service des affaires financières",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service des affaires financières",
+    "placeOrganigramme": "Sous l'autorité du chef de service des affaires financières",
+    "relationsFonctionnelles": [
+      "Services opérationnels",
+      "Centres médico-sociaux"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Forte activité en période de préparation budgétaire et de clôture budgétaire."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Intérim",
+        "value": "L'agent retenu sera amené à assurer l'intérim du chef de service en cas d'absence."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953010.PDF"
+      }
+    ]
+  },
+  "alternateName": "Adjoint au chef du SAF",
+  "description": "Au sein du pôle support, évaluation et accompagnement de la direction de l'action sanitaire et sociale (DPASS) de la province Sud, le service des affaires financières (SAF) a pour missions l'élaboration du budget en dépenses et recettes et le suivi de son exécution, le suivi des subventions, ainsi que la régulation et la gestion de l'ensemble des régies.",
+  "disambiguatingDescription": "Poste d'adjoint au chef du service des affaires financières au sein de la DPASS de la Province Sud, axé sur le pilotage budgétaire, la commande publique et l'animation d'équipe.",
+  "identifier": "26-1477",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Adjoint au chef du service des affaires financières",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.44.13",
+    "email": "sandrine.colombet@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Rédacteur",
+    "competencyRequired": [
+      "Expérience en management",
+      "Bonnes connaissances en comptabilité publique",
+      "Maîtrise des règles de la commande publique",
+      "Maîtrise du cadre réglementaire des régies d'avances et de recettes",
+      "Connaissance de l'organisation administrative et institutionnelle et des circuits administratifs"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction de l'action sanitaire et sociale (DPASS) est rattachée au pôle développement et épanouissement de la personne de la province Sud et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS) et centres médico-sociaux (CMS) et de ses autres sites excentrés.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service des affaires financières",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience en management requise.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "DPASS",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Centre administratif de la province Sud - 6 route des artifices",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Finances et budget"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable financier",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1203",
+      "name": "Direction administrative et financière"
+    }
+  },
+  "responsibilities": [
+    "Assister et seconder le chef de service dans ses missions managériales et de pilotage",
+    "Contribuer au pilotage des activités et assurer l'animation de l'équipe",
+    "Contribuer à la préparation budgétaire (dépenses/recettes) et au suivi de l'exécution du budget",
+    "Assurer le contrôle quotidien de l'exécution budgétaire (dépenses/recettes), ainsi que le suivi et le respect des délais de traitement",
+    "Superviser les régies de recettes des centres médico-sociaux",
+    "Assurer le respect des procédures de la commande publique",
+    "Contribuer à l'amélioration du contrôle interne",
+    "Contribuer au contrôle qualité des dossiers transmis à la direction",
+    "Contribuer à l'élaboration des rapports d'activité du service",
+    "Apporter appui et accompagnement aux services opérationnels"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Aptitude à coordonner, à encadrer et à animer l'activité d'une équipe",
+    "Gérer et hiérarchiser des urgences et des échéances",
+    "Utiliser les outils d'amélioration continue (indicateurs, tableaux de bord...)",
+    "Maîtrise des outils bureautiques (Word, excel, powerpoint)",
+    "Maîtrise des applications métiers (Astre, Salsa, Asclepios)",
+    "Capacité d'écoute et d'accompagnement",
+    "Esprit d'analyse et de synthèse",
+    "Rigueur",
+    "Réactivité",
+    "Fiabilité",
+    "Esprit d'équipe",
+    "Respect de la confidentialité des données",
+    "Disponibilité",
+    "Sens du service public"
+  ],
+  "specialCommitments": null,
+  "title": "Adjoint au chef du service des affaires financières",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-30",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Finances et budget",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "finances-et-budget"
+}
