@@ -1,0 +1,164 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Médecin de santé publique",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service des ressources humaines et des moyens",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Cabinets paramédicaux libéraux",
+      "Dispositifs de proximité"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "inférieure à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Le poste nécessite un bon niveau en termes d'urgences médicales et demande des déplacements fréquents en province Sud. Lors des remplacements en brousse, un logement provincial sera mis à disposition. Les agents sont indemnisés pour leurs astreintes de nuit et de week-end, auxquelles ils sont soumis selon les plannings établis par roulement."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955534.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des UPASS, des centres médico-sociaux et des autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales. Le poste de médecin itinérant permet de garantir la continuité de l'activité médicale sur toutes les structures de la province Sud et présente l'intérêt de la diversité. Le médecin ayant vocation à intervenir dans les équipes pluridisciplinaires (médecins, sages-femmes, assistantes sociales, orthophonistes, spécialistes vacataires, psychothérapeutes, etc.) aura pour missions des activités de médecine curative et préventive.",
+  "disambiguatingDescription": "Médecin itinérant assurant des remplacements et la continuité de l'activité médicale curative et préventive sur l'ensemble des structures de la province Sud.",
+  "identifier": "26-1482",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Médecin itinérant en province Sud",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Province Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.44.71",
+    "email": "patricia.pedre@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme de médecin ou de spécialiste en médecine générale ou d'urgence",
+    "competencyRequired": [
+      "Titulaire d'un diplôme de médecin ou de spécialiste en médecine générale ou d'urgence"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et répondre aux difficultés sociales.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Direction Provinciale de l'Action Sanitaire et Sociale",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience en médecine générale, expérience en médecine d'urgence, expérience médicale si possible en milieu isolé, expérience et capacité dans la prise en charge des urgences et en protection maternelle et infantile, expérience en réalisation d'études dans le domaine de la santé.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": "Indemnisation pour les astreintes de nuit et de week-end selon les plannings établis par roulement.",
+  "industry": "Santé publique",
+  "jobBenefits": "Logement provincial mis à disposition lors des remplacements en brousse.",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction Provinciale de l'Action Sanitaire et Sociale",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6 route des artifices",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Titulaire du permis B et d'un véhicule",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Médecin généraliste",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2104",
+      "name": "Médecine de prévention"
+    }
+  },
+  "responsibilities": [
+    "Assurer les remplacements des médecins dans les centres médico-sociaux de la province Sud, en particulier ceux situés en brousse et qui assurent les urgences médicales 24h/24 (Thio, Yaté, Bourail, Ile des Pins et La Foa)",
+    "Assurer la médecine curative, y compris les urgences avec des périodes d'astreintes",
+    "Participer, en lien avec les cabinets paramédicaux libéraux et les dispositifs de proximité, au maintien à domicile des personnes en situation de dépendance, et/ou dans ce cadre, d'organiser et de réaliser des visites à domicile",
+    "Assurer la médecine préventive, notamment l'activité de protection maternelle et infantile, la médecine scolaire et la contraception",
+    "Participer et, le cas échéant, de mener des programmes de santé publique et des projets impliquant plusieurs partenaires",
+    "Proposer des actions notamment de prévention"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Expérience en médecine générale",
+    "Expérience en médecine d'urgence",
+    "Expérience médicale si possible en milieu isolé",
+    "Expérience et capacité dans la prise en charge des urgences et en protection maternelle et infantile",
+    "Expérience en réalisation d'études dans le domaine de la santé",
+    "Disponibilité",
+    "Facultés d'adaptation et d'intégration au sein de plusieurs équipes",
+    "Sens de la négociation et de la pédagogie",
+    "Capacités d'analyse",
+    "Esprit de synthèse"
+  ],
+  "specialCommitments": "Astreintes de nuit et de week-end selon les plannings établis par roulement. Déplacements fréquents en province Sud.",
+  "title": "Médecin itinérant en province Sud",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-30",
+  "workHours": "Astreintes de nuit et de week-end",
+  "champs_open_data": 9,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Travail",
+  "famille_source": "respnc",
+  "famille_score": 0.787,
+  "dossier": "travail"
+}
