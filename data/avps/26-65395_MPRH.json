@@ -4,19 +4,18 @@
     "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
     "uniteOrganisationnelle": "Unité Éducative de Milieu Ouvert (UEMO) Sud/Îles",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef de service",
+    "superieurHierarchique": "Marie-Gabrielle Tolikoli-Motutoa, chef de service",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Service Territorial Éducatif de Milieu Ouvert et d'Insertion (STEMOI)",
-      "Magistrats",
       "Acteurs des champs judiciaire, éducatif, sanitaire, social et scolaire",
       "Tribunal (PEAT)"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
-        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
@@ -126,12 +125,11 @@
   "experienceRequirements": "Une expérience en Nouvelle-Calédonie est souhaitée, notamment dans l'accompagnement de mineurs confiés en famille d'accueil ou accueillis en structure d'hébergement collectif, et la mise en œuvre des mesures éducatives relevant de la protection judiciaire de l'enfance (CJPM).",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Nouvelle-Calédonie",
-    "url": "https://gouv.nc"
+    "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Action sociale",
-  "jobBenefits": "Informations de salaire disponibles sur le barème de la fonction publique de Nouvelle-Calédonie.",
+  "industry": "Service public",
+  "jobBenefits": "Informations salaire disponibles sur le lien de la DRHFPNC.",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -139,7 +137,7 @@
     "name": "UEMO Sud/Îles",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "18 avenue Paul Doumer, Centre-ville",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -153,7 +151,7 @@
     "Action sociale"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis de conduire B",
+  "qualifications": "Être titulaire du permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Educateur spécialisé",
