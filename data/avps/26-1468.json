@@ -1,0 +1,205 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Aide-soignant",
+    "direction": "PROVINCE DES ILES LOYAUTE",
+    "uniteOrganisationnelle": "Service de l'action sanitaire",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service de l'action sanitaire",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Infirmiers à domicile",
+      "Partenaires provinciaux",
+      "Partenaires institutionnels",
+      "Services de l'ordre",
+      "Pompiers"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction de l'administration générale de la province des îles Loyauté, service des RH"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Hôtel de la province des îles Loyauté à Wé - Lifou"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP 50 - 98820 WE LIFOU"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "dag-recrutement@loyalty.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952026.PDF"
+      }
+    ]
+  },
+  "alternateName": "Aide-soignant du soin à Domicile (SIAD)",
+  "description": "Réaliser de par ses compétences définies réglementairement et sous la responsabilité des infirmiers (ères) à domicile, des actes de prévention, de maintien, d’éducation à la santé et relationnels pour préserver ou restaurer la continuité de la vie, le bien-être et l’autonomie de la personne accueillie.",
+  "disambiguatingDescription": "Aide-soignant à domicile pour le SIAD de la Province des îles Loyauté à Lifou.",
+  "identifier": "26-1468",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Aide-soignant du soin à domicile (SIAD)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province des îles Loyauté",
+    "url": "http://www.province-iles.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "http://www.province-iles.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Hôtel de la province des îles Loyauté",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Wé",
+      "addressLocality": "Lifou",
+      "addressRegion": "Province des îles Loyauté",
+      "addressCountry": "NC",
+      "province": "province des îles Loyauté"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "45.12.12",
+    "email": "drh-recrutement@loyalty.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme professionnel d'aide-soignant",
+    "competencyRequired": [
+      "Bonne connaissance des réalités locales (administrative, sanitaire, sociale, coutumière ...)",
+      "Maîtrise de l'outil informatique notamment Excel, word et asclepios",
+      "Respecter les bonnes pratiques professionnelles, les règles et protocoles d’hygiène lors des soins",
+      "Respecter les techniques de manutention et les règles de sécurité pour l’installation et la mobilisation des patients"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée : au moins égale à 10 ans",
+  "employerOverview": "La Province des îles Loyauté est une collectivité territoriale de la Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Service de l'action sanitaire",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Non spécifié",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province des îles Loyauté",
+    "url": "http://www.province-iles.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique soins",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "CM de Chépénéhé",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Chépénéhé",
+      "addressLocality": "Lifou",
+      "addressRegion": "Province des îles Loyauté",
+      "addressCountry": "NC",
+      "province": "province des îles Loyauté",
+      "postalCode": "98820"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": "Avoir une bonne aptitude physique et être dynamique",
+  "qualifications": "Permis B obligatoire",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Aide-soignant",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Soins d'hygiène, de confort du patient"
+    }
+  },
+  "responsibilities": [
+    "Réaliser les soins d'hygiène et de confort à la personne",
+    "Observer et recueillir les données relatives à l’état de santé de la personne",
+    "Aider les infirmiers (ères) à domicile dans la réalisation des soins et participer aux campagnes",
+    "Entretenir l’environnement immédiat de la personne et assurer la réfection des lits",
+    "Entretenir le matériel de soins",
+    "Transmettre des observations par écrit et par oral pour maintenir la continuité des soins",
+    "Accueillir, informer, accompagner et éduquer les patients et leur entourage",
+    "Accueillir et accompagner les activités quotidiennes (repas, toilettes)",
+    "Entretenir le matériel et gérer les stocks de matériel",
+    "Aider et soutenir psychologiquement les patients et leur entourage familial et clanique",
+    "Analyser, concevoir, réaliser, évaluer et recenser des actions de sensibilisation auprès de la population cible",
+    "Collaborer avec les partenaires provinciaux et institutionnels pour réaliser les actions de prévention, de dépistage et de promotion de la santé scolaire en assurant la coordination de proximité",
+    "Gestion du stock de matériel médico (livraison les couches et alèzes, les convocations) toujours sous autorité d’infirmier du SIAD",
+    "S'occupe également de la désinfection et environnement du dispensaire",
+    "Participe au retour à domicile des patients",
+    "Pratique la pré-consultation : prise du poids /taille/tension/ température/ connaissance pour détecter une urgence",
+    "Participe aux réunions de service mensuelle",
+    "Participe au nettoyage des logements du dispensaire avec les femmes de service",
+    "Gestion et assure la bonne démarche de la stérilisation",
+    "Gestion des urgences sous autorité d’infirmier en collaboration avec les services de ordres et les pompiers"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Avoir une bonne présentation et être pondéré dans sa gestuelle et son verbal",
+    "Avoir le sens des responsabilités et du service public",
+    "Sens des relations humaines",
+    "Capacités de communication",
+    "Sens de l’anticipation et de l’organisation",
+    "Aptitude au travail en équipe",
+    "Disponibilité",
+    "Respect de la confidentialité",
+    "Prise d’initiative",
+    "Qualité organisationnelle",
+    "Qualité d’animation et de communication",
+    "Bonne relation avec le public",
+    "Bonne collaboration avec les différents acteurs de la société",
+    "Savoir observer les obligations de réserve et de discrétion, respecter le secret professionnel",
+    "Avoir une bonne aptitude physique et être dynamique",
+    "Avoir une capacité d’adaptation"
+  ],
+  "specialCommitments": null,
+  "title": "Aide-soignant du soin à domicile (SIAD)",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-30",
+  "workHours": "Temps plein",
+  "champs_open_data": 11,
+  "employeur_sigle": "PIL",
+  "collectivite": "Province des îles Loyauté",
+  "direction": "PROVINCE DES ILES LOYAUTE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.976,
+  "dossier": "sante-publique-soins"
+}
