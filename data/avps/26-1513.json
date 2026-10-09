@@ -1,0 +1,157 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Emploi fonctionnel",
+    "direction": "VILLE DU MONT-DORE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaire général",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Exécutif municipal",
+      "Élus",
+      "Directions de la collectivité"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Horaires irréguliers avec amplitude variable en fonction des obligations de service public, Respect strict de la confidentialité des informations traitées."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957368.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "En charge de seconder le secrétaire général dans ses missions, il concourt à la définition et à la mise en œuvre des orientations stratégiques de la collectivité, arrêtées par l’exécutif. Plus spécifiquement en charge des finances de la Ville et de la modernisation de l'administration, il assure le pilotage et le management des directions dans un contexte d’amélioration continue des performances de l’administration et d’évolution régulière de ces missions. Il supplée le secrétaire général en cas d’absence.",
+  "disambiguatingDescription": "Secrétaire général adjoint de la Ville du Mont-Dore, en charge notamment des finances et de la modernisation de l'administration.",
+  "identifier": "26-1513",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Secrétaire Général Adjoint",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "43.70.91",
+    "email": "cabinet@ville-montdore.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3 ou plus (Niveau 6)",
+    "competencyRequired": [
+      "Connaissances des instances, processus et circuit de décision de la collectivité",
+      "Connaissances approfondies de la comptabilité publique, du code des marchés publics, des statuts de la fonction publique et du droit administratif",
+      "Environnement territorial (connaissance de la situation géographique, économique, sociale et culturelle de la commune)",
+      "Connaissances de l’organisation institutionnelle de la Nouvelle-Calédonie"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience significative au sein d’une collectivité publique et dans un poste similaire",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Boulari",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4468 avenue des deux baies",
+      "addressLocality": "Mont-Dore",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98809"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Administration générale",
+    "Finances et budget",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Secrétaire général adjoint",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Conception et pilotage de la politique des pouvoirs publics"
+    }
+  },
+  "responsibilities": [
+    "Assister l’exécutif pour la définition des orientations stratégiques de la collectivité et des politiques publiques sectorielles",
+    "Piloter la mise en œuvre des objectifs et orientations définis par l’exécutif municipal",
+    "Manager opérationnellement les directions en coordonnant les moyens et les actions",
+    "Accompagner, structurer et sécuriser les processus décisionnels",
+    "Superviser ou procéder aux analyses de dossiers spécifiques",
+    "Assister et conseiller les élus",
+    "Assurer la suppléance du Secrétaire Général en cas d’absence",
+    "Piloter la stratégie et l’analyse financière, au-delà de l’exécution budgétaire",
+    "Moderniser l'administration"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Définir les modalités de mise en œuvre opérationnelle des orientations politiques",
+    "Expérience confirmée en management et pilotage de directions (méthode projet)",
+    "Clarifier et garantir le rôle des différents intervenants de la collectivité",
+    "Savoir gérer l’urgence et les situations conflictuelles",
+    "Assurer un contrôle régulier de tous actes, projets, procédures internes et externes à la collectivité",
+    "Capacité à fédérer",
+    "Rigueur, méthode et organisation",
+    "Esprit d’analyse et de synthèse",
+    "Qualités relationnelles et rédactionnelles, sens de la communication",
+    "Grande capacité d’adaptation face à la multiplicité des tâches et au travail en réseau",
+    "Savoir gérer la pression et le stress",
+    "Grande autonomie, flexibilité, disponibilité et discrétion"
+  ],
+  "specialCommitments": "Astreintes et horaires irréguliers avec amplitude variable",
+  "title": "Secrétaire Général Adjoint",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-30",
+  "workHours": "Horaires irréguliers avec amplitude variable",
+  "champs_open_data": 9,
+  "employeur_sigle": "VILLE-DU-MONT-DORE",
+  "collectivite": "Ville du Mont-Dore",
+  "direction": "VILLE DU MONT-DORE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.845,
+  "dossier": "administration-generale"
+}
