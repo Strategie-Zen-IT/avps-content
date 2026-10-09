@@ -1,0 +1,185 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché / Attaché de conservation - conservateur",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Bureau développement et rayonnement artistique",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du pôle développement humain",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Pôle développement humain",
+      "Château Hagen",
+      "Associations",
+      "Réseaux institutionnels et associatifs locaux"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Participation aux assemblées générales des associations, aux vernissages. Participation aux évènements et aux manifestations organisées par la collectivité."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Réorganisation interne"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957366.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Rattaché au pôle développement et épanouissement de la personne, la direction de la culture, de la jeunesse et des sports de la province Sud (DCJS) développe et valorise les richesses patrimoniales et artistiques de la province Sud. Elle agit en matière de patrimoine, de création et de diffusion artistique et d'accès à la culture en favorisant son rayonnement sur l'ensemble de la province Sud. Elle favorise et soutient également le développement des pratiques socio-éducatives et sportives en province Sud. Enfin, la DCJS contribue à l'épanouissement du jeune et l'accompagne tout au long de son parcours de vie.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1510",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Responsable du bureau développement et rayonnement culturel",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.48.07",
+    "email": "alexia.duchesne@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Formation supérieure",
+    "competencyRequired": [
+      "Formation supérieure dans le domaine de la culture, des politiques culturelles, de l'administration publique ou dans un domaine équivalent",
+      "Expérience significative dans le secteur culturel et/ou dans la conduite de projets culturels",
+      "Une expérience en management d'équipe et en coordination de dispositifs ou de programmes est souhaitée",
+      "Bonne connaissance de l'environnement institutionnel et des acteurs du secteur culturel local",
+      "Formation en droit, en économie et en gestion souhaitée",
+      "Maîtrise des procédures, des circuits et des actes administratifs",
+      "Maîtrise des applications provinciales serait un plus (Salsa, Surfi, CVL, etc.)",
+      "Connaissances du fonctionnement institutionnel et administratif",
+      "Connaissances du milieu associatif calédonien",
+      "Connaissances de la réglementation et du fonctionnement administratif et financier d'une association",
+      "Capacité à travailler en transversalité et en partenariat",
+      "Connaissances des réseaux institutionnels et associatifs locaux",
+      "Connaissances en informatique"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Le pôle développement humain de la DCJS est chargé de mettre en œuvre et de coordonner la politique publique de la province Sud destinée à contribuer à l'épanouissement et au bien-être au sein de la société, et à impulser, à favoriser et à accompagner la structuration des organisations et des acteurs.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience significative dans le secteur culturel et/ou dans la conduite de projets culturels. Une expérience en management d'équipe et en coordination de dispositifs ou de programmes est souhaitée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Culture",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction de la culture de la jeunesse et des sports",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Culture",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable administratif",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Élaboration et pilotage de politiques publiques"
+    }
+  },
+  "responsibilities": [
+    "Organiser et structurer le bureau en tenant compte de l'évolution de la politique provinciale et de ses orientations stratégiques",
+    "Encadrer et animer l'équipe des agents du bureau Développement et rayonnement artistique, en assurant la coordination des activités, la répartition des missions, le suivi de leur réalisation, de leur planification et de leur évaluation",
+    "Traduire les orientations politiques en programmes d'actions opérationnels",
+    "Etre force de proposition sur les évolutions des dispositifs et des modalités d'intervention de la collectivité",
+    "Accompagner les agents dans la mise en œuvre de leurs missions et de favoriser le développement de leurs compétences",
+    "Accompagner la dématérialisation et l'évolution des outils de gestion des subventions, notamment par la mise en œuvre et l'appropriation du nouveau logiciel, afin d'améliorer la fiabilité, la traçabilité et l'efficience du traitement et du suivi des dossiers de subvention",
+    "Elaborer des documents de synthèse et de suivi relatifs aux acteurs accompagnés en fonction des secteurs artistiques, permettant notamment de disposer d'une vision consolidée de leur situation, des aides accordées et des actions menées",
+    "Coordonner la mise en œuvre des différents dispositifs de soutien à la création et à la diffusion artistiques y compris ceux relevant de la programmation du Château Hagen",
+    "Participer à la définition et à l'évolution des dispositifs afin de répondre aux enjeux et besoins du secteur culturel",
+    "Concevoir et de mettre en œuvre des indicateurs de suivi et de performance, en cohérence avec les objectifs stratégiques et opérationnels, afin de faciliter le pilotage et l'évaluation des dispositifs",
+    "Instruire et d'assurer le suivi des dossiers de demande et d'attribution de subventions provinciales soumis à l'exécutif, de leur réception jusqu'à leur présentation et leur mise en œuvre",
+    "Assurer une veille sur les évolutions du secteur culturel et artistique",
+    "Rédiger et d'assurer le suivi des actes et documents administratifs liés aux dispositifs de subvention, notamment les conventions, les délibérations, les arrêtés, les rapports et les lettres de notification",
+    "Assurer le suivi, le contrôle et la traçabilité de l'utilisation des subventions versées aux associations, en veillant à leur complétude, à la conformité des pièces produites et au respect des procédures et critères applicables"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Elaboration de bases de données Excel et de tableaux croisés dynamiques",
+    "Elaboration de documents administratifs (conventions, arrêtés, délibérations, etc.)",
+    "Utilisation des logiciels informatiques de base (Word, Outlook et Powerpoint)",
+    "Capacités d'analyse, de synthèse et de rédaction",
+    "Aptitude à coordonner et à fédérer une équipe",
+    "Capacités de travail en réseau et en transversalité",
+    "Aptitude à conduire des réunions et à animer des réseaux de partenaires",
+    "Qualités rédactionnelles",
+    "Sens du service public",
+    "Sens de l'organisation",
+    "Autonomie",
+    "Prise d'initiatives",
+    "Force de propositions",
+    "Capacités d'écoute et de communication",
+    "Capacités d'adaptation",
+    "Disponibilité et réactivité",
+    "Bonnes qualités relationnelles",
+    "Rigueur",
+    "Discrétion"
+  ],
+  "specialCommitments": null,
+  "title": "Responsable du bureau développement et rayonnement culturel",
+  "totalJobOpenings": 5,
+  "validThrough": "2026-10-30",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "administration-generale"
+}
