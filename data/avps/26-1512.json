@@ -1,0 +1,170 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "UPASS de La Foa",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable de l'UPASS de la Foa",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "UPASS de Bourail"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Pour les infirmier(e) en soins généraux : au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Une attention particulière est portée à la santé communautaire, la prévention et la promotion de la santé, étant rappelé que le poste nécessite un bon niveau en termes d'urgences médicales. A noter que le roulement infirmier demande une permanence de soins en astreinte de nuit et de week-end. Des interventions ponctuelles sont possibles à l'UPASS de Bourail dans le cadre de la mutualisation des moyens sur la zone La Foa / Bourail"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952050.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'actions sanitaire et sociale (UPASS) et des centres médico-sociaux (CMS) et des autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales. Au sein du pôle santé et territoires, le ou la candidat(e) retenu(e) exercera ses missions à l'UPASS de La Foa, dans une équipe pluridisciplinaire attachée à la synergie médico-sociale.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1512",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Infirmier(e) à l'UPASS de la FOA",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "UPASS de La Foa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "La Foa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.46.20",
+    "email": "carl.honda@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'État d'infirmier",
+    "competencyRequired": [
+      "Connaissances en prévention et en promotion de la santé (charte d'Ottawa) souhaitée"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "UPASS de La Foa",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience du travail en poste isolé, Expérience des urgences, Expérience en puériculture souhaitée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "UPASS de La Foa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "La Foa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98880"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplôme d'État d'infirmier",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Infirmier",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Soins infirmiers généralistes"
+    }
+  },
+  "responsibilities": [
+    "réaliser des soins (biométrie, infections, prélèvements, pansements, stérilisation, etc.)",
+    "assurer les activités préventives individuelles (éducation du patient)",
+    "mener et d'animer des projets de prévention",
+    "réaliser au besoin des visites à domiciles en collaboration avec les autres membres de l'équipe",
+    "assurer les activités collectives (protection maternelle et infantile, santé scolaire, vaccinations, etc.)",
+    "assurer l'accueil des urgences (relevage des victimes, conditionnement, évacuations, etc.)",
+    "suivre et de gérer la pharmacie et le stock de matériel",
+    "tester et d'assurer un suivi du bon fonctionnement des appareils électriques de santé"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Expérience du travail en poste isolé",
+    "Expérience des urgences",
+    "Expérience en puériculture souhaitée",
+    "Maîtrise de l'outil informatique",
+    "Prise d'initiatives",
+    "Volontaire",
+    "Dynamique",
+    "Qualités organisationnelles",
+    "Sens des responsabilités",
+    "Esprit d'équipe",
+    "Qualités relationnelles",
+    "Facilité d'écoute",
+    "Ouverture d'esprit",
+    "Flexibilité",
+    "Disponibilité"
+  ],
+  "specialCommitments": "Permanence de soins en astreinte de nuit et de week-end",
+  "title": "Infirmier(e) à l'UPASS de la FOA",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-30",
+  "workHours": "Permanence de soins en astreinte de nuit et de week-end",
+  "champs_open_data": 9,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
