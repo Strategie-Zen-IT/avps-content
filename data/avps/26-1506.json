@@ -1,0 +1,207 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Service topographique et foncier",
+    "nbAgentsEncadres": 4,
+    "superieurHierarchique": "Chef du service topographique et foncier",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Direction du système d'information et du numérique (DSIN)",
+      "Communes",
+      "GIE SERAIL"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Statut du poste",
+        "value": "Susceptible d'être vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Le candidat retenu sera ponctuellement amené à travailler sur le terrain. Il devra avoir une bonne condition physique, l'absence de problèmes majeurs d'acuité visuelle et l'absence de problèmes physiques, être capable de porter des charges et avoir une faculté d'adaptation aux contextes de travail en extérieur."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955512.PDF"
+      }
+    ]
+  },
+  "alternateName": "Responsable du bureau de la donnée géographique",
+  "description": "Rattachée au pôle transition écologique, la direction de l'aménagement, de l'équipement et des moyens (DAEM) de la province Sud met en œuvre l'ensemble des politiques provinciales sur les champs de l'aménagement du territoire et de l'urbanisme, de la protection et de la mise en valeur du foncier provincial, tant public que privé, du développement et de l'entretien des infrastructures de transport, routières, maritimes et aéronautiques. Pour le compte de l'ensemble des directions provinciales, elle construit et assure le gros entretien des bâtiments accueillant les différents services publics provinciaux, et apporte un soutien logistique au travers d'une gestion des moyens centralisée.",
+  "disambiguatingDescription": "Responsable de bureau au sein du service topographique et foncier de la DAEM, chargé de l'animation, du pilotage technique et opérationnel de tout projet relatif à la donnée numérique et géographique, ainsi que de la gestion quotidienne de son équipe.",
+  "identifier": "26-1506",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Responsable de bureau",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Hôtel de province",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6 route des artifices",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.42.78",
+    "email": "styvens.bastien@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3",
+    "competencyRequired": [
+      "Connaissances en gestion de base de données",
+      "Connaissances en programmation permettant d'automatiser les traitements des données numériques au travers de langage de développement informatique",
+      "Connaissances SIG, techniques de numérisation, d'acquisition, d'intégration et de reproduction de données numériques",
+      "Maîtrise en SIG et télédétection",
+      "Maîtrise de la stéréopréparation et de la photogrammétrie",
+      "Maîtrise en techniques de gestion des métadonnées numériques, en catalogage de données, en sémiologie graphique et en analyse statistique et spatiale",
+      "Solides bases en topographie, en géodésie et en foncier"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence d'au moins 5 ans exigée pour le recrutement sur titre",
+  "employerOverview": "La direction de l'aménagement, de l'équipement et des moyens (DAEM) de la province Sud met en œuvre l'ensemble des politiques provinciales sur les champs de l'aménagement du territoire, de l'urbanisme, du foncier, des infrastructures de transport et du soutien logistique.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service topographique et foncier",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience en matière d'encadrement souhaitée. Expérience en commande publique.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Service topographique et foncier",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Système d'information",
+    "Topographie et foncier"
+  ],
+  "physicalRequirement": "Bonne condition physique, absence de problèmes majeurs d'acuité visuelle et d'absence de problèmes physiques, capacité à porter des charges et faculté d'adaptation aux contextes de travail en extérieur.",
+  "qualifications": "Titulaire du brevet de télépilote drone serait un avantage. Titulaire du permis (maîtrise de la conduite de véhicule tout terrain souhaitée).",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable de la sécurité des systèmes d'information",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "M1801",
+      "name": "Expertise et support en systèmes d'information"
+    }
+  },
+  "responsibilities": [
+    "Animer, piloter techniquement et opérationnellement tout projet relatif à la donnée numérique et géographique",
+    "Gérer quotidiennement son équipe",
+    "Veiller à l'optimisation du système d'information numérique et géographique du service",
+    "Garantir la qualité des données cartographiques du service, des productions de son bureau ainsi que des bases de données du service",
+    "Assurer la veille technologique informatique et géomatique nécessaire au maintien opérationnel des bases de données numériques du service et des techniques d'acquisition des données spatialisées",
+    "Organiser et répartir les moyens disponibles pour atteindre le niveau de performance attendu et les objectifs fixés",
+    "Superviser et/ou participer à la conception, à la mise en place des développements informatiques permettant l'export des données du STF vers les outils communs de la direction et de la collectivité",
+    "Veiller à la correcte structuration et à la mise à jour des bases de données numériques et spatialisées du service",
+    "Superviser et/ou participer au développement d'outils automatisés pour les traitements numériques et géomatiques utiles à la direction",
+    "Coordonner la partie informatique du service pour assurer la cohérence numérique avec la direction",
+    "Coordonner et développer des échanges en matière de système d'information et de donnée et traitement numérique, notamment spatialisées, avec la DSIN, les communes, le GIE SERAIL et les autres partenaires",
+    "Préparer et superviser l'acquisition, le contrôle et l'intégration des données géographiques utiles aux services provinciaux",
+    "Contrôler des travaux topographiques réalisés par le secteur privé pour la province ou le GIE Serail",
+    "Coordonner des actions et organiser le travail de son équipe (4 personnes)",
+    "Contrôler la qualité de la production de ses équipes et rendre compte de l'activité du bureau directement et via les outils de pilotages",
+    "Fixer les objectifs opérationnels de l'équipe placée sous sa responsabilité et d'en assurer le suivi",
+    "Veiller à la bonne compréhension des enjeux et des orientations collectifs",
+    "Garantir la bonne circulation de l'information auprès de ses collaborateurs",
+    "Veiller à la cohésion et à la motivation de son équipe",
+    "S'assurer de la bonne transmission de l'information entre le chef de service et ses collaborateurs",
+    "Être force de proposition technique pour le chef de service",
+    "Instruire les dossiers avec diligence et neutralité dans le respect des délais fixés",
+    "Gérer les moyens et/ou les ressources du bureau",
+    "Proposer des actions de formation et de développement des compétences humaines",
+    "Transmettre les données techniques nécessaires à la rédaction des documents de communication",
+    "Établir et garantir les bonnes relations avec les administrés et les professionnels du secteur",
+    "Représenter la direction dans son domaine d'intervention",
+    "Assurer le rôle de référent pour le compte du service sur la veille technologique en matière d'acquisition de données géographiques de référence et des outils liés"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": "Absence de problèmes majeurs d'acuité visuelle",
+  "skills": [
+    "Maîtrise du langage de programmation Python",
+    "Maîtrise du langage SQL",
+    "Maîtrise des bases de données et notamment spatiales",
+    "Maîtrise du langage Topstation",
+    "Pilotage de projet",
+    "Management par objectif",
+    "Animation de réunions",
+    "Maîtrise des logiciels Autocad et QGIS",
+    "Sens du service public",
+    "Aptitude au management",
+    "Force de propositions",
+    "Sens de l'organisation",
+    "Rigueur",
+    "Autonomie",
+    "Aptitude au travail en équipe",
+    "Réactivité",
+    "Disponibilité",
+    "Esprit de synthèse"
+  ],
+  "specialCommitments": null,
+  "title": "Responsable de bureau",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-30",
+  "workHours": "Travail ponctuel sur le terrain",
+  "champs_open_data": 8,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Système d'information",
+  "famille_source": "respnc",
+  "famille_score": 0.969,
+  "dossier": "systeme-d-information"
+}
