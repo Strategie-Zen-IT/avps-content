@@ -1,0 +1,159 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "VILLE DU MONT-DORE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaires généraux",
+    "placeOrganigramme": "Sous l’autorité des secrétaires généraux",
+    "relationsFonctionnelles": [
+      "Service administratif",
+      "Service de la culture",
+      "Service des sports",
+      "Service des actions socio-éducatives de prévention",
+      "Maison des Associations",
+      "Centre Communal d’Action Sociale",
+      "Caisse des Ecoles"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Travail en partenariat et en réseau, Grande disponibilité (l’agent peut être amené à travailler en soirée, certains week-ends ou jours fériés chômés lors de manifestations ou d’évènements particuliers), Permanences administratives."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957714.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction des services d’animation et de prévention comprend quatre services (le service administratif, le service de la culture, le service des sports et le service des actions socio-éducatives de prévention) et la Maison des Associations. Placé(e) sous l’autorité des secrétaires généraux, le(la) directeur(trice) retenu(e) exercera les fonctions de directeur(trice) des services d’animation et de prévention et sera notamment chargé des missions afférentes.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1514",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Directeur (trice)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "43.70.00",
+    "email": "christine.aita@ville-montdore.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3 ou Bac+4 (Diplôme de niveau 6)",
+    "competencyRequired": [
+      "Diplôme de niveau 6 (anciennement II) dans le secteur d’activité",
+      "Connaissance de l’environnement institutionnel de la Nouvelle-Calédonie ainsi que des compétences réglementaires afférentes, en particulier dans les secteurs de la direction",
+      "Aptitude à l’encadrement",
+      "Connaissances avérées du milieu associatif et scolaire",
+      "Connaissances des outils managériaux (EAE, projet de service…)",
+      "Cadre réglementaire de l’organisation de manifestations culturelles et sportives (sécurité, ERP, fiscalité…)",
+      "Notions de comptabilité publique",
+      "Techniques rédactionnelles et de communication",
+      "Maîtrise de l’outil informatique"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle dans un poste similaire",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Boulari",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4468 avenue des deux baies",
+      "addressLocality": "Mont-Dore",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98809"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-02",
+  "occupationalCategory": [
+    "Animation",
+    "Culture",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Titulaire du permis VL",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Directeur(trice)",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2102",
+      "name": "Conception et pilotage de la politique des pouvoirs publics"
+    }
+  },
+  "responsibilities": [
+    "Participer à la définition du projet municipal dans le secteur d’intervention de la direction (culture, sports, et prévention)",
+    "Elaborer et mettre en œuvre le programme d’actions de la direction",
+    "Rédiger l'ensemble des procédures de travail lié à la direction",
+    "Préparer le budget de la direction",
+    "Proposer et mettre en œuvre les opérations contractualisées avec les partenaires",
+    "Participer à la communication de la Mairie",
+    "Coordonner et superviser l’action des services et les ressources humaines de la direction",
+    "Coordonner ces actions avec celles des établissements publics de la Ville (Centre Communal d’Action Sociale et Caisse des Ecoles)",
+    "Collaborer en transversalité avec les autres directions autour d’opérations ou de projets communs organisés ou conduits par la Ville"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Rigueur dans le respect des procédures et de la réglementation",
+    "Management, animation et pilotage d’équipe",
+    "Maîtriser la conduite de projets",
+    "Maîtriser la gestion d’un budget",
+    "Sens de l’anticipation et méthode d’organisation",
+    "Sens du service public, esprit d’initiative et du travail en équipe",
+    "Autonomie, disponibilité et sens des responsabilités",
+    "Sens de la communication et de l’écoute",
+    "Capacité d’analyse et de synthèse",
+    "Respect de la hiérarchie, rigueur et discrétion"
+  ],
+  "specialCommitments": null,
+  "title": "Directeur (trice)",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-30",
+  "workHours": "Grande disponibilité (soirées, week-ends ou jours fériés lors de manifestations)",
+  "champs_open_data": 9,
+  "employeur_sigle": "VILLE-DU-MONT-DORE",
+  "collectivite": "Ville du Mont-Dore",
+  "direction": "VILLE DU MONT-DORE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Pilotage",
+  "famille_source": "respnc",
+  "famille_score": 0.948,
+  "dossier": "pilotage"
+}
