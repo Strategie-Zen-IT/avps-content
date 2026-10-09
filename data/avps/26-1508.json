@@ -1,0 +1,166 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur / éducateur des APS",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Bureau développement et soutien au sport",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du pôle développement humain",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Direction de la jeunesse et des sports de la Nouvelle-Calédonie"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Participation aux assemblées générales des associations ; Participation aux évènements et aux manifestations organisées par la province Sud."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957366.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de la culture, de la jeunesse et des sports de la province Sud (DCJS) développe et valorise les richesses patrimoniales et artistiques de la province Sud. Elle agit en matière de patrimoine, de création et diffusion artistique et d'accès à la culture en favorisant son rayonnement sur l'ensemble de la province Sud. Elle favorise et soutient également le développement des pratiques socio-éducatives et sportives en province Sud. Enfin, la DCJS contribue à l'épanouissement du jeune et l'accompagne tout au long de son parcours de vie.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1508",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Responsable du bureau développement et soutien au sport",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.48.07",
+    "email": "alexia.duchesne@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Formation en droit, en économie et en gestion souhaitée",
+    "competencyRequired": [
+      "Maîtrise des procédures, des circuits et des actes administratifs",
+      "Maîtrise avancée du publipostage",
+      "Maîtrise des applications provinciales serait un plus (Salsa, Surfi, CVL, etc.)",
+      "Connaissances du fonctionnement institutionnel et administratif",
+      "Connaissances du milieu associatif calédonien",
+      "Connaissances de la réglementation et du fonctionnement administratif et financier d'une association",
+      "Connaissances des réseaux institutionnels et associatifs locaux",
+      "Connaissances en informatique"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction de la culture de la jeunesse et des sports",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Administration générale",
+    "Animation"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable administratif",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1601",
+      "name": "Élaboration et pilotage de politiques publiques"
+    }
+  },
+  "responsibilities": [
+    "Organiser et de structurer le bureau en tenant compte de l'évolution de la politique provinciale et de ses orientations stratégiques",
+    "Encadrer et d'animer l'équipe des agents du bureau Développement et soutien au sport, en assurant la coordination des activités, la répartition des missions et le suivi de leur réalisation",
+    "Accompagner la dématérialisation et l'évolution des outils de gestion des subventions, notamment par la mise en œuvre et l'appropriation de la nouvelle application, afin d'améliorer la fiabilité, la traçabilité et l'efficience du traitement et du suivi des dossiers de subvention",
+    "Élaborer des documents de synthèse et de suivi relatifs aux associations accompagnées, permettant notamment de disposer d'une vision consolidée de leur situation, des aides accordées et des actions menées",
+    "Concevoir et de mettre en œuvre des indicateurs de suivi et de performance, en cohérence avec les objectifs stratégiques et opérationnels, afin de faciliter le pilotage et l'évaluation des dispositifs",
+    "Instruire et d'assurer le suivi des dossiers de demande et d'attribution de subventions provinciales soumis à l'exécutif, de leur réception jusqu'à leur présentation et leur mise en œuvre",
+    "Instruire et d'assurer le suivi des dossiers relevant de l'État, en participant notamment aux réunions et aux instances d'instruction correspondantes",
+    "Rédiger et d'assurer le suivi des actes et documents administratifs liés aux dispositifs de subvention, notamment les conventions, les délibérations, les arrêtés, les rapports et les lettres de notification",
+    "Assurer le suivi, le contrôle et la traçabilité de l'utilisation des subventions versées aux associations, en veillant à leur complétude, à la conformité des pièces produites et au respect des procédures et critères applicables",
+    "Assurer la veille règlementaire et technique en lien avec la direction de la jeunesse et des sports de la Nouvelle-Calédonie"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Elaboration de bases de données Excel et de tableaux croisés dynamiques",
+    "Elaboration de documents administratifs (conventions, arrêtés, délibérations, etc.)",
+    "Utilisation des logiciels informatiques de base (Word, Outlook et Powerpoint)",
+    "Capacités d'analyse, de synthèse et de rédaction",
+    "Capacités de travail en équipe",
+    "Capacités de travail en réseau et en transversalité",
+    "Qualités rédactionnelles",
+    "Sens du service public",
+    "Sens de l'organisation",
+    "Autonomie",
+    "Prise d'initiatives",
+    "Force de propositions",
+    "Capacités d'écoute et de communication",
+    "Capacités d'adaptation",
+    "Bonnes qualités relationnelles",
+    "Rigueur",
+    "Discrétion"
+  ],
+  "specialCommitments": null,
+  "title": "Responsable du bureau développement et soutien au sport",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-30",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "administration-generale"
+}
