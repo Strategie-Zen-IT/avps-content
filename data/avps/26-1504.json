@@ -1,0 +1,170 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 2-Diplôme niveau V",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Maison de l'enfance de Dumbéa sur Mer",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur de la Maison de l'enfance de Dumbéa sur Mer",
+    "placeOrganigramme": "Sous l'autorité hiérarchique du directeur de la MDE de DSM",
+    "relationsFonctionnelles": [
+      "Équipe éducative",
+      "Équipe pluridisciplinaire"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Horaires : nocturne, avec les week-ends, rotation selon planning pour assurer la couverture 7j/7. Contraintes : présence sur site la nuit, capacité à gérer l'accueil d'urgence en parallèle des missions habituelles, vigilance permanente. Environnement de travail : jeunes en situation de vulnérabilité, parfois instables ou présentant des troubles du comportement."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956352.PDF"
+      }
+    ]
+  },
+  "alternateName": "Accompagnateur de nuit au DAUO",
+  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial. Au sein du pôle enfance-famille, le service de la protection de l'enfance (SPE) compte plus de 80 agents. Le poste concerné est un poste d'accompagnateur de nuit au sein de la Maison de l'enfance de Dumbéa sur Mer dans le cadre de l'ouverture du dispositif d'accueil d'urgence et d'orientation (DAUO).",
+  "disambiguatingDescription": "Poste d'accompagnateur de nuit au sein de la Maison de l'enfance de Dumbéa sur Mer pour le dispositif d'accueil d'urgence et d'orientation (DAUO).",
+  "identifier": "26-1504",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Accompagnateur de nuit au DAUO de la maison de l'enfance de Dumbéa sur mer",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.47.19",
+    "email": "najime.belem@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Expérience souhaitée en internat, en accueil collectif d'enfants",
+    "competencyRequired": [
+      "Connaissance de la protection de l'enfance",
+      "Connaissances en secourisme (Titulaire du PSC, AFGSU, formation de pompier...)",
+      "Connaissances du développement de l'enfant et de l'adolescent",
+      "Techniques de prévention et de gestion de conflits",
+      "Utilisation de l'outil informatique",
+      "Connaissance des diversités culturelles de Nouvelle-Calédonie",
+      "Connaissance des consignes de sécurité, d'intervention et d'alerte"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS) et des centres médico-sociaux (CMS) et des autres sites excentrés.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Maison de l'enfance de Dumbéa sur Mer",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience souhaitée en internat, en accueil collectif d'enfants.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Action sociale",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Maison de l'enfance de Dumbéa sur Mer",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dumbéa sur Mer",
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Action sociale",
+    "Prévention et sécurité"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B indispensable",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Agent de prévention et de médiation - correspondant de nuit",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K2501",
+      "name": "Facilitation de la vie sociale"
+    }
+  },
+  "responsibilities": [
+    "Intervenir sur les deux sites (DAUO et MDE) selon le planning, en garantissant la sécurité et la continuité des prises en charge",
+    "Accueillir de façon bienveillante les enfants qui pourraient être confiés en pleine nuit dans le cadre d'une OPP, leur présenter la structure, leur chambre, répondre à leurs besoins (repas, hygiène...) pour les rassurer et les sécuriser",
+    "Être garant du respect du rythme biologique des enfants/adolescents (sommeil) ainsi que du respect des rythmes de vie (soirée/nuit/matin) et intervenir si nécessaire (déplacements non autorisés, malaises, angoisses nocturnes...)",
+    "Garantir la sécurité des personnes, des locaux et des biens",
+    "Fournir des éléments d'observation et d'analyse via SIMBA pour la construction du projet de l'enfant/de l'adolescent au cours de l'accueil mais aussi dans le cadre de l'après placement pour le suivi et les transmissions",
+    "Gérer les conflits et les situations à risque : intervenir rapidement et calmement pour préserver la sécurité physique et émotionnelle des jeunes",
+    "Respecter les procédures mises en place notamment concernant la gestion des incidents, des situations d'urgence",
+    "Rendre compte en consignant les événements marquants dans un compte-rendu écrit et de les transmettre à l'équipe éducative et à la hiérarchie via SIMBA",
+    "Être force de proposition, d'animation et d'encadrement d'activités adaptées (début / fin de journée)",
+    "Accompagner les enfants et les adolescents, avec le soutien des éducateurs, dans l'apprentissage de l'autonomie",
+    "Contribuer avec le reste de l'équipe à la mise en œuvre et à l'évaluation du dispositif et aux réflexions autour de son évolution ainsi qu'à la démarche qualité et la participation à l'analyse de la pratique professionnelle"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité à assurer un suivi rigoureux et discret des jeunes la nuit",
+    "Capacité à répondre aux situations d'accueil d'urgence avec bienveillance afin de sécuriser et rassurer les enfants",
+    "Capacité à travailler pour et avec le public cible",
+    "Capacité à partager et transmettre des savoirs",
+    "Capacité à respecter la confidentialité dans le cadre du secret professionnel",
+    "Capacité à anticiper les situations conflictuelles et à détecter les comportements à risque",
+    "Capacité à gérer et exécuter des tâches dans le respect de règles et des procédures établis",
+    "Capacité à travailler en collaboration avec une équipe pluridisciplinaire",
+    "Capacité à s'adapter à différents âges et à des situations variées de prise en charge (DAUO / MDE)",
+    "Capacité à effectuer des transmissions précises au reste de l'équipe",
+    "Capacité à alerter et à rendre compte",
+    "Qualités relationnelles, pédagogie, patience et disponibilité",
+    "Bienveillance",
+    "Discrétion, éthique et déontologie",
+    "Esprit de coopération/collaboration",
+    "Souplesse et adaptabilité",
+    "Volonté d'actualisation permanente de ses connaissances",
+    "Réactivité",
+    "Autonomie, opérationnalité et créativité",
+    "Rigueur, sens de l'organisation et fiabilité"
+  ],
+  "specialCommitments": "Présence sur site la nuit, travail le week-end, rotation selon planning",
+  "title": "Accompagnateur de nuit au DAUO de la maison de l'enfance de Dumbéa sur mer",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-30",
+  "workHours": "Nocturne, avec les week-ends, rotation selon planning pour assurer la couverture 7j/7",
+  "champs_open_data": 9,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Prévention et sécurité",
+  "famille_source": "respnc",
+  "famille_score": 0.844,
+  "dossier": "prevention-et-securite"
+}
