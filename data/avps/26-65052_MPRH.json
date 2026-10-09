@@ -14,6 +14,11 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
         "value": "Déplacements fréquents pour assister aux conseils d'administration des établissements."
       },
@@ -72,11 +77,11 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "Gouvernement de la Nouvelle-Calédonie",
+    "@type": "Schedule",
+    "name": "Hôtel de la Nouvelle-Calédonie",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "18 avenue Paul Doumer, Centre-ville",
+      "streetAddress": "18 avenue Paul Doumer",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -113,14 +118,14 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Master 2 exigé pour le recrutement sur titre s'agissant d'un métier identifié comme pénurique",
+  "experienceRequirements": "Métier identifié comme pénurique, recrutement sur titre avec Master 2 exigé.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Service public",
-  "jobBenefits": "Informations salaire : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
+  "industry": "Finances et budget",
+  "jobBenefits": "Régime indemnitaire de la fonction publique de Nouvelle-Calédonie",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -128,7 +133,7 @@
     "name": "Service des collectivités locales et des établissements publics",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "18 avenue Paul Doumer",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -137,12 +142,12 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "immédiatement",
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Finances et budget"
   ],
   "physicalRequirement": null,
-  "qualifications": null,
+  "qualifications": "Permis de conduire pour déplacements fréquents",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Contrôleur financier",
@@ -185,7 +190,7 @@
   "title": "Contrôleur financier des établissements publics",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-16",
-  "workHours": null,
+  "workHours": "Temps complet",
   "champs_open_data": 30,
   "employeur_sigle": "DBAF",
   "collectivite": "Nouvelle-Calédonie",
