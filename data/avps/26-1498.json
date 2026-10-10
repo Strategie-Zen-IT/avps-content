@@ -1,0 +1,155 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Sapeur pompier",
+    "direction": "DES SERVICES D'INCENDIE ET DE SECOURS",
+    "uniteOrganisationnelle": "des centres de secours",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Commandant Anthony GUEPY - Chef du service des centres de secours",
+    "placeOrganigramme": "Placée sous l’autorité directe du Secrétaire général en charge du pôle sécurité",
+    "relationsFonctionnelles": [
+      "Secrétaire général en charge du pôle sécurité",
+      "Direction des services d’incendie et de secours",
+      "Centres de secours"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Travail fréquent en extérieur et par tous types de temps ; Environnement à risques majeurs ; Contrainte du lieu de résidence durant le temps de service en travail posté ; Aptitude physique et médicale (définies réglementairement) ; Horaires irréguliers (soirées, congés de fin de semaine, jours fériés) avec amplitude variable en fonction de l'organisation de l'activité opérationnelle ; Détenir les unités de valeur « Formation initiale d'équipier SPP »."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952046.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune. Placée sous l’autorité directe du Secrétaire général en charge du pôle sécurité, la direction des services d’incendie et de secours est composée de plusieurs unités opérationnelles qui permettent la gestion des alertes (appel 18), le traitement des opérations, le secours aux personnes, la surveillance des plages ainsi que la protection des biens et de l’environnement. Son fonctionnement est organisé 24 heures sur 24 et 7 jours sur 7, au service de la population de la ville de Nouméa.",
+  "disambiguatingDescription": "Intervenant des opérations de secours au sein d'une équipe en centre de secours pour la ville de Nouméa.",
+  "identifier": "26-1498",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Intervenant des opérations de secours",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa",
+    "url": "https://www.noumea.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.38.13",
+    "email": "mairie.recrutement@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "C",
+    "competencyRequired": [
+      "Maîtrise des gestes de secours",
+      "Connaissance des modalités opérationnelles",
+      "Connaissance des équipements, matériels de protection individuelle de sauvetage et d’extinction",
+      "Réglementations (guide national de référence, règlement opérationnel)",
+      "Connaissance des attributions et compétences des personnels et des services associés aux secours"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Mairie de Nouméa",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Détenir les unités de valeur « Formation initiale d'équipier SPP ».",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa",
+    "url": "https://www.noumea.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Sécurité civile",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre de secours",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-11-01",
+  "occupationalCategory": [
+    "Incendie et secours"
+  ],
+  "physicalRequirement": "Aptitude physique et médicale (définies réglementairement)",
+  "qualifications": "Détenir les unités de valeur « Formation initiale d'équipier SPP »",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Intervenant des opérations de secours",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1503",
+      "name": "Sécurité civile et secours"
+    }
+  },
+  "responsibilities": [
+    "Porter secours aux victimes",
+    "Lutter contre les incendies",
+    "Effectuer des opérations diverses",
+    "Réceptionner et réguler les appels d’urgence et administratifs du service d’incendie et de secours",
+    "Participer à l’ensemble des missions dévolues aux services d’incendie et de secours de la ville de Nouméa",
+    "Intervenir dans le cadre d’opérations de secours aux personnes, de protection des biens et de l’environnement, de lutte contre les incendies",
+    "Participer aux actions d’entretien du centre de secours"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Bon relationnel",
+    "Rigueur",
+    "Bon sens de l’organisation",
+    "Grande maîtrise de soi dans les situations difficiles",
+    "Grande disponibilité",
+    "Sens aigu de la discipline"
+  ],
+  "specialCommitments": "Travail posté, horaires irréguliers (soirées, congés de fin de semaine, jours fériés)",
+  "title": "Intervenant des opérations de secours",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-30",
+  "workHours": "Horaires irréguliers (soirées, congés de fin de semaine, jours fériés) avec amplitude variable en fonction de l'organisation de l'activité opérationnelle",
+  "champs_open_data": 9,
+  "employeur_sigle": "MAIRIE-DE-NOUMEA",
+  "collectivite": "Mairie de Nouméa",
+  "direction": "DES SERVICES D'INCENDIE ET DE SECOURS",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.793,
+  "dossier": "sante-publique-soins"
+}
