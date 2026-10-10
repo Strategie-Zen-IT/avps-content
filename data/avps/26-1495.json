@@ -1,0 +1,164 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Bureau de Proximité de Soins (BPS)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du Bureau de Proximité de Soins (BPS)",
+    "placeOrganigramme": "Rattaché à la direction, sous l'autorité du chef de bureau de proximité de secteur",
+    "relationsFonctionnelles": [
+      "Médecins",
+      "Sage-femmes",
+      "Assistantes sociales",
+      "Spécialistes vacataires",
+      "Psychothérapeutes"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Pour les infirmier(e) en soins généraux : au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Une attention particulière est portée à la santé communautaire, à la prévention et la promotion de la santé, étant rappelé que le poste nécessite un bon niveau en termes d'urgences médicales. Les structures de la province nord orientent principalement leurs activités vers les bénéficiaires de l'Aide Médicale. Ce poste demande des déplacements fréquents en Province Nord. Les agents sont soumis aux astreintes de nuit et de week-end selon les plannings établis par roulement."
+      }
+    ]
+  },
+  "alternateName": "Infirmier diplômé d'état",
+  "description": "L'infirmier itinérant, rattaché à la direction, est amené à intervenir dans tous les centres médico-sociaux de la Province Nord au sein d'une équipe pluridisciplinaire pour remplacer au pied levé tous types d'absences du personnel permanent.",
+  "disambiguatingDescription": "Poste d'infirmier itinérant en dispensaire et poste isolé au sein de la Province Nord, impliquant des déplacements fréquents et des astreintes.",
+  "identifier": "26-1495",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "2 Infirmier(e)s en soins généraux itinérant",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "http://www.province-nord.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Hôtel de la province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.71.00",
+    "email": "dassps-srh@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'Etat",
+    "competencyRequired": [
+      "Diplôme d'état infirmier exigé",
+      "Connaissance en prévention et en promotion de la santé (charte d'Ottawa)"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": "La DASSPS compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "PROVINCE NORD",
+    "url": "http://www.province-nord.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Expérience du travail en poste isolé et en dispensaire. Expérience des urgences.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "http://www.province-nord.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": "Astreintes de nuit et de week-end selon les plannings établis par roulement",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Ensemble de la province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98860"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Être titulaire du permis B et véhicule indispensable",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "INFIRMIER",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "J1506",
+      "name": "Infirmier / Infirmière en soins généraux"
+    }
+  },
+  "responsibilities": [
+    "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
+    "Remplacer au pied levé tous types d'absences (les congés, les astreintes et les maladies) du personnel permanent",
+    "Prendre en charge les actes curatifs : consultations, urgences (accueillir, relevage des victimes, conditionnement, évacuations), soins (biométrie, prélèvements, pansements)",
+    "Prendre en charge les actes préventifs : vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques",
+    "Prendre en charge les actes éducatifs : visites en tribu"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Expérience du travail en poste isolé et en dispensaire",
+    "Maîtrise des logiciels de bureautique (Excel et Word)",
+    "Expérience des urgences",
+    "Disponibilité et rigueur",
+    "Volontaire",
+    "Dynamique",
+    "Capacité d'organisation",
+    "Respect de la confidentialité des informations et du secret médical",
+    "Sens des responsabilités",
+    "Goût des relations humaines",
+    "Esprit d'initiative",
+    "Capacité d'écoute",
+    "Goût du travail en équipe"
+  ],
+  "specialCommitments": "Astreintes de nuit et de week-end, déplacements fréquents",
+  "title": "2 Infirmier(e)s en soins généraux itinérant",
+  "totalJobOpenings": 2,
+  "validThrough": "2026-10-30",
+  "workHours": "Astreintes de nuit et de week-end",
+  "champs_open_data": 7,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "gemini",
+  "dossier": "sante-publique-soins"
+}
