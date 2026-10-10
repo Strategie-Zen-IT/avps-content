@@ -1,0 +1,179 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Emploi fonctionnel",
+    "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur",
+    "placeOrganigramme": "Placé sous l'autorité d'un directeur, assisté d'un directeur adjoint qui le supplée en cas d'absence",
+    "relationsFonctionnelles": [
+      "Directeur",
+      "Médecins inspecteurs",
+      "Pharmaciens inspecteurs",
+      "Réseaux de professionnels de santé"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Astreintes",
+        "value": "Participation aux astreintes médicales de la direction."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "MESTRE Marie-Laure"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953390.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "En étroite collaboration avec le directeur, le directeur adjoint assure le suivi de l'ensemble des missions de la direction et la gestion de dossiers stratégiques relevant du champ de compétence d'un médecin. \nLe directeur lui confie la gestion directe de certains dossiers. Dans ce cadre, il veille à la bonne coordination des secteurs d'intervention et au bon aboutissement des travaux, notamment ceux relevant du domaine de compétence d'un médecin\nIl assure l'intérim de la direction en cas d'absence ou d'empêchement du directeur.",
+  "disambiguatingDescription": "Poste de Directeur adjoint de la DASS en Nouvelle-Calédonie, requérant des compétences médicales et de pilotage stratégique en santé publique.",
+  "identifier": "26-65753/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Directeur adjoint",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "marie-laure.mestre@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Docteur en médecine",
+    "competencyRequired": [
+      "diplôme de docteur en médecine: une spécialisation en santé publique ou information médicale serait appréciée",
+      "expérience professionnelle confirmée dans le domaine sanitaire et social",
+      "connaissance confirmée de l'organisation du domaine sanitaire et social, idéalement du contexte calédonien ou d'un territoire ultramarin/insulaire",
+      "bonne compréhension de l'environnement territorial et des principes de management public."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction des affaires sanitaires et sociales (DASS) de la Nouvelle-Calédonie est responsable de la mise en œuvre de la politique du territoire en matière de santé et de protection sociale, et assure par ailleurs le service public du handicap et de la dépendance. Elle est placée sous l'autorité d'un directeur, assisté d'un directeur adjoint qui le supplée en cas d'absence. Elle s'organise autour de cinq services : administration et support, offre et qualité des soins, santé publique, protection sociale, handicap et dépendance.\nLa direction couvre ainsi un champ très large, qui va de la régulation de l'offre de soins et de la santé publique -- dont relève notamment la veille épidémiologique -- au financement et à la performance du système de protection sociale, jusqu'à l'accompagnement social des personnes en situation de handicap ou de dépendance.\nEn tant que directeur adjoint, vous serez au cœur des décisions qui façonnent l'offre de soins, la santé publique et la protection sociale de tout un territoire -- une opportunité rare de conjuguer expertise médicale et responsabilités de haut niveau dans le pilotage d'une politique de santé publique .",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle confirmée dans le domaine sanitaire et social.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "DASS",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Politique de santé publique",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Médecin conseil",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1402",
+      "name": "Médecin (Inspecteur de Santé Publique -MISP-, inspecteur de la santé, conseil)"
+    }
+  },
+  "responsibilities": [
+    "1. Appui au pilotage et stratégie de Santé",
+    "contribuer à la définition et à la mise en œuvre de la stratégie de l'offre sanitaire, sociale et médico-sociale  du territoire",
+    "piloter les missions d'autorisations sanitaires (autorisations, renouvellement, visites,...) et assurer le suivi des projets structurants (réorganisation de l'offre, filières prioritaires...)",
+    "appuyer la Direction dans la préparation des arbitrages stratégiques dans leur volet médical.",
+    "2. Santé publique, épidémiologie et prévention",
+    "superviser la veille et la surveillance sanitaire, l'observatoire de la santé et le suivi des maladies à déclaration obligatoire",
+    "contribuer à la définition de la stratégie de prévention de la Nouvelle-Calédonie",
+    "superviser la bonne gestion des alertes sanitaires et des plans d'urgence, en lien avec le contrôle sanitaire aux frontières (RSI).",
+    "3. Qualité et sécurité des soins",
+    "veiller à l'amélioration continue de la qualité des soins et à la régulation des acteurs de santé",
+    "superviser avec les médecins et pharmaciens inspecteurs, le suivi des inspections et enquêtes relevant de leurs compétences.",
+    "4. Performance du système de protection sociale",
+    "contribuer à la performance et à la modernisation du système de protection sociale dans ses dimensions médicales",
+    "contribuer au pilotage par la donnée au travers de la mise en place de référentiels et de codification médico-administrative.",
+    "5. Management et représentation",
+    "appuyer le Directeur dans l'animation des réseaux de professionnels de santé",
+    "favoriser la transversalité, le partage d'information et la montée en compétence des équipes.",
+    "Participation aux astreintes médicales de la direction."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Sens des relations humaines et de la diplomatie",
+    "Grande capacité d'adaptation face à la multiplicité des tâches et au travail en réseau",
+    "Qualité rédactionnelle et esprit de synthèse.",
+    "rigueur et sens de la communication",
+    "capacité d'investissement personnel important."
+  ],
+  "specialCommitments": "Participation aux astreintes médicales de la direction",
+  "title": "Directeur adjoint",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-30",
+  "workHours": null,
+  "champs_open_data": 26,
+  "employeur_sigle": "DASS",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "politique-de-sante-publique"
+}
