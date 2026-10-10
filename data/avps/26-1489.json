@@ -1,0 +1,168 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 2-Diplôme niveau V",
+    "direction": "",
+    "uniteOrganisationnelle": "Service Technique",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable du Service Technique",
+    "placeOrganigramme": "Placé sous l’autorité du responsable du Service Technique",
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions d'exercice",
+        "value": "Travail principalement en extérieur, Déplacements fréquents sur l’ensemble du territoire communal, Travail sur chantier, Port de charges, Utilisation quotidienne de véhicules et d’engins, Horaires pouvant être adaptés en fonction des besoins de service, Interventions possibles en dehors des horaires habituels lors d’évènements exceptionnels."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955394.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l’autorité du responsable du Service Technique, l’agent assure la conduite des véhicules et des engins de chantier de la commune. Il participe aux travaux de création, d’entretien et d’amélioration des infrastructures communales, ainsi qu’aux interventions techniques nécessaires au bon fonctionnement des services. Par sa polyvalence, il contribue également aux opérations d’entretien des espaces verts, de maçonnerie, de manutention, de transport, d’entretien du patrimoine communal et aux interventions d’urgence.",
+  "disambiguatingDescription": "Ouvrier polyvalent assurant la conduite d'engins de chantier et de véhicules, ainsi que des travaux de voirie, de maçonnerie et d'entretien des espaces verts pour la Commune de Pouembout.",
+  "identifier": "26-1489",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Ouvrier polyvalent",
+  "owner": {
+    "@type": "Organization",
+    "name": "Commune de Pouembout"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47 70 00 / 76 01 08",
+    "email": "secretaire-generale@ville-pouembout.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-09",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Formation ou expérience significative",
+    "competencyRequired": [
+      "Formation ou expérience significative dans les travaux publics ou la voirie, la conduite d’engins",
+      "Expérience confirmée dans la conduite de poids lourds et d’engins de chantier",
+      "Expérience avérée dans la conduite de chargeuse, tractopelle, pelle hydraulique, niveleuse (souhaitée) et camions poids lourds",
+      "Connaissance de la réglementation routière applicable aux poids lourds et des Règles de signalisation temporaire de chantier",
+      "Maîtrise des techniques de conduite d’engins de chantier et des techniques de terrassement et de voirie",
+      "Notions de mécaniques de premier niveau",
+      "Connaissance des règles d’hygiène et de sécurité"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "TEMPORARY",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service Technique",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Expérience confirmée dans la conduite de poids lourds et d’engins de chantier, expérience avérée dans la conduite de chargeuse, tractopelle, pelle hydraulique, niveleuse et camions poids lourds.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Pouembout"
+  },
+  "incentiveCompensation": null,
+  "industry": "Travaux publics",
+  "jobBenefits": null,
+  "jobDuration": "1 an évolutif",
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Pouembout",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "302, Avenue de Pouembout",
+      "addressLocality": "Pouembout",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98825"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements",
+    "Ateliers et véhicules",
+    "Espaces verts"
+  ],
+  "physicalRequirement": "Port de charges, travail principalement en extérieur",
+  "qualifications": "Permis B, C et E exigés",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Ouvrier polyvalent",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1205",
+      "name": "Installation d'équipements routiers"
+    }
+  },
+  "responsibilities": [
+    "Conduite d’engins de chantier (niveleuse, chargeuse, tractopelle, pelle hydraulique) : réalisation des opérations de terrassement, nivellement, décaissement, remblaiement et chargement, effectuer les travaux dans le respect des règles de sécurité",
+    "Conduite de véhicules (véhicules légers et utilitaires, poids lourds) : assurer le transport de matériaux, matériels et équipements, vérifier l’état des véhicules avant utilisation, signaler toute anomalie mécanique",
+    "Travaux de voirie : participer à la création et à l’entretien des voiries communales, réaliser des travaux de reprofilage des pistes, réparer les chaussées et accotements, entretenir les fossés, caniveaux et ouvrages hydrauliques, participer aux travaux de signalisation routière",
+    "Entretien courant et nettoyage des engins et véhicules utilisés : contrôler les niveaux et effectuer les vérifications de premier niveau, renseigner les fiches de suivi du matériel, signaler toute panne ou dysfonctionnement",
+    "Travaux de maçonnerie",
+    "Entretien des espaces verts",
+    "Entretien des bâtiments et du patrimoine communal",
+    "Participation au montage et à l’organisation des manifestations communales",
+    "Chargement, déchargement et manutention de matériels",
+    "Participer aux interventions d’urgence (intempéries, catastrophes naturelles, accidents)",
+    "Assurer la mise en sécurité de voies publiques",
+    "Participer aux astreintes ou interventions exceptionnelles lorsque le service le nécessite"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Conduire en sécurité différents types de véhicules et engins",
+    "Réaliser des travaux de terrassement et de nivellement",
+    "Lire et appliquer des consignes techniques",
+    "Organiser un chantier",
+    "Charger et transporter des matériaux",
+    "Utiliser les équipements en respectant les consignes de sécurité",
+    "Travailler en autonomie tout en rendant compte à la hiérarchie",
+    "Sens du service public",
+    "Rigueur",
+    "Esprit d’équipe",
+    "Sens des responsabilités",
+    "Polyvalence",
+    "Réactivité",
+    "Prudence",
+    "Respect des règles de sécurité",
+    "Disponibilité"
+  ],
+  "specialCommitments": "Astreintes ou interventions exceptionnelles lorsque le service le nécessite",
+  "title": "Ouvrier polyvalent",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-30",
+  "workHours": "Temps complet",
+  "champs_open_data": 9,
+  "employeur_sigle": "COMMUNE-DE-POUEMBOUT",
+  "collectivite": "Commune de Pouembout",
+  "direction": "",
+  "direction_source": "absente",
+  "employeur_source": "document",
+  "famille_respnc": "Patrimoine bâti",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "patrimoine-bati"
+}
