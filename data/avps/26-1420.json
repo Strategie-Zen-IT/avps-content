@@ -15,12 +15,12 @@
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "au moins égale à 5 ans"
+        "value": "Au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Soumis à des horaires atypiques, déplacements réguliers (sur et en dehors de la commune d'affectation), congés pris obligatoirement en période de vacances scolaires, obligation de logement à proximité de l'établissement"
+        "value": "Soumis à des horaires atypiques, déplacements réguliers sur et en dehors de la commune d'affectation, congés pris obligatoirement en période de vacances scolaires, obligation de logement à proximité de l'établissement"
       },
       {
         "@type": "PropertyValue",
@@ -31,7 +31,7 @@
   },
   "alternateName": "Educateur spécialisé",
   "description": "La DEFIJ est chargée d'appliquer les orientations politiques de la province Nord en matière d'enseignement, de formation et d'insertion.",
-  "disambiguatingDescription": "Poste d'éducateur spécialisé basé à Hienghène au sein de la DEFIJ, rattaché à un internat provincial.",
+  "disambiguatingDescription": "Poste d'éducateur spécialisé en internat à Hienghène au sein de la DEFIJ de la Province Nord.",
   "identifier": "26-1420",
   "image": null,
   "mainEntityOfPage": null,
@@ -52,8 +52,8 @@
     "name": "Province Nord",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
-      "addressLocality": "Hienghène",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
       "province": "province Nord"
@@ -91,7 +91,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": false,
-  "experienceRequirements": null,
+  "experienceRequirements": "Non spécifié",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
@@ -121,7 +121,7 @@
     "Action sociale"
   ],
   "physicalRequirement": null,
-  "qualifications": "Diplôme d'Etat d'Educateur Spécialisé obligatoire, Être titulaire du permis de conduire B",
+  "qualifications": "Diplôme d'Etat d'Educateur Spécialisé obligatoire, Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Educateur spécialisé",
@@ -132,29 +132,29 @@
     }
   },
   "responsibilities": [
-    "Créer les conditions nécessaires pour que les personnes, familles et groupes qui rencontrent des difficultés aient les moyens d'être acteurs de leur développement et puissent renforcer leurs liens sociaux et les solidarités",
-    "Assurer le suivi individualisé des élèves internes à besoins particuliers : diagnostic et suivi en collaboration avec les partenaires et organismes socio-éducatifs, la rédaction, le suivi et l'évaluation du projet d'accompagnement personnalisé",
-    "Participer à l'amélioration des conditions d'accueil et d'éducation des élèves",
-    "Accompagner le personnel de l'internat dans le cadre de projets éducatifs et de développement des compétences",
-    "Piloter et animer des projets et des actions de prévention",
-    "Animer le réseau partenarial au bénéfice des internes, en particulier la relation aux parents d'élèves",
-    "Préparer et suivre les commissions éducatives, les réunions hebdomadaires de veille éducative",
-    "Participer aux actions provinciales",
-    "Accueillir et accompagner dans le cadre de l'aide à la personne ou dans le cadre de projets collectifs ou/et individuels",
-    "Réaliser des enquêtes sociales",
-    "Organiser des activités éducatives, culturelles, ludiques afin de mobiliser les ressources de la personne",
-    "Élaborer et mettre en place des projets concernant la personne et/ou le groupe",
-    "Assurer la médiation des relations",
-    "Réaliser le suivi socio-éducatif et rédiger des écrits professionnels",
-    "Développer et animer des partenariats et réseaux",
-    "Assurer la veille sociale et juridique",
-    "Intervenir ponctuellement sur sollicitation de la DEFIJ au sein d'autres internats dans le cadre d'actions transversales"
+    "Créer les conditions nécessaires pour que les personnes, familles et groupes qui rencontrent des difficultés soient acteurs de leur développement",
+    "Suivi individualisé des élèves internes à besoins particuliers : diagnostic, suivi, rédaction et évaluation du projet d'accompagnement personnalisé",
+    "Participation à l'amélioration des conditions d'accueil et d'éducation des élèves",
+    "Accompagnement du personnel de l'internat dans le cadre de projets éducatifs et de développement des compétences",
+    "Pilotage et animation de projets et d'actions de prévention",
+    "Animation du réseau partenarial au bénéfice des internes, en particulier la relation aux parents d'élèves",
+    "Préparation et suivi des commissions éducatives et des réunions hebdomadaires de veille éducative",
+    "Participation aux actions provinciales",
+    "Accueil et accompagnement dans le cadre de l'aide à la personne ou dans le cadre de projets collectifs ou individuels",
+    "Réalisation d'enquêtes sociales",
+    "Organisation d'activités éducatives, culturelles, ludiques afin de mobiliser les ressources de la personne",
+    "Élaboration et mise en place de projet concernant la personne et/ou le groupe",
+    "Médiation des relations",
+    "Réalisation du suivi socio-éducatif et d'écrit professionnel",
+    "Développement et animation de partenariats et réseaux",
+    "Veille sociale et juridique",
+    "Intervenir ponctuellement sur sollicitation de la DEFIJ au sein d'autres internats"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Bonne connaissance du fonctionnement des internats et des orientations de la collectivité en faveur de la prise en charge des internes",
+    "Bonne connaissance du fonctionnement des internats et des orientations de la collectivité",
     "Bonne connaissance en techniques d'entretien d'aide à la personne et écoute active",
     "Capacité en méthodologie de projets",
     "Bonne connaissance du cadre réglementaire de l'action socio-éducative et de l'animation",
@@ -176,10 +176,10 @@
     "Capacité d'observation et d'analyse",
     "Tolérance"
   ],
-  "specialCommitments": "Astreintes liées aux horaires atypiques et obligation de logement à proximité de l'établissement",
+  "specialCommitments": "Astreintes et horaires atypiques liés au fonctionnement de l'internat",
   "title": "Educateur spécialisé à Hienghène",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-09",
+  "validThrough": "2026-10-30",
   "workHours": "Horaires atypiques",
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
