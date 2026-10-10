@@ -14,11 +14,6 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Au moins égale à 10 ans"
-      },
-      {
-        "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
         "value": "Déplacements fréquents pour assister aux conseils d'administration des établissements."
       },
@@ -61,7 +56,7 @@
   },
   "alternateName": null,
   "description": "Sous l'autorité du chef de service et de son adjoint(e), le contrôleur financier effectue le contrôle administratif et financier des établissements publics de la Nouvelle-Calédonie et contribue à l'identification des risques financiers inhérents à leur fonctionnement.",
-  "disambiguatingDescription": "Contrôle administratif et financier des établissements publics de la Nouvelle-Calédonie et contribution à l'identification des risques financiers.",
+  "disambiguatingDescription": "Contrôle administratif et financier des établissements publics de la Nouvelle-Calédonie et identification des risques financiers.",
   "identifier": "26-65052/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -78,10 +73,10 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Schedule",
-    "name": "Hôtel de la Nouvelle-Calédonie",
+    "name": "Nouvelle-Calédonie",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "18 avenue Paul Doumer",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -117,7 +112,7 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": null,
+  "experienceInPlaceOfEducation": false,
   "experienceRequirements": "Métier identifié comme pénurique, recrutement sur titre avec Master 2 exigé.",
   "hiringOrganization": {
     "@type": "Organization",
@@ -125,7 +120,7 @@
   },
   "incentiveCompensation": null,
   "industry": "Finances et budget",
-  "jobBenefits": "Régime indemnitaire de la fonction publique de Nouvelle-Calédonie",
+  "jobBenefits": "Informations salaire disponibles sur le site de la DRHFPNC",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -147,7 +142,7 @@
     "Finances et budget"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis de conduire pour déplacements fréquents",
+  "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Contrôleur financier",
@@ -190,7 +185,7 @@
   "title": "Contrôleur financier des établissements publics",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-16",
-  "workHours": "Temps complet",
+  "workHours": null,
   "champs_open_data": 30,
   "employeur_sigle": "DBAF",
   "collectivite": "Nouvelle-Calédonie",
