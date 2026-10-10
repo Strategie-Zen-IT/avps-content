@@ -4,19 +4,12 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Directeur de la direction des finances budgétaires",
+    "superieurHierarchique": "Directeur",
     "placeOrganigramme": "Placée sous l'autorité du directeur",
     "relationsFonctionnelles": [
-      "Directions de la province Nord",
-      "SAEML",
-      "SPL"
+      "Direction des Ressources Humaines (DRH) de la province Nord"
     ],
     "informationsLibres": [
-      {
-        "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Au moins égale à 10 ans"
-      },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
@@ -30,8 +23,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La direction des finances et du budget de la province Nord est chargée de la gestion comptable budgétaire et financière. Elle prépare le budget de la province et assure le contrôle de son exécution tant en dépenses qu'en recettes. Elle remplit une mission de conseil et d'aide à la décision au travers des analyses rétrospectives et prospectives qu'elle produit et propose une stratégie soutenable des finances de la collectivité.",
-  "disambiguatingDescription": "Chargé d'études Hors bilan au sein de la Direction des finances et du budget de la province Nord.",
+  "description": "La direction des finances et du budget de la province Nord est chargée de la gestion comptable budgétaire et financière. Elle prépare le budget de la province et assure le contrôle de son exécution tant en dépenses qu'en recettes. Elle remplit une mission de conseil et d'aide à la décision au travers des analyses rétrospectives et prospectives qu'elle produit et propose une stratégie soutenable des finances de la collectivité. La direction des finances et du budget présente une ossature composée de 3 pôles : Celui de \"support\", \"enjeux stratégiques\" et \"budget\".",
+  "disambiguatingDescription": "Suivi des engagements hors bilan de la province ainsi que la production d'analyses financières.",
   "identifier": "26-0407",
   "image": null,
   "mainEntityOfPage": null,
@@ -48,7 +41,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
+    "@type": "Schedule",
     "name": "Hôtel de la province Nord",
     "address": {
       "@type": "PostalAddress",
@@ -70,19 +63,19 @@
   "educationRequirements": {
     "credentialCategory": "Bac+3",
     "competencyRequired": [
-      "Bac +3 minimum dans le domaine de la comptabilité et de la gestion",
-      "Master II dans le domaine de la finance requis dans le cadre d'un recrutement sur titre",
+      "Comptabilité et gestion",
+      "Finance",
       "Bonne connaissance des règles financières, budgétaire et comptable de la fonction publique et privée",
       "Bonne connaissance de l'organisation administrative de la collectivité et des procédures administratives"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
-  "employerOverview": "La direction des finances et du budget présente une ossature composée de 3 pôles : Celui de support, enjeux stratégiques et budget.",
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : Au moins égale à 10 ans",
+  "employerOverview": null,
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Direction des finances et du budget (DFB)",
-    "url": null,
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
     "logo": null
   },
   "estimatedSalary": null,
@@ -94,7 +87,7 @@
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Finances et budget",
+  "industry": "Service public",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -117,7 +110,7 @@
     "Finances et budget"
   ],
   "physicalRequirement": null,
-  "qualifications": "Être titulaire du permis B",
+  "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Chargé d'études",
@@ -159,9 +152,9 @@
   "specialCommitments": null,
   "title": "Chargé d'études Hors bilan",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-09",
+  "validThrough": "2026-10-30",
   "workHours": null,
-  "champs_open_data": 6,
+  "champs_open_data": 7,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
   "direction": "PROVINCE NORD",
