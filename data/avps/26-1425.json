@@ -10,15 +10,10 @@
       "Directions métiers",
       "Équipes techniques",
       "Prestataires",
-      "Maîtrises d'ouvrage",
-      "Maîtrises d'œuvre"
+      "Maîtrises d’ouvrage",
+      "Maîtrises d’œuvre"
     ],
     "informationsLibres": [
-      {
-        "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
-        "value": "au moins égale à 5 ans"
-      },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
@@ -38,7 +33,7 @@
   },
   "alternateName": null,
   "description": "Le ou la cheffe de projet assure le cadrage, le pilotage et la coordination des projets qui lui sont confiés, depuis l’analyse et la formalisation du besoin jusqu’à leur mise en œuvre. Il ou elle accompagne les directions métiers dans la définition de leurs besoins, évalue l’opportunité et la faisabilité des projets et coordonne les différents acteurs mobilisés. Il ou elle veille à la bonne réalisation des projets dans le respect des objectifs, des coûts, de la qualité, des délais et du périmètre définis, et accompagne les utilisateurs dans les changements induits par leur mise en œuvre.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Poste de Chef de projets au sein de la Direction des Systèmes d’Informations de la Province Nord, basé à Koné.",
   "identifier": "26-1425",
   "image": null,
   "mainEntityOfPage": null,
@@ -46,7 +41,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "url": "https://www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -55,11 +50,11 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Area",
-    "name": "Province Nord",
+    "@type": "Place",
+    "name": "Hôtel de la province Nord",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "41 avenue Jimmy Welepane",
       "addressLocality": "Koné",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
@@ -69,7 +64,7 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.76.07",
-    "email": "d.estieux@province-nord.nc"
+    "email": "drh.emplois@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-09-18",
@@ -77,8 +72,10 @@
   "educationRequirements": {
     "credentialCategory": "Bac+5",
     "competencyRequired": [
-      "Informatique",
-      "Numérique"
+      "Domaine de l'informatique et/ou numérique",
+      "Méthodes et outils de conduite de projet",
+      "Réglementation relative aux marchés publics",
+      "Anglais technique"
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
@@ -91,12 +88,12 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": null,
+  "experienceInPlaceOfEducation": false,
   "experienceRequirements": "Expérience professionnelle confirmée",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "logo": "https://avps.nc/logos/pvn.png"
+    "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
   "industry": "Système d'information",
@@ -129,26 +126,26 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "I1302",
-      "name": "Chef de projet informatique"
+      "name": "Conseil et maîtrise d'ouvrage en systèmes d'information"
     }
   },
   "responsibilities": [
     "Analyse, qualification et formalisation des besoins des directions métiers",
-    "Réalisation d'études d'opportunité et de faisabilité",
+    "Réalisation d’études d’opportunité et de faisabilité",
     "Définition du périmètre, des objectifs, des livrables, des ressources et du planning des projets",
     "Rédaction des cahiers des charges et des spécifications fonctionnelles",
     "Organisation, coordination et suivi des différentes phases des projets",
     "Coordination des acteurs métiers, des équipes techniques et des prestataires",
     "Pilotage des projets dans le respect des coûts, de la qualité, des délais et du périmètre définis",
-    "Identification et suivi des risques, des contraintes et des points d'arbitrage",
+    "Identification et suivi des risques, des contraintes et des points d’arbitrage",
     "Préparation et animation des instances de pilotage et de suivi des projets",
-    "Reporting sur l'avancement des projets et l'alerte en cas d'écart ou de difficulté",
-    "Accompagnement des maîtrises d'ouvrage et interface avec les maîtrises d'œuvre",
+    "Reporting sur l’avancement des projets et l’alerte en cas d’écart ou de difficulté",
+    "Accompagnement des maîtrises d’ouvrage et l’interface avec les maîtrises d’œuvre",
     "Préparation et accompagnement de la conduite du changement auprès des utilisateurs",
     "Gestion et suivi du portefeuille de projets du service",
-    "Contribution à la définition et à l'amélioration des méthodes, outils et pratiques de gestion de projet",
+    "Contribution à la définition et à l’amélioration des méthodes, outils et pratiques de gestion de projet",
     "Participation et animation des réseaux de référents de la collectivité",
-    "Réalisation ponctuelle d'études et d'audits fonctionnels ou organisationnels",
+    "Réalisation ponctuelle d’études et d’audits fonctionnels ou organisationnels",
     "Veille technologique"
   ],
   "salaryCurrency": null,
@@ -167,13 +164,13 @@
     "Maîtriser les outils collaboratifs et bureautiques Microsoft 365",
     "Utiliser SharePoint",
     "Connaître la réglementation relative aux marchés publics",
-    "Comprendre l'anglais technique",
-    "Sens de l'écoute et de la communication",
+    "Comprendre l’anglais technique",
+    "Sens de l’écoute et de la communication",
     "Sens du service",
     "Aptitude au travail en équipe et en transversalité",
-    "Autonomie et prise d'initiative",
-    "Capacité d'analyse, de synthèse et d'adaptation",
-    "Rigueur et sens de l'organisation",
+    "Autonomie et prise d’initiative",
+    "Capacité d’analyse, de synthèse et d’adaptation",
+    "Rigueur et sens de l’organisation",
     "Réactivité",
     "Capacité à rendre compte et à alerter",
     "Qualités rédactionnelles",
@@ -183,9 +180,9 @@
   "specialCommitments": "Astreintes communication",
   "title": "Chef de projets",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-09",
+  "validThrough": "2026-10-30",
   "workHours": null,
-  "champs_open_data": 6,
+  "champs_open_data": 7,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
   "direction": "PROVINCE NORD",
