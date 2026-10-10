@@ -4,38 +4,38 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": "Secteur de Canala",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Directeur de la DEFIJ",
-    "placeOrganigramme": "Placé sous l'autorité administrative du directeur de la DEFIJ et sous l'autorité pédagogique de l'inspecteur de l'enseignement primaire de la 4ème circonscription",
+    "superieurHierarchique": "Directeur de la DEFIJ et inspecteur de l'enseignement primaire de la 4ème circonscription",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "SEAE",
       "Inspecteur de l'enseignement primaire de la 4ème circonscription",
+      "Directeur de la DEFIJ",
       "Équipes éducatives et pédagogiques",
       "Vice-rectorat",
       "Santé scolaire",
-      "Autorités coutumières",
-      "Professionnels extérieurs"
+      "Autorités coutumières"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "au moins égale à 5 ans"
+        "value": "Au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Déplacements fréquents sur l’ensemble de la province Nord."
+        "value": "Déplacements fréquents sur l'ensemble de la province Nord"
       },
       {
         "@type": "PropertyValue",
         "name": "Fiche d'emploi générique RESPNC",
-        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952144.PDF"
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952070.PDF"
       }
     ]
   },
   "alternateName": null,
-  "description": "La direction de l’enseignement, de la formation, de l’insertion et de la jeunesse de la province Nord compte environ 550 agents. Elle emploie notamment l’ensemble des enseignants du premier degré public, l’ensemble des personnels d’internats provinciaux et environ 49 agents chargés de l’administration basés à l’hôtel de la province Nord et au centre de formation de Touho. La DEFIJ est chargée d’appliquer les orientations politiques de la province Nord en matière d’enseignement, de formation et d’insertion.",
-  "disambiguatingDescription": "Psychologue scolaire intervenant spécifiquement et exclusivement en internat sur le secteur de Canala.",
+  "description": "La direction de l'enseignement, de la formation, de l'insertion et de la jeunesse de la province Nord compte environ 550 agents. Elle emploie notamment l'ensemble des enseignants du premier degré public, l'ensemble des personnels d'internats provinciaux et environ 49 agents chargés de l'administration basés à l'hôtel de la province Nord et au centre de formation de Touho. La DEFIJ est chargée d'appliquer les orientations politiques de la province Nord en matière d'enseignement, de formation et d'insertion.",
+  "disambiguatingDescription": "Psychologue scolaire affecté au secteur de Canala pour intervenir au sein des écoles primaires et de l'internat provincial.",
   "identifier": "26-1423",
   "image": null,
   "mainEntityOfPage": null,
@@ -51,18 +51,7 @@
   "url": "https://www.province-nord.nc/avp",
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "Hôtel de la province Nord",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "41 avenue Jimmy Welepane",
-      "addressLocality": "Koné",
-      "addressRegion": "Province Nord",
-      "addressCountry": "NC",
-      "province": "province Nord"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.72.27",
@@ -74,27 +63,26 @@
   "educationRequirements": {
     "credentialCategory": "Bac+5",
     "competencyRequired": [
-      "Être titulaire d'un titre de psychologue ou d'un diplôme de psychologue scolaire (niveau maîtrise)",
-      "Connaissance des textes en vigueur dans le domaine de l'ASH et de la gestion de la grande difficulté (niveau maîtrise)",
-      "Connaissance des principales théories de la psychologie de l'enfant et des courants de la psychologie des apprentissages (niveau maîtrise)",
-      "Connaissance des grands courants de la pédagogie liée à la psychologie (niveau maîtrise)",
-      "Connaissance des principaux concepts liés à la didactique du savoir et à la gestion de l'hétérogénéité (niveau maîtrise)",
-      "Connaissance du système scolaire de la maternelle au collège et des programmes en vigueur (niveau maîtrise)",
-      "Connaissance des outils d'évaluation psychologique (tests de personnalité, tests projectifs…) (niveau maîtrise)"
+      "Connaissance des textes en vigueur dans le domaine de l'ASH et de la gestion de la grande difficulté",
+      "Connaissance des principales théories de la psychologie de l'enfant et des courants de la psychologie des apprentissages",
+      "Connaissance des grands courants de la pédagogie liée à la psychologie",
+      "Connaissance des principaux concepts liés à la didactique du savoir et à la gestion de l'hétérogénéité",
+      "Connaissance du système scolaire de la maternelle au collège et des programmes en vigueur",
+      "Connaissance des outils d'évaluation psychologique"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence au moins égale à 5 ans en Nouvelle-Calédonie",
-  "employerOverview": "La direction de l’enseignement, de la formation, de l’insertion et de la jeunesse de la province Nord compte environ 550 agents. La DEFIJ est chargée d’appliquer les orientations politiques de la province Nord en matière d’enseignement, de formation et d’insertion.",
+  "eligibilityToWorkRequirement": "Durée de résidence en Nouvelle-Calédonie au moins égale à 5 ans",
+  "employerOverview": "La DEFIJ est chargée d'appliquer les orientations politiques de la province Nord en matière d'enseignement, de formation et d'insertion.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Direction de l’Enseignement, de la Formation, de l’Insertion et de la Jeunesse",
+    "name": "Secteur de Canala",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Niveau maîtrise requis sur l'ensemble des connaissances théoriques et pratiques de psychologie scolaire.",
+  "experienceRequirements": "Niveau maîtrise requis en psychologie ou diplôme de psychologue scolaire.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
@@ -110,7 +98,7 @@
     "name": "Secteur de Canala : écoles primaires de Canala, de Kouaoua et de Nakety, et internat provincial de Canala",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Secteur de Canala",
+      "streetAddress": null,
       "addressLocality": "Canala",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
@@ -122,33 +110,33 @@
   "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Education",
-    "Action sociale"
+    "Politique de santé publique"
   ],
   "physicalRequirement": null,
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Psychologue scolaire",
+    "name": "Psychologue",
     "occupationalCategory": {
       "@type": "CategoryCode",
-      "codeValue": "K2107",
+      "codeValue": "J1503",
       "name": "Psychologie"
     }
   },
   "responsibilities": [
     "Placé sous l'autorité administrative du directeur de la DEFIJ et sous l'autorité pédagogique de l'inspecteur de l'enseignement primaire de la 4ème circonscription, le psychologue scolaire contribue, en lien avec le SEAE, à la prévention des difficultés scolaires et à l'accompagnement des équipes éducatives et pédagogiques, de la maternelle au secondaire, spécifiquement et exclusivement en internat",
     "Co-intervenir dans les dispositifs d'aide spécialisée, participer à l'élaboration des projets pédagogique et éducatif, au suivi des mesures d'aide individuelle/collective et à l'intégration des jeunes en situation de handicap, et siéger aux équipes éducatives et commissions éducatives en internat",
-    "L'instruction des dossiers relevant des commissions spécialisées (CCEP, CEJH-NC, CSD-ASH)",
-    "La conduite d'entretiens individuels d'évaluation et de suivi auprès des élèves signalés",
-    "La proposition de stratégies adaptées aux équipes enseignantes pour la résolution des difficultés d'apprentissage",
-    "La rédaction de documents de synthèse à destination des équipes et, le cas échéant, des familles",
-    "La participation aux réunions avec les équipes d'enseignants et les parents",
-    "L'écoute et l'accompagnement des équipes éducatives et des familles face aux difficultés rencontrées",
-    "Le lien avec les professionnels extérieurs et, si nécessaire, l'orientation de l'élève vers une prise en charge externe",
-    "La prévention et l'accompagnement du bien-être des équipes éducatives et enseignantes de son secteur",
+    "Garantir l'instruction des dossiers relevant des commissions spécialisées (CCEP, CEJH-NC, CSD-ASH)",
+    "Conduire des entretiens individuels d'évaluation et de suivi auprès des élèves signalés",
+    "Proposer des stratégies adaptées aux équipes enseignantes pour la résolution des difficultés d'apprentissage",
+    "Rédiger des documents de synthèse à destination des équipes et, le cas échéant, des familles",
+    "Participer aux réunions avec les équipes d'enseignants et les parents",
+    "Écouter et accompagner les équipes éducatives et les familles face aux difficultés rencontrées",
+    "Assurer le lien avec les professionnels extérieurs et, si nécessaire, l'orientation de l'élève vers une prise en charge externe",
+    "Prévenir et accompagner le bien-être des équipes éducatives et enseignantes de son secteur",
     "Assurer une veille professionnelle et réglementaire sur les dispositifs ASH, le handicap et les pratiques d'évaluation psychologique",
-    "Participer aux conseils d'école et aux instances partenariales de son secteur (vice-rectorat, santé scolaire, autorités coutumières)",
-    "Contribuer au bilan d'activité annuel du Service de l'Enseignement et des Actions Éducatives (SEAE)",
+    "Participer aux conseils d'école et aux instances partenariales de son secteur",
+    "Contribuer au bilan d'activité annuel du Service de l'Enseignement et des Actions Éducatives",
     "Participer à des actions ponctuelles de sensibilisation ou de formation des équipes sur le bien-être et la prévention des difficultés scolaires",
     "Apporter un appui ponctuel à d'autres missions du service selon les nécessités de service"
   ],
@@ -174,19 +162,19 @@
     "Neutralité et objectivité",
     "Sens de l'anticipation"
   ],
-  "specialCommitments": "Déplacements fréquents sur l'ensemble de la province Nord",
+  "specialCommitments": null,
   "title": "Psychologue scolaire - secteur de Canala",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-09",
-  "workHours": "Temps plein avec déplacements fréquents",
+  "validThrough": "2026-10-30",
+  "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
   "direction": "PROVINCE NORD",
   "direction_source": "source",
   "employeur_source": "source",
-  "famille_respnc": "Education",
+  "famille_respnc": "Santé publique soins",
   "famille_source": "respnc",
   "famille_score": 1.0,
-  "dossier": "education"
+  "dossier": "sante-publique-soins"
 }
