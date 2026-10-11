@@ -7,11 +7,11 @@
     "superieurHierarchique": "Chef(fe) de Bureau Dentaire, et directeur(-trice) adjoint(e) en charge du Pôle Soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Equipes des CMS",
+      "CMS",
       "Spécialistes et partenaires médicaux",
-      "Spécialistes et partenaires sociaux",
-      "Spécialistes et partenaires associatifs",
-      "Spécialistes et partenaires scolaires",
+      "Sociaux",
+      "Associatifs",
+      "Scolaire",
       "Agence sanitaire et sociale"
     ],
     "informationsLibres": [
@@ -22,18 +22,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Poste à pourvoir",
-        "value": "immédiatement"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Effectif de la direction",
-        "value": "La DASSP compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles, 8 services et 14 bureaux."
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Effectif du bureau",
-        "value": "Le Bureau dentaire compte 20 agents (1 chef de Bureau dentaire, 10 chirurgiens-dentistes, 9 assistants(es) dentaires)"
+        "name": "Contexte du service",
+        "value": "La DASSP compte 249 agents. Le Bureau dentaire du Service des Métiers de Soins du Pôle Soins gère les chirurgiens-dentistes et les assistantes dentaires des centres médico-sociaux et compte 20 agents (1 chef de Bureau dentaire, 10 chirurgiens-dentistes, 9 assistants(es) dentaires)"
       },
       {
         "@type": "PropertyValue",
@@ -43,7 +33,7 @@
     ]
   },
   "alternateName": null,
-  "description": "La DASSPS de la province Nord recrute un chirurgien-dentiste pour le CMS de Touho. Sous l'autorité du chef de Bureau Dentaire et du directeur adjoint du Pôle Soins, le professionnel effectue les actes du champ dentaire en veillant à répondre à la mission de santé publique de la province Nord, notamment par des programmes de dépistage, de prévention et de promotion de la santé bucco-dentaire.",
+  "description": "Placée sous l'autorité du (de la) chef(fe) de Bureau Dentaire, et du (de la) directeur(-trice) adjoint(e) en charge du Pôle Soins ; la personne retenue effectuera les actes du champ professionnel du praticien dentaire en veillant à répondre à la mission de santé publique du poste. Elle veillera notamment à appliquer la politique de santé publique de la province Nord et à mettre en œuvre ses programmes de dépistage, de prévention et de promotion de la santé bucco-dentaire.",
   "disambiguatingDescription": null,
   "identifier": "26-1184",
   "image": null,
@@ -57,14 +47,14 @@
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": "www.province-nord.nc",
+  "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.72.30",
-    "email": "drh.emplois@province-nord.nc"
+    "email": "m.oudare@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-08-07",
@@ -86,8 +76,8 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Une expérience professionnelle en outre-mer serait appréciée. Une expérience professionnelle d'au moins un an en matière de santé publique et de prévention serait appréciée.",
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Expérience professionnelle en outre-mer appréciée. Expérience professionnelle d'au moins un an en matière de santé publique et de prévention appréciée.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
@@ -114,11 +104,10 @@
   "jobLocationType": null,
   "jobStartDate": "Immédiatement",
   "occupationalCategory": [
-    "Santé publique soins",
-    "Politique de santé publique"
+    "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis B",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Chirurgien-Dentiste",
@@ -134,7 +123,7 @@
     "Participation aux actions de dépistage et de prévention propres à la province Nord ou en partenariat avec d'autres organismes",
     "Entretien, le nettoyage et la désinfection du mobilier et de l'équipement professionnels",
     "Désinfection des instruments et leur stérilisation en autoclave",
-    "Supervision de l'activité de l'assistant(e) dentaire",
+    "Supervision de l'activité de l'assistant(te) dentaire",
     "Restitution de bilans d'activité et de tableaux de soins aux publics cible sur demande de la direction",
     "Enregistrement, la codification (selon la CIM 10) et la cotation des actes sur le logiciel de la province Nord",
     "Information des patients en matière d'hygiène bucco-dentaire et alimentaire et leur motivation aux gestes d'hygiène",
