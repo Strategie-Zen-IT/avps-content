@@ -4,24 +4,29 @@
     "direction": "SMTU",
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 4,
-    "superieurHierarchique": "Directeur général ou de son adjoint",
+    "superieurHierarchique": "Directeur général ou son adjoint",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Régie Tanéo",
       "Service exploitation",
       "Service systèmes",
-      "Service patrimoine"
+      "Services patrimoine"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Catégorie",
-        "value": "B ou A"
+        "value": "Catégorie B ou A"
       },
       {
         "@type": "PropertyValue",
-        "name": "Date de clôture initialement prévue",
-        "value": "25/09/2026 (reportée)"
+        "name": "Date de clôture initiale",
+        "value": "25/09/2026"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Statut de la date de clôture",
+        "value": "Reportée"
       },
       {
         "@type": "PropertyValue",
@@ -32,7 +37,7 @@
   },
   "alternateName": null,
   "description": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes sur le territoire du Grand Nouméa.",
-  "disambiguatingDescription": "Chef de service pilotant et gérant les missions administratives, la communication et les réclamations du SMTU.",
+  "disambiguatingDescription": null,
   "identifier": "26-1337",
   "image": null,
   "mainEntityOfPage": null,
@@ -80,7 +85,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expériences dans le management d'équipe, les procédures administratives des collectivités, la gestion d'échéances et le travail en transversalité.",
+  "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
@@ -96,7 +101,7 @@
     "name": "SMTU",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "BP 48",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -105,11 +110,10 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Dès que possible",
+  "jobStartDate": null,
   "occupationalCategory": [
     "Administration générale",
-    "Communication",
-    "Transports terrestres et maritimes"
+    "Communication"
   ],
   "physicalRequirement": null,
   "qualifications": null,
@@ -119,7 +123,7 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1601",
-      "name": "Assistance en ressources humaines"
+      "name": "Management des ressources humaines"
     }
   },
   "responsibilities": [
@@ -160,7 +164,7 @@
   "specialCommitments": null,
   "title": "Chef de service administratif, communication, réclamations",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-09",
+  "validThrough": "2026-10-23",
   "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "SYNDICAT-MIXTE-DES-TRANSPORTS-URBAINS-DU-GRAND-NOUMEA-SMTU",
