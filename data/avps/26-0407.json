@@ -4,12 +4,18 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Directeur",
+    "superieurHierarchique": "Directeur de la direction des finances budgétaires",
     "placeOrganigramme": "Placée sous l'autorité du directeur",
     "relationsFonctionnelles": [
-      "Direction des Ressources Humaines (DRH) de la province Nord"
+      "SAEML",
+      "SPL"
     ],
     "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 10 ans"
+      },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
@@ -41,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
+    "@type": "AreaServed",
     "name": "Hôtel de la province Nord",
     "address": {
       "@type": "PostalAddress",
@@ -63,14 +69,14 @@
   "educationRequirements": {
     "credentialCategory": "Bac+3",
     "competencyRequired": [
-      "Comptabilité et gestion",
-      "Finance",
+      "Bac +3 minimum dans le domaine de la comptabilité et de la gestion",
+      "Master II dans le domaine de la finance (dans le cadre d'un recrutement sur titre)",
       "Bonne connaissance des règles financières, budgétaire et comptable de la fonction publique et privée",
       "Bonne connaissance de l'organisation administrative de la collectivité et des procédures administratives"
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : Au moins égale à 10 ans",
-  "employerOverview": null,
+  "employerOverview": "La direction des finances et du budget de la province Nord est chargée de la gestion comptable budgétaire et financière. Elle prépare le budget de la province et assure le contrôle de son exécution tant en dépenses qu'en recettes.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -110,7 +116,7 @@
     "Finances et budget"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis B",
+  "qualifications": "Être titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Chargé d'études",
@@ -121,7 +127,6 @@
     }
   },
   "responsibilities": [
-    "Suivi des engagements hors bilan de la province ainsi que la production d'analyses financières",
     "Participation à la préparation du débat d'orientation budgétaire (DOB) à présenter à l'assemblée de province",
     "Participation à l'élaboration du rapport annuel d'analyse financière de la collectivité sur l'année écoulée",
     "Préparation de la séance plénière annuelle dédiée aux SAEML",
