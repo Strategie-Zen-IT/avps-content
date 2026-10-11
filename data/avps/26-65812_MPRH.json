@@ -8,9 +8,12 @@
     "placeOrganigramme": "Placé(e) sous l'autorité directe du chef du service de la protection sociale",
     "relationsFonctionnelles": [
       "Agence Sanitaire et Sociale (ASS)",
-      "Organismes de protection sociale (notamment la CAFAT)",
-      "Établissements de santé, médico-sociaux",
-      "Établissements hospitaliers du territoire"
+      "Organismes de protection sociale",
+      "CAFAT",
+      "Établissements de santé",
+      "Établissements médico-sociaux",
+      "Conseil du Handicap et de la Dépendance (CHD)",
+      "Commission Médicale des Permis de Conduire (CMPC)"
     ],
     "informationsLibres": [
       {
@@ -62,7 +65,7 @@
   },
   "alternateName": null,
   "description": "Placé(e) sous l'autorité directe du chef du service de la protection sociale, l'agent a pour missions principales d'organiser, de gérer, d'animer et de piloter le bureau.\nLe poste s'inscrit dans un contexte de réforme structurelle majeure du modèle calédonien de protection sociale. En tant que responsable, vous piloterez des travaux d'analyse et de modélisation stratégique qui nourriront directement les orientations politiques du gouvernement. Votre objectif principal sera d'éclairer les décisions publiques afin d'encadrer, d'optimiser et de maîtriser l'évolution des dépenses des différents régimes sociaux, dans une constante perspective d'efficience et de pérennité du système.",
-  "disambiguatingDescription": "Responsable du bureau de la performance du système de protection sociale au sein de la DASS",
+  "disambiguatingDescription": "Responsable du bureau de la performance du système de protection sociale au sein de la DASS de Nouvelle-Calédonie.",
   "identifier": "26-65812/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -162,7 +165,7 @@
     "5- Animation et représentation institutionnelle",
     "Préparer et participer activement aux différentes instances de gouvernance et commissions techniques relevant des compétences du bureau."
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
