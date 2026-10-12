@@ -7,8 +7,8 @@
     "superieurHierarchique": "Directeur(trice) adjoint(e) des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "CMS limitrophes",
-      "Bureau de Proximité de Soins (BPS)"
+      "Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins",
+      "CMS limitrophes"
     ],
     "informationsLibres": [
       {
@@ -46,7 +46,18 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "Area",
+    "name": "CMS de KOUAOUA",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Kouaoua",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
@@ -56,7 +67,7 @@
   "datePosted": "2026-08-14",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'Etat de Docteur en Médecine",
+    "credentialCategory": "Diplôme d'État de docteur en médecine",
     "competencyRequired": [
       "Maîtrise de la médecine générale et de l'urgence (CAMU souhaité)",
       "Connaissance en santé publique",
@@ -64,11 +75,11 @@
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": null,
+  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "PROVINCE NORD",
+    "name": "CMS de KOUAOUA",
     "url": null,
     "logo": null
   },
@@ -81,8 +92,8 @@
     "url": "http://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
-  "jobBenefits": null,
+  "industry": "Santé publique",
+  "jobBenefits": "Poste soumis à astreintes",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -104,7 +115,7 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis de conduire B",
+  "qualifications": "Être titulaire du permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Médecin",
@@ -136,11 +147,11 @@
     "Capacité d'écoute",
     "Goût du travail en équipe"
   ],
-  "specialCommitments": "Poste soumis à astreintes",
+  "specialCommitments": "Astreintes",
   "title": "Médecin à Kouaoua",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-23",
-  "workHours": "Astreintes",
+  "workHours": "Poste soumis à astreintes",
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
