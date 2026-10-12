@@ -2,16 +2,14 @@
   "additionalType": {
     "corpsDomaine": "Chirurgien dentiste",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "Bureau dentaire du Service des Métiers de Soins du Pôle Soins",
+    "uniteOrganisationnelle": "CMS de TOUHO",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef(fe) de Bureau Dentaire, et directeur(-trice) adjoint(e) en charge du Pôle Soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "CMS",
-      "Spécialistes et partenaires médicaux",
-      "Sociaux",
-      "Associatifs",
-      "Scolaire",
+      "Bureau dentaire du Service des Métiers de Soins du Pôle Soins",
+      "Équipes des CMS",
+      "Partenaires médicaux, sociaux, associatifs, scolaires",
       "Agence sanitaire et sociale"
     ],
     "informationsLibres": [
@@ -22,8 +20,13 @@
       },
       {
         "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "immédiatement"
+      },
+      {
+        "@type": "PropertyValue",
         "name": "Contexte du service",
-        "value": "La DASSP compte 249 agents. Le Bureau dentaire du Service des Métiers de Soins du Pôle Soins gère les chirurgiens-dentistes et les assistantes dentaires des centres médico-sociaux et compte 20 agents (1 chef de Bureau dentaire, 10 chirurgiens-dentistes, 9 assistants(es) dentaires)"
+        "value": "Le Bureau dentaire du Service des Métiers de Soins du Pôle Soins gère les chirurgiens-dentistes et les assistantes dentaires des centres médico-sociaux et compte 20 agents (1 chef de Bureau dentaire, 10 chirurgiens-dentistes, 9 assistants(es) dentaires)"
       },
       {
         "@type": "PropertyValue",
@@ -47,10 +50,21 @@
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": null,
+  "url": "www.province-nord.nc",
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "CMS de TOUHO",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Touho",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.72.30",
@@ -67,7 +81,7 @@
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La DASSP compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux.",
+  "employerOverview": "La DASSP compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre (4) pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -77,7 +91,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Expérience professionnelle en outre-mer appréciée. Expérience professionnelle d'au moins un an en matière de santé publique et de prévention appréciée.",
+  "experienceRequirements": "Expérience professionnelle en outre-mer serait appréciée ; Expérience professionnelle d'au moins un an en matière de santé publique et de prévention serait apprécié.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
@@ -102,34 +116,34 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiatement",
+  "jobStartDate": null,
   "occupationalCategory": [
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis de conduire B",
+  "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Chirurgien-Dentiste",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Chirurgie dentaire"
+      "name": "Médecine de prévention"
     }
   },
   "responsibilities": [
-    "Réalisation des soins conservateurs et restaurateurs, extractions dentaires, acte de petite chirurgie et de parodontie, prothèse adjointe et conjointe",
-    "Gestion et le suivi des soins aux publics cible (RAA/CRC, diabétique, etc...)",
-    "Participation aux actions de dépistage et de prévention propres à la province Nord ou en partenariat avec d'autres organismes",
-    "Entretien, le nettoyage et la désinfection du mobilier et de l'équipement professionnels",
-    "Désinfection des instruments et leur stérilisation en autoclave",
-    "Supervision de l'activité de l'assistant(te) dentaire",
-    "Restitution de bilans d'activité et de tableaux de soins aux publics cible sur demande de la direction",
-    "Enregistrement, la codification (selon la CIM 10) et la cotation des actes sur le logiciel de la province Nord",
-    "Information des patients en matière d'hygiène bucco-dentaire et alimentaire et leur motivation aux gestes d'hygiène",
-    "Intervention sur site lors de certaines manifestations ou journées à thème",
-    "Interventions de prévention ou d'information dans les écoles, collèges, lycées de proximité",
-    "Réalisation des EAE de l'assistant(e) dentaire"
+    "La réalisation des soins conservateurs et restaurateurs, extractions dentaires, acte de petite chirurgie et de parodontie, prothèse adjointe et conjointe etc",
+    "La gestion et le suivi des soins aux publics cible (RAA/CRC, diabétique, etc)",
+    "La participation aux actions de dépistage et de prévention propres à la province Nord ou en partenariat avec d'autres organismes (agence sanitaire et sociale)",
+    "L'entretien, le nettoyage et la désinfection du mobilier et de l'équipement professionnels",
+    "La désinfection des instruments et leur stérilisation en autoclave",
+    "La supervision de l'activité de l'assistant(te) dentaire",
+    "La restitution de bilans d'activité et de tableaux de soins aux publics cible (RAA/CRC, diabétiques, etc) sur demande de la direction",
+    "L'enregistrement, la codification (selon la CIM 10) et la cotation des actes sur le logiciel de la province Nord",
+    "L'information des patients en matière d'hygiène bucco-dentaire et alimentaire et leur motivation aux gestes d'hygiène",
+    "L'intervention sur site lors de certaines manifestations ou journées à thème (journées provinciales du diabète, journées d'informations en lien avec la santé bucco-dentaire, etc)",
+    "D'éventuelles interventions de prévention ou d'information dans les écoles, collèges, lycées de proximité",
+    "La réalisation des EAE de l'assistant(e) dentaire"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
@@ -137,11 +151,11 @@
   "skills": [
     "Maîtriser des logiciels courants de bureautique, radiologie, gestion des patients",
     "Gérer les urgences et les hiérarchiser",
-    "Travailler en réseau avec les équipes des CMS et les autres spécialistes et partenaires",
+    "Travailler en réseau avec les équipes des CMS et les autres spécialistes et partenaires (médicaux, sociaux, associatifs, scolaire, etc)",
     "Rédiger des rapports circonstanciés, des tableaux de bord, des registres",
-    "Organiser son activité en fonction des particularités locales",
+    "Organiser son activité en fonction des particularités locales (éloignement des patients, horaires de passage des navettes, etc)",
     "Rigueur, ponctualité et sens des responsabilités",
-    "Savoir appliquer avec constance et rigueur des règles, des procédures et des protocoles",
+    "Savoir appliquer avec constance et rigueur des règles, des procédures et des protocoles (en matière d'hygiène/stérilisation, d'entretien et de maintenance de l'équipement, etc)",
     "Goût des relations humaines et disponibilité",
     "Sens de l'organisation",
     "Esprit d'initiative, autonomie",
