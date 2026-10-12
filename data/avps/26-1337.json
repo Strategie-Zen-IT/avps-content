@@ -4,7 +4,7 @@
     "direction": "SMTU",
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 4,
-    "superieurHierarchique": "Directeur général ou son adjoint",
+    "superieurHierarchique": "Directeur général ou de son adjoint",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Régie Tanéo",
@@ -16,17 +16,17 @@
       {
         "@type": "PropertyValue",
         "name": "Catégorie",
-        "value": "Catégorie B ou A"
+        "value": "B ou A"
       },
       {
         "@type": "PropertyValue",
-        "name": "Date de clôture initiale",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Date de clôture initialement prévue",
         "value": "25/09/2026"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Statut de la date de clôture",
-        "value": "Reportée"
       },
       {
         "@type": "PropertyValue",
@@ -37,7 +37,7 @@
   },
   "alternateName": null,
   "description": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes sur le territoire du Grand Nouméa.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Le chef de service pilote et gère les missions sur l'ensemble des tâches administratives du SMTU, la communication et les réclamations auprès de la clientèle du réseau Tanéo.",
   "identifier": "26-1337",
   "image": null,
   "mainEntityOfPage": null,
@@ -63,7 +63,7 @@
   "datePosted": "2026-09-04",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": null,
+    "credentialCategory": "Catégorie B ou A",
     "competencyRequired": [
       "Maîtrise du fonctionnement administratif des collectivités",
       "Maîtrise des procédures de contrats et marchés publics",
@@ -77,12 +77,7 @@
   "eligibilityToWorkRequirement": null,
   "employerOverview": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes sur le territoire du Grand Nouméa.",
   "employmentType": "FULL_TIME",
-  "employmentUnit": {
-    "@type": "OrganizationalUnit",
-    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
-    "url": "http://www.taneo.nc",
-    "logo": null
-  },
+  "employmentUnit": null,
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
   "experienceRequirements": null,
@@ -110,7 +105,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Dès que possible",
   "occupationalCategory": [
     "Administration générale",
     "Communication"
@@ -123,7 +118,7 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1601",
-      "name": "Management des ressources humaines"
+      "name": "Assistance en gestion de ressources humaines"
     }
   },
   "responsibilities": [
