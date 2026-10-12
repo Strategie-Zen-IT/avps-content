@@ -5,22 +5,17 @@
     "uniteOrganisationnelle": "Internat provincial de Hienghène",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Directeur d'internat",
-    "placeOrganigramme": "Placée sous l'autorité du directeur d'internat",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Partenaires et organismes socio-éducatifs",
-      "Personnel de l'internat",
-      "Parents d'élèves"
+      "Parents d'élèves",
+      "Personnel de l'internat"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Au moins égale à 5 ans"
-      },
-      {
-        "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Soumis à des horaires atypiques, déplacements réguliers sur et en dehors de la commune d'affectation, congés pris obligatoirement en période de vacances scolaires, obligation de logement à proximité de l'établissement"
+        "value": "Soumis à des horaires atypiques, déplacements réguliers (sur et en dehors de la commune d'affectation), congés pris obligatoirement en période de vacances scolaires, obligation de logement à proximité de l'établissement."
       },
       {
         "@type": "PropertyValue",
@@ -29,9 +24,9 @@
       }
     ]
   },
-  "alternateName": "Educateur spécialisé",
-  "description": "La DEFIJ est chargée d'appliquer les orientations politiques de la province Nord en matière d'enseignement, de formation et d'insertion.",
-  "disambiguatingDescription": "Poste d'éducateur spécialisé en internat à Hienghène au sein de la DEFIJ de la Province Nord.",
+  "alternateName": null,
+  "description": "La DEFIJ est chargée d'appliquer les orientations politiques de la province Nord en matière d'enseignement, de formation et d'insertion. Placée sous l'autorité du directeur d'internat la personne retenue sera notamment chargée dans une démarche éthique et déontologique, de créer les conditions nécessaires pour que les personnes, familles et groupes qui rencontrent des difficultés aient les moyens d'être acteurs de leur développement et puissent renforcer leurs liens sociaux et les solidarités dans les lieux de vie en général.",
+  "disambiguatingDescription": "Educateur spécialisé en internat à Hienghène avec horaires atypiques et obligation de logement à proximité.",
   "identifier": "26-1420",
   "image": null,
   "mainEntityOfPage": null,
@@ -48,12 +43,12 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
+    "@type": "Area",
     "name": "Province Nord",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "41 avenue Jimmy Welepane",
-      "addressLocality": "Koné",
+      "streetAddress": null,
+      "addressLocality": "Hienghène",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
       "province": "province Nord"
@@ -90,15 +85,15 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Non spécifié",
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Action sociale",
+  "industry": "Service public",
   "jobBenefits": "Obligation de logement à proximité de l'établissement",
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -118,7 +113,8 @@
   "jobLocationType": null,
   "jobStartDate": "Dès que possible",
   "occupationalCategory": [
-    "Action sociale"
+    "Action sociale",
+    "Education"
   ],
   "physicalRequirement": null,
   "qualifications": "Diplôme d'Etat d'Educateur Spécialisé obligatoire, Permis de conduire B",
@@ -132,29 +128,28 @@
     }
   },
   "responsibilities": [
-    "Créer les conditions nécessaires pour que les personnes, familles et groupes qui rencontrent des difficultés soient acteurs de leur développement",
-    "Suivi individualisé des élèves internes à besoins particuliers : diagnostic, suivi, rédaction et évaluation du projet d'accompagnement personnalisé",
-    "Participation à l'amélioration des conditions d'accueil et d'éducation des élèves",
-    "Accompagnement du personnel de l'internat dans le cadre de projets éducatifs et de développement des compétences",
-    "Pilotage et animation de projets et d'actions de prévention",
-    "Animation du réseau partenarial au bénéfice des internes, en particulier la relation aux parents d'élèves",
-    "Préparation et suivi des commissions éducatives et des réunions hebdomadaires de veille éducative",
-    "Participation aux actions provinciales",
-    "Accueil et accompagnement dans le cadre de l'aide à la personne ou dans le cadre de projets collectifs ou individuels",
-    "Réalisation d'enquêtes sociales",
-    "Organisation d'activités éducatives, culturelles, ludiques afin de mobiliser les ressources de la personne",
-    "Élaboration et mise en place de projet concernant la personne et/ou le groupe",
-    "Médiation des relations",
-    "Réalisation du suivi socio-éducatif et d'écrit professionnel",
-    "Développement et animation de partenariats et réseaux",
-    "Veille sociale et juridique",
-    "Intervenir ponctuellement sur sollicitation de la DEFIJ au sein d'autres internats"
+    "Le suivi individualisé des élèves internes à besoins particuliers : diagnostic et suivi en collaboration avec les partenaires et organismes socio-éducatifs, la rédaction, le suivi et l'évaluation du projet d'accompagnement personnalisé",
+    "La participation à l'amélioration des conditions d'accueil et d'éducation des élèves",
+    "L'accompagnement du personnel de l'internat dans le cadre de projets éducatifs et de développement des compétences",
+    "Le pilotage et l'animation de projets et d'actions de prévention",
+    "L'animation du réseau partenarial au bénéfice des internes, en particulier la relation aux parents d'élèves",
+    "La préparation et le suivi des commissions éducatives, des réunions hebdomadaires de veille éducative",
+    "La participation aux actions provinciales",
+    "L'accueil et l'accompagnement dans le cadre de l'aide à la personne (enfants, adultes, personnes handicapées, etc.) ou dans le cadre de projets collectifs (groupes, familles, communautés, etc.) ou/et individuels",
+    "La réalisation d'enquêtes sociales",
+    "L'organisation d'activités éducatives, culturelles, ludiques afin de mobiliser les ressources de la personne",
+    "L'élaboration et mise en place de projet concernant la personne et/ou le groupe",
+    "La médiation des relations",
+    "La Réalisation du suivi socio-éducatif et d'écrit professionnel",
+    "Le développement et animation de partenariats et réseaux",
+    "La Veille sociale et juridique",
+    "Intervenir ponctuellement sur sollicitation de la DEFIJ au sein d'autres internats dans le cadre d'actions transversales"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Bonne connaissance du fonctionnement des internats et des orientations de la collectivité",
+    "Bonne connaissance du fonctionnement des internats et des orientations de la collectivité en faveur de la prise en charge des internes",
     "Bonne connaissance en techniques d'entretien d'aide à la personne et écoute active",
     "Capacité en méthodologie de projets",
     "Bonne connaissance du cadre réglementaire de l'action socio-éducative et de l'animation",
