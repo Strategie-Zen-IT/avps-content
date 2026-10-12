@@ -26,7 +26,7 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Conditions de travail",
+        "name": "Caractéristiques particulières de l'emploi",
         "value": "Poste à temps plein à horaires d'internat (soirées, week-ends et jours fériés). Pourra être amené, pour raisons de service, à travailler de nuit en cas d'absence de ses collègues."
       },
       {
@@ -37,7 +37,7 @@
     ]
   },
   "alternateName": null,
-  "description": "La maison de l'enfance de Bourail accueille des jeunes de 6 à 16 ans bénéficiant d'une mesure d'assistance éducative. Cette structure, qui dépend du service de la protection de l'enfance (SPE), a pour objectif d'accompagner des enfants et des jeunes avec des parcours de vie difficiles faits de ruptures familiales et sociales. Ils présentent des problématiques telles que la fragilité psychologique, le trouble du comportement, la déscolarisation, etc., qui vont nécessiter une prise en charge pluridisciplinaire de qualité. Le but est de permettre à ces jeunes de se poser dans un milieu sécurisé, de travailler autour de leur estime de soi, de leur accès à l'autonomie et de leur projet scolaire tout en travaillant sur le lien avec leur famille afin d'envisager un retour à domicile lorsque cela est possible.",
+  "description": "La maison de l'enfance de Bourail accueille des jeunes de 6 à 16 ans bénéficiant d'une mesure d'assistance éducative. Cette structure, qui dépend du service de la protection de l'enfance (SPE), a pour objectif d'accompagner des enfants et des jeunes avec des parcours de vie difficiles faits de ruptures familiales et sociales. Ils présentent des problématiques telles que la fragilité psychologique, le trouble du comportement, la déscolarisation, etc., qui vont nécessiter une prise en charge pluridisciplinaire de qualité.",
   "disambiguatingDescription": "Travailleur Social au sein de la maison de l'enfance de Bourail sous la responsabilité du directeur de la structure.",
   "identifier": "26-0648",
   "image": null,
@@ -55,7 +55,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "LandmarksOrHistoricalBuildings",
+    "@type": "Place",
     "name": "Maison de l'enfance de Bourail",
     "address": {
       "@type": "PostalAddress",
@@ -82,7 +82,7 @@
       "Connaissances des diversités culturelles en Nouvelle-Calédonie (histoire, toponymie, etc.)"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
   "employerOverview": "Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
@@ -130,7 +130,7 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1302",
-      "name": "Intervention socioéducative"
+      "name": "Intervention socio-éducative"
     }
   },
   "responsibilities": [
