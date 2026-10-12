@@ -5,11 +5,10 @@
     "uniteOrganisationnelle": "Service de la protection sociale",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef du service de la protection sociale",
-    "placeOrganigramme": "Placé(e) sous l'autorité directe du chef du service de la protection sociale",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Agence Sanitaire et Sociale (ASS)",
-      "Organismes de protection sociale",
-      "CAFAT",
+      "Organismes de protection sociale (notamment la CAFAT)",
       "Établissements de santé",
       "Établissements médico-sociaux",
       "Conseil du Handicap et de la Dépendance (CHD)",
@@ -111,7 +110,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience professionnelle dans le secteur de la protection sociale et/ou de la gestion hospitalière/sanitaire/médico-sociale",
+  "experienceRequirements": "Expérience professionnelle dans le secteur de la protection sociale et/ou de la gestion hospitalière/sanitaire/médico-sociale.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
@@ -123,7 +122,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "DASS",
+    "name": "Service de la protection sociale",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
