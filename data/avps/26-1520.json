@@ -1,15 +1,14 @@
 {
   "additionalType": {
     "corpsDomaine": "Adjoint administratif",
-    "direction": "",
-    "uniteOrganisationnelle": "Cellule Communication",
+    "direction": "CELLULE COMMUNICATION",
+    "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Responsable de la cellule communication",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Autres directions",
+      "Autres directions de la ville de Nouméa",
       "Prestataires",
-      "Presse",
       "Journalistes"
     ],
     "informationsLibres": [
@@ -17,11 +16,6 @@
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
         "value": "Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs : au moins égale à 10 ans"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Poste à pourvoir",
-        "value": "novembre 2026"
       },
       {
         "@type": "PropertyValue",
@@ -71,17 +65,8 @@
     "credentialCategory": null,
     "competencyRequired": [
       "Bonnes connaissances en comptabilité publique et communication",
-      "Maîtriser les procédures comptables",
       "Connaissance de l’organisation et des procédures administratives de la collectivité",
-      "Appliquer des procédures",
-      "Maîtriser les outils bureautiques et informatiques (Google Workspace, Astre, Post-Office, etc.)",
-      "Maîtriser les techniques de secrétariat",
-      "Rédiger et mettre en forme tous types de documents",
-      "Organiser et classer des documents ou informations divers",
-      "Maîtriser les techniques de communication interne et externe",
-      "Une connaissance des bases de la communication institutionnelle et des relations presse serait souhaitée",
-      "Accueillir du public",
-      "Analyser les demandes et leur apporter la réponse appropriée"
+      "Une connaissance des bases de la communication institutionnelle et des relations presse serait souhaitée"
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs : au moins égale à 10 ans",
@@ -154,6 +139,15 @@
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
+    "Maîtriser les procédures comptables",
+    "Appliquer des procédures",
+    "Maîtriser les outils bureautiques et informatiques (Google Workspace, Astre, Post-Office, etc.)",
+    "Maîtriser les techniques de secrétariat",
+    "Rédiger et mettre en forme tous types de documents",
+    "Organiser et classer des documents ou informations divers",
+    "Maîtriser les techniques de communication interne et externe",
+    "Accueillir du public",
+    "Analyser les demandes et leur apporter la réponse appropriée",
     "Avoir de bonnes capacités rédactionnelles et relationnelles",
     "Esprit d’équipe",
     "Rigueur et sens de l’organisation",
@@ -169,8 +163,8 @@
   "champs_open_data": 9,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
   "collectivite": "Mairie de Nouméa",
-  "direction": "",
-  "direction_source": "absente",
+  "direction": "CELLULE COMMUNICATION",
+  "direction_source": "document",
   "employeur_source": "document",
   "famille_respnc": "Administration générale",
   "famille_source": "respnc",
