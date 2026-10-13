@@ -8,9 +8,14 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Secrétariat général",
-      "Services municipaux"
+      "Services de la commune"
     ],
     "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Immédiatement"
+      },
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
@@ -25,7 +30,7 @@
   },
   "alternateName": null,
   "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune. Le secrétariat général assure l’interface privilégiée entre l’exécutif et l’administration municipale. En charge du pilotage administratif de la commune, il est le garant du contrôle de la bonne exécution des décisions de l’exécutif par les services.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Le secrétariat général comprend 9 agents placés sous l’autorité du secrétaire général dont une section administrative et comptable.",
   "identifier": "26-1354",
   "image": null,
   "mainEntityOfPage": null,
@@ -57,11 +62,11 @@
       "Maîtrise des techniques de communication écrites et orales",
       "Maîtrise des outils bureautiques et informatiques",
       "Connaissance des règles budgétaires et comptables de la comptabilité publique",
-      "Réglementation des marchés publics"
+      "Connaissance de la réglementation des marchés publics"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
+  "employerOverview": null,
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -95,7 +100,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiatement",
+  "jobStartDate": null,
   "occupationalCategory": [
     "Administration générale",
     "Finances et budget"
@@ -108,7 +113,7 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "M1203",
-      "name": "Direction administrative et financière"
+      "name": "Assistanat technique et administratif"
     }
   },
   "responsibilities": [
