@@ -8,16 +8,11 @@
     "placeOrganigramme": "Interface entre le niveau stratégique (direction) et opérationnel (établissements de santé)",
     "relationsFonctionnelles": [
       "Professionnels de santé de ville du territoire",
-      "Acteurs et partenaires en termes de E santé",
       "DIM des établissements",
-      "Observatoire de la santé"
+      "Observatoire de la santé",
+      "Professionnels médicaux de la direction"
     ],
     "informationsLibres": [
-      {
-        "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale. Polyvalence des missions nécessitant une expertise médicale transversale. Rôle de conseil et d'expertise auprès des professionnels de santé. Contribution à la modernisation du système d'information de santé."
-      },
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
@@ -27,6 +22,11 @@
         "@type": "PropertyValue",
         "name": "Poste à pourvoir",
         "value": "vacant à partir du 01/04/2025"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale. Polyvalence des missions nécessitant une expertise médicale transversale. Rôle de conseil et d'expertise auprès des professionnels de santé. Contribution à la modernisation du système d'information de santé."
       },
       {
         "@type": "PropertyValue",
@@ -62,7 +62,7 @@
   },
   "alternateName": "Conseiller technique médical performance",
   "description": "Le conseiller technique est le référent médical pour le secteur performance de la direction. Dans un contexte de modernisation du système de santé calédonien et de déploiement de l'analyse de l'activité au niveau territorial, il joue un rôle pivot dans l'amélioration de la performance médicale et le déploiement des outils d'information médicale. A ce titre, il a pour missions de:\n- Piloter et copiloter des plans d'actions visant à la progression de dossiers prioritaires de la Nouvelle-Calédonie ou certains indicateurs des CPOM pour lesquels la valeur ajoutée médicale est nécessaire ;\n- Etre l'interlocuteur privilégié des professionnels de santé de ville du territoire, des acteurs et des partenaires en termes de E santé ;\n- Participer aux travaux de mise en place de l'Observatoire de la santé, et du déploiement de la feuille de route E santé en Nouvelle-Calédonie.",
-  "disambiguatingDescription": "Le conseiller technique est le référent médical pour le secteur performance de la direction. Dans un contexte de modernisation du système de santé calédonien et de déploiement de l'analyse de l'activité au niveau territorial, il joue un rôle pivot dans l'amélioration de la performance médicale et le déploiement des outils d'information médicale.",
+  "disambiguatingDescription": "Médecin conseiller technique médical performance au sein de la DASS de la Nouvelle-Calédonie.",
   "identifier": "26-63594/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -78,8 +78,8 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "AreaServed",
-    "name": "Nouméa",
+    "@type": "Place",
+    "name": "DASS",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -128,12 +128,12 @@
   },
   "incentiveCompensation": null,
   "industry": "Santé publique",
-  "jobBenefits": null,
+  "jobBenefits": "Participation aux astreintes médicales selon les modalités prévues en interne de la direction.",
   "jobDuration": null,
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Direction des affaires sanitaires et sociales (DASS)",
+    "name": "DASS",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
