@@ -4,13 +4,14 @@
     "direction": "DES SERVICES D'INCENDIE ET DE SECOURS",
     "uniteOrganisationnelle": "des centre de secours",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Directeur des services d'incendie et de secours",
+    "superieurHierarchique": "Directeur",
     "placeOrganigramme": "Sous l’autorité hiérarchique du directeur",
     "relationsFonctionnelles": [
       "Secrétaire général en charge du pôle sécurité",
+      "Directeur des services d'incendie et de secours",
       "Centre de secours Lucien PARENT",
       "Centre de secours Normandie",
-      "Centre de traitement de l’alerte",
+      "Centre de traitement de l'alerte",
       "Centre de surveillance et de sauvetage nautique"
     ],
     "informationsLibres": [
@@ -21,13 +22,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Sans objet"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Poste à pourvoir",
-        "value": "Susceptible d'être vacant"
+        "name": "Diplômes souhaités",
+        "value": "FDF3 ou FDF4"
       },
       {
         "@type": "PropertyValue",
@@ -38,7 +34,7 @@
   },
   "alternateName": null,
   "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune. Placée sous l’autorité directe du secrétaire général en charge du pôle sécurité, la direction des services d’incendie et de secours est composée de plusieurs unités opérationnelles qui permettent la gestion des alertes (appel 18), le traitement des opérations, le secours aux personnes, la surveillance des plages ainsi que la protection des biens et de l’environnement. Son fonctionnement est organisé 24 heures sur 24 et 7 jours sur 7, au service de la population de la ville de Nouméa.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Le service des centres de secours est composé de quatre centres opérationnels : le centre de secours Lucien PARENT, le centre de secours Normandie, le centre de traitement de l'alerte, le centre de surveillance et de sauvetage nautique.",
   "identifier": "26-1298",
   "image": null,
   "mainEntityOfPage": null,
@@ -93,7 +89,7 @@
     "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
-  "industry": "Sécurité civile",
+  "industry": "Service public",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": false,
@@ -102,7 +98,7 @@
     "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "16, rue du général Mangin",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -116,14 +112,14 @@
     "Incendie et secours"
   ],
   "physicalRequirement": null,
-  "qualifications": "Diplômes exigés : chef de colonne. Diplômes souhaités : FDF3 ou FDF4.",
+  "qualifications": "Diplômes exigés : chef de colonne",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Chef du service des centres de secours",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K2501",
-      "name": "Direction de la sécurité civile et des secours"
+      "name": "Sécurité civile et secours"
     }
   },
   "responsibilities": [
@@ -143,14 +139,22 @@
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
+    "Assister",
+    "Conseiller",
     "Piloter",
     "Coordonner",
     "Organiser",
-    "Manager",
+    "Mettre en œuvre",
+    "Décliner",
     "Évaluer",
     "Optimiser",
+    "Superviser",
     "Mobiliser",
-    "Conseiller"
+    "Partager",
+    "Traduire",
+    "Rédiger",
+    "Manager",
+    "Gérer"
   ],
   "specialCommitments": "Astreintes de niveau chef de colonne et astreintes de cadre de permanence de la ville de Nouméa",
   "title": "Chef du service des centres de secours",
