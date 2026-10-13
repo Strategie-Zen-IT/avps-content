@@ -8,19 +8,13 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Trésorerie Sud",
-      "Bureau de la Préparation Budgétaire et du Patrimoine",
       "Bureau des Opérations Contractualisées"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": null
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Date de clôture initialement prévue",
-        "value": "09/10/2026"
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Non précisé"
       },
       {
         "@type": "PropertyValue",
@@ -29,9 +23,9 @@
       }
     ]
   },
-  "alternateName": null,
-  "description": "Rattachée au pôle fonctionnel, la direction des finances de la province Sud (DFI) concourt à la préparation du budget de la province et au suivi de son exécution, dans le respect du cadre réglementaire et des autorisations données par l'assemblée. Elle assure la gestion de la dette et de la trésorerie, le contrôle des engagements, l'ordonnancement des dépenses, la prescription des recettes, le compte administratif et ses annexes en lien avec le compte de gestion de la trésorerie Sud. La direction, composée d'une vingtaine de personnes, est structurée en deux services, le service des affaires budgétaires et le service de l'exécution budgétaire. Le poste est à pourvoir au sein du service des affaires budgétaires, composé du bureau de la Préparation Budgétaire et du Patrimoine (BPP) et du bureau des Opérations Contractualisées (BOC).",
-  "disambiguatingDescription": "Adjoint au chef du service des affaires budgétaires et responsable du bureau de la préparation budgétaire et du patrimoine",
+  "alternateName": "Adjoint au chef du service des affaires budgétaires et responsable du bureau de la préparation budgétaire et du patrimoine",
+  "description": "Rattachée au pôle fonctionnel, la direction des finances de la province Sud (DFI) concourt à la préparation du budget de la province et au suivi de son exécution, dans le respect du cadre réglementaire et des autorisations données par l'assemblée. Elle assure la gestion de la dette et de la trésorerie, le contrôle des engagements, l'ordonnancement des dépenses, la prescription des recettes, le compte administratif et ses annexes en lien avec le compte de gestion de la trésorerie Sud.",
+  "disambiguatingDescription": "Poste d'adjoint au chef de service et responsable de bureau au sein de la direction des finances de la Province Sud.",
   "identifier": "26-1398",
   "image": null,
   "mainEntityOfPage": null,
@@ -39,7 +33,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "www.province-sud.nc"
+    "url": "https://www.province-sud.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -66,7 +60,7 @@
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La direction des finances de la province Sud, composée d'une vingtaine de personnes, est structurée en deux services, le service des affaires budgétaires et le service de l'exécution budgétaire. La collectivité ne dispose pas de budget annexe.",
+  "employerOverview": "La direction, composée d'une vingtaine de personnes, est structurée en deux services, le service des affaires budgétaires et le service de l'exécution budgétaire. La collectivité ne dispose pas de budget annexe.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -80,7 +74,7 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "www.province-sud.nc"
+    "url": "https://www.province-sud.nc"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -89,7 +83,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Nouméa",
+    "name": "Direction des Finances",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -121,11 +115,11 @@
     "Encadrer hiérarchiquement et animer le bureau de la préparation budgétaire et du patrimoine",
     "Assurer le montage, le contrôle et le suivi des actes budgétaires de la province Sud",
     "Ajuster le cadre budgétaire sur SURFI et mettre à jour les bases",
-    "Assurer les suivis budgétaires infra-annuels, prospectifs et rétrospectifs",
-    "Assurer le montage de base de données pour des demandes de travaux spécifiques",
+    "Réaliser les suivis budgétaires infra-annuels, prospectifs et rétrospectifs",
+    "Monter des bases de données pour des demandes de travaux spécifiques",
     "Assurer le suivi comptable des immobilisations corporelles et incorporelles via l'outil PATRIMOINE Compta",
     "Assurer le suivi comptable des immobilisations financières",
-    "Assurer le suivi des emprunts garantis et l'analyse des nouvelles demandes de garantie",
+    "Assurer le suivi des emprunts garantis et analyser les nouvelles demandes de garantie",
     "Assurer le suivi des programmes communaux et des autorisations de programme et d'engagement ainsi que les plans pluriannuels d'investissement et de fonctionnement",
     "Consolider et actualiser les bases de suivi financier ainsi que la mise à jour d'états statistiques",
     "Viser les actes à incidence financière",
