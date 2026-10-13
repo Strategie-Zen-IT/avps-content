@@ -26,19 +26,14 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Poste à temps plein à horaires d'internat (soirées, week-ends et jours fériés). Pourra être amené, pour raisons de service, à travailler de nuit en cas d'absence de ses collègues."
-      },
-      {
-        "@type": "PropertyValue",
         "name": "Fiche d'emploi générique RESPNC",
         "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953804.PDF"
       }
     ]
   },
   "alternateName": null,
-  "description": "La maison de l'enfance de Bourail accueille des jeunes de 6 à 16 ans bénéficiant d'une mesure d'assistance éducative. Cette structure, qui dépend du service de la protection de l'enfance (SPE), a pour objectif d'accompagner des enfants et des jeunes avec des parcours de vie difficiles faits de ruptures familiales et sociales. Ils présentent des problématiques telles que la fragilité psychologique, le trouble du comportement, la déscolarisation, etc., qui vont nécessiter une prise en charge pluridisciplinaire de qualité.",
-  "disambiguatingDescription": "Travailleur Social au sein de la maison de l'enfance de Bourail sous la responsabilité du directeur de la structure.",
+  "description": "La maison de l'enfance de Bourail accueille des jeunes de 6 à 16 ans bénéficiant d'une mesure d'assistance éducative. Cette structure, qui dépend du service de la protection de l'enfance, a pour objectif d'accompagner des enfants et des jeunes avec des parcours de vie difficiles faits de ruptures familiales et sociales. Ils présentent des problématiques telles que la fragilité psychologique, le trouble du comportement, la déscolarisation, etc., qui vont nécessiter une prise en charge pluridisciplinaire de qualité.",
+  "disambiguatingDescription": "Poste de travailleur social au sein de la maison de l'enfance de Bourail, rattaché à la Direction Provinciale de l'Action Sanitaire et Sociale de la Province Sud.",
   "identifier": "26-0648",
   "image": null,
   "mainEntityOfPage": null,
@@ -130,7 +125,7 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1302",
-      "name": "Intervention socio-éducative"
+      "name": "Intervention socioéducative"
     }
   },
   "responsibilities": [
@@ -169,11 +164,11 @@
     "Autonomie et créativité",
     "Prise d'initiatives"
   ],
-  "specialCommitments": "Horaires d'internat (soirées, week-ends et jours fériés), travail de nuit possible en cas d'absence de collègues",
+  "specialCommitments": "Poste à temps plein à horaires d'internat (soirées, week-ends et jours fériés). Pourra être amené, pour raisons de service, à travailler de nuit en cas d'absence de ses collègues.",
   "title": "Travailleur Social au sein de la maison de l'enfance de Bourail",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-23",
-  "workHours": "Temps plein à horaires d'internat",
+  "workHours": "Horaires d'internat (soirées, week-ends et jours fériés)",
   "champs_open_data": 7,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
