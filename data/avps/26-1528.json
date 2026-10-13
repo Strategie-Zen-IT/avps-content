@@ -1,0 +1,193 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Animateur socio-éducatif",
+    "direction": "SERVICES ADMINISTRATIFS",
+    "uniteOrganisationnelle": "Service des animations et des actions communales",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Maire et Secrétaire générale adjointe",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Maire",
+      "Secrétaire générale adjointe",
+      "Services municipaux",
+      "Associations",
+      "Établissements scolaires",
+      "Acteurs culturels et sportifs",
+      "Partenaires institutionnels",
+      "Partenaires locaux"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Pour le recrutement sur titre : au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements fréquents, Horaires atypiques et travail possible en week-end, Permis B exigé"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952096.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le chef du service sera chargé de la mise en œuvre et du pilotage de la politique communale en matière de culture, de sport et d'éducation, ainsi que de l'animation et du développement du tissu socio-économique local. À ce titre, il contribue à la définition des orientations communales et en assure la déclinaison opérationnelle dans son champ de compétences.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1528",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef du service des animations et des actions communales",
+  "owner": {
+    "@type": "Organization",
+    "name": "MAIRIE DE VOH"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "MAIRIE DE VOH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Voh",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.84.00",
+    "email": "sga@mairie-voh.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-12",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Licence",
+    "competencyRequired": [
+      "Bonne connaissance du tissu socio-économique, culturel et environnemental de la Commune",
+      "Bonne connaissance des spécificités linguistiques et culturelles de la Commune"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "MAIRIE DE VOH",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience significative en termes d'animation et de développement local",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "MAIRIE DE VOH"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "MAIRIE DE VOH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Voh",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98833"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Animation",
+    "Culture",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B exigé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "1 chef du service des animations et des actions communales",
+    "occupationalCategory": {
+      "@type": "CategoryCode",
+      "codeValue": "K1103",
+      "name": "Promotion du tourisme local"
+    }
+  },
+  "responsibilities": [
+    "Participer à la définition, à la formalisation et à la mise en œuvre des orientations et de la politique communale dans les domaines de la culture, du sport, de l'éducation, du social et de l'animation locale",
+    "Piloter et coordonner les actions communales relevant du service des actions et animations culturelles",
+    "Définir et piloter le projet d'animation du service, en cohérence avec les orientations de la collectivité",
+    "Assurer le pilotage et la mise en œuvre de la politique communale en matière de sport, en lien avec les associations, les établissements, les partenaires institutionnels et les acteurs locaux",
+    "Mettre en œuvre le Projet Éducatif Local (PEL) de la commune et animer le réseau des acteurs œuvrant dans le cadre du projet",
+    "Animer les instances du Projet Éducatif Local communal, notamment le COTECH et le COPIL",
+    "Assurer la gestion et le suivi des subventions attribuées dans le cadre du PEL",
+    "Organiser et coordonner les activités du service et veiller à leur articulation avec les autres services municipaux",
+    "Encadrer et animer l'équipe du service, organiser le travail et accompagner les agents dans l'exercice de leurs missions",
+    "Gérer les moyens humains, matériels et budgétaires mis à disposition du service",
+    "Développer et entretenir les partenariats avec les associations, institutions, établissements scolaires, acteurs culturels et sportifs et autres partenaires locaux",
+    "Veiller à la sécurité des activités et au respect des réglementations applicables",
+    "Évaluer les actions mises en œuvre et produire les bilans nécessaires au suivi et à l'aide à la décision",
+    "Assurer la communication et la valorisation des actions du service, en lien avec les orientations de la collectivité",
+    "Participer à la vie de la collectivité et être présent sur le terrain notamment lors des manifestations, événements et actions portés ou soutenus par la commune",
+    "Participer à la préparation budgétaire du service, assurer le suivi de l'exécution des crédits et proposer les arbitrages nécessaires à la réalisation des projets",
+    "Participer à la communication interne de la structure en collaboration avec le Secrétariat général",
+    "En situation de crise ou d'événement exceptionnel, l'agent peut être amené, à la demande du Maire et/ou du Secrétariat général, à assurer toute mission nécessaire à la continuité et au bon fonctionnement du service public communal, dans la limite de ses compétences"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité à préparer, mener et animer des réunions",
+    "Maîtrise du pilotage et du management de projets",
+    "Capacité à assurer la gestion et le suivi des dossiers de subvention",
+    "Capacité à élaborer et exploiter des tableaux de bord et des indicateurs de suivi",
+    "Bonnes capacités rédactionnelles et de synthèse",
+    "Capacité à préparer, suivre et maîtriser le budget du service",
+    "Capacité à coordonner et mobiliser différents acteurs et partenaires",
+    "Force de proposition auprès de la hiérarchie",
+    "Capacité à travailler en transversalité avec les différents services de la collectivité",
+    "Sens du service public et de l'intérêt général",
+    "Sens des responsabilités",
+    "Qualités relationnelles et capacité d'écoute",
+    "Aptitude à fédérer et à travailler en équipe",
+    "Rigueur, organisation et méthode",
+    "Autonomie et capacité d'adaptation",
+    "Esprit d'initiative et force de proposition",
+    "Diplomatie et discrétion professionnelle",
+    "Réactivité et disponibilité",
+    "Capacité à gérer les situations imprévues ou sensibles",
+    "Grande disponibilité"
+  ],
+  "specialCommitments": "Horaires atypiques et travail possible en week-end",
+  "title": "Chef du service des animations et des actions communales",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-10-30",
+  "workHours": "Horaires atypiques et travail possible en week-end",
+  "champs_open_data": 7,
+  "employeur_sigle": "MAIRIE-DE-VOH",
+  "collectivite": "MAIRIE DE VOH",
+  "direction": "SERVICES ADMINISTRATIFS",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Culture",
+  "famille_source": "respnc",
+  "famille_score": 0.797,
+  "dossier": "culture"
+}
