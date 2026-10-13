@@ -14,6 +14,11 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
         "value": "Déplacements fréquents pour assister aux conseils d'administration des établissements."
       },
@@ -56,7 +61,7 @@
   },
   "alternateName": null,
   "description": "Sous l'autorité du chef de service et de son adjoint(e), le contrôleur financier effectue le contrôle administratif et financier des établissements publics de la Nouvelle-Calédonie et contribue à l'identification des risques financiers inhérents à leur fonctionnement.",
-  "disambiguatingDescription": "Contrôle administratif et financier des établissements publics de la Nouvelle-Calédonie et identification des risques financiers.",
+  "disambiguatingDescription": "Contrôle administratif et financier des établissements publics de la Nouvelle-Calédonie et contribution à l'identification des risques financiers.",
   "identifier": "26-65052/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -72,7 +77,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
+    "@type": "Place",
     "name": "Nouvelle-Calédonie",
     "address": {
       "@type": "PostalAddress",
@@ -112,15 +117,15 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Métier identifié comme pénurique, recrutement sur titre avec Master 2 exigé.",
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Métier identifié comme pénurique, Master 2 exigé pour le recrutement sur titre.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Finances et budget",
-  "jobBenefits": "Informations salaire disponibles sur le site de la DRHFPNC",
+  "industry": "Service public",
+  "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -142,7 +147,7 @@
     "Finances et budget"
   ],
   "physicalRequirement": null,
-  "qualifications": null,
+  "qualifications": "Master 2 exigé pour le recrutement sur titre",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Contrôleur financier",
