@@ -8,8 +8,7 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Chef du Bureau de Proximité de Soins",
-      "Pôle Soins",
-      "DASSPS"
+      "Pôle Soins"
     ],
     "informationsLibres": [
       {
@@ -19,8 +18,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Ce poste est soumis à astreinte de nuit."
+        "name": "Astreinte",
+        "value": "Ce poste est soumis à astreinte de nuit"
       },
       {
         "@type": "PropertyValue",
@@ -48,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
+    "@type": "Place",
     "name": "CMS de HOUAILOU",
     "address": {
       "@type": "PostalAddress",
@@ -62,7 +61,7 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
-    "email": "drh-emplois@province-nord.nc"
+    "email": "m.oudare@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-08-07",
@@ -86,14 +85,14 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience du travail en poste isolé et expérience des urgences exigées.",
+  "experienceRequirements": "Expérience du travail en poste isolé et expérience des urgences requises.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique soins",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -116,22 +115,21 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Être titulaire du permis de conduire B.",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Infirmier",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "J1503",
-      "name": "Infirmier / Infirmière en soins généraux"
+      "name": "Infirmier de soins généraux"
     }
   },
   "responsibilities": [
-    "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
-    "Les actes curatifs (consultations, urgences, soins)",
-    "Les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
-    "Les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
-    "La téléconsultation (en l'absence de médecin en présentiel)",
+    "Assurer les actes curatifs (consultations, urgences, soins)",
+    "Assurer les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
+    "Assurer les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
+    "Assurer la téléconsultation (en l'absence de médecin en présentiel)",
     "Assurer l'encadrement des stagiaires, notamment les étudiants infirmiers"
   ],
   "salaryCurrency": null,
@@ -139,7 +137,8 @@
   "sensoryRequirement": null,
   "skills": [
     "Maîtrise des logiciels de bureautique (Excel et Word)",
-    "Disponibilité et rigueur",
+    "Disponibilité",
+    "Rigueur",
     "Respect de la confidentialité des informations et du secret médical",
     "Sens des responsabilités",
     "Goût des relations humaines",
