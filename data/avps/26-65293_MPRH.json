@@ -7,10 +7,9 @@
     "superieurHierarchique": "Chef du service",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "SANL",
-      "Equipes techniques",
-      "Equipes infrastructure/cybersécurité",
-      "SOC/CERT-NC"
+      "Service assistance numérique et logistique (SANL)",
+      "Equipes techniques et infogérants",
+      "Equipes infrastructure/cybersécurité (SOC/CERT-NC)"
     ],
     "informationsLibres": [
       {
@@ -62,7 +61,7 @@
   },
   "alternateName": null,
   "description": "Placé sous la responsabilité du chef du service, le chef de section centre relation usagers a pour missions de :\n- Animer, encadrer et faire monter en compétence les équipes actuelles d'assistance utilisateurs et de hotline\n- Piloter et faire évoluer le dispositif de gestion des incidents et des demandes de service standards (processus ITIL Incident Management / Request Fulfillment)\n- Élargir le périmètre du N1 au-delà du poste de travail : intégration progressive de la supervision technique (infrastructure, réseau, applicatif) dans le rôle de première ligne.\n- Définir et ajuster les règles de tri et de qualification des alertes de supervision (seuils, priorisation, escalade vers N2/N3)\n- Exprimer les besoins de supervision auprès des équipes techniques et infogérants concernés\n- Contribuer à la démarche qualité ITIL portée par le SANL (indicateurs, SLA, amélioration continue)\n- Produire le reporting d'activité du périmètre (volumétrie, délais de traitement, taux de résolution N1, satisfaction utilisateurs)\n- Assurer la communication des incidents auprès des usagers \n- Assurer une assistance de proximité auprès des V.I.P afin de répondre à leurs besoins spécifiques",
-  "disambiguatingDescription": "La section centre relation usagers est potentiellement appelée à évoluer vers la branche run du futur Centre de Services Élargi (CSE), point d'entrée unique de l'ensemble des demandes numériques du Gouvernement.",
+  "disambiguatingDescription": "Chef de section centre de relation usagers au sein de la DINUM, chargé d'animer les équipes d'assistance et de piloter le dispositif de gestion des incidents.",
   "identifier": "26-65293/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -79,7 +78,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Nouméa",
+    "name": "Nouvelle-Calédonie",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -139,7 +138,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Nouméa",
+    "name": "DINUM",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -156,7 +155,7 @@
     "Système d'information"
   ],
   "physicalRequirement": null,
-  "qualifications": null,
+  "qualifications": "Formation Bac+3 à Bac+5 en informatique / systèmes d'information, ou expérience équivalente.",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Chef de projet maîtrise d'œuvre",
@@ -215,7 +214,7 @@
   "title": "Chef de section centre de relation usagers",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-16",
-  "workHours": null,
+  "workHours": "Horaires de couverture des équipes hotline/assistance",
   "champs_open_data": 30,
   "employeur_sigle": "DINUM",
   "collectivite": "Nouvelle-Calédonie",
