@@ -7,10 +7,10 @@
     "superieurHierarchique": "Directeur général ou de son adjoint",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
+      "Service patrimoine",
       "Régie Tanéo",
       "Service exploitation",
-      "Service systèmes",
-      "Services patrimoine"
+      "Service systèmes"
     ],
     "informationsLibres": [
       {
@@ -21,12 +21,7 @@
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": null
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Date de clôture initialement prévue",
-        "value": "25/09/2026"
+        "value": "Sans objet"
       },
       {
         "@type": "PropertyValue",
@@ -77,7 +72,12 @@
   "eligibilityToWorkRequirement": null,
   "employerOverview": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes sur le territoire du Grand Nouméa.",
   "employmentType": "FULL_TIME",
-  "employmentUnit": null,
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+    "url": "http://www.taneo.nc",
+    "logo": null
+  },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
   "experienceRequirements": null,
@@ -118,7 +118,7 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1601",
-      "name": "Assistance en gestion de ressources humaines"
+      "name": "Direction administrative et financière"
     }
   },
   "responsibilities": [
