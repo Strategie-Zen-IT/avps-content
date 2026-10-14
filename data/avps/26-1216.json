@@ -4,9 +4,10 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": "CMS de BELEP",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Directeur adjoint des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité",
+    "superieurHierarchique": "Directeur(trice) adjoint(e) des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
+      "Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins",
       "CMS limitrophes"
     ],
     "informationsLibres": [
@@ -29,7 +30,7 @@
   },
   "alternateName": null,
   "description": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
-  "disambiguatingDescription": "La personne retenue aura la charge de la continuité de l'offre de soin au sein du centre médico-social.",
+  "disambiguatingDescription": "Continuité de l'offre de soin au sein du centre médico-social de Belep.",
   "identifier": "26-1216",
   "image": null,
   "mainEntityOfPage": null,
@@ -37,16 +38,16 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "http://www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": "www.province-nord.nc",
+  "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
+    "@type": "Schedule",
     "name": "CMS de BELEP",
     "address": {
       "@type": "PostalAddress",
@@ -66,20 +67,20 @@
   "datePosted": "2026-08-14",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'Etat de Docteur en Médecine",
+    "credentialCategory": "Médecin",
     "competencyRequired": [
-      "Maîtrise de la médecine générale et de l'urgence",
+      "Maîtrise de la médecine générale et de l'urgence (CAMU souhaité)",
       "Connaissance en santé publique",
       "Connaissances en gynécologie-obstétrique, pédiatrie, cardiologie, endocrinologie et/ou infectiologie"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
+  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "OrganizationalUnit",
+    "@type": "Organization",
     "name": "PROVINCE NORD",
-    "url": "www.province-nord.nc",
+    "url": "http://www.province-nord.nc",
     "logo": null
   },
   "estimatedSalary": null,
@@ -88,11 +89,11 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "http://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique",
-  "jobBenefits": null,
+  "industry": "Santé",
+  "jobBenefits": "Poste soumis à astreintes",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -114,7 +115,7 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis de conduire B, CAMU souhaité",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Médecin",
@@ -125,31 +126,31 @@
     }
   },
   "responsibilities": [
-    "La médecine curative : consultations, urgences, visites en tribu",
-    "La médecine préventive : santé scolaire, PMI, dépistage tuberculose, médecin du travail et du sport, éducation pour la santé, hygiène publique",
-    "Les activités administratives : gestion des moyens en personnel et matériel, rapports",
-    "La veille sanitaire et sociale",
-    "L'établissement de partenariats extérieurs",
-    "La gestion de la pharmacie de la structure",
-    "La participation aux actions de formation et d'animation de sécurité civile",
-    "Le renfort aux CMS limitrophes essentiellement en cas de nécessité",
-    "Etablir un bilan d'activité annuel"
+    "Assurer la médecine curative : consultations, urgences, visites en tribu",
+    "Assurer la médecine préventive : santé scolaire, PMI, dépistage tuberculose, médecin du travail et du sport, éducation pour la santé, hygiène publique",
+    "Gérer les activités administratives : gestion des moyens en personnel et matériel, rapports",
+    "Assurer la veille sanitaire et sociale",
+    "Établir des partenariats extérieurs",
+    "Gérer la pharmacie de la structure",
+    "Participer aux actions de formation et d'animation de sécurité civile",
+    "Assurer le renfort aux CMS limitrophes essentiellement en cas de nécessité",
+    "Établir un bilan d'activité annuel"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Maîtrise des logiciels de bureautique Excel et Word",
+    "Maîtrise des logiciels de bureautique (Excel et Word)",
     "Goût des relations humaines",
     "Esprit d'initiative",
     "Capacité d'écoute",
     "Goût du travail en équipe"
   ],
-  "specialCommitments": "Poste soumis à astreintes",
+  "specialCommitments": "Astreintes",
   "title": "Médecin à Belep",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-23",
-  "workHours": "Astreintes",
+  "workHours": "Poste soumis à astreintes",
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
