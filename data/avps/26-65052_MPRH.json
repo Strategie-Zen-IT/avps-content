@@ -124,8 +124,8 @@
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Service public",
-  "jobBenefits": null,
+  "industry": "Finances et budget",
+  "jobBenefits": "Informations salaire disponibles sur le site de la DRHFPNC",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -133,7 +133,7 @@
     "name": "Service des collectivités locales et des établissements publics",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "18 avenue Paul Doumer",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -147,7 +147,7 @@
     "Finances et budget"
   ],
   "physicalRequirement": null,
-  "qualifications": "Master 2 exigé pour le recrutement sur titre",
+  "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Contrôleur financier",
@@ -189,7 +189,7 @@
   "specialCommitments": "- Déplacements fréquents pour assister aux conseils d'administration des établissements.",
   "title": "Contrôleur financier des établissements publics",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-16",
+  "validThrough": "2026-10-30",
   "workHours": null,
   "champs_open_data": 30,
   "employeur_sigle": "DBAF",
