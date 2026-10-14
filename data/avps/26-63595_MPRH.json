@@ -8,7 +8,7 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "IDE du service de santé publique",
-      "Médecins de la direction",
+      "Autres médecins de la direction",
       "Chargé de communication de la direction"
     ],
     "informationsLibres": [
@@ -61,7 +61,7 @@
   },
   "alternateName": null,
   "description": "Le médecin de santé publique, en qualité de conseiller technique, intervient en expertise sur l'ensemble des thématiques  du service de santé publique. A ce titre, il a pour missions:\nau titre de la prévention et de la promotion de la santé : définition et participation à la rédaction des plans de santé; de cahiers des charges d'AAP, d'avis dans le cadre de l'instruction de projets, d'animation ou de co-animation des conférences de santé\ndans le champs propre des conseillers médicaux : participation aux processus de gestion formalisés et validés en matière de réglementation, d'EIG, d'EIAS, d'EIGS, inspections, contrôles,  gestion de crise, astreintes",
-  "disambiguatingDescription": "Conseiller médical Prévention, Promotion de la santé au sein de la Direction des affaires sanitaires et sociales de la Nouvelle-Calédonie.",
+  "disambiguatingDescription": "Conseiller médical Prévention, Promotion de la santé au sein du Service de la santé publique de la DASS.",
   "identifier": "26-63595/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -78,7 +78,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Nouméa",
+    "name": "DASS",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -112,14 +112,14 @@
   "employerOverview": "La direction des affaires sanitaires et sociales de la Nouvelle-Calédonie est une des directions techniques du gouvernement de la Nouvelle-Calédonie.\nElle est responsable de la mise en œuvre de la politique de la Nouvelle-Calédonie en matière de santé publique et de protection sociale. \nElle comprend un service administration et support qui intervient en support de manière transversale et quatre services métiers.\nLes principaux enjeux de la politique de santé reposent sur le concept Une seule santé et sont liés aux déterminants de santé, à la santé relationnelle, à la prévention et aux parcours.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "OrganizationalUnit",
+    "@type": "Organization",
     "name": "Service de la santé publique",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience de travail en outre-mer appréciée.",
+  "experienceRequirements": "Expérience de travail en outre-mer appréciée",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
