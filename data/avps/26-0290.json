@@ -29,8 +29,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des UPASS, des centres médico-sociaux et des autres sites excentrés. Au sein du pôle santé et territoires de la DPASS, notamment au sein de l'unité provinciale d'actions sanitaire et sociale de La Foa (UPASS), le médecin généraliste retenu travaillera au sein d'une équipe pluridisciplinaire (médecin, infirmières, assistantes sociales, diététicienne, orthophoniste, spécialistes vacataires, etc.), attachée à la synergie médico-sociale et aux démarches continues d'amélioration de la qualité et de l'évaluation des pratiques professionnelles. Une attention particulière est portée à la prévention, à la promotion de la santé ainsi qu'aux différentes priorités de santé publique (protection maternelle et infantile (PMI), contraception, etc.).",
-  "disambiguatingDescription": null,
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des UPASS, des centres médico-sociaux et des autres sites excentrés. Au sein du pôle santé et territoires de la DPASS, notamment au sein de l'unité provinciale d'actions sanitaire et sociale de La Foa (UPASS), le médecin généraliste retenu travaillera au sein d'une équipe pluridisciplinaire attachée à la synergie médico-sociale et aux démarches continues d'amélioration de la qualité et de l'évaluation des pratiques professionnelles.",
+  "disambiguatingDescription": "Poste de médecin généraliste au sein de l'UPASS de La Foa avec interventions ponctuelles à l'UPASS de Bourail.",
   "identifier": "26-0290",
   "image": null,
   "mainEntityOfPage": null,
@@ -38,7 +38,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc"
+    "url": "http://www.province-sud.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -46,7 +46,18 @@
   "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "UPASS de La Foa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "La Foa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "20.44.71",
@@ -69,7 +80,7 @@
   "employmentUnit": {
     "@type": "OrganizationalUnit",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc",
+    "url": "http://www.province-sud.nc",
     "logo": null
   },
   "estimatedSalary": null,
@@ -78,10 +89,10 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc"
+    "url": "http://www.province-sud.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": false,
@@ -116,7 +127,7 @@
     }
   },
   "responsibilities": [
-    "Assurer la médecine curative et préventive au sein du CMS de La Foa",
+    "Assurer la médecine curative et préventive",
     "Assurer la prise en charge des urgences notamment lors des périodes d'astreintes",
     "Travailler en équipe avec les acteurs du secteur social et éducatif de la zone",
     "Participer aux actions de santé publique provinciales et de la Nouvelle-Calédonie (éducation sanitaire, programmes de vaccinations, promotion de la santé, etc.) et travailler en partenariat pour mettre en œuvre les projets",
@@ -143,11 +154,11 @@
     "Capacité d'adaptation",
     "Force de propositions"
   ],
-  "specialCommitments": "Astreintes, horaires de semaine, de nuit et de week-end pour permettre la continuité des soins. Interventions ponctuelles à l'UPASS de Bourail.",
+  "specialCommitments": "Astreintes, horaires de semaine, de nuit et de week-end, interventions ponctuelles à l'UPASS de Bourail",
   "title": "Médecin à l'UPASS de La Foa",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-30",
-  "workHours": "Horaires de semaine, de nuit et de week-end",
+  "workHours": "Horaires de semaine, de nuit et de week-end pour permettre la continuité des soins",
   "champs_open_data": 7,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
