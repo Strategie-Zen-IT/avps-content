@@ -9,7 +9,7 @@
     "relationsFonctionnelles": [
       "Usagers",
       "Fournisseurs",
-      "Services de la direction"
+      "Services"
     ],
     "informationsLibres": [
       {
@@ -31,7 +31,7 @@
   },
   "alternateName": null,
   "description": "La DAJAP est une direction fonctionnelle qui intervient dans les domaines suivants : activité juridique, coordination administrative, activité institutionnelle, gestion des moyens, gestion du domaine, gestion du patrimoine et gestion des archives. Elle compte 38 postes répartis notamment dans 4 services et 4 bureaux. Dans un contexte budgétaire contraint et face aux enjeux des services de la DAJAP, le BAF est un véritable appui au management stratégique. Il contribue à la fiabilité de la gestion budgétaire, à l'optimisation des ressources et à la mise en œuvre des procédures internes, dans un esprit de transversalité et de pédagogie auprès des services.",
-  "disambiguatingDescription": "Le comptable assure le traitement comptable et le contrôle de l'exécution des dépenses et des recettes de la direction. Il assure la relation avec les usagers, les fournisseurs et les services.",
+  "disambiguatingDescription": "Poste de comptable au sein de la Direction des affaires juridiques, administratives et du patrimoine de la Province Nord, basé à Koné.",
   "identifier": "26-1462",
   "image": null,
   "mainEntityOfPage": null,
@@ -61,12 +61,12 @@
     "competencyRequired": [
       "Comptabilité publique",
       "Réglementation des marchés publics",
-      "Outils bureautiques (notamment tableurs et bases de données)",
+      "Outils bureautiques notamment tableurs et bases de données",
       "Notions de droit civil, administratif et public"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": null,
+  "employerOverview": "La DAJAP est une direction fonctionnelle qui intervient dans les domaines suivants : activité juridique, coordination administrative, activité institutionnelle, gestion des moyens, gestion du domaine, gestion du patrimoine et gestion des archives. Elle compte 38 postes répartis notamment dans 4 services et 4 bureaux.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -117,6 +117,8 @@
     }
   },
   "responsibilities": [
+    "Assurer le traitement comptable et le contrôle de l'exécution des dépenses et des recettes de la direction",
+    "Assurer la relation avec les usagers, les fournisseurs et les services",
     "Réception, vérification et classement des pièces comptables",
     "Gestion des engagements, des mandatements et des titres de recettes",
     "Gestion des relations avec les tiers et mise à jour des bases de données",
@@ -124,7 +126,7 @@
     "Gestion des facturiers",
     "Gestion des relations avec les fournisseurs et les agents des services"
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
