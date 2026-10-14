@@ -15,12 +15,12 @@
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": null
+        "value": "Sans objet"
       },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Horaires irréguliers avec amplitude variable en fonction des obligations de service public, Respect strict de la confidentialité des informations traitées."
+        "value": "Horaires irréguliers avec amplitude variable en fonction des obligations de service public, Respect strict de la confidentialité des informations traitées"
       },
       {
         "@type": "PropertyValue",
@@ -31,7 +31,7 @@
   },
   "alternateName": null,
   "description": "En charge de seconder le secrétaire général dans ses missions, il concourt à la définition et à la mise en œuvre des orientations stratégiques de la collectivité, arrêtées par l’exécutif. Plus spécifiquement en charge des finances de la Ville et de la modernisation de l'administration, il assure le pilotage et le management des directions dans un contexte d’amélioration continue des performances de l’administration et d’évolution régulière de ces missions. Il supplée le secrétaire général en cas d’absence.",
-  "disambiguatingDescription": "Secrétaire général adjoint de la Ville du Mont-Dore, en charge notamment des finances et de la modernisation de l'administration.",
+  "disambiguatingDescription": "Secrétaire général adjoint en charge des finances et de la modernisation de l'administration pour la Ville du Mont-Dore.",
   "identifier": "26-1513",
   "image": null,
   "mainEntityOfPage": null,
@@ -56,8 +56,9 @@
   "datePosted": "2026-10-09",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Bac+3 ou plus (Niveau 6)",
+    "credentialCategory": "Bac+3 ou équivalent (Diplôme de niveau 6 minimum)",
     "competencyRequired": [
+      "Diplôme de niveau 6 minimum souhaité dans le domaine administratif ou technique",
       "Connaissances des instances, processus et circuit de décision de la collectivité",
       "Connaissances approfondies de la comptabilité publique, du code des marchés publics, des statuts de la fonction publique et du droit administratif",
       "Environnement territorial (connaissance de la situation géographique, économique, sociale et culturelle de la commune)",
@@ -70,7 +71,7 @@
   "employmentUnit": null,
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience significative au sein d’une collectivité publique et dans un poste similaire",
+  "experienceRequirements": "Expérience significative au sein d’une collectivité publique et dans un poste similaire.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Ville du Mont-Dore"
@@ -108,7 +109,7 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K1601",
-      "name": "Conception et pilotage de la politique des pouvoirs publics"
+      "name": "Mise en œuvre et pilotage des politiques publiques"
     }
   },
   "responsibilities": [
@@ -119,7 +120,7 @@
     "Superviser ou procéder aux analyses de dossiers spécifiques",
     "Assister et conseiller les élus",
     "Assurer la suppléance du Secrétaire Général en cas d’absence",
-    "Piloter la stratégie et l’analyse financière, au-delà de l’exécution budgétaire",
+    "Piloter la stratégie et l’analyse financières, au-delà de l’exécution budgétaire",
     "Moderniser l'administration"
   ],
   "salaryCurrency": null,
@@ -139,7 +140,7 @@
     "Savoir gérer la pression et le stress",
     "Grande autonomie, flexibilité, disponibilité et discrétion"
   ],
-  "specialCommitments": "Astreintes et horaires irréguliers avec amplitude variable",
+  "specialCommitments": "Astreintes et horaires irréguliers liés aux obligations de service public",
   "title": "Secrétaire Général Adjoint",
   "totalJobOpenings": 4,
   "validThrough": "2026-10-30",
