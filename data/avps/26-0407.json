@@ -4,9 +4,10 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Directeur",
-    "placeOrganigramme": null,
+    "superieurHierarchique": "Directeur de la direction des finances budgétaires",
+    "placeOrganigramme": "Placée sous l'autorité du directeur",
     "relationsFonctionnelles": [
+      "Direction des finances et du budget",
       "SAEML",
       "SPL"
     ],
@@ -18,14 +19,19 @@
       },
       {
         "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
         "name": "Fiche d'emploi générique RESPNC",
         "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953462.PDF"
       }
     ]
   },
   "alternateName": null,
-  "description": "La direction des finances et du budget de la province Nord est chargée de la gestion comptable budgétaire et financière. Elle prépare le budget de la province et assure le contrôle de son exécution tant en dépenses qu'en recettes. Elle remplit une mission de conseil et d'aide à la décision au travers des analyses rétrospectives et prospectives qu'elle produit et propose une stratégie soutenable des finances de la collectivité. La direction des finances et du budget présente une ossature composée de 3 pôles : Celui de support, enjeux stratégiques et budget.",
-  "disambiguatingDescription": "Chargé d'études Hors bilan au sein de la Direction des finances et du budget de la Province Nord.",
+  "description": "La direction des finances et du budget de la province Nord est chargée de la gestion comptable budgétaire et financière. Elle prépare le budget de la province et assure le contrôle de son exécution tant en dépenses qu'en recettes. Elle remplit une mission de conseil et d'aide à la décision au travers des analyses rétrospectives et prospectives qu'elle produit et propose une stratégie soutenable des finances de la collectivité. La direction des finances et du budget présente une ossature composée de 3 pôles : Celui de \"support\", \"enjeux stratégiques\" et \"budget\".",
+  "disambiguatingDescription": "Placée sous l'autorité du directeur, la personne retenue aura en charge le suivi des engagements hors bilan de la province ainsi que la production d'analyses financières.",
   "identifier": "26-0407",
   "image": null,
   "mainEntityOfPage": null,
@@ -42,7 +48,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
+    "@type": "Place",
     "name": "Hôtel de la province Nord",
     "address": {
       "@type": "PostalAddress",
@@ -64,6 +70,8 @@
   "educationRequirements": {
     "credentialCategory": "Bac+3",
     "competencyRequired": [
+      "Bac +3 minimum dans le domaine de la comptabilité et de la gestion",
+      "Master II dans le domaine de la finance (dans le cadre d'un recrutement sur titre)",
       "Bonne connaissance des règles financières, budgétaire et comptable de la fonction publique et privée",
       "Bonne connaissance de l'organisation administrative de la collectivité et des procédures administratives"
     ]
@@ -73,8 +81,8 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Province Nord",
-    "url": "https://www.province-nord.nc",
+    "name": "Direction des finances et du budget (DFB)",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
@@ -86,7 +94,7 @@
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Service public",
+  "industry": "Finances et budget",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -104,12 +112,12 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "immédiatement",
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Finances et budget"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis B",
+  "qualifications": "Être titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Chargé d'études",
@@ -120,26 +128,25 @@
     }
   },
   "responsibilities": [
-    "Suivi des engagements hors bilan de la province ainsi que la production d'analyses financières",
-    "Participation à la préparation du débat d'orientation budgétaire DOB à présenter à l'assemblée de province",
-    "Participation à l'élaboration du rapport annuel d'analyse financière de la collectivité sur l'année écoulée",
-    "Préparation de la séance plénière annuelle dédiée aux SAEML",
-    "Analyse des comptes des SAEML et SPL dans lesquelles la province Nord détient une participation",
-    "Rédaction d'un rapport annuel sur la situation des SAEML et SPL et des engagements hors bilan",
-    "Suivi des ratios en lien avec les engagements hors bilan",
-    "Mise en œuvre des outils de gestion de la dette et des garanties d'emprunt",
-    "Suivi de la trésorerie",
-    "Assistance aux directions",
-    "Conseil et aide à la décision"
+    "La participation à la préparation du débat d'orientation budgétaire (DOB) à présenter à l'assemblée de province",
+    "La participation à l'élaboration du rapport annuel d'analyse financière de la collectivité sur l'année écoulée",
+    "La préparation de la séance plénière annuelle dédiée aux SAEML",
+    "L'analyse des comptes des SAEML et SPL dans lesquelles la province Nord détient une participation",
+    "La rédaction d'un rapport annuel sur la situation des SAEML et SPL et des engagements hors bilan",
+    "Le suivi des ratios en lien avec les engagements hors bilan",
+    "La mise en œuvre des outils de gestion de la dette et des garanties d'emprunt",
+    "Le suivi de la trésorerie",
+    "L'assistance aux directions",
+    "Le conseil et l'aide à la décision"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
+    "Maîtrise des applications informatiques métiers et bureautique (REGINET, ASTRE-SURFI, ISILOG, WORK-FLOW)",
     "Savoir analyser des comptes sociaux",
     "Connaître les ratios de la comptabilité privée",
     "Élaboration de tableaux de bords financiers et comptables",
-    "Maîtrise des applications informatiques métiers et bureautique REGINET ASTRE SURFI ISILOG WORK FLOW",
     "Méthode, rigueur et sens de l'organisation",
     "Autonomie et esprit d'initiative",
     "Capacité d'analyse et de réflexion",
