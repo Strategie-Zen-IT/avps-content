@@ -4,8 +4,8 @@
     "direction": "DES SERVICES D'INCENDIE ET DE SECOURS",
     "uniteOrganisationnelle": "des centre de secours",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Directeur",
-    "placeOrganigramme": "Sous l’autorité hiérarchique du directeur",
+    "superieurHierarchique": "Directeur des services d'incendie et de secours",
+    "placeOrganigramme": "Sous l’autorité directe du secrétaire général en charge du pôle sécurité, la direction des services d’incendie et de secours est composée de plusieurs unités opérationnelles",
     "relationsFonctionnelles": [
       "Secrétaire général en charge du pôle sécurité",
       "Directeur des services d'incendie et de secours",
@@ -22,8 +22,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Diplômes souhaités",
-        "value": "FDF3 ou FDF4"
+        "name": "Statut du poste",
+        "value": "Susceptible d'être vacant"
       },
       {
         "@type": "PropertyValue",
@@ -59,7 +59,7 @@
   "datePosted": "2026-08-28",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Chef de colonne",
+    "credentialCategory": "Capitaine ou Commandant",
     "competencyRequired": [
       "Diplômes exigés : chef de colonne",
       "Diplômes souhaités : FDF3 ou FDF4",
@@ -77,19 +77,19 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Ville de Nouméa",
+    "name": "Service des centres de secours",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": null,
+  "experienceRequirements": "Diplômes exigés : chef de colonne. Diplômes souhaités : FDF3 ou FDF4.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
-  "industry": "Service public",
+  "industry": "Sécurité civile et secours",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": false,
@@ -98,7 +98,7 @@
     "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "16, rue du général Mangin",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -109,17 +109,18 @@
   "jobLocationType": null,
   "jobStartDate": null,
   "occupationalCategory": [
-    "Incendie et secours"
+    "Incendie et secours",
+    "Prévention et sécurité"
   ],
   "physicalRequirement": null,
-  "qualifications": "Diplômes exigés : chef de colonne",
+  "qualifications": "Diplômes exigés : chef de colonne. Diplômes souhaités : FDF3 ou FDF4.",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Chef du service des centres de secours",
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "K2501",
-      "name": "Sécurité civile et secours"
+      "name": "Direction de la sécurité civile et des secours"
     }
   },
   "responsibilities": [
@@ -139,22 +140,15 @@
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Assister",
-    "Conseiller",
-    "Piloter",
-    "Coordonner",
-    "Organiser",
-    "Mettre en œuvre",
-    "Décliner",
-    "Évaluer",
-    "Optimiser",
-    "Superviser",
-    "Mobiliser",
-    "Partager",
-    "Traduire",
-    "Rédiger",
-    "Manager",
-    "Gérer"
+    "Management",
+    "Pilotage de projet",
+    "Gestion budgétaire",
+    "Analyse des coûts",
+    "Techniques rédactionnelles",
+    "Outils informatiques",
+    "Commandement opérationnel",
+    "Gestion des flux",
+    "Tableaux de bord"
   ],
   "specialCommitments": "Astreintes de niveau chef de colonne et astreintes de cadre de permanence de la ville de Nouméa",
   "title": "Chef du service des centres de secours",
