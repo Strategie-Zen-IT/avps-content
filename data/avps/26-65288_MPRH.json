@@ -7,12 +7,13 @@
     "superieurHierarchique": "Chef de service adjoint",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
+      "Directions de la collectivité",
       "Comptables des directions"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Disponibilité",
+        "name": "Caractéristiques particulières de l'emploi",
         "value": "Disponibilité en période de clôture budgétaire qui est une période de forte activité (de novembre à février)."
       },
       {
@@ -54,7 +55,7 @@
   },
   "alternateName": null,
   "description": "Placé sous l'autorité du chef de service adjoint, le contrôleur des recettes de la collectivité a principalement en charge la gestion et le contrôle comptable des recettes et d'avances, la gestion et le contrôle des régies de recettes et d'avances et le visa financier des actes liés aux recettes et aux régies. Il assure des fonctions de contrôle, d'assistance et de conseil auprès des comptables des directions dans son domaine.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Contrôleur chargé des recettes et des régies au sein du service de l'exécution budgétaire de la DBAF.",
   "identifier": "26-65288/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -105,13 +106,13 @@
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Finances et budget",
+  "industry": "Service public",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Nouméa",
+    "name": "Service de l'exécution budgétaire",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -123,7 +124,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "immédiatement",
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Finances et budget"
   ],
@@ -173,7 +174,7 @@
   "title": "Contrôleur chargé(e) des recettes et des régies de la collectivité",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-16",
-  "workHours": null,
+  "workHours": "Période de forte activité de novembre à février (clôture budgétaire)",
   "champs_open_data": 29,
   "employeur_sigle": "DBAF",
   "collectivite": "Nouvelle-Calédonie",
