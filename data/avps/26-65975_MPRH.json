@@ -7,6 +7,7 @@
     "superieurHierarchique": "Directeur et son adjoint",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
+      "Direction des infrastructures, de la topographie et des transports terrestres",
       "Secrétariat général",
       "Membres du gouvernement",
       "Partenaires sociaux"
@@ -56,7 +57,7 @@
   },
   "alternateName": null,
   "description": "Placé(e) sous l'autorité du directeur et de son adjoint, le/la chef du service assure le pilotage et la coordination des fonctions support de la DITTT. Véritable partenaire de la direction et des services opérationnels, il/elle contribue activement à faire évoluer le fonctionnement en recherchant la simplification, la performance et la qualité du service rendu.",
-  "disambiguatingDescription": "Chef du service des affaires administratives, financières et de l'informatique au sein de la DITTT",
+  "disambiguatingDescription": "Chef du service des affaires administratives, financières et de l'informatique au sein de la DITTT.",
   "identifier": "26-65975/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -81,7 +82,7 @@
   "datePosted": "2026-09-25",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": null,
+    "credentialCategory": "Attaché",
     "competencyRequired": [
       "Solide maîtrise des finances publiques, de la comptabilité publique et des règles de gestion administrative",
       "Bonne connaissance du cadre juridique et réglementaire applicable en Nouvelle-Calédonie",
@@ -103,14 +104,14 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience confirmée en management d'équipes et en conduite de projets transversaux. Une expérience dans un environnement technique ou opérationnel constitue un atout.",
+  "experienceRequirements": "Expérience confirmée en management d'équipes et en conduite de projets transversaux.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": "Informations salaire disponibles sur https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
+  "jobBenefits": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
