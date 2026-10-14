@@ -8,8 +8,8 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Service assistance numérique et logistique (SANL)",
-      "Equipes techniques et infogérants",
-      "Equipes infrastructure/cybersécurité (SOC/CERT-NC)"
+      "Équipes techniques et infogérants",
+      "Équipes infrastructure/cybersécurité (SOC/CERT-NC)"
     ],
     "informationsLibres": [
       {
@@ -78,7 +78,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Nouvelle-Calédonie",
+    "name": "Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -126,7 +126,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": true,
-  "experienceRequirements": "Expérience managériale significative sur un périmètre support/exploitation. Expérience souhaitée en pilotage de centre de services / support N1-N2, idéalement dans un contexte multi-sites ou territorial isolé.",
+  "experienceRequirements": "Expérience managériale significative sur un périmètre support/exploitation. Expérience souhaitée en pilotage de centre de services / support N1-N2.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
@@ -138,7 +138,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "DINUM",
+    "name": "Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -155,7 +155,7 @@
     "Système d'information"
   ],
   "physicalRequirement": null,
-  "qualifications": "Formation Bac+3 à Bac+5 en informatique / systèmes d'information, ou expérience équivalente.",
+  "qualifications": "Formation Bac+3 à Bac+5 en informatique / systèmes d'information, ou expérience équivalente",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Chef de projet maîtrise d'œuvre",
@@ -213,8 +213,8 @@
   "specialCommitments": "- Formation Bac+3 à Bac+5 en informatique / systèmes d'information, ou expérience équivalente\n- Expérience managériale significative sur un périmètre support/exploitation\n- Sens du service, rigueur dans le suivi des engagements, capacité à arbitrer les priorités en environnement contraint.",
   "title": "Chef de section centre de relation usagers",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-16",
-  "workHours": "Horaires de couverture des équipes hotline/assistance",
+  "validThrough": "2026-10-30",
+  "workHours": "Horaires de couverture de la hotline et de l'assistance",
   "champs_open_data": 30,
   "employeur_sigle": "DINUM",
   "collectivite": "Nouvelle-Calédonie",
