@@ -5,21 +5,22 @@
     "uniteOrganisationnelle": "Section administrative et comptable",
     "nbAgentsEncadres": 1,
     "superieurHierarchique": "Secrétaire général",
-    "placeOrganigramme": null,
+    "placeOrganigramme": "Sous l'autorité directe du Secrétaire général",
     "relationsFonctionnelles": [
       "Secrétariat général",
-      "Services de la commune"
+      "Exécutif municipal",
+      "Administration municipale"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Poste à pourvoir",
-        "value": "Immédiatement"
+        "name": "Date de clôture initialement prévue",
+        "value": "02/10/2026"
       },
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": null
+        "name": "Statut du report",
+        "value": "La date de clôture initialement prévue au 02/10/2026 a été reportée"
       },
       {
         "@type": "PropertyValue",
@@ -57,6 +58,7 @@
   "educationRequirements": {
     "credentialCategory": "Bac",
     "competencyRequired": [
+      "Être titulaire d’un diplôme de niveau 4 minimum (BAC)",
       "Maîtrise de l’organisation et des procédures administratives de la collectivité",
       "Solides connaissances des institutions de la Nouvelle-Calédonie",
       "Maîtrise des techniques de communication écrites et orales",
@@ -66,7 +68,7 @@
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": null,
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -100,7 +102,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Administration générale",
     "Finances et budget"
@@ -113,7 +115,7 @@
     "occupationalCategory": {
       "@type": "CategoryCode",
       "codeValue": "M1203",
-      "name": "Assistanat technique et administratif"
+      "name": "Direction administrative et financière"
     }
   },
   "responsibilities": [
@@ -142,7 +144,7 @@
     "Travail en équipe",
     "Disponibilité"
   ],
-  "specialCommitments": null,
+  "specialCommitments": "Participer à l'activité de la cellule de gestion de crise lorsqu'elle est activée (cyclone, etc.)",
   "title": "1 chef de section administrative et comptable",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-16",
