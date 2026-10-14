@@ -7,8 +7,8 @@
     "superieurHierarchique": "Capitaine du baliseur",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Capitaine du baliseur",
-      "Équipage du navire baliseur Louis HENIN"
+      "Service des phares et balises",
+      "Equipage du navire baliseur Louis HENIN"
     ],
     "informationsLibres": [
       {
@@ -18,8 +18,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Cadre de recrutement",
-        "value": "Remplacement d'un ACDP immédiatement pour une durée 1 an"
+        "name": "Contexte opérationnel",
+        "value": "Navire baliseur Louis HENIN disposant d'un rôle d'équipage constitué de huit marins"
       },
       {
         "@type": "PropertyValue",
@@ -60,7 +60,7 @@
   },
   "alternateName": null,
   "description": "La direction des infrastructures, de la topographie et des transports terrestres est une direction du gouvernement de la Nouvelle Calédonie traitant, sous l'autorité du secrétariat général, de missions principalement techniques. Composée de 136 agents et organisée autour de 7 services fonctionnels, elle agit sous l'animation et le contrôle de plusieurs membres du gouvernement.\n\nLes politiques publiques qui y sont mises en œuvre concernent les domaines suivants : aménagement, gestion et entretien du réseau routier territorial, balisage maritime, cadastre, cartographie, topographie, éducation et sécurité routière, autorisation de circuler et de conduire, contrôle technique des véhicules, réglementation du transport routier.\n\nAu sein de la DITTT, le service des phares et balises assure l'entretien et la construction des nouveaux établissements de signalisation maritime.\n\nLe navire baliseur « Louis HENIN » a en charge l'entretien du balisage flottant ainsi que la réalisation des missions hydrographiques dans les eaux territoriales de la Nouvelle-Calédonie. Il dispose d'un rôle d'équipage constitué de huit (8) marins.\n\nPlacé sous l'autorité du Capitaine du baliseur, le Chef mécanicien est le garant du maintien en condition opérationnelle et de la sécurité de l'ensemble des installations techniques et propulsives du bord",
-  "disambiguatingDescription": "Chef mécanicien sur le navire baliseur Louis HENIN pour le Service des phares et balises de la DITTT.",
+  "disambiguatingDescription": "Chef mécanicien sur le navire baliseur Louis HENIN pour le service des phares et balises de la DITTT.",
   "identifier": "26-66404/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -97,7 +97,7 @@
   },
   "eligibilityToWorkRequirement": null,
   "employerOverview": "La direction des infrastructures, de la topographie et des transports terrestres est une direction du gouvernement de la Nouvelle Calédonie traitant, sous l'autorité du secrétariat général, de missions principalement techniques. Composée de 136 agents et organisée autour de 7 services fonctionnels, elle agit sous l'animation et le contrôle de plusieurs membres du gouvernement.",
-  "employmentType": "TEMPORARY",
+  "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
     "name": "Service des phares et balises",
@@ -106,15 +106,15 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Solide expertise en mécanique diesel navale, électrotechnique.",
+  "experienceRequirements": "Solide expertise en mécanique diesel navale et électrotechnique.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Transports terrestres et maritimes",
+  "industry": "Service public",
   "jobBenefits": null,
-  "jobDuration": "1 an",
+  "jobDuration": "Indéterminée",
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
@@ -130,7 +130,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Transports terrestres et maritimes"
   ],
