@@ -95,12 +95,36 @@
       .then(function (r) { return r.ok ? r.json() : null; })
       .then(function (data) {
         if (!data) return;
+        // ⚠️ Le compte se fait sur les FAMILLES de l'offre, plus sur le premier
+        //    segment de son adresse. Depuis le 15/10/2026 une rubrique liste par
+        //    taxonomie : compter par dossier donnait un nombre qui ne correspondait
+        //    pas à ce que la page affiche — 47 offres sur 177 étaient rangées dans
+        //    un dossier absent de leurs propres badges.
+        //    On indexe par SLUG de famille, puisque c'est ce que porte l'adresse de
+        //    la rubrique.
+        function slug(s) {
+          return (s || '')
+            .normalize('NFD').replace(/[\u0300-\u036f]/g, '')  // sans accents
+            .toLowerCase()
+            .replace(/[^a-z0-9]+/g, '-')
+            .replace(/^-|-$/g, '');
+        }
         var parSection = {};
         data.offres.forEach(function (o) {
           if (!o.ouverte) return;                    // le menu ne compte que l'ouvert
-          // La section est le premier segment de l'adresse de l'offre.
+          var vues = {};
+          (o.familles || []).forEach(function (f) {
+            var s = slug(f);
+            if (s) vues[s] = true;
+          });
+          // Le dossier reste compté : une offre dont la famille de dossier n'est pas
+          // dans ses badges doit tout de même apparaître là où elle est rangée. Même
+          // union que `avp-offres-famille.html`.
           var seg = (o.url || '').split('/').filter(Boolean)[0];
-          if (seg) parSection[seg] = (parSection[seg] || 0) + 1;
+          if (seg) vues[seg] = true;
+          Object.keys(vues).forEach(function (s) {
+            parSection[s] = (parSection[s] || 0) + 1;
+          });
         });
         menu.querySelectorAll('li[data-nav-id] > a').forEach(function (lien) {
           var segs = (new URL(lien.href, window.location.origin)).pathname

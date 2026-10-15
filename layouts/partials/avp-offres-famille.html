@@ -1,0 +1,43 @@
+{{- /*
+  Les offres OUVERTES d'une famille de métier. Source unique de vérité.
+
+  Pourquoi ce partial existe
+  --------------------------
+  Le site classait les offres de DEUX façons qui ne se parlaient pas :
+
+    - le DOSSIER (`famille`, donc le menu et les pages de rubrique) venait de
+      l'appariement sémantique du titre contre les 368 fiches RESPNC ;
+    - les BADGES (`familles`, donc les taxonomies) venaient du classement du
+      document entier par le modèle.
+
+  Les deux divergeaient sur **47 offres ouvertes sur 177** au 15/10/2026 : une offre
+  badgée « Système d'information » et « Pilotage » vivait dans le dossier
+  « Développement du territoire », donc n'apparaissait dans aucune des deux rubriques
+  du menu. Elle n'était pas introuvable — les pages d'étiquettes la listaient — mais
+  personne n'y arrive depuis le menu.
+
+  Décision du 15/10/2026 : **la rubrique liste par TAXONOMIE**, plus par dossier. Une
+  offre apparaît donc sous chacune de ses familles.
+
+  Le dossier ne sert plus qu'à fabriquer l'adresse de la fiche. Il est conservé dans
+  la sélection (union) pour qu'aucune offre ne disparaisse de l'endroit où elle est
+  rangée, même quand sa famille de dossier ne figure pas dans ses badges. Le jour où
+  le moteur garantira que `famille` fait toujours partie de `familles`, cette union
+  deviendra sans effet et pourra être retirée.
+
+  ⚠️ Hugo ne permet pas à une page de vivre dans deux dossiers. C'est bien la
+  TAXONOMIE qui autorise l'appartenance multiple, pas la section.
+
+  Entrée  : le LIBELLÉ exact de la famille (le titre de la section).
+  Sortie  : les offres ouvertes, triées par échéance la plus proche.
+
+  Usage : {{ $offres := partial "avp-offres-famille.html" .Title }}
+*/ -}}
+{{- $libelle := . }}
+{{- $parTaxonomie := where site.RegularPages "Params.familles" "intersect" (slice $libelle) }}
+{{- /* Le dossier porte le même libellé que le titre de sa section. */ -}}
+{{- $parDossier := where site.RegularPages "Params.famille" "eq" $libelle }}
+{{- $toutes := $parTaxonomie | union $parDossier }}
+{{- /* `avp-actives.html` écarte les archives et les offres clôturées. Tri par échéance
+       la plus proche : sur une liste d'offres, c'est le seul ordre utile. */ -}}
+{{- return sort (partial "avp-actives.html" $toutes) "Params.date_cloture" "asc" }}

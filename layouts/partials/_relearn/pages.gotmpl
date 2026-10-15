@@ -58,9 +58,15 @@
 		{{- if and $garder .IsSection (eq .Section "archives") }}{{ $garder = false }}{{ end }}
 		{{- /* Rubrique sans aucune offre OUVERTE : hors du menu. Une famille dont toutes
 		       les offres sont clôturées ou archivées n'a rien à proposer, et sa page ne
-		       montrerait qu'une liste vide. */ -}}
+		       montrerait qu'une liste vide.
+
+		       ⚠️ Le compte se fait sur la TAXONOMIE, pas sur `.RegularPages` (le
+		       dossier), depuis le 15/10/2026 : sinon une famille dont les offres ne
+		       sont rattachées que par leurs badges disparaîtrait du menu alors que sa
+		       page en liste. Même sélection que la page elle-même — il n'y a qu'une
+		       source de vérité, `avp-offres-famille.html`. */ -}}
 		{{- if and $garder .IsSection }}
-			{{- if eq (len (partial "avp-actives.html" .RegularPages)) 0 }}{{ $garder = false }}{{ end }}
+			{{- if eq (len (partial "avp-offres-famille.html" .Title)) 0 }}{{ $garder = false }}{{ end }}
 		{{- end }}
 		{{- if $garder }}
 			{{- $filtered_pages = $filtered_pages | append . }}

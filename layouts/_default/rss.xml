@@ -16,7 +16,32 @@
         {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType.Type | safeHTML }}
     {{ end }}
     
-    {{ range .Site.RegularPages }}
+    {{/* ⚠️ CORRIGÉ LE 15/10/2026 — les 41 flux par famille étaient IDENTIQUES.
+
+         Ce gabarit parcourait `.Site.RegularPages` quelle que soit la page rendue :
+         chacun des 41 flux de rubrique, et chacun des flux d'étiquette, servait donc
+         la liste COMPLÈTE des offres. La page « Être alerté » promettait « un flux
+         par famille de métier » et livrait 41 copies du flux général — un abonné à
+         « Culture » recevait toutes les offres du site.
+
+         Le jeu d'offres dépend maintenant de la page :
+           - accueil           -> tout le site, c'est le flux général ;
+           - rubrique métier   -> la MÊME sélection que la page, par taxonomie
+                                  (voir `avp-offres-famille.html`) ;
+           - page d'étiquette  -> les pages de ce terme ;
+           - le reste          -> les pages de la section. */}}
+    {{- $offres := site.RegularPages }}
+    {{- if .IsHome }}
+      {{- $offres = site.RegularPages }}
+    {{- else if and .IsSection (ne .Section "archives") }}
+      {{- $offres = partial "avp-offres-famille.html" .Title }}
+    {{- else if .Data.Term }}
+      {{- $offres = .Pages }}
+    {{- else }}
+      {{- $offres = .RegularPages }}
+    {{- end }}
+
+    {{ range $offres }}
       {{/* 🎯 Le flux ne porte que des OFFRES : les pages éditoriales sont écartées. */}}
       {{ $isEditorial := not .Params.ref }}
       {{ $isArchive := eq .Params.archive true }}

@@ -19,7 +19,11 @@
      ni dans la liste d'une direction, ni sur sa carte. */ -}}
 {{- /* Tri par échéance, la plus proche en tête : sur une liste d'offres, c'est le seul
      ordre utile — un candidat regarde d'abord ce qui ferme bientôt. */ -}}
-{{- $pages := sort (partial "avp-actives.html" .Page.Pages) "Params.date_cloture" "asc" }}
+{{- /* ⚠️ Sélection par TAXONOMIE et non par dossier depuis le 15/10/2026 : une offre
+       apparaît sous chacune de ses familles. Voir `avp-offres-famille.html` pour le
+       pourquoi — 47 offres sur 177 étaient absentes des rubriques qu'annonçaient
+       leurs propres badges. */ -}}
+{{- $pages := partial "avp-offres-famille.html" .Page.Title }}
 
 {{- $hasGeo := false }}
 {{- range $pages }}{{ if and .Params.latitude .Params.longitude }}{{ $hasGeo = true }}{{ end }}{{- end }}
