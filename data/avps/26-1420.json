@@ -120,12 +120,7 @@
   "qualifications": "Diplôme d'Etat d'Educateur Spécialisé obligatoire, Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Educateur spécialisé",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1302",
-      "name": "Intervention socioéducative"
-    }
+    "name": "Educateur spécialisé"
   },
   "responsibilities": [
     "Le suivi individualisé des élèves internes à besoins particuliers : diagnostic et suivi en collaboration avec les partenaires et organismes socio-éducatifs, la rédaction, le suivi et l'évaluation du projet d'accompagnement personnalisé",

@@ -104,12 +104,7 @@
   "qualifications": "Carte professionnelle délivrée par la Direction de la Jeunesse et des Sports de la Nouvelle-Calédonie en cours de validité",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Animateur Educateur d’équipements sportifs",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1206",
-      "name": "Éducation sportive"
-    }
+    "name": "Animateur Educateur d’équipements sportifs"
   },
   "responsibilities": [
     "Accueil et encadrement des groupes scolaires et associatifs",

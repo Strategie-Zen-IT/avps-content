@@ -107,12 +107,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Directeur adjoint en charge des affaires financières",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Direction administrative et financière"
-    }
+    "name": "Directeur adjoint en charge des affaires financières"
   },
   "responsibilities": [
     "Préparer et piloter l'Etats Prévisionnel des recettes et des dépenses et le plan global de financement en lien avec l'équipe de direction et les chefs de service",

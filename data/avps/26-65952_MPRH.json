@@ -137,12 +137,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Responsable administratif, administratif de gestion, administratif et financier"
-    }
+    "name": "Responsable administratif"
   },
   "responsibilities": [
     "Participer à améliorer, simplifier et coordonner l'ensemble des processus de contrôle de la section, dans une recherche constante de performance du service et d'amélioration continue de l'activité de la section",

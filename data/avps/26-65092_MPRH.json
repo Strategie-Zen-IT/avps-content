@@ -125,12 +125,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Assistant administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Agent administratif"
-    }
+    "name": "Assistant administratif"
   },
   "responsibilities": [
     "Le secrétariat :",

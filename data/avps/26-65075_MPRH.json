@@ -152,12 +152,7 @@
   "qualifications": "Diplôme d'Ingénieur télécommunications souhaitable",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé de projets télécommunications",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1306",
-      "name": "Ingénieur validation réseaux de télécoms"
-    }
+    "name": "Chargé de projets télécommunications"
   },
   "responsibilities": [
     "Sous l'autorité du chef du service de l'économie numérique, des filières d'avenir et des télécommunications, le chargé(e) de projets télécommunications a pour activités principales :",

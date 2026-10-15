@@ -131,12 +131,7 @@
   "qualifications": "Masseur kinésithérapeute diplômé d'état du cadre des personnels paramédicaux de Nouvelle-Calédonie",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Masseur Kinésithérapeute diplômé d'état",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Kinésithérapie"
-    }
+    "name": "Masseur Kinésithérapeute diplômé d'état"
   },
   "responsibilities": [
     "Accueillir le patient et la famille",

@@ -140,12 +140,7 @@
   "qualifications": "Permis de conduire",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Conseiller jeunesse et sports",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1206",
-      "name": "Conseiller sportif"
-    }
+    "name": "Conseiller jeunesse et sports"
   },
   "responsibilities": [
     "1° Mission d'expertise sur la réglementation des activités physiques et sportives en Nouvelle-Calédonie :",

@@ -144,12 +144,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable d'opérations en infrastructures",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1302",
-      "name": "Ingénieur des travaux d'infrastructure et réseaux, d'exploitation de la route, génie civil maintenance réseaux"
-    }
+    "name": "Responsable d'opérations en infrastructures"
   },
   "responsibilities": [
     "1. Planification budgétaire, Évaluation (ROI) et Ingénierie Financière :",

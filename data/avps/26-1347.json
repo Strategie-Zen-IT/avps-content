@@ -127,12 +127,7 @@
   "qualifications": "Permis de conduire (B) indispensable",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Agent d'entretien des espaces naturels",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "A1207",
-      "name": "Entretien des espaces naturels"
-    }
+    "name": "Agent d'entretien des espaces naturels"
   },
   "responsibilities": [
     "Travaux de maçonneries et soudures : bâti, y compris les cages, volières et enclos",

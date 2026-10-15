@@ -108,12 +108,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Instructeur patrimoine",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1503",
-      "name": "Gestion de patrimoine immobilier"
-    }
+    "name": "Instructeur patrimoine"
   },
   "responsibilities": [
     "Mettre en œuvre la politique de la Ville, la réglementation et les procédures en matière de mise à disposition",

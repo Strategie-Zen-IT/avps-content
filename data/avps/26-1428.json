@@ -105,12 +105,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Coordonnateur de l'exploitation commerciale",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1306",
-      "name": "Intervention technique d'exploitation des transports routiers de marchandises"
-    }
+    "name": "Coordonnateur de l'exploitation commerciale"
   },
   "responsibilities": [
     "Piloter, contrôler à l'échelle de sa cellule la disponibilité et l'adéquation des moyens ainsi que les conditions de réalisation de l'offre définie, en effectuer le reporting et l'analyse",

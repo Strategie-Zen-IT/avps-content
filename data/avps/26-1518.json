@@ -133,12 +133,7 @@
   "qualifications": "Diplôme d'état d'infirmier, Formation AFGSU niveau 2",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmier en soins généraux",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Infirmier / Infirmière en soins généraux"
-    }
+    "name": "Infirmier en soins généraux"
   },
   "responsibilities": [
     "Réaliser de pansement post hospitalisation",

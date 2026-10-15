@@ -151,12 +151,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Responsable administratif, administratif de gestion, administratif et financier"
-    }
+    "name": "Responsable administratif"
   },
   "responsibilities": [
     "Assurer un contact opérationnel avec les secrétariats de ces organisations régionales",

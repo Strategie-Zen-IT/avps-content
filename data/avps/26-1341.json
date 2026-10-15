@@ -101,12 +101,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé de recrutement et communication interne ; gestionnaire RH",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1503",
-      "name": "Recrutement"
-    }
+    "name": "Chargé de recrutement et communication interne ; gestionnaire RH"
   },
   "responsibilities": [
     "Recueillir et analyser les besoins en recrutement des services",

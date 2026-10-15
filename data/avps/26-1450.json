@@ -143,12 +143,7 @@
   "qualifications": "Titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Vétérinaire – Chargé de filière",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "A1203",
-      "name": "Aide aux soins animaux"
-    }
+    "name": "Vétérinaire – Chargé de filière"
   },
   "responsibilities": [
     "Piloter le suivi sanitaire et technico-économique des filières animales",

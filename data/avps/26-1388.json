@@ -130,12 +130,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Administrateur d'Applications",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1801",
-      "name": "Administration de systèmes d'information"
-    }
+    "name": "Administrateur d'Applications"
   },
   "responsibilities": [
     "Assurer la disponibilité et le bon fonctionnement des applications",

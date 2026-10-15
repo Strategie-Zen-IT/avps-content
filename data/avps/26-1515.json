@@ -119,12 +119,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Gestionnaire Comptable",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Comptabilité"
-    }
+    "name": "Gestionnaire Comptable"
   },
   "responsibilities": [
     "Gestion des dépenses et des recettes de l’établissement (engagements, bons de commande, factures, mandats, titres)",

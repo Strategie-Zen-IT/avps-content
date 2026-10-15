@@ -118,12 +118,7 @@
   "qualifications": "Permis de conduire B, CAMU souhaité",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecin",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Médecine générale et spécialisée"
-    }
+    "name": "Médecin"
   },
   "responsibilities": [
     "Assurer la continuité de l'offre de soin au sein du centre médico-social",

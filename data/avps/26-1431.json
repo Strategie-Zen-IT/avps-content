@@ -103,12 +103,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé de l'instruction des dispositifs spécifiques",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1302",
-      "name": "Mise en œuvre et pilotage de la politique des pouvoirs publics"
-    }
+    "name": "Chargé de l'instruction des dispositifs spécifiques"
   },
   "responsibilities": [
     "Vérifier l’éligibilité des demandeurs et la conformité des devis et des factures, ou toutes autres pièces justificatives, transmis dans le cadre des dispositifs d’aides",

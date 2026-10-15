@@ -99,12 +99,7 @@
   "qualifications": "Certificat d'aptitude aux fonctions de professeur chargé de la direction des écoles territoriales de musique et de danse",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Directeur/trice",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2102",
-      "name": "Conception et pilotage de la politique culturelle et patrimoniale"
-    }
+    "name": "Directeur/trice"
   },
   "responsibilities": [
     "Nommé par le gouvernement de la Nouvelle-Calédonie, le directeur du CDANC est placé sous l'autorité du président du Conseil d'Administration de l'établissement",

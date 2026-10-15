@@ -125,12 +125,7 @@
   "qualifications": "Titulaire du CACES ou autre certificat d'aptitude à la conduite de compacteur, pelle, chargeur et tracteur, Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Agent d'entretien et d'exploitation",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2503",
-      "name": "Salubrité et traitement de déchets"
-    }
+    "name": "Agent d'entretien et d'exploitation"
   },
   "responsibilities": [
     "Exploitation générale de l'installation de stockage des déchets non dangereux de VKPP (Plaine des gaïacs)",

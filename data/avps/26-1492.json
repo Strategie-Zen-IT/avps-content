@@ -98,12 +98,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "RESPONSABLE FINANCIER",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Direction administrative et financière"
-    }
+    "name": "RESPONSABLE FINANCIER"
   },
   "responsibilities": [
     "Préparer, élaborer, suivre et exécuter le budget principal et ses annexes",

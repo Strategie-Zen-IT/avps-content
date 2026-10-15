@@ -110,12 +110,7 @@
   "qualifications": "Une certification technique reconnue en France (COSO, auditeur IFACI, ...) serait un plus",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Contrôleur de gestion",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2102",
-      "name": "Contrôle de gestion"
-    }
+    "name": "Contrôleur de gestion"
   },
   "responsibilities": [
     "Piloter la cellule de contrôle de gestion composée de 4 chargés d'études",

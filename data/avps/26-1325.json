@@ -104,12 +104,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Travailleur social",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1302",
-      "name": "Action sociale"
-    }
+    "name": "Travailleur social"
   },
   "responsibilities": [
     "La rencontre et la prise en charge des personnes lors de permanences, des visites à domicile ou sur rendez-vous",

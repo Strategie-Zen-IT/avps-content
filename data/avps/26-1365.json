@@ -110,12 +110,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "chef cuisinier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "G1601",
-      "name": "Personnel de cuisine"
-    }
+    "name": "chef cuisinier"
   },
   "responsibilities": [
     "Mettre en œuvre les techniques et les règles de fabrication culinaire pour la production de repas équilibrés dans le respect des normes d’hygiène (HACCP) et des règles de la diététique",

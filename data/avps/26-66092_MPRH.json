@@ -129,12 +129,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Responsable administratif, administratif de gestion, administratif et financier"
-    }
+    "name": "Responsable administratif"
   },
   "responsibilities": [
     "Rédiger des notes et des rapports sur les sujets et missions confiées par sa hiérarchie",

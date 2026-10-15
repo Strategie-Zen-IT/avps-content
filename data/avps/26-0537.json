@@ -106,12 +106,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "infirmier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Soins infirmiers généraux"
-    }
+    "name": "infirmier"
   },
   "responsibilities": [
     "Le recensement des personnes âgées en prévention primaire et secondaire de la dépendance",

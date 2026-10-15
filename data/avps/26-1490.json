@@ -113,12 +113,7 @@
   "qualifications": "Permis poids lourds en cours de validité exigé.",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Conducteur de véhicules poids lourds / Agent technique polyvalent",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1602",
-      "name": "Conduite de transport de marchandises sur longue distance"
-    }
+    "name": "Conducteur de véhicules poids lourds / Agent technique polyvalent"
   },
   "responsibilities": [
     "Conduire le camion-citerne et les autres véhicules poids lourds communaux dans le respect du code de la route et des règles de sécurité",

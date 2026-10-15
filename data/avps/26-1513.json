@@ -105,12 +105,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Secrétaire général adjoint",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Mise en œuvre et pilotage des politiques publiques"
-    }
+    "name": "Secrétaire général adjoint"
   },
   "responsibilities": [
     "Assister l’exécutif pour la définition des orientations stratégiques de la collectivité et des politiques publiques sectorielles",

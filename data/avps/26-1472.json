@@ -127,12 +127,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Éducateur spécialisé",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1302",
-      "name": "Intervention socio-éducative"
-    }
+    "name": "Éducateur spécialisé"
   },
   "responsibilities": [
     "Accueillir les enfants et leur famille",

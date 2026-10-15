@@ -103,12 +103,7 @@
   "qualifications": "Tous les permis requis",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chauffeur polyvalent",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1205",
-      "name": "Conduite d'engins de terrassement et de carrière"
-    }
+    "name": "Chauffeur polyvalent"
   },
   "responsibilities": [
     "Conduite et manœuvres d'un engin sur la voie publique et sur les chantiers",

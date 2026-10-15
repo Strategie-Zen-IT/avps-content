@@ -118,12 +118,7 @@
   "qualifications": "Permis B exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Travailleur social",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1302",
-      "name": "Action sociale"
-    }
+    "name": "Travailleur social"
   },
   "responsibilities": [
     "Suivre des enfants confiés à l'aide sociale à l'enfance dans le cadre du placement en famille d'accueil",

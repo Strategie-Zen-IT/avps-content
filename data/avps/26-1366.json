@@ -113,12 +113,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Directeur de police municipale",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2501",
-      "name": "Direction de la sécurité publique"
-    }
+    "name": "Directeur de police municipale"
   },
   "responsibilities": [
     "Contribuer à la définition des orientations stratégiques de la direction de la police municipale",

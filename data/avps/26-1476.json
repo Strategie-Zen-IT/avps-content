@@ -111,12 +111,7 @@
   "qualifications": "Titulaire d'un brevet d'Etat d'éducateur sportif (voile serait un plus)",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Éducateur jeunesse et sport",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1206",
-      "name": "Animation d'activités de loisirs ou d'accompagnement culturel"
-    }
+    "name": "Éducateur jeunesse et sport"
   },
   "responsibilities": [
     "Coordonner les différentes activités éducatives, physiques et sportives de structures",

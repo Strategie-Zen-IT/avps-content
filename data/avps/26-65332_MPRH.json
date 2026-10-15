@@ -129,12 +129,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé du recouvrement des impôts, droits et taxes",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1204",
-      "name": "Agent de recouvrement du Trésor, Chargé de recouvrement des recettes de l'Etat"
-    }
+    "name": "Chargé du recouvrement des impôts, droits et taxes"
   },
   "responsibilities": [
     "Gestion des dossiers en recouvrement difficile :",

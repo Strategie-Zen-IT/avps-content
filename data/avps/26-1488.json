@@ -124,12 +124,7 @@
   "qualifications": "Permis B exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Technicien",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "A1203",
-      "name": "Ingénierie et études du BTP"
-    }
+    "name": "Technicien"
   },
   "responsibilities": [
     "Coordination du Service Technique et mise en place de dispositif de contrôle et de gestion de l’activité",

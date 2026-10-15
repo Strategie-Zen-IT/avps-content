@@ -105,12 +105,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Administrateur d'applications",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1801",
-      "name": "Administration de systèmes d'information"
-    }
+    "name": "Administrateur d'applications"
   },
   "responsibilities": [
     "Assurer la disponibilité, la performance et l'évolution des environnements applicatifs en s'appuyant sur l'automatisation et la standardisation des processus",

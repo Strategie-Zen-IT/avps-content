@@ -108,12 +108,7 @@
   "qualifications": "Permis B, C et E exigés",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Ouvrier polyvalent",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1205",
-      "name": "Installation d'équipements routiers"
-    }
+    "name": "Ouvrier polyvalent"
   },
   "responsibilities": [
     "Conduite d’engins de chantier (niveleuse, chargeuse, tractopelle, pelle hydraulique) : réalisation des opérations de terrassement, nivellement, décaissement, remblaiement et chargement, effectuer les travaux dans le respect des règles de sécurité",

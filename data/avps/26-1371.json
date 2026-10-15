@@ -123,12 +123,7 @@
   "qualifications": "Permis B exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Éducateur spécialisé",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1302",
-      "name": "Intervention socioéducative"
-    }
+    "name": "Éducateur spécialisé"
   },
   "responsibilities": [
     "Accompagner in situ les équipes écoles dans la gestion de crise d'élèves à besoins éducatifs particuliers",

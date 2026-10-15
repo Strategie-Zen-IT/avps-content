@@ -125,12 +125,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable financier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Direction administrative et financière"
-    }
+    "name": "Responsable financier"
   },
   "responsibilities": [
     "Piloter le service administratif et financier (SAF) et coordonner l’activité de trois bureaux et des 11 agents placés sous sa responsabilité",

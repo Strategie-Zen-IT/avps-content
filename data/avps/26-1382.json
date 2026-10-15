@@ -121,12 +121,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé de soutien réseaux de vente",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2503",
-      "name": "Conseil en organisation et management d'entreprise"
-    }
+    "name": "Chargé de soutien réseaux de vente"
   },
   "responsibilities": [
     "Élaborer, formaliser et actualiser les normes, procédures et modes opératoires applicables aux agences et centres de la BU",

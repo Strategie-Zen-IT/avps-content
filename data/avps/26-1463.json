@@ -106,12 +106,7 @@
   "qualifications": "Permis B exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Animateur socio-éducatif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1206",
-      "name": "Animation d'activités de loisirs"
-    }
+    "name": "Animateur socio-éducatif"
   },
   "responsibilities": [
     "Élaborer des projets d’animations socio-éducatives en favorisant la participation des habitants",

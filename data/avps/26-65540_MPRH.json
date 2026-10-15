@@ -124,12 +124,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Secrétaire",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Secrétaire"
-    }
+    "name": "Secrétaire"
   },
   "responsibilities": [
     "Participer à la définition, à l'optimisation et à la mise en œuvre des orientations du greffe en concertation avec la directrice",

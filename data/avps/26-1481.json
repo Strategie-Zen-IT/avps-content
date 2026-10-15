@@ -108,12 +108,7 @@
   "qualifications": "Permis de conduire B indispensable",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecin",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Médecine généraliste et spécialisée"
-    }
+    "name": "Médecin"
   },
   "responsibilities": [
     "Consultations de planification familiale (contraception, consultation pré et post-IVG, pratique des IVG médicamenteuses, etc.) sur différents sites de la province Sud",

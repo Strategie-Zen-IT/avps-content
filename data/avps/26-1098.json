@@ -113,12 +113,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "responsable formation",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1503",
-      "name": "Coordination pédagogique"
-    }
+    "name": "responsable formation"
   },
   "responsibilities": [
     "Piloter l'activité du pôle Métiers de la Mer et assurer la mise en œuvre des orientations définies par le GIEP-NC",

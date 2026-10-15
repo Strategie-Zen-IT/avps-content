@@ -124,12 +124,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecin itinérant",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2104",
-      "name": "Médecine de prévention"
-    }
+    "name": "Médecin itinérant"
   },
   "responsibilities": [
     "Mettre en œuvre les orientations provinciales en matière de santé publique",

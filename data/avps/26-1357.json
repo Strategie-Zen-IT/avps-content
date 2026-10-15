@@ -108,12 +108,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Agent de gestion comptable et budgétaire",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Comptabilité"
-    }
+    "name": "Agent de gestion comptable et budgétaire"
   },
   "responsibilities": [
     "Préparer les budgets prévisionnels en collaboration avec le Directeur",

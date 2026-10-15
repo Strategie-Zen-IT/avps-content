@@ -114,12 +114,7 @@
   "qualifications": "Permis B exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé de mission",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Sécurité publique"
-    }
+    "name": "Chargé de mission"
   },
   "responsibilities": [
     "En collaboration avec le chef de service, participer à la conception, à la mise en œuvre et au pilotage du dispositif de lutte contre la délinquance des mineurs",

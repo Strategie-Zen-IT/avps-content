@@ -114,12 +114,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "CHARGE DE CONTACT CLIENTELE",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1306",
-      "name": "Accueil et services bancaires"
-    }
+    "name": "CHARGE DE CONTACT CLIENTELE"
   },
   "responsibilities": [
     "Commercialiser les produits et services de l'OPT-NC, apporter du conseil, contribuer au meilleur accueil et à la satisfaction des clients",

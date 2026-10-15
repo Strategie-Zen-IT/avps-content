@@ -125,12 +125,7 @@
   "qualifications": "Diplôme d'État d'infirmier",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Infirmier en soins généraux"
-    }
+    "name": "Infirmier"
   },
   "responsibilities": [
     "Réaliser des soins (biométrie, infections, prélèvements, pansements et stérilisation)",

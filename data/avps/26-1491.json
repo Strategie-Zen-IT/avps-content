@@ -120,12 +120,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable d'opération en infrastructure",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1302",
-      "name": "Conduite de travaux du BTP"
-    }
+    "name": "Responsable d'opération en infrastructure"
   },
   "responsibilities": [
     "Informer l'exécutif puis les élus et prendre en compte les orientations et priorités (commission des finances)",

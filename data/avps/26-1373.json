@@ -98,12 +98,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Secrétaire général adjoint",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Conception et pilotage de la politique des pouvoirs publics"
-    }
+    "name": "Secrétaire général adjoint"
   },
   "responsibilities": [
     "Assurer l'animation et la coordination administrative du pôle constitué de plusieurs directions",

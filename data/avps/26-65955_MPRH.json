@@ -137,12 +137,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Conseiller en mobilité et carrière",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1503",
-      "name": "Conseiller en développement des carrières, en formation en entreprise, en gestion des carrières, en recrutement"
-    }
+    "name": "Conseiller en mobilité et carrière"
   },
   "responsibilities": [
     "Elaborer, mettre en œuvre et suivre des parcours professionnels :",

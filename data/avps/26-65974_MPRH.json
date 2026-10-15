@@ -144,12 +144,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Gestionnaire de parc informatique",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1801",
-      "name": "Gestionnaire du parc informatique"
-    }
+    "name": "Gestionnaire de parc informatique"
   },
   "responsibilities": [
     "1. Assurer le support informatique de proximité :",

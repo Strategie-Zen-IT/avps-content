@@ -124,12 +124,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Soigneur d'animaux",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "A1203",
-      "name": "Aide aux soins animaux"
-    }
+    "name": "Soigneur d'animaux"
   },
   "responsibilities": [
     "Soins quotidiens de la collection animale (oiseaux, reptiles, mammifères, élevages parallèles, etc.)",

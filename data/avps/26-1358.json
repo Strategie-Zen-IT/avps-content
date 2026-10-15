@@ -109,12 +109,7 @@
   "qualifications": "Être titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable socio éducatif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1302",
-      "name": "Formation professionnelle"
-    }
+    "name": "Responsable socio éducatif"
   },
   "responsibilities": [
     "Elaborer des projets d’actions éducatives et culturelles en lien avec la politique éducative de la province Sud",

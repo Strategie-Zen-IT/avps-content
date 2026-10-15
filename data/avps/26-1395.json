@@ -107,12 +107,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Commercial",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1306",
-      "name": "Assistanat commercial"
-    }
+    "name": "Commercial"
   },
   "responsibilities": [
     "Accueillir, renseigner, proposer les produits et services aux clients",

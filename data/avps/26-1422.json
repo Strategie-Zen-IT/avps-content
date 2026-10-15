@@ -97,12 +97,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Cuisinier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "G1601",
-      "name": "Personnel de cuisine"
-    }
+    "name": "Cuisinier"
   },
   "responsibilities": [
     "La production, la vérification, la distribution et le service des repas",

@@ -125,12 +125,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Gestionnaire des ressources humaines",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1503",
-      "name": "Assistanat en ressources humaines"
-    }
+    "name": "Gestionnaire des ressources humaines"
   },
   "responsibilities": [
     "Contribuer à la mise en œuvre de la politique RH du CHT",

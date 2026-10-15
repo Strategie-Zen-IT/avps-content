@@ -134,12 +134,7 @@
   "qualifications": "Diplôme d'aide-soignant ou certificat d'aptitude à la fonction d'aide-soignant, Formation AFGSU niveau 2 attendu",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Aide-soignant",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Soins d'hygiène, de confort du patient"
-    }
+    "name": "Aide-soignant"
   },
   "responsibilities": [
     "Accueil, informer et accompagner les patients ainsi que leur entourage",

@@ -116,12 +116,7 @@
   "qualifications": "Permis de conduire",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Gestionnaire comptabilité",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Comptabilité"
-    }
+    "name": "Gestionnaire comptabilité"
   },
   "responsibilities": [
     "Assurer le traitement comptable des dépenses et des recettes et de contribuer au suivi de l'exécution budgétaire",

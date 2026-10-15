@@ -130,12 +130,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Gestionnaire administratif des ressources humaines",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1503",
-      "name": "Gestionnaire administratif ressources humaines, de l'administration du personnel"
-    }
+    "name": "Gestionnaire administratif des ressources humaines"
   },
   "responsibilities": [
     "Contribuer au recrutement et à la gestion de la carrière des fonctionnaires territoriaux et communaux",

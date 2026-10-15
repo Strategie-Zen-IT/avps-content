@@ -101,12 +101,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Animateur territorial secteur tourisme",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1201",
-      "name": "Promotion du tourisme local"
-    }
+    "name": "Animateur territorial secteur tourisme"
   },
   "responsibilities": [
     "Contribuer à la mise en œuvre des orientations stratégiques du service du tourisme à travers la réalisation d’actions opérationnelles ciblées et prioritaires",

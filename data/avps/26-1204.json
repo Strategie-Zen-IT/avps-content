@@ -124,12 +124,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Gestionnaire de patrimoine",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1306",
-      "name": "Direction et ingénierie en entretien, maintenance, gestion de patrimoine et travaux neufs"
-    }
+    "name": "Gestionnaire de patrimoine"
   },
   "responsibilities": [
     "Tenir à jour l'inventaire du patrimoine immobilier et mobilier du réseau Tanéo (arrêts, véhicules, infrastructures et équipements)",

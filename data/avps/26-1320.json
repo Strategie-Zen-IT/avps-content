@@ -101,12 +101,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "surveillant / animateur scolaire",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1206",
-      "name": "Animation de loisirs auprès d'enfants ou d'adolescents"
-    }
+    "name": "surveillant / animateur scolaire"
   },
   "responsibilities": [
     "Accueil, prise en charge des enfants",

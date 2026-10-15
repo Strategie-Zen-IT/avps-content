@@ -107,12 +107,7 @@
   "qualifications": "Permis B exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Secrétaire Général Adjoint",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Conception et pilotage de la politique des pouvoirs publics"
-    }
+    "name": "Secrétaire Général Adjoint"
   },
   "responsibilities": [
     "Marchés publics : lancement des appels d'offres, organisation des travaux de la commission d'appel d'offres, élaboration des marchés, suivi de l'exécution des marchés",

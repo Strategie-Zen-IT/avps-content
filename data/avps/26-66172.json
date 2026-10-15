@@ -134,12 +134,7 @@
   "qualifications": "Titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Directeur artistique",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2102",
-      "name": "Directeur artistique musique"
-    }
+    "name": "Directeur artistique"
   },
   "responsibilities": [
     "Placé sous l'autorité du directeur de la culture de la condition féminine et de la citoyenneté de la Nouvelle-Calédonie, le directeur artistique est chargé de :",

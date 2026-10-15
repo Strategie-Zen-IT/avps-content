@@ -152,12 +152,7 @@
   "qualifications": "Diplôme de médecine",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecin inspecteur",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Médecin (Inspecteur de Santé Publique -MISP-, inspecteur de la santé, conseil)"
-    }
+    "name": "Médecin inspecteur"
   },
   "responsibilities": [
     "Le conseiller médical prévention, promotion de la santé  est en charge de missions nécessitant une bonne polyvalence technique car il est amené à intervenir sur des thèmes :",

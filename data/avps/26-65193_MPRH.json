@@ -130,12 +130,7 @@
   "qualifications": "Doctorat en médecine",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecin conseil",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Médecin (Inspecteur de Santé Publique -MISP-, inspecteur de la santé, conseil)"
-    }
+    "name": "Médecin conseil"
   },
   "responsibilities": [
     "Le médecin de santé publique est en charge des missions nécessitant une bonne polyvalence technique car il est amené à intervenir sur des thèmes de :",

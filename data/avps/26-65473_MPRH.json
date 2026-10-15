@@ -126,12 +126,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Responsable administratif, administratif de gestion, administratif et financier"
-    }
+    "name": "Responsable administratif"
   },
   "responsibilities": [
     "Seconder le secrétaire général du gouvernement dans l'exercice de ses missions et le suppléer en cas d'absence ou d'empêchement",

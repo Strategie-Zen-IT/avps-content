@@ -124,12 +124,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chirurgien-Dentiste",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Médecine dentaire"
-    }
+    "name": "Chirurgien-Dentiste"
   },
   "responsibilities": [
     "Effectuer les actes du champ professionnel du praticien dentaire en veillant à répondre à la mission de santé publique du poste",

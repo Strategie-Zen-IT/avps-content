@@ -107,12 +107,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Secrétaire général de mairie",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Mise en œuvre et pilotage de la politique des pouvoirs publics"
-    }
+    "name": "Secrétaire général de mairie"
   },
   "responsibilities": [
     "Conseille le Maire et les conseillers dans leurs décisions",

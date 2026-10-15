@@ -103,12 +103,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Coordonnateur de l’exploitation commerciale",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1306",
-      "name": "Management de département commercial"
-    }
+    "name": "Coordonnateur de l’exploitation commerciale"
   },
   "responsibilities": [
     "Prévoir et anticiper : analyser l'activité passée (évènements intervenus, volumétrie, d'activités, chiffre d'affaires, ressources utilisées, saisonnalité, stock, valeurs...) et en tirer des prévisions quant à la mobilisation des moyens nécessaires et leur calendrier de mise en œuvre (travaux, congés des collaborateurs, pic d'activité...) de manière à assurer la continuité de service",

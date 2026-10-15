@@ -112,12 +112,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Enseignant du 2nd degré",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2107",
-      "name": "Enseignement général du second degré"
-    }
+    "name": "Enseignant du 2nd degré"
   },
   "responsibilities": [
     "Assurer des enseignements classiques de la licence Informatique de niveau L1 au niveau L3",

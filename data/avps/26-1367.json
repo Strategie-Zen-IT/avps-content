@@ -145,12 +145,7 @@
   "qualifications": "Diplôme d'État d'infirmier / infirmier en soins généraux, Formation AFGSU niveau 2 à jour",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmier en pratique avancée",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Coordination de services médicaux ou paramédicaux"
-    }
+    "name": "Infirmier en pratique avancée"
   },
   "responsibilities": [
     "Réaliser des consultations rapprochées, régulières et prolongées dans le cadre des protocoles d'organisation validés avec les médecins",

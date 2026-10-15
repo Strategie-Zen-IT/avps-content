@@ -111,12 +111,7 @@
   "qualifications": "Titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé d’accueil à mi-temps",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Accueil et renseignement"
-    }
+    "name": "Chargé d’accueil à mi-temps"
   },
   "responsibilities": [
     "Accueillir, informer et orienter le public",

@@ -125,12 +125,7 @@
   "qualifications": "Permis B exigé du fait de l'externalisation de l'archivage",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Assistant(e) médico-administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Secrétariat médical"
-    }
+    "name": "Assistant(e) médico-administratif"
   },
   "responsibilities": [
     "Gérer les demandes de dossiers en lien avec un séjour du patient : sortir les dossiers physiquement et informatiquement. Les numériser",

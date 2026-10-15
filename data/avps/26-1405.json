@@ -125,12 +125,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Contrôleur de gestion",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2102",
-      "name": "Contrôle de gestion"
-    }
+    "name": "Contrôleur de gestion"
   },
   "responsibilities": [
     "Élaborer et suivre les budgets de personnel (EPRD, PGFP)",

@@ -115,12 +115,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé d'accueil polyvalent",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Accueil et orientation"
-    }
+    "name": "Chargé d'accueil polyvalent"
   },
   "responsibilities": [
     "L'accueil physique et téléphonique du public et renseignement de premier niveau des administrés",

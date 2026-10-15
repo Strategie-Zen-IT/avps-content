@@ -106,12 +106,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Gestionnaire des ressources humaines",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1503",
-      "name": "Assistance en ressources humaines"
-    }
+    "name": "Gestionnaire des ressources humaines"
   },
   "responsibilities": [
     "La constitution et la gestion du fichier personnel",

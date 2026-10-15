@@ -116,12 +116,7 @@
   "qualifications": "Diplômes exigés : chef de colonne. Diplômes souhaités : FDF3 ou FDF4.",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chef du service des centres de secours",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2501",
-      "name": "Direction de la sécurité civile et des secours"
-    }
+    "name": "Chef du service des centres de secours"
   },
   "responsibilities": [
     "Assister et conseiller le directeur des services d'incendie et de secours",

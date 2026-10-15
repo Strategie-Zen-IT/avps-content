@@ -107,12 +107,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Direction administrative et financière"
-    }
+    "name": "Responsable administratif"
   },
   "responsibilities": [
     "Encadrer, animer, organiser l'activité du Service des Moyens Généraux et assurer la gestion des agents placés sous son autorité (répartition des tâches, congés, entretiens annuels et continuité du service)",

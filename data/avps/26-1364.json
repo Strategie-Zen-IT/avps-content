@@ -101,12 +101,7 @@
   "qualifications": "Habilitation électrique souhaité",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Ouvrier polyvalent",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1205",
-      "name": "Maintenance des bâtiments et locaux"
-    }
+    "name": "Ouvrier polyvalent"
   },
   "responsibilities": [
     "Le suivi de la maintenance préventive et corrective des bâtiments et installations",

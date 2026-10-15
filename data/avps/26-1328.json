@@ -134,12 +134,7 @@
   "qualifications": "Diplôme d'Etat Sage-femme",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Sage-femme",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Suivi de la grossesse et accompagnement de la parentalité"
-    }
+    "name": "Sage-femme"
   },
   "responsibilities": [
     "Diagnostiquer, pratiquer le suivi de la grossesse, dépister et surveiller les grossesses à risques",

@@ -113,12 +113,7 @@
   "qualifications": "Titulaire du permis B, Compétences judiciaires (APJA), Agrément et assermentation délivrés par le procureur de la République, Agrément délivré par le Haut-commissaire, Casier judiciaire vierge",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Policier municipal",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2501",
-      "name": "Police municipale"
-    }
+    "name": "Policier municipal"
   },
   "responsibilities": [
     "Surveillance et prévention des désordres et incivilités sur la voie publique et le parc de Dumbéa",

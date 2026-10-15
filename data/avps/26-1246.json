@@ -103,12 +103,7 @@
   "qualifications": "Titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé des aides",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Instruction des mesures d'aide sociale"
-    }
+    "name": "Chargé des aides"
   },
   "responsibilities": [
     "Accueillir et informer des étudiants (front et back-office)",

@@ -140,12 +140,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Orthophoniste",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Orthophonie"
-    }
+    "name": "Orthophoniste"
   },
   "responsibilities": [
     "Exerce principalement ses actions sur Ouvéa",

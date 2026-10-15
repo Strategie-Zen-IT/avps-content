@@ -134,12 +134,7 @@
   "qualifications": "Diplôme d'encadrement exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable socio éducatif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1302",
-      "name": "Management de structure sociale ou socio-éducative"
-    }
+    "name": "Responsable socio éducatif"
   },
   "responsibilities": [
     "Assurer le bon fonctionnement des missions assurées au sein des différents bureaux composant le service",

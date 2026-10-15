@@ -102,12 +102,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Gestionnaire administratif des ressources humaines",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1503",
-      "name": "Assistanat en ressources humaines"
-    }
+    "name": "Gestionnaire administratif des ressources humaines"
   },
   "responsibilities": [
     "gérer et de suivre administrativement les personnels rattachés à la DERES : saisie sur le logiciel HR ACCESS et sur Educasud, gestion des absences, suivi des dossiers avec incidence solde, contrôle et suivi des éléments de carrières, nominations et les avancements",

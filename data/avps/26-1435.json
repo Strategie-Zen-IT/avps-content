@@ -116,12 +116,7 @@
   "qualifications": "Diplôme d'État d'Infirmier",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Soins infirmiers généraux"
-    }
+    "name": "Infirmier"
   },
   "responsibilities": [
     "Dispenser des soins de nature préventive, curative ou palliative, visant à promouvoir, maintenir et restaurer la santé",

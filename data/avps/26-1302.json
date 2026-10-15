@@ -103,12 +103,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé d’études juridiques",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1901",
-      "name": "Collaboration juridique"
-    }
+    "name": "Chargé d’études juridiques"
   },
   "responsibilities": [
     "Contribuer à la conformité des directions de l’OPT-NC en matière de protection des données personnelles (recenser les traitements de données réalisés, participer à la tenue et à la mise à jour du registre des activités de traitement, vérifier la conformité des traitements, contribuer à l’élaboration et à l’actualisation de la documentation RGPD)",

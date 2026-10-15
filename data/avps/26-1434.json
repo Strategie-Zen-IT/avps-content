@@ -108,12 +108,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Secrétaire général adjoint chargé du développement et de l'épanouissement de la personne",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2107",
-      "name": "Conception et pilotage de la politique des pouvoirs publics"
-    }
+    "name": "Secrétaire général adjoint chargé du développement et de l'épanouissement de la personne"
   },
   "responsibilities": [
     "Animation et coordination administrative du pôle constitué de plusieurs directions sectorielles",

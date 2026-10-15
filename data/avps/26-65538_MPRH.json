@@ -137,12 +137,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé de projets",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1302",
-      "name": "Informaticien analyste, chargé d'études, Informaticien d'application, de développement"
-    }
+    "name": "Chargé de projets"
   },
   "responsibilities": [
     "Sous l'autorité du chef de service, le(a) chargé(e) de projets a pour activités principales :",

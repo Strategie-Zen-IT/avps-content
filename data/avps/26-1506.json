@@ -129,12 +129,7 @@
   "qualifications": "Titulaire du brevet de télépilote drone serait un avantage. Titulaire du permis (maîtrise de la conduite de véhicule tout terrain souhaitée).",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable de la sécurité des systèmes d'information",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1801",
-      "name": "Expertise et support en systèmes d'information"
-    }
+    "name": "Responsable de la sécurité des systèmes d'information"
   },
   "responsibilities": [
     "Animer, piloter techniquement et opérationnellement tout projet relatif à la donnée numérique et géographique",

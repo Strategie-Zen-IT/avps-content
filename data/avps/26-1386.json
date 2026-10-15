@@ -103,12 +103,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable qualité",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2102",
-      "name": "Conseil et maîtrise d'ouvrage en systèmes d'information"
-    }
+    "name": "Responsable qualité"
   },
   "responsibilities": [
     "Veiller à la cohérence globale des méthodes, normes, référentiels et outils permettant une gestion de qualité du Système d'Information de l'OPT-NC",

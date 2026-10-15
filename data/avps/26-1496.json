@@ -122,12 +122,7 @@
   "qualifications": "Être titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Travailleur social",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1302",
-      "name": "Action sociale"
-    }
+    "name": "Travailleur social"
   },
   "responsibilities": [
     "Participer à la mise en œuvre des orientations provinciales en matière médico-sociale",

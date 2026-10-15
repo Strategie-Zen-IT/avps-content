@@ -132,12 +132,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Agent de distribution",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2503",
-      "name": "Employé au courrier"
-    }
+    "name": "Agent de distribution"
   },
   "responsibilities": [
     "1° Coordination, suivi et pilotage de l'activité du bureau: lien avec les directions, gestion des hotlines et de l'accompagnement des directions (CICA/circuit du courrier) et des usagers (demandes de subvention)",

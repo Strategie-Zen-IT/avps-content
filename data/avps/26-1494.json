@@ -103,12 +103,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Psychomotricien",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Psychomotricité"
-    }
+    "name": "Psychomotricien"
   },
   "responsibilities": [
     "Le dépistage en psychomotricité",

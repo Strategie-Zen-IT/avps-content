@@ -125,12 +125,7 @@
   "qualifications": "Capacité à conduire un entretien structuré tout en s'adaptant à l'interlocuteur",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Technicien rural",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "A1203",
-      "name": "Technicien (du génie rural, du génie sanitaire et environnement, en agriculture biologique, en alimentation animale)"
-    }
+    "name": "Technicien rural"
   },
   "responsibilities": [
     "Préparer et réaliser des visites terrain auprès des agriculteurs (prise de rendez-vous, collecte des données selon les protocoles d'enquête)",

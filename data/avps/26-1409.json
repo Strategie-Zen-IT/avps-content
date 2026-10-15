@@ -136,12 +136,7 @@
   "qualifications": "Diplome d Etat d infirmier / infirmiere en soins generaux",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmier en soins generaux",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Infirmier / Infirmière en soins généraux"
-    }
+    "name": "Infirmier en soins generaux"
   },
   "responsibilities": [
     "Accueillir, informer et preparer les patient(e)s et leurs proches lors des consultations et hospitalisations",

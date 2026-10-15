@@ -124,12 +124,7 @@
   "qualifications": "Permis de conduire de catégorie B depuis plus de 2 ans",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "psychomotricien",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Professionnels de la rééducation en psychomotricité"
-    }
+    "name": "psychomotricien"
   },
   "responsibilities": [
     "Réaliser des soins et des activités de rééducation et de stimulation sensorielle auprès de patients âgés présentant des troubles neuromoteurs et psychomoteurs pour un mieux-être psychocorporel, et qui concourent à la prévention, au dépistage, au diagnostic, au traitement",

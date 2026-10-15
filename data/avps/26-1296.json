@@ -115,12 +115,7 @@
   "qualifications": "Permis de conduire B exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Conseiller à l'emploi et à l'insertion",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2110",
-      "name": "Conseil en emploi et insertion professionnelle"
-    }
+    "name": "Conseiller à l'emploi et à l'insertion"
   },
   "responsibilities": [
     "Renseigner, conseiller et orienter le public (accueil physique et numérique)",

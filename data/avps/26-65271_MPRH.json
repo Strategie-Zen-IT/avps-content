@@ -129,12 +129,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Assistant administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Agent administratif"
-    }
+    "name": "Assistant administratif"
   },
   "responsibilities": [
     "Assistance secrétariat des unités de contrôle : accueil, réception et traitement des appels téléphoniques, travaux de bureautique",

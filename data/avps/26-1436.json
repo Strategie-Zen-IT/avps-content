@@ -115,12 +115,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chef de service",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2501",
-      "name": "Mise en oeuvre et pilotage de la politique des pouvoirs publics"
-    }
+    "name": "Chef de service"
   },
   "responsibilities": [
     "Supervision de l'enregistrement des textes déposés sur le bureau du congrès",

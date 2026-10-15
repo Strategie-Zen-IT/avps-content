@@ -153,12 +153,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chef du service de l'économie numérique, des filières d'avenir et de l'attractivité",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1201",
-      "name": "Ingénieur système informatique, système réseau informatique"
-    }
+    "name": "Chef du service de l'économie numérique, des filières d'avenir et de l'attractivité"
   },
   "responsibilities": [
     "Sous l'autorité directe du directeur adjoint en charge du pôle entreprises et attractivité, le chef du service de l'économie numérique, des filières d'avenir et de l'attractivité:",

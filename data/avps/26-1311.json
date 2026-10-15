@@ -110,12 +110,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "B (Major à Lieutenant) - A (Capitaine)",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1702",
-      "name": "Direction de la sécurité civile et des secours"
-    }
+    "name": "B (Major à Lieutenant) - A (Capitaine)"
   },
   "responsibilities": [
     "Via une mutualisation des moyens humains et matériels répartie sur les centres de LA FOA et de BOULOUPARIS, en concertation avec la direction du SIVM SUD, il assiste et conseille les autorités de police administrative compétentes, assure le suivi de son service, participe à la préparation et à la gestion des crises et garantit la finalité opérationnelle, en relation avec les services compétents",

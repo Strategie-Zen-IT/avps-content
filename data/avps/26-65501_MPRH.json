@@ -133,12 +133,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Statisticien",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2102",
-      "name": "Statisticien, Ingénieur statisticien"
-    }
+    "name": "Statisticien"
   },
   "responsibilities": [
     "Participer aux travaux de modélisation macroéconomique et budgétaire : utilisation et amélioration du modèle de prévision développé en interne, organisation de l'enquête de conjoncture, rédaction des notes de conjoncture locale et internationale, préparation du débat d'orientation budgétaire et rédaction du rapport.",

@@ -158,12 +158,7 @@
   "qualifications": "Formation Bac+3 à Bac+5 en informatique / systèmes d'information, ou expérience équivalente",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chef de projet maîtrise d'œuvre",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1801",
-      "name": "Chef de projet (étude et développement informatique, maîtrise d'œuvre informatique)"
-    }
+    "name": "Chef de projet maîtrise d'œuvre"
   },
   "responsibilities": [
     "Organiser des plannings et de la couverture horaire des équipes hotline/assistance",

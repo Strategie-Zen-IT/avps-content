@@ -118,12 +118,7 @@
   "qualifications": "Titulaire du baccalauréat, BAFA et du BPJEPS, Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Adjoint(e) d’éducation",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2107",
-      "name": "Éducation et surveillance au sein d'établissements d'enseignement"
-    }
+    "name": "Adjoint(e) d’éducation"
   },
   "responsibilities": [
     "Organisation, animation de la vie scolaire et surveillance éducative dans les internats",

@@ -108,12 +108,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable formation",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1503",
-      "name": "Formation professionnelle"
-    }
+    "name": "Responsable formation"
   },
   "responsibilities": [
     "Assurer le pilotage opérationnel et stratégique du pôle financé par les partenaires publics",

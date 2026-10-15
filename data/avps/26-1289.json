@@ -111,12 +111,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Conducteur d'opérations",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1205",
-      "name": "Ingénierie et études du BTP"
-    }
+    "name": "Conducteur d'opérations"
   },
   "responsibilities": [
     "Représenter ou assister le maître d'ouvrage sur le plan technique, administratif et financier lors des phases de programmation, conception et réalisation de projets neufs ou de restructuration lourde du patrimoine de la collectivité",

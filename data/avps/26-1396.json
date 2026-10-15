@@ -108,12 +108,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé d’affaires",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1306",
-      "name": "Relation commerciale grands comptes"
-    }
+    "name": "Chargé d’affaires"
   },
   "responsibilities": [
     "Garantir une relation de proximité avec les clients en portefeuille (B to B)",

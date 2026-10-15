@@ -120,12 +120,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable socio éducatif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1302",
-      "name": "Action sociale"
-    }
+    "name": "Responsable socio éducatif"
   },
   "responsibilities": [
     "Garantir un lien de proximité avec les 4 agents du BAF Nord, travailleurs sociaux basés à la Foa et à Bourail",

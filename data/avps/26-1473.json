@@ -115,12 +115,7 @@
   "qualifications": "Diplôme d'Etat d'infirmier",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "infirmier diplômé d’Etat ou infirmier en soins généraux",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Infirmier / Infirmière en soins généraux"
-    }
+    "name": "infirmier diplômé d’Etat ou infirmier en soins généraux"
   },
   "responsibilities": [
     "Prendre en charge les urgences, les soins aigües et chroniques",

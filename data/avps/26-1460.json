@@ -106,12 +106,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "chargé d’actions",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1103",
-      "name": "Développement local"
-    }
+    "name": "chargé d’actions"
   },
   "responsibilities": [
     "Proposer et mettre en œuvre les orientations stratégiques de la collectivité en matière de promotion des droits des femmes et de l’égalité hommes-femmes",

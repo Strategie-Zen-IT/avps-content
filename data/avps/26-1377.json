@@ -112,12 +112,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Gestionnaire comptable",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Comptabilité"
-    }
+    "name": "Gestionnaire comptable"
   },
   "responsibilities": [
     "Appliquer le plan de surveillance permanente des comptes internes (comptes généraux et comptes OPT) : justification périodique des comptes",

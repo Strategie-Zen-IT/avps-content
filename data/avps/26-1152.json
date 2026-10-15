@@ -127,12 +127,7 @@
   "qualifications": "Diplôme de Cadre de santé ou d'infirmier diplômé d'Etat",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Coordination de services médicaux ou paramédicaux"
-    }
+    "name": "Infirmier"
   },
   "responsibilities": [
     "Gérer la programmation hebdomadaire et journalière des activités de soins",

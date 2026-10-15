@@ -107,12 +107,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chef d'établissement",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2107",
-      "name": "Direction de petite ou moyenne entreprise"
-    }
+    "name": "Chef d'établissement"
   },
   "responsibilities": [
     "Contrôler et adapter les moyens disponibles en agence, garantir la qualité de service ainsi que le respect des guides et pratiques par les agents, assurer les activités relatives à la position d'agent comptable secondaire, produire le reporting d'activités et en tirer les recommandations éventuelles",

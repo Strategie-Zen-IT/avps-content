@@ -101,12 +101,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable financier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Direction administrative et financière"
-    }
+    "name": "Responsable financier"
   },
   "responsibilities": [
     "Assurer le pilotage opérationnel de l’exécution budgétaire et comptable de la collectivité",

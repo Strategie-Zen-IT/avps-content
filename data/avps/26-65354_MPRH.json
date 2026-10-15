@@ -129,12 +129,7 @@
   "qualifications": "Titulaire du permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Educateur jeunesse et sport",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1206",
-      "name": "Educateur sportif, d'activités physiques-sportives, handisport"
-    }
+    "name": "Educateur jeunesse et sport"
   },
   "responsibilities": [
     "En lien avec les services concernés, l'agent met en œuvre le programme des pratiques sportives au sein des foyers et services de la DPJEJ :",

@@ -128,12 +128,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Développement des ressources humaines"
-    }
+    "name": "Responsable administratif"
   },
   "responsibilities": [
     "Développer des politiques RH innovantes : concevoir et piloter des actions en matière de prévention, de santé et de conditions de travail en intégrant des approches innovantes qui répondent aux besoins des agents tout en favorisant leur bien-être et leur engagement",

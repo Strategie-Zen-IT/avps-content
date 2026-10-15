@@ -120,12 +120,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Éducateur sanitaire",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Intervention socioéducative"
-    }
+    "name": "Éducateur sanitaire"
   },
   "responsibilities": [
     "L'éducation à la santé : interventions scolaires auprès des élèves et des parents dans les écoles primaires et dans les structures médico-sociales afin d'intensifier la prévention et la réduction des risques de santé publique",

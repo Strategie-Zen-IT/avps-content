@@ -117,12 +117,7 @@
   "qualifications": "Titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Animateur territorial secteur industrie et commerce",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1201",
-      "name": "Développement local"
-    }
+    "name": "Animateur territorial secteur industrie et commerce"
   },
   "responsibilities": [
     "Accueillir, informer et conseiller les porteurs de projets d’investissements dans les secteurs de l’industrie, du commerce, des services, de l’artisanat et du tourisme",

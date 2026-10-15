@@ -139,12 +139,7 @@
   "qualifications": "Diplôme d'Etat d'Auxiliaire en puériculture, Attestation de formation aux gestes et soins d'urgence de niveau 2",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Auxiliaire de puériculture",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Aide en puériculture"
-    }
+    "name": "Auxiliaire de puériculture"
   },
   "responsibilities": [
     "Réalisation des soins d'hygiène, de sécurité, de confort et de bien-être au nouveau-né et à sa mère, dans son champ de compétence",

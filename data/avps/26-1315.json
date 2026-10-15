@@ -113,12 +113,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable de projet",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1205",
-      "name": "Conseil et maîtrise d'ouvrage en systèmes d'information"
-    }
+    "name": "Responsable de projet"
   },
   "responsibilities": [
     "Animer la gouvernance opérationnelle des données et coordonner les acteurs concernés (métiers, DSI, directions)",

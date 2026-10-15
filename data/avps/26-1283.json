@@ -99,12 +99,7 @@
   "qualifications": "Port des équipements de protection individuelle, Respect des règles de discipline et des consignes opérationnelles",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chef de centre",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2501",
-      "name": "Direction de la sécurité civile et des secours"
-    }
+    "name": "Chef de centre"
   },
   "responsibilities": [
     "Assurer le commandement, l'organisation et le fonctionnement du Centre de Première Intervention",

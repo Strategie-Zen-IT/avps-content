@@ -102,12 +102,7 @@
   "qualifications": "Permis B exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Agent de gardiennage et de surveillance - veilleur de nuit",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2503",
-      "name": "Sécurité et surveillance privées"
-    }
+    "name": "Agent de gardiennage et de surveillance - veilleur de nuit"
   },
   "responsibilities": [
     "La surveillance des zones définies (prévention des intrusions, dégradations et vols)",

@@ -119,12 +119,7 @@
   "qualifications": "Titulaire du permis de conduire B et d'un véhicule",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecin généraliste",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2104",
-      "name": "Médecine de prévention"
-    }
+    "name": "Médecin généraliste"
   },
   "responsibilities": [
     "Assurer la médecine curative et préventive",

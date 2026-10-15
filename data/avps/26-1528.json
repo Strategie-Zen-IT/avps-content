@@ -123,12 +123,7 @@
   "qualifications": "Permis B exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "1 chef du service des animations et des actions communales",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1103",
-      "name": "Promotion du tourisme local"
-    }
+    "name": "1 chef du service des animations et des actions communales"
   },
   "responsibilities": [
     "Participer à la définition, à la formalisation et à la mise en œuvre des orientations et de la politique communale dans les domaines de la culture, du sport, de l'éducation, du social et de l'animation locale",

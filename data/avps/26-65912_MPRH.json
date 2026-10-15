@@ -147,12 +147,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Responsable administratif, administratif de gestion, administratif et financier"
-    }
+    "name": "Responsable administratif"
   },
   "responsibilities": [
     "L'agent assistera le chef du service des sports et sera notamment chargé de définir les actions relatives aux leviers opérationnels du plan stratégique concerté en faveur du sport en Nouvelle-Calédonie, et d'en évaluer le déploiement.",

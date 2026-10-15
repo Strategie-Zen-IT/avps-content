@@ -129,12 +129,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé de l'assiette des impôts, droits et taxes",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1204",
-      "name": "Agent d'assiette des impôts, Agent de constatation ou d'assiette des impôts"
-    }
+    "name": "Chargé de l'assiette des impôts, droits et taxes"
   },
   "responsibilities": [
     "Traiter les demandes de remboursement de crédit de TGC : vérification et demande d'information par rapport à la demande, rédaction des décisions y afférentes",

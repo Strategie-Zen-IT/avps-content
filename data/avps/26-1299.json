@@ -127,12 +127,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chef de service",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2501",
-      "name": "Direction et ingénierie en entretien de l'espace public"
-    }
+    "name": "Chef de service"
   },
   "responsibilities": [
     "Définir et mettre en œuvre le schéma directeur de la voirie",

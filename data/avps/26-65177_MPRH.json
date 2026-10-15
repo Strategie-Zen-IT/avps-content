@@ -148,12 +148,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé d'études industrielles et minières",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1304",
-      "name": "Chargé d'études projets industriels"
-    }
+    "name": "Chargé d'études industrielles et minières"
   },
   "responsibilities": [
     "Management des agents du service des mines et des carrières",

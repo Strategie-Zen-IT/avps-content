@@ -118,12 +118,7 @@
   "qualifications": "Diplôme d'État d'Infirmier ou infirmier en soins généraux",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "infirmier diplômé d’Etat ou infirmier en soins généraux",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Infirmier / Infirmière en soins généraux"
-    }
+    "name": "infirmier diplômé d’Etat ou infirmier en soins généraux"
   },
   "responsibilities": [
     "Conduire un entretien d'accueil du patient et/ou de son entourage : établir un recueil d'informations relatif à la personne accueillie",

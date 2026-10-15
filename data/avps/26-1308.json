@@ -112,12 +112,7 @@
   "qualifications": "Détenir les UV de chef d’agrès tous engins et les unités de valeurs sous-officier de garde",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "chef de garde",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2501",
-      "name": "Sécurité civile et secours"
-    }
+    "name": "chef de garde"
   },
   "responsibilities": [
     "Gérer les moyens humains, matériels et techniques du centre de secours pour maintenir le potentiel opérationnel de l’équipe de garde",

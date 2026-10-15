@@ -100,12 +100,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Gestionnaire RH chargé des carrières et de la rémunération",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1503",
-      "name": "Assistance en ressources humaines"
-    }
+    "name": "Gestionnaire RH chargé des carrières et de la rémunération"
   },
   "responsibilities": [
     "Assurer le suivi administratif et financier des situations individuelles (fonctionnaires, contractuels et médecins) : recrutements, titularisations, changements de position statutaire, avancements d'échelon et de grade, promotions internes, temps partiel, modification de quotité de travail",

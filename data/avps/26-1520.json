@@ -122,12 +122,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Secrétaire comptable",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Secrétariat comptable"
-    }
+    "name": "Secrétaire comptable"
   },
   "responsibilities": [
     "Gérer la comptabilité et le budget de la cellule",

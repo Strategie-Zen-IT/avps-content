@@ -136,12 +136,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Gestionnaire comptable",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Gestionnaire comptable, Technicien comptable"
-    }
+    "name": "Gestionnaire comptable"
   },
   "responsibilities": [
     "Réceptionner, traiter, vérifier et classer des pièces comptables :",

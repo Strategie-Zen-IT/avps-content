@@ -138,12 +138,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable financier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Responsable financier"
-    }
+    "name": "Responsable financier"
   },
   "responsibilities": [
     "Sous l'autorité du directeur de la DBAF et de son adjointe, le chef du service encadre une équipe composée de 8 agents et est principalement chargé de :",

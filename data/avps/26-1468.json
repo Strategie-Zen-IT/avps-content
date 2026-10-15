@@ -137,12 +137,7 @@
   "qualifications": "Permis B obligatoire",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Aide-soignant",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Soins d'hygiène, de confort du patient"
-    }
+    "name": "Aide-soignant"
   },
   "responsibilities": [
     "Réaliser les soins d'hygiène et de confort à la personne",

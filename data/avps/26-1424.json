@@ -101,12 +101,7 @@
   "qualifications": "Permis de conduire B, BAFA, BPJEPS",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Adjoint d'éducation",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2107",
-      "name": "Éducation et surveillance au sein d'établissements d'enseignement"
-    }
+    "name": "Adjoint d'éducation"
   },
   "responsibilities": [
     "Le suivi administratif de la vie scolaire : gestion des absences, contrôle des effectifs, des autorisations de sortie, de l'assiduité",

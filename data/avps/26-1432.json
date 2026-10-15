@@ -124,12 +124,7 @@
   "qualifications": "Diplôme d'État d'Infirmier, AFGSU 2",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Infirmier / Infirmière en soins généraux"
-    }
+    "name": "Infirmier"
   },
   "responsibilities": [
     "Dispenser des soins de nature préventive, curative ou palliative, visant à promouvoir, maintenir et restaurer la santé",

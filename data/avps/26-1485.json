@@ -112,12 +112,7 @@
   "qualifications": "Permis de conduire exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecin",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Médecine de prévention"
-    }
+    "name": "Médecin"
   },
   "responsibilities": [
     "Assurer le suivi médico-social des enfants relevant de l'enseignement du premier degré public et privé et sur les élèves de 6e",

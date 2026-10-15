@@ -105,12 +105,7 @@
   "qualifications": "Licence en sciences de l'éducation ou DEJEPS",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Coordinateur des actions éducatives des internats",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2107",
-      "name": "Coordination de projet social ou éducatif"
-    }
+    "name": "Coordinateur des actions éducatives des internats"
   },
   "responsibilities": [
     "Piloter et coordonner les actions éducatives menées dans les internats, en lien avec les projets d'établissement et les orientations de la DEFIJ, en étant force de proposition pour le développement de projets éducatifs adaptés aux besoins des internes",

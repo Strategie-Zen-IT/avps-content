@@ -124,12 +124,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "GESTIONNAIRE DU BACK OFFICE BANCAIRE",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1306",
-      "name": "Opérations de back-office bancaire"
-    }
+    "name": "GESTIONNAIRE DU BACK OFFICE BANCAIRE"
   },
   "responsibilities": [
     "Traiter et contrôler, dans les délais et avec traçabilité, les réclamations clients, tout en analysant leurs causes récurrentes et en proposant des actions correctives",

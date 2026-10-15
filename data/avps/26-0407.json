@@ -120,12 +120,7 @@
   "qualifications": "Être titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé d'études",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1901",
-      "name": "Direction administrative et financière"
-    }
+    "name": "Chargé d'études"
   },
   "responsibilities": [
     "La participation à la préparation du débat d'orientation budgétaire (DOB) à présenter à l'assemblée de province",

@@ -110,12 +110,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Référent de secteur",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1201",
-      "name": "Développement local"
-    }
+    "name": "Référent de secteur"
   },
   "responsibilities": [
     "Observer, échanger et identifier les problématiques des territoires",

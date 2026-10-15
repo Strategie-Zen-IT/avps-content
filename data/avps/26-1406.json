@@ -141,12 +141,7 @@
   "qualifications": "Diplôme de préparateur en pharmacie hospitalière",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Préparateur en pharmacie hospitalière",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Préparation en pharmacie"
-    }
+    "name": "Préparateur en pharmacie hospitalière"
   },
   "responsibilities": [
     "Délivrance de médicaments et de dispositifs médicaux",

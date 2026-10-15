@@ -117,12 +117,7 @@
   "qualifications": "Permis de conduire B indispensable",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Éducateur spécialisé",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1302",
-      "name": "Intervention socioéducative"
-    }
+    "name": "Éducateur spécialisé"
   },
   "responsibilities": [
     "Participer à la prise en charge de l'ensemble des mineurs accueillis au foyer",

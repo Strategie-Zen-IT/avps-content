@@ -126,12 +126,7 @@
   "qualifications": "Diplôme d'Etat d'Infirmier(ère) puéricultrice",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmière puéricultrice",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Soins infirmiers spécialisés en puériculture"
-    }
+    "name": "Infirmière puéricultrice"
   },
   "responsibilities": [
     "Assurer l'accueil, l'évaluation clinique et la prise en charge globale des enfants hospitalisés, de la naissance à l'adolescence",

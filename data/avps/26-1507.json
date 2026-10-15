@@ -128,12 +128,7 @@
   "qualifications": "Titulaire du brevet de télépilote drone serait un avantage. Permis B.",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Géomaticien",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1801",
-      "name": "Information géographique"
-    }
+    "name": "Géomaticien"
   },
   "responsibilities": [
     "Concevoir et mettre en place les développements informatiques permettant l'export des données du STF vers les outils communs de la direction et de la collectivité",

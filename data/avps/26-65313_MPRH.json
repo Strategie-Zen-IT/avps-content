@@ -133,12 +133,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Responsable administratif, administratif de gestion, administratif et financier"
-    }
+    "name": "Responsable administratif"
   },
   "responsibilities": [
     "Sous l'autorité du chef du service, l'adjoint(e) encadre une équipe composée de 7 agents et est principalement chargé(e) d'assister et suppléer le chef de service dans les activités suivantes :",

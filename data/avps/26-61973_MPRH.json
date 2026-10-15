@@ -153,12 +153,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé d'études en santé environnementale",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1703",
-      "name": "Ingénieur Hygiène, Sécurité et Environnement en industrie -HSE-"
-    }
+    "name": "Chargé d'études en santé environnementale"
   },
   "responsibilities": [
     "Le/la chargé(e) d'études est chargé(e) de :",

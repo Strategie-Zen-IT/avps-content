@@ -136,12 +136,7 @@
   "qualifications": "CAFIPEMF (Certificat d'aptitude aux fonctions d'instituteur ou de professeur des écoles maître formateur)",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Conseiller pédagogique",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2107",
-      "name": "Coordinateur (de formateurs, de stages de formation professionnelle, pédagogique, de dispositif de formation)"
-    }
+    "name": "Conseiller pédagogique"
   },
   "responsibilities": [
     "Former les enseignants dans leurs pratiques professionnelles quotidiennes, en accompagnant en priorité les nouveaux nommés",

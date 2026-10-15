@@ -42,11 +42,6 @@
     {{- end }}
   {{- end }}
   {{- if $ouverte }}
-    {{- /* `codeemploirome` vaut « N0000 » / « Hors rome » sur 77 % des AVP actifs : le
-           moteur ne remplit `code_rome` que s'il ressemble à un vrai code. On recopie
-           donc tel quel, en chaîne vide quand il manque. */ -}}
-    {{- $rome := "" }}
-    {{- with .Params.code_rome }}{{ $rome = string . }}{{ end }}
     {{- /* Date de publication. `.Params.date` est une date Hugo, pas une chaîne :
            la formater explicitement évite un ISO 8601 complet là où l'application
            attend une date nue — une offre paraît un jour, pas à un instant. */ -}}
@@ -99,7 +94,6 @@
         "province"     (index (.Params.provinces | default slice) 0 | default "")
         "corps"        (.Params.corps_grade | default "")
         "metier"       (.Params.metier_ref_nom | default "")
-        "rome"         $rome
         "publiee"      $publiee
         "modifiee"     $modifiee
         "cloture"      (.Params.date_cloture | default "")

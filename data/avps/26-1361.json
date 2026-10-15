@@ -97,12 +97,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Ouvrier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1205",
-      "name": "Nettoyage de locaux"
-    }
+    "name": "Ouvrier"
   },
   "responsibilities": [
     "Nettoyage des surfaces, des locaux et des abords des bâtiments de l’établissement conformément à la réglementation d’hygiène et de sécurité",

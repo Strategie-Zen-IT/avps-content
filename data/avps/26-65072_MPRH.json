@@ -159,12 +159,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Technicien d'études de bâtiment",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1205",
-      "name": "Technicien des méthodes BTP, d'études BTP, en acoustique BTP, études de prix BTP"
-    }
+    "name": "Technicien d'études de bâtiment"
   },
   "responsibilities": [
     "Sous la responsabilité du chef de bureau, le technicien en bâtiment a pour activités principales d'assurer l'entretien du patrimoine bâti et non bâti, en location ou en propriété.",

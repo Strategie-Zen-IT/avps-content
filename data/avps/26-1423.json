@@ -116,12 +116,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Psychologue",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Psychologie"
-    }
+    "name": "Psychologue"
   },
   "responsibilities": [
     "Placé sous l'autorité administrative du directeur de la DEFIJ et sous l'autorité pédagogique de l'inspecteur de l'enseignement primaire de la 4ème circonscription, le psychologue scolaire contribue, en lien avec le SEAE, à la prévention des difficultés scolaires et à l'accompagnement des équipes éducatives et pédagogiques, de la maternelle au secondaire, spécifiquement et exclusivement en internat",

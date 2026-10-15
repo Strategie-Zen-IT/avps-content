@@ -114,12 +114,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé de mission développement économique",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1304",
-      "name": "Développement local"
-    }
+    "name": "Chargé de mission développement économique"
   },
   "responsibilities": [
     "Participer à la définition et à la mise en œuvre de la stratégie de développement économique et d’attractivité de la commune, en cohérence avec les orientations municipales",

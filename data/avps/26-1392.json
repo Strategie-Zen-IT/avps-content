@@ -107,12 +107,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé d’exploitation courrier colis",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1306",
-      "name": "Exploitation des opérations postales et de télécommunications"
-    }
+    "name": "Chargé d’exploitation courrier colis"
   },
   "responsibilities": [
     "Réceptionner et traiter les flux d'envois postaux : LCAO (ordinaires et recommandés), EMS, Colis conformément aux processus et aux procédures de production définis dans le respect des directives et des objectifs fixés en termes d'intégrité, de qualité et de délai",

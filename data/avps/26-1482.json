@@ -116,12 +116,7 @@
   "qualifications": "Titulaire du permis B et d'un véhicule",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecin généraliste",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2104",
-      "name": "Médecine de prévention"
-    }
+    "name": "Médecin généraliste"
   },
   "responsibilities": [
     "Assurer les remplacements des médecins dans les centres médico-sociaux de la province Sud, en particulier ceux situés en brousse et qui assurent les urgences médicales 24h/24 (Thio, Yaté, Bourail, Ile des Pins et La Foa)",

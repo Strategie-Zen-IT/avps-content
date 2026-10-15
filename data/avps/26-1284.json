@@ -129,12 +129,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "conseiller juridique",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1901",
-      "name": "Défense et conseil juridique"
-    }
+    "name": "conseiller juridique"
   },
   "responsibilities": [
     "Assister le secrétariat général dans la constitution de dossiers ou la réalisation d’études",

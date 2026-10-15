@@ -124,12 +124,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecin conseil",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Médecin (Inspecteur de Santé Publique -MISP-, inspecteur de la santé, conseil)"
-    }
+    "name": "Médecin conseil"
   },
   "responsibilities": [
     "1. Appui au pilotage et stratégie de Santé",

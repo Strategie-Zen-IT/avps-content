@@ -109,12 +109,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Juriste",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1901",
-      "name": "Défense et conseil juridique"
-    }
+    "name": "Juriste"
   },
   "responsibilities": [
     "Aider à la prise de décision des services et des élus en leur apportant un conseil en matière juridique dans une approche préventive",

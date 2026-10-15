@@ -102,12 +102,7 @@
   "qualifications": "BNSSA (recyclage à jour), Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Nageur sauveteur",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "A1203",
-      "name": "Surveillance de baignade"
-    }
+    "name": "Nageur sauveteur"
   },
   "responsibilities": [
     "Intervenir rapidement et efficacement lorsqu'un usager est en difficulté dans l'eau ou sur terre",

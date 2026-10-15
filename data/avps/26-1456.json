@@ -106,12 +106,7 @@
   "qualifications": "Permis B exigé, Casier judiciaire vierge",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Garde champêtre",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2501",
-      "name": "Direction de la sécurité publique"
-    }
+    "name": "Garde champêtre"
   },
   "responsibilities": [
     "Réalise sur le terrain, sur le périmètre des quatre communes du Grand Nouméa, les interventions entrant dans les prérogatives des gardes champêtres en matière de maintien du bon ordre, de la tranquillité et de la salubrité publique",

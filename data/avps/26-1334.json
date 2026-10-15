@@ -148,12 +148,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Ingénieur en données de santé et recherche",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Études et développement informatique"
-    }
+    "name": "Ingénieur en données de santé et recherche"
   },
   "responsibilities": [
     "Concevoir, administrer et faire évoluer un entrepôt de données médicales cliniques distinct des systèmes de production de soins et des entrepôts financiers",

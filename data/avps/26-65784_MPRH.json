@@ -135,12 +135,7 @@
   "qualifications": "Permis B.",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Responsable administratif, administratif de gestion, administratif et financier"
-    }
+    "name": "Responsable administratif"
   },
   "responsibilities": [
     "Responsable de l'animation et de la coordination d'une équipe, ses activités consistent à :",

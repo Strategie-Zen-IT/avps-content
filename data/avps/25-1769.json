@@ -124,12 +124,7 @@
   "qualifications": "Maîtrise de la pratique pédiatrique et du domaine de la gynécologie obstétricale",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecin",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Médecine de prévention"
-    }
+    "name": "Médecin"
   },
   "responsibilities": [
     "Assurer la vaccination des enfants de 0 à 6 ans dans le cadre de la médecine préventive et curative",

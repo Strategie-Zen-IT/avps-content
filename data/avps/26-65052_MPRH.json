@@ -150,12 +150,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Contrôleur financier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Contrôleur financier"
-    }
+    "name": "Contrôleur financier"
   },
   "responsibilities": [
     "Assurer un rôle de conseil auprès des directeurs et des équipes des établissements publics dans la gestion administrative, juridique et financière des dossiers",

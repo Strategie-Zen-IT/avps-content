@@ -134,12 +134,7 @@
   "qualifications": "Permis B exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Conseiller pédagogique",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2107",
-      "name": "Coordinateur (de formateurs, de stages de formation professionnelle, pédagogique, de dispositif de formation)"
-    }
+    "name": "Conseiller pédagogique"
   },
   "responsibilities": [
     "Participer à l'élaboration du Plan de Formation à N-1, en assure sa mise en œuvre, son suivi, son évaluation en lien avec les partenaires (instituts de formation et directions provinciales)  et coordonne les stages de formation continue (présentiel ou FOAD)",

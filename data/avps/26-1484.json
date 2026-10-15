@@ -107,12 +107,7 @@
   "qualifications": "Titulaire du permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecin itinérant",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2104",
-      "name": "Médecine de prévention"
-    }
+    "name": "Médecin itinérant"
   },
   "responsibilities": [
     "assurer les remplacements des médecins dans les CMS de la province Sud, en particulier ceux situés en brousse et qui assurent les urgences médicales 24h/24 (La Foa, Bourail, Thio, Yaté, Île des Pins)",

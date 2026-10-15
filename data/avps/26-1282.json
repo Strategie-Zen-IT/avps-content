@@ -111,12 +111,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Gestionnaire comptable",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Comptabilité"
-    }
+    "name": "Gestionnaire comptable"
   },
   "responsibilities": [
     "Réceptionner, vérifier, enregistrer et classer les pièces comptables",

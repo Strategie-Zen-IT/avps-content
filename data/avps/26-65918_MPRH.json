@@ -149,12 +149,7 @@
   "qualifications": "Permis de conduire B, Diplôme d'État d'éducateur spécialisé et/ou attestation de validation de la formation d'éducateur de la protection judiciaire de la jeunesse",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Educateur spécialisé",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1302",
-      "name": "Educateur (de la protection judiciaire de la jeunesse, en milieu ouvert, socioéducatif)"
-    }
+    "name": "Educateur spécialisé"
   },
   "responsibilities": [
     "Mission spécifique ou contextuelle :",

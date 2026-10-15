@@ -111,12 +111,7 @@
   "qualifications": "Permis B exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Diététicien",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Diététique"
-    }
+    "name": "Diététicien"
   },
   "responsibilities": [
     "La prise en charge diététique des patients diabétiques dans le cadre d'une prise en charge multidisciplinaire",

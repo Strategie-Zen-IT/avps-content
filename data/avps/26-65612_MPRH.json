@@ -133,12 +133,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Inspecteur des affaires sanitaires et sociales",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Inspecteur (de la formation professionnelle, de l'action sanitaire et sociale, du travail des transports)"
-    }
+    "name": "Inspecteur des affaires sanitaires et sociales"
   },
   "responsibilities": [
     "L'inspecteur est chargé des missions suivantes :",

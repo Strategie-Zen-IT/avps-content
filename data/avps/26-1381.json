@@ -99,12 +99,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé de contact clientèle",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1403",
-      "name": "Accueil et services bancaires"
-    }
+    "name": "Chargé de contact clientèle"
   },
   "responsibilities": [
     "Commercialiser les produits et services de l'OPT-NC, apporter du conseil, contribuer au meilleur accueil et à la satisfaction des clients",

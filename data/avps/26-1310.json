@@ -122,12 +122,7 @@
   "qualifications": "Permis de conduire à jour, Permis poids lourd et titulaire UV COD1 fortement appréciés",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "chef d’équipe",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2501",
-      "name": "Sécurité civile et secours"
-    }
+    "name": "chef d’équipe"
   },
   "responsibilities": [
     "Commander une équipe pour réaliser les missions qui lui sont fixées dans le cadre d'opérations de la protection des personnes, des biens et de l'environnement",

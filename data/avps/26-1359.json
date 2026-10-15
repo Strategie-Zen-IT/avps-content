@@ -125,12 +125,7 @@
   "qualifications": "Être titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Coordination de services médicaux ou paramédicaux"
-    }
+    "name": "Infirmier"
   },
   "responsibilities": [
     "Prise en charge et suivi des patients atteints de pathologies chroniques selon le domaine d'intervention défini et sous la coordination du médecin",

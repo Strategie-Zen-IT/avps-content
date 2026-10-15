@@ -132,12 +132,7 @@
   "qualifications": "Titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Orthophoniste",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Orthophonie"
-    }
+    "name": "Orthophoniste"
   },
   "responsibilities": [
     "Réaliser des bilans orthophoniques et rédiger les rapports qui en découlent",

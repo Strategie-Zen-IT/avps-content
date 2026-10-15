@@ -140,12 +140,7 @@
   "qualifications": "Titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmier(ère) en soins généraux",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Soins infirmiers généralistes"
-    }
+    "name": "Infirmier(ère) en soins généraux"
   },
   "responsibilities": [
     "Accueillir le patient, y compris dans le cadre de l'urgence",

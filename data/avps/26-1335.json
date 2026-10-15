@@ -133,12 +133,7 @@
   "qualifications": "Diplôme d'État d'Infirmier, Formation aux soins d'urgence (AFGSU)",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmier en soins généraux",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Soins infirmiers généraux"
-    }
+    "name": "Infirmier en soins généraux"
   },
   "responsibilities": [
     "Recueil des données cliniques du nouveau-né, des besoins et des attentes des parents et de leur entourage",

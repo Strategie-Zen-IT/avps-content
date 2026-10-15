@@ -140,12 +140,7 @@
   "qualifications": "Diplôme d'aide-soignant(e) ou certificat d'aptitude à la fonction d'aide-soignant(e)",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Aide-soignant",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Soins d'hygiène, de confort du patient"
-    }
+    "name": "Aide-soignant"
   },
   "responsibilities": [
     "Accueil, informer et accompagner les patients ainsi que leur entourage",

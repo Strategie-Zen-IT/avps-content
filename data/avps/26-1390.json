@@ -114,12 +114,7 @@
   "qualifications": "Permis B, A2 + obligation d'utiliser un véhicule de service + aptitude à la conduite d'un deux roues (scooter) obligatoire.",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé de la distribution postale",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1306",
-      "name": "Distribution de documents"
-    }
+    "name": "Chargé de la distribution postale"
   },
   "responsibilities": [
     "Collecter le courrier en provenance du CTP ou d'autres points de dépôt désignés",

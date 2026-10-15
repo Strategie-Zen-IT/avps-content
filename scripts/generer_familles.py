@@ -179,12 +179,8 @@ SORTIES = (
         "# Grand thème de chaque famille : sept univers de métiers qui portent les camaïeux.\n",
         lambda fam, rome, pal: pal.get(fam, (THEME_DEFAUT,))[0],
     ),
-    (
-        "data/familles_rome.yml",
-        "# Code ROME de rattachement de chaque famille. Trois codes sont partagés par deux\n"
-        "# familles (K1201, K1402, K2501) : c'est normal, la famille est la clé, pas le ROME.\n",
-        lambda fam, rome, pal: rome,
-    ),
+    # `data/familles_rome.yml` était produit ici. Retiré le 01/10/2026 avec le reste du
+    # code ROME : plus aucun gabarit ne le lisait.
 )
 
 

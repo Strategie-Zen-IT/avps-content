@@ -138,12 +138,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chef mécanicien",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1602",
-      "name": "Chef mécanicien marine"
-    }
+    "name": "Chef mécanicien"
   },
   "responsibilities": [
     "Assurer le bon fonctionnement et la supervision des moteurs principaux, des groupes électrogènes, des systèmes hydrauliques du navire baliseur",

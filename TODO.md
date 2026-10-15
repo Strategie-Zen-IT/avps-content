@@ -111,6 +111,18 @@ la mise en ligne.
       s'affichent bien sur deux lignes distinctes, le badge de famille porte son code
       ROME, la bannière charge depuis le bucket public, le JSON-LD annonce la
       **collectivité** comme `hiringOrganization` (et pas le site).
+- [x] ~~⚠️ **Le code ROME du badge de famille est faux pour 24 familles sur 41**~~ : il vient
+      de `data/familles_rome.yml`, généré depuis `famille-code-rome.csv` du moteur, dont
+      les codes ne correspondent pas au référentiel officiel de France Travail (constaté
+      le 30/09/2026 ; ex. Postes et télécommunications → `I1306`, qui est le code des
+      frigoristes). Le correctif est côté moteur, détaillé dans `avps-engine/TODO.md`
+      § 5.
+
+      **RÉSOLU LE 01/10/2026 : le code ROME a été RETIRÉ du site, pas corrigé.** Le badge
+      de famille ne porte plus de code. `data/familles_rome.yml` est supprimé et
+      `scripts/generer_familles.py` ne le produit plus. Ton propre constat le disait
+      déjà : « un code par famille n'a plus de sens ». Les familles, leurs couleurs et
+      leurs thèmes sont intacts.
 - [ ] **Vérifier le flux ATS** : `<company>` doit porter la collectivité de chaque offre.
       Un flux qui annoncerait « avps.nc » comme entreprise recruteuse enverrait les
       candidats au mauvais endroit.

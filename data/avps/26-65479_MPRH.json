@@ -141,12 +141,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Directeur",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2102",
-      "name": "Directeur des services déconcentrés de l'Administration"
-    }
+    "name": "Directeur"
   },
   "responsibilities": [
     "Contribuer à la gestion des services de la direction",

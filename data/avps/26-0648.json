@@ -126,12 +126,7 @@
   "qualifications": "Titulaire du permis B (indispensable)",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Travailleur social",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1302",
-      "name": "Intervention socio-éducative"
-    }
+    "name": "Travailleur social"
   },
   "responsibilities": [
     "Assurer le suivi des enfants confiés à l'aide sociale à l'enfance dans le cadre du placement au sein de la MDEB dans leurs différents aspects (scolarité, soins) pour garantir leur santé physique et morale, leur épanouissement, leur développement affectif, intellectuel",

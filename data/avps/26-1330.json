@@ -143,12 +143,7 @@
   "qualifications": "Titulaire du diplôme d'état d'infirmier(ère) puéricultrice, Formation AFGSU niveau 2 à jour",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmier(e) puéricultrice",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Soins infirmiers spécialisés en puériculture"
-    }
+    "name": "Infirmier(e) puéricultrice"
   },
   "responsibilities": [
     "Recueil des données cliniques du nouveau-né, des besoins et des attentes des parents et de leur entourage",

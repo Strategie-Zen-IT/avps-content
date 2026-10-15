@@ -127,12 +127,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé d'études juridiques",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1901",
-      "name": "Directeur ou expert juridique"
-    }
+    "name": "Chargé d'études juridiques"
   },
   "responsibilities": [
     "Sous l'autorité de la cheffe de service d'études, de législation et du contentieux et de son adjointe, le chargé d'études juridiques est chargé des missions suivantes :",

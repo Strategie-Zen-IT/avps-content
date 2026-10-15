@@ -141,12 +141,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Conseiller jeunesse et sports",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1206",
-      "name": "Conseiller sportif"
-    }
+    "name": "Conseiller jeunesse et sports"
   },
   "responsibilities": [
     "Améliorer les modalités de gouvernance du sport",

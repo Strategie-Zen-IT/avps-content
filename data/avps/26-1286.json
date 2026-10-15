@@ -123,12 +123,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Gestionnaire de Paie, des Carrières et de l'Emploi",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1503",
-      "name": "Administration des ressources humaines"
-    }
+    "name": "Gestionnaire de Paie, des Carrières et de l'Emploi"
   },
   "responsibilities": [
     "La gestion du recrutement",

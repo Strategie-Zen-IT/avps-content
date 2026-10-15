@@ -21,8 +21,6 @@
       {{- if and (eq (len $d) 10) (lt $d $aujourdhui) }}{{ $ouverte = false }}{{ end }}
     {{- end }}
   {{- end }}
-  {{- $rome := "" }}
-  {{- with .Params.code_rome }}{{ $rome = . }}{{ end }}
   {{- $offres = $offres | append (dict
       "ref"          (.Params.ref | default "")
       "titre"        .Title
@@ -35,7 +33,6 @@
       "cloture"      (.Params.date_cloture | default "")
       "dispo"        (.Params.disponibilite | default "")
       "metier"       (.Params.metier_ref_nom | default "")
-      "rome"         $rome
       "resume"       (.Params.summary | default "")
       "logo"         (partial "avp-logo.html" .)
       "ouverte"      $ouverte

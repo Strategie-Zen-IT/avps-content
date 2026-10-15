@@ -106,12 +106,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Directeur de l'Accompagnement, de l'Animation et de la Culture",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1103",
-      "name": "Conception et pilotage de la politique des pouvoirs publics"
-    }
+    "name": "Directeur de l'Accompagnement, de l'Animation et de la Culture"
   },
   "responsibilities": [
     "Manager, animer et coordonner les agents et organiser le fonctionnement des services et équipements de la DAAC",

@@ -98,12 +98,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Auditeur interne",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2107",
-      "name": "Audit et contrôle de gestion"
-    }
+    "name": "Auditeur interne"
   },
   "responsibilities": [
     "Collaborer au projet de mise en conformité",

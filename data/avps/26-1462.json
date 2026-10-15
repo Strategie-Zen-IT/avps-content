@@ -109,12 +109,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "gestionnaire comptable",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Comptabilité"
-    }
+    "name": "gestionnaire comptable"
   },
   "responsibilities": [
     "Assurer le traitement comptable et le contrôle de l'exécution des dépenses et des recettes de la direction",

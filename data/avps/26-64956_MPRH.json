@@ -144,12 +144,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Statisticien",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2102",
-      "name": "Statisticien, Ingénieur statisticien"
-    }
+    "name": "Statisticien"
   },
   "responsibilities": [
     "Concevoir et faire évoluer l'architecture fonctionnelle et technique du système d'information décisionnel servant aux travaux statistiques et prospectifs de la direction",

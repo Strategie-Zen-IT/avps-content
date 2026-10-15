@@ -129,12 +129,7 @@
   "qualifications": "Permis VL, PL et cariste",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "MAGASINIER",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1103",
-      "name": "Magasinage et préparation de commandes"
-    }
+    "name": "MAGASINIER"
   },
   "responsibilities": [
     "Réceptionner et vérifier le matériel livré au CENTAL",

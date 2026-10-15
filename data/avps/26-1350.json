@@ -122,12 +122,7 @@
   "qualifications": "Agrégation ou CAPET en Economie-Gestion",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Enseignant du 2nd degré",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2107",
-      "name": "Enseignement général du second degré"
-    }
+    "name": "Enseignant du 2nd degré"
   },
   "responsibilities": [
     "Assurer un enseignement de 384 h éq. TD au sein du département GEA en BUT dans les spécialités de comptabilité, finance, contrôle de gestion, informatique de gestion, outils mathématiques de gestion, fiscalité, management, portfolio, projet personnel et professionnel",

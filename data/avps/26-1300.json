@@ -108,12 +108,7 @@
   "qualifications": "Permis B exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chef de service anti-délinquance des mineurs",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1304",
-      "name": "Management de la sécurité publique"
-    }
+    "name": "Chef de service anti-délinquance des mineurs"
   },
   "responsibilities": [
     "Encadrer, animer et coordonner l'équipe en charge de la lutte contre la délinquance des mineurs",

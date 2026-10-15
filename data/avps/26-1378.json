@@ -112,12 +112,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "GESTIONNAIRE DU BACK OFFICE BANCAIRE",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1306",
-      "name": "Analyse de risques et conformité"
-    }
+    "name": "GESTIONNAIRE DU BACK OFFICE BANCAIRE"
   },
   "responsibilities": [
     "Contrôler la mise à jour du KYC tout au long de la vie des comptes en assurant la relation avec les clients concernés",

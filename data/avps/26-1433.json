@@ -128,12 +128,7 @@
   "qualifications": "Diplôme de sage-femme, inscription à l'ordre national des sages-femmes, assurance professionnelle",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "sage-femme",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Suivi de la grossesse et accompagnement à la parentalité"
-    }
+    "name": "sage-femme"
   },
   "responsibilities": [
     "Accompagner la femme ou le couple avant, pendant et après la naissance",

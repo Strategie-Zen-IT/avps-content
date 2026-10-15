@@ -105,12 +105,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "attaché d’administration",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Conception et pilotage de l'action publique"
-    }
+    "name": "attaché d’administration"
   },
   "responsibilities": [
     "Mise en œuvre de la politique provinciale en faveur du développement humain dans le secteur de la condition féminine",

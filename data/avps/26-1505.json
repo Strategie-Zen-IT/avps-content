@@ -116,12 +116,7 @@
   "qualifications": "Titulaire du permis B et véhicule indispensable",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Infirmier / Infirmière en soins généraux"
-    }
+    "name": "Infirmier"
   },
   "responsibilities": [
     "réaliser des soins (biométrie, infections, prélèvements, pansements et stérilisation) sur rôle propre infirmier et sur prescriptions médicales",

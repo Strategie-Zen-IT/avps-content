@@ -128,9 +128,6 @@
   <h2 id="le-poste">Le poste</h2>
   <dl class="avp-detail">
     <div><dt>Référence de l'avis</dt><dd><code>{{ $p.Params.ref }}</code></dd></div>
-    {{- with $p.Params.code_rome }}
-    <div><dt>Code ROME</dt><dd><code>{{ . }}</code>{{ with $p.Params.libelle_rome }} — {{ . }}{{ end }}</dd></div>
-    {{- end }}
     {{- with $p.Params.metier_ref_nom }}
     <div>
       <dt>Métier de référence</dt>

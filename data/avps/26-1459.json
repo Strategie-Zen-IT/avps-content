@@ -115,12 +115,7 @@
   "qualifications": "Permis de conduire souhaité",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Conception et pilotage de la politique des pouvoirs publics"
-    }
+    "name": "Responsable"
   },
   "responsibilities": [
     "Diriger et assurer le bon fonctionnement de l'établissement public communal",

@@ -131,12 +131,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé de l'assiette des impôts, droits et taxes",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1204",
-      "name": "Agent d'assiette des impôts, Agent de constatation ou d'assiette des impôts"
-    }
+    "name": "Chargé de l'assiette des impôts, droits et taxes"
   },
   "responsibilities": [
     "Gérer les dossiers : création et mise à jour des dossiers des entrepreneurs individuels relevant du réel et/ou du forfait, des gérants de sociétés et des sociétés soumises à l'impôt sur le revenu ; suivi des déclarations et mise en recouvrement des impositions (TGC, IR, CCS, patente, licence, etc.)",

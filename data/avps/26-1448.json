@@ -131,12 +131,7 @@
   "qualifications": "Titulaire du permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chirurgien-dentiste",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Chirurgie dentaire"
-    }
+    "name": "Chirurgien-dentiste"
   },
   "responsibilities": [
     "Animer des séances de prévention bucco-dentaire et d'hygiène alimentaire auprès des groupes scolaires et associatifs",

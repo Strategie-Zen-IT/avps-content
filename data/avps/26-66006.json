@@ -136,12 +136,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Contrôleur technique des véhicules",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1201",
-      "name": "Contrôleur technique automobile"
-    }
+    "name": "Contrôleur technique des véhicules"
   },
   "responsibilities": [
     "Assurer le bon fonctionnement et la supervision des moteurs principaux, des groupes électrogènes, des systèmes hydrauliques du navire baliseur",

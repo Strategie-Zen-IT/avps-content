@@ -108,12 +108,7 @@
   "qualifications": "Titulaire du permis VL",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Directeur(trice)",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2102",
-      "name": "Conception et pilotage de la politique des pouvoirs publics"
-    }
+    "name": "Directeur(trice)"
   },
   "responsibilities": [
     "Participer à la définition du projet municipal dans le secteur d’intervention de la direction (culture, sports, et prévention)",

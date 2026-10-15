@@ -113,12 +113,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Gestionnaire administratif - profil éducation",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2107",
-      "name": "Médiation sociale et facilitation de la vie citoyenne"
-    }
+    "name": "Gestionnaire administratif - profil éducation"
   },
   "responsibilities": [
     "Traiter et assurer un suivi des demandes de sorties scolaires",

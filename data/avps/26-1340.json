@@ -125,12 +125,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "responsable financier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Direction administrative et financière"
-    }
+    "name": "responsable financier"
   },
   "responsibilities": [
     "Piloter et coordonner l'ensemble des activités financières et administratives de l'établissement (préparation, exécution et suivi du budget, comptabilité M52, contrôle de gestion, suivi des procédures administratives, contrôle interne et conformité)",

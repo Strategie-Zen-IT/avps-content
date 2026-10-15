@@ -114,12 +114,7 @@
   "qualifications": "Permis B exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Animateur jeunesse",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1206",
-      "name": "Intervention socioculturelle"
-    }
+    "name": "Animateur jeunesse"
   },
   "responsibilities": [
     "Mettre en place un projet socio-éducatif dédié à la jeunesse avec l'ensemble des acteurs Jeunesse",

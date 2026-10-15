@@ -111,12 +111,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chef de section administrative et comptable",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Direction administrative et financière"
-    }
+    "name": "Chef de section administrative et comptable"
   },
   "responsibilities": [
     "Encadrer l'activité de la section composée d’un assistant administratif et comptable (catégorie C)",

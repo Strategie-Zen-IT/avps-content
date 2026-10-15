@@ -124,12 +124,7 @@
   "qualifications": "Diplôme d'Etat d'infirmier",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "infirmier diplômé d’Etat ou infirmier en soins généraux",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Soins infirmiers généralistes"
-    }
+    "name": "infirmier diplômé d’Etat ou infirmier en soins généraux"
   },
   "responsibilities": [
     "Accueillir l'enfant et sa famille, contribuer à l'évaluation clinique pluridisciplinaire de son fonctionnement psychique, relationnel, comportemental, développemental et scolaire, repérer ses ressources, ses besoins et les situations de vulnérabilité ou de crise, et favoriser l'instauration d'une alliance thérapeutique",

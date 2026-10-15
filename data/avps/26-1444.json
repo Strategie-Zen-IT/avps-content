@@ -109,12 +109,7 @@
   "qualifications": "Permis B obligatoire",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Directeur",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2102",
-      "name": "Mise en œuvre et pilotage de la politique des pouvoirs publics"
-    }
+    "name": "Directeur"
   },
   "responsibilities": [
     "Encadrer et coordonner les différents responsables des services (Dock municipal, Dessalement, CIS)",

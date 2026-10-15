@@ -150,12 +150,7 @@
   "qualifications": "Doctorat en médecine",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecin conseil",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Médecin (Inspecteur de Santé Publique -MISP-, inspecteur de la santé, conseil)"
-    }
+    "name": "Médecin conseil"
   },
   "responsibilities": [
     "Le conseiller technique médical est en charge de missions nécessitant une bonne polyvalence technique car il est amené à intervenir sur des thèmes très divers relevant de différents métiers, en tant que pilote ou contributeur :",

@@ -142,12 +142,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Responsable administratif, administratif de gestion, administratif et financier"
-    }
+    "name": "Responsable administratif"
   },
   "responsibilities": [
     "Le chef de service a en charge la mise en œuvre de la politique en matière de protection sociale. A ce titre, il propose des mesures dont il instruit et évalue la faisabilité et la pertinence, contribue à l'élaboration des textes juridiques et veille à leurs conditions de mise en œuvre et leurs effets.",

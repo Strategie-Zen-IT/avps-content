@@ -123,12 +123,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "chef d'agrès",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2501",
-      "name": "Sécurité civile et secours"
-    }
+    "name": "chef d'agrès"
   },
   "responsibilities": [
     "Commander un véhicule d'intervention comprenant un équipage et un équipement matériel de secours dans le cadre de la protection des personnes, des biens et de l'environnement",

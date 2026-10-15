@@ -132,12 +132,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Directeur",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2102",
-      "name": "Management des ressources humaines"
-    }
+    "name": "Directeur"
   },
   "responsibilities": [
     "Participer, aux côtés du directeur des ressources humaines, à la définition et à la mise en œuvre de la politique de gestion des ressources humaines de l'Institution",

@@ -14,7 +14,7 @@
 {{- /* Valeurs distinctes de chaque axe, pour alimenter les menus déroulants. */ -}}
 {{- $familles := slice }}{{ $collectivites := slice }}{{ $communes := slice }}
 {{- $provinces := slice }}{{ $corps := slice }}{{ $dispos := slice }}
-{{- $metiers := slice }}{{ $romes := slice }}{{ $libellesRome := dict }}
+{{- $metiers := slice }}
 {{- range $offres }}
   {{- range .Params.familles }}{{ $familles = $familles | append . }}{{ end }}
   {{- with .Params.collectivite }}{{ $collectivites = $collectivites | append . }}{{ end }}
@@ -23,12 +23,6 @@
   {{- with .Params.corps_grade }}{{ if ne . "Non spécifié" }}{{ $corps = $corps | append . }}{{ end }}{{ end }}
   {{- with .Params.disponibilite }}{{ if ne . "Non spécifié" }}{{ $dispos = $dispos | append . }}{{ end }}{{ end }}
   {{- with .Params.metier_ref_nom }}{{ $metiers = $metiers | append . }}{{ end }}
-  {{- with .Params.code_rome }}{{ $romes = $romes | append . }}{{ end }}
-  {{- /* Un code ROME seul ne parle qu'aux RH : on garde son libellé pour l'affichage,
-         tout en continuant à filtrer sur le code, qui est la clé stable. */ -}}
-  {{- if and .Params.code_rome .Params.libelle_rome }}
-    {{- $libellesRome = merge $libellesRome (dict .Params.code_rome .Params.libelle_rome) }}
-  {{- end }}
 {{- end }}
 
 {{- $axes := slice
@@ -39,7 +33,6 @@
     (dict "cle" "corps"        "libelle" "Corps ou grade"     "valeurs" (sort (uniq $corps)))
     (dict "cle" "dispo"        "libelle" "Poste à pourvoir"   "valeurs" (sort (uniq $dispos)))
     (dict "cle" "metier"       "libelle" "Métier de référence" "valeurs" (sort (uniq $metiers)))
-    (dict "cle" "rome"         "libelle" "Métier ROME"        "valeurs" (sort (uniq $romes)) "libelles" $libellesRome)
 }}
 
 <div class="avp-toutes" data-total="{{ len $offres }}">
@@ -68,12 +61,11 @@
         <span>{{ .libelle }}</span>
         <select data-filtre="{{ .cle }}">
           <option value="">Toutes</option>
-          {{- $libelles := .libelles | default dict }}
+          {{- /* Le mécanisme de libellé distinct de la valeur ne servait qu'au code
+                 ROME, retiré le 01/10/2026 : tous les axes restants affichent la valeur
+                 elle-même, qui est déjà lisible. */ -}}
           {{- range $valeur := .valeurs }}
-            {{- $lib := index $libelles $valeur }}
-            {{- /* Un code ROME seul ne parle qu'aux RH : on affiche son libellé, tout en
-                   continuant à filtrer sur le code, qui est la clé stable. */ -}}
-            <option value="{{ $valeur }}">{{ with $lib }}{{ $valeur }} — {{ . }}{{ else }}{{ $valeur }}{{ end }}</option>
+            <option value="{{ $valeur }}">{{ $valeur }}</option>
           {{- end }}
         </select>
       </label>
@@ -99,7 +91,6 @@
         data-corps="{{ .Params.corps_grade }}"
         data-dispo="{{ .Params.disponibilite }}"
         data-metier="{{ .Params.metier_ref_nom }}"
-        data-rome="{{ .Params.code_rome }}"
         data-cloture="{{ .Params.date_cloture }}"
         style="--famille-couleur: {{ index $couleurs $fam | default "#6B7280" }}; --famille-couleur-claire: {{ index $claires $fam | default "#B4B9C2" }}">
       {{- partial "avp-logo-bloc.html" (dict "page" . "taille" "s") }}
@@ -153,7 +144,7 @@
         if (ok && q) {
           var foin = [
             ligne.dataset.titre, ligne.dataset.ref, ligne.dataset.collectivite,
-            ligne.dataset.commune, ligne.dataset.metier, ligne.dataset.rome
+            ligne.dataset.commune, ligne.dataset.metier
           ].join(' ').toLowerCase();
           ok = foin.indexOf(q) !== -1;
         }

@@ -115,12 +115,7 @@
   "qualifications": "Titulaire du permis de conduire B et d'un véhicule",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecin",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Médecine de prévention"
-    }
+    "name": "Médecin"
   },
   "responsibilities": [
     "Assurer la médecine curative, y compris les urgences avec des périodes d'astreintes",

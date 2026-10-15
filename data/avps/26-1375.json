@@ -100,12 +100,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Directeur",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2102",
-      "name": "Direction de grande entreprise ou d'établissement public"
-    }
+    "name": "Directeur"
   },
   "responsibilities": [
     "Être à l’écoute des élus, les seconder, les accompagner, les conseiller et se montrer, de manière constante, force de proposition pour participer de manière active aux projets et ambitions de la mandature",

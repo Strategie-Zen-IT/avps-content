@@ -136,12 +136,7 @@
   "qualifications": "Permis de conduire souhaité",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Technicien(ne) de maintenance",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1801",
-      "name": "Maintenance informatique et bureautique"
-    }
+    "name": "Technicien(ne) de maintenance"
   },
   "responsibilities": [
     "Assurer l'installation, la configuration et la maintenance des équipements informatiques (serveurs, routeurs, caméras, télécommunications, postes utilisateurs)",

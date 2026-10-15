@@ -110,12 +110,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Assistant administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Secrétariat"
-    }
+    "name": "Assistant administratif"
   },
   "responsibilities": [
     "Assurer l’accueil physique et téléphonique ainsi que la gestion administrative courante du CSNO",

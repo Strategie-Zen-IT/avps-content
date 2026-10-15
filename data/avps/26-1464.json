@@ -103,12 +103,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Assistant de direction",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Assistanat de direction"
-    }
+    "name": "Assistant de direction"
   },
   "responsibilities": [
     "Assister la direction dans la gestion administrative et organisationnelle de la DAJAP",

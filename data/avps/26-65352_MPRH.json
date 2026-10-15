@@ -148,12 +148,7 @@
   "qualifications": "Permis B indispensable",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Psychologue",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Psychologue, Psychanalyste, Psychothérapeute"
-    }
+    "name": "Psychologue"
   },
   "responsibilities": [
     "Participer aux réunions d'équipe institutionnelles, aux synthèses et bilans autour des situations des jeunes, et apporter un éclairage clinique sur ces situations",

@@ -137,12 +137,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Cadre de santé",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Cadre de santé (de service paramédical, d'unité de soins, d'unité de soins ou de service paramédical)"
-    }
+    "name": "Cadre de santé"
   },
   "responsibilities": [
     "Instruction et analyse de dossiers complexes.",

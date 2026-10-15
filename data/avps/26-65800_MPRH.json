@@ -156,12 +156,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Educateur spécialisé",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1302",
-      "name": "Educateur (de la protection judiciaire de la jeunesse, en milieu ouvert, socioéducatif)"
-    }
+    "name": "Educateur spécialisé"
   },
   "responsibilities": [
     "Suivi et accompagnement des mineurs dans le cadre judiciaire (pénal et civil) en milieu ouvert :",

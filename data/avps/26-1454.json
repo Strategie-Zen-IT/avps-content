@@ -129,12 +129,7 @@
   "qualifications": "Titulaire du permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecins",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Médecine de prévention"
-    }
+    "name": "Médecins"
   },
   "responsibilities": [
     "Mettre en œuvre les orientations provinciales en matière de santé publique",

@@ -125,12 +125,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "infirmier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Soins infirmiers généraux"
-    }
+    "name": "infirmier"
   },
   "responsibilities": [
     "Assurer les soins infirmiers sur prescription ou dans le cadre du rôle propre infirmier, en lien avec les besoins somatiques, psychologiques et sociaux des patients âgés",

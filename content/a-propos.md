@@ -38,7 +38,7 @@ automatiquement : en cas de divergence, c'est le document d'origine qui prime.
    habilitations. La source l'emporte partout où les deux se recouvrent.
 3. **Rattachement au référentiel métiers.** Chaque offre est rapprochée des 368 fiches
    d'emploi du référentiel RESPNC, ce qui détermine sa famille de métier — donc son rayon
-   dans le menu — et son code ROME.
+   dans le menu.
 4. **Illustration.** La bannière de chaque offre est générée par un modèle d'image à
    partir des missions décrites dans l'avis. Elle ne reproduit ni le logo ni la charte
    graphique de la collectivité, sauf si celle-ci le demande — voir
@@ -68,7 +68,7 @@ demander, aucune clé, aucune limite de débit.
 Le **catalogue** est le plus simple à exploiter : un seul fichier, l'intégralité des offres,
 ouvertes comme closes. Chacune y porte sa référence, son intitulé, l'adresse de sa fiche,
 sa ou ses familles de métier, la collectivité, la commune, la province, le corps ou grade,
-la date de clôture, la disponibilité du poste, le métier de référence RESPNC, le code ROME,
+la date de clôture, la disponibilité du poste, le métier de référence RESPNC,
 un résumé, et un indicateur `ouverte` qui vaut `false` dès que la date de clôture est
 passée. L'en-tête porte `genere_le`, `nombre` (les offres ouvertes) et `total`. C'est
 exactement le fichier qui alimente la page « Toutes les offres » et les compteurs du menu :
@@ -82,7 +82,7 @@ séparé, sans avoir à découper du HTML.
 
 Chaque offre porte, au-delà des champs standard : la **collectivité** qui recrute (elle
 seule est l'employeur), la **direction** de rattachement, la **famille de métier** du
-référentiel RESPNC et son **code ROME**, ainsi que le géocodage du lieu de travail.
+référentiel RESPNC, ainsi que le géocodage du lieu de travail.
 
 **Deux mises en garde.** Le PDF officiel fait seul foi : en cas de divergence, référez-vous
 au document d'origine, dont l'adresse figure sur chaque offre. Et ne réutilisez pas ce site

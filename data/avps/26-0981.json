@@ -112,12 +112,7 @@
   "qualifications": "Être titulaire du permis B et véhicule indispensable",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Soins d'infirmiers généraux"
-    }
+    "name": "Infirmier"
   },
   "responsibilities": [
     "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",

@@ -129,12 +129,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Coordinateur de la Station N",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1602",
-      "name": "Coordinateur de site logistique"
-    }
+    "name": "Coordinateur de la Station N"
   },
   "responsibilities": [
     "Placé sous l'autorité du chef du service de l'économie numérique, des filières d'avenir et de l'attractivité, le coordinateur de la station N a pour activités principales :",

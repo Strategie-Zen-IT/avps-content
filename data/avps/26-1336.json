@@ -114,12 +114,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "assistant administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Opérations administratives"
-    }
+    "name": "assistant administratif"
   },
   "responsibilities": [
     "Gérer et filtrer les appels téléphoniques ainsi que l’accueil physique des visiteurs et partenaires de la Direction",

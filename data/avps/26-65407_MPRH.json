@@ -132,12 +132,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable socio éducatif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1302",
-      "name": "Educateur chef de service socioéducatif"
-    }
+    "name": "Responsable socio éducatif"
   },
   "responsibilities": [
     "À ce titre, il est chargé de :",

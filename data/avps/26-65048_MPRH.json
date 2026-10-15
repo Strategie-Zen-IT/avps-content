@@ -136,12 +136,7 @@
   "qualifications": "Permis B exigé",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Inspecteur en sécurité sanitaire des aliments",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Inspecteur (de la formation professionnelle, de l'action sanitaire et sociale, du travail des transports)"
-    }
+    "name": "Inspecteur en sécurité sanitaire des aliments"
   },
   "responsibilities": [
     "1/ Inspection sanitaire à l'abattoir de Bourail, en alternance avec les autres agents qualifiés pour cette activité :",

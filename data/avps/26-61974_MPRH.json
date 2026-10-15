@@ -150,12 +150,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Epidémiologiste",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Epidémiologiste"
-    }
+    "name": "Epidémiologiste"
   },
   "responsibilities": [
     "Conduite et suivi des études épidémiologiques : Rédaction des protocoles d'étude, réalisation de synthèses bibliographiques et valorisation des résultats (rédaction de rapports d'étude, notes et articles scientifiques).",

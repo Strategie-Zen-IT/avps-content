@@ -102,12 +102,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "technicien support",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1602",
-      "name": "Supervision et administration de réseaux et systèmes"
-    }
+    "name": "technicien support"
   },
   "responsibilities": [
     "Superviser, surveiller et étudier les domaines dont il a la responsabilité, de bout en bout",

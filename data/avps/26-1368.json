@@ -137,12 +137,7 @@
   "qualifications": "Diplôme d'Etat de Masseur kinésithérapeute, AFGSU",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Masseur-kinésithérapeute",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Kinésithérapie"
-    }
+    "name": "Masseur-kinésithérapeute"
   },
   "responsibilities": [
     "Évaluer les patients (examen clinique, recueil des données, bilan masso-kinésithérapique) afin d'identifier leurs besoins et priorités de soins",

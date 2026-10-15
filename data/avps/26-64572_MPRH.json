@@ -143,12 +143,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé d'affaires énergie",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1304",
-      "name": "Ingénieur d'études (béton armé, BTP, constructions métalliques, de prix BTP, en génie climatique-électrique)"
-    }
+    "name": "Chargé d'affaires énergie"
   },
   "responsibilities": [
     "Dans le cadre des missions du service relatives à la régulation des acteurs de l'énergie, l'agent est en charge des actions suivantes :",

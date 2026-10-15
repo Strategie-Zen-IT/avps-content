@@ -112,12 +112,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Référent planification et coordination",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2104",
-      "name": "Ingénierie et études du BTP"
-    }
+    "name": "Référent planification et coordination"
   },
   "responsibilities": [
     "Représenter ou assister le maître d'ouvrage sur les plans technique, administratif et financier lors des phases de programmation, conception et réalisation de projets neufs ou de restructuration lourde du patrimoine de la collectivité",

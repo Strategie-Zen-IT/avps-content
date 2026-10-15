@@ -120,12 +120,7 @@
   "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmier en soins généraux",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Infirmier / Infirmière en soins généraux"
-    }
+    "name": "Infirmier en soins généraux"
   },
   "responsibilities": [
     "Dispenser des soins de nature préventive, curative ou palliative, visant à promouvoir, maintenir et restaurer la santé",

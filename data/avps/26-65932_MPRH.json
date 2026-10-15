@@ -149,12 +149,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé d'études juridiques",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1901",
-      "name": "Directeur ou expert juridique"
-    }
+    "name": "Chargé d'études juridiques"
   },
   "responsibilities": [
     "Maitriser l'expertise juridique et de conseil en matière d'élaboration des textes législatifs et réglementaires",

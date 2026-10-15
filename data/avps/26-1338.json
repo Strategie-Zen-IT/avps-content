@@ -123,12 +123,7 @@
   "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chef de section adjoint",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Direction de chantier du BTP"
-    }
+    "name": "Chef de section adjoint"
   },
   "responsibilities": [
     "Encadrer les équipes, planifier, mettre en œuvre et évaluer le programme des travaux",

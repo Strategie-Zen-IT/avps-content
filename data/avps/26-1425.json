@@ -122,12 +122,7 @@
   "qualifications": "Permis B obligatoire",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chef de projets",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1302",
-      "name": "Conseil et maîtrise d'ouvrage en systèmes d'information"
-    }
+    "name": "Chef de projets"
   },
   "responsibilities": [
     "Analyse, qualification et formalisation des besoins des directions métiers",

@@ -97,12 +97,7 @@
   "qualifications": "BEP/CAP en restauration collective",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Cuisinier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "G1601",
-      "name": "Personnel de cuisine"
-    }
+    "name": "Cuisinier"
   },
   "responsibilities": [
     "Production, vérification, distribution et service des repas",

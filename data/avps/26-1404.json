@@ -100,12 +100,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé de l’emploi, des compétences et des risques professionnels",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1503",
-      "name": "Développement des ressources humaines"
-    }
+    "name": "Chargé de l’emploi, des compétences et des risques professionnels"
   },
   "responsibilities": [
     "assure le suivi et le pilotage de l’activité de la DRH, notamment au moyen de tableaux de bord et d’indicateurs RH",

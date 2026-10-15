@@ -142,12 +142,7 @@
   "qualifications": "Diplôme d'état d'infirmier / infirmier en soins généraux, Formation AFGSU niveau 2",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmier en soins généraux",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Soins infirmiers généraux"
-    }
+    "name": "Infirmier en soins généraux"
   },
   "responsibilities": [
     "Réaliser des soins infirmiers afin de maintenir ou restaurer la santé du patient",

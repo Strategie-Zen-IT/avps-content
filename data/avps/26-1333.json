@@ -137,12 +137,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable de Département d’Information Médicale (DIM)",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Conseil et maîtrise d'ouvrage en systèmes d'information"
-    }
+    "name": "Responsable de Département d’Information Médicale (DIM)"
   },
   "responsibilities": [
     "Organiser et coordonner l’activité quotidienne des équipes du DIM",

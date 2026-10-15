@@ -116,12 +116,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Conception et pilotage de la politique des pouvoirs publics"
-    }
+    "name": "Responsable administratif"
   },
   "responsibilities": [
     "Organiser et de structurer le bureau en tenant compte de l’évolution de la politique provinciale et de ses orientations stratégiques",

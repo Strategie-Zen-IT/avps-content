@@ -132,12 +132,7 @@
   "qualifications": "Etre titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Gestionnaire comptable",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Gestionnaire comptable, Technicien comptable"
-    }
+    "name": "Gestionnaire comptable"
   },
   "responsibilities": [
     "Le contrôleur chargé(e) des recettes et des régies de la collectivité a pour activités principales :",

@@ -110,12 +110,7 @@
   "qualifications": "Permis B exigé, C D et E fortement souhaité. Formation FDF1.",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Mécanicien",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1602",
-      "name": "Mécanique d'engins de chantier, de levage et manutention et de machines agricoles"
-    }
+    "name": "Mécanicien"
   },
   "responsibilities": [
     "Mettre en œuvre les prescriptions techniques de la délibération n° 56/CP, notamment, d'assurer la complétude et le suivi du registre d'observations commun à l'ensemble du parc de véhicules et engins mis à disposition des agents les exploitant",

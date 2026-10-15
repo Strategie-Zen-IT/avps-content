@@ -117,12 +117,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "assistant·e de direction/chargé·e d’accueil",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Secrétariat de direction"
-    }
+    "name": "assistant·e de direction/chargé·e d’accueil"
   },
   "responsibilities": [
     "Assurer l'accueil du public, participer à la gestion administrative quotidienne de la collectivité et contribuer à la circulation de l'information entre le Maire, les usagers, les élus et les services",

@@ -104,12 +104,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "secrétaire-comptable",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Saisie de données"
-    }
+    "name": "secrétaire-comptable"
   },
   "responsibilities": [
     "Secrétariat des services de la direction",

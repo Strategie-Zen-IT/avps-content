@@ -137,12 +137,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé de communication",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1403",
-      "name": "Chargé de communication (externe, interne, scientifique, sociale)"
-    }
+    "name": "Chargé de communication"
   },
   "responsibilities": [
     "Intervenir dans l'ensemble des domaines de la communication",

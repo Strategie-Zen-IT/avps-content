@@ -68,10 +68,10 @@
          data/employeurs_partenaires.yml — donc rien par défaut. */}}
     {{- partial "avp-employeur-encart.html" . }}
 
-{{/* Badge de la famille de métier, avec son code ROME.
+{{/* Badge de la famille de métier.
           Le référentiel RESPNC n'a pas de page par famille — seulement un PDF par
           fiche d'emploi, déjà lié depuis chaque offre. D'où un badge informatif et non
-          un lien. */}}
+          un lien. Le code ROME qui l'accompagnait a été retiré le 01/10/2026. */}}
     {{- $term := or (and .Data .Data.Term) .Title }}
 
     {{/* Page d'un THÈME : badge à sa couleur et liste de ses familles (celles présentes
@@ -102,7 +102,7 @@
     <p style="margin-bottom: 2.5rem;">
       <span style="display: inline-flex; align-items: center; gap: 8px; padding: 0.6rem 1rem; background-color: {{ . }}; color: #fff; border-radius: 6px; font-weight: bold;">
         <i class="fas fa-book" aria-hidden="true"></i>
-        Famille RESPNC « {{ $term }} »{{ with index hugo.Data.familles_rome.familles $term }} — ROME {{ . }}{{ end }}
+        Famille RESPNC « {{ $term }} »
       </span>
     </p>
     {{- end }}

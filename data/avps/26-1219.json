@@ -118,12 +118,7 @@
   "qualifications": "Être titulaire du permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecin",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1402",
-      "name": "Médecine de prévention"
-    }
+    "name": "Médecin"
   },
   "responsibilities": [
     "La médecine curative : consultations, urgences, visites en tribu",

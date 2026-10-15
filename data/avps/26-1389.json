@@ -127,12 +127,7 @@
   "qualifications": "Permis B obligatoire. Permis A2 et aptitude à la conduite d'un deux roues (scooter) appréciés.",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Coordinateur courrier colis",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1306",
-      "name": "Gestion d'équipe de distribution de courrier et de colis"
-    }
+    "name": "Coordinateur courrier colis"
   },
   "responsibilities": [
     "Recruter, former, accompagner et encadrer les membres de l’équipe de distribution du courrier et des colis",

@@ -116,12 +116,7 @@
   "qualifications": "Permis de conduire B, Compétences en échographie",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Sage-femme",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Suivi de la grossesse et accompagnement post-natal"
-    }
+    "name": "Sage-femme"
   },
   "responsibilities": [
     "Assurer les actes curatifs et préventifs de sage-femme",

@@ -110,12 +110,7 @@
   "qualifications": "Détenir les unités de valeur « Formation initiale d'équipier SPP »",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Intervenant des opérations de secours",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "J1503",
-      "name": "Sécurité civile et secours"
-    }
+    "name": "Intervenant des opérations de secours"
   },
   "responsibilities": [
     "Porter secours aux victimes",

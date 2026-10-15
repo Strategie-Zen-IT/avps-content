@@ -124,12 +124,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "agent de gestion comptable",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Comptabilité"
-    }
+    "name": "agent de gestion comptable"
   },
   "responsibilities": [
     "Accueil physique et téléphonique",

@@ -109,12 +109,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable financier",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1203",
-      "name": "Direction administrative et financière"
-    }
+    "name": "Responsable financier"
   },
   "responsibilities": [
     "Assister et seconder le chef de service dans ses missions managériales et de pilotage",

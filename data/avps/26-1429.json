@@ -106,12 +106,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé d'actions culturelles",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1103",
-      "name": "Gestion de patrimoine culturel"
-    }
+    "name": "Chargé d'actions culturelles"
   },
   "responsibilities": [
     "Contribuer à la mise en œuvre des orientations de la politique culturelle provinciale en participant à sa déclinaison opérationnelle au sein du pôle",

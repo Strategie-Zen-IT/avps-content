@@ -156,12 +156,7 @@
   "qualifications": "Permis de conduire catégorie B obligatoire",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Assistant technique en infrastructure",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1302",
-      "name": "Ingénierie et études du BTP"
-    }
+    "name": "Assistant technique en infrastructure"
   },
   "responsibilities": [
     "Piloter et suivre les opérations confiées dans le respect des objectifs de qualité, de coût, de délai et de sécurité",

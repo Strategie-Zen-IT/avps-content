@@ -127,12 +127,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chef de projet maitrise d'ouvrage système d'information",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "M1801",
-      "name": "Conseil et maîtrise d'ouvrage en systèmes d'information"
-    }
+    "name": "Chef de projet maitrise d'ouvrage système d'information"
   },
   "responsibilities": [
     "Recenser, prioriser et suivre l'ensemble des projets du système d'information",

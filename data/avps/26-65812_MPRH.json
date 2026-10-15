@@ -144,12 +144,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Responsable administratif",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K1601",
-      "name": "Responsable administratif, administratif de gestion, administratif et financier"
-    }
+    "name": "Responsable administratif"
   },
   "responsibilities": [
     "En tant que responsable de bureau, vous aurez pour missions d'organiser, de gérer, d'animer et de piloter l'activité globale de votre équipe. Vos activités opérationnelles s'articuleront autour de cinq axes majeurs :",

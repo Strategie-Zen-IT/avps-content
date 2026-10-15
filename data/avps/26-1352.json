@@ -109,12 +109,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Enseignant du 2nd degré",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2107",
-      "name": "Enseignement technique et professionnel"
-    }
+    "name": "Enseignant du 2nd degré"
   },
   "responsibilities": [
     "Assurer son service d'enseignement de 384 heures équivalent TD au sein du département GEII",

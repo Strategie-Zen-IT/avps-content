@@ -111,12 +111,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "inspecteur",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "I1503",
-      "name": "Collaboration juridique"
-    }
+    "name": "inspecteur"
   },
   "responsibilities": [
     "Assurer à titre principal des fonctions opérationnelles de rapporteur expert pour traiter les dossiers de concentration et de commerce de détail",

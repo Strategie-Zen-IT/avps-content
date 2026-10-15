@@ -107,12 +107,7 @@
   "qualifications": "Permis B indispensable",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Agent de prévention et de médiation - correspondant de nuit",
-    "occupationalCategory": {
-      "@type": "CategoryCode",
-      "codeValue": "K2501",
-      "name": "Facilitation de la vie sociale"
-    }
+    "name": "Agent de prévention et de médiation - correspondant de nuit"
   },
   "responsibilities": [
     "Intervenir sur les deux sites (DAUO et MDE) selon le planning, en garantissant la sécurité et la continuité des prises en charge",
