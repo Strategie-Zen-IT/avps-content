@@ -1,0 +1,177 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directrice adjointe de la qualité et de la patientèle",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Équipes médicales",
+      "Équipes paramédicales",
+      "Partenaires externes",
+      "Partenaires du territoire"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Janvier 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953804.PDF"
+      }
+    ]
+  },
+  "alternateName": "Assistant(e) de service social",
+  "description": "La direction de la qualité et de la patientèle est une direction transversale au CHT et au CHS. Elle est au cœur de la sécurité des soins, de la relation avec les usagers et de l'amélioration continue des pratiques.",
+  "disambiguatingDescription": "L'assistant(e) de service social soutient des patient(e)s en difficultés sociales, administratives ou psychologiques et/ou leur famille. Il/elle contribue à l'amélioration du parcours de soins.",
+  "identifier": "26-1549",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Assistant(e) de service social",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.80.00",
+    "email": "geraldine.danigo@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'Etat d'assistant de service social",
+    "competencyRequired": [
+      "Connaissance du réseau territorial",
+      "Connaissance des particularités culturelles présentes sur le territoire",
+      "Connaissance des méthodes et techniques d'intervention et d'accompagnement en service social"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
+  "employerOverview": "La direction de la qualité et de la patientèle est une direction transversale au CHT et au CHS. Elle est au cœur de la sécurité des soins, de la relation avec les usagers et de l'amélioration continue des pratiques.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre Hospitalier Territorial",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "incentiveCompensation": "Primes statutaires",
+  "industry": "Santé publique soins",
+  "jobBenefits": "Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (Grille indiciaire du cadre de l'administration générale)",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Action sociale",
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplôme d'Etat d'assistant de service social",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Assistant(e) de service social"
+  },
+  "responsibilities": [
+    "Concourir à l'accès aux droits et à la continuité des soins des patient(e)s et de leur famille : accompagner les démarches administratives liées à la couverture sociale et à la sortie d'hospitalisation",
+    "Évaluer les situations sociales des patients hospitalisés pour établir un diagnostic social",
+    "Protéger le mineur en danger ou le majeur vulnérable",
+    "Aider les personnes rencontrant des difficultés inhérentes à leur hospitalisation et (ou) à leur pathologie à retrouver une autonomie de vie et faciliter leur insertion sociale",
+    "Orienter les patient(e)s et/ou leur famille sur les partenaires du territoire en fonction des besoins",
+    "Coordonner les actions avec les équipes médicales, paramédicales et les partenaires externes",
+    "Participer à l'élaboration et à la mise en œuvre du projet d'établissement, des projets sociaux et éducatifs de l'établissement dont il relève"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacités d'analyse et de synthèse dans le cadre des situations sociales",
+    "Adaptation des missions du service social aux missions institutionnelles",
+    "Travailler en équipe pluridisciplinaire, en réseau et en partenariat",
+    "Respect du cadre de l'intervention hospitalière"
+  ],
+  "specialCommitments": null,
+  "title": "Assistant(e) de service social",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-06",
+  "workHours": null,
+  "champs_open_data": 13,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 0.821,
+  "dossier": "action-sociale"
+}
