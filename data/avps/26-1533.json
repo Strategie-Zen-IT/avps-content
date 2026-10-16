@@ -1,0 +1,172 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Cadre technique / technicien",
+    "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "CERT / Section Accès",
+    "nbAgentsEncadres": 5,
+    "superieurHierarchique": "Chef de Section Accès",
+    "placeOrganigramme": "N-4 (par rapport au Directeur général)",
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Habilitations requises",
+        "value": "Permis B, Habilitation électrique br"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions de travail",
+        "value": "Astreintes hors heures ouvrées, Travaux insalubres ou dangereux, Horaires spéciaux (travail hors heures ouvrées), Déplacement principalement sur Nouméa et périphérie, Travaux en hauteur"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fourniture ou mise à disposition de matériels",
+        "value": "Equipements de protection individuels (epi), Habillement, Téléphone mobile d'exploitation"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Régimes indemnitaires rattachés au poste",
+        "value": "Indemnité pour travaux insalubres ou dangereux (6 points INM), Indemnité ponctuelle pour travaux sur pylône de plus de 10 mètres, Indemnité hiérarchique de chef de cellule"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956104.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Planifier/organiser l'activité, rendre compte de l'exploitation, la supervision et la maintenance des équipements et systèmes des réseaux sous sa responsabilité. Développer les niveaux de maîtrise des différentes fonctions au sein de son unité, inspirer, imposer et accompagner les comportements adéquats (prise d'initiative, veille technique, productivité, qualité des rendus, entraide mutuelle, tutorat pour formation/transmission ...).",
+  "disambiguatingDescription": null,
+  "identifier": "26-1533",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "DT - CHEF DE CELLULE RADIO - CERT",
+  "owner": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "41.35.50",
+    "email": "DRH-candidature@opt.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Cadre technique ou technicien principal",
+    "competencyRequired": [
+      "Maîtriser les techniques et les équipements de commutation numérique et du réseau radio",
+      "Avoir de bonnes connaissances des réseaux de télécommunication et IP",
+      "Exploiter les systèmes d'exploitation Windows, Unix, Linux et les outils bureautiques",
+      "Parler la langue anglaise",
+      "Connaître et utiliser les systèmes d'information de l'OPT-NC"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Office des Postes et des Télécommunications",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications"
+  },
+  "incentiveCompensation": null,
+  "industry": "Postes et télécommunications",
+  "jobBenefits": "Indemnité pour travaux insalubres ou dangereux (6 points INM), Indemnité ponctuelle pour travaux sur pylône de plus de 10 mètres, Indemnité hiérarchique de chef de cellule",
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre d'Exploitation des Réseaux Télécom (CERT)",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "205 rue Jacques IEKAWE PK5",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Postes et télécommunications",
+    "Système d'information"
+  ],
+  "physicalRequirement": "Travaux en hauteur",
+  "qualifications": "Permis B, Habilitation électrique br",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Technicien d'exploitation des réseaux et services des télécommunications"
+  },
+  "responsibilities": [
+    "Piloter, exploiter et maintenir les réseaux du domaine radio et en être le référent",
+    "Analyser l'activité et les besoins, proposer un dispositif permettant d'atteindre les objectifs d'exploitation, de supervision et de maintenance des équipements et systèmes des réseaux sous sa responsabilité",
+    "Organiser le travail, suivre les charges et les conditions de réalisation",
+    "Contrôler et piloter la bonne compréhension et application par les équipes de toutes les directives et instructions de travail, guides et procédures ayant attrait soit au métier confié soit aux politiques internes d'amélioration continue (qualité - santé / sécurité / hygiène - RSE...) et de maîtrise des risques (réglementation, risques...)",
+    "Exploiter, maintenir les équipements et garantir les meilleurs efforts en vue de réduire les durées d'indisponibilité",
+    "Proposer toute amélioration de méthode ou de moyens pouvant être utile à l'optimisation de son activité et au service client",
+    "Aider les équipes terrain à qualifier et à analyser les causes de dysfonctionnement et mettre en œuvre les opérations nécessaires au rétablissement du service",
+    "Accompagner les équipes sur le terrain",
+    "Contrôler les travaux internes ou sous-traités",
+    "Rendre compte de l'activité sur tous les volets, l'analyser et en proposer à sa hiérarchie les enseignements / recommandations",
+    "Apporter une contribution personnelle sur les sujets d'évolution, transformation et amélioration",
+    "Assurer une entraide avec les autres équipes en cas de nécessité ou de situation de crise",
+    "Assurer l'intérim du chef de section en cas de nécessité",
+    "Assurer périodiquement l'astreinte pour les services relevant des domaines du Centre",
+    "Veiller au respect des attendus décrits dans les référentiels de fonction de l'OPT (Agents et managers)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Manager",
+    "Transmettre un savoir, une technique, une compétence",
+    "Synthétiser des informations, des données, un document",
+    "Prioriser",
+    "Organiser une activité, une réunion, un événement",
+    "Piloter un prestataire",
+    "Être rigoureux",
+    "Esprit d'initiative",
+    "Être autonome",
+    "Faire preuve de leadership",
+    "Aisance relationnelle",
+    "Avoir l'esprit d'équipe",
+    "Faculté d'adaptation",
+    "Sens des responsabilités",
+    "Sens du service public"
+  ],
+  "specialCommitments": "Astreintes hors heures ouvrées",
+  "title": "Dt - chef de cellule radio - cert",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-06",
+  "workHours": "Horaires spéciaux (travail hors heures ouvrées)",
+  "champs_open_data": 8,
+  "employeur_sigle": "OPT",
+  "collectivite": "Office des postes et télécommunications",
+  "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Postes et télécommunications",
+  "famille_source": "respnc",
+  "famille_score": 0.943,
+  "dossier": "postes-et-telecommunications"
+}
