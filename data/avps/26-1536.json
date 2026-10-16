@@ -1,0 +1,183 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Service Accompagnement Médico-Social",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cheffe de service",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Gériatres",
+      "Médecins libéraux et publics",
+      "Travailleurs sociaux",
+      "Associations œuvrant dans la prise en charge de la dépendance",
+      "Infirmiers",
+      "Kinésithérapeutes",
+      "Orthophonistes",
+      "Médecins des centres médico-sociaux (CMS)",
+      "Pôle Sanitaire Nord Koné (PSN)"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Ce poste est soumis à astreinte de nuit et de week-end selon le planning établi par roulement et l'effectif médical. Pour des raisons de service ce poste peut être sollicité pour une mobilité de secteur."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952050.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité de la cheffe de service, dans le cadre d'une polyvalence de secteur, ce au sein d'un réseau de soins et de prise en charge sociale, l'infirmier référent en gérontologie devra assurer l'évaluation, l'adaptation et le suivi de la file active des personnes âgées de la côte Est de la Province Nord (de Hienghène à Houailou).",
+  "disambiguatingDescription": null,
+  "identifier": "26-1536",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Infirmier référent en gérontologie - Côte Est de Poindimié",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-nord.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Area",
+    "name": "Centre Médico-social Poindimié (CMS)",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Poindimié",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.71.00",
+    "email": "a.sansonetti@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'état infirmier exigé",
+    "competencyRequired": [
+      "Formation et expériences en gérontologie",
+      "Expérience du travail en poste isolé",
+      "Expérience des urgences",
+      "Connaissances des réalités locales et associatives",
+      "Connaissances des réglementations et des compétences institutionnelles",
+      "Connaissance de la méthodologie de projet"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale 5 ans",
+  "employerOverview": "Par délibération n°68/89 du 29 décembre 1989, l'Assemblée de la province Nord a été créée à la Direction Provinciale des Affaires Sanitaires et Sociales de la Province Nord. Depuis le 1er mars 2023, par délibération n°2023-03*APN du 27 janvier 2023, cette direction est dénommée, Direction des Affaires et Sociales, de la Prévention et de la Solidarité (DASSPS). La DASSPS compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (Administration Générale, Solidarité, Prévention et Prévention de la Santé, Soins), 8 services et 14 bureaux. Le Pôle Soin est composé de 4 secteurs (Sud, Côte Est, Nord et Côte Ouest). Le service de l'accompagnement médico-social (SAMS) compte une cheffe de service, une coordinatrice de la petite enfance, une puéricultrice et une infirmière référente gérontologie basée à Poindimié.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service Accompagnement Médico-Social",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une première expérience professionnelle serait appréciée dans le domaine de la gérontologie.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique soins",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre Médico-social Poindimié (CMS)",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Poindimié",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98822"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "dès que possible",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Être titulaire du permis de conduire B.",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "infirmier"
+  },
+  "responsibilities": [
+    "Le recensement des personnes âgées en prévention primaire et secondaire de la dépendance",
+    "Le suivi des patients : traitements, soins palliatifs",
+    "La liaison entre les différents partenaires médicaux, sociaux et paramédicaux pour construire, évaluer le dossier gérontologique individuel",
+    "L'alerte, l'orientation et/ou les réponses aux demandes d'avis gérontologiques des médecins des centres médico-sociaux (CMS) ou du Pôle Sanitaire Nord Koné (PSN)",
+    "La coordination et l'aide à l'élaboration du projet de sortie de la personne âgée hospitalisée",
+    "Les vacations décentralisées dans les CMS et les visites à domicile",
+    "Élaborer un planning de fréquence mensuelle des CMS de la zone d'affectation (prise de rdv avec les AVS et secrétaires-organisation des VAD)",
+    "Organiser une fois/an une visite à domicile avec le médecin et l'auxiliaire de santé pour évaluation des conditions de vie, d'hygiène, de besoin en matériel médicalisé",
+    "Accompagnement, collaboration avec les familles de patients",
+    "La mise en place d'un fichier actif",
+    "La création d'outils de liaison au sein des CMS (cahier de liaison, dossier gérontologique), la formation des référents et des soignants",
+    "L'information, l'évaluation et la restitution de l'activité et du schéma gérontologique de la province Nord",
+    "Proposer des formations aux CMS à destination des médecins, IDE, AVS sur la reconnaissance de la dépendance et la mise en place d'outils dans les CMS",
+    "La mise en place d'actions de promotion de la santé",
+    "Insérer le dossier gérontologique au sein du dossier du patient (courriers médicaux, grille AGGIR, synthèse des évaluations, suivis divers)",
+    "Relayer des dysfonctionnements éventuels auprès du SAMS, du SAS, du SAAS, des différentes associations mettant en œuvre les accompagnements de vie du patient",
+    "Dossiers gérontologiques complets à constituer : savoir effectuer les tests d'évaluation",
+    "Commande de matériel adapté en relation avec les équipes",
+    "Conseils aux aidants pour la prise en charge du bénéficiaire"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des logiciels de bureautique (Excel et Word)",
+    "Travailler en équipe",
+    "Faire preuve d'empathie",
+    "Être organisé",
+    "Être disponible",
+    "Être rigoureux",
+    "Avoir le sens de l'anticipation et des responsabilités",
+    "Avoir un esprit d'initiative et de synthèse",
+    "Respecter la confidentialité des informations et le secret médical",
+    "Faire preuve d'autonomie",
+    "Avoir le sens des relations avec le public",
+    "Bonne collaboration avec les différents acteurs professionnels",
+    "Savoir intégrer et animer un réseau",
+    "Savoir inclure les spécificités culturelles de la population dans sa pratique professionnelle"
+  ],
+  "specialCommitments": null,
+  "title": "Infirmier référent en gérontologie - Côte Est de Poindimié",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-06",
+  "workHours": "Astreinte de nuit et de week-end",
+  "champs_open_data": 7,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.994,
+  "dossier": "sante-publique-soins"
+}
