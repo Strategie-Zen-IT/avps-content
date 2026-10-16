@@ -1,0 +1,165 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 2-Diplôme niveau V",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Internat de Bourail",
+    "nbAgentsEncadres": 6,
+    "superieurHierarchique": "Directeur de l'internat",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Gestionnaire",
+      "Second de cuisine",
+      "Cuisiniers",
+      "Agents prestataires"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Les conditions spécifiques de travail sur ce poste impliquent : un emploi du temps incluant du travail de nuit, les dimanches et certains jours fériés ; des périodes de congés prises obligatoirement en période de vacances scolaires"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "2 mars 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12954716.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction de l’éducation et de la réussite de la province Sud (DERES), au sein du pôle développement et épanouissement de la personne, gère le personnel enseignant des écoles primaires, et les trois internats provinciaux de La Foa, Bourail et Dumbéa. Elle intervient à tous les niveaux du système scolaire. De l’organisation de la vie de l’élève, à l’élaboration de la carte scolaire, en passant par le recrutement des enseignants et l’adaptation des programmes aux réalités culturelles et linguistiques.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1525",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef cuisinier de l'internat de Bourail",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "44.11.05",
+    "email": "malik.atmani@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme en cuisine",
+    "competencyRequired": [
+      "Maîtriser les techniques culinaires et la présentation des plats",
+      "Maîtriser les règles d'hygiène, les principes HACCP et le plan de maîtrise sanitaire",
+      "Connaître les règles relatives aux allergènes, aux PAI et aux régimes particuliers",
+      "Connaître les risques professionnels de la restauration collective",
+      "Utiliser Word, Excel, Outlook, Post Office et un logiciel de gestion de stock"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Justifier obligatoirement d'une expérience en restauration collective. Justifier d'une expérience dans l'encadrement ou la coordination d'une équipe de restauration.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Restauration collective / hôtellerie",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Internat de Bourail",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Bourail",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98870"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-03-02",
+  "occupationalCategory": [
+    "Restauration collective / hôtellerie"
+  ],
+  "physicalRequirement": "Capacité à travailler en station debout, à effectuer des manutentions et à supporter des variations de température, sous réserve de l'aptitude médicale au poste.",
+  "qualifications": "Être titulaire d'un diplôme en cuisine",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Cuisinier"
+  },
+  "responsibilities": [
+    "Organiser la production, répartir les tâches et encadrer l'équipe de cuisine",
+    "Coordonner les agents prestataires et signaler les écarts constatés",
+    "Participer à la confection, au dressage et au service des repas",
+    "Développer la confection artisanale des entrées et des desserts",
+    "Superviser les quantités, les repas froids et le conditionnement pour les sites satellites",
+    "Appliquer et faire appliquer le plan de maîtrise sanitaire, les règles d'hygiène et les principes HACCP",
+    "Garantir la gestion des allergènes, des PAI et des régimes particuliers",
+    "Élaborer les menus et planifier la production et les approvisionnements",
+    "Définir les besoins, participer au choix des produits et soumettre les commandes à la validation de la gestionnaire",
+    "Contrôler les réceptions, les stocks, les inventaires et les produits d'entretien",
+    "Suivre le coût matière, la qualité de la production, le gaspillage alimentaire et l'utilisation de produits locaux en circuits courts",
+    "Recenser les besoins de réparation, de renouvellement du matériel et de travaux",
+    "Assurer la continuité du service en cas d'absence imprévue, contrôler les enregistrements et traiter les non-conformités",
+    "Contribuer aux actions d'éducation à l'alimentation, à la découverte des produits et à la prévention du gaspillage auprès des élèves",
+    "Être mobilisé, en cas de situation exceptionnelle nécessitant le maintien d'élèves à l'internat, afin d'assurer la continuité du service de restauration"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Encadrer une équipe, organiser le travail et contrôler sa réalisation",
+    "Évaluer la qualité des produits et contrôler les marchandises à la réception",
+    "Créer de nouvelles recettes et réaliser des préparations à partir de fiches techniques",
+    "Conditionner les repas avant livraison et produire des repas froids",
+    "Vérifier les préparations, gérer les stocks et suivre le coût matière",
+    "Organiser et contrôler le nettoyage et la désinfection des locaux et équipements",
+    "Repérer les anomalies, rendre compte et mettre en œuvre des actions correctives",
+    "Bon relationnel et sens du travail en équipe",
+    "Sens de l'organisation, rigueur et ponctualité",
+    "Capacité d'adaptation aux évolutions techniques et réglementaires",
+    "Disponibilité et réactivité",
+    "Aptitudes au management"
+  ],
+  "specialCommitments": "Astreintes ou mobilisation en cas de situation exceptionnelle nécessitant le maintien d'élèves à l'internat",
+  "title": "Chef cuisinier de l'internat de Bourail",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-06",
+  "workHours": "Temps plein avec horaires incluant le travail de nuit, les dimanches et certains jours fériés",
+  "champs_open_data": 9,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Restauration collective / hôtellerie",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "restauration-collective-hotellerie"
+}
