@@ -1,0 +1,181 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Psychologue",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Service de l'aide sociale à l'enfance (SASE)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cheffe de service de l'Aide Sociale à l'Enfance (ASE)",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Pôle Solidarité",
+      "Services sociaux",
+      "Tribunaux",
+      "Secteurs de la psychologie ou de la psychiatrie"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Cet emploi nécessite une grande disponibilité de l'agent avec des horaires atypiques. La personne retenue exercera sur l'ensemble du territoire de la Nouvelle-Calédonie."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952070.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le Service de l'Aide Sociale à l'Enfance (SASE) du Pôle Solidarité compte 09 agents. Le/La psychologue joue un rôle crucial dans la protection et le soutien des enfants en difficulté. Ce professionnel intervient principalement auprès des enfants et des adolescents qui font face à des situations de maltraitance, de négligence ou d'abandon. En collaboration avec une équipe pluridisciplinaire, Le/La psychologue évalue les besoins psychologiques des jeunes, apporte un soutien thérapeutique et contribue à la mise en place de mesures de protection.",
+  "disambiguatingDescription": "Psychologue de l'Aide Sociale à l'Enfance au sein de la DASSPS de la Province-Nord, basé à Koné.",
+  "identifier": "26-1541",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Psychologue de l'Aide Sociale à l'Enfance (ASE)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "http://www.province-nord.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "http://www.province-nord.nc",
+  "applicantLocationRequirements": {
+    "@type": "AreaServed",
+    "name": "Hôtel de la province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.72.30",
+    "email": "a.philippon@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Master 2",
+    "competencyRequired": [
+      "Master 2 en psychologie clinique et cognitive",
+      "Connaissance du contexte culturel local et du droit coutumier ainsi que des pratiques coutumières exercées par les populations"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": "Par délibération n° 68/89 du 29 décembre 1989, l'Assemblée de la province Nord a créé la Direction Provinciale des Affaires Sanitaires et Sociales de la Province Nord, dénommée Direction des Affaires Sanitaires et Sociale, de la Prévention et de la Solidarité (DASSPS). Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de l'aide sociale à l'enfance (SASE)",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Disposer d'expérience professionnelle dans le domaine de la protection de l'enfance. Disposer d'une expérience souhaitée dans l'accompagnement familial et la prise en charge des mineurs auteurs ou victimes de violences.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "http://www.province-nord.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Service de l'aide sociale à l'enfance",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98860"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Santé publique soins",
+    "Action sociale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Psychologue"
+  },
+  "responsibilities": [
+    "Participer à la mise en œuvre de la politique provinciale d'action sociale dans le champ de la protection de l'enfance",
+    "Evaluer les besoins psychologiques des jeunes, apporter un soutien thérapeutique et contribuer à la mise en place de mesures de protection",
+    "Veiller à ce que les mécanismes psychiques conscients et inconscients agissant dans les dysfonctionnements familiaux soient pris en compte et analysés au sein de l'équipe",
+    "Effectuer un bilan psychologique du mineur lors de son admission en structure ou chez l'assistante familiale et assurer un suivi psychologique",
+    "Collaborer à l'évaluation des liens familiaux, à l'accompagnement de l'enfant et de sa famille au soutien de l'exercice de la parentalité",
+    "Participer à l'élaboration du projet éducatif personnalisé du mineur",
+    "Participer à l'évaluation de la nécessité d'une prise en charge psychologique de l'enfant et de sa famille, et assurer l'orientation et l'accès vers les soins",
+    "Proposer et mettre en œuvre des interventions thérapeutiques individuelles ou de groupe",
+    "Participer aux réunions éducatives nécessaires à l'évaluation du projet éducatif personnalisé de chaque mineur",
+    "Contribuer à la compréhension de la situation et à la prise de décision, à travers ses écrits professionnels",
+    "Rédiger des rapports d'évaluation et des comptes rendus pour les services sociaux et les tribunaux",
+    "Apporter sa contribution dans l'évaluation du choix de l'assistante familiale dans le cadre d'un placement",
+    "Assurer le suivi psychologique des jeunes en collaboration avec d'autres professionnels médico-sociaux",
+    "Participer aux équipes éducatives ou réunions techniques organisées par les partenaires au profit des mineurs confiés ou le public mineur",
+    "Participer aux réunions éducatives concernant les mineurs relevant de l'aide sociale à l'enfance et accueillis en structure spécialisée",
+    "Participer à la mise en place de liaisons avec l'ensemble des secteurs de la psychologie ou de la psychiatrie pour les situations individuelles afin de faciliter l'articulation avec le service",
+    "Assurer des missions transversales ponctuelles avec les services du Pôle Solidarité",
+    "Contribuer aux travaux de réflexions et aux actions nouvelles, notamment par la mise en place d'actions de prévention",
+    "Participer à la commission de traitements des informations signalantes et préoccupantes",
+    "Participer aux réunions institutionnelles : réunion de service, réunion Suivis Éducatifs, temps de cohésion avec les assistantes familiales",
+    "Participer aux commissions de l'aide sociale à l'enfance",
+    "Participer le cas échéant aux formations des assistants familiaux",
+    "Contribuer à l'accompagnement professionnel des familles d'accueil",
+    "Procéder à l'évaluation psychologique des candidatures à l'agrément provincial des assistantes familiales et des parents adoptants",
+    "Concourir à la mise en œuvre des astreintes du service (Lundi au lundi) suivant le planning prévisionnel établi à l'année",
+    "Rédiger le bilan annuel de son activité"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité à effectuer le choix des modes d'interventions pour adapter sa pratique professionnelle aux situations rencontrées",
+    "Respecter les règles déontologiques et le secret professionnel",
+    "Faire preuve de discernement, d'analyse et de synthèse",
+    "Travailler en équipe pluridisciplinaire notamment dans une démarche d'accompagnement prenant en compte à la fois les dimensions psychiques, affectives et culturelles du sujet",
+    "Maîtriser les règles d'expression écrite (langue française) et s'approprier les procédures et protocoles de travail en vigueur",
+    "Maîtriser les outils bureautiques pour rédiger tous écrits professionnels (comptes rendus de bilans, rapports)",
+    "Avoir le sens de l'initiative, de l'organisation et de la rigueur",
+    "Autonomie",
+    "Savoir travailler en équipe et en réseau",
+    "Etre disponible et savoir être réactif face à l'urgence"
+  ],
+  "specialCommitments": "Astreintes du service (Lundi au lundi) suivant le planning prévisionnel établi à l'année",
+  "title": "Psychologue de l'Aide Sociale à l'Enfance (ASE)",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-06",
+  "workHours": "Horaires atypiques",
+  "champs_open_data": 9,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
