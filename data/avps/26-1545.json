@@ -1,0 +1,199 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Laboratoire microbiologie",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Biologiste responsable de microbiologie",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Biologiste responsable de microbiologie",
+      "Cadre de santé",
+      "Techniciens",
+      "Stagiaires"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "avril 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953308.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Poste d'Ingénieur laboratoire microbiologie au sein du Centre Hospitalier Territorial, affecté à la Direction de la coordination des soins au Médipôle Koutio. Le poste implique des activités de biologie moléculaire, la gestion des stocks, la démarche qualité et l'encadrement technique de techniciens et stagiaires.",
+  "disambiguatingDescription": "Ingénieur laboratoire microbiologie au CHT Gaston Bourret",
+  "identifier": "26-1545",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Ingénieur laboratoire microbiologie",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.80.00",
+    "email": "recrutement@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Master ou équivalent en biologie, ingénieur en biologie moléculaire",
+    "competencyRequired": [
+      "Biologie moléculaire",
+      "Techniques d'analyses en biologie moléculaire (extraction et dosage d'ADN/ ARN, recherche de mutations, design d'amorces, séquençage, NGS, Nanopore, RT-PCR, culture cellulaire)",
+      "Outils informatiques : système informatique de laboratoire, bureautique de base, logiciel de management de la qualité",
+      "Respect des bonnes pratiques de laboratoire",
+      "Maîtrise de l'anglais"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
+  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret est l'établissement public de santé de référence en Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Laboratoire microbiologie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience obligatoire dans le domaine de la biologie moléculaire (PCR, séquençage, NGS)",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "incentiveCompensation": "Primes statutaires des fonctionnaires",
+  "industry": "Santé publique",
+  "jobBenefits": "Grilles indiciaires de la fonction publique de Nouvelle-Calédonie et primes statutaires des fonctionnaires",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-04-01",
+  "occupationalCategory": [
+    "Santé publique soins",
+    "Laboratoire"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Ingénieur laboratoire microbiologie"
+  },
+  "responsibilities": [
+    "Choisir, développer et adapter les protocoles de préparation et d'analyse des échantillons biologiques dans le domaine de la biologie moléculaire sous la responsabilité du biologiste responsable de microbiologie",
+    "Conduire, en adaptant les conditions expérimentales, un ensemble de techniques (séquençage, PCR)",
+    "Contrôler la conformité, enregistrer et réaliser les examens conformément aux référentiels et procédures puis procéder à la validation analytique des résultats",
+    "Conduire l'appareillage dédié à l'approche et en assurer le fonctionnement, la calibration, la maintenance",
+    "Gérer les stocks et prévoir les commandes en rapport avec l'activité",
+    "Participer à la démarche d'amélioration continue du laboratoire",
+    "Rédiger des rapports d'expérience ou d'études, des notes techniques",
+    "Gérer et organiser les moyens techniques dans le cadre d'un projet scientifique",
+    "Assurer une veille scientifique et technologique dans son domaine d'activité",
+    "Participer à la rédaction des articles scientifiques",
+    "Maîtriser et participer aux activités de routine et aux astreintes du laboratoire de microbiologie moléculaire",
+    "Appliquer les procédures et les modes opératoires",
+    "Contrôler la conformité des échantillons de la prescription",
+    "Participer aux actions métrologiques",
+    "Effectuer les maintenances préventives et curatives de premier niveau des équipements utilisés",
+    "Utiliser des instruments dédiés à l'analyse et l'expérimentation en biologie moléculaire (automates d'extraction, de PCR, des dosages d'ADN/ ARN, de séquençage...)",
+    "Mettre en place, adapter et optimiser les protocoles d'analyses sous la responsabilité du biologiste responsable de microbiologie",
+    "Gérer les stocks de réactifs et consommables nécessaires à l'activité spécialisée",
+    "Etablir les bons de commandes de produits spécifiques aux projets",
+    "Réceptionner les commandes, enregistrer et ranger les produits",
+    "Classer les bons de commande et de livraison",
+    "Appliquer les règles d'hygiène et de sécurité en vigueur et de gestion des déchets",
+    "Enregistrer et signaler les non-conformités",
+    "Rédiger, réviser et attester les documents qualité",
+    "Former et encadrer techniquement les techniciens et les stagiaires pour l'élaboration et la conduite de protocoles expérimentaux et des analyses de routines",
+    "Participer à des collaborations avec d'autres organismes"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Organiser et planifier son travail en fonction des priorités",
+    "Utiliser les outils de recueil et de traitement de données",
+    "Appliquer les règles d'hygiène et de sécurité",
+    "Rédiger, réviser et attester les documents qualité",
+    "Former et encadrer techniquement"
+  ],
+  "specialCommitments": "Astreintes du laboratoire de microbiologie moléculaire",
+  "title": "Ingénieur laboratoire microbiologie",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-06",
+  "workHours": "Astreintes",
+  "champs_open_data": 13,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Laboratoire",
+  "famille_source": "respnc",
+  "famille_score": 0.833,
+  "dossier": "laboratoire"
+}

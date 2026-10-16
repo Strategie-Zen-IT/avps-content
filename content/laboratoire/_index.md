@@ -1,0 +1,6 @@
+---
+title: "Laboratoire"
+---
+
+{{< list-avps >}}
+
