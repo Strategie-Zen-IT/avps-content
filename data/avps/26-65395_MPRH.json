@@ -2,13 +2,14 @@
   "additionalType": {
     "corpsDomaine": "Assistant socio-éducatif",
     "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
-    "uniteOrganisationnelle": "Service éducatif de milieu ouvert et d'insertion",
+    "uniteOrganisationnelle": "Unité Éducative de Milieu Ouvert (UEMO) Sud/Îles",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Marie-Gabrielle Tolikoli-Motutoa, chef de service",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
+      "Service Territorial Éducatif de Milieu Ouvert et d'Insertion (STEMOI)",
       "Acteurs des champs judiciaire, éducatif, sanitaire, social et scolaire",
-      "Partenaires institutionnels"
+      "Tribunal (PEAT)"
     ],
     "informationsLibres": [
       {
@@ -18,13 +19,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Affectation précise",
-        "value": "Unité Éducative de Milieu Ouvert (UEMO) Sud/Îles au sein du Service Territorial Éducatif de Milieu Ouvert et d'Insertion (STEMOI)"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Modification de calendrier",
-        "value": "Modification de la date de clôture initialement prévue le 18/09/2026"
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Faire preuve de souplesse dans l'organisation du temps de travail afin de répondre aux besoins des mineurs accompagnés ; Participer aux permanences éducatives auprès du tribunal (PEAT)"
       },
       {
         "@type": "PropertyValue",
@@ -65,7 +61,7 @@
   },
   "alternateName": null,
   "description": "Par son implication dans une relation socio-éducative de proximité, inscrite dans la durée, l'éducateur spécialisé accompagne les mineurs et les jeunes majeurs en difficulté dans la mise en œuvre des mesures éducatives ordonnées par les magistrats. Ces interventions s'inscrivent dans le cadre de la justice pénale des mineurs (Code de la justice pénale des mineurs - CJPM) ou de la protection de l'enfance (articles 375 et suivants du Code civil), lorsque ces mesures sont confiées au Service Territorial Éducatif de Milieu Ouvert et d'Insertion (STEMOI).",
-  "disambiguatingDescription": "Recrutement d'un éducateur spécialisé au sein de l'UEMO Sud/Iles pour accompagner les mineurs et jeunes majeurs en difficulté dans le cadre de mesures éducatives ordonnées par les magistrats.",
+  "disambiguatingDescription": "Recrutement d'un éducateur spécialisé au sein de l'UEMO Sud/Îles de la DPJEJ en Nouvelle-Calédonie.",
   "identifier": "26-65395/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -81,8 +77,8 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
-    "name": "Nouvelle-Calédonie",
+    "@type": "Place",
+    "name": "UEMO Sud/Îles",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -120,7 +116,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Unité Éducative de Milieu Ouvert (UEMO) Sud/Îles",
+    "name": "Service Territorial Éducatif de Milieu Ouvert et d'Insertion (STEMOI)",
     "url": null,
     "logo": null
   },
@@ -132,13 +128,13 @@
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Service public",
-  "jobBenefits": "Informations de grille salariale disponibles sur le lien de la DRHFPNC",
+  "industry": "Action sociale",
+  "jobBenefits": "Informations salaire disponibles sur https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "UEMO Sud/Iles",
+    "name": "UEMO Sud/Îles",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -155,7 +151,7 @@
     "Action sociale"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis de conduire B",
+  "qualifications": "Être titulaire du permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Educateur spécialisé"
@@ -195,8 +191,8 @@
   "title": "Educateur spécialisé - UEMO Sud/Iles",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-16",
-  "workHours": "Faire preuve de souplesse dans l'organisation du temps de travail afin de répondre aux besoins des mineurs accompagnés",
-  "champs_open_data": 30,
+  "workHours": "Souplesse dans l'organisation du temps de travail afin de répondre aux besoins des mineurs accompagnés",
+  "champs_open_data": 27,
   "employeur_sigle": "DPJEJ",
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
