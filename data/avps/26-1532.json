@@ -1,0 +1,170 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur / technicien",
+    "direction": "INSTITUT DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES",
+    "uniteOrganisationnelle": "Département informatique",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Ingénieur 1er grade : au moins égale à 5 ans ; Technicien 2ème grade : au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Un investissement important est attendu. Le candidat retenu devra être rapidement autonome et force de proposition. Une expérience significative dans un poste équivalent est vivement souhaitée."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955302.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'ISEE, établissement public créé par la délibération n° 121 du 25 juillet 1985, a pour principale mission de collecter et de traiter toutes les informations statistiques nécessaires à la Nouvelle-Calédonie (recensements, enquêtes, mise en place et gestion de répertoires administratifs). En outre, l'institut valorise l'information statistique qu'il produit ou déjà existante sous la forme d'études visant à éclairer la situation économique et sociale de la Nouvelle-Calédonie. Le rôle de l'ISEE est également d'assurer la diffusion la plus large de la statistique de Nouvelle-Calédonie. Le département informatique de l'ISEE est chargé de la mise en œuvre des systèmes d'informations et de la conduite des orientations technologiques et informatiques définies par l'institut. A ce titre le département conseille et met à disposition des services les moyens technologiques et informatiques nécessaires à l'exercice de leurs missions, veille à leur maintien en condition opérationnelle, à leur cohérence, à leur interopérabilité et à leur sécurité. Il assure par ailleurs le développement d'applications métiers définies avec les utilisateurs ainsi que des moyens de publication d'informations statistiques à destination des clients de l'institut. L'administrateur système et réseau assure la gestion des serveurs et des équipements des réseaux. Il applique les procédures de gestion et administre les infrastructures physiques, virtualisées et de communication (externe et interne) des systèmes d'information de l'institut pour en assurer la disponibilité, la cohérence, la qualité et la sécurité.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1532",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Administrateur systèmes et réseaux",
+  "owner": {
+    "@type": "Organization",
+    "name": "Institut de la statistique et des études économiques"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Institut de la Statistique et des Etudes Economiques",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "52, Avenue du Maréchal FOCH, Immeuble Malawi, 3ème étage",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "28.31.56",
+    "email": "isee@isee.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+2 à bac+5",
+    "competencyRequired": [
+      "Formation informatique",
+      "Méthodes de définition des standards et leur description",
+      "Systèmes, systèmes d'exploitation, serveurs d'applications",
+      "Architecture technique et fonctionnelle des systèmes d'information",
+      "Réseaux, télécommunications, protocoles de communication et d'infrastructures",
+      "Architecture technique des réseaux et de la sécurité",
+      "Méthodes, outils, logiciels techniques, normes d'exploitation et de qualité (référentiel ITIL)",
+      "Maîtrise des techniques et normes utilisées dans les systèmes de communication et les réseaux",
+      "Solides compétences sur les systèmes d'exploitation Microsoft 2016, 2022, rôles et fonctionnalités, dont hyper-V, IIS, AD DS, WSUS, RDS, autorités de certificats",
+      "Solides compétences sur les systèmes d'exploitation Docker, mise en œuvre, gestion / exploitation et supervision (DEBIAN)",
+      "Solides compétences dans l'exploitation des équipements de réseaux Fortinet, mise en œuvre des flux internes inter V-LAN, cryptage des connexions, sécurisation de firewall (antivirus de flux, ips, contrôle d'applications, etc.)",
+      "Connaissance en Scripting (MS powershell, Linux Bash)",
+      "Maîtrise de l'anglais technique écrit et des outils bureautiques",
+      "Sensibilité à la cyber-sécurité"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "L'ISEE, établissement public créé par la délibération n° 121 du 25 juillet 1985, a pour principale mission de collecter et de traiter toutes les informations statistiques nécessaires à la Nouvelle-Calédonie (recensements, enquêtes, mise en place et gestion de répertoires administratifs). En outre, l'institut valorise l'information statistique qu'il produit ou déjà existante sous la forme d'études visant à éclairer la situation économique et sociale de la Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Institut de la Statistique et des Etudes Economiques",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience significative dans un poste équivalent est vivement souhaitée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Institut de la statistique et des études économiques"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Institut de la Statistique et des Etudes Economiques",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "52, Avenue du Maréchal FOCH, Immeuble Malawi, 3ème étage",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Administrateur systèmes, Administrateur réseaux"
+  },
+  "responsibilities": [
+    "Mettre en œuvre, administrer et maintenir les composants, matériels et logiciels d'infrastructure et de réseaux (systèmes et outils d'exploitation, serveurs d'applications, réseaux de stockage, messagerie, sauvegardes, PRA)",
+    "Définir et gérer, avec l'appui des métiers quand nécessaire, les autorisations d'accès aux systèmes, aux réseaux et à leurs équipements actifs",
+    "Mettre en œuvre, administrer et maintenir les systèmes de protection (routeurs, firewall, outils de sécurité)",
+    "Gérer les incidents, les problèmes et les configurations",
+    "Gérer les performances et optimiser l'usage des composants",
+    "Assister techniquement les exploitants, les développeurs",
+    "Documenter les processus de mise en œuvre, d'administration, de maintenance, de mise à jour et d'exploitation des composants",
+    "Participer aux réunions techniques et être force de propositions sur la définition et la mise en œuvre de nouveaux projets informatiques"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Sensibilisation aux méthodes d'analyse, de conception et de modélisation",
+    "Anticiper et écouter les attentes des utilisateurs et de l'équipe IT",
+    "Assurer la veille technologique",
+    "Rédiger de la documentation de procédures, modes opératoires",
+    "Ethique",
+    "Loyauté",
+    "Réactivité",
+    "Sens du service et du travail en équipe",
+    "Sens de la communication",
+    "Autonomie",
+    "Disponibilité"
+  ],
+  "specialCommitments": "Horaires décalés possibles.",
+  "title": "Administrateur systèmes et réseaux",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-06",
+  "workHours": "Horaires décalés possibles",
+  "champs_open_data": 7,
+  "employeur_sigle": "ISEE",
+  "collectivite": "Institut de la statistique et des études économiques",
+  "direction": "INSTITUT DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Système d'information",
+  "famille_source": "respnc",
+  "famille_score": 0.944,
+  "dossier": "systeme-d-information"
+}
