@@ -1,0 +1,155 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "CENTRE HOSPITALIER DU NORD",
+    "uniteOrganisationnelle": "Service des Ressources Humaines et des Affaires Médicales",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable des ressources humaines et des affaires médicales (RHAM)",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Responsable des ressources humaines et des affaires médicales (RHAM)",
+      "Agents du Centre Hospitalier du Nord"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Ce poste nécessite le respect des échéances de paie. Charge de travail soutenue en période de paie."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953282.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité du responsable des ressources humaines et des affaires médicales (RHAM), le gestionnaire des RH et de la paie assure la gestion administrative du personnel, l'établissement et le contrôle de la paie, ainsi que le suivi des obligations sociales et réglementaires.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1530",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Gestionnaire des Ressources Humaines et de la Paie",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier du Nord"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "42.11.10",
+    "email": "milene.sautron@chn.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+2 à Bac+3",
+    "competencyRequired": [
+      "Connaissance du droit du travail, des statuts et de la réglementation de la fonction publique de Nouvelle-Calédonie et notamment ceux applicables dans le domaine hospitalier",
+      "Maîtrise des procédures de gestion administrative des carrières",
+      "Connaissance des règles de rémunération et des mécanismes de calcul de la paie",
+      "Diplôme Bac+2 à Bac+3 dans le domaine RH, droit ou administration publique"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre Hospitalier du Nord",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience significative dans la gestion des carrières, de la paie ou des ressources humaines sur un poste similaire serait appréciée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier du Nord"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Pôle Sanitaire du Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Avenue Jimmy WELEPANE, PAIMBOUE",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98860"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Ressources Humaines"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Gestionnaire des ressources humaines"
+  },
+  "responsibilities": [
+    "Assurer la gestion administrative des dossiers du personnel de leur recrutement à leur cessation de fonctions",
+    "Préparer et suivre les actes administratifs relatifs à la carrière : recrutement, nomination, titularisation, avancement, promotion, mutation, détachement, disponibilité et départ à la retraite",
+    "Collecter, contrôler et saisir les éléments variables de paie : absences, congés, heures supplémentaires, primes et indemnités",
+    "Veiller à l'application de la législation du travail et des dispositions conventionnelles applicables",
+    "Préparer les déclarations sociales et assurer le suivi des cotisations auprès des organismes compétents",
+    "Assurer le suivi des contrats de travail, des entrées et des sorties du personnel",
+    "Gérer les congés, les absences, les arrêts de travail et les dossiers administratifs associés",
+    "Répondre aux demandes des agents relatives à leur situation administrative et à leur rémunération",
+    "Participer à l'élaboration des tableaux de bord et des états de suivi des effectifs et de la masse salariale",
+    "Garantir la confidentialité des données du personnel et des informations relatives à la rémunération",
+    "Assurer le classement, l'archivage des documents liés aux dossiers du personnel",
+    "En cas d'absence d'un collègue du service, gérer son secteur et notamment en période de paie",
+    "Proposer des actions d'amélioration afin de garantir une gestion optimale",
+    "Mettre en place un tableau de bord de suivi permettant d'évaluer régulièrement la performance de gestion"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des techniques de paie",
+    "Aptitude à élaborer des tableaux de bord, analyser des données et produire des reportings",
+    "Maîtrise des outils bureautiques, notamment Excel",
+    "Bonne connaissance du logiciel de paie et de gestion RH (Tiarhé)",
+    "Capacité à contrôler la fiabilité des données et à respecter les échéances administratives",
+    "Sens de l'organisation, rigueur et autonomie",
+    "Bonnes capacités d'analyse et de synthèse",
+    "Excellentes qualités relationnelles et rédactionnelles",
+    "Sens de l'écoute, diplomatie et discrétion",
+    "Réactivité et capacité à gérer plusieurs activités simultanément",
+    "Esprit d'équipe et sens du service public",
+    "Respect des échéances et capacité à gérer les priorités",
+    "Force de proposition et capacité à accompagner le changement"
+  ],
+  "specialCommitments": null,
+  "title": "Gestionnaire des Ressources Humaines et de la Paie",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-06",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "CHN",
+  "collectivite": "Centre hospitalier du Nord",
+  "direction": "CENTRE HOSPITALIER DU NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Ressources Humaines",
+  "famille_source": "respnc",
+  "famille_score": 0.974,
+  "dossier": "ressources-humaines"
+}
