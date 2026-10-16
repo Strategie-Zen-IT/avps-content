@@ -10,20 +10,18 @@
       "Éducation nationale",
       "ASE",
       "APEJ",
-      "Casado",
-      "Tribunal",
-      "Quartier des mineurs"
+      "Casado"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
-        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Pouvoir adapter son emploi du temps individuel au projet des mineurs pris en charge"
+        "value": "Être titulaire du permis de conduire B ; Pouvoir adapter son emploi du temps individuel au projet des mineurs pris en charge."
       },
       {
         "@type": "PropertyValue",
@@ -64,7 +62,7 @@
   },
   "alternateName": null,
   "description": "Sous la responsabilité du chef de service et des chefs de service éducatif du STEMOI, l'éducateur en milieu ouvert intervient auprès de mineurs âgés de 13 à 18 ans dans le cadre d'un mandat judiciaire.\n\nIl assure l'accompagnement socio-éducatif et le suivi des jeunes concernés par des mesures judiciaires, qu'il s'agisse de mesures d'assistance éducative (articles 375 et suivants du Code civil) ou de mesures relevant de la protection judiciaire de la jeunesse au titre de l'enfance délinquante (CJPM).",
-  "disambiguatingDescription": "Éducateur spécialisé en milieu ouvert au sein du STEMOI de la DPJEJ à Nouméa.",
+  "disambiguatingDescription": "Éducateur spécialisé en milieu ouvert au sein du STEMOI de la DPJEJ.",
   "identifier": "26-65913/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -80,7 +78,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
+    "@type": "Place",
     "name": "Nouméa",
     "address": {
       "@type": "PostalAddress",
@@ -123,7 +121,7 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": false,
+  "experienceInPlaceOfEducation": null,
   "experienceRequirements": "Justifier d'une expérience professionnelle dans la prise en charge de mineurs en difficulté",
   "hiringOrganization": {
     "@type": "Organization",
@@ -131,7 +129,7 @@
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": "Informations salaire disponibles sur https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
+  "jobBenefits": "Informations salaire disponibles sur le site de la DRHFPNC",
   "jobDuration": null,
   "jobImmediateStart": false,
   "jobLocation": {
@@ -187,8 +185,8 @@
   "title": "Educateur spécialisé en milieu ouvert - STEMOI",
   "totalJobOpenings": 3,
   "validThrough": "2026-10-16",
-  "workHours": null,
-  "champs_open_data": 32,
+  "workHours": "Horaires adaptables selon le projet des mineurs",
+  "champs_open_data": 29,
   "employeur_sigle": "DPJEJ",
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
