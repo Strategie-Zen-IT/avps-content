@@ -1,0 +1,188 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Service des urgences",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cadre supérieur de santé du CHT",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "SAMU",
+      "SMUR",
+      "Médecins",
+      "Étudiants",
+      "Stagiaires"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Statut",
+        "value": "Statut particulier des personnels paramédicaux de la Nouvelle-Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Prise en charge du billet",
+        "value": "Prise en charge du billet aller uniquement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953386.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Partie intégrante du plateau technique, le service des urgences assure une continuité des soins 24h/24 et une réactivité immédiate face aux situations critiques. Il comprend un volet adulte - SAMU/SMUR et un volet pédiatrique et gynécologique.",
+  "disambiguatingDescription": "Infirmier(e) aux urgences au Centre Hospitalier Territorial",
+  "identifier": "26-1547",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Infirmier(e) aux urgences",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.80.00",
+    "email": "helena.leguyon@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'état d'infirmier",
+    "competencyRequired": [
+      "Diplôme d'état d'infirmier / infirmier en soins généraux",
+      "Formation AFGSU niveau 2 à jour"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
+  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret de Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre Hospitalier Territorial",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience en soins critiques souhaitée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "incentiveCompensation": "Primes spécifiques (nuit, week-end...)",
+  "industry": "Santé",
+  "jobBenefits": "Reprise de l'ancienneté possible selon la réglementation en vigueur, Grilles indiciaires de la fonction publique de Nouvelle-Calédonie",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplôme d'état d'infirmier / infirmier en soins généraux, Formation AFGSU niveau 2 à jour",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Infirmier en soins généraux"
+  },
+  "responsibilities": [
+    "Assurer la prise en charge globale, rapide et sécurisée de tout patient adulte se présentant dans le service, quelle que soit la nature de l'urgence, en respectant les protocoles en vigueur et les priorités médicales",
+    "Réaliser des soins infirmiers afin de maintenir ou restaurer la santé du patient",
+    "Prioriser l'urgence, pratiquer les premiers gestes et participer au diagnostic",
+    "Surveiller l'évolution de l'état de santé et accompagner les familles",
+    "Assister les médecins lors des soins et des procédures",
+    "Rédiger et mettre à jour le dossier patient",
+    "Accueillir et encadrer les étudiants et stagiaires",
+    "Participer à l'organisation quotidienne du service et à la démarche qualité",
+    "Prise en charge des patients dans les différents secteurs de soins concernés (IOA, circuit court, circuit long, SAUV, UHTCD)"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Rigueur",
+    "Sens de l'organisation",
+    "Travail en équipe pluridisciplinaire",
+    "Bon relationnel",
+    "Discrétion professionnelle",
+    "Forte adaptabilité",
+    "Grande polyvalence",
+    "Gestion du stress",
+    "Maîtrise de ses émotions"
+  ],
+  "specialCommitments": "Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)",
+  "title": "Infirmier(e) aux urgences",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-06",
+  "workHours": "Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)",
+  "champs_open_data": 11,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 0.855,
+  "dossier": "politique-de-sante-publique"
+}
