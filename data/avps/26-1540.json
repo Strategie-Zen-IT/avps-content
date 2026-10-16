@@ -1,0 +1,149 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Service de la Prévention et de Promotion de la Santé (Pôle prévention et promotion de la Santé)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service de la Prévention et de Promotion de la Santé",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Centres médico-sociaux (CMS)"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "La personne retenue aura de nombreux déplacement sur l'ensemble du territoire et aura des horaires atypiques"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953382.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé(e) sous l'autorité du chef de service de la Prévention et de Promotion de la Santé et en liaison avec les centres médico-sociaux (CMS), la personne retenue sera chargée de mettre en place des interventions visant à la diffusion des programmes de promotion de la santé définis par la collectivité, d'assister les équipes des centres médico-sociaux (CMS) dans la mise en place des projets de santé publique et de promouvoir des actions collectives et individuelles de valorisation de la santé.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1540",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Educateur Sanitaire, secteur Pouébo/Hienghène",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "http://www.province-nord.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.71.00/47.72.30",
+    "email": "m.oudare@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme infirmier en soins généraux",
+    "competencyRequired": [
+      "Diplôme infirmier en soins généraux",
+      "Connaissance approfondie des techniques d'animation",
+      "Connaissances des particularités socio-culturelles locales",
+      "Connaissances générales en psychologie"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": "Par délibération n° 68/89 du 29 décembre 1989, l'Assemblée de la province Nord a créé la Direction Provinciale des Affaires Sanitaires et Sociales de la Province Nord. Depuis le 1er mars 2023, par délibération n° 2023-03/APN du 27 janvier 2023 modifiée par la délibération n° 2025-109/APN du 29/08/2025, cette direction est dénommée, Direction des Affaires Sanitaires et Sociale, de la Prévention et de la Solidarité (DASSPS). La DASSP compte 242 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre (4) pôles. Le Service Prévention et Promotion de la Santé du Pôle Prévention et Promotion de la Santé compte 26 agents (1 chef de service, 16 auxiliaires de vie sociale, 07 éducateurs (trices) sanitaires, 1 chargé de mission DST).",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Nord",
+    "url": "http://www.province-nord.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "http://www.province-nord.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Secteur Pouébo/Hienghène",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Pouébo",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98824"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Politique de santé publique",
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Être titulaire du permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Educateur sanitaire"
+  },
+  "responsibilities": [
+    "L'animation du programme d'éducation à la santé en milieu scolaire primaire et secondaire",
+    "L'animation des journées mondiales et des projets de santé communautaire",
+    "L'assistance aux équipes des centres médico-sociaux (CMS) dans les formations individuelles ou collectives des patients chroniques",
+    "L'élaboration des rapports d'activité mensuels et d'évaluation des activités réalisées",
+    "La participation à l'élaboration (outils et procédures), l'application et le suivi des programmes d'éducation à la santé",
+    "La référence d'une ou plusieurs thématiques portées par le service",
+    "La prise en charge de l'activité des secteurs limitrophes en cas d'absence ou de vacance de poste"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise de l'outil bureautique et/ou de gestion (Excel, Word, portail, etc ...)",
+    "Avoir le sens de la concertation, du dialogue",
+    "Capacité à travailler en équipe, en réseau et en partenariat",
+    "Goût des relations humaines",
+    "Esprit d'autonomie, rigueur, organisation, initiative et de réactivité",
+    "Respect de la confidentialité",
+    "Grande disponibilité"
+  ],
+  "specialCommitments": "Astreintes ou horaires atypiques et nombreux déplacements",
+  "title": "Educateur Sanitaire, secteur Pouébo/Hienghène",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-06",
+  "workHours": "Horaires atypiques",
+  "champs_open_data": 7,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "politique-de-sante-publique"
+}
