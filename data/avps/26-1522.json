@@ -1,0 +1,170 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 3-Diplôme niveau IV",
+    "direction": "DIRECTION DE LA VIE EDUCATIVE ET ASSOCIATIVE - DVEA",
+    "uniteOrganisationnelle": "Centre Communal d’Actions Sociales (CCAS) de Dumbéa",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directrice du CCAS de Dumbéa",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Directeurs des établissements scolaires",
+      "Conseil local de Prévention de la Délinquance (CLSPD) de Dumbéa",
+      "Réseau partenarial",
+      "Professionnels du secteur"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Poste mis à disposition du CCAS de Dumbéa. Horaires variables en fonction de l’activité du service, l’agent peut être amené à travailler le week-end et/ou en horaires décalés."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953804.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Dans le cadre de sa stratégie en faveur de la jeunesse, la commune de Dumbéa a mis en place un dispositif de veille éducative pour repérer et accompagner les enfants, les jeunes et leurs familles dès l'apparition des premières fragilités éducatives, sociales, sanitaires ou familiales. Mis à disposition du CCAS qui porte le dispositif de veille éducative pour la commune, le travailleur social aura pour principales missions d'évaluer les situations, de mettre en oeuvre un accompagnement éducatif et social personnalisé, et de coordonner les interventions partenariales.",
+  "disambiguatingDescription": "Offre d’emploi diffusée dans le cadre d’une mission temporaire de travailleur social à Dumbéa.",
+  "identifier": "26-1522",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Travailleur social",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Dumbéa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Hôtel de Ville de Dumbéa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "66 avenue de la vallée",
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "46.55.00",
+    "email": "ccas@ville-dumbea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3",
+    "competencyRequired": [
+      "Titulaire du diplôme d’état (DE) de conseiller en économie sociale et familiale, assistant de service social, éducateur spécialisé ou équivalent",
+      "Connaissance des institutions, des dispositifs d’action sociale existants et des intervenants du champ du handicap et de la personne âgée, du logement et de l’enseignement",
+      "Connaissance en matière de droits sociaux, de procédures et de circuits administratifs",
+      "Connaissance en matière d’économie familiale : budget, tenue du logement, nutrition, hygiène/santé, éducation des enfants"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La Direction de la vie éducative et associative est composée de quatre services dont le Service de la réussite éducative qui gère notamment l’ensemble des écoles et établissements scolaires de la commune de Dumbéa.",
+  "employmentType": "TEMPORARY",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre Communal d’Actions Sociales (CCAS) de Dumbéa",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Expérience professionnelle significative d’au moins 3 ans dans le domaine à défaut du diplôme requis.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Dumbéa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Action sociale",
+  "jobBenefits": null,
+  "jobDuration": "Mission temporaire",
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre Communal d’Actions Sociales (CCAS) de Dumbéa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Dès à présent",
+  "occupationalCategory": [
+    "Action sociale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B exigé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Travailleur social"
+  },
+  "responsibilities": [
+    "Évaluer les situations et repérer les besoins",
+    "Mettre en œuvre un accompagnement éducatif et social personnalisé avec la famille",
+    "Prendre en compte la situation de la fratrie",
+    "Prévenir le décrochage scolaire",
+    "Coordonner les interventions partenariales",
+    "Assurer le rôle de référent auprès des directeurs des établissements scolaires et partenaires du dispositif de la veille éducative et prévention",
+    "Participer à la création et à l’animation d’actions collectives en direction de l’ensemble des Dumbéens",
+    "Promouvoir le dispositif de la veille éducative auprès des directeurs d’établissements scolaires et des partenaires",
+    "Mettre en œuvre l’accompagnement social ciblé dans le cadre des dispositifs internes et externes en vue de soutenir la fonction parentale, le lien parent/enfant et la réussite éducative",
+    "Développer et réaliser des actions de prévention ainsi que les projets spécifiques de soutien à la parentalité en lien avec les objectifs éducatifs et institutionnels",
+    "Accompagner et/ou instruire toutes demandes d’accès aux droits des familles suivies",
+    "Instruire et tenir à jour toutes situations au sein du logiciel métier et outils internes",
+    "Recevoir sur astreinte pour évaluation sociale les personnes orientées par la hiérarchie et réaliser toutes actions nécessaires"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des écrits professionnels : bilans, rapports sociaux, courriers aux partenaires",
+    "Techniques d’accompagnement personnalisé",
+    "Maîtrise de la méthodologie de projet",
+    "Pédagogie et capacité d’animation",
+    "Maîtrise des outils informatiques",
+    "Capacité à gérer son temps et à planifier ses activités",
+    "Savoir constituer un réseau de partenaires et travailler en équipe",
+    "Savoir établir une relation de confiance, sens de l’écoute et de l’observation, empathie",
+    "Esprit d’initiative et capacité d’analyse",
+    "Discrétion et confidentialité",
+    "Disponibilité"
+  ],
+  "specialCommitments": "Astreintes pour évaluation sociale",
+  "title": "Travailleur social",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-06",
+  "workHours": "Horaires variables, week-end et horaires décalés possibles",
+  "champs_open_data": 7,
+  "employeur_sigle": "MAIRIE-DE-DUMBEA",
+  "collectivite": "Mairie de Dumbéa",
+  "direction": "DIRECTION DE LA VIE EDUCATIVE ET ASSOCIATIVE - DVEA",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "action-sociale"
+}
