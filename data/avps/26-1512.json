@@ -5,7 +5,7 @@
     "uniteOrganisationnelle": "UPASS de La Foa",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Responsable de l'UPASS de la Foa",
-    "placeOrganigramme": null,
+    "placeOrganigramme": "Au sein du pôle santé et territoires",
     "relationsFonctionnelles": [
       "UPASS de Bourail"
     ],
@@ -28,12 +28,12 @@
     ]
   },
   "alternateName": null,
-  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'actions sanitaire et sociale (UPASS) et des centres médico-sociaux (CMS) et des autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales. Au sein du pôle santé et territoires, le ou la candidat(e) retenu(e) exercera ses missions à l'UPASS de La Foa, dans une équipe pluridisciplinaire attachée à la synergie médico-sociale.",
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'actions sanitaire et sociale (UPASS) et des centres médico-sociaux (CMS) et des autres sites excentrés. Au sein du pôle santé et territoires, le ou la candidat(e) retenu(e) exercera ses missions à l'UPASS de La Foa, dans une équipe pluridisciplinaire attachée à la synergie médico-sociale.",
   "disambiguatingDescription": null,
   "identifier": "26-1512",
   "image": null,
   "mainEntityOfPage": null,
-  "name": "Infirmier(e) à l'UPASS de la FOA",
+  "name": "Infirmier(e) à l'UPASS de la Foa",
   "owner": {
     "@type": "Organization",
     "name": "Province Sud",
@@ -45,25 +45,14 @@
   "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "UPASS de La Foa",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": null,
-      "addressLocality": "La Foa",
-      "addressRegion": "Province Sud",
-      "addressCountry": "NC",
-      "province": "province Sud"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "20.46.20",
     "email": "carl.honda@province-sud.nc"
   },
   "baseSalary": null,
-  "datePosted": "2026-10-09",
+  "datePosted": "2026-10-16",
   "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'État d'infirmier",
@@ -72,7 +61,7 @@
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": null,
+  "employerOverview": "Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -89,8 +78,8 @@
     "url": "https://www.province-sud.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique",
-  "jobBenefits": null,
+  "industry": "Santé",
+  "jobBenefits": "Permanence de soins en astreinte de nuit et de week-end",
   "jobDuration": null,
   "jobImmediateStart": false,
   "jobLocation": {
@@ -147,11 +136,11 @@
     "Flexibilité",
     "Disponibilité"
   ],
-  "specialCommitments": "Permanence de soins en astreinte de nuit et de week-end",
-  "title": "Infirmier(e) à l'UPASS de la FOA",
+  "specialCommitments": "Astreintes de nuit et de week-end",
+  "title": "Infirmier(e) à l'UPASS de la Foa",
   "totalJobOpenings": 4,
-  "validThrough": "2026-10-30",
-  "workHours": "Permanence de soins en astreinte de nuit et de week-end",
+  "validThrough": "2026-11-06",
+  "workHours": "Roulement infirmier avec permanence de soins en astreinte de nuit et de week-end",
   "champs_open_data": 9,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
