@@ -1,0 +1,157 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché / rédacteur",
+    "direction": "SMTU",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Régisseur principal",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Régisseur principal",
+      "Mandataires",
+      "Magasins dépositaires",
+      "Trésorerie"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953008.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes et de transport scolaire du secondaire sur le territoire du Grand Nouméa.",
+  "disambiguatingDescription": "Le régisseur de recettes adjoint seconde le régisseur principal dans l'ensemble des flux de recettes du réseau Tanéo issus de la vente des titres de la gamme tarifaire, en direct ou par l'intermédiaire des magasins dépositaires.",
+  "identifier": "26-1534",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Régisseur Adjoint",
+  "owner": {
+    "@type": "Organization",
+    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+    "url": "http://www.smtu.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "http://www.smtu.nc",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "recrutement@smtu.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaissance de la comptabilité publique exigée",
+      "Connaissance du cadre réglementaire d'une régie",
+      "Connaissances des procédures comptables et financières publiques",
+      "Capacité à élaborer et exploiter des rapports de synthèse",
+      "Maîtrise des outils bureautiques, notamment des tableurs (tableaux de bord, tableaux croisés dynamiques)"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes et de transport scolaire du secondaire sur le territoire du Grand Nouméa.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+    "url": "http://www.smtu.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+    "url": "http://www.smtu.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "SMTU",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Finances et budget"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Régisseur"
+  },
+  "responsibilities": [
+    "Contrôle permanent des flux de recettes afin de vérifier leur régularité",
+    "Vérification du respect des règles de vente par les mandataires sous son autorité",
+    "Animation et contrôle du réseau des magasins dépositaires",
+    "Opérations de contrôle des encaissements des recettes",
+    "Contrôles des ventes effectuées par les mandataires",
+    "Tenue des comptes bancaires de la régie",
+    "Rapprochement des ventes et encaissements",
+    "Transfert des fonds vers la trésorerie",
+    "Etablissement des comptes d'emploi / états des recettes",
+    "Rédaction des modes opératoires nécessaires",
+    "Gestion et suivi des équipements de paiement (TPE)"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Sens des relations humaines",
+    "Capacité à travailler en partenariat",
+    "Qualités d'analyse et de synthèse",
+    "Capacité d'organisation et d'anticipation",
+    "Qualités d'écoute",
+    "Capacité à gérer des situations conflictuelles",
+    "Rigueur, autonomie et esprit d'initiative",
+    "Veille du respect des procédures",
+    "Sens aigu du service public",
+    "Sens des relations publiques",
+    "Devoir de réserve",
+    "Réactivité",
+    "Probité"
+  ],
+  "specialCommitments": "Assure les fonctions de régisseur principal en l'absence de ce dernier",
+  "title": "Régisseur Adjoint",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-06",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "SYNDICAT-MIXTE-DES-TRANSPORTS-URBAINS-DU-GRAND-NOUMEA-SMTU",
+  "collectivite": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+  "direction": "SMTU",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Finances et budget",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "finances-et-budget"
+}
