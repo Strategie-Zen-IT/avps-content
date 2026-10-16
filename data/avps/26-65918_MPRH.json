@@ -9,13 +9,14 @@
     "relationsFonctionnelles": [
       "STEMOI",
       "Magistrats",
+      "Tribunal (PEAT)",
       "Réseau partenarial social de la Nouvelle-Calédonie"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Au moins égale à 5 ans"
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
       },
       {
         "@type": "PropertyValue",
@@ -78,7 +79,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Nouvelle-Calédonie",
+    "name": "Service éducatif de milieu ouvert et d'insertion",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -110,29 +111,29 @@
   "employerOverview": "La direction de la protection judiciaire de l'enfance et de la jeunesse (DPJEJ) accueille, protège et accompagne des jeunes au titre de la protection de l'enfance et de l'enfance délinquante.\n\nL'équipe pluridisciplinaire se compose d'éducateurs spécialisés, moniteurs éducateurs, psychologues, infirmiers, veilleurs, ouvriers polyvalents, assistants de service social et chefs de service/chefs de service éducatif. En complément de cette équipe, il est possible de mobiliser certaines ressources de la direction, comme le pool de chargés de mission et les agents supports.\n\nPour renforcer son équipe, nous recherchons un éducateur spécialisé au sein du Service éducatif de milieu ouvert - SUD/ÎLES.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "OrganizationalUnit",
+    "@type": "Organization",
     "name": "Service éducatif de milieu ouvert - SUD/ÎLES",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Expérience professionnelle souhaitée en Nouvelle-Calédonie dans le domaine suivant : Protection judiciaire des mineurs et des différentes mesures éducatives du Code de justice des mineurs (CJPM).",
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle souhaitée en Nouvelle-Calédonie dans le domaine de la protection judiciaire des mineurs et des différentes mesures éducatives du Code de justice des mineurs (CJPM).",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Service public",
-  "jobBenefits": "Grille salariale de la fonction publique de Nouvelle-Calédonie accessible via le lien fourni.",
+  "industry": "Action sociale",
+  "jobBenefits": "Informations salaire disponibles sur https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "UEMO Sud/Iles",
+    "name": "Service éducatif de milieu ouvert et d'insertion",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "18 avenue Paul Doumer",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -146,7 +147,7 @@
     "Action sociale"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis de conduire B, Diplôme d'État d'éducateur spécialisé et/ou attestation de validation de la formation d'éducateur de la protection judiciaire de la jeunesse",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Educateur spécialisé"
@@ -183,8 +184,8 @@
   "title": "Educateur spécialisé - UEMO Sud/Iles",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-16",
-  "workHours": "Horaires adaptables selon le projet des mineurs pris en charge",
-  "champs_open_data": 30,
+  "workHours": "Adaptabilité de l'emploi du temps individuel au projet des mineurs pris en charge",
+  "champs_open_data": 27,
   "employeur_sigle": "DPJEJ",
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
