@@ -1,0 +1,160 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Service des affaires juridiques et de la réglementation",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Exécutif",
+      "Secrétariat général",
+      "Directions de la province"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953466.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le service des affaires juridiques et de la réglementation de la direction des affaires juridiques et institutionnelles de la province Sud a pour principales missions d'apporter un conseil juridique auprès de l'Exécutif, du secrétariat général et des directions de la province, de représenter et défendre les intérêts de la province devant les juridictions, d'accompagner et conseiller sur un plan juridique les directions instructrices, et d'inventorier, consolider et diffuser la réglementation provinciale.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1524",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Adjoint au chef du service des affaires juridiques et de la réglementation",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.30.63",
+    "email": "vaitiare.brizard@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Parfaite connaissance de l'organisation administrative et institutionnelle de la Nouvelle-Calédonie",
+      "Maîtrise des différents domaines du droit, notamment en droit administratif et en droit du contentieux administratif",
+      "Pratique des contentieux administratifs",
+      "Maîtrise des règles et du contentieux de la commande publique",
+      "Notions de comptabilité"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction des Affaires Juridiques et Institutionnelles",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6 route des artifices",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Ingénierie juridique"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable des affaires juridiques"
+  },
+  "responsibilities": [
+    "Participer au pilotage et au suivi de l'activité juridique du service (répartition au sein de l'équipe de juristes des différentes demandes juridiques en fonction de la charge de travail de celle-ci, des délais à tenir et des spécificités de chacun, suivi et re-priorisation éventuelle des dossiers, garantie de l'adéquation de la qualité administrative et technique des dossiers élaborés par le service en fonction des enjeux et des ressources, assurance que le service apporte un conseil pertinent, adapté et personnalisé aux besoins de chacun, renseignement et vérification de la mise à jour des outils de pilotage du service, compte-rendu régulier de l'activité du service)",
+    "Assurer le suivi des différentes demandes juridiques et s'assurer de la qualité des productions (encadrement et accompagnement des agents dans le cadre du traitement de leurs dossiers, correction et validation des productions, réalisation d'études juridiques, rédaction de notes, de courriers, requêtes et mémoires contentieux)",
+    "Participer, en lien avec le chef de service, à l'animation des différentes entités du service et agents associés et de coordonner leurs actions",
+    "Concourir à l'amélioration continue du service",
+    "Réaliser des études juridiques, rédiger ou analyser des projets de textes réglementaires sur des dossiers ou des problématiques complexes",
+    "Valider, rédiger ou analyser juridiquement projets de textes réglementaires, requêtes ou mémoires et autres productions contentieuses",
+    "Remplacer en cas d'absence le chef de service dans ses missions d'organisation, d'animation et de coordination du service"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Encadrer et animer une équipe",
+    "Savoir gérer les priorités et planifier le travail de l'équipe",
+    "Maîtriser l'analyse et la rédaction juridiques",
+    "Réaliser une analyse de risques juridiques et proposer des solutions adaptées",
+    "Prendre des décisions et anticiper",
+    "Savoir rendre compte",
+    "Maîtriser les outils informatiques",
+    "Bon relationnel",
+    "Esprit d'équipe",
+    "Esprit d'analyse",
+    "Rigueur",
+    "Pragmatisme",
+    "Sens de l'anticipation",
+    "Prise d'initiatives",
+    "Sens de l'organisation",
+    "Force de proposition"
+  ],
+  "specialCommitments": null,
+  "title": "Adjoint au chef du service des affaires juridiques et de la réglementation",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-06",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Ingénierie juridique",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "ingenierie-juridique"
+}
