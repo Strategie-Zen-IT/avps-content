@@ -16,13 +16,13 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Au moins égale à 5 ans"
+        "name": "Durée de résidence exigée",
+        "value": "au moins égale à 5 ans pour le recrutement sur titre"
       },
       {
         "@type": "PropertyValue",
-        "name": "Possibilité d'adaptation de l'emploi du temps",
-        "value": "Possibilité d'adaptation de l'emploi du temps individuel au projet des mineurs pris en charge"
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "possibilité d'adaptation de l'emploi du temps individuel au projet des mineurs pris en charge"
       },
       {
         "@type": "PropertyValue",
@@ -61,9 +61,9 @@
       }
     ]
   },
-  "alternateName": "Éducateur en milieu ouvert",
+  "alternateName": "Educateur spécialisé en milieu ouvert - STEMOI",
   "description": "Sous la responsabilité du chef de service et des chefs de service éducatif du STEMOI, l'éducateur en milieu ouvert intervient auprès de mineurs âgés de 13 à 18 ans dans le cadre d'un mandat judiciaire.\nIl assure l'accompagnement socio-éducatif et le suivi des jeunes concernés par des mesures judiciaires, qu'il s'agisse d'assistance éducative (articles 375 et suivants du Code civil) ou de mesures relevant de la protection judiciaire de la jeunesse au titre de l'enfance délinquante (CJPM).",
-  "disambiguatingDescription": "Éducateur spécialisé intervenant auprès de mineurs de 13 à 18 ans sous mandat judiciaire en milieu ouvert à Nouméa.",
+  "disambiguatingDescription": "Educateur spécialisé intervenant auprès de mineurs de 13 à 18 ans sous mandat judiciaire en milieu ouvert à Nouméa.",
   "identifier": "26-65800/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -99,7 +99,7 @@
   "datePosted": "2026-09-25",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'État d'éducateur Spécialisé",
+    "credentialCategory": "Diplôme d'État d'éducateur Spécialisé ou Attestation de validation de la formation d'éducation de la protection judiciaire de la jeunesse",
     "competencyRequired": [
       "Être titulaire du diplôme d'État d'éducateur Spécialisé ou de l'Attestation de validation de la formation d'éducation de la protection judiciaire de la jeunesse délivrée par l'école nationale de la protection judiciaire",
       "de la jeunesse",
@@ -123,15 +123,15 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": false,
+  "experienceInPlaceOfEducation": null,
   "experienceRequirements": "Expérience professionnelle dans la prise en charge de mineurs en difficultés",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Action sociale",
-  "jobBenefits": "Informations salaire disponibles sur le barème de la fonction publique de Nouvelle-Calédonie",
+  "industry": "Service public",
+  "jobBenefits": "Informations salaire disponibles sur https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -187,8 +187,8 @@
   "title": "Educateur spécialisé en milieu ouvert - STEMOI",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-16",
-  "workHours": "Possibilité d'adaptation de l'emploi du temps individuel",
-  "champs_open_data": 30,
+  "workHours": "Possibilité d'adaptation de l'emploi du temps individuel au projet des mineurs pris en charge",
+  "champs_open_data": 27,
   "employeur_sigle": "DPJEJ",
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
