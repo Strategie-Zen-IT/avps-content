@@ -1,0 +1,183 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Internat de La Foa",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable du bureau administratif, financier et logistique",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Gestionnaire",
+      "Direction",
+      "Différents services de maintenance",
+      "Commerçants du village de La Foa et à Nouméa",
+      "Entreprises extérieures"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Port de vêtements professionnels adaptés, Manipulation de détergents et de déchets courants, Pénibilité physique : station debout prolongée, Nombreux déplacements à l'intérieur du lieu d'intervention ou sur plusieurs lieux différents, Activité en présence des usagers (espaces publics, etc.) ou en dehors des heures d'ouverture et d'accueil de l'établissement, Astreinte de nuit, les week-ends et les vacances scolaires"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953314.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l'éducation et de la réussite de la province Sud (DERES) a pour mission de garantir l'épanouissement de la jeunesse plurielle dans un environnement éducatif propice à la réussite quel que soit le niveau du système scolaire et favoriser le bien-être de ses personnels. L'internat provincial de La Foa est composé de 6 dortoirs, de 6 salles d’étude, d'un bâtiment administratif, d’une salle de vie scolaire, d’une infirmerie, d'un foyer, d’une lingerie, d’une cuisine et d'un réfectoire.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1526",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Agent polyvalent d'entretien et de maintenance à l'internat de la Foa",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "AreaServed",
+    "name": "Internat de La Foa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "La Foa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "44.75.36",
+    "email": "stephanie.uichi@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac pro",
+    "competencyRequired": [
+      "Titulaire du Bac pro technicien d’étude du bâtiment",
+      "Bonne connaissance en matière de plomberie, soudure, mécanique",
+      "Bonne connaissance des règles de sécurité pour les constructions légères en maçonnerie et/ou en menuiserie",
+      "Titulaire des habilitations électriques HO-BO-B5/ BR-B1-B2-BC",
+      "Maîtrise des outils bureautiques notamment Word, Excel et Outlook"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
+  "employerOverview": "Rattachée au pôle développement et épanouissement de la personne, la direction de l'éducation et de la réussite de la province Sud (DERES) a pour mission de garantir l'épanouissement de la jeunesse plurielle dans un environnement éducatif propice à la réussite quel que soit le niveau du système scolaire et favoriser le bien-être de ses personnels.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience d’au moins 3 ans dans un poste similaire",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Internat de La Foa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "La Foa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98880"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-11-02",
+  "occupationalCategory": [
+    "Patrimoine bâti",
+    "Entretien, surveillance et logistique"
+  ],
+  "physicalRequirement": "Pénibilité physique : station debout prolongée",
+  "qualifications": "Titulaire des permis B & D, Titulaire des habilitations électriques HO-BO-B5/ BR-B1-B2-BC",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Agent d'entretien des locaux"
+  },
+  "responsibilities": [
+    "Diagnostiquer les pannes et faire intervenir les entreprises en cas de besoin dans plusieurs domaines (maçonnerie, peinture, plomberie, mécanique, soudure, informatique...)",
+    "Exécuter, contrôler et gérer divers entretiens et travaux électriques",
+    "Entretenir, nettoyer et ranger les outils et les équipements mis à disposition",
+    "Réaliser des petits travaux de maçonnerie, de peinture, de plomberie, mécanique, soudure...",
+    "Pratiquer diverses interventions de maintenance dans les dortoirs et les bureaux administratifs",
+    "Diagnostiquer les grosses pannes du matériel de cuisine avant l’intervention des entreprises",
+    "Intervenir, dépanner et effectuer une petite maintenance du matériel de cuisine et des chambres froides",
+    "Participer aux réunions de chantier et faire remonter les informations auprès de la gestionnaire ou de la direction en cas de besoin",
+    "Ramasser et transporter les ordures au centre de tri de la commune",
+    "Récupérer des denrées alimentaires ou des fournitures diverses chez les commerçants du village de La Foa et à Nouméa",
+    "Nettoyer les véhicules et assurer la maintenance du petit matériel et outillage",
+    "Suivre mensuellement les différentiels des tableaux électriques de tous les bâtiments",
+    "Échanger et collaborer avec les différents services sur les demandes d’intervention de maintenance",
+    "Effectuer des travaux supplémentaires pour palier à une absence d’un collègue",
+    "Conduire un bus avec des élèves lors de sorties (si permis de transport en commun)",
+    "Assurer la continuité de l’accueil des internes en garantissant leur sécurité en situation exceptionnelle de crise"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Respect et application des normes et des procédures d'hygiène et de sécurité",
+    "Organisation méthodique du travail en fonction du planning et des consignes",
+    "Qualités rédactionnelles (comptes rendus, rapports, demande de devis...)",
+    "Notions d’entretien des climatiseurs, volets roulants, chaudières, système d’alarme, système d’incendie, matériels de cuisine...",
+    "Savoir opérer un 1er diagnostic concernant les dysfonctionnements du matériel utilisé notamment les climatiseurs, brasseurs d’air, ventilateur, fontaines d’eau, portail électrique, groupe électrogène, chaudière, système d’alarme anti intrusion, système d’incendie, chambres froides et matériels de cuisine tels que fours, sauteuses et divers appareils",
+    "Polyvalence",
+    "Sens du travail en équipe",
+    "Respect des plannings et des consignes",
+    "Discrétion",
+    "Organisation et autonomie",
+    "Rigueur et sens des responsabilités",
+    "Prises d’initiatives",
+    "Capacité d’adaptation",
+    "Disponibilité",
+    "Qualités relationnelles",
+    "Capacité à rendre compte à sa hiérarchie"
+  ],
+  "specialCommitments": "Astreinte de nuit, les week-ends et les vacances scolaires",
+  "title": "Agent polyvalent d'entretien et de maintenance à l'internat de la Foa",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-06",
+  "workHours": "Astreinte de nuit, les week-ends et les vacances scolaires",
+  "champs_open_data": 9,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Entretien, surveillance et logistique",
+  "famille_source": "respnc",
+  "famille_score": 0.998,
+  "dossier": "entretien-surveillance-et-logistique"
+}
