@@ -6,10 +6,7 @@
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chargé de mission auprès du secrétariat général",
     "placeOrganigramme": null,
-    "relationsFonctionnelles": [
-      "Secrétariat général de la province Sud",
-      "Brigade de surveillance provinciale"
-    ],
+    "relationsFonctionnelles": [],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
@@ -53,13 +50,13 @@
     "email": "william.brevi@province-sud.nc"
   },
   "baseSalary": null,
-  "datePosted": "2026-10-09",
+  "datePosted": "2026-10-16",
   "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Certificat de formation en sécurité ou qualification similaire recommandé",
     "competencyRequired": [
       "Formation aux gestes de premiers secours et aux techniques de prévention des risques souhaitée",
-      "Avoir des notions en self-défense serait un avantage"
+      "Notions en self-défense"
     ]
   },
   "eligibilityToWorkRequirement": null,
@@ -89,7 +86,7 @@
     "name": "Secrétariat Général",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "6 route des artifices",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -102,7 +99,7 @@
   "occupationalCategory": [
     "Prévention et sécurité"
   ],
-  "physicalRequirement": "Bonne condition physique et capacité à travailler en horaires décalés",
+  "physicalRequirement": "Bonne condition physique",
   "qualifications": "Permis B exigé",
   "relevantOccupation": {
     "@type": "Occupation",
@@ -113,9 +110,9 @@
     "La détection des comportements suspects",
     "L'intervention lors d'incidents et l'alerte subséquente aux autorités et/ou services compétents si nécessaire",
     "La rédaction de rapports d'intervention et la tenue des registres de suivi",
-    "Des rondes régulières ou des stations fixes sont effectuées pour garantir la sécurité des lieux"
+    "Effectuer des rondes régulières ou des stations fixes pour garantir la sécurité des lieux"
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -137,8 +134,8 @@
   "specialCommitments": "Astreintes et horaires décalés possibles",
   "title": "Agent de gardiennage et de surveillance",
   "totalJobOpenings": 4,
-  "validThrough": "2026-10-30",
-  "workHours": "Horaires flexibles (journée et nuit)",
+  "validThrough": "2026-11-06",
+  "workHours": "Horaires flexibles et décalés (jour et nuit)",
   "champs_open_data": 9,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
