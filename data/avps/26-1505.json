@@ -8,7 +8,12 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Responsables des UPASS",
-      "Equipes des différents CMS"
+      "Equipes des différents CMS",
+      "Médecins",
+      "Sages-femmes",
+      "Assistantes sociales",
+      "Spécialistes vacataires",
+      "Psychothérapeutes"
     ],
     "informationsLibres": [
       {
@@ -18,8 +23,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Une attention particulière est portée à la santé communautaire, à la prévention et à la promotion de la santé, étant rappelé que le poste nécessite un bon niveau en termes d'urgences médicales. Ce poste demande des déplacements fréquents en province Sud. Les agents sont soumis à des astreintes de nuit et de week-end selon les plannings établis par roulements. Lors des remplacements en brousse, un logement provincial sera mis à disposition."
+        "name": "Logement",
+        "value": "Lors des remplacements en brousse, un logement provincial sera mis à disposition"
       },
       {
         "@type": "PropertyValue",
@@ -29,8 +34,8 @@
     ]
   },
   "alternateName": null,
-  "description": "L'infirmier(ère) itinérant(e), rattaché(e) au service des ressources humaines et des moyens (SRHM), est amené(e) à intervenir dans toutes les unités provinciales d'action sanitaire et sociale (UPASS) et les CMS, en particulier sur les zones de Thio, Bourail, La Foa, Yaté et l'Île des Pins, au sein d'équipes pluridisciplinaires (médecins, sages-femmes, assistantes sociales, spécialistes vacataires, psychothérapeutes, etc.). Il/Elle pourra être amenée occasionnellement à travailler sur Nouméa.",
-  "disambiguatingDescription": null,
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "disambiguatingDescription": "L'infirmier(ère) itinérant(e), rattaché(e) au service des ressources humaines et des moyens (SRHM), est amené(e) à intervenir dans toutes les unités provinciales d'action sanitaire et sociale (UPASS) et les CMS, en particulier sur les zones de Thio, Bourail, La Foa, Yaté et l'Île des Pins, au sein d'équipes pluridisciplinaires.",
   "identifier": "26-1505",
   "image": null,
   "mainEntityOfPage": null,
@@ -46,25 +51,14 @@
   "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "Province Sud",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": null,
-      "addressLocality": "Bourail",
-      "addressRegion": "Province Sud",
-      "addressCountry": "NC",
-      "province": "province Sud"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "20.44.76",
     "email": "mathilde.panayotou@province-sud.nc"
   },
   "baseSalary": null,
-  "datePosted": "2026-10-09",
+  "datePosted": "2026-10-16",
   "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Diplôme d'État d'infirmier",
@@ -72,13 +66,13 @@
       "Connaissances en prévention et en promotion de la santé (charte d'Ottawa)"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence au moins égale à 5 ans pour le recrutement sur titre d'infirmier en soins généraux",
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
-    "name": "Service des ressources humaines et des moyens (SRHM)",
-    "url": null,
+    "@type": "OrganizationalUnit",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
     "logo": null
   },
   "estimatedSalary": null,
@@ -91,12 +85,12 @@
   },
   "incentiveCompensation": null,
   "industry": "Santé publique",
-  "jobBenefits": "Lors des remplacements en brousse, un logement provincial sera mis à disposition.",
+  "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Unités provinciales d'action sanitaire et sociale (UPASS) et CMS",
+    "name": "Bourail",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -119,12 +113,12 @@
     "name": "Infirmier"
   },
   "responsibilities": [
-    "réaliser des soins (biométrie, infections, prélèvements, pansements et stérilisation) sur rôle propre infirmier et sur prescriptions médicales",
-    "pratiquer les activités préventives individuelles (éducation du patient)",
-    "pratiquer les activités collectives (protection maternelle et infantile (PMI), santé scolaire, vaccinations)",
-    "accueillir les urgences (prise en charge, relevage des victimes, conditionnement, évacuations)",
-    "prendre en charge des patients admis en observation",
-    "réaliser le suivi de la pharmacie et du matériel"
+    "Réaliser des soins (biométrie, infections, prélèvements, pansements et stérilisation) sur rôle propre infirmier et sur prescriptions médicales",
+    "Pratiquer les activités préventives individuelles (éducation du patient)",
+    "Pratiquer les activités collectives (protection maternelle et infantile (PMI), santé scolaire, vaccinations)",
+    "Accueillir les urgences (prise en charge, relevage des victimes, conditionnement, évacuations)",
+    "Prendre en charge des patients admis en observation",
+    "Réaliser le suivi de la pharmacie et du matériel"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
@@ -145,11 +139,11 @@
     "Flexibilité",
     "Disponibilité"
   ],
-  "specialCommitments": "Astreintes de nuit et de week-end selon les plannings établis par roulements. Déplacements fréquents en province Sud.",
+  "specialCommitments": "Astreintes de nuit et de week-end selon les plannings établis par roulements",
   "title": "Infirmier(e) itinérant(e)",
   "totalJobOpenings": 4,
-  "validThrough": "2026-10-30",
-  "workHours": "Astreintes de nuit et de week-end",
+  "validThrough": "2026-11-06",
+  "workHours": "Déplacements fréquents en province Sud. Astreintes de nuit et de week-end.",
   "champs_open_data": 9,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
