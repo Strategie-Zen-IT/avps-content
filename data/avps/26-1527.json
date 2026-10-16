@@ -1,0 +1,169 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Bureau de la vie scolaire et de l'action éducative",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable du bureau de la vie scolaire et de l'action éducative",
+    "placeOrganigramme": "Rattaché au pôle besoins éducatifs particuliers (BEP)",
+    "relationsFonctionnelles": [
+      "Directeurs d’écoles",
+      "Partenaires médicaux-sociaux",
+      "Partenaires institutionnels",
+      "Enseignants spécialisés référents de circonscription",
+      "CCEP",
+      "CEJH",
+      "CDS-ASH",
+      "VE des communes"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Le poste est soumis au rythme administratif des congés annuels et devra s’adapter à la saisonnalité des pics d’activité du service, notamment en juillet/août et en janvier/février. En fonction des nécessités de service, l’agent sera amené à venir en soutien sur l’ensemble des missions de la DERES."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952226.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l’éducation et de la réussite scolaire de la province Sud (DERES) a pour mission de garantir l’épanouissement de la jeunesse plurielle dans un environnement éducatif propice à la réussite quel que soit le niveau du système scolaire et de favoriser le bien-être de ses personnels. Au sein du service de l’action éducative et de la proximité, le bureau de la vie scolaire et de l’action éducative est chargé principalement du pilotage des actions éducatives, de garantir un lien de proximité entre les services administratifs de la DERES et les directeurs des écoles primaires publiques de la province sud, de la scolarisation des élèves avec une attention particulière envers les élèves à besoins éducatifs particuliers, situation de handicap ou de situation sociale difficile, des inscriptions scolaires et de la gestion prévisionnelle des effectifs des élèves dans le cadre de la préparation de la carte scolaire, et de mener des réflexions et d’élaborer des solutions concrètes aux problématiques rencontrées au sein des établissements scolaires.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1527",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Educateur spécialisé",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "AdministrativeArea",
+    "name": "Province Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.49.74",
+    "email": "devi.minatchy@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d’Etat d’éducateur spécialisé",
+    "competencyRequired": [
+      "Connaissances de l'institution scolaire et des réglementations en vigueur",
+      "Connaissances du réseau partenarial institutionnel et associatif dans le champ médico-social éducatif",
+      "Connaissances du contexte socio-culturel calédonien"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": "La direction de l’éducation et de la réussite scolaire de la province Sud (DERES) a pour mission de garantir l’épanouissement de la jeunesse plurielle dans un environnement éducatif propice à la réussite quel que soit le niveau du système scolaire et de favoriser le bien-être de ses personnels.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Bureau de la vie scolaire et de l'action éducative",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Expérience auprès des enfants, atteints de troubles de la conduite et du comportement obligatoire",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Action sociale",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Action sociale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Titulaire du permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Éducateur spécialisé"
+  },
+  "responsibilities": [
+    "Accompagner en proximité les équipes enseignantes dans les écoles : prévention des situations de rupture (absentéisme, décrochage, danger), collecte des situations auprès des équipes éducatives via les fiches de liaison notamment, observation des indicateurs d'alerte (retards, absentéisme, comportement), activation des dispositifs de protection le cas échéant (informations signalantes notamment), suivi des situations signalées in situ en collaboration avec les enseignants spécialisés référents de circonscription",
+    "Assurer la cohérence, la qualité et la continuité des dispositifs d’accompagnement des élèves à BEP (troubles des apprentissages, difficultés sociales, comportements, médicales)",
+    "Veiller à la cohérence et à la continuité des accompagnements en lien avec les directeurs d’écoles, les partenaires médicaux-sociaux, les partenaires institutionnels afin de favoriser l’inclusion scolaire et la réussite des élèves",
+    "Participer aux équipes éducatives et au suivi",
+    "Représenter la DERES dans les instances partenaires (CCEP, CEJH, CDS-ASH, VE des communes)",
+    "Assurer l’évaluation des objectifs et des actions mises en place",
+    "Rédiger les bilans périodiques sur les actions (nombre de situations repérées par écoles, délais de prise en charge, nombre de situations sécurisées, nombre de réunions de coordination, évolution de la situation des élèves)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Comprendre et gérer le débordement d’émotions et de violences",
+    "Réagir avec pertinence aux situations rencontrées",
+    "Savoir s'adapter aux problématiques individuelles et collectives",
+    "Communiquer clairement en adaptant son langage au public concerné",
+    "Savoir prendre du recul",
+    "Connaître les logiciels informatiques",
+    "Sens de l'organisation",
+    "Solidarité et travail d’équipe",
+    "Sens de l'écoute",
+    "Patience",
+    "Calme"
+  ],
+  "specialCommitments": null,
+  "title": "Educateur spécialisé",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-06",
+  "workHours": "Rythme administratif des congés annuels avec pics d'activité en juillet/août et janvier/février",
+  "champs_open_data": 7,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 0.984,
+  "dossier": "action-sociale"
+}
