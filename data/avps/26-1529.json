@@ -1,0 +1,187 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "SMTU",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable du service systèmes",
+    "placeOrganigramme": "Placée sous l'autorité du responsable du service systèmes",
+    "relationsFonctionnelles": [
+      "Prestataires",
+      "Éditeurs de solutions"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi",
+        "value": "Ingénieur 1er grade domaine de l'équipement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955298.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes et de transport scolaire du secondaire sur le territoire du Grand Nouméa.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1529",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Data ingénieur",
+  "owner": {
+    "@type": "Organization",
+    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+    "url": "http://www.smtu.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "http://www.smtu.nc",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "SMTU",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "recrutement@smtu.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3 à Bac+5",
+    "competencyRequired": [
+      "Connaissance des outils ETL",
+      "Notions de Python ou d'autres langages de traitement de données",
+      "Connaissance des systèmes billettiques ou SAEIV",
+      "Connaissances SIG et données géographiques",
+      "Formation supérieure en informatique, systèmes d'information, ingénierie ou domaine équivalent",
+      "Connaissances des architectures de bases de données",
+      "Connaissances en cybersécurité et protection des données",
+      "Connaissances des environnements Microsoft et des outils décisionnels",
+      "Maîtrise des outils bureautiques",
+      "Connaissances du fonctionnement des collectivités territoriales appréciées",
+      "Connaissances du secteur des transports publics appréciées"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes et de transport scolaire du secondaire sur le territoire du Grand Nouméa.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+    "url": "http://www.smtu.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience souhaitée dans l'administration applicative, la gestion de bases de données, l'exploitation de systèmes d'information ou la conduite de projets numériques.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+    "url": "http://www.smtu.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Transports terrestres et maritimes",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "SMTU",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Système d'information",
+    "Transports terrestres et maritimes"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "DATA ingénieur"
+  },
+  "responsibilities": [
+    "Assurer l'administration fonctionnelle des logiciels métiers du réseau",
+    "Superviser le bon fonctionnement des applications d'exploitation comme la Billettique et le SAEIV",
+    "Assurer le suivi des incidents et coordonner les actions correctives avec les prestataires",
+    "Participer aux évolutions des logiciels et aux opérations de recette",
+    "Rédiger et maintenir la documentation technique et fonctionnelle",
+    "Participer au paramétrage des titres de transport et tarifs",
+    "Contrôler la qualité et la cohérence des données",
+    "Contribuer à l'expression des besoins fonctionnels d'infrastructure système et réseau",
+    "Assurer l'exploitation et la maintenance des bases de données liées à l'activité du réseau",
+    "Réaliser des extractions de données pour les différents services",
+    "Produire des indicateurs et tableaux de bord de suivi d'activité",
+    "Participer à l'amélioration de la qualité et de la structuration des données",
+    "Contribuer au développement de solutions décisionnelles et d'outils de reporting",
+    "Assister les utilisateurs dans l'exploitation des outils métiers",
+    "Organiser et animer des actions de formation",
+    "Participer à la veille technologique et réglementaire",
+    "Etre force de proposition dans l'amélioration des outils et processus"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Administration de logiciels métiers et applicatifs",
+    "Maîtrise des bases de données relationnelles",
+    "Bonne connaissance du langage SQL",
+    "Conception de requêtes et exploitation de données",
+    "Utilisation d'outils de reporting et de visualisation de données (Power BI ou équivalent)",
+    "Gestion de projets informatiques",
+    "Capacité à travailler avec des prestataires et éditeurs",
+    "Élaboration de procédures et documentation technique",
+    "Rigueur et sens de l'organisation",
+    "Autonomie et capacité d'initiative",
+    "Esprit d'analyse et de synthèse",
+    "Qualités relationnelles et pédagogiques",
+    "Sens du travail en équipe",
+    "Réactivité et sens du service public",
+    "Capacité à vulgariser des sujets techniques",
+    "Force de proposition et implication dans les projets"
+  ],
+  "specialCommitments": null,
+  "title": "Data ingénieur",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-06",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "SYNDICAT-MIXTE-DES-TRANSPORTS-URBAINS-DU-GRAND-NOUMEA-SMTU",
+  "collectivite": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
+  "direction": "SMTU",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Système d'information",
+  "famille_source": "respnc",
+  "famille_score": 0.776,
+  "dossier": "systeme-d-information"
+}
