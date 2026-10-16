@@ -1,0 +1,158 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur / attaché",
+    "direction": "INSTITUT DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directrice",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans pour ingénieur 1er grade"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Environnement de travail",
+        "value": "L’institut de la statistique fait bénéficier ses agents d’un système d’horaires variables visant à améliorer leur équilibre organisationnel au quotidien. Il est engagé dans une démarche d’amélioration continue au service de la qualité de vie au travail."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12954124.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L’Isee est un établissement public de la Nouvelle-Calédonie employant 42 agents permanents ainsi qu’au besoin des enquêtes à mener, des agents contractuels à caractère saisonnier, chargés de collecter et traiter toutes les informations statistiques relatives à la Nouvelle-Calédonie. En outre, l’institut valorise l’information statistique qu’il produit, ou déjà existante, sous la forme d’études visant à éclairer la situation économique et sociale de la Nouvelle-Calédonie. Le rôle de l’Isee est également d’assurer la diffusion la plus large des statistiques disponibles.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1531",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé d'études économiques et statistiques",
+  "owner": {
+    "@type": "Organization",
+    "name": "Institut de la statistique et des études économiques"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Isee",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "52, Avenue du Maréchal FOCH, Immeuble Malawi, 3ème étage",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "elise.desmazures@isee.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Formation de niveau 7 (anciennement I) minimum en sciences économiques, statistiques ou méthodes quantitatives appliquées",
+      "Bonnes connaissances en comptabilité nationale",
+      "Maîtrise des concepts d’analyse financière et comptable des entreprises et/ou des administrations"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "L’Isee est un établissement public de la Nouvelle-Calédonie employant 42 agents permanents ainsi qu’au besoin des enquêtes à mener, des agents contractuels à caractère saisonnier, chargés de collecter et traiter toutes les informations statistiques relatives à la Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Institut de la statistique et des études économiques",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience avérée en analyse de données",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Institut de la statistique et des études économiques"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Système d’horaires variables visant à améliorer l’équilibre organisationnel au quotidien",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Isee",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "52, Avenue du Maréchal FOCH, Immeuble Malawi, 3ème étage",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Finances et budget",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Statisticien économiste"
+  },
+  "responsibilities": [
+    "Exploiter les données administratives et les compléter le cas échéant en menant des enquêtes (auprès des entreprises essentiellement) et en effectuant des estimations statistiques",
+    "Participer à l’élaboration des comptes économiques de la Nouvelle-Calédonie",
+    "Rédiger des études valorisant la réalisation des comptes économiques et réaliser des analyses quantitatives sur les grands phénomènes socio-économiques de la Nouvelle-Calédonie",
+    "Produire des statistiques économiques à la demande",
+    "Participer à la mise en place de modèles d’impact",
+    "Assurer une veille économique"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Expérience avérée en analyse de données",
+    "Maîtrise du langage de programmation R",
+    "Maîtrise d’Excel, Word, Powerpoint",
+    "Maîtrise de l’outil d’élaboration des comptes nationaux Eretes",
+    "Des connaissances en économétrie seraient appréciées",
+    "Qualités rédactionnelles",
+    "Capacité d’analyse",
+    "Engagement au respect de la confidentialité et du secret statistique",
+    "Rigueur et organisation",
+    "Gestion de projet",
+    "Goût de la communication et du travail en équipe"
+  ],
+  "specialCommitments": null,
+  "title": "Chargé d'études économiques et statistiques",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-06",
+  "workHours": "Horaires variables",
+  "champs_open_data": 9,
+  "employeur_sigle": "ISEE",
+  "collectivite": "Institut de la statistique et des études économiques",
+  "direction": "INSTITUT DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Pilotage",
+  "famille_source": "respnc",
+  "famille_score": 0.847,
+  "dossier": "pilotage"
+}
