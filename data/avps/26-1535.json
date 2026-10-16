@@ -1,0 +1,163 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif",
+    "direction": "CABINET DU MAIRE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur de cabinet",
+    "placeOrganigramme": "Emploi directement rattaché à l’exécutif municipal",
+    "relationsFonctionnelles": [
+      "Membres du cabinet",
+      "Administrés",
+      "Services municipaux",
+      "Partenaires extérieurs"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 10 ans pour le recrutement sans concours d'un adjoint administratif"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Travail en bureau avec déplacements sur tout le territoire. Horaires irréguliers (y compris les weekends et jours fériés), avec amplitude variable en fonction des obligations liées à la fonction."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957368.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le Cabinet accompagne l’exécutif dans l'exercice quotidien des fonctions et mandats des élus. Ce service est donc un acteur clef des liens entre ceux-ci, les administrés, les services municipaux et les partenaires extérieurs. A ce titre, il est amené à traiter des données et des informations à caractère sensible et confidentielles. De même, il induit une exigence forte de disponibilité et de confidentialité. Le/la secrétaire organise pour le compte des membres du cabinet : la réception, le traitement et la circulation de l’information liée au service. Il/elle exécute les actes administratifs courants.",
+  "disambiguatingDescription": "Secrétaire au sein du Cabinet du Maire de la Ville de Païta",
+  "identifier": "26-1535",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Secrétaire",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Païta"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Mairie de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue Francis Rossi",
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "35.26.76",
+    "email": "recrutement@ville-paita.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac minimum",
+    "competencyRequired": [
+      "Connaissance du fonctionnement de la collectivité et des institutions de la Nouvelle-Calédonie",
+      "Connaissance de l’organisation politique, administrative et économique de la Nouvelle-Calédonie",
+      "Connaissance des procédures administratives",
+      "Maîtrise du protocole républicain",
+      "Maîtrise de l’outil informatique",
+      "Maîtrise des techniques rédactionnelles"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence en Nouvelle-Calédonie au moins égale à 10 ans",
+  "employerOverview": "Le Cabinet accompagne l’exécutif dans l'exercice quotidien des fonctions et mandats des élus.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Cabinet du Maire",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience en qualité de secrétaire souhaitée. Expérience dans le domaine des actions et communications administratives serait appréciée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Païta"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue Francis Rossi",
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98890"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiat",
+  "occupationalCategory": [
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Secrétaire"
+  },
+  "responsibilities": [
+    "Accueil physique et téléphonique, prise des messages et transmission",
+    "Enregistrement et classement du courrier entrant et sortant dans le logiciel de gestion du courrier",
+    "Prise de RV du cabinet",
+    "Suivi des demandes liées aux cérémonies selon les instructions de la direction",
+    "Engagement et suivi des bons et lettres de commandes",
+    "La saisie, la rédaction et la mise en forme de courriers et de documents divers"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Qualités rédactionnelles avérées",
+    "Gestion des priorités et hiérarchisation de l'urgence des demandes",
+    "Sens de l'accueil",
+    "Rigueur et fiabilité",
+    "Disponibilité et réactivité",
+    "Capacité d'adaptation et de synthèse",
+    "Polyvalence",
+    "Bon relationnel et diplomatie",
+    "Respect strict de la confidentialité des données"
+  ],
+  "specialCommitments": "Astreintes et horaires irréguliers possibles (weekends et jours fériés)",
+  "title": "Secrétaire",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-06",
+  "workHours": "Horaires irréguliers avec amplitude variable",
+  "champs_open_data": 7,
+  "employeur_sigle": "VILLE-DE-PAITA",
+  "collectivite": "Ville de Païta",
+  "direction": "CABINET DU MAIRE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "administration-generale"
+}
