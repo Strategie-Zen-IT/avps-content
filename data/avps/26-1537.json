@@ -1,0 +1,163 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Pôle Formation et Insertion",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cheffe de service du Pôle Formation et Insertion",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Conseillers en insertion socioprofessionnelle (CISP) des autres ETH",
+      "Partenaires du secteur privé et public"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Permanences mensuelles dans les communes et selon les besoins des usagers. Déplacements fréquents sur l'ensemble du territoire de la Province Nord. Travail en week-ends et jours fériés."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12954562.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Dans le cadre de la politique publique d’insertion sociale et professionnelle de la province Nord, la DEFIJ recrute un(e) conseiller(e) en insertion socioprofessionnelle. La personne retenue devra accueillir, informer, conseiller, orienter les usagers et les accompagner tout au long de leur parcours. Elle sera basée sur Koumac et devra couvrir les communes de l’Entité territoriale homogène (ETH) Grand Nord : Bwapanu (Kaala-Gomen), Koumac, Pum (Poum) et Dau Ar (Bélep).",
+  "disambiguatingDescription": null,
+  "identifier": "26-1537",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Conseiller(e) en insertion socio-professionnelle - Koumac",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.72.27",
+    "email": "r.kasovimoin@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Baccalauréat ou BPJEPS",
+    "competencyRequired": [
+      "Très bonne connaissance exigée du territoire de la Province Nord et notamment de l'ETH Grand Nord",
+      "Très bonne connaissance des particularités du public en insertion sociale et professionnelle de la Province Nord",
+      "Bonne connaissance du tissu social et économique de la Province Nord",
+      "Bonne connaissance du réseau des partenaires en matière d'information, de formation professionnelle, d'emploi, d'insertion et de réinsertion de la NC et de la Province Nord"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La DEFIJ est chargée d’appliquer les orientations politiques de la province Nord en matière d’enseignement, de formation et d’insertion. Elle comprend quatre pôles : le pôle administratif et financier, le pôle enseignement, le pôle jeunesse et le pôle formation et insertion. Elle compte environ 573 agents.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Nord",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Justifier d'une expérience minimum de 2 ans dans l'insertion socio-professionnelle ou dans l'accompagnement d'un public vers l'emploi ou dans les secteurs de l'intervention sociale, de l'éducation, de la médiation ou du développement local.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Koumac",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Koumac",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98850"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-03-10",
+  "occupationalCategory": [
+    "Action sociale",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Conseiller en insertion"
+  },
+  "responsibilities": [
+    "Accueillir les publics (accueil physique, téléphonique, numérique)",
+    "Informer et orienter les usagers en entretiens individuels et/ou collectifs",
+    "Accompagner, à court ou long terme, les parcours d’insertion sociale et professionnelle des usagers en fonction des situations et des besoins",
+    "Proposer des solutions adaptées en fonction des situations des usagers",
+    "Collaborer avec les partenaires (secteur privé et public) sur son ETH et sur l’ensemble du territoire de la Province Nord",
+    "Proposer et concevoir des dispositifs et des actions en fonction des besoins des publics",
+    "Animer tous type de réunions et d’ateliers à destination des usagers et des partenaires",
+    "Participer à la campagne d’identification des besoins en formation du Pôle",
+    "Participer aux évènementiels de la collectivité, de la direction et/ou des partenaires",
+    "Assurer la gestion technique et administrative des dossiers des usagers",
+    "Participer à la rédaction des bilans et des comptes rendus",
+    "Assurer une veille sur l’activité d’insertion",
+    "Participer à l’élaboration de supports de communication",
+    "L’appui à la cheffe de service du Pôle sur la préparation du budget"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des techniques d’entretien et de communication",
+    "Avoir une bonne capacité d’analyse des problématiques et des situations des usagers",
+    "Faire preuve d’attention et d’écoute active",
+    "Avoir une facilité d’expression et de communication",
+    "Savoir s’adapter à des publics variés",
+    "Savoir gérer ses émotions",
+    "Etre capable de travailler en équipe et en réseau multi partenarial",
+    "Etre capable d’animer des ateliers, des réunions techniques",
+    "Maîtrise de l’outil informatique et du Pack Office",
+    "Maîtrise des technologies de l’information et de la communication (TIC)",
+    "Etre capable de créer des supports de communication",
+    "Savoir rendre compte à sa hiérarchie",
+    "Qualités relationnelles",
+    "Sens du travail en équipe",
+    "Réserve et respect de la confidentialité",
+    "Motivation positive pour les actions et projets au service du public en insertion",
+    "Prise d’initiative et réactivité",
+    "Disponibilité",
+    "Reporting",
+    "Autonomie"
+  ],
+  "specialCommitments": null,
+  "title": "Conseiller(e) en insertion socio-professionnelle - Koumac",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-06",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Formation professionnelle",
+  "famille_source": "respnc",
+  "famille_score": 0.896,
+  "dossier": "formation-professionnelle"
+}
