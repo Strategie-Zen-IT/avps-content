@@ -5,12 +5,12 @@
     "uniteOrganisationnelle": "Service des affaires financières",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef du service des affaires financières",
-    "placeOrganigramme": null,
+    "placeOrganigramme": "Placé sous l’autorité du chef du service des affaires financières, et du chef adjoint du service des affaires financières",
     "relationsFonctionnelles": [
-      "Pôle support, évaluation et accompagnement",
       "Service des affaires financières",
-      "Fournisseurs",
-      "Familles d'accueil"
+      "Pôle support, évaluation et accompagnement",
+      "Unités provinciales d'action sanitaire et sociale",
+      "Centre médico-sociaux"
     ],
     "informationsLibres": [
       {
@@ -31,8 +31,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La direction de l'action sanitaire et sociale (DPASS) est rattachée au pôle développement et épanouissement de la personne de la province Sud et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS) et centre médico-sociaux (CMS) et de ses autres sites excentrés. Au sein du pôle support, évaluation et accompagnement, le service des affaires financières (SAF) a pour missions l'élaboration du budget en dépenses et recettes et le suivi de son exécution, le suivi des subventions, ainsi que la régulation et la gestion de l'ensemble des régies. L'agent retenu sera chargé d'assurer le traitement comptable des dépenses courantes et éventuellement des recettes.",
-  "disambiguatingDescription": null,
+  "description": "La direction de l'action sanitaire et sociale (DPASS) est rattachée au pôle développement et épanouissement de la personne de la province Sud et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS) et centre médico-sociaux (CMS) et de ses autres sites excentrés. Au sein du pôle support, évaluation et accompagnement, le service des affaires financières (SAF) a pour missions l’élaboration du budget en dépenses et recettes et le suivi de son exécution, le suivi des subventions, ainsi que la régulation et la gestion de l’ensemble des régies. L'agent retenu sera chargé d’assurer le traitement comptable des dépenses courantes et éventuellement des recettes.",
+  "disambiguatingDescription": "Traitement comptable des dépenses courantes et éventuellement des recettes au sein du service des affaires financières de la DPASS.",
   "identifier": "26-1502",
   "image": null,
   "mainEntityOfPage": null,
@@ -48,14 +48,25 @@
   "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "LandmarksOrHistoricalBuildings",
+    "name": "Direction Provinciale de l'Action Sanitaire et Sociale",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "20.44.13",
     "email": "sandrine.colombet@province-sud.nc"
   },
   "baseSalary": null,
-  "datePosted": "2026-10-09",
+  "datePosted": "2026-10-16",
   "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Adjoint administratif",
@@ -67,7 +78,7 @@
       "Connaissances de l'organisation administrative de la collectivité et des circuits administratifs"
     ]
   },
-  "eligibilityToWorkRequirement": null,
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs au moins égale à 10 ans",
   "employerOverview": "La direction de l'action sanitaire et sociale (DPASS) contribue, dans une dynamique de synergie médico-sociale, à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux et à prendre en charge les difficultés intrafamiliales.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
@@ -114,28 +125,27 @@
     "name": "Gestionnaire comptable"
   },
   "responsibilities": [
-    "Assurer le traitement comptable des dépenses courantes",
     "Effectuer la réception, le traitement, la vérification et le classement des pièces comptables",
     "Éditer des engagements financiers et/ou des bons de commandes",
     "Vérifier, liquider et pré-mandater les dépenses",
-    "Préparer mensuellement le paiement des indemnités aux familles d'accueil",
+    "Préparer mensuellement le paiement des indemnités aux familles d’accueil",
     "Assurer un suivi financier des dossiers qui lui seront donnés à traiter",
     "Effectuer des demandes de création de lignes de crédits et de virement de crédits",
     "Informer le fournisseur du paiement de sa facture quand nécessaire",
     "Mettre en place ou mettre à jour des procédures sur le poste occupé",
-    "Être un renfort dans l'équipe lors de l'absence d'un collègue tant sur la partie dépenses que sur la partie recettes",
-    "Participer à l'évaluation annuelle des dépenses dans son domaine d'activité"
+    "Être un renfort dans l’équipe lors de l’absence d’un collègue tant sur la partie dépenses que sur la partie recettes",
+    "Participer à l’évaluation annuelle des dépenses dans son domaine d’activité"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
     "Capacité à travailler en équipe",
-    "Capacité à s'adapter aux différentes situations et interlocuteurs",
-    "Capacité à expliciter de manière factuelle le traitement d'un dossier, des procédures et des démarches administratives",
+    "Capacité à s’adapter aux différentes situations et interlocuteurs",
+    "Capacité à expliciter de manière factuelle le traitement d’un dossier, des procédures et des démarches administratives",
     "Capacité à respecter les procédures générales, à combiner les tâches, à organiser son travail et à exercer un autocontrôle",
     "Capacité à être autonome sur certaines tâches",
-    "Capacité à être force de propositions dans l'amélioration de l'exécution quotidienne",
+    "Capacité à être force de propositions dans l’amélioration de l’exécution quotidienne",
     "Rigueur",
     "Réactivité",
     "Sens du service public",
@@ -148,8 +158,8 @@
   "specialCommitments": null,
   "title": "Gestionnaire comptable",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-30",
-  "workHours": null,
+  "validThrough": "2026-11-06",
+  "workHours": "Forte activité en période de clôture budgétaire",
   "champs_open_data": 7,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
