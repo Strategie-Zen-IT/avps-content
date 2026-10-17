@@ -1,0 +1,189 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Psychologue",
+    "direction": "AGENCE SANITAIRE ET SOCIALE",
+    "uniteOrganisationnelle": "Programme de prévention en addictologie",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Professionnels médicaux",
+      "Professionnels paramédicaux",
+      "Professionnels éducatifs",
+      "Établissements scolaires",
+      "Acteurs sanitaires et sociaux du territoire"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Programme",
+        "value": "Prévention en addictologie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements fréquents sur l'ensemble de la Nouvelle-Calédonie (principalement en province Nord). Véhicule de service mis à disposition."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Dispositif pilote",
+        "value": "Intervention en point écoute sur deux demi-journées par semaine en collège et lycée auprès d'élèves de 6e et de seconde (80% agent DECLIC / 20% point écoute)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952070.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'agence sanitaire et sociale de la Nouvelle-Calédonie, établissement public administratif, met en œuvre les programmes prioritaires de prévention et de promotion de la santé décidés par la Nouvelle-Calédonie. Dans le cadre du programme de prévention en addictologie, la consultation DECLIC offre gratuitement et anonymement aux jeunes consommateurs jusqu'à 25 ans et à leur entourage un bilan de leurs consommations, des conseils, une aide à l'arrêt ou une orientation. Le psychologue itinérant aura pour mission la mise en œuvre de ces consultations en province Nord au sein d'une équipe pluridisciplinaire et en transversalité.",
+  "disambiguatingDescription": "Poste de psychologue itinérant axé sur la prévention en addictologie (consultations DECLIC et points écoute scolaires) en zone province Nord.",
+  "identifier": "26-1552",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Psychologue itinérant",
+  "owner": {
+    "@type": "Organization",
+    "name": "Agence sanitaire et sociale"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Area",
+    "name": "Zone province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.52.17",
+    "email": "recrutement@ass.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Master 2",
+    "competencyRequired": [
+      "DESS en psychologie ou master 2 mention psychologie",
+      "Formation en addictologie et / ou expérience en addictologie souhaitable",
+      "Formation ou expérience en éducation pour la santé souhaitable",
+      "Formation ou expérience en thérapie systémique familiale souhaitable",
+      "Formation ou expérience des thérapies cognitives comportementales souhaitable"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
+  "employerOverview": "L'agence sanitaire et sociale de la Nouvelle-Calédonie, établissement public administratif, a pour objet de faciliter la garantie du droit à la santé pour tous. Elle met en œuvre les programmes prioritaires de prévention et de promotion de la santé décidés par la Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Agence sanitaire et sociale de la Nouvelle-Calédonie (ASSNC)",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience en addictologie, en éducation pour la santé, en thérapie systémique familiale ou en thérapies cognitives comportementales souhaitable.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Agence sanitaire et sociale"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": "Véhicule de service mis à disposition pour les déplacements professionnels.",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Zone province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98860"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Santé publique soins",
+    "Politique de santé publique"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B requis",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Psychologue"
+  },
+  "responsibilities": [
+    "L'accueil, l'écoute, l'évaluation, l'information, le suivi et l'accompagnement du public en difficulté avec des consommations",
+    "L'accueil et le suivi des personnes sous mains de justice",
+    "L'accueil, l'écoute et l'accompagnement des familles en difficulté",
+    "Le travail partenarial avec les professionnels médicaux, paramédicaux, éducatifs intervenants auprès du public accueilli",
+    "La participation à l'évaluation de l'activité",
+    "La formalisation du réseau et la formation des professionnels",
+    "La communication sur l'activité",
+    "L'évaluation de l'activité, élaboration et communication des bilans annuels",
+    "Contribution à des activités visant à la promotion du dispositif",
+    "Participation à des sensibilisations de professionnels notamment sur la thématique",
+    "Encadrement et tutorat des stagiaires",
+    "Intervention en point écoute au sein de certains établissements scolaires en collège et lycée auprès d'élèves de 6e et de seconde"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Organiser et animer des groupes",
+    "Ajuster la thérapeutique en fonction du patient et de l'environnement familial",
+    "Rédiger des notes cliniques ou des rapports d'activité",
+    "Adapter la pratique professionnelle aux situations, le discours des personnes",
+    "Observer, écouter et analyser la situation, le discours des personnes",
+    "Formaliser et transmettre le savoir professionnel",
+    "Connaissances institutionnelles des champs de la santé, du social et du milieu associatif",
+    "Sens de l'organisation et capacité à prendre des décisions",
+    "Connaissances en éducation pour la santé",
+    "Connaissance des cultures du pacifiques",
+    "Qualité d'empathie propice à créer une relation de confiance auprès des patients et de leur entourage",
+    "Capacité à travailler de façon autonome avec un réseau de partenaires",
+    "Capacités à travailler dans une dynamique d'équipe avec ouverture d'esprit",
+    "Éthique et déontologie",
+    "Sens du service public",
+    "Adaptabilité",
+    "Discrétion",
+    "Rigueur"
+  ],
+  "specialCommitments": "Déplacements fréquents sur l'ensemble de la Nouvelle-Calédonie (principalement en province Nord)",
+  "title": "Psychologue itinérant",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-06",
+  "workHours": "Temps plein (répartition de l'activité : 80% agent DECLIC / 20% point écoute pendant l'expérimentation)",
+  "champs_open_data": 7,
+  "employeur_sigle": "ASS-NC",
+  "collectivite": "Agence sanitaire et sociale",
+  "direction": "AGENCE SANITAIRE ET SOCIALE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
