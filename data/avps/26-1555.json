@@ -1,0 +1,194 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Emploi fonctionnel",
+    "direction": "INSTITUT DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 42,
+    "superieurHierarchique": "Conseil d'administration",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Conseil d'administration",
+      "Insee",
+      "Communauté du Pacifique (CPS)",
+      "Institutions de la Nouvelle-Calédonie",
+      "Organismes statistiques et économiques partenaires",
+      "Médias"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "24 janvier 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957714.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'Institut de la statistique et des études économiques (Isee) est un établissement public de la Nouvelle-Calédonie chargé de collecter, produire, analyser et diffuser les informations statistiques relatives à la Nouvelle-Calédonie. Établissement à taille humaine, l'Isee compte environ 42 agents permanents et mobilise également, en fonction des enquêtes conduites, des agents contractuels chargés notamment de la collecte des données. L'Institut produit et valorise des statistiques, études et analyses permettant d'éclairer la situation économique, sociale et démographique de la Nouvelle-Calédonie. Il assure leur diffusion auprès des institutions, des acteurs économiques et sociaux et du public.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1555",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Directeur / Directrice",
+  "owner": {
+    "@type": "Organization",
+    "name": "Institut de la statistique et des études économiques"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Isee",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "52, Avenue du Maréchal FOCH, Immeuble Malawi, 3ème étage",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "28.31.56",
+    "email": "isee@isee.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Formation supérieure en statistique, économie, économétrie ou domaine équivalent",
+    "competencyRequired": [
+      "Statistique publique, études économiques ou production et analyse de données",
+      "Management, pilotage stratégique ou direction d'une organisation",
+      "Enjeux, principes, méthodes et règles déontologiques de la statistique publique",
+      "Organisation et fonctionnement d'un organisme statistique public",
+      "Organisation institutionnelle de la Nouvelle-Calédonie et des établissements publics",
+      "Enjeux de pilotage stratégique, d'organisation et de conduite du changement",
+      "Méthodes et outils de production, d'analyse, de valorisation et de diffusion statistiques",
+      "Anglais professionnel"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
+  "employerOverview": "L'Institut de la statistique et des études économiques (Isee) est un établissement public de la Nouvelle-Calédonie chargé de collecter, produire, analyser et diffuser les informations statistiques relatives à la Nouvelle-Calédonie. Établissement à taille humaine, l'Isee compte environ 42 agents permanents.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Institut de la statistique et des études économiques",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience confirmée en statistique publique, études économiques ou production et analyse de données, assortie d'une expérience significative de management, de pilotage stratégique ou de direction d'une organisation.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Institut de la statistique et des études économiques"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Isee",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "52, Avenue du Maréchal FOCH, Immeuble Malawi, 3ème étage",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-24",
+  "occupationalCategory": [
+    "Pilotage",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Directeur/trice"
+  },
+  "responsibilities": [
+    "Assurer la direction générale de l'Isee et garantir l'accomplissement de ses missions de service public sous l'autorité du conseil d'administration",
+    "Définir les orientations, les priorités et le programme de travail de l'Isee",
+    "Assurer le pilotage global de l'établissement et l'allocation de ses moyens humains, budgétaires et techniques",
+    "Préparer et mettre en œuvre les orientations et décisions du conseil d'administration",
+    "Exercer les responsabilités d'ordonnateur du budget de l'établissement",
+    "Assurer le suivi de la performance, des risques et de la continuité des activités de l'Institut",
+    "Veiller à l'adéquation entre les missions de l'établissement, les priorités statistiques et les ressources disponibles",
+    "Garantir la qualité, la cohérence, la fiabilité et la pertinence des statistiques produites et diffusées par l'Isee",
+    "Veiller au respect des principes professionnels et déontologiques propres à la statistique publique",
+    "Adapter les productions statistiques à l'évolution des besoins des utilisateurs, des méthodes et des sources de données",
+    "Favoriser l'innovation et l'efficience dans les méthodes de collecte, de traitement, d'analyse et de diffusion",
+    "Développer la valorisation et l'accessibilité des données et études produites par l'Institut",
+    "Encadrer l'équipe de direction et animer le collectif de travail",
+    "Définir et conduire les évolutions organisationnelles nécessaires à l'accomplissement des missions de l'Institut",
+    "Développer les compétences, l'expertise et la transversalité des équipes",
+    "Accompagner les transformations des métiers et des méthodes de travail",
+    "Veiller à la continuité, à la sécurisation et à l'efficience des activités de l'établissement",
+    "Représenter l'Institut auprès des institutions de la Nouvelle-Calédonie et de ses principaux partenaires",
+    "Développer les relations avec les producteurs et utilisateurs de données",
+    "Entretenir les coopérations avec l'Insee ainsi qu'avec les organismes statistiques et économiques partenaires",
+    "Renforcer l'insertion de l'Isee dans les réseaux statistiques du Pacifique, notamment avec la Communauté du Pacifique (CPS), ainsi que dans les coopérations régionales et internationales",
+    "Assurer la communication institutionnelle de l'Institut et représenter, le cas échéant, l'établissement auprès des médias",
+    "Identifier et anticiper les nouveaux besoins d'information liés aux évolutions économiques, sociales et démographiques de la Nouvelle-Calédonie",
+    "Développer l'utilisation des données administratives et rechercher des modes de production statistique plus efficients",
+    "Organiser la réponse de l'Institut aux demandes d'expertise et d'études et d'éclairage statistique, dans le respect des principes de la statistique publique",
+    "Assurer la coordination nécessaire avec l'Insee pour la préparation et la réalisation du recensement de la population"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Définir une stratégie, des orientations et des priorités et en assurer la déclinaison opérationnelle",
+    "Piloter une organisation, accompagner ses transformations et conduire le changement",
+    "Arbitrer entre objectifs, contraintes, risques et ressources disponibles",
+    "Organiser et animer un travail collectif associant des partenaires internes et externes",
+    "Construire et entretenir des partenariats institutionnels, scientifiques et techniques",
+    "Analyser, synthétiser et restituer une information complexe auprès de publics variés",
+    "Représenter l'établissement dans des instances locales, nationales, régionales et internationales",
+    "Autonomie, sens des responsabilités et capacité de décision",
+    "Capacité à fédérer et à mobiliser les équipes",
+    "Initiative, réactivité et capacité d'adaptation",
+    "Rigueur, discernement et capacité d'arbitrage",
+    "Discrétion professionnelle et respect des exigences de confidentialité",
+    "Qualités d'expression écrite et orale",
+    "Aptitude au travail collaboratif et en réseau",
+    "Aptitude à représenter l'établissement et à intervenir auprès des institutions, partenaires et médias"
+  ],
+  "specialCommitments": null,
+  "title": "Directeur / Directrice",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-10-30",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "ISEE",
+  "collectivite": "Institut de la statistique et des études économiques",
+  "direction": "INSTITUT DE LA STATISTIQUE ET DES ETUDES ECONOMIQUES",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Pilotage",
+  "famille_source": "respnc",
+  "famille_score": 0.896,
+  "dossier": "pilotage"
+}
