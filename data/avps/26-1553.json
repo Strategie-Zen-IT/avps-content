@@ -1,0 +1,168 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "DES SYSTEMES D'INFORMATION",
+    "uniteOrganisationnelle": "Service : études et projets",
+    "nbAgentsEncadres": 5,
+    "superieurHierarchique": "Directeur des systèmes d’information",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "DSI",
+      "Directions métiers"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi / Domaine",
+        "value": "Ingénieur 2ème grade domaine informatique"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953860.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La Direction des Systèmes d’Information (DSI) est chargée de la gestion et de l’optimisation du système d’information de la Mairie et de ses établissements publics. Elle fixe et valide les grandes évolutions de l’informatique et de la collectivité, et anticipe les évolutions technologiques nécessaires. Enfin, elle évalue, préconise les investissements et contrôle l’efficacité et la maîtrise des risques liés au système d’information. Pour mener à bien ses missions, la DSI est organisée autour de cinq entités principales : le centre de services, le service ingénierie maintenance et production, le service études et projets, la cellule de la stratégie et le pôle administratif et budgétaire.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1553",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de service études et projets",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Hôtel de ville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.07.33",
+    "email": "philippe.wagner@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-16",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Titulaire d’un diplôme de niveau 7 (Bac+5) dans le domaine de l’informatique",
+      "Connaître le fonctionnement des collectivités territoriales et le cadre réglementaire de la commande publique",
+      "Maîtriser l’architecture, l’urbanisme et la sécurité des systèmes d'information",
+      "Maîtriser les méthodologies de gestion de projets (Agile/Scrum, cycle en V) et démarches qualité",
+      "Connaître le marché de l'offre informatique et des règles légales appliquées aux SI"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service études et projets",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience souhaitée d'au minimum 3 ans sur un poste similaire d’encadrement ou de responsabilité de projets SI",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Système d'information",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de ville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chef de service études et projets"
+  },
+  "responsibilities": [
+    "Planifier, encadrer et coordonner l’activité de l’équipe du service études et projets",
+    "Suivre l'activité du service, gérer les moyens attribués et assurer le reporting auprès de la direction",
+    "Assurer un rôle de facilitateur dans les échanges à la DSI et auprès des métiers",
+    "Arbitrer et superviser l'ensemble du portefeuille de projets informatiques",
+    "Gérer les arbitrages, contrôler le respect des engagements (qualité, coûts, délais) et la maîtrise des risques sur les projets",
+    "Accompagner les chefs de projets dans la passation des marchés publics informatiques et le suivi des contrats de maintenance associés",
+    "Apporter un appui conseil aux directions métiers (analyse des besoins, optimisation des processus et étude d'impact)",
+    "Piloter ou accompagner les démarches de conduite du changement liées aux nouveaux outils",
+    "Définir, diffuser et faire évoluer les référentiels méthodologiques de gestion de projet au sein de la collectivité"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Savoir encadrer, animer et coordonner l'activité d'une équipe",
+    "Piloter un portefeuille de projets et suivre les indicateurs de performance (qualité, coûts, délais)",
+    "Accompagner la maîtrise d'ouvrage (analyse des besoins métiers, optimisation des processus, conduite du changement)",
+    "Rédiger et piloter des marchés publics informatiques et des contrats de maintenance",
+    "Leadership",
+    "Sens de l'écoute",
+    "Capacité à fédérer et à développer les compétences",
+    "Pédagogie",
+    "Diplomatie",
+    "Aisance dans le dialogue avec des interlocuteurs non-techniciens",
+    "Rigueur",
+    "Sens de l'anticipation",
+    "Esprit d'analyse et de synthèse",
+    "Force de proposition"
+  ],
+  "specialCommitments": null,
+  "title": "Chef de service études et projets",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-06",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "MAIRIE-DE-NOUMEA",
+  "collectivite": "Mairie de Nouméa",
+  "direction": "DES SYSTEMES D'INFORMATION",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Infrastructures, réseaux, eaux et assainissements",
+  "famille_source": "respnc",
+  "famille_score": 0.821,
+  "dossier": "infrastructures-reseaux-eaux-et-assainissements"
+}
