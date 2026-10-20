@@ -1,0 +1,181 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "DIRECTION DES SERVICES FISCAUX",
+    "uniteOrganisationnelle": "Section comptabilité-guichet",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service de la recette",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Susceptible d'être vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service de la recette"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "M. Gil PAIN, chef du service de la recette"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952012.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Au sein du service de la recette, l'agent exerce par alternance des missions polyvalentes de guichet et de comptabilité, assure l'accueil physique et téléphonique des usagers et procède au traitement des demandes de remboursement de divers impôts.",
+  "disambiguatingDescription": null,
+  "identifier": "26-66402/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Gestionnaire guichet-comptable",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.75.28",
+    "email": "gil.pain@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-19",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaissances de l'organisation des services administratifs",
+      "Notions générales en matière de fiscalité et de droit civil",
+      "Notions de comptabilité publique."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction des services fiscaux, composée de treize services, est chargée d'asseoir, de contrôler et de recouvrer la plupart des impôts en vigueur en Nouvelle-Calédonie. Elle gère ainsi près de 76% des recettes fiscales de la Nouvelle-Calédonie. Elle assure également une mission foncière, au travers de la gestion du domaine public et privé de la Nouvelle-Calédonie et de la publicité foncière, cette dernière ayant en charge notamment la taxe hypothécaire. Outre ces missions d'exécution, elle est chargée, dans le cadre de la politique poursuivie par le gouvernement de la Nouvelle-Calédonie, de l'élaboration de la législation fiscale ainsi que des mesures d'application.\n\nLe poste à pourvoir est affecté à la section \"comptabilité-guichet\" du service de la recette. Ce service regroupe 35 agents qui sont répartis en 6 pôles d'activité, dont celui de la section \"comptabilité-guichet\" qui est chargée de centraliser toutes les opérations comptables journalières, de procéder aux arrêtés comptables et à la tenue de la comptabilité annuelle. La section est également en charge du suivi des locations domaniales du domaine privé de la Nouvelle-Calédonie et de la vente de valeurs, et du suivi des stocks de valeurs. Enfin, elle a la charge du suivi des opérations de remboursements notamment de la TGC.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de la recette",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Service de la recette",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Finances et budget",
+    "Fiscalité et Trésor / douanes / affaires économiques"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé de l'assiette des impôts, droits et taxes"
+  },
+  "responsibilities": [
+    "Guichet :",
+    "Gérer la vente des timbres fiscaux et timbres amendes, la comptabilité matière et les stocks",
+    "Gérer la clôture comptable mensuelle des valeurs",
+    "Encaisser et recouvrer les droits de produits domaniaux et des impôts, droits et taxes du guichet et de la caisse",
+    "Traiter les dossiers de remboursement d'impôts",
+    "Assurer l'accueil physique et téléphonique des usagers.",
+    "Comptabilité :",
+    "Contrôler tous les paiements reçus par les différentes sections du service portés à l'encaissement",
+    "Gérer la comptabilité du service, les encaissements et décaissements, les clôtures comptables mensuelles",
+    "Saisir les déclarations fiscales et les paiements rattachés à la caisse principale",
+    "Vérifier les registres notariaux (timbres sur état)",
+    "Tenir les documents et journaux comptables, les statistiques",
+    "Assurer l'accueil physique et téléphonique des usagers.",
+    "Aide à la tenue de la caisse principale",
+    "Etablir les attestations de retenue à la source destinées aux salariés étrangers."
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Accueillir et renseigner les contribuables",
+    "Maîtriser les outils bureautiques",
+    "Manipuler les deniers sans appréhension.",
+    "Esprit d'analyse et de synthèse",
+    "Gestion du stress en flux tendus",
+    "Rigueur et réactivité",
+    "Méthode et sens de l'organisation",
+    "Capacité de concentration de longue durée",
+    "Disponibilité notamment en période comptable",
+    "Respect légal du secret professionnel",
+    "Sens du travail en équipe et de la solidarité."
+  ],
+  "specialCommitments": null,
+  "title": "Gestionnaire guichet-comptable",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-13",
+  "workHours": null,
+  "champs_open_data": 26,
+  "employeur_sigle": "DSF",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES SERVICES FISCAUX",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Fiscalité et Trésor / douanes / affaires économiques",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "fiscalite-et-tresor-douanes-affaires-economiques"
+}
