@@ -5,17 +5,27 @@
     "uniteOrganisationnelle": "Centre aquatique provincial de Pouembout",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Responsable du centre aquatique provincial de Pouembout",
-    "placeOrganigramme": "Placée sous l’autorité directe du responsable du centre aquatique provincial de Pouembout ou en cas d’absence de ce dernier sous l’autorité du chef du service animation des équipements",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
+      "Service animation des équipements",
       "Ecoles",
-      "Associations",
-      "Public"
+      "Associations"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Travail en horaires atypiques, week-end, jours fériés, soirées, vacances. Être déclaré comme éducateur sportif et avoir sa carte professionnelle délivrée par la Direction de la Jeunesse et des Sports de la Nouvelle-Calédonie en cours de validité (ou à obtenir avant la prise de poste)."
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Date de clôture initialement prévue",
+        "value": "16/10/2026"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Report de date de clôture",
+        "value": "La date de clôture initialement prévue le 16/10/2026 a été reportée"
       },
       {
         "@type": "PropertyValue",
@@ -25,8 +35,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La Province Nord recrute un Maître-nageur sauveteur pour le centre aquatique provincial de Pouembout. Sous l'autorité du responsable du centre, l'agent participe à la mise en œuvre de la politique d'animation sportive, assure la surveillance des bassins, l'accueil des publics et l'encadrement des activités aquatiques.",
-  "disambiguatingDescription": "Poste de Maître-nageur sauveteur à Pouembout au sein de la Direction du Développement de l'Humain et des Identités de la Province Nord.",
+  "description": "Placée sous l'autorité directe du responsable du centre aquatique provincial de Pouembout ou en cas d'absence de ce dernier sous l'autorité du chef du service animation des équipements (Centre actuellement en gestion directe, mais susceptible de passer en gestion externalisée), la personne participera à la mise en œuvre de la politique d'animation sportive.",
+  "disambiguatingDescription": null,
   "identifier": "26-1124",
   "image": null,
   "mainEntityOfPage": null,
@@ -46,31 +56,32 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "42.67.49",
-    "email": "drh.emplois@province-nord.nc"
+    "email": "d.olive@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-07-24",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Brevet d’Etat d’Educateur Sportif des Activités de la Natation (B.E.E.S.A.N) ou BPJEPS AAN",
+    "credentialCategory": "Brevet d'Etat d'Educateur Sportif des Activités de la Natation (B.E.E.S.A.N) ou BPJEPS AAN",
     "competencyRequired": [
-      "Brevet d’Etat d’Educateur Sportif des Activités de la Natation (B.E.E.S.A.N) ou BPJEPS AAN ou plus",
-      "Certificat d’Aptitude à Exercer la Profession (C.A.E.P) de Maître-Nageur Sauveteur (M.N.S) à jour",
-      "Diplôme nager forme santé est un plus"
+      "Brevet d'Etat d'Educateur Sportif des Activités de la Natation (B.E.E.S.A.N)",
+      "BPJEPS AAN ou plus",
+      "Certificat d'Aptitude à Exercer la Profession (C.A.E.P) de Maître-Nageur Sauveteur (M.N.S) à jour",
+      "Diplôme nager forme santé"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La Province Nord est une collectivité territoriale de Nouvelle-Calédonie.",
+  "employerOverview": null,
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Centre aquatique provincial de Pouembout",
-    "url": null,
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc",
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Expérience professionnelle sur un poste similaire appréciée, expérience confirmée à encadrer des activités aquagym et aqua-bike.",
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle sur un poste similaire et expérience déjà acquise en province Nord appréciées. Expérience confirmée à encadrer des activités aquagym et aqua-bike.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
@@ -95,28 +106,28 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiatement",
+  "jobStartDate": "immédiatement",
   "occupationalCategory": [
     "Animation",
     "Education"
   ],
   "physicalRequirement": "Bonne condition physique nécessaire à l'exercice de la profession",
-  "qualifications": "Carte professionnelle délivrée par la Direction de la Jeunesse et des Sports de la Nouvelle-Calédonie en cours de validité",
+  "qualifications": "Carte professionnelle délivrée par la Direction de la Jeunesse et des Sports de la Nouvelle-Calédonie en cours de validité (ou à obtenir avant la prise de poste)",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Animateur Educateur d’équipements sportifs"
+    "name": "Animateur Educateur d'équipements sportifs"
   },
   "responsibilities": [
     "Accueil et encadrement des groupes scolaires et associatifs",
     "Accueil et encadrement du public",
-    "Sécurité des publics et surveillance des bassins",
+    "Sécurité des publics, surveillance des bassins",
     "Application du règlement intérieur et du Plan d'organisation de la surveillance et des secours (POSS)",
     "Participation au contrôle de la qualité des eaux de baignade",
     "Mise en œuvre des activités aquatiques et des cours proposés par le centre",
     "Mise en œuvre d'actions de sensibilisation d'hygiène et de sécurité auprès des écoles et des associations",
     "Participation aux journées spécifiques d'animation",
     "Participation à l'élaboration des projets d'établissements",
-    "Participation à des formations directement liées au poste"
+    "Participation à des formations directement liées à son poste"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
@@ -125,22 +136,27 @@
     "Respecter les règles de sécurité",
     "Capacité de l'analyse de l'urgence",
     "Adapter les interventions en fonction des publics, des niveaux et des capacités d'apprentissage",
-    "Repérer les comportements à risques, dialoguer et réguler les conflits",
+    "Repérer les comportements à risques, dialoguer et réguler les conflits à son niveau",
     "Appliquer et faire appliquer la réglementation en vigueur",
     "Pratiquer une ou plusieurs disciplines sportives",
     "Bon contact relationnel avec tous types de publics",
     "Respect de l'autorité et de la hiérarchie",
     "Respect des horaires et des plannings",
     "Sens aigu de la discipline et du service public",
-    "Autonomie, grande disponibilité et polyvalence",
-    "Esprit d'initiative et travail en équipe",
-    "Rigueur, sérieux et discrétion"
+    "Autonomie",
+    "Grande disponibilité",
+    "Polyvalence",
+    "Esprit d'initiative",
+    "Travail en équipe",
+    "Rigueur",
+    "Sérieux",
+    "Discrétion"
   ],
-  "specialCommitments": "Travail en horaires atypiques, week-end, jours fériés, soirées et vacances",
+  "specialCommitments": null,
   "title": "Maître-nageur sauveteur - Pouembout",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-16",
-  "workHours": "Horaires atypiques, week-end et jours fériés",
+  "validThrough": "2026-11-06",
+  "workHours": "Travail en horaires atypiques, week-end, jours fériés, soirées, vacances",
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
@@ -149,6 +165,6 @@
   "employeur_source": "source",
   "famille_respnc": "Animation",
   "famille_source": "respnc",
-  "famille_score": 0.879,
+  "famille_score": 0.881,
   "dossier": "animation"
 }
