@@ -7,9 +7,8 @@
     "superieurHierarchique": "Chef de bureau de proximité des soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Chef du Bureau de Proximité de Soins",
-      "Pôle Soins",
-      "DASSPS"
+      "Bureau de Proximité de Soins",
+      "Pôle Soins"
     ],
     "informationsLibres": [
       {
@@ -31,7 +30,7 @@
   },
   "alternateName": null,
   "description": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
-  "disambiguatingDescription": "Recrutement de deux infirmiers en soins généraux pour le CMS de Pouébo au sein de la Province Nord.",
+  "disambiguatingDescription": null,
   "identifier": "26-1187",
   "image": null,
   "mainEntityOfPage": null,
@@ -48,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
+    "@type": "Schedule",
     "name": "CMS de POUEBO",
     "address": {
       "@type": "PostalAddress",
@@ -76,7 +75,7 @@
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale 5 ans",
-  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles, 8 services et 14 bureaux, comprenant 249 agents.",
+  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -85,15 +84,15 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Expérience du travail en poste isolé et expérience des urgences exigées.",
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience du travail en poste isolé, Expérience des urgences",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique soins",
+  "industry": "Santé",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -123,17 +122,17 @@
   },
   "responsibilities": [
     "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
-    "Prendre en charge les actes curatifs tels que les consultations, les urgences et les soins",
-    "Prendre en charge les actes préventifs incluant les vaccinations, les dépistages, la PMI, la santé scolaire, la médecine du travail et le suivi des maladies chroniques",
-    "Prendre en charge les actes éducatifs portant sur l'hygiène de vie, l'éducation thérapeutique des patients chroniques et la santé scolaire",
-    "Assurer la téléconsultation en l'absence de médecin en présentiel",
+    "Les actes curatifs (consultations, urgences, soins)",
+    "Les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
+    "Les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
+    "La téléconsultation (en l'absence de médecin en présentiel)",
     "Assurer l'encadrement des stagiaires, notamment les étudiants infirmiers"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Maîtrise des logiciels de bureautique Excel et Word",
+    "Maîtrise des logiciels de bureautique (Excel et Word)",
     "Disponibilité",
     "Rigueur",
     "Respect de la confidentialité des informations et du secret médical",
@@ -146,7 +145,7 @@
   "specialCommitments": "Astreinte de nuit",
   "title": "2 Infimier(e)s en soins généraux à Pouebo",
   "totalJobOpenings": 2,
-  "validThrough": "2026-10-16",
+  "validThrough": "2026-11-06",
   "workHours": "Astreinte de nuit",
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
