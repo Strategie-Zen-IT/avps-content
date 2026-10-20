@@ -2,22 +2,22 @@
   "additionalType": {
     "corpsDomaine": "Assistant socio-éducatif",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "Service de l'Action Sociale (SAS)",
+    "uniteOrganisationnelle": "Service de l’Action Sociale (SAS) du Pôle Solidarité",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef de service",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
+      "Magistrats",
       "Service de l'aide sociale à l'enfance",
       "Service de l'action sociale",
-      "Magistrats",
       "Institutions",
-      "Associations œuvrant dans le domaine social et de la protection de l'enfance"
+      "Services et associations œuvrant dans le domaine social et de la protection de l’enfance"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Détails de l'offre",
-        "value": "Le Service de l'Action Sociale (SAS) du Pôle Solidarité compte 14 agents (1 chef de service, 13 assistantes sociales)"
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
       },
       {
         "@type": "PropertyValue",
@@ -28,7 +28,7 @@
   },
   "alternateName": null,
   "description": "Placée sous l'autorité du chef de service, la personne retenue accompagnera les personnes, les familles et les groupes afin de leur permettre de surmonter leurs difficultés, de tendre vers un mieux-être et de faciliter leur participation à la vie sociale. Elle sera amenée à intervenir sur un secteur d’intervention en polyvalence de secteur en effectuant un accueil tout public et à assurer un accompagnement des différents types de difficultés : financières, administratives, psychologiques et/ou éducatives dans sa mission de protection de l’enfance.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Assistant(e) social(e) de secteur à Ponérihouen",
   "identifier": "26-1325",
   "image": null,
   "mainEntityOfPage": null,
@@ -54,14 +54,14 @@
   "datePosted": "2026-09-04",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'Etat d'assistant de service social",
+    "credentialCategory": "Diplôme d’Etat d’assistant de service social",
     "competencyRequired": [
-      "Diplôme d'Etat d'assistant de service social (obligatoire)",
+      "Diplôme d’Etat d’assistant de service social (obligatoire)",
       "Connaissance des réalités locales"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "Par délibération n° 68/89 du 29 décembre 1989, l’Assemblée de la province Nord a créé la Direction Provinciale des Affaires Sanitaires et Sociales de la Province Nord. Depuis le 1er mars 2023, par délibération n° 2023-03/APN du 27 janvier 2023, cette direction est dénommée, Direction des Affaires Sanitaires et Sociale, de la Prévention et de la Solidarité (DASSPS). Elle comprend une direction, des services centraux et décentralisés regroupés en quatre (4) pôles.",
+  "employerOverview": "Par délibération n° 68/89 du 29 décembre 1989, l’Assemblée de la province Nord a créé la Direction Provinciale des Affaires Sanitaires et Sociales de la Province Nord. Depuis le 1er mars 2023, par délibération n° 2023-03/APN du 27 janvier 2023, cette direction est dénommée, Direction des Affaires Sanitaires et Sociale, de la Prévention et de la Solidarité (DASSPS). Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles. Le Service de l’Action Sociale (SAS) du Pôle Solidarité compte 14 agents (1 chef de service, 13 assistantes sociales).",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -135,7 +135,7 @@
   "specialCommitments": null,
   "title": "Assistant(e) social(e) de secteur - Ponérihouen",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-16",
+  "validThrough": "2026-11-06",
   "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
