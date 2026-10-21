@@ -7,10 +7,8 @@
     "superieurHierarchique": "Conseil d'administration",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Conseil d'administration",
       "Insee",
       "Communauté du Pacifique (CPS)",
-      "Institutions de la Nouvelle-Calédonie",
       "Organismes statistiques et économiques partenaires",
       "Médias"
     ],
@@ -18,12 +16,12 @@
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Au moins égale à 10 ans"
+        "value": "Sans objet"
       },
       {
         "@type": "PropertyValue",
-        "name": "Poste à pourvoir",
-        "value": "24 janvier 2027"
+        "name": "Enjeux du poste",
+        "value": "Maintenir une production statistique de qualité dans un contexte de ressources contraintes ; Adapter le programme statistique aux besoins prioritaires de la Nouvelle-Calédonie ; Moderniser et rendre plus efficients les processus de production et de diffusion ; Mobiliser davantage les données administratives et développer de nouvelles sources ; Consolider la confiance dans la statistique publique et garantir l'accès à une information objective, fiable et de qualité ; Développer les partenariats locaux et la coopération statistique régionale dans le Pacifique et à l'internationale ; Maintenir, transmettre et développer les compétences statistiques et les expertises au sein de l'Institut."
       },
       {
         "@type": "PropertyValue",
@@ -33,8 +31,8 @@
     ]
   },
   "alternateName": null,
-  "description": "L'Institut de la statistique et des études économiques (Isee) est un établissement public de la Nouvelle-Calédonie chargé de collecter, produire, analyser et diffuser les informations statistiques relatives à la Nouvelle-Calédonie. Établissement à taille humaine, l'Isee compte environ 42 agents permanents et mobilise également, en fonction des enquêtes conduites, des agents contractuels chargés notamment de la collecte des données. L'Institut produit et valorise des statistiques, études et analyses permettant d'éclairer la situation économique, sociale et démographique de la Nouvelle-Calédonie. Il assure leur diffusion auprès des institutions, des acteurs économiques et sociaux et du public.",
-  "disambiguatingDescription": null,
+  "description": "L'Institut de la statistique et des études économiques (Isee) est un établissement public de la Nouvelle-Calédonie chargé de collecter, produire, analyser et diffuser les informations statistiques relatives à la Nouvelle-Calédonie. Établissement à taille humaine, l'Isee compte environ 42 agents permanents et mobilise également, en fonction des enquêtes conduites, des agents contractuels chargés notamment de la collecte des données.",
+  "disambiguatingDescription": "Le directeur ou la directrice assure la direction générale de l'Isee et garantit l'accomplissement de ses missions de service public sous l'autorité du conseil d'administration.",
   "identifier": "26-1555",
   "image": null,
   "mainEntityOfPage": null,
@@ -49,18 +47,7 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Schedule",
-    "name": "Isee",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "52, Avenue du Maréchal FOCH, Immeuble Malawi, 3ème étage",
-      "addressLocality": "Nouméa",
-      "addressRegion": "Province Sud",
-      "addressCountry": "NC",
-      "province": "province Sud"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "28.31.56",
@@ -72,21 +59,19 @@
   "educationRequirements": {
     "credentialCategory": "Formation supérieure en statistique, économie, économétrie ou domaine équivalent",
     "competencyRequired": [
-      "Statistique publique, études économiques ou production et analyse de données",
-      "Management, pilotage stratégique ou direction d'une organisation",
-      "Enjeux, principes, méthodes et règles déontologiques de la statistique publique",
-      "Organisation et fonctionnement d'un organisme statistique public",
-      "Organisation institutionnelle de la Nouvelle-Calédonie et des établissements publics",
-      "Enjeux de pilotage stratégique, d'organisation et de conduite du changement",
-      "Méthodes et outils de production, d'analyse, de valorisation et de diffusion statistiques",
-      "Anglais professionnel"
+      "Très bonne connaissance des enjeux, principes, méthodes et règles déontologiques de la statistique publique",
+      "Bonne connaissance de l'organisation et du fonctionnement d'un organisme statistique public",
+      "Solide connaissance de l'organisation institutionnelle de la Nouvelle-Calédonie et des établissements publics",
+      "Maîtrise des enjeux de pilotage stratégique, d'organisation et de conduite du changement",
+      "Maîtrise des méthodes et outils de production, d'analyse, de valorisation et de diffusion statistiques",
+      "Maîtrise de l'anglais professionnel permettant d'échanger avec les partenaires régionaux et internationaux, à l'écrit comme à l'oral"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
-  "employerOverview": "L'Institut de la statistique et des études économiques (Isee) est un établissement public de la Nouvelle-Calédonie chargé de collecter, produire, analyser et diffuser les informations statistiques relatives à la Nouvelle-Calédonie. Établissement à taille humaine, l'Isee compte environ 42 agents permanents.",
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "L'Institut produit et valorise des statistiques, études et analyses permettant d'éclairer la situation économique, sociale et démographique de la Nouvelle-Calédonie. Il assure leur diffusion auprès des institutions, des acteurs économiques et sociaux et du public.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
+    "@type": "OrganizationalUnit",
     "name": "Institut de la statistique et des études économiques",
     "url": null,
     "logo": null
@@ -105,10 +90,10 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Isee",
+    "name": "Institut de la statistique et des études économiques",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "52, Avenue du Maréchal FOCH, Immeuble Malawi, 3ème étage",
+      "streetAddress": "52, avenue du Maréchal Foch - Immeuble Malawi",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -129,7 +114,6 @@
     "name": "Directeur/trice"
   },
   "responsibilities": [
-    "Assurer la direction générale de l'Isee et garantir l'accomplissement de ses missions de service public sous l'autorité du conseil d'administration",
     "Définir les orientations, les priorités et le programme de travail de l'Isee",
     "Assurer le pilotage global de l'établissement et l'allocation de ses moyens humains, budgétaires et techniques",
     "Préparer et mettre en œuvre les orientations et décisions du conseil d'administration",
