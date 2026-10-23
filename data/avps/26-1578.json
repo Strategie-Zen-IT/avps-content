@@ -1,0 +1,194 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Equipe Mobile d'Accompagnement en Soins Palliatifs",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cadre supérieur de santé",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Médecins",
+      "Psychologues",
+      "Assistantes sociales",
+      "Kinésithérapeutes",
+      "Cadres de santé"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Primes spécifiques",
+        "value": "nuit, week-end..."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Reprise de l'ancienneté",
+        "value": "Reprise de l’ancienneté possible selon la réglementation en vigueur"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Billet d'avion",
+        "value": "Prise en charge du billet aller uniquement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953386.PDF"
+      }
+    ]
+  },
+  "alternateName": "Infirmier(e) EMASP",
+  "description": "Dans le cadre du développement de la culture palliative au sein de l'établissement et de l'amélioration continue de la qualité de l'accompagnement des patients et de leurs proches, l'Equipe Mobile d'Accompagnement en Soins Palliatifs renforce son effectif infirmier. L'EMASP intervient auprès des patients hospitalisés, auprès des familles et des équipes soignantes des unités d'hospitalisation afin de soutenir l'accompagnement des patients atteints de maladie grave, évolutive ou terminale.",
+  "disambiguatingDescription": "Infirmier(e) au sein de l'équipe mobile d'accompagnement en soins palliatifs au CHT Gaston Bourret",
+  "identifier": "26-1578",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Infirmier(e) en sein de l'équipe mobile d'accompagnement en soins palliatifs (EMASP)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Médipôle Koutio",
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.80.00",
+    "email": "recrutement@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'Etat d'infirmier",
+    "competencyRequired": [
+      "Titulaire du diplôme d’état d’infirmier / infirmier en soins généraux",
+      "Formation AFGSU niveau 2 à jour",
+      "DU ou formations continues en soins palliatifs"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret est l'établissement de santé de référence en Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Equipe mobile d'accompagnement en soins palliatifs (EMASP)",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Expérience en unité de soins palliatifs ou en unité accueillant des patients atteints de pathologies graves ou évolutives",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "incentiveCompensation": "Primes spécifiques (nuit, week-end…)",
+  "industry": "Santé",
+  "jobBenefits": "Grilles indiciaires de la fonction publique de Nouvelle-Calédonie, reprise de l'ancienneté possible, prise en charge du billet aller uniquement",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Médipôle Koutio",
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplôme d'Etat d'infirmier, AFGSU niveau 2",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Infirmier en soins généraux"
+  },
+  "responsibilities": [
+    "Evaluer les besoins des patients en situation palliative (douleur, symptômes, anxiété, confort, qualité de vie)",
+    "Participer à la mise en œuvre d'un projet d'accompagnement individualisé",
+    "Apporter un soutien relationnel, psychologique et éducatif aux proches",
+    "Réaliser des interventions auprès des équipes pour favoriser la réflexion et la prise en charge palliative",
+    "Contribuer à l'analyse de situations complexes et à la gestion des symptômes difficiles",
+    "Participer à la diffusion des bonnes pratiques en soins palliatifs",
+    "Collaborer étroitement avec les médecins, psychologues, assistantes sociales, kinésithérapeutes et cadres de santé",
+    "Participer aux réunions de concertation pluridisciplinaire",
+    "Participer à des actions de sensibilisation et de formation auprès des professionnels de santé",
+    "Contribuer à la rédaction d'outils, protocoles et référentiels en soins palliatifs"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Qualités relationnelles",
+    "Ecoute",
+    "Capacité à travailler en équipe pluridisciplinaire",
+    "Sens clinique",
+    "Capacité d'analyses",
+    "Autonomie",
+    "Adaptabilité",
+    "Organisation"
+  ],
+  "specialCommitments": null,
+  "title": "Infirmier(e) en sein de l'équipe mobile d'accompagnement en soins palliatifs (EMASP)",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-13",
+  "workHours": "Présence du lundi au vendredi de 7h à 17h sur la base de 39h par semaine",
+  "champs_open_data": 13,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 0.855,
+  "dossier": "politique-de-sante-publique"
+}
