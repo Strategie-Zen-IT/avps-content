@@ -1,0 +1,159 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Cadre de santé",
+    "direction": "INSTITUT DE FORMATION DES PROFESSIONS SANITAIRES ET SOCIALES",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur adjoint en charge des formations en santé",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12954574.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous l'autorité du directeur adjoint en charge des formations en santé, les formateurs permanents de l'IFPSS-NC contribuent aux missions de formation initiale et continue dispensées à l'institut.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1591",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Formateur de la filière santé",
+  "owner": {
+    "@type": "Organization",
+    "name": "Institut de formation des professions sanitaires et sociales"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Institut de formation des professions sanitaires et sociales de Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12, rue Juliette Bernard",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "gael.million@ifpssnc.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme de cadre de santé et diplôme d'état d'infirmier",
+    "competencyRequired": [
+      "Titulaire du diplôme de cadre de santé et diplôme d'état d'infirmier",
+      "Titulaire du diplôme de formateur AFGSU ou disposant d'une expérience dans un service de soins aiguës",
+      "Avoir le sens de la pédagogie adaptée à la formation des adultes",
+      "Connaissance des référentiels de formation",
+      "Concevoir, animer et évaluer des actions de formation dans le domaine de la santé",
+      "Accompagner les personnes dans leur parcours de formation",
+      "Evaluer les connaissances et les compétences des personnes en formation",
+      "Maîtrise des outils bureautiques Word, Excel, PowerPoint"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Institut de formation des professions sanitaires et sociales de Nouvelle-Calédonie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience dans un service de soins aiguës appréciée à défaut du diplôme de formateur AFGSU",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Institut de formation des professions sanitaires et sociales"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "IFPSS-NC",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12, rue Juliette Bernard",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Education",
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Être titulaire du permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Formateur-enseignant"
+  },
+  "responsibilities": [
+    "Mise en œuvre des référentiels de formation initiale",
+    "Participation à l'enseignement théorique et clinique",
+    "Accompagnement de la professionnalisation des étudiants / élèves à l'institut et sur les terrains du soin",
+    "Evaluation continue des étudiants infirmiers, élèves aides-soignants, élèves ambulancier et autres formations initiales",
+    "Animation des dispositifs de formations continues",
+    "Accompagnement des candidats inscrits dans une démarche de validation des acquis et de l'expérience VAE",
+    "Préparation aux concours du secteur sanitaire",
+    "Participation aux projets d'établissement de l'IFPSS-NC et pédagogique de la filière santé",
+    "Mise en place de l'évaluation des actions de formation menées",
+    "Implication et participation à la Démarche Qualité"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Concevoir et organiser un dispositif de formation dans le domaine de la santé",
+    "Concevoir et animer les actions de formation initiale et continue dans le domaine de la santé",
+    "Evaluer les connaissances et les compétences des apprenants en formation",
+    "Evaluer la qualité des prestations et s'inscrire dans une démarche qualité",
+    "Grande adaptation au travail en équipe",
+    "Animation du travail en groupe et anticipation",
+    "Prise des initiatives dans les limites de ses compétences",
+    "Discrétion, confidentialité et sens des responsabilités"
+  ],
+  "specialCommitments": null,
+  "title": "Formateur de la filière santé",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-13",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "IFPSS",
+  "collectivite": "Institut de formation des professions sanitaires et sociales",
+  "direction": "INSTITUT DE FORMATION DES PROFESSIONS SANITAIRES ET SOCIALES",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Formation professionnelle",
+  "famille_source": "respnc",
+  "famille_score": 0.924,
+  "dossier": "formation-professionnelle"
+}
