@@ -1,0 +1,170 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Auxiliaire de puériculture",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Service de néonatalogie",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Céline MERIADEC - Cadre sage-femme supérieur",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Infirmier en soins généraux",
+      "Infirmier en puériculture",
+      "Sage-femme"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Statut",
+        "value": "Statut particulier des personnels paramédicaux"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952032.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'auxiliaire de puériculture dispense, en collaboration avec l'infirmier (en soins généraux, en puériculture) ou avec la sage-femme, et sous leur responsabilité, des soins de prévention, de maintien, de relation et d'éducation à la santé, pour préserver et restaurer la continuité de la vie, le bien-être et l'autonomie du nouveau-né.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1573",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Auxiliaire de puériculture en néonatalogie",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.80.00 poste 8316",
+    "email": "celine.meriadec@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'Etat d'Auxiliaire en puériculture",
+    "competencyRequired": [
+      "Bio-nettoyage et hygiène des locaux",
+      "Hygiène hospitalière",
+      "Gestes et postures – Manutention",
+      "Attestation de formation aux gestes et soins d'urgence de niveau 2"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 3 ans",
+  "employerOverview": "Centre Hospitalier Territorial Gaston Bourret, Médipôle de Koutio.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de néonatalogie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience requise d'un an minimum en service de néonatalogie (maternité type 3)",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "incentiveCompensation": "Primes spécifique (nuit, week-end...) selon statut",
+  "industry": "Santé",
+  "jobBenefits": "Grilles indiciaires de la fonction publique de Nouvelle-Calédonie",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": "Gestes et postures – Manutention",
+  "qualifications": "Diplôme d'Etat d'Auxiliaire en puériculture, Attestation de formation aux gestes et soins d'urgence de niveau 2",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Auxiliaire de puériculture"
+  },
+  "responsibilities": [
+    "Réalisation des soins d'hygiène, de sécurité, de confort et de bien-être au nouveau-né et à sa mère, dans son champ de compétence",
+    "Aide à la puéricultrice, à l'infirmière ou à la sage-femme lors des soins",
+    "Observation et recueil de données sur l'état de santé et le comportement relationnel du couple mère/enfant",
+    "Transmissions des observations par oral et par écrit pour le maintien de la continuité des soins",
+    "Entretien de l'environnement immédiat du nouveau-né prématuré",
+    "Observation du bon fonctionnement des appareillages et dispositifs médicaux, entretien du matériel de soins et gestion des stocks",
+    "Accueil, information, accompagnement et éducation de l'entourage du nouveau-né (parents, famille, usagers, etc.)",
+    "Accueil, information et formation des personnels nouvellement recrutés et des apprenants (élèves, stagiaires)",
+    "Aide et accompagnement dans les activités de la vie quotidienne"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Dispenser des soins de prévention, de maintien, de relation et d'éducation à la santé",
+    "Collaborer avec l'infirmier ou la sage-femme",
+    "Réaliser des soins d'hygiène, de sécurité, de confort et de bien-être",
+    "Observer et recueillir des données",
+    "Transmettre des observations par oral et par écrit",
+    "Entretenir l'environnement et le matériel de soins",
+    "Accueillir, informer et accompagner l'entourage et les nouveaux recrutés"
+  ],
+  "specialCommitments": "Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)",
+  "title": "Auxiliaire de puériculture en néonatalogie",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-13",
+  "workHours": "Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)",
+  "champs_open_data": 13,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
