@@ -1,0 +1,146 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Sage femme",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Bureau Santé au Féminin",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de Bureau Santé au Féminin et médecin chef",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Réseau périnatalité",
+      "Réseau social"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "inférieure à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952074.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La DASSPS compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (administration générale, solidarité, prévention et promotion de la santé, soins), 8 services et 14 bureaux. Le Bureau Santé au Féminin de Service des Métiers de Soins faisant partie du Pôle Soins compte 7 agents (1 chef de bureau, 6 sages-femmes).",
+  "disambiguatingDescription": null,
+  "identifier": "26-1580",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Sage-femme",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-nord.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.71.00",
+    "email": "c.lecerf@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'état de sage-femme",
+    "competencyRequired": [
+      "Compétences en échographie exigées"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La DASSPS compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (administration générale, solidarité, prévention et promotion de la santé, soins), 8 services et 14 bureaux.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "PROVINCE NORD",
+    "url": "https://www.province-nord.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience professionnelle serait appréciée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "CMS Kaala-gomen / CMS Poum-Belep / CME Koumac",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Koumac",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98850"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Dès que possible",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Être titulaire du permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Sage-femme"
+  },
+  "responsibilities": [
+    "Assurer les actes curatifs et préventifs de sage-femme",
+    "Participer à l'application des programmes d'intervention et de promotion de la santé et à la permanence de soins",
+    "La mise en place des orientations politiques et administratives, en lien avec le réseau périnatalité",
+    "Le suivi des grossesses avec orientation vers le médecin et/ou l'obstétricien si pathologie",
+    "Le suivi gynécologique, la contraception, l'IVG, les dépistages (cancer du col, cancer du sein, IST)",
+    "Les activités de PMI (l'éducation et la promotion de la santé en matière d'allaitement, de vaccination, de développement psychomoteur, d'hygiène de vie et alimentaire du nourrisson de 0 à 2 ans etc...)",
+    "La liaison avec le réseau social (enfant sans danger, violence intra ou extra familiale etc...) et partenarial (réseau périnatalité)",
+    "Les actions de prévention (santé sexuelle en milieu scolaire et/ou santé communautaire)",
+    "L'évaluation et la restitution de l'activité (cotation et codification, bilan d'activité des actions de prévention)",
+    "Les enquêtes épidémiologiques",
+    "La gestion des urgences gynécologiques ou obstétricales de sage-femme (accouchements inopinés)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise de l'outil informatique, maîtrise des logiciels de bureautique Excel et Word",
+    "Disponibilité rigueur",
+    "Respect et confidentialité des informations et du secret médical",
+    "Sens des responsabilités",
+    "Goût des relations humaines",
+    "Esprit d'initiative",
+    "Capacité d'écoute",
+    "Goût du travail en équipe"
+  ],
+  "specialCommitments": "Permanence de soins",
+  "title": "Sage-femme",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-13",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
