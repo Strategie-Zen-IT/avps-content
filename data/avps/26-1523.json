@@ -1,0 +1,183 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Centre De Services",
+    "nbAgentsEncadres": 10,
+    "superieurHierarchique": "Directeur du système d'information et du numérique",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Son équipe (sans management intermédiaire)",
+      "La direction (directeur + directrice adjointe)",
+      "Les autres chefs de service (DEVOPS, POP, SIL)",
+      "Les correspondants informatiques au sein des directions métiers",
+      "Le RSSI et le DPO"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi / Domaine",
+        "value": "Ingénieur 2ème grade - domaine informatique"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Susceptible d'être vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Vous pouvez être ponctuellement contacté(e) en dehors des horaires administratifs en cas de défaillance des services."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956098.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La province Sud place l'usager au cœur de ses priorités et a pour ambition de mener une véritable stratégie client. Leader en matière d'e-administration sur le territoire, son objectif est de tendre vers une administration 100% numérique afin de moderniser, de simplifier et d'optimiser les procédures administratives et les démarches des usagers. La direction du système d'information et du numérique de la province Sud (DSIN) tient un rôle essentiel dans la transformation opérée par la collectivité, et est responsable de la politique de développement du numérique. Sa nouvelle ambition est de faire de la donnée un axe prioritaire, et d'intégrer l'intelligence artificielle dans ses outils pour améliorer la performance de ses services.",
+  "disambiguatingDescription": "Chef de service du Centre de services au sein de la Direction du Système d'Information et du Numérique de la Province Sud.",
+  "identifier": "26-1523",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de service du centre de services",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Province Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.32.98",
+    "email": "benjamin.baldacci@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Ingénieur",
+    "competencyRequired": [
+      "Maîtrise des processus ITIL, une certification serait appréciée",
+      "Connaissance des outils de gestion de tickets et des logiciels de monitoring (GLPI, JIRA, autre)",
+      "Solides bases en systèmes d'information (réseaux, infrastructure, sécurité)",
+      "Compréhension des enjeux et des contraintes des collectivités territoriales",
+      "Notions en gestion de la continuité et de la sécurité informatique (PRA, PCA)"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
+  "employerOverview": "La DSIN est une direction d'une cinquantaine de personnes, regroupées dans 4 services : SIL (Service des Infrastructure et de la Logistique - 11 personnes), DEVOPS (Service des Développements et des Opérations - 14 personnes), POP (Service de la Performance Opérationnelle - 12 personnes), CDS (Centre De Services - 10 personnes). La direction est composée d'un directeur et d'une directrice adjointe.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre De Services",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience indispensable sur un poste équivalent d'au moins 4 ans. Expérience managériale d'au moins 5 ans.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Système d'information",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction du Système d'Information et du Numérique",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable production / exploitation / maintenance"
+  },
+  "responsibilities": [
+    "Gérer le centre de services : superviser l'activité du centre de services (incidents, demandes de services, problèmes, changements), assurer le suivi des tickets et garantir le respect des engagements de qualité de service",
+    "Être responsable du catalogue de services et de la base de connaissances : garantir l'actualisation du catalogue de services et de la documentation en lien avec les autres services de la direction",
+    "Encadrer et de manager : animer et piloter une équipe de techniciens et de coordinateurs, organiser les plannings, accompagner les agents dans leur montée en compétences",
+    "Améliorer en continu : mettre en place des indicateurs de performance, contrats d'engagement et SLA, analyser les tableaux de bord et identifier les axes d'amélioration pour optimiser l'efficacité des services",
+    "Veiller à la relation utilisateurs : veiller à la satisfaction des utilisateurs internes et externes, traiter les escalades complexes, promouvoir une culture orientée services au sein de la direction, et veiller à la bonne information des utilisateurs sur les évolutions de services et dysfonctionnements",
+    "Former et accompagner : animer le réseau des correspondants informatiques et de suivre les formations dispensées par les membres de l'équipe auprès des utilisateurs",
+    "Être en veille technologique et de bonnes pratiques : assurer une veille sur les outils et méthodes liés à l'activité du centre de services (ITIL, gestion des incidents, etc.)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité à traiter des incidents et des problèmes du centre de service",
+    "Capacité à piloter et à animer une équipe technique dans un environnement exigeant",
+    "Capacité à gérer la relation client et capacité à gérer des situations complexes ou de crise",
+    "Capacité à prioriser les demandes et à gérer des ressources dans le respect des SLA",
+    "Expérience en gestion de projets et mise en œuvre d'améliorations continues",
+    "Bonne maîtrise des outils de reporting et des indicateurs de performance (KPI)",
+    "Leadership et capacité à motiver une équipe",
+    "Excellent relationnel et sens du service",
+    "Capacité d'écoute et de communication",
+    "Rigueur",
+    "Organisation",
+    "Méthode",
+    "Capacité d'analyse, de synthèse et de vulgarisation technique",
+    "Prise d'initiatives",
+    "Force de propositions pour améliorer les processus en place",
+    "Gestion du stress"
+  ],
+  "specialCommitments": null,
+  "title": "Chef de service du centre de services",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-13",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Postes et télécommunications",
+  "famille_source": "respnc",
+  "famille_score": 0.99,
+  "dossier": "postes-et-telecommunications"
+}
