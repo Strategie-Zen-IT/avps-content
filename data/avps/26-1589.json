@@ -1,0 +1,174 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Capitaine",
+    "direction": "DIRECTION DES SERVICES D'INCENDIE ET DE SECOURS",
+    "uniteOrganisationnelle": "Service des centres de secours",
+    "nbAgentsEncadres": 96,
+    "superieurHierarchique": "Chef du service des centres de secours",
+    "placeOrganigramme": "Sous l'autorité directe du secrétaire général en charge du pôle sécurité, la direction des services d'incendie et de secours est composée de plusieurs unités opérationnelles",
+    "relationsFonctionnelles": [
+      "Secrétaire général en charge du pôle sécurité",
+      "Direction des services d'incendie et de secours",
+      "Service des centres de secours"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Assurer des astreintes de niveau chef de colonne et des astreintes de cadre de permanence de la ville de Nouméa."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Susceptible d'être vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957656.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune. Placée sous l'autorité directe du secrétaire général en charge du pôle sécurité, la direction des services d'incendie et de secours est composée de plusieurs unités opérationnelles qui permettent la gestion des alertes (appel 18), le traitement des opérations, le secours aux personnes, la surveillance des plages ainsi que la protection des biens et de l'environnement. Son fonctionnement est organisé 24 heures sur 24 et 7 jours sur 7, au service de la population de la ville de Nouméa. Le centre de secours de Lucien Parent est composé de 36 sapeurs-pompiers professionnels et 60 sapeurs-pompiers volontaires.",
+  "disambiguatingDescription": "Sous l'autorité du chef du service des centres de secours, le chef de centre assure le pilotage du centre dont il a la responsabilité.",
+  "identifier": "26-1589",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de centre de secours",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Mairie de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.38.10",
+    "email": "geraldine.bourgoin@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Chef de colonne",
+    "competencyRequired": [
+      "Diplômes exigés : chef de colonne",
+      "Diplômes souhaités : FDF3, RCH3",
+      "Technique de management",
+      "Maîtrise des techniques rédactionnelles et des outils informatiques (START, AGATT)"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Mairie de Nouméa",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience en centre de secours souhaitée : fonction de chef de centre ou d'adjoint",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre de secours Lucien Parent",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Incendie et secours"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplômes exigés : chef de colonne. Diplômes souhaités : FDF3, RCH3.",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chef de centre de secours"
+  },
+  "responsibilities": [
+    "Faire respecter les règlements intérieurs de la Ville et de la direction",
+    "Assurer le suivi administratif de ses équipes, notamment en termes de ressources humaines",
+    "Maintenir la capacité opérationnelle du centre d'incendie et de secours, notamment le personnel et les engins",
+    "Assurer le suivi fonctionnel et opérationnel du centre afin d'assurer le Potentiel Opérationnel Journalier",
+    "Promouvoir et favoriser le développement du volontariat",
+    "Organiser la mise en œuvre des règles d'hygiène, de santé et de sécurité au travail",
+    "Mobiliser et faire évoluer les compétences professionnelles des agents",
+    "Exécuter des tâches de gestion administrative et technique nécessaires au fonctionnement de la direction",
+    "Évaluer et optimiser la qualité des services, les procédures, l'organisation de travail, la performance et l'utilisation des ressources (aspect budgétaire, financier, administratif et humain)",
+    "Assister, conseiller et apporter des arguments stratégiques d'aide à la décision sur son domaine de compétences",
+    "Être le relais des valeurs de la collectivité",
+    "Participer aux cérémonies officielles",
+    "Participer aux activités de formation"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Technique de management",
+    "Maîtrise des techniques rédactionnelles",
+    "Maîtrise des outils informatiques (START, AGATT)",
+    "Autonomie",
+    "Rigueur",
+    "Esprit d'initiative",
+    "Maîtrise de soi dans les situations de crise, d'urgence ou dangereuses",
+    "Grande disponibilité",
+    "Réactivité",
+    "Sens aigu du service public",
+    "Discipline"
+  ],
+  "specialCommitments": "Assurer des astreintes de niveau chef de colonne et des astreintes de cadre de permanence de la ville de Nouméa.",
+  "title": "Chef de centre de secours",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-13",
+  "workHours": "Son fonctionnement est organisé 24 heures sur 24 et 7 jours sur 7",
+  "champs_open_data": 8,
+  "employeur_sigle": "MAIRIE-DE-NOUMEA",
+  "collectivite": "Mairie de Nouméa",
+  "direction": "DIRECTION DES SERVICES D'INCENDIE ET DE SECOURS",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Incendie et secours",
+  "famille_source": "respnc",
+  "famille_score": 0.89,
+  "dossier": "incendie-et-secours"
+}
