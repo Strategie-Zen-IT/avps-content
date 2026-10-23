@@ -1,0 +1,186 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur / technicien",
+    "direction": "DIRECTION DU NUMERIQUE ET DE LA MODERNISATION",
+    "uniteOrganisationnelle": "Service infrastructures",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de section Système et Base de Données",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Ingénieur 1er et 2ème grade domaine informatique : au moins égale à 5 ans. Technicien 2ème grade domaine informatique : au moins égale à 10 ans."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Informations salaire",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/techniquenc.pdf"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service infrastructures"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Corentin CLAEYS"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955302.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "- Administration des composants système Linux d'infrastructures et des applications métiers ;\n- Maintenir et faire évoluer l'architecture des socles techniques et des plateformes des services metiers ;\n- Maintenir la configuration, la fiabilité, la surveillance des services dans une approche DevOps.",
+  "disambiguatingDescription": null,
+  "identifier": "26-66455/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Administrateur système Linux",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.58.88",
+    "email": "corentin.claeys@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Ingénieur ou Technicien",
+    "competencyRequired": [
+      "Solides compétences dans les différents systèmes d'exploitation Linux",
+      "Solides compétences en scripting système : Python et bash",
+      "Solides compétences dans les outils d'industrialisation : Puppet, Ansible, Git",
+      "Bonne connaissance du référentiel ITIL",
+      "Connaissance des concepts DevOps, Infrastructure as Code",
+      "Bon niveau d'anglais (écrit et oral)",
+      "Connaissance et expérience dans la gestion de projet",
+      "Connaissance du fonctionnement de l'administration de la Nouvelle-Calédonie."
+    ]
+  },
+  "eligibilityToWorkRequirement": "- Ingénieur 1er et 2ème grade domaine informatique : au moins égale à 5 ans. \n\n- Technicien 2ème grade domaine informatique : au moins égale à 10 ans.",
+  "employerOverview": "La Direction du Numérique et de la Modernisation (DINUM) est chargée de définir et d'assurer la mise en œuvre de la politique de développement numérique du gouvernement de la Nouvelle-Calédonie en articulation avec la\nstratégie générale de la collectivité notamment en matière de transformation numérique de l'action publique, de simplification et de modernisation des services rendus grâce au numérique, de pilotage de la performance par le levier du numérique et de développement de l'économie numérique. Elle doit garantir la sécurité et la continuité du service informatique fourni aux utilisateurs et anticiper les changements et leurs impacts métiers sur le système d'information. Afin de mener à bien ses missions, tout en étant dans une démarche constante de performance et d'innovation, la DINUM s'appuie sur un fonctionnement matriciel. Cette organisation vise à privilégier la polyvalence des agents, la mutualisation des compétences et la coordination des ressources internes. \n\nLa DINUM est composée de 5 services, de 2 missions et d'une cellule : le service développement des applicatifs, le service géomatique et télédétection, le service ressources, le service assistance numérique et logistique, le service des infrastructures, la mission économie numérique, la mission transformation numérique, la cellule stratégie et pilotage de la performance. Le service infrastructures est composé de 17 agents répartis dans 3 sections : section ingénierie du poste et de l'environnement de travail, section système et bases de données, section réseau et Datacenter.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service infrastructures",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Service infrastructures",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Administrateur système"
+  },
+  "responsibilities": [
+    "Sous l'autorité du chef de section Système et Base de Données, l'administrateur système Linux assurera principalement les missions suivantes :",
+    "Assure le maintien, les mises à jour, la disponibilité et la performance des systèmes linux en accord avec les règles définies par la section",
+    "Mettre en œuvre l'intégration, la supervision des systèmes et des application métiers du GNC",
+    "Gestion des incidents, des problèmes et des demandes",
+    "Mise en œuvre d'automatisation pour des traitements ou services récurrents",
+    "Développe des composants nécessaires à l'optimisation et l'amélioration de l'architecture système et du socle technique.",
+    "Effectuer des tâches d'administrateur de bases de données Oracle, MySQL ou PostgreSQL",
+    "Diffuser la culture DevOps au sein de l'organisation",
+    "Assurer le suivi  des projets transverses",
+    "Être le  référent technique sur certains projets transverses",
+    "Participation et gestion de projets."
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Création et respect des procédure pour le maintien en condition opérationnel",
+    "Maîtriser le formalisme interne pour la gestion des demandes, des incidents et des problèmes",
+    "Organiser et animer des réunions",
+    "Assurer une veille technologique sur les dernières évolutions.",
+    "Méthode et rigueur",
+    "Autonomie",
+    "Curiosité intellectuelle et force de proposition",
+    "Disponible, dynamique",
+    "Facilité d'adaptation et de travail en équipe",
+    "Capacité d'écoute, de synthèse",
+    "Bonne gestion du stress."
+  ],
+  "specialCommitments": null,
+  "title": "Administrateur système Linux",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-13",
+  "workHours": null,
+  "champs_open_data": 26,
+  "employeur_sigle": "DINUM",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DU NUMERIQUE ET DE LA MODERNISATION",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Système d'information",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "systeme-d-information"
+}
