@@ -1,0 +1,163 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 2-Diplôme niveau V",
+    "direction": "DEVELOPPEMENT DURABLE ET DE LA PROXIMITE",
+    "uniteOrganisationnelle": "Service des Équipements Publics",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de Cellule entretien et maintenance",
+    "placeOrganigramme": "Sous l'autorité directe du Chef de Cellule entretien et maintenance, puis du Chef de Service Equipements Publics",
+    "relationsFonctionnelles": [
+      "Service Equipements Publics",
+      "Cadre de Vie",
+      "Cellule Logistique"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Mobilisable les week-ends et jours fériés, astreintes hebdomadaires régulières ou ponctuelles, travail en intérieur ou à l'extérieur par tout temps, horaires irréguliers, port de vêtement de sécurité (EPI), pénibilité de certaines tâches, manipulation d'engins et d'outils dangereux, déplacements fréquents, dangerosité liée au travail en hauteur."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955380.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Deuxième commune de Nouvelle-Calédonie avec ses 36 000 habitants, DUMBEA s'affiche comme une ville d'avenir, dynamique, vivante, et multiculturelle dans laquelle il fait bon vivre. Au sein de la Direction du Développement Durable et de la Proximité, sous l'autorité directe du Chef de Cellule entretien et maintenance, puis du Chef de Service Equipements Publics, l'agent retenu effectuera des travaux dans plusieurs corps de métiers du bâtiment, en suivant des directives ou d'après des documents techniques. Il assure seul ou sous le contrôle d'un responsable, l'enchaînement des travaux nécessaires à l'entretien et la maintenance des surfaces, des locaux, des espaces publics, des infrastructures et plus largement du patrimoine de la collectivité.",
+  "disambiguatingDescription": "Ouvrier polyvalent effectuant des travaux dans plusieurs corps de métiers du bâtiment pour l'entretien et la maintenance du patrimoine de la collectivité.",
+  "identifier": "26-1559",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Ouvrier polyvalent",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Dumbéa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.94.10",
+    "email": "courrier@ville-dumbea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Formation de chaudronnier",
+    "competencyRequired": [
+      "Règles de sécurité et prévention",
+      "Notions d'hygiène et d'environnement",
+      "Formation habilitation HO/BO",
+      "Formation Nacelle",
+      "Techniques du bâtiment de second œuvre : maçonnerie, plâtrerie, électricité, menuiserie, plomberie, soudure, peinture, serrurerie, soudure",
+      "Règles d'hygiène et sécurité",
+      "Techniques de signalisation"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Deuxième commune de Nouvelle-Calédonie avec ses 36 000 habitants, DUMBEA s'affiche comme une ville d'avenir, dynamique, vivante, et multiculturelle dans laquelle il fait bon vivre. Sa richesse est de réunir à la fois un caractère très urbain au sud et plus rural au nord.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service des Équipements Publics",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Dumbéa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "DUMBEA",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "66 avenue de la Vallée",
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Patrimoine bâti",
+    "Entretien, surveillance et logistique"
+  ],
+  "physicalRequirement": "Pénibilité de certaines tâches (travail courbé et agenouillé, port de charges lourdes)",
+  "qualifications": "Détenir permis B, C, E à jour, Formation habilitation HO/BO, Formation Nacelle",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Conducteur d’opérations en bâtiment"
+  },
+  "responsibilities": [
+    "Effectuer l'entretien et la maintenance des bâtiments et équipements communaux (peinture, plomberie, serrurerie, menuiserie, maçonnerie, soudure, etc...)",
+    "Assurer avec le magasin l'inventaire et le suivi du matériel dédié",
+    "Mettre en place les installations pour les événementiels (installations techniques et manutention logistique)",
+    "Suivi et contrôle des installations sportives pour répondre aux besoins des clubs dans le cadre des pratiques de compétitions (salles et espaces extérieurs)",
+    "Enlèvement des tags sur ou aux abords des équipements publics",
+    "Réaliser en régie des travaux de maintenance autres que sur les équipements municipaux (réfection de grillage ou de lisses, travaux de maçonnerie, débroussaillage, élagage, propreté des dépendances, évacuer des déchets et encombrants sauvages, etc...)",
+    "Mise en place et enlèvement ponctuel du matériel pédagogique (tatamis, petits matériels divers), équipements sportifs, soutien logistique",
+    "Veiller au bon fonctionnement des équipements mis à disposition, au respect des règles de sécurité et d'utilisation des installations",
+    "Intervenir en tant que de besoin sur les évènements organisés par la Ville",
+    "Nettoyage extérieur des abords des installations en complément des sociétés sous-traitantes (interventions ponctuelles en cas d'urgence pour espace vert ou propreté)",
+    "Entretien et suivi du véhicule affecté au poste (relevé du kilométrage, vérification des niveaux, vérification des pneus, freins, etc...)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Lire et comprendre un plan simple",
+    "Maintenir en état les matériels et outils",
+    "Appliquer et respecter des règles et normes",
+    "Détecter les dysfonctionnements dans un bâtiment ou du matériel",
+    "Diagnostiquer la limite dans la réalisation d'un travail au-delà de laquelle l'appel un spécialiste est indispensable",
+    "Coordonner l'intervention avec d'autres corps de métier",
+    "Appliquer les procédures",
+    "Assiduité",
+    "Rigueur professionnelle",
+    "Grande disponibilité et mobilité",
+    "Qualités relationnelles",
+    "Sens du service public",
+    "Grande aptitude au travail en transversalité et en équipe",
+    "Sens de l'organisation",
+    "Capacité d'adaptation et réactivité",
+    "Autonomie",
+    "Initiative",
+    "Esprit d'initiative",
+    "Réactivité et rapidité en présence d'événement soudain"
+  ],
+  "specialCommitments": "Astreintes hebdomadaires régulières ou ponctuelles",
+  "title": "Ouvrier polyvalent",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-13",
+  "workHours": "Horaires irréguliers en fonction des obligations du service public",
+  "champs_open_data": 8,
+  "employeur_sigle": "VILLE-DE-DUMBEA",
+  "collectivite": "Ville de Dumbéa",
+  "direction": "DEVELOPPEMENT DURABLE ET DE LA PROXIMITE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Patrimoine bâti",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "patrimoine-bati"
+}
