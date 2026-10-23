@@ -1,0 +1,176 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif",
+    "direction": "SERVICE DE LA JEUNESSE ET DE LA COHESION SOCIALE",
+    "uniteOrganisationnelle": "Bureau de la jeunesse",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cheffe de service et son responsable de bureau",
+    "placeOrganigramme": "Sous la responsabilité de la cheffe de service et de son responsable de bureau",
+    "relationsFonctionnelles": [
+      "Etablissements scolaires publics et privés",
+      "Groupes d'observation et de prévention des ruptures (GOPR)",
+      "Comités d’éducation à la santé et à la citoyenneté (CESC)",
+      "Instances du CLSPD",
+      "Gendarmerie",
+      "Justice",
+      "DPJEJ",
+      "Services éducatifs et médicaux (SPE CMS)"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Grande disponibilité, Déplacements fréquents, Public difficile, Gestion des urgences, Dynamisme, disponibilité, autonomie, esprit d'initiative, Gestion du stress"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952226.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous la responsabilité de la cheffe de service et de son responsable de bureau, la mission du coordonnateur porte essentiellement sur l’identification des jeunes en fragilités (scolaires, sociales, familiales, culturelles), la mobilisation des familles et des professionnels concernés dans le cadre d’une prise en charge partenariale pour une résolution collective des situations.",
+  "disambiguatingDescription": "Coordonnateur Veille éducative pour la Ville de Païta",
+  "identifier": "26-1581",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Coordonnateur Veille éducative",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Païta"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "AreaServed",
+    "name": "Mairie de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12 route de la Mairie",
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "35.21.14",
+    "email": "recrutement@ville-paita.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'Etat d'Educateur Spécialisé -DEES",
+    "competencyRequired": [
+      "Diplôme d'Etat d'Educateur Spécialisé -DEES exigé pour le recrutement sur titre",
+      "Expérience professionnelle ayant apporté une connaissance des problématiques de prévention de la délinquance",
+      "Bonne connaissance du fonctionnement d’un CLSPD",
+      "Connaissance du contexte social et politique et des publics néo-calédoniens",
+      "Connaissance des institutions scolaires, sociales et judiciaires",
+      "Connaissance des politiques de l'éducation à l'échelle pays, province et commune",
+      "Connaissance du réseau local (acteurs, territoire communal et ses habitants)"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Bureau de la jeunesse",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle ayant apporté une connaissance des problématiques de prévention de la délinquance",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Païta"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12 route de la Mairie",
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98890"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Action sociale",
+    "Education"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B indispensable",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Educateur spécialisé"
+  },
+  "responsibilities": [
+    "Participer aux équipes éducatives en primaire, et aux commissions éducatives en secondaire concernant des problématiques de comportement et de décrochage scolaire",
+    "Participer aux groupes d'observation et de prévention des ruptures (GOPR) et aux comités d’éducation à la santé et à la citoyenneté (CESC) lorsque ceux-ci ont été créés",
+    "Recueillir et analyser tous les autres cas susceptibles de rentrer dans la démarche de veille éducative (problèmes comportementaux sur les temps périscolaires et/ou extrascolaires, incivilités dans les transports etc.) en lien avec les partenaires concernés",
+    "Centraliser les informations concernant chaque enfant, dans le respect des principes de la charte déontologique des instances du CLSPD",
+    "Organiser les échanges avec les partenaires afin de vérifier la pertinence de l’orientation et identifier le professionnel le mieux placé pour obtenir l’adhésion de la famille",
+    "Disposer d’une palette la plus complète possible de moyens de réponses adaptées, individuelles et collectives",
+    "Etre en capacité de proposer des réponses adaptées aux besoins identifiés",
+    "Animer les réunions périodiques de l'équipe pluridisciplinaire et en assurer les comptes rendus",
+    "Préparer les réunions de coordination et de suivis des cellules de veille éducative (composition qui dépend des situations) en lien étroit avec les référents identifiés pour effectuer le suivi de chaque parcours, rédiger les comptes rendus",
+    "Assurer le relais entre les observations et propositions de la cellule et les instances concernées (Groupes d'observation et de prévention des ruptures, commissions éducatives, etc.)",
+    "Accompagner les mineurs sous-main de justice vers un suivi veille éducative à l’issue d’une mesure judiciaire afin de permettre une continuité éducative dans leur parcours",
+    "Faire le lien avec les acteurs de l’insertion par l'économie afin de faciliter l'accès à des chantiers d’insertion, des stages, des formations pour les plus de 16 ans",
+    "Informer les acteurs du territoire sur la démarche et maintenir une dynamique de réseau en organisant deux regroupements interprofessionnels par an",
+    "Repérer les personnes pouvant être des ressources pour intervenir auprès des familles et des enfants",
+    "Favoriser les actions de soutien à la responsabilité parentale"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Savoir-faire éprouvé en matière de coordination et de conduite de projet (méthodologie de projet et travail en réseau)",
+    "Savoir mobiliser les circuits judiciaires (Gendarmerie/Justice/DPJEJ) et les institutions scolaires ainsi que les services éducatifs et médicaux (SPE CMS,...)",
+    "Savoir-faire dans la mobilisation des familles comme actrices et partenaires à part entière dans la résolution de leur situation",
+    "Engagement professionnel dans un projet collectif à construire",
+    "Forte capacité d’écoute et de communication, empathie",
+    "Respect du secret professionnel",
+    "Sens du travail en réseau et en équipe pluridisciplinaire"
+  ],
+  "specialCommitments": null,
+  "title": "Coordonnateur Veille éducative",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-13",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "VILLE-DE-PAITA",
+  "collectivite": "Ville de Païta",
+  "direction": "SERVICE DE LA JEUNESSE ET DE LA COHESION SOCIALE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "action-sociale"
+}
