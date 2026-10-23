@@ -1,0 +1,162 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 3-Diplôme niveau IV",
+    "direction": "VILLE DU MONT-DORE",
+    "uniteOrganisationnelle": "Service anti-délinquance des mineurs (SAM)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Parquet",
+      "Maison de Protection des Familles de la gendarmerie",
+      "Établissements scolaires",
+      "Bailleurs sociaux",
+      "Services sociaux de la province",
+      "Organismes de prévention"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Agent contractuel de droit public recruté sur contrat à durée déterminée. Horaires irréguliers : interventions en soirée, le mercredi, le samedi et pendant les vacances scolaires, selon la disponibilité des publics. Travail de rue et déplacements permanents sur l'ensemble du territoire communal ; permis B exigé. Exposition habituelle à des situations de tension, de conflit ou de détresse, exigeant maîtrise de soi et capacité de prise de recul. Obligation de discrétion professionnelle et respect du secret professionnel. Contact habituel avec des mineurs : recrutement subordonné à la vérification de l'honorabilité du candidat. Recours à l'analyse de la pratique professionnelle ou à la supervision."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952226.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Au sein du service anti-délinquance des mineurs (SAM), structure dédiée au pilotage du dispositif Tolérance zéro créée par délibération du conseil municipal du 23 juillet 2026, l'éducateur spécialisé conduit une action de prévention socio-éducative, sociale et de proximité auprès des mineurs et des familles présentant des facteurs de vulnérabilité ou d'exposition aux conduites à risque. Il contribue à prévenir les ruptures scolaires, familiales et sociales susceptibles de favoriser l'entrée dans des parcours de délinquance, en développant la prévention de proximité, l'accompagnement individuel, le soutien à la parentalité, la médiation et la mobilisation des ressources du territoire.",
+  "disambiguatingDescription": "Recrutement dans le cadre d'une mission temporaire",
+  "identifier": "26-1588",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Educateur spécialisé",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "43.70.89",
+    "email": "christine.aita@ville-montdore.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3",
+    "competencyRequired": [
+      "Diplôme d'État d'éducateur spécialisé (DEES), niveau bac + 3 ; à défaut, diplôme d'État de moniteur-éducateur, d'assistant de service social ou de conseiller en économie sociale et familiale, assorti d'une expérience significative dans le champ socio-éducatif",
+      "Cadre juridique et institutionnel de la protection de l'enfance et de la prévention de la délinquance en Nouvelle-Calédonie, et répartition des compétences entre l'État, la Nouvelle-Calédonie, les provinces et les communes",
+      "Missions et fonctionnement d'une collectivité communale ; obligations de l'agent public",
+      "Psychologie et sociologie de l'enfance et de l'adolescence ; processus de rupture et de passage à l'acte",
+      "Méthodologie de l'intervention socio-éducative : prévention spécialisée, travail de rue, accompagnement individualisé, soutien à la parentalité",
+      "Dispositifs locaux de scolarité, de formation, d'insertion, de santé et d'accès aux droits",
+      "Réalités sociales, culturelles et coutumières du territoire communal ; la connaissance du contexte socio-culturel calédonien et du territoire communal constitue un atout déterminant",
+      "Règles du secret professionnel, du partage d'informations et de la protection des données personnelles"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "TEMPORARY",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service anti-délinquance des mineurs (SAM)",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Expérience de deux à trois années en prévention spécialisée, en protection de l'enfance vivement souhaitée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": "Mission temporaire",
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Service anti-délinquance des mineurs (SAM)",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Mont-Dore",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98809"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Action sociale",
+    "Prévention et sécurité"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B en cours de validité exigé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Éducateur spécialisé"
+  },
+  "responsibilities": [
+    "Assurer une présence socio-éducative de proximité auprès des mineurs sur leurs lieux de vie et de regroupement (espaces publics, abords des établissements scolaires) et exercer une veille sociale des quartiers",
+    "Prévenir le décrochage scolaire, en lien avec les établissements scolaires et le service de la vie scolaire, et accompagner les mineurs vers une reprise de scolarité, une formation ou un parcours d'insertion",
+    "Accompagner individuellement les mineurs : entretiens d'accueil, d'écoute et d'évaluation, élaboration et mise en œuvre d'un projet d'accompagnement individualisé, rédaction des écrits professionnels de suivi des mineurs",
+    "Soutenir les familles : appui à la fonction parentale, accompagnement inscrit dans la durée et actions collectives de soutien à la parentalité",
+    "Prévenir les conduites à risque et la délinquance, accompagner les mineurs mis en cause dans des faits d'incivilité ou de délinquance en articulation avec le dispositif Tolérance zéro et l'autorité judiciaire, et contribuer à la prévention de la récidive",
+    "Concevoir, conduire et évaluer des projets socio-éducatifs, sportifs, culturels et citoyens, à destination des mineurs et de leur famille",
+    "Assurer une fonction de médiation dans les situations de tension ou de conflit impliquant des mineurs (voisinage, espace public, établissements scolaires, famille)",
+    "Travailler en réseau avec les partenaires du territoire (Parquet, Maison de Protection des Familles de la gendarmerie, établissements scolaires, bailleurs sociaux, services sociaux de la province, organismes de prévention), dans le respect du secret professionnel",
+    "Renseigner les outils de suivi de l'activité (fiches de situation, tableaux de bord, statistiques) et contribuer aux bilans intermédiaire et annuel transmis à l'État",
+    "Participer au comité de suivi de la convention ainsi qu'aux manifestations communales et dispositifs municipaux mobilisant la jeunesse"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": "Vérification de l'honorabilité du candidat (contact habituel avec des mineurs)",
+  "sensoryRequirement": null,
+  "skills": [
+    "Conduire un entretien d'aide et évaluer une situation",
+    "Construire, formaliser et évaluer un projet d'accompagnement individualisé",
+    "Concevoir, animer et évaluer une action collective",
+    "Désamorcer une situation de tension et conduire une médiation",
+    "Travailler en réseau et animer un partenariat",
+    "Rédiger des écrits professionnels clairs, objectifs et exploitables",
+    "Rendre compte de son activité et renseigner des indicateurs de suivi",
+    "Maîtriser les outils bureautiques courants",
+    "Écoute, empathie et absence de jugement",
+    "Juste distance professionnelle et maîtrise de soi",
+    "Discrétion et loyauté",
+    "Autonomie, sens de l'initiative et de l'organisation",
+    "Disponibilité et capacité d'adaptation aux horaires et aux publics",
+    "Résistance aux situations de tension et gestion du stress",
+    "Sens du service public, neutralité et exemplarité"
+  ],
+  "specialCommitments": "Horaires irréguliers (soirées, mercredis, samedis et vacances scolaires), travail de rue et déplacements permanents",
+  "title": "Educateur spécialisé",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-13",
+  "workHours": "Horaires irréguliers : interventions en soirée, le mercredi, le samedi et pendant les vacances scolaires",
+  "champs_open_data": 7,
+  "employeur_sigle": "VILLE-DU-MONT-DORE",
+  "collectivite": "Ville du Mont-Dore",
+  "direction": "VILLE DU MONT-DORE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 0.984,
+  "dossier": "action-sociale"
+}
