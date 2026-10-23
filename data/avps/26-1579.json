@@ -1,0 +1,167 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Emploi fonctionnel",
+    "direction": "VILLE DU MONT-DORE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaire générale",
+    "placeOrganigramme": "Sous l'autorité hiérarchique de la Secrétaire générale",
+    "relationsFonctionnelles": [
+      "Maire",
+      "Élus",
+      "Direction générale",
+      "Police municipale",
+      "Centre d'incendie et de secours",
+      "Service hygiène et santé publiques",
+      "Service Antidélinquance des Mineurs",
+      "Conseil local de sécurité et de prévention de la délinquance",
+      "Partenaires institutionnels et locaux"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Fonction transversale à l'échelle de la Direction de la sécurité, incluant la coordination des actions de prévention et d'accompagnement relevant du Service Antidélinquance des Mineurs (SAM). Coordination du CLSPD sous l'autorité du Maire ou de son représentant. Pilotage de l'élaboration, de l'actualisation et des exercices du PCS sous l'autorité du Maire. Disponibilité adaptée aux nécessités du service et aux situations exceptionnelles. Participation possible à des dispositifs de crise, réunions ou opérations nécessitant une mobilisation en dehors des horaires habituels. Obligation de réserve, de discrétion et de confidentialité compte tenu de la nature des informations traitées."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'exercice du poste",
+        "value": "Le/la Directeur(trice) de la sécurité exerce ses missions dans le cadre des délégations, de l'organisation et des procédures arrêtées par la Ville. Il/Elle ne se substitue pas aux autorités ou responsables investis de compétences propres par les textes : pouvoir de police du Maire, autorité judiciaire, autorités de l'État, chaîne de commandement des opérations de secours et responsabilités statutaires des chefs de service. Son rôle est d'assurer le pilotage, la coordination, le contrôle administratif et managérial, l'aide à la décision et la cohérence d'ensemble de la politique municipale de sécurité."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957714.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La Direction de la sécurité regroupe quatre services : la Police municipale, le Centre d'incendie et de secours, le Service hygiène et santé publiques et le Service Antidélinquance des Mineurs. Elle contribue, dans le champ de compétence de la commune, à la prévention, à la sécurité et à la tranquillité publiques, à la prévention de la délinquance des mineurs, à la préparation et à la gestion des situations de crise, ainsi qu'à la protection de la population. Placé sous l'autorité hiérarchique de la Secrétaire générale, le Directeur de la sécurité assure le pilotage administratif, managérial et transversal de la direction. Il contribue à la mise en œuvre des orientations arrêtées par l'Exécutif municipal et conseille le Maire, les élus et la direction générale sur les enjeux de sécurité, de prévention des risques et de protection de la population.",
+  "disambiguatingDescription": "Directeur de la sécurité pour la Ville du Mont-Dore, assurant le pilotage administratif, managérial et transversal de la direction.",
+  "identifier": "26-1579",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Directeur(trice)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "43.70.89",
+    "email": "sg@ville-montdore.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Catégorie A",
+    "competencyRequired": [
+      "Très bonnes connaissances de l'environnement territorial, institutionnel et partenarial de la sécurité",
+      "Connaissance du cadre juridique applicable aux politiques publiques de sécurité, à la police municipale, à la prévention de la délinquance, à la sécurité civile, à l'hygiène et à la santé publiques",
+      "Connaissance des principes de gestion publique, de préparation budgétaire et de pilotage des ressources",
+      "Connaissance des méthodes de diagnostic, d'analyse, d'évaluation et de gestion de projet",
+      "Connaissance du contexte de la Nouvelle-Calédonie et de ses particularités institutionnelles"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Ville du Mont-Dore",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Expérience professionnelle significative sur des fonctions de direction, de sécurité, de prévention des risques ou de pilotage de services publics.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Ville du Mont-Dore",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4468 avenue des deux baies Boulari",
+      "addressLocality": "Mont-Dore",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98809"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-02",
+  "occupationalCategory": [
+    "Prévention et sécurité",
+    "Administration générale",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Directeur"
+  },
+  "responsibilities": [
+    "Participer à la définition, à la mise en œuvre et à l'évaluation des orientations de l'Exécutif municipal en matière de sécurité, de prévention de la délinquance, de prévention des risques, d'incendie et de secours, d'hygiène et de santé publiques",
+    "Conseiller les élus et la Secrétaire générale sur les risques, les contraintes et les moyens liés aux décisions relevant du champ de la sécurité, et proposer des plans d'action adaptés",
+    "Coordonner et évaluer les dispositifs de sécurité, de prévention et de tranquillité publiques, en lien avec les partenaires institutionnels et locaux, dans le respect des compétences de chacun",
+    "Animer, coordonner et suivre les travaux du Conseil local de sécurité et de prévention de la délinquance (CLSPD)",
+    "Piloter l'élaboration, l'actualisation et la mise en œuvre du Plan communal de sauvegarde (PCS), et contribuer à la préparation des services municipaux à la gestion des situations de crise",
+    "Organiser et superviser les dispositifs de sécurisation des bâtiments, équipements, matériels et manifestations de la Ville",
+    "Élaborer et suivre le budget de la direction, contrôler son exécution et veiller à l'adéquation des moyens humains, matériels et financiers aux besoins des services",
+    "Contrôler le respect des dispositions réglementaires, administratives et déontologiques applicables aux services de la direction, et assurer la veille réglementaire dans les domaines relevant de son périmètre",
+    "Formaliser, actualiser et moderniser les procédures opérationnelles et administratives, et développer les outils de suivi et d'évaluation de l'activité de la direction",
+    "Encadrer et accompagner les chefs de service dans la définition des objectifs, le pilotage de leurs activités et l'animation de leurs équipes, en favorisant la transversalité et le développement des compétences",
+    "Assurer le pilotage des projets structurants et des opérations transversales confiées par la hiérarchie, et produire les analyses, bilans et propositions nécessaires à l'aide à la décision"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Manager des équipes et coordonner plusieurs services aux missions différentes",
+    "Analyser une situation, hiérarchiser les priorités, anticiper les risques et proposer des solutions opérationnelles",
+    "Piloter des projets transversaux et conduire le changement",
+    "Élaborer et suivre un budget, des tableaux de bord et des indicateurs d'activité",
+    "Rédiger des notes, rapports, procédures et documents d'aide à la décision",
+    "Travailler en réseau avec les partenaires institutionnels et les acteurs de terrain",
+    "Gérer les situations sensibles et les périodes de crise avec méthode, réactivité et discernement",
+    "Leadership, sens des responsabilités et aptitude au commandement",
+    "Rigueur, loyauté, discrétion professionnelle et respect de la confidentialité",
+    "Capacité d'écoute, de dialogue, de négociation et de travail partenarial",
+    "Autonomie, disponibilité et forte capacité d'adaptation",
+    "Maîtrise de soi, réactivité et sens du service public",
+    "Respect de la hiérarchie, des procédures et des compétences de chaque autorité"
+  ],
+  "specialCommitments": null,
+  "title": "Directeur(trice)",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-13",
+  "workHours": "Disponibilité adaptée aux nécessités du service et aux situations exceptionnelles",
+  "champs_open_data": 9,
+  "employeur_sigle": "VILLE-DU-MONT-DORE",
+  "collectivite": "Ville du Mont-Dore",
+  "direction": "VILLE DU MONT-DORE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Pilotage",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "pilotage"
+}
