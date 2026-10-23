@@ -1,0 +1,201 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif",
+    "direction": "CAISSE DES ECOLES DE BOURAIL",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directrice de la Caisse des écoles de Bourail",
+    "placeOrganigramme": "Placé sous l'autorité de la directrice de la Caisse des écoles de Bourail",
+    "relationsFonctionnelles": [
+      "Directrice de la Caisse des écoles de Bourail",
+      "Coordinatrice administrative",
+      "Surveillants",
+      "Animateurs",
+      "Enseignants",
+      "Directeurs d'école",
+      "Familles"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Horaires susceptibles d'être décalées par rapport au temps scolaire. Déplacements réguliers sur les différents sites et équipements de la commune."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952086.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité de la directrice de la Caisse des écoles de Bourail, l'agent retenu assurera la mise en œuvre, la coordination et l'animation des dispositifs de veille éducative et des temps périscolaires sur le terrain, en appui à la directrice de la caisse des écoles. Il encadrera et coordonnera l'équipe de surveillants et d'animateurs des écoles afin d'assurer le bon fonctionnement des services périscolaires ou extra-scolaires dans le cadre du projet d'accueil des enfants. Il favorisera et construira le développement d'actions d'animations pendant la cantine et les services périscolaires.",
+  "disambiguatingDescription": "Coordinatrice des Activités Périscolaires et de la veille éducative dans le cadre d'une réorganisation interne",
+  "identifier": "26-1595",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Coordinatrice des activités périscolaires et de la veille éducative",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Bourail"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Mairie de Bourail",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue Simone DREMON",
+      "addressLocality": "Bourail",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "44.11.25",
+    "email": "a.cure@mairie-bourail.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Assistante socio-éducatif",
+    "competencyRequired": [
+      "Coordination et animation de projets éducatifs",
+      "Prise en charge et encadrement d'enfants (sécurité, activités, gestes de premiers secours)",
+      "Maîtrise des outils de communication numérique (page Facebook, réseaux sociaux) et respect du droit à l'image",
+      "Travail en équipe et en réseau pluridisciplinaire",
+      "Connaissance des politiques publiques enfance/éducation/famille",
+      "Gestion et suivi administratif et budgétaire",
+      "Analyse et suivi des situations éducatives",
+      "Capacités rédactionnelles et de synthèse"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Caisse des Ecoles de Bourail",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Bourail"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Caisse des Ecoles de Bourail",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue Simone DREMON",
+      "addressLocality": "Bourail",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98870"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Au plus tôt",
+  "occupationalCategory": [
+    "Animation",
+    "Education",
+    "Action sociale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Gestes de premiers secours",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Coordonnateur des services périscolaires"
+  },
+  "responsibilities": [
+    "Proposer et concevoir les activités en fonction des besoins et intérêts des enfants",
+    "Identifier et mobiliser les intervenants et ressources locales",
+    "Rédiger les bilans, comptes rendus et rapports d'activité",
+    "Animer et accompagner l'équipe d'animateurs",
+    "Accueillir et intégrer les nouveaux animateurs",
+    "Assurer les briefings quotidiens et la circulation des informations",
+    "Favoriser la cohésion et la dynamique d'équipe",
+    "Assurer l'accueil, l'encadrement direct et la surveillance des enfants sur les temps de veille éducative et périscolaires",
+    "Veiller à la sécurité physique et affective de chaque enfant confié",
+    "Organiser et adapter les activités, les temps calmes et les rythmes en fonction des besoins des enfants",
+    "Repérer les enfants en difficulté ou en situation de vigilance éducative et alerter les personnes ressources compétentes",
+    "Assurer un accompagnement individualisé et bienveillant des enfants au quotidien",
+    "Veiller à la qualité et à la cohérence pédagogique des activités",
+    "Observer et ajuster les pratiques des animateurs",
+    "Assurer la liaison opérationnelle avec les enseignants et directeurs d'école",
+    "Veiller au respect des normes de sécurité sur les sites",
+    "Contrôler l'état des locaux et du matériel",
+    "Appliquer les protocoles d'urgence et de premiers secours",
+    "Recueillir les besoins et retours des parents au quotidien",
+    "Gérer les situations du quotidien et les conflits mineurs avec les familles",
+    "Alimenter la page Facebook de la structure avec les temps forts, photos et comptes rendus des activités périscolaires et de veille éducative",
+    "Valoriser les actions de la veille éducative auprès des familles et partenaires via les réseaux sociaux",
+    "Veiller au respect du droit à l'image des enfants et à l'accord préalable des familles avant toute publication",
+    "Coordonner le contenu publié avec la coordinatrice administrative pour assurer la cohérence de la communication"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Encadrer, écouter, fédérer et accompagner une équipe pluridisciplinaire",
+    "Formaliser et piloter un projet de direction cohérent avec les orientations de la collectivité",
+    "Élaborer des procédures, tableaux de bord, bilans et outils d'aide à la décision",
+    "Répartir et planifier les activités et optimiser les moyens humains, matériels et budgétaires",
+    "Conduire des projets complexes et coordonner des partenaires multiples",
+    "Rendre compte, alerter et formuler des propositions à la hiérarchie",
+    "Superviser l'application des règles de sécurité lors des manifestations et dans les équipements",
+    "Maîtrise des procédures administratives et connaissance du fonctionnement des collectivités territoriales",
+    "Connaissance des politiques publiques locales dans les domaines social, jeunesse, animation",
+    "Méthodologie de projet, outils de pilotage et évaluation des politiques publiques",
+    "Sens du service public",
+    "Rigueur, méthode et sérieux",
+    "Dynamisme et réactivité",
+    "Bon relationnel",
+    "Sens de la synthèse",
+    "Discrétion",
+    "Sens de l'initiative",
+    "Sens de la coopération et de la concertation",
+    "Ecoute, empathie, discrétion",
+    "Qualités relationnelles, pédagogie et communication positive",
+    "Dynamisme, autonomie, adaptabilité",
+    "Esprit d'initiative dans un cadre collectif"
+  ],
+  "specialCommitments": null,
+  "title": "Coordinatrice des activités périscolaires et de la veille éducative",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-13",
+  "workHours": "Horaires susceptibles d'être décalées par rapport au temps scolaire",
+  "champs_open_data": 7,
+  "employeur_sigle": "MAIRIE-DE-BOURAIL",
+  "collectivite": "Mairie de Bourail",
+  "direction": "CAISSE DES ECOLES DE BOURAIL",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Animation",
+  "famille_source": "respnc",
+  "famille_score": 0.824,
+  "dossier": "animation"
+}
