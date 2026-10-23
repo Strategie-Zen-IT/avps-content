@@ -1,0 +1,190 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif",
+    "direction": "SERVICE DE LA JEUNESSE ET DE LA COHESION SOCIALE",
+    "uniteOrganisationnelle": "Bureau des actions sociales",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cheffe de service de la jeunesse et de la cohésion sociale",
+    "placeOrganigramme": "Placé sous l'autorité de la cheffe de service",
+    "relationsFonctionnelles": [
+      "Partenaires institutionnels",
+      "Partenaires associatifs",
+      "Acteurs locaux"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements fréquents, Gestion des situations sociales urgentes et sensibles, Capacité d'organisation, de coordination avec les partenaires sociaux"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953804.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Dans le cadre de la réorganisation du service de la jeunesse et de la cohésion sociale et la création d'un bureau des actions sociales, le responsable du bureau participe à la définition, à la mise en œuvre et à l'évaluation de la politique communale de cohésion et d'inclusion sociale. Il assure le pilotage et la coordination des actions sociales menées par la commune, veille à la qualité de l'accompagnement des publics en situation de vulnérabilité et garantit la cohérence des interventions réalisées par les agents du bureau.",
+  "disambiguatingDescription": "Responsable du bureau des actions sociales au sein de la Ville de Païta, chargé de piloter les actions sociales communales, d'encadrer l'équipe du bureau, de développer les partenariats et d'assurer le suivi administratif.",
+  "identifier": "26-1583",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Responsable du bureau des actions sociales",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Païta"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Mairie de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "VU 12, route de la Mairie",
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "35.21.14",
+    "email": "recrutement@ville-paita.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme de conseiller en économie sociale et familiale",
+    "competencyRequired": [
+      "Diplôme de conseiller en économie sociale et familiale",
+      "Expérience significative dans le domaine du travail social, de l'intervention sociale, du développement social ou de la gestion des politiques sociales",
+      "Expérience significative dans l'accompagnement des publics en situation de vulnérabilité",
+      "Expérience en coordination d'activités, conduite de projets sociaux ou encadrement d'équipe souhaitée",
+      "Une connaissance du fonctionnement des collectivités publiques et des dispositifs d'action sociale constitue un atout"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Bureau des actions sociales",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience significative dans le domaine du travail social, de l'intervention sociale, du développement social ou de la gestion des politiques sociales. Expérience significative dans l'accompagnement des publics en situation de vulnérabilité.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Païta"
+  },
+  "incentiveCompensation": null,
+  "industry": "Action sociale",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "VU 12, route de la Mairie",
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98890"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Action sociale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B indispensable",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Travailleur social"
+  },
+  "responsibilities": [
+    "Participer à la définition des orientations et des priorités d'intervention en matière d'action sociale, en lien avec la cheffe de service",
+    "Décliner les orientations communales en programmes et actions opérationnelles",
+    "Organiser, coordonner et suivre la mise en œuvre des actions sociales relevant du bureau",
+    "Identifier les besoins sociaux du territoire et contribuer à l'analyse des situations de vulnérabilité rencontrées par les administrés",
+    "Proposer des actions adaptées aux besoins identifiés et aux priorités définies par la commune",
+    "Assurer le suivi des dispositifs et des projets relevant du bureau",
+    "Organiser et superviser l'accompagnement social des publics",
+    "Coordonner le dispositif d'accompagnement au logement",
+    "Élaborer des bilans d'activité, des tableaux de suivi et des éléments d'aide à la décision à destination de la cheffe de service",
+    "Proposer des pistes d'amélioration des dispositifs et des modalités d'intervention",
+    "Organiser et répartir les activités entre les agents du bureau en fonction des priorités et des besoins du service",
+    "Assurer la coordination quotidienne des interventions et veiller à la continuité de l'activité",
+    "Accompagner les agents dans la conduite de leurs missions et favoriser le partage des pratiques professionnelles",
+    "Identifier les besoins en formation et contribuer au développement des compétences de l'équipe",
+    "Veiller au respect des procédures, des échéances et des règles de fonctionnement",
+    "Organiser des temps de coordination et assurer la circulation de l'information au sein du bureau",
+    "Rendre compte à la cheffe de service de l'activité du bureau, des difficultés rencontrées et des propositions d'amélioration",
+    "Développer et entretenir les relations avec les institutions, les associations et les professionnels intervenant dans le champ social",
+    "Favoriser la complémentarité des interventions et la coordination des dispositifs d'accompagnement",
+    "Participer aux réunions de concertation et aux instances partenariales relevant du domaine d'activité",
+    "Représenter le bureau, sur délégation du chef de service, auprès des partenaires concernés",
+    "Faciliter la circulation des informations nécessaires à la mise en œuvre des actions, dans le respect des obligations de confidentialité et du cadre réglementaire applicable",
+    "Veiller à la tenue et à l'actualisation des dossiers et des outils de suivi du bureau",
+    "Assurer la collecte et la consolidation des données relatives aux actions menées et aux publics accompagnés",
+    "Préparer les bilans, rapports d'activité et documents de synthèse nécessaires au pilotage du service",
+    "Contribuer à l'élaboration et au suivi des objectifs opérationnels du bureau",
+    "Participer à l'amélioration des procédures et des outils de gestion",
+    "Veiller à la traçabilité des interventions et au respect des règles applicables à la gestion des données à caractère personnel"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Bonne connaissance des politiques sociales et des dispositifs d'accompagnement des personnes et des familles",
+    "Connaissance des problématiques liées à la petite enfance, au vieillissement, au handicap, à la précarité financière et au logement",
+    "Maîtrise des méthodes d'analyse des besoins sociaux et d'évaluation des situations individuelles",
+    "Capacité à concevoir, conduire et évaluer des projets et des actions sociales",
+    "Compétences en organisation, coordination d'équipe et gestion des priorités",
+    "Aptitude à développer et à animer des partenariats institutionnels et associatifs",
+    "Capacité à rédiger des notes, rapports, bilans d'activité et documents d'aide à la décision",
+    "Maîtrise des outils bureautiques et des outils de suivi de l'activité",
+    "Connaissance des règles de confidentialité, du secret professionnel lorsqu'il s'applique et de la protection des données personnelles",
+    "Sens du service public et engagement en faveur de la cohésion sociale",
+    "Qualités relationnelles, d'écoute et de communication",
+    "Capacité à fédérer une équipe et à mobiliser des partenaires",
+    "Aptitude à la prise de recul, à l'analyse et à la gestion de situations complexes",
+    "Rigueur, organisation, autonomie et esprit d'initiative",
+    "Discrétion professionnelle et respect de la confidentialité",
+    "Capacité d'adaptation et disponibilité face aux besoins des publics accompagnés"
+  ],
+  "specialCommitments": null,
+  "title": "Responsable du bureau des actions sociales",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-13",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "VILLE-DE-PAITA",
+  "collectivite": "Ville de Païta",
+  "direction": "SERVICE DE LA JEUNESSE ET DE LA COHESION SOCIALE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "action-sociale"
+}
