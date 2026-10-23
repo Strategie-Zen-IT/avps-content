@@ -1,0 +1,168 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "INSTITUT DE FORMATION A L'ADMINISTRATION PUBLIQUE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Employeurs",
+      "Collectivités",
+      "Partenaires"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "La répartition des secteurs entre l'équipe de chefs de projet est susceptible d'évoluer dans les prochains mois et pourra impacter les secteurs portés par le chef de projet recruté. Les missions restent globalement toutefois les mêmes. Déplacements occasionnels vers l'établissement de Koné. Disponibilité exceptionnelle en dehors des heures selon les actualités et programmation d'événements. Déplacements sur la Nouvelle-Calédonie à la rencontre des employeurs."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12954568.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'institut de formation à l'administration publique (IFAP) est un établissement public de la Nouvelle-Calédonie, qui a pour mission l'acquisition ou le développement de compétences des agents publics exerçant dans les services publics en Nouvelle-Calédonie. Il forme ainsi, les agents publics en service en Nouvelle-Calédonie, qu'ils soient employés par l'État, la Nouvelle-Calédonie, les provinces, les communes ou par leurs établissements publics. L'institut forme également les élus locaux et les représentants syndicaux et peut enfin être amené à former occasionnellement du personnel d'associations ou d'entreprises privées.",
+  "disambiguatingDescription": "Sur ce poste l'agent sera plus particulièrement en charge de la gestion du secteur de la formation des élus et du nouveau secteur transitions et développement durable en cours de création.",
+  "identifier": "26-1560",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de projet formation",
+  "owner": {
+    "@type": "Organization",
+    "name": "Institut de formation à l'administration publique"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.64.08",
+    "email": "direction@ifap.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Formation supérieure dans le domaine de l'ingénierie pédagogique",
+    "competencyRequired": [
+      "Diplôme de formateur pour adultes et expérience dans le domaine de la formation professionnelle pour adulte",
+      "Connaissance des aspects réglementaires de la formation professionnelle",
+      "Connaissance générale des principes de la commande publique",
+      "Connaissances souhaitées dans les secteurs de l'environnement et du développement durable"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "L'institut de formation à l'administration publique (IFAP) est un établissement public de la Nouvelle-Calédonie, qui a pour mission l'acquisition ou le développement de compétences des agents publics exerçant dans les services publics en Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience dans le domaine de la formation professionnelle pour adulte",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Institut de formation à l'administration publique"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "IFAP",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "27 rue du Révérend Père Boileau, Faubourg Blanchot",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Formation professionnelle",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Ingénieur formation"
+  },
+  "responsibilities": [
+    "Collecter et caractériser les besoins des collectivités, concevoir et assurer le pilotage des actions de formations ou de développement des compétences",
+    "Participer à la mise en œuvre du plan stratégique de l'établissement au sein d'une équipe de 9 chefs de projets formation",
+    "Réaliser des formations, animation de modules ou prestations d'accompagnement",
+    "Proposer des projets d'action en lien avec les priorités d'évolution de la fonction publique calédonienne, le déploiement des politiques publiques et anticiper les évolutions à venir",
+    "Réfléchir et proposer l'ajustement des modalités pédagogiques proposées pour répondre au mieux aux besoins et contextes posés par les commanditaires",
+    "Participer à la dynamique de transformation de l'établissement, incarner ses valeurs et la culture client",
+    "Gérer le secteur de la formation des élus et du nouveau secteur transitions et développement durable en cours de création",
+    "Animer les relations avec les collectivités et les divers partenaires pour mesurer, analyser et qualifier leurs besoins en formation",
+    "Elaborer en collaboration avec la direction, la stratégie de l'offre de service de ses domaines et le plan de communication correspondant",
+    "Présenter l'offre de formation et des prestations de services de l'établissement",
+    "Accompagner les employeurs dans la construction et mise en œuvre de leur stratégie de maintien ou/et de développement de compétences",
+    "Assister les employeurs publics dans la conception de leurs plans de formation pluriannuels",
+    "Assister à la maîtrise d'ouvrage pour la formalisation des cahiers des charges correspondant aux besoins de l'employeur",
+    "Construire l'action de formation, concevoir les séquences, situations et parcours de formation et définir les modalités pédagogiques multimodales adaptées pour répondre au besoin",
+    "Assurer une veille sur les évolutions des domaines qu'il couvre et porter des études en ingénierie de formation et pédagogie afin d'anticiper les besoins",
+    "Proposer des plans de progression ou d'assimilation de compétences en lien avec les politiques publiques validées",
+    "Participer à la construction des outils d'analyse des besoins, mesure de la satisfaction et suivi de l'impact de l'action de formation, utilisés par l'Institut",
+    "Gérer les ressources pédagogiques et financières qui lui sont attribuées",
+    "Mettre en œuvre le processus d'achat de formation dans le respect des principes de la commande publique",
+    "Elaborer divers documents propres à son activité : CDC, reporting, bilans, rapports et savoir les communiquer",
+    "Participer à l'animation du réseau et des communautés de pratiques en lien avec son domaine d'intervention",
+    "Rechercher des financements possibles pour les actions déployées par l'établissement (fonds publics locaux, nationaux ou européens)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Savoir déployer des méthodologies de projet et conduire de nombreux projets en parallèle",
+    "Savoir diagnostiquer des besoins en formation",
+    "Capacité à gérer des ressources financières, humaines et pédagogiques de façon optimisée et efficace",
+    "Savoir mettre en œuvre les méthodes d'ingénierie de formation adaptées",
+    "Capacité à animer un groupe et à le faire progresser vers un objectif",
+    "Savoir constituer et animer un réseau professionnel",
+    "Mobiliser des outils numériques dans ses pratiques",
+    "Capacité d'écoute",
+    "Aisance relationnelle et orale",
+    "Capacité d'analyse et de synthèse",
+    "Capacité d'adaptation",
+    "Autonomie de fonctionnement",
+    "Travail en collaboration",
+    "Capacités organisationnelles et de pilotage",
+    "Pédagogie",
+    "Capacité à convaincre et maintenir sur la durée la qualité des relations avec les partenaires"
+  ],
+  "specialCommitments": "Disponibilité exceptionnelle en dehors des heures selon les actualités et programmation d'événements. Déplacements sur la Nouvelle-Calédonie.",
+  "title": "Chef de projet formation",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-13",
+  "workHours": "Disponibilité exceptionnelle en dehors des heures",
+  "champs_open_data": 9,
+  "employeur_sigle": "IFAP",
+  "collectivite": "Institut de formation à l'administration publique",
+  "direction": "INSTITUT DE FORMATION A L'ADMINISTRATION PUBLIQUE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Formation professionnelle",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "formation-professionnelle"
+}
