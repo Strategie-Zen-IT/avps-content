@@ -1,0 +1,170 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+    "uniteOrganisationnelle": "CMP Gallieni",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Psychiatrie adulte",
+      "Partenaires extérieurs"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Service d'affectation",
+        "value": "Psychiatrie adulte"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Sans objet"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957370.PDF"
+      }
+    ]
+  },
+  "alternateName": "Secrétaire médicale",
+  "description": "Le Centre Hospitalier Spécialisé Albert Bousquet recrute un assistant médico-administratif pour son unité CMP Gallieni au sein du service de Psychiatrie adulte. Le poste est à pourvoir immédiatement à Nouméa.",
+  "disambiguatingDescription": "Poste d'assistant médico-administratif au CMP Gallieni, rattaché à la Direction des ressources humaines et des affaires médicales du CHS Albert Bousquet.",
+  "identifier": "26-1558",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Assistant médico-administratif",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "CMP Gallieni",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.36.38",
+    "email": "avp@chs.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Maîtrise de la terminologie médical (psychiatrique)",
+      "Codage des actes",
+      "Communication",
+      "Réglementation des archives",
+      "Droit des patients",
+      "Bureautique",
+      "Gestion des données statistiques"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Le Centre Hospitalier Spécialisé Albert Bousquet est l'établissement de référence pour la prise en charge de la santé mentale en Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "CMP Gallieni",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Administration générale",
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "secrétaire médicale"
+  },
+  "responsibilities": [
+    "Accueil (physique et téléphonique) et orientation du public",
+    "Contrôle de la cohérence des données, des informations",
+    "Contrôle de la confidentialité et de la sécurité des informations",
+    "Élaboration et mise en place de mesures correctives",
+    "Prise de rendez-vous et gestion des agendas",
+    "Gestion et traitement des données et informations (recherche, recueil, analyse, priorisation, diffusion, classement, suivi)",
+    "Planification des activités, des interventions internes et externes, Recensement, enregistrement des données, des informations liées à la nature des activités",
+    "Saisie, mise à jour et / ou sauvegarde de données, d'informations, de tableaux",
+    "Perception et centralisation de recettes, encaissement, facturation",
+    "Traitement de données d'activité",
+    "Archivage des dossiers",
+    "Coordination entre les différents intervenants (liaison entre agents travaillant sur place et agents en déplacement hors de la structure)",
+    "Liaison avec les partenaires extérieurs (réseau). Formation de personnes aux techniques et procédures et à leur application"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Accueillir et orienter des personnes, des groupes, des publics",
+    "Analyser et optimiser les processus",
+    "Évaluer la pertinence, la véracité des données, des informations",
+    "Identifier, analyser des erreurs de gestion (codage, facturation, etc.), en rechercher les causes, définir les moyens d'y pallier",
+    "Identifier, analyser, prioriser et synthétiser les informations relevant de son domaine d'activité professionnel",
+    "Organiser et classer des données, des informations, des documents de diverses natures",
+    "Traiter et résoudre des situations agressives ou conflictuelles",
+    "Transférer un savoir-faire, une pratique professionnelle",
+    "Utiliser les outils bureautiques et les progiciels de l'établissement (DX CARE, CPAGE)"
+  ],
+  "specialCommitments": null,
+  "title": "Assistant médico-administratif",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-13",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "CHS",
+  "collectivite": "Centre hospitalier spécialisé \"Albert Bousquet\"",
+  "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.99,
+  "dossier": "administration-generale"
+}
