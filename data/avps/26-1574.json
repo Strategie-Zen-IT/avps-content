@@ -1,0 +1,192 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Auxiliaire de puériculture",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Service de pédiatrie",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Infirmiers",
+      "Puéricultrices",
+      "Équipe pluridisciplinaire",
+      "Équipe soignante"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Statut particulier",
+        "value": "Personnels paramédicaux"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952032.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Au sein du service de pédiatrie du Médipôle – CHT Gaston Bourret, l’auxiliaire de puériculture contribue à la prise en charge globale des enfants hospitalisés, en veillant à leur sécurité, leur confort et leur bien-être. En collaboration avec les infirmiers et les puéricultrices, et sous leur responsabilité, il/elle réalise des soins d’hygiène, de confort, de prévention et d'éducation, tout en soutenant les parents et les familles, dans le respect de son champ de compétences. Acteur essentiel de l’équipe pluridisciplinaire, il/elle participe au maintien et à l’amélioration de l’état de santé de l’enfant, favorise son autonomie et son développement, tout en apportant écoute, soutien et conseils aux familles.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1574",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Auxiliaire de puériculture en pédiatrie",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.80.00",
+    "email": "celine.meriadec@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d’Etat d’Auxiliaire en puériculture",
+    "competencyRequired": [
+      "Bio-nettoyage et hygiène des locaux",
+      "Hygiène hospitalière",
+      "Gestes et postures – Manutention",
+      "Attestation de formation aux gestes et soins d’urgence de niveau 2"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 3 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de pédiatrie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience requise d’un an minimum en service de pédiatrie",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "incentiveCompensation": "Primes spécifique (nuit, week-end…) selon statut",
+  "industry": "Santé",
+  "jobBenefits": "Grilles indiciaires de la fonction publique de Nouvelle-Calédonie",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Attestation de formation aux gestes et soins d’urgence de niveau 2",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Auxiliaire de puériculture"
+  },
+  "responsibilities": [
+    "Assurer les soins d’hygiène, de confort, d'éveil, de bien-être et de sécurité adaptée à l’âge, à l’état de santé et aux besoins spécifiques de chaque enfant",
+    "Accompagner l’enfant dans les activités de la vie quotidienne, en favorisant son autonomie et en respectant son rythme de développement",
+    "Participer à la prévention des risques et au maintien d’un environnement sécurisant et rassurant",
+    "Collaborer avec les infirmiers et les puéricultrices lors de la réalisation des soins, dans le respect de votre champ de compétences",
+    "Contribuer à l’éveil, au développement et au bien-être psychologique et affectif de l’enfant, notamment par des activités adaptées à son âge et à son état de santé",
+    "Observer l’état général, le comportement et les besoins de l’enfant afin de repérer toute modification nécessitant une attention particulière",
+    "Recueillir et transmettre les informations utiles à la prise en charge, à l’oral comme à l’écrit, afin de garantir la continuité et la qualité des soins",
+    "Participer à la coordination des soins et à la collaboration au sein de l’équipe pluridisciplinaire",
+    "Accueillir, informer, écouter et accompagner les parents et les proches tout au long de l’hospitalisation",
+    "Favoriser la place et l’implication des parents dans les soins quotidiens et l’accompagnement de leur enfant",
+    "Participer aux actions de prévention, d’éducation à la santé et de soutien à la parentalité, en collaboration avec l’équipe soignante",
+    "Assurer l’entretien et l’hygiène de l’environnement immédiat de l’enfant, conformément aux protocoles en vigueur",
+    "Veiller au bon état apparent et au bon fonctionnement des équipements et dispositifs utilisés, et signaler toute anomalie",
+    "Participer à l’entretien du matériel de soins, à l’approvisionnement et à la gestion des stocks",
+    "Contribuer au respect des règles d’hygiène, de sécurité et de prévention des infections associées aux soins",
+    "Participer à l’accueil et à l’intégration des nouveaux professionnels",
+    "Contribuer à l’accompagnement et à l’encadrement des élèves et stagiaires, dans votre domaine de compétences",
+    "S’impliquer dans les démarches d’amélioration continue de la qualité et de la sécurité des soins"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Collaboration avec l'équipe pluridisciplinaire",
+    "Écoute, soutien et conseils aux familles",
+    "Observation et repérage des modifications de comportement",
+    "Transmission d'informations à l'oral et à l'écrit",
+    "Entretien et hygiène de l'environnement",
+    "Gestion des stocks et approvisionnement",
+    "Encadrement des élèves et stagiaires",
+    "Amélioration continue de la qualité et de la sécurité des soins"
+  ],
+  "specialCommitments": null,
+  "title": "Auxiliaire de puériculture en pédiatrie",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-13",
+  "workHours": "Travail en horaires adaptés à l’activité du service (week-ends, nuit, jours fériés et chômé)",
+  "champs_open_data": 13,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
