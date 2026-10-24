@@ -1,0 +1,178 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "DIRECTION DES SERVICES FISCAUX",
+    "uniteOrganisationnelle": "Service de la recette",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service de la recette",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Direction des services fiscaux",
+      "Service de la recette"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "vacant à partir du 01/01/2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service de la recette"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "M. Gil PAIN, chef de service de la recette"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952014.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Au sein du service de la recette, le chef de section a en charge le management opérationnel de la section de recouvrement. Il gère les dossiers reliquataires et contrôle les états de saisie.",
+  "disambiguatingDescription": null,
+  "identifier": "26-66257/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de section recouvrement",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.75.28",
+    "email": "gil.pain@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Notions de comptabilité publique",
+      "Connaissances de la fiscalité calédonienne",
+      "Bonnes connaissances de la procédure de recouvrement",
+      "Maîtrise des outils bureautiques (notamment Google Workspace)."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction des services fiscaux, composée de treize services, est chargée d'asseoir, de contrôler et de recouvrer la plupart des impôts en vigueur en Nouvelle-Calédonie. Elle gère ainsi près de 76 % des recettes fiscales de la Nouvelle-Calédonie. Elle assure également une mission foncière, au travers de la gestion du domaine public et privé de la Nouvelle-Calédonie et de la publicité foncière, cette dernière ayant en charge notamment la taxe hypothécaire. Outre ces missions d'exécution, elle est chargée, dans le cadre de la politique poursuivie par le gouvernement de la Nouvelle-Calédonie, de l'élaboration de la législation fiscale ainsi que des mesures d'application.\n\nLe service de la recette a pour mission principale l'encaissement et le recouvrement des différents impôts, droits, redevances et taxes relevant de la responsabilité du receveur des services fiscaux. Il comprend une cellule enregistrement et 5 sections, une section guichet-comptabilité, trois sections dédiées au recouvrement et une section enquêtes et poursuites.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Nouvelle-Calédonie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction des services fiscaux",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Fiscalité et Trésor / douanes / affaires économiques",
+    "Finances et budget"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé du recouvrement des impôts, droits et taxes"
+  },
+  "responsibilities": [
+    "Dans le cadre du management de la section de recouvrement et de la gestion des dossiers qui lui sont confiés, le chef de section est chargé de :",
+    "Animer et apporter un soutien technique à l'équipe",
+    "Organiser les tâches (distribution du courrier, gestion du planning des permanences...)",
+    "Réaliser les entretiens annuels d'échange",
+    "Gérer les dossiers reliquataires (suivi des procédures, enquêtes sur le terrain)",
+    "Contrôler les états de saisie (contrôle des recettes encaissées, rapprochement des états entre le recouvrement et la comptabilité)",
+    "Gérer et suivre les oppositions administratives liées aux dissolutions et liquidations anticipées.",
+    "Remplacement au sein de la section recouvrement en cas d'absences",
+    "Aide aux autres sections à l'occasion des grandes échéances."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Encadrer et animer une équipe",
+    "Rédiger les documents professionnels adaptés",
+    "Respecter des procédures internes",
+    "Traiter et assurer un suivi des dossiers avec la vigilance requise pour ce type d'activité.",
+    "Qualités relationnelles",
+    "Disponibilité",
+    "Rigueur et sens de l'organisation",
+    "Discrétion",
+    "Esprit d'analyse",
+    "Sens de l'écoute."
+  ],
+  "specialCommitments": null,
+  "title": "Chef de section recouvrement",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-11-13",
+  "workHours": null,
+  "champs_open_data": 27,
+  "employeur_sigle": "DSF",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES SERVICES FISCAUX",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Fiscalité et Trésor / douanes / affaires économiques",
+  "famille_source": "respnc",
+  "famille_score": 0.959,
+  "dossier": "fiscalite-et-tresor-douanes-affaires-economiques"
+}
