@@ -1,0 +1,163 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant de conservation",
+    "direction": "DIRECTION DE LA CULTURE, DU PATRIMOINE ET DU RAYONNEMENT",
+    "uniteOrganisationnelle": "Service médiation culturelle et patrimoniale",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service médiation culturelle et patrimoniale",
+    "placeOrganigramme": "Placée sous l’autorité du secrétaire général adjoint en charge du pôle vie locale, la Direction de la Culture, du Patrimoine et du Rayonnement (DCPR) est composée de trois services opérationnels",
+    "relationsFonctionnelles": [
+      "Service Animation et Rayonnement de la Ville",
+      "Service Conservation et Valorisation du Patrimoine",
+      "Service Gestion des Moyens Techniques",
+      "Pôle Administratif et Budgétaire",
+      "Cellule communication"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Horaires atypiques ; Déplacements réguliers dans le cadre de projets culturels et de manifestations ; Amplitude horaire variable pendant les manifestations ; Transport et manutention d’équipements culturels."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "mars 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952106.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune. Au sein de l’équipe du SMCP, l’agent participe à la mise en œuvre des dispositifs de l’action culturelle. Il sensibilise les publics au patrimoine, aux livres, aux arts plastiques et aux arts vivants par la mise en œuvre de projets culturels par le biais de médiations.",
+  "disambiguatingDescription": "Médiateur culturel et patrimonial au sein du Service médiation culturelle et patrimoniale de la Mairie de Nouméa.",
+  "identifier": "26-1570",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Médiateur culturel et patrimonial",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Mairie de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "23.26.50",
+    "email": "cyril.pigeau@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Baccalauréat",
+    "competencyRequired": [
+      "Diplôme de niveau 4 (Baccalauréat) dans le domaine de la culture et du patrimoine ou équivalent souhaité",
+      "Des connaissances de l’environnement culturel, des principes de médiation culturelle et d’organisation événementielle",
+      "Des connaissances des règles de sécurité des établissements recevant du public",
+      "Des connaissances des procédures administratives et comptables (ordres de service, devis, factures, convention, etc.)",
+      "Une maîtrise de la méthodologie de projet, des méthodes pédagogiques, des techniques et outils d’animations, de conception d’exposition"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service médiation culturelle et patrimoniale",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience souhaitée dans le domaine de la culture et du patrimoine ou équivalent.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-03-01",
+  "occupationalCategory": [
+    "Culture",
+    "Animation"
+  ],
+  "physicalRequirement": "Transport et manutention d’équipements culturels.",
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Médiateur culturel et patrimonial"
+  },
+  "responsibilities": [
+    "Accueillir, prendre en charge des publics et surveiller la sécurité des médiations",
+    "Animer les activités culturelles et pédagogiques",
+    "Développer des partenariats",
+    "Évaluer les projets de médiation culturelle",
+    "Participer à la conception des expositions sur le mode projet sous la coordination d’un chef de projet",
+    "Transmettre à la cellule communication (via la rédaction de fiches-actions) des éléments complets et validés concernant les animations",
+    "Diagnostiquer les attentes du public",
+    "Participer à la définition de projets de médiation culturelle et d’animation des publics",
+    "Etablir un budget pour le projet",
+    "Participer à l’évaluation globale des projets menés par le service"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacités relationnelles",
+    "Adaptabilité nécessaire aux usagers (gestion du public)",
+    "Sens du travail en équipe",
+    "Sens de l'accueil, de l'écoute et de la communication"
+  ],
+  "specialCommitments": "Horaires atypiques, déplacements réguliers dans le cadre de projets culturels et de manifestations, amplitude horaire variable pendant les manifestations.",
+  "title": "Médiateur culturel et patrimonial",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-13",
+  "workHours": "Horaires atypiques et amplitude horaire variable",
+  "champs_open_data": 9,
+  "employeur_sigle": "MAIRIE-DE-NOUMEA",
+  "collectivite": "Mairie de Nouméa",
+  "direction": "DIRECTION DE LA CULTURE, DU PATRIMOINE ET DU RAYONNEMENT",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Culture",
+  "famille_source": "respnc",
+  "famille_score": 0.916,
+  "dossier": "culture"
+}
