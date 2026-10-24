@@ -1,0 +1,167 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif",
+    "direction": "DIRECTION DE LA CULTURE, DU PATRIMOINE ET DU RAYONNEMENT (DCPR)",
+    "uniteOrganisationnelle": "Pôle Administratif et Budgétaire",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable du PAB",
+    "placeOrganigramme": "Placée sous l’autorité directe du secrétaire général adjoint en charge du pôle vie locale, la Direction de la Culture, du Patrimoine et du Rayonnement (DCPR) est composée de trois services opérationnels et de deux services supports",
+    "relationsFonctionnelles": [
+      "Services opérationnels de la DCPR",
+      "Services supports de la DCPR",
+      "Autres services de la Ville",
+      "Partenaires institutionnels et associatifs du territoire"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 10 ans pour le recrutement sans concours des adjoints administratifs"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Participation ponctuelle à l’organisation d’actions culturelles et aux animations de la direction"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957368.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune.",
+  "disambiguatingDescription": "Sous la responsabilité du responsable du PAB, l’agent est chargé d'assurer la gestion comptable ainsi que les tâches administratives courantes.",
+  "identifier": "26-1568",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Secrétaire-comptable",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Mairie de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.49.29",
+    "email": "marie.komon@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Adjoint administratif",
+    "competencyRequired": [
+      "Maîtrise des procédures administratives",
+      "Comptabilité publique (M14)",
+      "Progiciel ASTRE",
+      "Notions en ressources humaines",
+      "Compétences en secrétariat",
+      "Bureautique",
+      "Techniques de communication",
+      "Rédaction de courriers"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs: au moins égale à 10 ans",
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Pôle Administratif et Budgétaire",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Administration générale",
+    "Finances et budget"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Secrétaire-comptable"
+  },
+  "responsibilities": [
+    "Réceptionner, contrôler et assurer la gestion des pièces comptables, bons de commande et factures",
+    "Assurer le suivi, l’exécution et l’ajustement des crédits et des mandatements",
+    "Analyser les écarts et résolution des problématiques comptables",
+    "Tenir des tableaux de bord, gérer le classement et l’archivage des documents",
+    "Informer, conseiller et assurer la relation avec les usagers, fournisseurs et agents de la direction",
+    "Assurer l'accueil physique et téléphonique du public",
+    "Rédiger les documents administratifs et gérer le classement des dossiers",
+    "Suivre les tableaux de bord et assurer la communication interne et externe",
+    "Gérer les dossiers spécifiques (ressources humaines, conseils municipaux et logistique courante)"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Accueil, orientation du public et application rigoureuse des procédures",
+    "Organisation, classement des documents et suivi de tableaux de bord",
+    "Sens du service public",
+    "Bon relationnel",
+    "Polyvalence",
+    "Rigueur",
+    "Esprit d'équipe"
+  ],
+  "specialCommitments": "Participation ponctuelle à l’organisation d’actions culturelles et aux animations de la direction",
+  "title": "Secrétaire-comptable",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-13",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "MAIRIE-DE-NOUMEA",
+  "collectivite": "Mairie de Nouméa",
+  "direction": "DIRECTION DE LA CULTURE, DU PATRIMOINE ET DU RAYONNEMENT (DCPR)",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.89,
+  "dossier": "administration-generale"
+}
