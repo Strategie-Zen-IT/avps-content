@@ -1,0 +1,197 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "DIRECTION DU TRAVAIL, DE L'EMPLOI ET DE LA FORMATION PROFESSIONNELLE",
+    "uniteOrganisationnelle": "Service de l'emploi et de la formation",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Collectivités provinciales"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Vacant à partir du 04/12/2026"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "SERVICE DE L'EMPLOI ET DE LA FORMATION"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Jessica ADI"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12954124.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le gestionnaire des données de l'emploi contribue à l'élaboration, à la gestion et à l'amélioration des outils de gestion des dispositifs relatifs à l'emploi et de statistiques. Il collecte, traite, consolide et valorise les données de l'emploi pour permettre la réalisation de bilans et d'analyses globales sur le marché de l'emploi nécessaires pour éclairer la prise de décisions et la réflexion des pouvoirs publics. Il est responsable de la qualité et de la sécurité des fichiers.",
+  "disambiguatingDescription": null,
+  "identifier": "26-66412/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Gestionnaire des données de l'emploi",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.24.87",
+    "email": "jessica.adi@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Droit du travail et notamment réglementation relative aux mesures et dispositifs relatifs à l'emploi et aux contrats de travail",
+      "Connaissances des procédures administratives de la Nouvelle-Calédonie",
+      "Environnement institutionnel de la Nouvelle-Calédonie",
+      "Acteurs et environnement économiques de la Nouvelle-Calédonie",
+      "Maîtrise des applications Google Workspace (GSuite, Big Query, Looker etc...)",
+      "Applications numériques spécifiques (JIRA)",
+      "Maîtrise des langages de programmation d'administration système",
+      "Maîtrise des systèmes de gestion des bases de données : construction et administration",
+      "Connaissances approfondies en architecture de système d'information."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction du travail, de l'emploi et de la formation professionnelle (DTEFP) est chargée de la mise en œuvre des politiques publiques de la Nouvelle-Calédonie relatives au travail, à l'emploi, à la formation et à la certification professionnelles.\nAu sein de la DTEFP, le service de l'emploi et de la formation a notamment pour missions :\n- de gérer, dans une finalité de fluidité du marché du travail, les dispositifs de formation professionnelle ainsi que les mesures de soutien à l'emploi et à l'insertion professionnelle ;\n- de contribuer, en lien avec les collectivités provinciales, à l'animation, à la coordination et au suivi du service public de l'emploi ;\n- d'assurer, sans préjudice des attributions de l'inspection du travail, le contrôle du respect de la réglementation en matière d'emploi et de formation ;\n- de mettre en œuvre la politique de certification professionnelle de la Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Nouvelle-Calédonie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "DTEFP",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-04",
+  "occupationalCategory": [
+    "Système d'information",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Statisticien"
+  },
+  "responsibilities": [
+    "1) Gestion des outils et des données :",
+    "Identifier les besoins des données et la méthodologie de recueil (types de données, périodicité, champ géographique, échantillon)",
+    "Procéder à des diagnostic et des états des lieux des données existantes",
+    "Collecter les données et les modéliser",
+    "Traiter les données recueillies ainsi que les données issues des différentes bases de données de l'emploi",
+    "Concevoir les tableaux de données",
+    "Etre force de proposition sur les perspectives d'évolution des données",
+    "Participer à l'élaboration et à l'amélioration des données et outils utiles à la prise de décision de la hiérarchie",
+    "Optimiser les performances des bases de données pour supporter les requêtes des utilisateurs et des opérations",
+    "Réaliser une veille documentaire sur les différents sites ( IEOM, ISEE, Pôle Emploi etc...)",
+    "Identifier et recenser les actions de la gestion des dossiers afin de permettre la rédaction des process et procédures.",
+    "2) Suivre l'activité des dispositifs :",
+    "Alimenter les tableaux de bord dans le cadre du pilotage de l'activité du service",
+    "Contribuer à l'amélioration continue des procédures, modes opératoires et outils mis en œuvre dans le cadre de l'activité du service",
+    "Mettre à jour les indicateurs de suivi et participer à la réalisation des statistiques (données et bilan, rapport d'activité, suivi des différentes mesures et dispositifs etc...).",
+    "Participer à l'élaboration et à l'animation d'outils (plateforme collaborative, outils de télédéclaration etc...) permettant une meilleure connaissance des dispositifs et des procédures."
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Conception et mise en œuvre de systèmes et bases de données",
+    "Elaboration de cahier des charges fonctionnel",
+    "Développement de scripts techniques",
+    "Suivi et supervision des systèmes externes et/ou internes",
+    "Exploitation et optimisation des systèmes et bases de données",
+    "Production de documents de synthèse",
+    "Contrôle des systèmes et de l'intégrité des bases de données",
+    "Gestion des annuaires et des droits",
+    "Support technique auprès de l'équipe ou autre utilisateur des données.",
+    "Curiosité intellectuelle",
+    "Sens de l'analyse",
+    "Esprit d'initiative",
+    "Rigueur",
+    "Autonomie",
+    "Discrétion",
+    "Sens de la pédagogie",
+    "Réactivité",
+    "Sens de l'organisation."
+  ],
+  "specialCommitments": null,
+  "title": "Gestionnaire des données de l'emploi",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-11-13",
+  "workHours": null,
+  "champs_open_data": 27,
+  "employeur_sigle": "DTEFP",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DU TRAVAIL, DE L'EMPLOI ET DE LA FORMATION PROFESSIONNELLE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Pilotage",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "pilotage"
+}
