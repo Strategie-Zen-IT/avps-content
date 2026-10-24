@@ -1,0 +1,175 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "SECRETARIAT GENERAL DU GOUVERNEMENT DE LA NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": "Cellule de contrôle de gestion",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaire Générale adjointe",
+    "placeOrganigramme": "Sous l'autorité de la Secrétaire Générale adjointe",
+    "relationsFonctionnelles": [
+      "Secrétariat Général",
+      "L'ensemble des directions"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "M. Jean-Philippe GUILLOUX, chargé de la coordination du contrôle de gestion et de la performance"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957712.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Dans un contexte de fortes contraintes budgétaires, la Nouvelle-Calédonie a engagé une démarche ambitieuse de modernisation et d'optimisation de ses ressources. Dans ce cadre, la collectivité a créé en 2025 une cellule de contrôle de gestion, rattachée au Secrétariat Général. Cette cellule a pour mission d'optimiser le pilotage des ressources de la collectivité à travers d'audits et la mise en place d'outils de suivi et d'analyse. Son action vise également à améliorer la performance des services. Grâce à une approche structurée, elle contribue à une prise de décision plus éclairée et à une gestion plus efficace des moyens financiers, humains et matériels de la collectivité. Pour garantir la mise en œuvre de cette démarche et assurer son bon fonctionnement, nous recrutons un contrôleur de gestion.",
+  "disambiguatingDescription": "Recrutement d'un contrôleur de gestion rattaché au Secrétariat Général du gouvernement de la Nouvelle-Calédonie.",
+  "identifier": "26-66454/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Contrôleur de gestion",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.53.92",
+    "email": "jean-philippe.guilloux@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme supérieur",
+    "competencyRequired": [
+      "Diplôme supérieur en contrôle de gestion, finances publiques, audit, gestion ou équivalent",
+      "Expérience souhaitée en contrôle de gestion, idéalement en collectivité territoriale ou dans le secteur public",
+      "Maîtrise de la réglementation relative à la gestion budgétaire et à la comptabilité publique, notamment l'instruction M52",
+      "Maîtrise du contrôle de l'exécution d'un budget d'une collectivité."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Dans un contexte de fortes contraintes budgétaires, la Nouvelle-Calédonie a engagé une démarche ambitieuse de modernisation et d'optimisation de ses ressources. Dans ce cadre, la collectivité a créé en 2025 une cellule de contrôle de gestion, rattachée au Secrétariat Général.\n\nCette cellule a pour mission d'optimiser le pilotage des ressources de la collectivité à travers d'audits et la mise en place d'outils de suivi et d'analyse. Son action vise également à améliorer la performance des services.\n\nGrâce à une approche structurée, elle contribue à une prise de décision plus éclairée et à une gestion plus efficace des moyens financiers, humains et matériels de la collectivité.\n\nPour garantir la mise en œuvre de cette démarche et assurer son bon fonctionnement, nous recrutons un contrôleur de gestion.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Secrétariat général du gouvernement de la Nouvelle-Calédonie (SGGNC)",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience souhaitée en contrôle de gestion, idéalement en collectivité territoriale ou dans le secteur public.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Informations salaire disponibles sur https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Secrétariat général du gouvernement de la Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Finances et budget",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Contrôleur de gestion"
+  },
+  "responsibilities": [
+    "Sous l'autorité de la Secrétaire Générale adjointe et en lien avec l'ensemble des directions, vous serez chargé(e) de :",
+    "Concevoir et mettre en œuvre des outils de contrôle de gestion adaptés aux besoins de la collectivité",
+    "Élaborer des tableaux de bord et des indicateurs de performance pour assurer un suivi stratégique des ressources",
+    "Analyser les coûts, les dépenses et les processus pour identifier des leviers d'optimisation",
+    "Produire des analyses et des simulations financières pour éclairer la prise de décision des élus et de la direction générale",
+    "Participer à la construction et au suivi de la démarche d'évaluation des politiques publiques",
+    "Accompagner les services dans l'appropriation des outils de gestion et dans la conduite du changement",
+    "Contribuer à la modernisation des pratiques et au développement d'une culture de gestion axée sur la performance et la transparence."
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Bonne connaissance de l'environnement territorial",
+    "Excellente maîtrise des outils bureautiques (Tableur, traitement de textes, outils de reporting)",
+    "Maîtrise (ou aptitude à acquérir rapidement) de l'utilisation d'application métiers (Astre-GF, Suite Google Workspace)",
+    "Analyser, synthétiser et rendre compte des données",
+    "Capacité d'analyse, de synthèse et force de proposition",
+    "Gestion de projet",
+    "Communication et vulgarisation des informations complexes.",
+    "Agilité et capacité d'adaptation aux évolutions et aux urgences",
+    "Travail collaboratif",
+    "Esprit critique",
+    "Confidentialité et discrétion",
+    "Autonomie sur les sujets, esprit d'initiative",
+    "Résistance au stress."
+  ],
+  "specialCommitments": null,
+  "title": "Contrôleur de gestion",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-13",
+  "workHours": null,
+  "champs_open_data": 23,
+  "employeur_sigle": "SGGNC",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "SECRETARIAT GENERAL DU GOUVERNEMENT DE LA NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Pilotage",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "pilotage"
+}
