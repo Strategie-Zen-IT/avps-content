@@ -1,0 +1,147 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Gradés de la Police Municipale",
+    "direction": "DE LA POLICE MUNICIPALE",
+    "uniteOrganisationnelle": "Pôle opérationnel",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Commençant d’unité",
+    "placeOrganigramme": "Placée sous l’autorité directe du secrétaire général en charge du pôle sécurité",
+    "relationsFonctionnelles": [
+      "Secrétaire général en charge du pôle sécurité",
+      "Procureur de la République"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Janvier 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957662.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune. Placée sous l’autorité directe du secrétaire général en charge du pôle sécurité, la direction de la police municipale a pour mission générale d’assurer, en tout temps et sur l’ensemble du territoire communal, le bon ordre, la sûreté, la sécurité et la salubrité publique. Elle agit également dans le cadre de ses compétences judiciaires, sous le contrôle du procureur de la République, dans la lutte contre la délinquance et l’insécurité routière. La direction de la police municipale comprend le pôle opérationnel qui est composé de cinq unités, une de pilotage (unité d'Etat-Major) et quatre de voie publique ainsi que le service coordination administrative et financière.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1565",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "2 chefs de brigade",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.23.23",
+    "email": "antoine.dongoc@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Brevet d'Aptitude à l’Exercice du Commandement (BAEC)",
+    "competencyRequired": [
+      "Être titulaire du Brevet d'Aptitude à l’Exercice du Commandement (BAEC)",
+      "Posséder une connaissance approfondie des domaines de compétence de la police municipale et de la police nationale, des procédures administratives et pénales, des techniques d’intervention, ainsi que du cadre réglementaire en vigueur, notamment celui relatif aux débits de boissons"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Pôle opérationnel",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Prévention et sécurité"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Brevet d'Aptitude à l’Exercice du Commandement (BAEC)",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chef de brigade"
+  },
+  "responsibilities": [
+    "Encadrer la brigade et l’activité de la brigade",
+    "De jour comme de nuit : veiller au bon ordre, à la sûreté, à la sécurité et à la salubrité publique",
+    "Assurer des missions de police administrative en application des dispositions du code des communes de Nouvelle-Calédonie",
+    "Assurer des missions de police judiciaire, en qualité d’agent de police judiciaire adjoint, en application de l’article 21 du code de Procédure Pénale",
+    "Assurer des missions de prévention/dissuasion",
+    "Assurer la sécurité des personnes et matériels",
+    "Contrôler le respect des lois et règlements",
+    "Assurer les interventions sur le terrain",
+    "Réaliser les objectifs fixés par le responsable hiérarchique",
+    "Veiller à la bonne application des arrêtés municipaux"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Avoir le sens du commandement et de l'organisation",
+    "Faire preuve de rigueur professionnelle et d'esprit d'initiative",
+    "Démontrer un sens aigu du service public et du devoir",
+    "Posséder d'excellentes qualités relationnelles, de communication et rédactionnelles",
+    "Avoir la capacité de prendre des décisions rapides et appropriées en situations difficiles et urgentes",
+    "Faire preuve d'une grande disponibilité et respecter le devoir de réserve"
+  ],
+  "specialCommitments": "Travail de jour comme de nuit, grande disponibilité, respect du devoir de réserve",
+  "title": "2 chefs de brigade",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-13",
+  "workHours": "De jour comme de nuit",
+  "champs_open_data": 9,
+  "employeur_sigle": "MAIRIE-DE-NOUMEA",
+  "collectivite": "Mairie de Nouméa",
+  "direction": "DE LA POLICE MUNICIPALE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Incendie et secours",
+  "famille_source": "respnc",
+  "famille_score": 0.854,
+  "dossier": "incendie-et-secours"
+}
