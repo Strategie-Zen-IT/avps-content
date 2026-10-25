@@ -7,11 +7,11 @@
     "superieurHierarchique": "Chef(fe) de Bureau Dentaire, et directeur(-trice) adjoint(e) en charge du Pôle Soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Bureau Dentaire",
-      "Pôle Soins",
       "CMS",
-      "Spécialistes et partenaires (médicaux, sociaux, associatifs, scolaires...)",
-      "Agence sanitaire et sociale"
+      "Spécialistes et partenaires médicaux",
+      "Sociaux",
+      "Associatifs",
+      "Scolaires"
     ],
     "informationsLibres": [
       {
@@ -44,7 +44,18 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "CMS de HIENGHENE",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Hienghène",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.72.30",
@@ -54,7 +65,7 @@
   "datePosted": "2026-08-07",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Docteur en chirurgie-dentaire",
+    "credentialCategory": "Diplôme d'Etat de chirurgien-dentiste ou de docteur en chirurgie-dentaire",
     "competencyRequired": [
       "Diplôme d'Etat de chirurgien-dentiste ou de docteur en chirurgie-dentaire"
     ]
@@ -64,13 +75,13 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "CMS de HIENGHENE",
-    "url": null,
+    "name": "Province Nord",
+    "url": "www.province-nord.nc",
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Une expérience professionnelle en outre-mer serait appréciée ; une expérience professionnelle d'au moins un an en matière de santé publique et de prévention serait appréciée.",
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience professionnelle en outre-mer serait appréciée. Une expérience professionnelle d'au moins un an en matière de santé publique et de prévention serait appréciée.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
@@ -95,7 +106,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Santé publique soins"
   ],
@@ -106,18 +117,18 @@
     "name": "Chirurgien-dentiste"
   },
   "responsibilities": [
-    "Réalisation des soins conservateurs et restaurateurs, extractions dentaires, acte de petite chirurgie et de parodontie, prothèse adjointe et conjointe",
-    "Gestion et suivi des soins aux publics cible (RAA/CRC, diabétique, etc...)",
-    "Participation aux actions de dépistage et de prévention propres à la province Nord ou en partenariat avec d'autres organismes",
-    "Entretien, nettoyage et désinfection du mobilier et de l'équipement professionnels",
-    "Désinfection des instruments et leur stérilisation en autoclave",
-    "Supervision de l'activité de l'assistant(te) dentaire",
-    "Restitution de bilans d'activité et de tableaux de soins aux publics cible sur demande de la direction",
-    "Enregistrement, la codification (selon la CIM 10) et la cotation des actes sur le logiciel de la province Nord",
-    "Information des patients en matière d'hygiène bucco-dentaire et alimentaire et leur motivation aux gestes d'hygiène",
-    "Intervention sur site lors de certaines manifestations ou journées à thème",
-    "Interventions de prévention ou d'information dans les écoles, collèges, lycées de proximité",
-    "Réalisation des EAE de l'assistant(e) dentaire"
+    "La réalisation des soins conservateurs et restaurateurs, extractions dentaires, acte de petite chirurgie et de parodontie, prothèse adjointe et conjointe",
+    "La gestion et le suivi des soins aux publics cible (RAA/CRC, diabétique, etc.)",
+    "La participation aux actions de dépistage et de prévention propres à la province Nord ou en partenariat avec d'autres organismes",
+    "L'entretien, le nettoyage et la désinfection du mobilier et de l'équipement professionnels",
+    "La désinfection des instruments et leur stérilisation en autoclave",
+    "La supervision de l'activité de l'assistant(e) dentaire",
+    "La restitution de bilans d'activité et de tableaux de soins aux publics cible sur demande de la direction",
+    "L'enregistrement, la codification (selon la CIM 10) et la cotation des actes sur le logiciel de la province Nord",
+    "L'information des patients en matière d'hygiène bucco-dentaire et alimentaire et leur motivation aux gestes d'hygiène",
+    "L'intervention sur site lors de certaines manifestations ou journées à thème",
+    "D'éventuelles interventions de prévention ou d'information dans les écoles, collèges, lycées de proximité",
+    "La réalisation des EAE de l'assistant(e) dentaire"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
@@ -138,7 +149,7 @@
   "specialCommitments": null,
   "title": "Chirurgien-dentiste à Hienghène",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-16",
+  "validThrough": "2026-11-06",
   "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
