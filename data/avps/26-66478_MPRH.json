@@ -1,0 +1,188 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché / rédacteur",
+    "direction": "DIRECTION DE L'INDUSTRIE, DES MINES ET DE L'ENERGIE",
+    "uniteOrganisationnelle": "Service administratif et financier",
+    "nbAgentsEncadres": 5,
+    "superieurHierarchique": "Directeur par intérim",
+    "placeOrganigramme": "Membre à part entière de l'équipe de direction",
+    "relationsFonctionnelles": [
+      "Services techniques de la DIMENC",
+      "Direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Vacant à partir du 01/01/2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Oui"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service administratif et financier"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Jean-Sébastien BAILLE, Directeur par intérim"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953010.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Membre à part entière de l'équipe de direction, le chef du service administratif et financier fournit aux services techniques les moyens humains, financiers et matériels nécessaires à leur fonctionnement. A ce titre, il est notamment responsable de l'élaboration du budget et de son exécution. Il encadre l'équipe du service, coordonne les activités relatives à la gestion du personnel ainsi qu'aux moyens logistiques de la direction et veille au fonctionnement continu de son accueil. Il contribue à la rédaction de la réglementation relevant de la compétence de son service et assiste les services de la DIMENC pour toutes questions relevant des attributions du service. Il peut être désigné pour représenter le directeur.",
+  "disambiguatingDescription": null,
+  "identifier": "26-66478/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef du service administratif et financier",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.02.38",
+    "email": "jean-sebastien.baille@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaissance du fonctionnement administratif et de l'environnement institutionnel de la Nouvelle-Calédonie",
+      "Connaissance de la comptabilité publique (M 52)",
+      "Connaissance de la réglementation en matière de marchés publics",
+      "Connaissances juridiques",
+      "Connaissance du fonctionnement des établissements publics",
+      "Connaissance de la norme ISO 9001 appréciée (Qualité : pilote du processus Gestion Emplois et Compétences et co-pilote du processus MME)."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La Direction de l'Industrie, des Mines et de l'Énergie de la Nouvelle-Calédonie (DIMENC) est une administration centrale et déconcentrée au service de la politique industrielle et énergétique, de la gestion des risques et de la connaissance géologique de la Nouvelle-Calédonie. Elle applique, évalue et conçoit les politiques publiques dans ses domaines de compétences dans la perspective de concilier le développement industriel durable du territoire avec la protection des personnes et des biens et la préservation de l'environnement et des ressources. \nLa DIMENC assure des missions pour le compte de l'État, du gouvernement de la Nouvelle-Calédonie, de la province Nord, de la province Sud, et de la province des îles Loyauté. Par son rôle de conseil et d'aide à la décision de ses cinq donneurs d'ordres, notamment concernant le marché mondial des ressources naturelles, la DIMENC contribue à préparer la Nouvelle-Calédonie à surmonter les mutations économiques, technologiques, climatiques et géopolitiques dans ses domaines de compétences.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service administratif et financier",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience du fonctionnement de l'administration : budget, comptabilité publique, ressources humaines, gestion des moyens, marchés publics",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "DIMENC",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Finances et budget",
+    "Ressources Humaines",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable financier"
+  },
+  "responsibilities": [
+    "Fournir aux services techniques les moyens humains, financiers et matériels nécessaires à leur fonctionnement",
+    "Elaborer le budget et suivre son exécution",
+    "Encadrer l'équipe du service (5 collaborateurs)",
+    "Coordonner les activités relatives à la gestion du personnel",
+    "Gérer les moyens logistiques de la direction (suivi du parc de véhicules, suivi de l'entretien des bâtiments, recensement et relais des besoins en matériel et mobilier)",
+    "Veiller au fonctionnement continu de l'accueil physique et téléphonique de la direction",
+    "Contribuer à la rédaction de la réglementation relevant de la compétence de son service",
+    "Assister les services de la DIMENC pour toutes questions relevant des attributions du service",
+    "Représenter le directeur sur désignation"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Encadrement, animation de l'équipe du service (5 collaborateurs)",
+    "Pilotage, coordination et contrôle des missions de :",
+    "Gestion budgétaire : préparation, suivi de l'exécution",
+    "Gestion des ressources humaines : carrières, formations, recrutement",
+    "Gestion des moyens logistiques : suivi du parc de véhicules, suivi de l'entretien des bâtiments, recensement et relais des besoins en matériel et mobilier",
+    "Gestion et organisation de l'accueil : veiller au service continu de l'accueil physique et téléphonique de la direction.",
+    "Expérience du fonctionnement de l'administration : budget, comptabilité publique, ressources humaines, gestion des moyens, marchés publics",
+    "Aptitudes à l'encadrement",
+    "Respect de la confidentialité des informations",
+    "Sens des relations humaines",
+    "Organisation, rigueur, méthode",
+    "Esprit d'analyse et de synthèse."
+  ],
+  "specialCommitments": null,
+  "title": "Chef du service administratif et financier",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-11-13",
+  "workHours": null,
+  "champs_open_data": 26,
+  "employeur_sigle": "DIMENC",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE L'INDUSTRIE, DES MINES ET DE L'ENERGIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Finances et budget",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "finances-et-budget"
+}
