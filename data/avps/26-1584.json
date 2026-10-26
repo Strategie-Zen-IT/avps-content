@@ -1,0 +1,182 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 2-Diplôme niveau V",
+    "direction": "SECURITE PUBLIQUE",
+    "uniteOrganisationnelle": "Poste de Police Municipale de Païta",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de police municipale",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Forces de l'ordre"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Travail en extérieur par tous temps. Horaires irréguliers avec amplitude variable (soirée, week-end, jours fériés astreintes). Gestion de situations conflictuelles. Entretenir une condition physique."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Habilitations requises",
+        "value": "Habilitation Tonfa et bâton télescopique de défense. Recyclage périodique pour les habilitations MFI."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Autres exigences",
+        "value": "Jouir de ses droits civils, civiques et familiaux. Formation aux premiers secours (attestation obligatoire)."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956364.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placés sous l'autorité du chef de police municipale, le garde champêtre aura pour mission générale d'assurer en tout temps et sur l'ensemble du territoire communal, le bon ordre, la sûreté, la sécurité et la salubrité publiques. Il agira également dans le cadre de ses compétences judiciaires, sous le contrôle du Procureur de la République.",
+  "disambiguatingDescription": "Recrutement de deux gardes champêtres pour la Ville de Païta au sein de la direction de la sécurité publique.",
+  "identifier": "26-1584",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "2 Gardes Champêtre",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Païta"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "35.21.15",
+    "email": "recrutement@ville-paita.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Brevet des collèges",
+    "competencyRequired": [
+      "Connaissance des compétences de la police municipale, des gardes champêtres, des ASVP et de la gendarmerie nationale",
+      "Connaissance des procédures pénales et administratives",
+      "Connaissance du cadre réglementaire en vigueur sur le territoire (lois et règlements)",
+      "Connaissance du milieu rural",
+      "Connaissance du milieu tribal, des usages de la coutume",
+      "Connaissance de la police des animaux (code rural)",
+      "Connaissance du code de l'environnement de la province sud",
+      "Connaissance des techniques de résolution de conflits"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Ville de Païta",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Avoir effectué la Formation Initiale d'Application relative au métier de garde champêtre en Nouvelle-Calédonie. Avoir exercé différentes missions dévolues aux gardes champêtres.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Païta"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Poste de Police Municipale de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "VU 12, route de la Mairie",
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98890"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Prévention et sécurité"
+  ],
+  "physicalRequirement": "Entretenir une condition physique",
+  "qualifications": "Titulaire du permis B obligatoire",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Garde champêtre"
+  },
+  "responsibilities": [
+    "Veiller au maintien du bon ordre, à la sûreté, à la sécurité et à la salubrité publiques de jour comme de nuit",
+    "Assurer les missions de police administrative",
+    "Assurer les missions de police judiciaire, en qualité d'agent de police judiciaire adjoint, en application de l'article 21 du code de procédure pénale",
+    "Assurer la police rurale, en application des articles 22 à 25 et 27 du code de procédure pénale",
+    "Assurer une police de proximité avec les populations de la commune",
+    "Assurer des missions de prévention, dissuasion et médiation",
+    "Assurer les interventions sur le terrain",
+    "Appliquer la police funéraire",
+    "Rechercher et constater les infractions relevant de la police des campagnes",
+    "Veiller à la bonne application des arrêtés de la Maire",
+    "Veiller à la collaboration avec les forces de l'ordre",
+    "Réaliser les objectifs fixés par la Maire"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Travailler avec toutes les forces de police",
+    "Exploiter les contacts avec les populations",
+    "Rechercher et relever les infractions constatées",
+    "Assurer le suivi des infractions",
+    "Bonne connaissance de la procédure du timbre amende",
+    "Rédiger et transmettre des écrits professionnels",
+    "Accueillir et orienter le public",
+    "Prendre des décisions dans des situations difficiles et urgentes",
+    "Travailler à flux tendu",
+    "Etablir et rédiger des rapports d'activités, des comptes rendus de missions",
+    "Savoir alerter sa hiérarchie et l'autorité supérieure d'un risque relatif à la sécurité et à l'ordre public",
+    "Rédiger des documents et actes administratifs courants",
+    "Développer une police de proximité avec l'ensemble des populations de la commune",
+    "Sens de l'organisation et rigueur professionnelle",
+    "Engagement opérationnel",
+    "Qualités relationnelles et de communication",
+    "Savoir rendre compte",
+    "Esprit d'initiative",
+    "Sens du service public et du devoir",
+    "Grande disponibilité",
+    "Diplomatie",
+    "Qualités rédactionnelles",
+    "Maîtrise de l'outil informatique",
+    "Rigueur morale",
+    "Respect de la hiérarchie",
+    "Respect du secret professionnel",
+    "Bonne condition physique",
+    "Maîtriser les mesures d'immobilisations et mises en fourrière",
+    "Savoir mettre en œuvre le code rural applicable en Nouvelle-Calédonie"
+  ],
+  "specialCommitments": "Astreintes, horaires irréguliers (soirée, week-end, jours fériés)",
+  "title": "2 Gardes Champêtre",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-13",
+  "workHours": "Horaires irréguliers avec amplitude variable",
+  "champs_open_data": 9,
+  "employeur_sigle": "VILLE-DE-PAITA",
+  "collectivite": "Ville de Païta",
+  "direction": "SECURITE PUBLIQUE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Prévention et sécurité",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "prevention-et-securite"
+}
