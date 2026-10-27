@@ -1,0 +1,161 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Gardien de la police municipale",
+    "direction": "DIRECTION DE LA POLICE MUNICIPALE",
+    "uniteOrganisationnelle": "Pôle opérationnel",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur de la police municipale",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Secrétaire général en charge du pôle sécurité",
+      "Procureur de la République"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Février 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Filière",
+        "value": "Sécurité"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956374.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune. Placée sous l’autorité directe du secrétaire général en charge du pôle sécurité, la direction de la police municipale a pour mission générale d’assurer, en tout temps et sur l’ensemble du territoire communal, le bon ordre, la sûreté, la sécurité et la salubrité publique.",
+  "disambiguatingDescription": "Recrutement d'un gardien de la police municipale pour la Ville de Nouméa au sein du pôle opérationnel.",
+  "identifier": "26-1562",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Gardien",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa",
+    "url": "https://www.ville-noumea.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Mairie de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.23.23",
+    "email": "antoine.dongoc@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaissances des domaines de compétences de la police municipale et de la police nationale",
+      "Connaissances des procédures administratives et pénales des techniques d’intervention",
+      "Connaissances du cadre réglementaire en vigueur (lois et règlements) notamment celui des débits de boissons"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Mairie de Nouméa",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa",
+    "url": "https://www.ville-noumea.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction de la police municipale",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Prévention et sécurité"
+  ],
+  "physicalRequirement": "Avoir une excellente condition physique",
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Gardien de la police municipale"
+  },
+  "responsibilities": [
+    "De jour comme de nuit : veiller au bon ordre, à la sécurité et à la salubrité publique",
+    "Assurer des missions de police administrative en application des dispositions du code des communes de Nouvelle-Calédonie",
+    "Assurer des missions de police judiciaire, en qualité d’agent de police judiciaire adjoint",
+    "Assurer des missions de prévention/dissuasion",
+    "Assurer la sécurité des personnes et matériels",
+    "Contrôler le respect des lois et règlements",
+    "Rédiger et transmettre des écrits administratifs et juridiques",
+    "Assurer les interventions sur le terrain",
+    "Réaliser les objectifs fixés par le responsable hiérarchique",
+    "Veiller à la bonne application des arrêtés municipaux",
+    "Assurer des missions de sécurité routière"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Avoir le sens du service public, du devoir, du commandement et le respect du devoir de réserve",
+    "Être rigoureux",
+    "Être réactif",
+    "Avoir de fortes capacités d’adaptation",
+    "Avoir une solide maîtrise de soi"
+  ],
+  "specialCommitments": "Travail de jour comme de nuit",
+  "title": "Gardien",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-13",
+  "workHours": "De jour comme de nuit",
+  "champs_open_data": 9,
+  "employeur_sigle": "MAIRIE-DE-NOUMEA",
+  "collectivite": "Mairie de Nouméa",
+  "direction": "DIRECTION DE LA POLICE MUNICIPALE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Prévention et sécurité",
+  "famille_source": "respnc",
+  "famille_score": 0.89,
+  "dossier": "prevention-et-securite"
+}
