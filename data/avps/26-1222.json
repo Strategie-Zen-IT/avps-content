@@ -7,7 +7,7 @@
     "superieurHierarchique": "Directeur(trice) adjoint(e) des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins",
+      "Bureau de Proximité de Soins (BPS)",
       "CMS limitrophes"
     ],
     "informationsLibres": [
@@ -29,7 +29,7 @@
     ]
   },
   "alternateName": null,
-  "description": "La personne retenue aura la charge de la continuité de l'offre de soin au sein du centre médico-social de Ouegoa, sous l'autorité de la direction des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité de la Province Nord.",
+  "description": "La personne retenue aura la charge de la continuité de l'offre de soin au sein du centre médico-social de Ouegoa, sous l'autorité de la direction adjointe de la DASSPS.",
   "disambiguatingDescription": null,
   "identifier": "26-1222",
   "image": null,
@@ -46,28 +46,17 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "CMS de OUEGOA",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": null,
-      "addressLocality": "Ouégoa",
-      "addressRegion": "Province Nord",
-      "addressCountry": "NC",
-      "province": "province Nord"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
-    "email": "m.oudare@province-nord.nc"
+    "email": "drh-emplois@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-08-14",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'Etat de Docteur en Médecine",
+    "credentialCategory": "Médecin",
     "competencyRequired": [
       "Maîtrise de la médecine générale et de l'urgence (CAMU souhaité)",
       "Connaissance en santé publique",
@@ -78,9 +67,9 @@
   "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "OrganizationalUnit",
-    "name": "CMS de OUEGOA",
-    "url": null,
+    "@type": "Organization",
+    "name": "PROVINCE NORD",
+    "url": "http://www.province-nord.nc",
     "logo": null
   },
   "estimatedSalary": null,
@@ -115,7 +104,7 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Être titulaire du permis de conduire B",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Médecin"
@@ -144,7 +133,7 @@
   "specialCommitments": "Poste soumis à astreintes",
   "title": "Médecin à Ouegoa",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-23",
+  "validThrough": "2026-11-13",
   "workHours": "Astreintes",
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
