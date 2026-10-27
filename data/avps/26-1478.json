@@ -4,18 +4,20 @@
     "direction": "PROVINCE SUD",
     "uniteOrganisationnelle": "Bureau de l'accueil familial Sud",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef du service de protection de l'enfance (SPE), chef de service adjoint et responsable du bureau de l'accueil familial Sud",
+    "superieurHierarchique": "Chef du service de protection de l'enfance (SPE)",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Service de protection de l'enfance (SPE)",
-      "Pôle enfance-famille",
+      "Bureau de l'accueil familial Sud",
+      "Familles d'accueil",
+      "Familles biologiques",
       "Magistrat"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "au moins égale à 5 ans"
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
       },
       {
         "@type": "PropertyValue",
@@ -30,8 +32,8 @@
     ]
   },
   "alternateName": null,
-  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l’action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l’ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS) et des centres médico-sociaux (CMS) et des autres sites excentrés. Au sein du pôle enfance-famille, le service de la protection de l'enfance (SPE) compte environ 80 agents répartis en 4 bureaux et 3 structures d'accueil collectif et est en charge de la mise en œuvre de l’ensemble des actions de prévention et de protection de l’enfance. Le candidat retenu exercera ses fonctions dans le bureau de l'accueil familial Sud.",
-  "disambiguatingDescription": "Travailleur social au Service de Protection de l'Enfance (BAFS)",
+  "description": "Le candidat retenu exercera ses fonctions de travailleur social au sein du bureau de l'accueil familial Sud, rattaché au service de la protection de l'enfance (SPE) de la direction provinciale de l'action sanitaire et sociale (DPASS) de la Province Sud.",
+  "disambiguatingDescription": "Poste de travailleur social au sein du bureau de l'accueil familial Sud de la Province Sud.",
   "identifier": "26-1478",
   "image": null,
   "mainEntityOfPage": null,
@@ -68,14 +70,14 @@
   "datePosted": "2026-10-09",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d’éducateur spécialisé ou d’assistant de service social ou d'éducateur jeunes enfants ou de conseiller en économie sociale et familiale",
+    "credentialCategory": "Diplôme d'éducateur spécialisé ou d'assistant de service social ou d'éducateur jeunes enfants ou de conseiller en économie sociale et familiale",
     "competencyRequired": [
       "Expérience dans le domaine de la protection de l'enfance",
-      "Connaissance de l’environnement institutionnel de la Nouvelle-Calédonie"
+      "Connaissance de l'environnement institutionnel de la Nouvelle-Calédonie"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre: au moins égale à 5 ans",
-  "employerOverview": "La direction de l’action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l’ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS) et des centres médico-sociaux (CMS) et des autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale, à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS) et des centres médico-sociaux (CMS) et des autres sites excentrés.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -85,7 +87,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience dans le domaine de la protection de l'enfance",
+  "experienceRequirements": "Expérience dans le domaine de la protection de l'enfance exigée.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
@@ -110,7 +112,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiatement",
+  "jobStartDate": null,
   "occupationalCategory": [
     "Action sociale"
   ],
@@ -127,10 +129,10 @@
     "Suivre des jeunes majeurs dans le cadre du dispositif contrat jeunes majeurs",
     "Évaluer les situations familiales dans une approche globale en prenant en compte à la fois l'intérêt de l'enfant, la place des parents et les ressources de l'environnement, notamment sur le plan coutumier ou de la famille élargie",
     "Mettre en œuvre les placements ordonnés",
-    "Élaborer et de mettre en œuvre un projet pour l’enfant en lien avec ce dernier et ses responsables légaux",
+    "Élaborer et de mettre en œuvre un projet pour l'enfant en lien avec ce dernier et ses responsables légaux",
     "Mettre en œuvre les prises en charge adaptées aux problématiques familiales pour favoriser, dans la mesure du possible, les retours en famille",
     "Organiser et d'encadrer les visites médiatisées parents/enfants",
-    "Rendre compte à sa hiérarchie et au magistrat, notamment au travers de la rédaction d’écrits professionnels respectant les échéances fixées",
+    "Rendre compte à sa hiérarchie et au magistrat, notamment au travers de la rédaction d'écrits professionnels respectant les échéances fixées",
     "Participer à la révision des situations avec échéances prévues (audiences, synthèse, réunions partenariales...)",
     "Accompagner des enfants confiés au service dans le cadre de placement éducatif à domicile",
     "Mener des évaluations sociales ou des points de situation notamment dans le cadre des agréments de familles, des informations signalantes",
@@ -154,7 +156,7 @@
   "title": "Travailleur social au service de protection de l'enfance (BAFS)",
   "totalJobOpenings": 1,
   "validThrough": "2026-10-30",
-  "workHours": "Horaires de soirée possibles en fonction des contraintes",
+  "workHours": "Horaires de soirée possibles en fonction des contraintes des familles",
   "champs_open_data": 7,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
