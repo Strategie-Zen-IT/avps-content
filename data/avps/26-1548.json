@@ -23,7 +23,7 @@
       {
         "@type": "PropertyValue",
         "name": "Prise en charge du billet",
-        "value": "billet aller uniquement"
+        "value": "Prise en charge du billet aller uniquement"
       },
       {
         "@type": "PropertyValue",
@@ -54,7 +54,7 @@
   },
   "alternateName": null,
   "description": "La réanimation polyvalente est un service très technique qui nécessite la manipulation de matériels spécifiques et la réalisation de soins d'une grande précision. Il prend en charge des patients adultes et pédiatrique de réanimation et de soins continus bénéficiant de techniques invasives ou non et de surveillance continue, en tenant compte de l'urgence mais également des polytraumatisés ou du déchocage.",
-  "disambiguatingDescription": "Recrutement de 7 infirmiers en réanimation pour le Centre Hospitalier Territorial de Nouvelle-Calédonie.",
+  "disambiguatingDescription": "Recrutement de 8 infirmiers en réanimation pour le Centre Hospitalier Territorial Gaston-Bourret au Médipôle Koutio.",
   "identifier": "26-1548",
   "image": null,
   "mainEntityOfPage": null,
@@ -92,15 +92,15 @@
   "educationRequirements": {
     "credentialCategory": "Diplôme d'Etat d'infirmier",
     "competencyRequired": [
-      "Diplôme d'état d'infirmier / infirmier en soins généraux",
+      "Titulaire du diplôme d'état d'infirmier / infirmier en soins généraux",
       "Formation AFGSU niveau 2 à jour"
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
-  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret est l'établissement de santé de référence en Nouvelle-Calédonie.",
+  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret de Nouvelle-Calédonie.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "OrganizationalUnit",
+    "@type": "Organization",
     "name": "Centre Hospitalier Territorial",
     "url": null,
     "logo": null
@@ -113,8 +113,8 @@
     "name": "Centre hospitalier territorial \"Gaston Bourret\""
   },
   "incentiveCompensation": "Primes spécifiques (nuit, week-end...)",
-  "industry": "Santé publique",
-  "jobBenefits": "Reprise de l'ancienneté possible selon la réglementation en vigueur, Grilles indiciaires de la fonction publique de Nouvelle-Calédonie, Prise en charge du billet aller uniquement",
+  "industry": "Santé",
+  "jobBenefits": "Reprise de l'ancienneté possible selon la réglementation en vigueur, Grilles indiciaires de la fonction publique de Nouvelle-Calédonie",
   "jobDuration": null,
   "jobImmediateStart": false,
   "jobLocation": {
@@ -136,7 +136,7 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Formation AFGSU niveau 2 à jour",
+  "qualifications": "Diplôme d'état d'infirmier / infirmier en soins généraux, Formation AFGSU niveau 2 à jour",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Infirmier en soins généraux"
@@ -158,7 +158,8 @@
     "Rigueur professionnelle",
     "Adaptabilité",
     "Fort sens des relations humaines",
-    "Connaissance des pratiques et du matériel spécifique à la réanimation"
+    "Manipulation de matériels spécifiques de réanimation",
+    "Réalisation de soins d'une grande précision"
   ],
   "specialCommitments": "Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)",
   "title": "7 infirmier(e)s en réanimation",
