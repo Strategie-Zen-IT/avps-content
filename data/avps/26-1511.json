@@ -4,22 +4,17 @@
     "direction": "PROVINCE SUD",
     "uniteOrganisationnelle": "Cellule de contrôle de gestion",
     "nbAgentsEncadres": 4,
-    "superieurHierarchique": "Inspecteur général",
-    "placeOrganigramme": null,
+    "superieurHierarchique": "Inspecteur général des services",
+    "placeOrganigramme": "Sous l'autorité de l'inspecteur général",
     "relationsFonctionnelles": [
-      "Secrétariat général",
-      "Partenaires de la province"
+      "Secrétariat général de la province Sud",
+      "Partenaires de la collectivité"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": null
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Régime indemnitaire attractif"
+        "name": "Date de clôture reportée",
+        "value": "La date de clôture initialement prévue le 30/10/2026 a été reportée."
       },
       {
         "@type": "PropertyValue",
@@ -28,9 +23,9 @@
       }
     ]
   },
-  "alternateName": null,
+  "alternateName": "Chargé d'études en contrôle de gestion",
   "description": "Au sein du secrétariat général de la province Sud, et de la cellule de contrôle de gestion, le ou la chargé(e) d'études en contrôle de gestion participe activement à la conception, à la mise en œuvre et au développement de méthodes et d'outils de gestion permettant de garantir l'utilisation efficiente des ressources et des moyens de la collectivité pour atteindre ses objectifs.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Responsable de la cellule de contrôle de gestion au Secrétariat Général de la Province Sud",
   "identifier": "26-1511",
   "image": null,
   "mainEntityOfPage": null,
@@ -50,19 +45,20 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "20.31.81",
-    "email": "eric.backes@province-sud.nc"
+    "email": "drh.candidatures@province-sud.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-10-09",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Bac+4 ou 5",
+    "credentialCategory": "Master (BAC +4 ou 5)",
     "competencyRequired": [
-      "Master souhaité dans au moins une des spécialités suivantes : contrôle de gestion, finances d'entreprises, finances publiques, économie, gestion, administration d'entreprises",
-      "Expérience avérée et réussie sur des fonctions équivalentes d'encadrement",
-      "Expérience avérée et réussie en matière de contrôle de gestion d'une collectivité comparable, d'un établissement public ou d'une entreprise",
-      "Expérience avérée et réussie en qualité d'auditeur interne et/ou externe",
-      "Une certification technique reconnue en France (COSO, auditeur IFACI, ...) serait un plus"
+      "Contrôle de gestion",
+      "Finances d'entreprises",
+      "Finances publiques",
+      "Économie",
+      "Gestion",
+      "Administration d'entreprises"
     ]
   },
   "eligibilityToWorkRequirement": null,
@@ -76,7 +72,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience avérée et réussie sur des fonctions équivalentes d'encadrement et en matière de contrôle de gestion d'une collectivité comparable, d'un établissement public ou d'une entreprise.",
+  "experienceRequirements": "Expérience avérée et réussie sur des fonctions équivalentes d'encadrement. Expérience avérée et réussie en matière de contrôle de gestion d'une collectivité comparable, d'un établissement public ou d'une entreprise. Expérience avérée et réussie en qualité d'auditeur interne et/ou externe.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
@@ -89,7 +85,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Grand Nouméa",
+    "name": "Secrétariat Général",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "6 route des artifices",
@@ -104,7 +100,7 @@
   "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Finances et budget",
-    "Administration générale"
+    "Pilotage"
   ],
   "physicalRequirement": null,
   "qualifications": "Une certification technique reconnue en France (COSO, auditeur IFACI, ...) serait un plus",
@@ -113,6 +109,7 @@
     "name": "Contrôleur de gestion"
   },
   "responsibilities": [
+    "Animer et coordonner la cellule de contrôle de gestion de la province Sud",
     "Piloter la cellule de contrôle de gestion composée de 4 chargés d'études",
     "Assurer les missions de contrôle de gestion (cibler les besoins, organiser la mobilisation et récolter les informations, mettre en place et consolider des outils adaptés, analyser et conseiller)",
     "Assurer le développement et le suivi d'indicateurs de pilotage de la collectivité",
@@ -120,7 +117,7 @@
     "Assurer le contrôle financier et mener des audits des partenaires de la collectivité",
     "Développer et consolider une méthodologie d'analyse et des outils de contrôle des partenaires de la province",
     "Réaliser d'autres études ponctuelles ou spécifiques de contrôle de gestion (analyse et maîtrise des risques, évaluation des charges, analyse organisationnelle, etc.)",
-    "Mettre en place et coordonner des études d'évaluation des politiques publiques"
+    "Mettre en place et de coordonner des études d'évaluation des politiques publiques"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
