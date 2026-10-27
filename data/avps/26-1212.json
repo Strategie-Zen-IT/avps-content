@@ -4,10 +4,10 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": "CMS de TOUHO",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Directeur(trice) adjoint(e) des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité",
+    "superieurHierarchique": "Directeur adjoint des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins",
+      "Chef du Bureau de Proximité de Soins",
       "CMS limitrophes"
     ],
     "informationsLibres": [
@@ -19,7 +19,7 @@
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Poste soumis à astreintes."
+        "value": "Poste soumis à astreintes"
       },
       {
         "@type": "PropertyValue",
@@ -43,22 +43,33 @@
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": "http://www.province-nord.nc",
+  "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "CMS de TOUHO",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Touho",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
-    "email": "drh-emplois@province-nord.nc"
+    "email": "m.oudare@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-08-14",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'État de docteur en médecine",
+    "credentialCategory": "Diplôme d'Etat de docteur en médecine",
     "competencyRequired": [
-      "Maîtrise de la médecine générale et de l'urgence (CAMU souhaité)",
+      "Maîtrise de la médecine générale et de l'urgence",
       "Connaissance en santé publique",
       "Connaissances en gynécologie-obstétrique, pédiatrie, cardiologie, endocrinologie et/ou infectiologie"
     ]
@@ -69,7 +80,7 @@
   "employmentUnit": {
     "@type": "OrganizationalUnit",
     "name": "PROVINCE NORD",
-    "url": "http://www.province-nord.nc",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
@@ -81,7 +92,7 @@
     "url": "http://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -99,13 +110,12 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiatement",
+  "jobStartDate": null,
   "occupationalCategory": [
-    "Politique de santé publique",
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Être titulaire du permis de conduire B.",
+  "qualifications": "Permis de conduire B, CAMU souhaité",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Médecin"
@@ -126,16 +136,16 @@
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Maîtrise des logiciels de bureautique (Excel et Word)",
+    "Maîtrise des logiciels de bureautique Excel et Word",
     "Goût des relations humaines",
     "Esprit d'initiative",
     "Capacité d'écoute",
     "Goût du travail en équipe"
   ],
-  "specialCommitments": "Poste soumis à astreintes.",
+  "specialCommitments": "Poste soumis à astreintes",
   "title": "Médecin à Touho",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-23",
+  "validThrough": "2026-11-13",
   "workHours": "Astreintes",
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
