@@ -1,0 +1,200 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "PROVINCE DES ILES LOYAUTE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur de la direction de l'environnement",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Service de l'énergie de la DIMENC-NC",
+      "ADEME",
+      "Agence calédonienne de l'énergie",
+      "Fonds Européens"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Corps et grade",
+        "value": "Ingénieur 1er grade domaine de l'économie Rurale"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction de l'administration générale de la province des îles Loyauté, service des RH"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Hôtel de la province des îles Loyauté à Wé - Lifou"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP 50 - 98820 WE LIFOU"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "dag-recrutement@loyalty.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953330.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous la responsabilité du directeur de la direction de l'environnement de la province des îles Loyauté, la personne retenue est chargée de mettre en œuvre la stratégie provinciale en matière de transition énergétique des îles Loyauté.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1554",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé d'études \"énergie\"",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province des îles Loyauté",
+    "url": "http://www.province-iles.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "http://www.province-iles.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Hôtel de la province des îles Loyauté",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Wé",
+      "addressLocality": "Lifou",
+      "addressRegion": "Province des îles Loyauté",
+      "addressCountry": "NC",
+      "province": "province des îles Loyauté"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "drh-recrutement@loyalty.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Master 2",
+    "competencyRequired": [
+      "Diplôme d'ingénieur ou de Master 2 spécialisé en énergie ou du diplôme d'ingénieur ou de Master 2 spécialisé en développement durable et ou de tout autre diplôme équivalent",
+      "Connaissance du domaine du développement durable et de l'environnement en Nouvelle-Calédonie",
+      "Connaissance de l'organisation et du fonctionnement des structures sociales et institutionnelles en Nouvelle-Calédonie",
+      "Bonne maîtrise des logiciels courants",
+      "Structures et fonctionnement de l'administration"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée : au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province des îles Loyauté",
+    "url": "http://www.province-iles.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience de 2 ans au moins est demandée dans un emploi en rapport avec le poste.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province des îles Loyauté",
+    "url": "http://www.province-iles.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Environnement",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction de l'Environnement",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Wé",
+      "addressLocality": "Lifou",
+      "addressRegion": "Province des îles Loyauté",
+      "addressCountry": "NC",
+      "province": "province des îles Loyauté",
+      "postalCode": "98820"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Environnement",
+    "Ingénierie industrielle minière et énergétique"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé d'études « énergie »"
+  },
+  "responsibilities": [
+    "Pilotage de la performance énergétique : Réaliser le bilan énergétique complet du patrimoine provincial (bâtiments, éclairage public, flotte de véhicules) et piloter les actions concrètes de réduction de la facture énergétique de la collectivité",
+    "Management et amélioration continue : Déployer et animer un système de management de l'énergie (SME) structuré au sein de l'administration provinciale",
+    "Éco-responsabilité interne : Concevoir, affiner et mettre en œuvre le plan énergie interne, tout en menant des actions de communication et de sensibilisation pour acculturer le personnel provincial aux enjeux de maîtrise de l'énergie",
+    "Accompagner la transition vers l'efficacité énergétique dans le secteur de l'habitat (bâtiments et équipements) ainsi que chez les acteurs économiques (entreprises) souhaitant investir dans la maîtrise de l'énergie. Accompagner les entreprises des îles Loyauté dans la définition, la mise en œuvre et le suivi de leurs démarches de transition énergétique, notamment en matière de maîtrise des consommations, d'efficacité énergétique, de recours aux énergies renouvelables et de réduction des coûts énergétiques",
+    "Assurer le suivi et l'animation du plan de déplacement inter-administration (Plan Mob'Îles) et accompagner plus largement les initiatives locales de mobilité durable",
+    "Préservation des ressources naturelles et décarbonations : Participer activement à la planification et au déploiement des projets de production d'énergies renouvelables afin de réduire la dépendance aux énergies fossiles",
+    "Sensibiliser et accompagner la population des Îles Loyauté, notamment les particuliers, dans l'adoption de pratiques favorisant la sobriété énergétique, la maîtrise des consommations, la réduction des dépenses d'énergie et le recours à des solutions énergétiques durables adaptées à leurs besoins",
+    "Approche systémique des territoires insulaires : Suivre les indicateurs clés à travers un tableau de bord énergie territorialisé, permettant d'aligner la stratégie provinciale avec les spécificités, les contraintes et les besoins propres aux îles Loyauté",
+    "Recherche de financements : Identifier, monter et suivre les dossiers de demande de subventions et de cofinancements auprès des partenaires clés (Agence calédonienne de l'énergie, Fonds Européens, ADEME, etc.)",
+    "Collaborer étroitement avec les instances réglementaires et techniques (service de l'énergie de la DIMENC-NC, ADEME), tout en assurant une approche transversale via l'élaboration et le suivi budgétaire de la direction",
+    "Participer aux différents projets, ateliers, événementiel, forum dans des domaines variés qui nécessitent un avis relatif à la problématique énergétique"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Écologie appliquée aux projets et infrastructures",
+    "Expertise reconnue en gestion des risques et pollution, et notamment en gestion des déchets",
+    "Préservation des ressources naturelles et décarbonations (mix énergétique et sobriété efficacité)",
+    "Superviser et accompagner techniquement les projets de construction, de rénovation énergétique des bâtiments publics et d'installations bas-carbone, en veillant à la réduction des impacts environnementaux",
+    "Bonne connaissance des structures sociales et des institutions en Nouvelle-Calédonie",
+    "Capacités d'analyse et de synthèse",
+    "Excellentes capacités rédactionnelles",
+    "Facilités de communication verbale",
+    "Bonne expérience des relations humaines et publiques ainsi que de la sensibilisation",
+    "Conduite de projets",
+    "Intégrité et discrétion",
+    "Rigueur, assiduité et discipline",
+    "Éthique et confidentialité",
+    "Autonomie",
+    "Communiquer et rendre compte",
+    "Aptitude à l'animation, à l'écoute et au dialogue",
+    "Capacités d'adaptation",
+    "Sens de l'anticipation",
+    "Aptitude au travail en équipe"
+  ],
+  "specialCommitments": null,
+  "title": "Chargé d'études \"énergie\"",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-13",
+  "workHours": null,
+  "champs_open_data": 11,
+  "employeur_sigle": "PIL",
+  "collectivite": "Province des îles Loyauté",
+  "direction": "PROVINCE DES ILES LOYAUTE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Ingénierie industrielle minière et énergétique",
+  "famille_source": "respnc",
+  "famille_score": 0.913,
+  "dossier": "ingenierie-industrielle-miniere-et-energetique"
+}
