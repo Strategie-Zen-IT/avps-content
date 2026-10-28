@@ -7,11 +7,10 @@
     "superieurHierarchique": "Cadre supérieur de santé du CHT",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "SAMU",
-      "SMUR",
+      "SAMU/SMUR",
+      "Volet pédiatrique et gynécologique",
       "Médecins",
-      "Étudiants",
-      "Stagiaires"
+      "Étudiants et stagiaires"
     ],
     "informationsLibres": [
       {
@@ -26,8 +25,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Prise en charge du billet",
-        "value": "Prise en charge du billet aller uniquement"
+        "name": "Avantages",
+        "value": "Primes spécifiques (nuit, week-end...), Reprise de l'ancienneté possible selon la réglementation en vigueur, Grilles indiciaires de la fonction publique de Nouvelle-Calédonie, Prise en charge du billet aller uniquement"
       },
       {
         "@type": "PropertyValue",
@@ -56,13 +55,13 @@
       }
     ]
   },
-  "alternateName": null,
+  "alternateName": "Infirmier(e) aux urgences",
   "description": "Partie intégrante du plateau technique, le service des urgences assure une continuité des soins 24h/24 et une réactivité immédiate face aux situations critiques. Il comprend un volet adulte - SAMU/SMUR et un volet pédiatrique et gynécologique.",
-  "disambiguatingDescription": "Infirmier(e) aux urgences au Centre Hospitalier Territorial",
+  "disambiguatingDescription": "Recrutement de deux infirmiers aux urgences pour le Centre Hospitalier Territorial Gaston-Bourret au Médipôle Koutio.",
   "identifier": "26-1547",
   "image": null,
   "mainEntityOfPage": null,
-  "name": "Infirmier(e) aux urgences",
+  "name": "2 Infirmier(e)s aux urgences",
   "owner": {
     "@type": "Organization",
     "name": "Centre hospitalier territorial \"Gaston Bourret\""
@@ -74,7 +73,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
+    "@type": "Place",
     "name": "Médipôle Koutio",
     "address": {
       "@type": "PostalAddress",
@@ -94,23 +93,23 @@
   "datePosted": "2026-10-16",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'état d'infirmier",
+    "credentialCategory": "Diplôme d'État d'infirmier",
     "competencyRequired": [
-      "Diplôme d'état d'infirmier / infirmier en soins généraux",
+      "Titulaire du diplôme d'état d'infirmier / infirmier en soins généraux",
       "Formation AFGSU niveau 2 à jour"
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
-  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret de Nouvelle-Calédonie.",
+  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret (CHT) est l'établissement hospitalier de référence en Nouvelle-Calédonie.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Centre Hospitalier Territorial",
+    "name": "Service des urgences",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": null,
+  "experienceInPlaceOfEducation": false,
   "experienceRequirements": "Expérience en soins critiques souhaitée",
   "hiringOrganization": {
     "@type": "Organization",
@@ -118,7 +117,7 @@
   },
   "incentiveCompensation": "Primes spécifiques (nuit, week-end...)",
   "industry": "Santé",
-  "jobBenefits": "Reprise de l'ancienneté possible selon la réglementation en vigueur, Grilles indiciaires de la fonction publique de Nouvelle-Calédonie",
+  "jobBenefits": "Reprise de l'ancienneté possible selon la réglementation en vigueur, Grilles indiciaires de la fonction publique de Nouvelle-Calédonie, Prise en charge du billet aller uniquement",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -140,13 +139,12 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Diplôme d'état d'infirmier / infirmier en soins généraux, Formation AFGSU niveau 2 à jour",
+  "qualifications": "Diplôme d'État d'infirmier, Formation AFGSU niveau 2 à jour",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Infirmier en soins généraux"
   },
   "responsibilities": [
-    "Assurer la prise en charge globale, rapide et sécurisée de tout patient adulte se présentant dans le service, quelle que soit la nature de l'urgence, en respectant les protocoles en vigueur et les priorités médicales",
     "Réaliser des soins infirmiers afin de maintenir ou restaurer la santé du patient",
     "Prioriser l'urgence, pratiquer les premiers gestes et participer au diagnostic",
     "Surveiller l'évolution de l'état de santé et accompagner les familles",
@@ -171,8 +169,8 @@
     "Maîtrise de ses émotions"
   ],
   "specialCommitments": "Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)",
-  "title": "Infirmier(e) aux urgences",
-  "totalJobOpenings": 1,
+  "title": "2 Infirmier(e)s aux urgences",
+  "totalJobOpenings": 2,
   "validThrough": "2026-11-06",
   "workHours": "Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)",
   "champs_open_data": 11,
