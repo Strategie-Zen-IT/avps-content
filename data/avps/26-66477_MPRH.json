@@ -1,0 +1,190 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur de la Protection judiciaire de l'enfance et de la jeunesse",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Chefs de service de la DPJEJ",
+      "Autres directions de la Nouvelle-Calédonie"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de la mission",
+        "value": "Mission ponctuelle immédiatement jusqu'au 30 Novembre 2028"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Paulo WATOENE, directeur PJEJ"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957366.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité du directeur de la Protection judiciaire de l'enfance et de la jeunesse, le chargé de mission assure le pilotage de l'activité de la DPJEJ et contribue à sa démarche qualité. Il est en charge du suivi de l'activité de la direction et de la production de rapports et de notes permettant d'anticiper l'évolution souhaitable des dispositifs. À ce titre, il fiabilise et analyse les données d'activité, accompagne les chefs de service dans l'élaboration et l'analyse de leurs tableaux de bord, alerte et conseille la direction, et formule des propositions d'amélioration.",
+  "disambiguatingDescription": null,
+  "identifier": "26-66477/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé de mission",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "http://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "PeopleAudience",
+    "name": "Direction des ressources humaines et de la fonction publique de Nouvelle Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "B.P M2",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "23.25.84",
+    "email": "paulo.watoene@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3",
+    "competencyRequired": [
+      "Savoir :",
+      "Niveau d'études supérieur à Bac +3, avec une expérience significative en matière de pilotage d'activité, d'évaluation des politiques publiques et de management de projet."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "TEMPORARY",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Direction de la protection judiciaire de l'enfance et de la jeunesse",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience significative en matière de pilotage d'activité, d'évaluation des politiques publiques et de management de projet.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": "Jusqu'au 30 Novembre 2028",
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction de la protection judiciaire de l'enfance et de la jeunesse",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-11-16",
+  "occupationalCategory": [
+    "Pilotage",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable administratif"
+  },
+  "responsibilities": [
+    "Participe aux instances de direction",
+    "Elabore, fiabilise et valide les données des tableaux de bord internes à la direction",
+    "Analyse les données de ces tableaux et établit des documents de synthèse à la demande de la direction",
+    "Participe à l'élaboration des rapports semestriels et annuels de la direction",
+    "Soutient les chefs de service dans l'élaboration et l'analyse de leurs tableaux de bord",
+    "Assure le suivi du Projet stratégique de direction de la DPJEJ, en anime l'évaluation et en propose les évolutions possibles.",
+    "Activités secondaires :",
+    "Représente la direction de la PJEJ dans certaines instances",
+    "Peut être sollicité pour apporter son expertise sur des projets pilotes au sein d'autres directions",
+    "Apporte à la direction son expertise dans l'ensemble des dossiers transversaux",
+    "Participe aux démarches d'évaluation en matière de protection de l'enfance et de prévention de la délinquance."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Savoir-Faire :",
+    "Contribuer, soutenir, accompagner, stimuler et participer au travail collectif",
+    "Travailler dans le cadre d'un multi-partenariat et animer des réseaux",
+    "Conduire des analyses statistiques, cartographiques, quantitatives et qualitatives",
+    "Concevoir et mettre en œuvre des indicateurs de suivi",
+    "Comportement professionnels :",
+    "Capacité à piloter des projets transversaux et partenariaux",
+    "Esprit de synthèse",
+    "Qualités rédactionnelles et organisationnelles",
+    "Rigueur et disponibilité",
+    "Sens des relations humaines",
+    "Capacité d'adaptation",
+    "Force de proposition",
+    "Sens du travail en équipe",
+    "Esprit de communication",
+    "Discrétion."
+  ],
+  "specialCommitments": null,
+  "title": "Chargé de mission",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-11-20",
+  "workHours": null,
+  "champs_open_data": 25,
+  "employeur_sigle": "DPJEJ",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE LA PROTECTION JUDICIAIRE DE L'ENFANCE ET DE LA JEUNESSE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "administration-generale"
+}
