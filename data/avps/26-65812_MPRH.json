@@ -11,6 +11,9 @@
       "Organismes de protection sociale (notamment la CAFAT)",
       "Établissements de santé",
       "Établissements médico-sociaux",
+      "Établissements hospitaliers",
+      "Professionnels de santé",
+      "Fournisseurs de biens, de prestations et de matériels médicaux",
       "Conseil du Handicap et de la Dépendance (CHD)",
       "Commission Médicale des Permis de Conduire (CMPC)"
     ],
@@ -64,7 +67,7 @@
   },
   "alternateName": null,
   "description": "Placé(e) sous l'autorité directe du chef du service de la protection sociale, l'agent a pour missions principales d'organiser, de gérer, d'animer et de piloter le bureau.\nLe poste s'inscrit dans un contexte de réforme structurelle majeure du modèle calédonien de protection sociale. En tant que responsable, vous piloterez des travaux d'analyse et de modélisation stratégique qui nourriront directement les orientations politiques du gouvernement. Votre objectif principal sera d'éclairer les décisions publiques afin d'encadrer, d'optimiser et de maîtriser l'évolution des dépenses des différents régimes sociaux, dans une constante perspective d'efficience et de pérennité du système.",
-  "disambiguatingDescription": "Responsable du bureau de la performance du système de protection sociale au sein de la DASS de Nouvelle-Calédonie.",
+  "disambiguatingDescription": "Responsable du bureau de la performance du système de protection sociale au sein de la DASS en Nouvelle-Calédonie.",
   "identifier": "26-65812/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -110,7 +113,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience professionnelle dans le secteur de la protection sociale et/ou de la gestion hospitalière/sanitaire/médico-sociale.",
+  "experienceRequirements": "Expérience professionnelle dans le secteur de la protection sociale et/ou de la gestion hospitalière/sanitaire/médico-sociale",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
@@ -122,7 +125,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Service de la protection sociale",
+    "name": "DASS",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -159,7 +162,7 @@
     "5- Animation et représentation institutionnelle",
     "Préparer et participer activement aux différentes instances de gouvernance et commissions techniques relevant des compétences du bureau."
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -178,7 +181,7 @@
   "totalJobOpenings": 3,
   "validThrough": "2026-10-30",
   "workHours": null,
-  "champs_open_data": 30,
+  "champs_open_data": 27,
   "employeur_sigle": "DASS",
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
