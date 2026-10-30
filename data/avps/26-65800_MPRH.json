@@ -10,14 +10,13 @@
       "Éducation Nationale",
       "ASE",
       "APEJ",
-      "Casado",
-      "DASS"
+      "Casado"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Au moins égale à 5 ans"
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
       },
       {
         "@type": "PropertyValue",
@@ -61,9 +60,9 @@
       }
     ]
   },
-  "alternateName": null,
+  "alternateName": "Educateur spécialisé en milieu ouvert - STEMOI",
   "description": "Sous la responsabilité du chef de service et des chefs de service éducatif du STEMOI, l'éducateur en milieu ouvert intervient auprès de mineurs âgés de 13 à 18 ans dans le cadre d'un mandat judiciaire.\nIl assure l'accompagnement socio-éducatif et le suivi des jeunes concernés par des mesures judiciaires, qu'il s'agisse d'assistance éducative (articles 375 et suivants du Code civil) ou de mesures relevant de la protection judiciaire de la jeunesse au titre de l'enfance délinquante (CJPM).",
-  "disambiguatingDescription": "Educateur spécialisé en milieu ouvert - STEMOI",
+  "disambiguatingDescription": "Educateur spécialisé en milieu ouvert intervenant auprès de mineurs de 13 à 18 ans sous mandat judiciaire.",
   "identifier": "26-65800/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -79,8 +78,8 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "Nouméa",
+    "@type": "Schedule",
+    "name": "Nouvelle-Calédonie",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -99,7 +98,7 @@
   "datePosted": "2026-09-25",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'État d'éducateur Spécialisé",
+    "credentialCategory": "Diplôme d'État d'éducateur Spécialisé ou Attestation de validation de la formation d'éducation de la protection judiciaire de la jeunesse",
     "competencyRequired": [
       "Être titulaire du diplôme d'État d'éducateur Spécialisé ou de l'Attestation de validation de la formation d'éducation de la protection judiciaire de la jeunesse délivrée par l'école nationale de la protection judiciaire",
       "de la jeunesse",
@@ -124,14 +123,14 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience professionnelle dans la prise en charge de mineurs en difficultés",
+  "experienceRequirements": "Expérience professionnelle dans la prise en charge de mineurs en difficultés.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Action sociale",
-  "jobBenefits": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sans_0.pdf",
+  "industry": "Service public",
+  "jobBenefits": "Informations salaire disponibles sur le site de la DRHFPNC",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -148,7 +147,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "immédiatement",
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Action sociale"
   ],
@@ -170,7 +169,7 @@
     "Suivi des mineurs détenus en collaboration avec les éducateurs du Quartier Mineurs",
     "Participation à la vie institutionnelle par le biais d'une part des réunions de service hebdomadaire et d'autre part des différents projets en cours de réflexion."
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -186,7 +185,7 @@
   "specialCommitments": "- être titulaire du permis de conduire B ;\n- possibilité d'adaptation de l'emploi du temps individuel au projet des mineurs pris en charge.",
   "title": "Educateur spécialisé en milieu ouvert - STEMOI",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-23",
+  "validThrough": "2026-10-30",
   "workHours": "Possibilité d'adaptation de l'emploi du temps individuel au projet des mineurs pris en charge",
   "champs_open_data": 27,
   "employeur_sigle": "DPJEJ",
