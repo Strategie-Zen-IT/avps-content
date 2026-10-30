@@ -7,16 +7,16 @@
     "superieurHierarchique": "Chef de service STEMOI",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Service éducatif de milieu ouvert - SUD/ÎLES",
-      "Tribunal (PEAT)",
       "Magistrats",
-      "STEMOI"
+      "STEMOI",
+      "Équipe pluridisciplinaire (éducateurs spécialisés, moniteurs éducateurs, psychologues, infirmiers, veilleurs, ouvriers polyvalents, assistants de service social, chefs de service)",
+      "Pool de chargés de mission et agents supports de la direction"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
-        "value": "au moins égale à 5 ans pour le recrutement sur titre"
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
       },
       {
         "@type": "PropertyValue",
@@ -62,7 +62,7 @@
   },
   "alternateName": null,
   "description": "Par son implication dans une relation socio-éducative de proximité inscrite dans la durée, l'éducateur accompagne les mineurs et jeunes majeurs en difficulté dans la mise en œuvre des mesures éducatives ordonnées par les magistrats, dans le cadre de l'enfance délinquante (CJPM) ou de la protection de l'enfance (articles 375 et suivants du Code civil), confiées au STEMOI.",
-  "disambiguatingDescription": "Recrutement d'un éducateur spécialisé au sein de l'UEMO Sud/Iles sous la direction de la protection judiciaire de l'enfance et de la jeunesse.",
+  "disambiguatingDescription": "Éducateur spécialisé au sein du Service éducatif de milieu ouvert et d'insertion de la DPJEJ",
   "identifier": "26-65918/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -78,7 +78,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
+    "@type": "LandmarksOrHistoricalBuildings",
     "name": "UEMO Sud/Iles",
     "address": {
       "@type": "PostalAddress",
@@ -112,7 +112,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Service éducatif de milieu ouvert - SUD/ÎLES",
+    "name": "Service éducatif de milieu ouvert et d'insertion",
     "url": null,
     "logo": null
   },
@@ -183,7 +183,7 @@
   "specialCommitments": "-Être titulaire du permis de conduire B ;\n-Pouvoir adapter son emploi du temps individuel au projet des mineurs pris en charge ;\n-Participer aux permanences éducatives auprès du tribunal (PEAT).",
   "title": "Educateur spécialisé - UEMO Sud/Iles",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-23",
+  "validThrough": "2026-10-30",
   "workHours": "Adaptation de l'emploi du temps individuel au projet des mineurs pris en charge",
   "champs_open_data": 27,
   "employeur_sigle": "DPJEJ",
