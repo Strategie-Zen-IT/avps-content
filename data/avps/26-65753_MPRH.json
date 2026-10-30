@@ -5,11 +5,10 @@
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Directeur",
-    "placeOrganigramme": "Placé sous l'autorité d'un directeur, assisté d'un directeur adjoint qui le supplée en cas d'absence",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Directeur",
-      "Médecins inspecteurs",
-      "Pharmaciens inspecteurs",
+      "Médecins et pharmaciens inspecteurs",
       "Réseaux de professionnels de santé"
     ],
     "informationsLibres": [
@@ -52,7 +51,7 @@
   },
   "alternateName": null,
   "description": "En étroite collaboration avec le directeur, le directeur adjoint assure le suivi de l'ensemble des missions de la direction et la gestion de dossiers stratégiques relevant du champ de compétence d'un médecin. \nLe directeur lui confie la gestion directe de certains dossiers. Dans ce cadre, il veille à la bonne coordination des secteurs d'intervention et au bon aboutissement des travaux, notamment ceux relevant du domaine de compétence d'un médecin\nIl assure l'intérim de la direction en cas d'absence ou d'empêchement du directeur.",
-  "disambiguatingDescription": "Poste de Directeur adjoint de la DASS en Nouvelle-Calédonie, requérant des compétences médicales et de pilotage stratégique en santé publique.",
+  "disambiguatingDescription": null,
   "identifier": "26-65753/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -77,7 +76,7 @@
   "datePosted": "2026-10-09",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Docteur en médecine",
+    "credentialCategory": "Diplôme de docteur en médecine",
     "competencyRequired": [
       "diplôme de docteur en médecine: une spécialisation en santé publique ou information médicale serait appréciée",
       "expérience professionnelle confirmée dans le domaine sanitaire et social",
@@ -97,13 +96,13 @@
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique",
+  "industry": "Santé",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "DASS",
+    "name": "Direction des affaires sanitaires et sociales",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -161,7 +160,7 @@
   "totalJobOpenings": 1,
   "validThrough": "2026-10-30",
   "workHours": null,
-  "champs_open_data": 26,
+  "champs_open_data": 23,
   "employeur_sigle": "DASS",
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
