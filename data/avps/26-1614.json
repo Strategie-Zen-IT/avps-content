@@ -1,0 +1,164 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Subdivision Sud",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable du bureau Exploitation",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Pour les techniciens 2ème grade : au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Le/la candidat(e) retenu(e) pourra, suivant les chantiers affectés au bureau, être amené(e) à travailler de nuit et/ou le week-end. Il/Elle pourra également être amené à assurer les permanences de service (astreintes cyclonique et week-end)."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953864.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Au sein de la direction de l'aménagement, de l'équipement et des moyens de la province Sud (DAEM), rattachée au pôle transition écologique, le service de la subdivision Sud est un service opérationnel en charge de la gestion administrative et technique du réseau routier provincial Sud, sur le secteur Grand Nouméa jusqu'à Yaté.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1614",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé d'affaires au bureau exploitation",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Province Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.40.44",
+    "email": "drh.candidatures@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+2",
+    "competencyRequired": [
+      "Diplôme homologué de niveau III (BTS, DEUST, DUT…) dans le domaine du BTP",
+      "Connaissances dans le domaine des infrastructures routières (y compris ouvrages d'art)",
+      "Connaissances des marchés publics"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence au moins égale à 10 ans pour les techniciens 2ème grade",
+  "employerOverview": "Le service de la subdivision Sud compte une vingtaine d'agents répartis en 5 bureaux. Il exécute annuellement environ 250 millions de travaux d'exploitation et près de 2 milliards de travaux d'investissement.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Subdivision Sud",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle de 5 ans dans le domaine des infrastructures routières (Exploitation et/ou maîtrise d'œuvre)",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Subdivision Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-11-16",
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Titulaire du permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable d'exploitation et conducteur de travaux en infrastructures"
+  },
+  "responsibilities": [
+    "Surveillance, programmation et suivi (technique, administratif et financier) des travaux d'entretien et d'exploitation du réseau routier provincial Sud",
+    "Élaboration et suivi des dossiers de consultation des entreprises du bureau (commandes/contrats/marchés)",
+    "Élaboration des programmations de travaux et des prévisions de consommation de crédit",
+    "Coordination de l'exécution des travaux",
+    "Évaluation et décision de traitement des principales dégradations sur le réseau",
+    "Coordination des interventions d'urgence",
+    "Rédaction des comptes rendus, des métrés contradictoires de travaux et suivi administratif de chantiers",
+    "Traitement des situations et des factures",
+    "Prescription et vérification de la signalisation et du respect des clauses de prévention et de sécurité sur les chantiers",
+    "Réception des travaux et suivi des périodes de garantie",
+    "Maîtrise d'œuvre d'opérations de travaux neufs sur le réseau routier provincial Sud (à titre secondaire)"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des outils informatiques et techniques (Excel, Word, Autocad)",
+    "Méthodes et techniques de programmation opérationnelle",
+    "Maîtrise de la rédaction des rapports et des comptes rendus",
+    "Qualités relationnelles",
+    "Aptitude au travail en équipe",
+    "Sens des responsabilités",
+    "Sens de l'organisation",
+    "Disponibilité (travaux de nuit / week-end / astreintes)",
+    "Réactivité",
+    "Autonomie",
+    "Force de propositions"
+  ],
+  "specialCommitments": "Astreintes cyclonique et week-end, travaux de nuit et week-end possibles",
+  "title": "Chargé d'affaires au bureau exploitation",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-20",
+  "workHours": "Horaires de service avec possibilité de travail de nuit, week-end et astreintes",
+  "champs_open_data": 9,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Infrastructures, réseaux, eaux et assainissements",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "infrastructures-reseaux-eaux-et-assainissements"
+}
