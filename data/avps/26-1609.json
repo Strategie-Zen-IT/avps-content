@@ -1,0 +1,183 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "DSI – Service des Moyens – Section Architecture du SI",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de section Architecture SI",
+    "placeOrganigramme": "N-5 (par rapport au Directeur général)",
+    "relationsFonctionnelles": [
+      "Métiers",
+      "Responsables de domaines SI",
+      "Architectes techniques"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions de travail",
+        "value": "Au bureau avec l’outil informatique"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fourniture ou mise à disposition de matériels, biens ou services",
+        "value": "Téléphone fixe d’exploitation, téléphone de sécurité (fixe et mobile)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Régimes indemnitaires rattachés au poste de travail",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955520.PDF"
+      }
+    ]
+  },
+  "alternateName": "Architecte SI",
+  "description": "L’architecte SI contribue à la cohérence, à la maîtrise et à l’évolution du système d’information, en assurant son alignement sur les besoins et les orientations stratégiques des métiers et de l’entreprise. Il élabore et maintient les représentations fonctionnelles et applicatives du SI, propose des principes et trajectoires d’urbanisation, identifie les opportunités de simplification et de rationalisation et accompagne les projets dans la prise en compte des orientations d’architecture validées. Il contribue à la maîtrise de la complexité, des dépendances, de l’obsolescence et des coûts du patrimoine applicatif.",
+  "disambiguatingDescription": "Poste d'architecte SI au sein du Service des Moyens de la Direction des Systèmes d'Information de l'OPT.",
+  "identifier": "26-1609",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "DSI - Architecte SI - Service des Moyens",
+  "owner": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "url": "http://www.opt.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Office des Postes et des Télécommunications",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 rue Paul Montchovet, Port Plaisance",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.76.00",
+    "email": "DRH-candidature@opt.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d’ingénieur en informatique",
+    "competencyRequired": [
+      "Principes et méthodes d’urbanisation et d’architecture d’entreprise (TOGAF, ArchiMate)",
+      "Modélisation des processus et capacités métiers (BPMN)",
+      "Architecture fonctionnelle et applicative ; intégration, API, SaaS et cloud",
+      "Gestion du patrimoine applicatif, cycle de vie et obsolescence",
+      "Gouvernance des données, référentiels et échanges",
+      "Notions de sécurité, continuité et conformité SI",
+      "Outils de modélisation et de cartographie du SI"
+    ]
+  },
+  "eligibilityToWorkRequirement": ".",
+  "employerOverview": "L'Office des Postes et des Télécommunications de Nouvelle-Calédonie (OPT-NC) est l'établissement public en charge des services postaux et des télécommunications sur le territoire.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "DSI – Service des Moyens – Section Architecture du SI",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience requise en urbanisation et architecture d'entreprise",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "url": "http://www.opt.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Postes et télécommunications",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Immeuble COPERNIC",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "59 Rue Georges Clémenceau",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Urbaniste du SI"
+  },
+  "responsibilities": [
+    "Cartographier le SI : élaborer, maintenir et diffuser les cartographies fonctionnelles, applicatives et des flux",
+    "Modéliser l’architecture fonctionnelle : représenter les capacités, processus et fonctions métiers et leur couverture par le SI",
+    "Concevoir les architectures cibles : proposer des scénarios d’évolution fonctionnelle et applicative alignés sur les orientations métiers et SI",
+    "Définir les trajectoires d’urbanisation : formaliser les étapes de transformation en tenant compte des priorités, contraintes et dépendances",
+    "Maintenir le cadre d’urbanisation : élaborer et faire évoluer les principes, règles, standards et modèles sous l’autorité du responsable de section",
+    "Contribuer à la rationalisation applicative : identifier les redondances, obsolescences, dépendances critiques et possibilités de mutualisation",
+    "Accompagner les projets : analyser les besoins et leurs impacts, formuler les exigences d’urbanisation et produire les notes correspondantes",
+    "Évaluer la conformité architecturale : identifier les écarts aux architectures cibles et recommander les arbitrages ou dérogations",
+    "Contribuer à la maîtrise des données et des échanges : participer à l’identification des référentiels et à la cohérence des flux inter applicatifs",
+    "Éclairer les décisions du portefeuille SI : analyser impacts, risques, dépendances et opportunités lors des études d’opportunité et cadrages",
+    "Animer la démarche d’urbanisation : collaborer avec les métiers, responsables de domaines SI et architectes techniques",
+    "Assurer une veille méthodologique et technologique sur les pratiques, standards et outils d’architecture d’entreprise"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Modéliser les architectures fonctionnelles et applicatives",
+    "Construire et maintenir des cartographies SI",
+    "Analyser les impacts et dépendances entre composants",
+    "Identifier les opportunités de rationalisation",
+    "Élaborer des scénarios et trajectoires d’évolution",
+    "Évaluer la cohérence architecturale des projets",
+    "Rédiger des notes d’urbanisation argumentées",
+    "Animer des ateliers métiers et SI",
+    "Esprit d’analyse et de synthèse",
+    "Rigueur et méthode",
+    "Vision globale et systémique",
+    "Anticipation et autonomie",
+    "Communication, pédagogie et écoute",
+    "Capacité à convaincre et à fédérer",
+    "Coopération et diplomatie",
+    "Curiosité et adaptabilité"
+  ],
+  "specialCommitments": null,
+  "title": "DSI - Architecte SI - Service des Moyens",
+  "totalJobOpenings": 5,
+  "validThrough": "2026-11-20",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "OPT",
+  "collectivite": "Office des postes et télécommunications",
+  "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Système d'information",
+  "famille_source": "respnc",
+  "famille_score": 0.843,
+  "dossier": "systeme-d-information"
+}
