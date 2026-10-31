@@ -1,0 +1,171 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "DIRECTION DES SERVICES TECHNIQUES",
+    "uniteOrganisationnelle": "Service des constructions publiques",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur des Services Techniques",
+    "placeOrganigramme": "Sous l’autorité de la direction des services techniques et en lien avec le secrétariat général",
+    "relationsFonctionnelles": [
+      "Secrétariat général",
+      "Services municipaux",
+      "Élus",
+      "Partenaires extérieurs",
+      "Prestataires"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement direct",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Responsabilités techniques, administratives, budgétaires et logistiques ; Relations régulières avec les élus, les services municipaux et les partenaires extérieurs ; Disponibilité hors des horaires de bureaux ponctuelle liée aux activités du service ; Permis B obligatoire ; Participation aux astreintes de nuit et de weekend (une semaine sur cinq)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955402.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous l’autorité de la direction des services techniques et en lien avec le secrétariat général, le responsable du service Constructions publiques pilote et coordonne l’ensemble des activités du service. Il met en œuvre les orientations de la collectivité en matière de construction et d’entretien du patrimoine bâtis communaux. Il assure la programmation, la conduite et le suivi des opérations d’investissement, veille à la maintenance des équipements communaux et garantit la bonne organisation des moyens humains, matériels et logistiques mis à disposition du service. Il encadre et accompagne les agents placés sous sa responsabilité, notamment les chargés d’opérations ainsi que l’agent chargé des travaux dans les écoles. Il veille à l’optimisation des ressources, au respect des budgets, des délais et de la qualité des prestations, ainsi qu’à la sécurité des agents, des usagers et des équipements communaux.",
+  "disambiguatingDescription": "Chef du service des constructions publiques à la Ville de Païta",
+  "identifier": "26-1617",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de service des constructions publiques",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Païta"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "LandmarksOrHistoricalBuildings",
+    "name": "Mairie de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "74.11.91",
+    "email": "adrien.emery@ville-paita.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3 à Bac+5",
+    "competencyRequired": [
+      "Formation en bâtiment, génie civil, travaux publics ou domaine technique équivalent",
+      "Connaissances en conduite d’opérations, entretien du patrimoine bâti et sécurité des équipements",
+      "Connaissances des marchés publics, de la comptabilité publique et du fonctionnement des collectivités",
+      "Connaissances en gestion des moyens matériels, logistique et organisation des interventions techniques"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement direct : au moins égale à 5 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service des constructions publiques",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience confirmée dans le domaine du bâtiment, des travaux publics et du management d'équipe.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Païta"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": "Participation aux astreintes de nuit et de weekend (une semaine sur cinq)",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98890"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiat",
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements",
+    "Patrimoine bâti"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B obligatoire",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable des constructions"
+  },
+  "responsibilities": [
+    "Organise, planifie et coordonne les activités du service en fonction des priorités de la collectivité",
+    "Encadre les équipes, répartit les missions et optimise les moyens humains, matériels et financiers",
+    "Participe à l’élaboration et au suivi du budget et rend compte de l’activité à sa hiérarchie",
+    "Identifie les besoins et propose une programmation des opérations de construction, de réhabilitation et d’aménagement",
+    "Supervise les études et le suivi des opérations, de leur programmation à la réception des travaux",
+    "Veille au respect des coûts, des délais, de la qualité et des exigences techniques et réglementaires",
+    "Programme et supervise les travaux d’entretien et de maintenance des bâtiments communaux",
+    "Coordonne les interventions des entreprises et les travaux réalisés en régie, notamment dans les établissements scolaires",
+    "Veille à la sécurité, à la conservation et au bon fonctionnement des équipements communaux",
+    "Représente la direction dans les réunions relevant de son domaine de compétence",
+    "Assure les relations avec les services municipaux, les partenaires et les prestataires",
+    "Contribue à la gestion des situations urgentes et à l’amélioration des procédures du service"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Piloter des opérations de travaux et en assurer le suivi technique, administratif et financier",
+    "Programmer les interventions et gérer les priorités",
+    "Préparer et suivre les marchés publics et contrôler les prestations",
+    "Élaborer et suivre un budget et des outils de planification",
+    "Encadre des équipes et coordonner les interventions en régie et des prestataires extérieurs",
+    "Maîtriser les outils bureautiques et de suivi d’activité",
+    "Aptitudes au management et à la mobilisation des équipes",
+    "Rigueur, organisation et sens des responsabilités",
+    "Réactivité, anticipation et capacité à gérer les priorités",
+    "Qualités relationnelles, esprit d’équipe et sens du service public",
+    "Capacité à rendre compte, à prendre des décisions et à être force de proposition"
+  ],
+  "specialCommitments": "Participation aux astreintes de nuit et de weekend (une semaine sur cinq)",
+  "title": "Chef de service des constructions publiques",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-20",
+  "workHours": "Disponibilité hors des horaires de bureaux ponctuelle liée aux activités du service",
+  "champs_open_data": 7,
+  "employeur_sigle": "VILLE-DE-PAITA",
+  "collectivite": "Ville de Païta",
+  "direction": "DIRECTION DES SERVICES TECHNIQUES",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Patrimoine bâti",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "patrimoine-bati"
+}
