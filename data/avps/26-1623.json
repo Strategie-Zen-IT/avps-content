@@ -1,0 +1,148 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 1-Sans diplôme",
+    "direction": "DIRECTION DE LA VIE CITOYENNE, EDUCATIVE ET SPORTIVE",
+    "uniteOrganisationnelle": "Service municipal des sports",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de la section animations sportives",
+    "placeOrganigramme": "Sous l'autorité du chef de la section animations sportives",
+    "relationsFonctionnelles": [
+      "Éducateur sportif municipal",
+      "Section animations sportives",
+      "Service municipal des sports"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "février et mars 2027"
+      }
+    ]
+  },
+  "alternateName": "Animateur sportif de proximité à mi-temps",
+  "description": "La ville de Nouméa recrute 4 animateurs sportifs de proximité à mi-temps. Rattaché à la direction de la vie citoyenne, éducative et sportive au sein du service municipal des sports, l'agent est chargé d'assister l'éducateur sportif municipal dans l'encadrement et la mise en place des animations sportives.",
+  "disambiguatingDescription": "Recrutement de 4 animateurs sportifs de proximité à mi-temps pour la Mairie de Nouméa.",
+  "identifier": "26-1623",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "4 Animateurs sportifs de proximité à mi-temps",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "23.26.50",
+    "email": "alexandre.henrard@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'animateur de proximité ou diplôme de niveau V souhaité",
+    "competencyRequired": [
+      "Diplôme d'animateur de proximité ou diplôme de niveau V souhaité",
+      "Être titulaire du BAFA",
+      "BNSSA et/ou Brevet de Surveillant de Baignade apprécié",
+      "Connaissance du milieu sportif",
+      "Techniques de pédagogie",
+      "Bonne connaissance des quartiers et de leur fonctionnement",
+      "Respecter les règles de sécurité",
+      "Appliquer et faire appliquer la réglementation en vigueur"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune.",
+  "employmentType": "PART_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service municipal des sports",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Animation",
+    "Education"
+  ],
+  "physicalRequirement": "Aider physiquement à l'encadrement des séances pratiques",
+  "qualifications": "BAFA, BNSSA et/ou Brevet de Surveillant de Baignade apprécié",
+  "relevantOccupation": null,
+  "responsibilities": [
+    "Assister l'éducateur sportif municipal dans l'encadrement et la mise en place des animations sportives",
+    "Concevoir des projets d'animations socio-éducatives envers la jeunesse, plus particulièrement vers le public dès 8-20 ans",
+    "Participer à l'élaboration des séances pratiques d'animations sportives en collaboration avec l'éducateur",
+    "Évaluer des activités en cours et réajuster si nécessaire",
+    "Elaborer le bilan administratif des séances d'animation en fin d'année",
+    "Mettre en place des séances pratiques d'animations sportives",
+    "Aider physiquement à l'encadrement des séances pratiques",
+    "Organiser et transmettre des informations diverses en direction du public cible",
+    "Suivre et entretenir le matériel pédagogique"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Concevoir des projets d'animations",
+    "Évaluer des activités",
+    "Élaborer un bilan administratif",
+    "Encadrer des séances pratiques",
+    "Transmettre des informations",
+    "Entretenir le matériel pédagogique",
+    "Techniques de pédagogie",
+    "Respecter les règles de sécurité",
+    "Appliquer la réglementation"
+  ],
+  "specialCommitments": "L'agent retenu sera amené à travailler en soirée, certains week-ends et jours fériés. L'agent pourra également, en cas de besoin et sur ordre de la hiérarchie, venir en renfort des autres personnels du service.",
+  "title": "4 Animateurs sportifs de proximité à mi-temps",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-20",
+  "workHours": "Mi-temps, horaires décalés en soirée, week-ends et jours fériés",
+  "champs_open_data": 9,
+  "employeur_sigle": "MAIRIE-DE-NOUMEA",
+  "collectivite": "Mairie de Nouméa",
+  "direction": "DIRECTION DE LA VIE CITOYENNE, EDUCATIVE ET SPORTIVE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Animation",
+  "famille_source": "gemini",
+  "dossier": "animation"
+}
