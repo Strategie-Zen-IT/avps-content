@@ -1,0 +1,177 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+    "uniteOrganisationnelle": "Gériatrie",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Direction des soins",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Présidence du CLIN",
+      "Pharmacien",
+      "Équipe opérationnelle d'hygiène (EOH)"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952050.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'IDE Hygiéniste exerce ses fonctions sous l'autorité de la direction des soins au sein du Centre Hospitalier Spécialisé Albert Bousquet. Membre de l'équipe opérationnelle d'hygiène, elle organise, coordonne et met en œuvre les actions relatives à l'hygiène hospitalière, la prévention du risque infectieux et la lutte contre les infections associées aux soins.",
+  "disambiguatingDescription": "Poste d'infirmier hygiéniste au sein du service Gériatrie du CHS Albert Bousquet.",
+  "identifier": "26-1602",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "1 infirmier hygiéniste",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.36.36",
+    "email": "avp@chs.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'état infirmier et DU d'hygiène hospitalière",
+    "competencyRequired": [
+      "Connaissances approfondies en hygiène hospitalière",
+      "Connaissances générales en épidémiologie, communication, conduite de projet, et référentiels de l'HAS",
+      "Connaissances opérationnelles en matériels de soins et consommables, sur les démarches HACCP, RABC, fonctionnement des établissements hospitaliers et en microbiologie"
+    ]
+  },
+  "eligibilityToWorkRequirement": ".",
+  "employerOverview": "Le Centre Hospitalier Spécialisé Albert Bousquet est un établissement public de santé de Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Justifier d'une expérience professionnelle de 5 ans dans les services de soins",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplôme d'état infirmier, DU d'hygiène hospitalière",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "infirmière hygiéniste"
+  },
+  "responsibilities": [
+    "Organiser, coordonner et mettre en œuvre les actions relatives à l'hygiène hospitalière, la prévention du risque infectieux et la lutte contre les infections associées aux soins",
+    "Organisation de la mise en place du programme de lutte contre les Infections Associées aux Soins (IAS)",
+    "Gestion des évènements indésirables en tant que gestionnaire de risque infectieux",
+    "Analyser les informations collectées et restituer aux équipes soignantes par écrit et oralement",
+    "Mettre en place des actions correctives et évaluer les actions",
+    "Réaliser un suivi des bactéries multi résistantes",
+    "Réaliser les enquêtes épidémiologiques, analyser la situation et signaler au CLIN et à la DASS",
+    "Mettre en place en collaboration avec le président et vice-président du CLIN des actions correctives et des mesures de prévention",
+    "Elaborer, promouvoir et accompagner la mise en œuvre des mesures de prévention des IAS",
+    "Organiser des réunions et intégrer des groupes de travail en qualité de participant, coordonateur ou animateur",
+    "Mise en place en collaboration avec l'ACSMS d'un programme sur la gestion des risques infectieux dans le cadre de la convention CHS/ACSMS",
+    "Elaborer des outils d'évaluation, réaliser les évaluations et les plans d'actions",
+    "Sensibiliser les équipes aux risques professionnels",
+    "Elaborer des protocoles de soins en collaboration avec les services de soins et services techniques",
+    "Informer et former les équipes aux protocoles et matériels",
+    "Contribuer en qualité d'expert en hygiène à l'étude technique pour le choix des matériels et produits utilisés dans les services de soins",
+    "Réaliser les tests et la synthèse des matériels et des produits de soins, d'entretien en hygiène",
+    "Participer aux procédures de prévention des risques liés à la construction et à l'aménagement des locaux",
+    "Elaborer et mettre en œuvre la surveillance environnementale en lien avec l'EOH",
+    "Construire des projets pédagogiques dans le cadre du plan annuel de formation de l'établissement",
+    "Accompagner et sensibiliser les patients à la prévention des infections associées aux soins",
+    "Participer à la formation institutionnelle des nouveaux arrivants et à l'accueil des étudiants",
+    "Proposer et organiser des événementiels en lien avec l'hygiène",
+    "Constituer une bibliographie, rechercher les travaux réalisés et élaborer une recherche en soins infirmiers appliqués à l'hygiène hospitalière",
+    "Participer à des communications extérieures et diffuser les recommandations",
+    "Participer à diverses instances, sous-commissions et réunions périodiques (CHSCT, CLIN, coordination des soins, DAFET/Qualité)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise de l'outil informatique (Outlook, Word, Excel, PowerPoint, logiciel YES TEAM, Canva, TRELLO)",
+    "Compétences en management de proximité et en management transversal",
+    "Capacités pédagogiques et relationnelles",
+    "Compétences organisationnelles",
+    "Compétences en animation de groupes de travail",
+    "Maîtrise des techniques d'audit, analyse de processus, rédaction de procédures",
+    "Excellent relationnel, qualité d'écoute et sens du dialogue",
+    "Rigueur méthodologique et organisationnelle",
+    "Capacité d'analyse, de priorisation et d'adaptabilité",
+    "Sens de l'initiative, créativité et goût pour l'innovation",
+    "Appétence pour l'apprentissage en continu",
+    "Bonnes qualités rédactionnelles et aisance à l'oral"
+  ],
+  "specialCommitments": null,
+  "title": "1 infirmier hygiéniste",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-20",
+  "workHours": null,
+  "champs_open_data": 10,
+  "employeur_sigle": "CHS",
+  "collectivite": "Centre hospitalier spécialisé \"Albert Bousquet\"",
+  "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.839,
+  "dossier": "sante-publique-soins"
+}
