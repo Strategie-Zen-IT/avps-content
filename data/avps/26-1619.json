@@ -1,0 +1,173 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "UPASS de Nouméa",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable de l'UPASS de Nouméa, responsable du centre de santé scolaire",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Direction de l'éducation et de la réussite (DERES)",
+      "Direction de l'enseignement (DENC)",
+      "Vice-rectorat",
+      "Service la protection de l'enfance (SPE)",
+      "Service de la prévention et de la promotion de la santé (SPPS)",
+      "Centres médico-sociaux (CMS)"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Pour les infirmier(e)s en soins généraux : au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "De nombreux déplacements dans les écoles et collèges sur l'ensemble de la province Sud pour la réalisation des missions de santé scolaire sont à prévoir. Hors calendrier scolaire, l'agent pourra être amené à contribuer à d'autres missions de santé publique et de prévention dans les autres CMS de la province Sud."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952050.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'actions sanitaire et sociale (UPASS) et des centres médico-sociaux (CMS) et des autres sites excentrés. Au sein du pôle santé et territoires, l'UPASS de Nouméa comprend l'espace Santé situé au centre-ville, et, sur le site de Montravel, le centre de protection maternelle et infantile (PMI), le centre médico-social de Montravel, et le centre de médecine scolaire dont le champ d'action s'étend à l'ensemble de la province Sud.",
+  "disambiguatingDescription": "Infirmier(ère) au centre de santé scolaire de l'UPASS de Nouméa, rattaché à la Direction Provinciale de l'Action Sanitaire et Sociale de la Province Sud.",
+  "identifier": "26-1619",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Infirmier(e) au centre de santé scolaire",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "UPASS de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.47.48",
+    "email": "florence.branchu@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'Etat d'infirmier",
+    "competencyRequired": [
+      "Connaissances en prévention et en promotion de la santé (charte d'Ottawa)",
+      "Droits du patient",
+      "Maîtrise de l'outil informatique"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre pour les infirmier(e)s en soins généraux : au moins égale à 5 ans",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'actions sanitaire et sociale (UPASS) et des centres médico-sociaux (CMS) et des autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre de santé scolaire",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Titulaire du permis B et véhiculé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Infirmier"
+  },
+  "responsibilities": [
+    "Assurer le suivi médico-social des enfants relevant de l'enseignement du premier degré public et privé, et des classes de 6e comprenant le repérage, le dépistage des problématiques de santé (obésité, hygiène bucco-dentaire, rhumatisme articulaire aigu), l'accompagnement des familles et la participation à l'évaluation de l'état de santé des jeunes calédoniens",
+    "Réaliser, contrôler les soins infirmiers et accompagner l'enfant et l'entourage",
+    "Mettre en œuvre et suivre les procédures internes sur le suivi des enfants et des relances vaccinales",
+    "Coordonner les visites médicales avec les directeurs d'école",
+    "Collaborer avec la direction de l'éducation et de la réussite (DERES), la direction de l'enseignement (DENC), le Vice-rectorat, le service la protection de l'enfance (SPE), le service de la prévention et de la promotion de la santé (SPPS) et les CMS",
+    "Mettre en place les permanences de suivi les mercredis après-midi au CMS de Montravel et durant les vacances scolaires",
+    "Assurer le suivi des enfants et des adolescents en situation de handicap",
+    "Assurer le suivi des tableaux de bord et des statistiques mensuels",
+    "Réaliser des bilans qualitatifs et quantitatifs après les visites de chaque établissement",
+    "Travailler en partenariat avec les autres professionnels de la santé et du social",
+    "Participer aux équipes éducatives et aux entretiens de la protection de l'enfance en lien avec l'assistant(e) social(e) et/ou le médecin du service",
+    "Mettre en place des actions de préventions et éducation à la santé",
+    "Participer au projet de santé communautaire en lien avec le centre de santé et de la famille (CSF)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Sens de l'organisation et des responsabilités",
+    "Capacité à prendre des initiatives",
+    "Volontaire et dynamique",
+    "Esprit d'équipe",
+    "Qualités relationnelles",
+    "Ouverture d'esprit",
+    "Rigueur",
+    "Sens du service public",
+    "Adaptabilité",
+    "Secret professionnel",
+    "Sens de l'écoute"
+  ],
+  "specialCommitments": null,
+  "title": "Infirmier(e) au centre de santé scolaire",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-20",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
