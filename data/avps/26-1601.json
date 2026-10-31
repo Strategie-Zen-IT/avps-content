@@ -1,0 +1,163 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Agent du patrimoine",
+    "direction": "AGENCE DE DEVELOPPEMENT DE LA CULTURE KANAKE",
+    "uniteOrganisationnelle": "Centre Culturel Tjibaou",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de Département des Publics et du Développement Culturel (DPDC) et de son adjoint",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Département des Publics et du Développement Culturel",
+      "Equipes techniques",
+      "Equipes administratives"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Poste basé au Centre Culturel Tjibaou, Nouméa, avec des interventions en dehors du site. Travail le week-end et ponctuellement en soirée et selon les événements programmés et le planning attribué."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952106.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'ADCK-CCT, pilier de la valorisation de la culture kanak en Nouvelle-Calédonie, est un établissement public au sein du Centre Culturel Tjibaou, une œuvre architecturale emblématique. Doté d'un budget d'environ 1 milliard de CFP et employant une quarantaine d'agents, l'établissement a pour mission de préserver et promouvoir le patrimoine culturel kanak, d'encourager la création artistique tout en favorisant l'émergence de pratiques culturelles communes, d'assurer un rayonnement régional et international à travers des échanges culturels, et de contribuer activement à la vie culturelle locale. Dans ce cadre, les agents d'accueil et de médiation culturelle jouent un rôle essentiel dans la relation avec les publics, en assurant un accueil de qualité, une médiation culturelle engageante, ainsi que la gestion des transactions liées aux services et activités proposées. Ils/elles participent à la valorisation du patrimoine kanak et contribuent à la satisfaction et à la fidélisation des visiteurs du Centre Culturel Tjibaou.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1601",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Agent d'accueil et de médiation culturelle",
+  "owner": {
+    "@type": "Organization",
+    "name": "Agence de développement de la culture kanake"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "41.45.41",
+    "email": "e.hnacipan@adck.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme ou formation dans le domaine de l'accueil, de la médiation culturelle, des sciences sociales ou disciplines connexes",
+    "competencyRequired": [
+      "Connaissances solides en accueil et médiation culturelle, avec une capacité à transmettre des informations claires et engageantes sur le patrimoine et les événements culturels",
+      "Bonne connaissance de la culture kanak, du patrimoine océanien et des dynamiques culturelles propres à la Nouvelle-Calédonie",
+      "Maîtrise du français (écrit et oral) et maîtrise obligatoire de l'anglais pour communiquer avec les publics internationaux",
+      "La connaissance d'autres langues (allemand, japonais, chinois, espagnol) serait un atout significatif pour enrichir l'expérience des visiteurs",
+      "Compétences en gestion des transactions (encaissements, billetterie) et en utilisation des outils informatiques associés",
+      "Connaissance des enjeux d'accessibilité culturelle et des pratiques inclusives pour répondre aux besoins d'un public diversifié"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "L'ADCK-CCT, pilier de la valorisation de la culture kanak en Nouvelle-Calédonie, est un établissement public au sein du Centre Culturel Tjibaou, une œuvre architecturale emblématique. Doté d'un budget d'environ 1 milliard de CFP et employant une quarantaine d'agents, l'établissement a pour mission de préserver et promouvoir le patrimoine culturel kanak, d'encourager la création artistique tout en favorisant l'émergence de pratiques culturelles communes, d'assurer un rayonnement régional et international à travers des échanges culturels, et de contribuer activement à la vie culturelle locale.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Centre Culturel Tjibaou",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Agence de développement de la culture kanake"
+  },
+  "incentiveCompensation": null,
+  "industry": "Culture",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre Culturel Tjibaou",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue des Accords de Matignon",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Culture",
+    "Animation"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B souhaité et souhaitable",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Médiateur culturel"
+  },
+  "responsibilities": [
+    "Accueille les visiteurs et les oriente dans les différents espaces du Centre Culturel Tjibaou, en garantissant une expérience chaleureuse et professionnelle",
+    "Assure l'accueil téléphonique, répond aux demandes d'information et oriente les interlocuteurs vers les services concernés",
+    "Participe activement à la médiation culturelle en proposant des activités et des contenus adaptés pour valoriser les expositions, les événements et le patrimoine kanak auprès des publics variés",
+    "Gère les transactions financières liées aux entrées, aux ventes de produits ou services, en respectant les procédures de caisse et les consignes administratives",
+    "Contribue à la mise en œuvre des actions de sensibilisation et de médiation culturelle, avec une attention particulière portée aux publics scolaires, aux familles et aux communautés locales",
+    "Collabore avec les équipes techniques et administratives pour assurer le bon déroulement des événements et activités culturelles",
+    "Collecte les retours des visiteurs pour améliorer continuellement les services et l'expérience offerte",
+    "Participe à la gestion logistique des flux de visiteurs pour garantir une fluidité et un confort optimal, en particulier lors des événements de grande affluence",
+    "Assurer l'accueil des visiteurs, la gestion des flux et leur orientation au sein des différents espaces du Centre Culturel Tjibaou",
+    "Gérer les appels téléphoniques, informer les interlocuteurs sur les expositions, événements et services du centre, et rediriger les demandes spécifiques aux services concernés",
+    "Fournir des informations claires et engageantes sur les expositions, spectacles, ateliers et événements proposés par le centre",
+    "Proposer et animer des activités de médiation culturelle adaptées aux publics variés (visites guidées, présentations, ateliers éducatifs) dans et hors des murs",
+    "Encaisser les droits d'entrée et gérer les ventes de produits ou services, tout en respectant les politiques tarifaires de l'établissement",
+    "Participer à la logistique des événements culturels en appui aux équipes techniques, en veillant à la satisfaction des visiteurs et à la qualité de l'expérience offerte",
+    "Contribuer à la mise en œuvre d'actions d'accessibilité pour garantir une expérience inclusive et adaptée aux besoins des différents publics",
+    "Collaborer avec les autres départements pour assurer la cohérence et la fluidité des actions proposées",
+    "Participer activement à la valorisation du patrimoine kanak en intégrant les traditions et savoirs locaux dans les activités proposées aux visiteurs",
+    "Collecter et analyser les retours des visiteurs, et participer à la réflexion sur l'amélioration des services et actions culturelles"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Accueillir et orienter les visiteurs avec professionnalisme, tout en garantissant une expérience fluide et agréable",
+    "Proposer des activités de médiation adaptées à des publics variés (scolaires, familles, touristes) pour valoriser les savoirs kanak et les événements proposés",
+    "Gérer les encaissements et effectuer des transactions en respectant les procédures administratives et financières",
+    "Collaborer avec les équipes techniques et culturelles pour assurer une logistique efficace et une qualité optimale lors des événements",
+    "Intégrer les valeurs kanak et les spécificités culturelles locales dans les actions de médiation",
+    "Collecter et analyser les retours des visiteurs pour contribuer à l'amélioration des services",
+    "Travailler efficacement en équipe et maintenir une communication fluide avec des interlocuteurs multiculturels",
+    "Sens de l'accueil et de l'écoute pour répondre aux attentes et besoins des visiteurs",
+    "Capacité à représenter l'établissement avec professionnalisme, en valorisant les missions et les valeurs de l'ADCK-CCT",
+    "Adaptabilité et ouverture d'esprit pour interagir avec des publics et contextes variés, tout en respectant les différences culturelles",
+    "Esprit d'équipe et capacité à collaborer efficacement avec les collègues et partenaires",
+    "Rigueur, organisation et sens des priorités dans l'exécution des missions",
+    "Créativité et proactivité pour enrichir l'expérience des visiteurs et proposer des actions innovantes"
+  ],
+  "specialCommitments": null,
+  "title": "Agent d'accueil et de médiation culturelle",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-20",
+  "workHours": "Travail le week-end et ponctuellement en soirée",
+  "champs_open_data": 9,
+  "employeur_sigle": "ADCK",
+  "collectivite": "Agence de développement de la culture kanake",
+  "direction": "AGENCE DE DEVELOPPEMENT DE LA CULTURE KANAKE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Culture",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "culture"
+}
