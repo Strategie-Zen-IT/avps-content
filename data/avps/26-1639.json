@@ -1,0 +1,173 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Service de l’aide sociale à l’enfance (ASE)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cheffe de service",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Parquet",
+      "Commission d’aide sociale de la direction (DASSPS)",
+      "Cellule de Traement des Informations Préoccupantes et Signalantes",
+      "Tribunaux (TPI, TPE, TAF, assesseurs civile et coutumier…)",
+      "Associations œuvrant dans le domaine du social et/ou de la protection de l'enfance"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Cet emploi nécessite une grande disponibilité de l'agent avec des horaires atypiques."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953804.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction des affaires sanitaires et sociales et des problèmes de société Nord compte 253 agents, avec 3 départements (sanitaire, social et administratif). Le département social comprend 4 services dont le service de l'aide sociale à l'enfance. Placée sous l'autorité de la cheffe de service, la personne retenue sera chargée de la réalisation des enquêtes administratives et judiciaires du service relatives à la situation de mineurs en matière pénale ou civile, ainsi que des enquêtes et suivi des agréments des familles en demande d'accueil familial ou d'adoption.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1639",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Assistant(e) social(e) - ASE",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "http://www.province-nord.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Province-Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Poindimié",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.72.30",
+    "email": "a.philippon@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'assistant de service social",
+    "competencyRequired": [
+      "Connaître les réalités locales, associatives et socio-culturelles de la province nord",
+      "Connaître le droit coutumier kanak et de l’ensemble des pratiques coutumières exercées par les populations",
+      "Disposer d’une expertise avérée sur les notions de risques et de dangers en protection de l’enfance",
+      "Avoir la capacité de prendre en compte les spécificités juridiques, sociales et culturelles relatives aux mineurs de statut coutumier",
+      "Connaître le rôle et le fonctionnement des institutions et particulièrement les tribunaux (TPI, TPE, TAF, assesseurs civile et coutumier…)",
+      "Avoir des compétences en bureautique (Word, Excel, Power Point, Outlook)"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": "Par délibération n° 68/89 du 29 décembre 1989, l’Assemblée de la province Nord a créé la direction des affaires sanitaires et sociales et des problèmes de société Nord. La direction compte 253 agents, avec 3 départements (sanitaire, social et administratif).",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Service de l’aide sociale à l’enfance (ASE)"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience avérée dans le domaine de la protection de l'enfance, minimum de 5 ans",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "http://www.province-nord.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Action sociale",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Service de l'aide sociale à l'enfance",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Poindimié",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98822"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-08",
+  "occupationalCategory": [
+    "Action sociale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Titulaire du permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Assistant social"
+  },
+  "responsibilities": [
+    "Réalisation des enquêtes administratives et judiciaires du service relatives à la situation de mineurs en matière pénale ou civile",
+    "Enquêtes et suivi des agréments des familles en demande d’accueil familial ou d’adoption",
+    "Intervention dans toutes les communes de la Province Nord",
+    "Réalisation d’enquêtes sociales en assistance éducative à la demande du parquet ou de la commission d’aide sociale de la direction (DASSPS)",
+    "Réalisation des évaluations des situations familiales dans une approche globale en prenant en compte à la fois l'intérêt de l'enfant, la place des parents et les ressources de l'environnement, avant traitement en Cellule de Traitement des Informations Préoccupantes et Signalantes",
+    "Réalisation à la demande du service des mesures de prévention en renfort des éducateurs spécialisés",
+    "Réalisation d’enquêtes sociales en vue d’agrément des familles d’accueil et des familles candidates à l’adoption",
+    "Suivi des familles en vue de l’adoption civile (post-natal ou primo-arrivant)",
+    "La participation aux commissions de l’Aide Sociale à l’Enfance",
+    "La participation à la cellule de traitements des informations préoccupantes et signalantes",
+    "La participation au planning d’astreinte du service par roulement (du lundi au lundi)",
+    "La représentation du service de l’aide sociale à l’enfance (SASE) dans le cadre des enquêtes et du suivi des mineurs (audience au TPE)",
+    "Le travail en partenariat et en transversalité avec les institutions, les services et les associations œuvrant dans le domaine du social et/ou de la protection de l’enfance",
+    "La participation à la réflexion en matière de prévention et de protection de l’enfance",
+    "La promotion des actions en direction des groupes"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Respecter les règles déontologiques",
+    "Faire preuve de discernement, d'analyse et de synthèse",
+    "Maîtriser les règles d'expression écrite (langue française et procédure)",
+    "Maîtriser les techniques de communication orale (techniques d'entretien, de transmission d'informations, de reformulation et d’écoute active)",
+    "Savoir respecter la confidentialité",
+    "Avoir le sens de l’initiative, de l’organisation et rigueur",
+    "Être autonome",
+    "Savoir travailler en équipe et en réseau",
+    "Être disponible et savoir être réactif face à l’urgence"
+  ],
+  "specialCommitments": "Participation au planning d’astreinte du service par roulement (du lundi au lundi)",
+  "title": "Assistant(e) social(e) - ASE",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-20",
+  "workHours": "Horaires atypiques",
+  "champs_open_data": 9,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 0.747,
+  "dossier": "action-sociale"
+}
