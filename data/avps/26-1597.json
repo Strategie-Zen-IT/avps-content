@@ -1,0 +1,170 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+    "uniteOrganisationnelle": "CMP Adolescents",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cadre de santé du CMP Adolescents, cadre supérieur de santé",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Pédopsychiatres du CHS",
+      "Chef de service de la pédopsychiatrie",
+      "Equipe de soins ambulatoires Casado",
+      "Equipes soignantes CHS/CHT",
+      "Partenaires du réseau"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Pour les infirmier(e)s en soins généraux : au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions particulières d'exercice",
+        "value": "Mobilité sur différents sites (CHS, CHT, CMP Adolescent, lycées et collèges etc.). Spécifique à l'hospitalisation : Adaptabilité des horaires en fonction des indications d'hospitalisation (TCA ou situation impérieuse). Le CMP Adolescents étant fermé à périodes régulières (ex : entre noël et le nouvel an), les professionnels sont susceptibles d'être positionnés en congés annuels ou externe à l'établissement."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953386.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le Centre Hospitalier Spécialisé Albert Bousquet recrute deux infirmiers en pédopsychiatrie pour le CMP Adolescents. Le poste consiste à soutenir et accompagner les patients et leur famille en proposant des soins intensifs pédopsychiatriques en alternative ou en relais à une hospitalisation complète, et à assurer la liaison paramédicale pédopsychiatrique.",
+  "disambiguatingDescription": "Recrutement de deux infirmiers en pédopsychiatrie pour le CMP Adolescents au CHS Albert Bousquet.",
+  "identifier": "26-1597",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "2 Infirmier(ère)s en pédopsychiatrie (CASADO)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.36.38",
+    "email": "avp@chs.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'Etat d'infirmier",
+    "competencyRequired": [
+      "Règles professionnelles de la profession infirmière",
+      "Délibération n°313 du 30 août 2013",
+      "Délibération n°104 du 15 décembre 2010"
+    ]
+  },
+  "eligibilityToWorkRequirement": ".",
+  "employerOverview": "Le Centre Hospitalier Spécialisé Albert Bousquet est l'établissement de référence en santé mentale en Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "CMP Adolescents",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": false,
+  "experienceRequirements": "Expérience requise en pédopsychiatrie ou soins généraux selon le statut.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "CMP Adolescents",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire de plus de 2 ans",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "infirmier diplômé d’Etat ou infirmier en soins généraux"
+  },
+  "responsibilities": [
+    "Soutenir et accompagner les patients et leur famille en leur proposant au besoin des soins intensifs pédopsychiatriques en alternative ou en relais à une hospitalisation complète, après un passage aux urgences ou en sortie d'hospitalisation",
+    "Assurer la liaison paramédicale pédopsychiatrique quotidienne du lundi au vendredi pour les enfants et les adolescents hospitalisés en pédiatrie et le lundi, mercredi et jeudi au CHS",
+    "Participer à des écrits professionnels à type d'information préoccupante et de signalement au procureur quand la situation du jeune le nécessite",
+    "Rendre-compte de son activité clinique en utilisant des outils pertinents et le logiciel DXCare (PSI, suivi des hospitalisations, consultations)",
+    "Accompagnement des adolescents en sortie extérieure soit pour préparer la sortie d'hospitalisation soit dans le cadre d'une prise en soins d'une symptomatologie phobique",
+    "Réalisation de passations de relais soit avec l'équipe de soins ambulatoires Casado, avec les équipes soignantes CHS/CHT, soit avec les partenaires du réseau",
+    "Tenue du dossier patient : traçabilité des actes de soins et du projet de soins effectués dans le dossier informatisé de l'établissement",
+    "Organisation et animation de groupes occupationnels dans le cadre d'hospitalisation, et d'activités de prévention des risques, et de promotion de la santé",
+    "Surveillance de l'efficacité et de la tolérance de traitements prescrits par le pédopsychiatre. Traçabilité dans le dossier",
+    "Repas thérapeutiques dans le cadre d'un protocole de soins",
+    "Participation aux réunions cliniques le mercredi, le jeudi (réunion d'hospitalisation au CMP A) et le vendredi (clinique / organisationnel)",
+    "Participation aux supervisions et réunions institutionnelles et organisationnelle",
+    "Travail de coordination et de transmissions avec le reste de l'équipe Casado",
+    "Concourir au recueil des besoins de formation en pédopsychiatrie des partenaires (si la ressource humaine le permet)",
+    "Concourir au recueil d'activité dans le cadre de la préparation du rapport annuel",
+    "Encadrement des étudiants",
+    "Participation à la veille documentaire et au suivi des recommandations professionnelles"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité d'écoute, d'empathie et de respect des personnes",
+    "Capacité de travail en équipe, en binôme, pour les consultations et animations de groupes thérapeutiques",
+    "Capacité à transmettre et à rendre compte en équipe pluridisciplinaire",
+    "Capacité d'analyse réflexive sur ses propres pratiques",
+    "Capacité à maîtriser ses émotions, à maintenir la juste distance thérapeutique au vu des situations de souffrance rencontrées",
+    "Capacité à produire des écrits professionnels pertinents",
+    "Capacité à assurer une référence et une articulation autour des suivis"
+  ],
+  "specialCommitments": null,
+  "title": "2 Infirmier(ère)s en pédopsychiatrie (CASADO)",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-20",
+  "workHours": "Adaptabilité des horaires en fonction des indications d'hospitalisation",
+  "champs_open_data": 10,
+  "employeur_sigle": "CHS",
+  "collectivite": "Centre hospitalier spécialisé \"Albert Bousquet\"",
+  "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Politique de santé publique",
+  "famille_source": "respnc",
+  "famille_score": 0.831,
+  "dossier": "politique-de-sante-publique"
+}
