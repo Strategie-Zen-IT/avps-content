@@ -1,0 +1,173 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Service du développement durable",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service du développement durable",
+    "placeOrganigramme": "Placé sous l'autorité du chef du service du développement durable",
+    "relationsFonctionnelles": [
+      "Autres directions provinciales",
+      "Partenaires"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi",
+        "value": "Ingénieur 2ème grade du cadre des personnels techniques dans le domaine de l’économie rurale"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements occasionnels sur l’ensemble du territoire de la Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956388.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La direction du développement économique et de l’environnement a pour principale mission d’accompagner la structuration et le développement de l'économie de la Province nord tout en respectant, conservant et valorisant l’environnement naturel.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1638",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé(e) de déchets",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "http://www.province-nord.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "AreaServed",
+    "name": "Hôtel de la province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.72.39",
+    "email": "l.pouye@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Ingénieur",
+    "competencyRequired": [
+      "Définir un cahier des charges pour l'étude ou le diagnostic à mener en spécifiant le contexte, la méthodologie, les enjeux par rapport aux besoins du territoire et déterminer les moyens requis",
+      "Identifier les sources et obtenir des données qualitatives et quantitatives pour analyser une problématique territoriale et formuler des préconisations stratégiques ou opérationnelles",
+      "Etudier les opportunités de partenariat, de financement et de recours à des dispositifs régionaux, nationaux ou internationaux",
+      "Formuler la définition du projet, ses objectifs, ses futurs bénéficiaires, son calendrier et l'enveloppe spécifique pour fédérer les acteurs du projet sur une base commune",
+      "Identifier, générer, organiser les partenariats technique, financiers, humains nécessaires à la conduite des projets",
+      "Organiser la communication des projets et plans d'actions en vue de l'intégration du projet par les décideurs, les techniciens, les acteurs locaux et les habitants"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
+  "employerOverview": "La direction du développement économique et de l’environnement a pour principale mission d’accompagner la structuration et le développement de l'économie de la Province nord tout en respectant, conservant et valorisant l’environnement naturel.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service du développement durable",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "http://www.province-nord.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Environnement",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Koné",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98860"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "immédiatement",
+  "occupationalCategory": [
+    "Environnement",
+    "Infrastructures, réseaux, eaux et assainissements"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Ingénieur gestion de déchets"
+  },
+  "responsibilities": [
+    "Coordonner et suivre l'implantation des nouveaux équipements de gestion des déchets",
+    "Coordonner la réalisation de plan de communication sur la prévention, la sensibilisation et la formation à la gestion des déchets",
+    "Suivre les engagements financiers de l’ensemble des programmes de réalisation des objectifs du schéma provincial de gestion des déchets",
+    "L'animation de la mise en œuvre du schéma directeur de gestion des déchets",
+    "Le suivi technique et financier des programmes d'investissement",
+    "L'animation territoriale et la mise en réseau des acteurs concernés par la gestion des déchets sur le territoire provincial",
+    "Les études de schéma local de gestion des déchets sur l'ensemble de la Province Nord",
+    "La définition d'un tableau de bord pour le suivi de la gestion des déchets",
+    "La coordination et le suivi de l'implantation des nouveaux équipements de gestion des déchets et des opérations de réhabilitation des décharges",
+    "Le suivi des études de réalisation des nouveaux équipements (déchetteries, centres de tri et de transfert des communes)",
+    "Le suivi technique et financier des programmes de réhabilitation des décharges",
+    "La proposition de filières de valorisation et la mise en œuvre d'opérations pilotes",
+    "La conception et la mise en œuvre des programmes de prévention",
+    "La sensibilisation, formation et communication à la gestion des déchets lors d'évènements sur le territoire provincial",
+    "La coordination et l'établissement des plans de communication des évènements, en relation avec les autres directions provinciales et les partenaires",
+    "Le pilotage des campagnes de communication"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Repérer et mettre en relation les acteurs majeurs pour favoriser le partage d'informations et d'éléments communs dans une optique de gouvernance",
+    "Mobiliser et animer des instances de concertation avec les habitants ou les acteurs de la société civile dans le cadre d'une démarche de projet de territoire",
+    "Élaborer un plan de communication et veiller à sa mise en œuvre",
+    "Définir ou appliquer des outils d'évaluation, de contrôle permettant de mesurer l'efficience et la pertinence d'une politique publique",
+    "Rigueur et organisation",
+    "Esprit d’analyse et de synthèse",
+    "Disponibilité",
+    "Sens de l’anticipation"
+  ],
+  "specialCommitments": null,
+  "title": "Chargé(e) de déchets",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-20",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Propreté et gestion des déchets",
+  "famille_source": "respnc",
+  "famille_score": 0.998,
+  "dossier": "proprete-et-gestion-des-dechets"
+}
