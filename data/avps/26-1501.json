@@ -50,13 +50,14 @@
     "email": "william.brevi@province-sud.nc"
   },
   "baseSalary": null,
-  "datePosted": "2026-10-16",
+  "datePosted": "2026-10-30",
   "directApply": false,
   "educationRequirements": {
     "credentialCategory": "Certificat de formation en sécurité ou qualification similaire recommandé",
     "competencyRequired": [
+      "Certificat de formation en sécurité ou qualification similaire recommandé",
       "Formation aux gestes de premiers secours et aux techniques de prévention des risques souhaitée",
-      "Notions en self-défense"
+      "Avoir des notions en self-défense serait un avantage"
     ]
   },
   "eligibilityToWorkRequirement": null,
@@ -86,7 +87,7 @@
     "name": "Secrétariat Général",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "6 route des artifices",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -135,7 +136,7 @@
   "title": "Agent de gardiennage et de surveillance",
   "totalJobOpenings": 4,
   "validThrough": "2026-11-06",
-  "workHours": "Horaires flexibles et décalés (jour et nuit)",
+  "workHours": "Horaires flexibles (jour et nuit)",
   "champs_open_data": 9,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
