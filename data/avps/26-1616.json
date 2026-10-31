@@ -1,0 +1,172 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché / Attaché de conservation - conservateur",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Pôle protection et valorisation des patrimoines",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du pôle protection et valorisation des patrimoines",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Service pôle développement humain",
+      "Espace culturel de Déva",
+      "Service du tourisme de la direction du développement économique et du tourisme de la province Sud"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Possibilité de travail en soirée, le week-end et les jours fériés."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi",
+        "value": "Attaché d'administration ou attaché de conservation"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957366.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de la culture, de la jeunesse et des sports de la province Sud (DCJS) développe et valorise les richesses patrimoniales et artistiques de la province Sud. Elle agit en matière de patrimoine, de création et de diffusion artistique et d'accès à la culture en favorisant son rayonnement sur l'ensemble de la province Sud. Elle soutient les artistes et l'ensemble des acteurs culturels grâce à des programmes d'aides et de subventions provinciales. Elle favorise et soutient également le développement des pratiques socio-éducatives et sportives en province Sud. L'action menée dans ce secteur contribue ainsi à la construction du vivre ensemble. Elle participe à la définition et à la mise en œuvre d'une politique ambitieuse en faveur de la jeunesse.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1616",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Adjoint au chef de service",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.48.71",
+    "email": "karim.derras@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Master",
+    "competencyRequired": [
+      "Formation niveau Master dans le domaine de l'ingénierie culturelle, patrimoniale ou de gestion de projets",
+      "Connaissances du contexte institutionnel de la Nouvelle-Calédonie, des partenaires et notamment du mouvement associatif calédonien",
+      "Connaissances du fonctionnement administratif et en techniques de projet",
+      "Connaissances des réseaux institutionnels et associatifs locaux, nationaux et régionaux"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience significative dans le domaine des patrimoines historiques et des sites naturels aménagés. Expérience en gestion de projets.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Culture",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction de la culture de la jeunesse et des sports",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Culture",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable administratif"
+  },
+  "responsibilities": [
+    "Participer à la mise en œuvre des politiques culturelles, patrimoniales et d'aménagement des espaces, des sites et des itinéraires naturels",
+    "Favoriser le développement des activités économiques et touristiques des sites patrimoniaux en collaboration avec le service du tourisme",
+    "Mettre en œuvre la politique en faveur des patrimoines culturels de la province Sud et de son plan d'actions au travers des missions d'expertise, de conseil et d'étude",
+    "Elaborer conjointement avec le chef du pôle une feuille de route stratégique et opérationnelle des missions du pôle",
+    "Accompagner les chefs de projet dans le cadre de la mise en œuvre opérationnelle de la feuille de route",
+    "Développer une politique de partenariats avec l'ensemble des acteurs environnants, notamment scientifiques, culturels et du secteur du tourisme",
+    "Concevoir et coordonner des projets de valorisation de sites patrimoniaux",
+    "Mettre en œuvre des réflexions sur le modèle économique et touristique à développer dans le cadre de la découverte du patrimoine naturel et culturel",
+    "Participer, en lien avec le service pôle développement humain, à la mise en œuvre d'évènementiels et de dispositifs comme le Mois du Patrimoine et Raconte-moi une œuvre",
+    "Suivre les projets transversaux au sein de la direction avec le pôle développement humain et l'espace culturel de Déva",
+    "Apporter une expertise sur la gestion de structures culturelles et sur les projets muséographiques des partenaires associatifs",
+    "Assurer la veille documentaire, la conservation et la valorisation des collections historiques de la province Sud",
+    "Assurer le suivi administratif du pôle via des outils métiers comme Salsa et Fusion",
+    "Rédiger des documents administratifs tels que notes, courriers et conventions",
+    "Assurer la gestion et le suivi budgétaire avec le chef du pôle",
+    "Assurer l'intérim du chef du pôle"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Traduire les orientations de la direction en projet de service",
+    "Organiser et mobiliser les compétences",
+    "Maîtriser la conduite de projets transversaux",
+    "Planifier, organiser et coordonner",
+    "Evaluer l'activité",
+    "Rendre compte",
+    "Communiquer en interne et externe",
+    "Sens du service public",
+    "Sens de l'organisation",
+    "Autonomie",
+    "Prise d'initiatives",
+    "Force de propositions",
+    "Aisance orale",
+    "Disponibilité",
+    "Mobilité",
+    "Qualités rédactionnelles, d'analyse et de synthèse",
+    "Capacité à fédérer les acteurs",
+    "Capacité d'organisation",
+    "Sens du travail en équipe"
+  ],
+  "specialCommitments": null,
+  "title": "Adjoint au chef de service",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-20",
+  "workHours": "Possibilité de travail en soirée, le week-end et les jours fériés",
+  "champs_open_data": 7,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "administration-generale"
+}
