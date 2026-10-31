@@ -1,0 +1,158 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Orthophoniste",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Centre Mère Enfant",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du Centre Mère Enfant",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Enseignants du secteur",
+      "Praticiens des centres médico-sociaux",
+      "Antenne décentralisée du centre hospitalier spécialisé"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "La personne retenue sera amenée à effectuer des missions sur un secteur étendu : communes de la Côte Ouest"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952060.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La DASSPS comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1635",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Orthophoniste (Koumac)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "http://www.province-nord.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "http://www.province-nord.nc",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Koumac",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Koumac",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.71.00",
+    "email": "dassps-srh@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Capacité en orthophonie",
+    "competencyRequired": [
+      "Connaissance de la réglementation relative à la protection sociale et des professions sanitaires",
+      "Connaissance des réalités locales"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 10 ans.",
+  "employerOverview": "La DASSPS comprend une direction, des services centraux et décentralisés regroupés en quatre (4) pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre Mère Enfant",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "http://www.province-nord.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Koumac",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Koumac",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98850"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "orthophoniste"
+  },
+  "responsibilities": [
+    "Assurer la prévention, le diagnostic et le traitement des troubles du langage (oral et écrit) et de la communication, auprès des jeunes enfants (0-8/10 ans) des communes de la côte Est",
+    "Les bilans orthophoniques (adultes et enfants)",
+    "L'éducation précoce et la rééducation des divers handicaps de jeune enfant",
+    "L'élaboration de projets thérapeutiques",
+    "La rééducation des troubles de la phonation et langage (adultes et enfants)",
+    "La rééducation du langage écrit",
+    "L'évaluation de l'évolution des enfants pris en charge",
+    "La formation des professionnels de santé des centres médico-sociaux œuvrant dans le domaine de la PMI",
+    "La mise en place de prévention précoce en orthophonie"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des logiciels de bureautique (Excel et Word)",
+    "Aptitude au travail interdisciplinaire en particulier en liaison avec les enseignants du secteur et les praticiens des centres médico-sociaux et de l'antenne décentralisée du centre hospitalier spécialisé",
+    "Qualités relationnelles",
+    "Esprit d'initiative et disponibilité"
+  ],
+  "specialCommitments": "Missions sur un secteur étendu : communes de la Côte Ouest",
+  "title": "Orthophoniste (Koumac)",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-20",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.982,
+  "dossier": "sante-publique-soins"
+}
