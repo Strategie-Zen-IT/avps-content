@@ -1,0 +1,149 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 1-Sans diplôme",
+    "direction": "VILLE DU MONT-DORE",
+    "uniteOrganisationnelle": "Service des affaires générales",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service des affaires générales",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Discrétion professionnelle, Port d'une tenue spécifique liée aux fonctions, Présence lors des événements prévus à l'Hôtel de Ville, Manipulation de détergents et de déchets courants, Tri et évacuation des petits déchets, Port de charge inférieur à 15kg"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi",
+        "value": "Agent contractuel de droit public"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953314.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité du chef de service des affaires générales, l'agent retenu exercera les fonctions d'agent d'entretien. Il effectue l'entretien des locaux de l'Hôtel de Ville et la mise en place du matériel des salles de réunions.",
+  "disambiguatingDescription": "Recrutement d'un agent d'entretien pour l'Hôtel de Ville du Mont-Dore.",
+  "identifier": "26-1628",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Agent d'entretien",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "43.72.13",
+    "email": "eric.kem-seng@ville-montdore.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Bonne connaissance en matière de technique de nettoyage et d'hygiène"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "TEMPORARY",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Ville du Mont-Dore",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle souhaitée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de Ville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Mont-Dore",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98809"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Propreté et gestion des déchets"
+  ],
+  "physicalRequirement": "Port de charge inférieur à 15kg, très bonne condition physique",
+  "qualifications": "Permis B exigé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Agent d'entretien des locaux"
+  },
+  "responsibilities": [
+    "Mise en place et préparation matérielle des salles de réunions",
+    "Entretien des locaux de l'Hôtel de Ville et ses abords (notamment, nettoyage des surfaces vitrées de plain-pied (vitres, cloisons, miroirs, ...), lavage les sols, murs et/ou mobiliers, balayage)",
+    "Nettoyage des poussières des surfaces, des détritus, trier et vider les corbeilles",
+    "Évacuation des déchets courants (ménagers) et sortir les poubelles et bacs collectifs pour enlèvements",
+    "Respect des protocoles d'hygiène d'environnement sensible (alimentaire, chimique et sanitaire)",
+    "Gestion du stock de produits d'entretien, (identification des besoins en approvisionnement et établissement des commandes)",
+    "Approvisionnement des distributeurs d'essuie-mains, de savon, de papier toilettes",
+    "Mise à disposition de boissons ou mets pour les réunions",
+    "Préparation du matériel, des produits nettoyants et le balisage les zones glissantes",
+    "Nettoyage et entretien du matériel de nettoyage"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Sens du travail en équipe obligatoire",
+    "Respect impératif des horaires et de la hiérarchie",
+    "Procédures de nettoyage et de désinfection",
+    "Règles de sécurité",
+    "Règles d'hygiène et de propreté",
+    "Qualités relationnelles, patience et disponibilité exigées",
+    "Discrétion professionnelle et tenue convenable",
+    "Autonomie et rigueur",
+    "Sens du service public et de la discipline indispensable",
+    "Aptitude à travailler en flux tendu",
+    "Esprit d'initiative et d'organisation",
+    "Respect des consignes et des modes d'intervention"
+  ],
+  "specialCommitments": "Présence lors des événements prévus à l'Hôtel de Ville",
+  "title": "Agent d'entretien",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-20",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "VILLE-DU-MONT-DORE",
+  "collectivite": "Ville du Mont-Dore",
+  "direction": "VILLE DU MONT-DORE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Entretien, surveillance et logistique",
+  "famille_source": "respnc",
+  "famille_score": 0.998,
+  "dossier": "entretien-surveillance-et-logistique"
+}
