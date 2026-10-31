@@ -1,0 +1,168 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "UNIVERSITE DE NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": "Pôle applications et plateformes Web",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Direction du Numérique et des Systèmes d'Information",
+      "Direction des Ressources Humaines"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Référens BAP E",
+        "value": "Ingénieur en ingénierie logicielle (fiche E2C45)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Possibilités de travail en horaires décalés",
+        "value": "de façon programmée, dans le respect de la charte du temps de travail"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955306.PDF"
+      }
+    ]
+  },
+  "alternateName": "Ingénieur d'études et développement senior",
+  "description": "L'Université de la Nouvelle-Calédonie recrute un ingénieur d'études et développement senior pour renforcer son pôle applications et plateformes Web au sein de la Direction du Numérique et des Systèmes d'Information. Le candidat contribuera au développement, à la maintenance et à l'évolution des applications de gestion de l'établissement, principalement en environnement Java.",
+  "disambiguatingDescription": "Poste d'ingénieur d'études et développement senior en environnement Java au sein de la DNSI de l'Université de la Nouvelle-Calédonie.",
+  "identifier": "26-1608",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Un ou une Ingénieur d'études et développement senior (H/F)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Université de Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Université de la Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Campus de Nouville",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "29.00.20",
+    "email": "recrutement@unc.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3",
+    "competencyRequired": [
+      "Maîtrise de Java et pratique d'un framework tel que Spring ou Spring Boot",
+      "Pratique de Git et connaissance des principes d'intégration et de déploiement continus",
+      "Pratique de SQL et des bases de données relationnelles",
+      "Connaissance de Vaadin, GitLab CI/CD, Oracle, PostgreSQL, Kubernetes ou de l'écosystème Cocktail"
+    ]
+  },
+  "eligibilityToWorkRequirement": ".",
+  "employerOverview": "L'Université de la Nouvelle-Calédonie est un établissement pluridisciplinaire qui répond aux besoins de formation et de recherche propres à la Nouvelle-Calédonie. Elle compte 250 personnels et 3 800 étudiants répartis sur deux campus.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Pôle applications et plateformes Web",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Expérience confirmée en développement logiciel, notamment en développement et maintenance d'applications Java permettant une prise d'autonomie rapide, ainsi qu'une expérience de la reprise et de l'évolution d'applications ou de code existants.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Université de Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Éducation",
+  "jobBenefits": "Possibilité de télétravailler jusqu'à 1,5 jours par semaine sous certaines conditions.",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Campus de Nouville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Campus de Nouville",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-15",
+  "occupationalCategory": [
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Architecte logiciel"
+  },
+  "responsibilities": [
+    "Concevoir, développer, maintenir et faire évoluer des applications Web en environnement Java / Spring Boot, notamment à partir d'applications existantes",
+    "Contribuer aux choix de conception, à la qualité du code, aux revues de code et à l'amélioration de la maintenabilité",
+    "Participer à l'évolution de l'usine GitLab CI/CD : builds, tests, packaging et déploiements",
+    "Développer et maintenir API, interfaces, traitements automatisés et échanges de données entre applications",
+    "Intervenir sur les bases de données et traitements SQL associés",
+    "Participer aux tests, montées de version et mises en production, et diagnostiquer les incidents à partir du code, des logs et des données",
+    "Contribuer à la documentation, à la fiabilisation des applications et à l'amélioration continue des pratiques de développement",
+    "Accompagner techniquement les autres membres de l'équipe et contribuer au partage des connaissances",
+    "Échanger avec les services utilisateurs afin de comprendre leurs besoins et de proposer des solutions adaptées et maintenables",
+    "Utiliser, lorsque pertinent, les outils d'intelligence artificielle pour faciliter le développement, les tests, la documentation ou le diagnostic"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Autonomie",
+    "Rigueur",
+    "Capacité d'analyse",
+    "Résolution de problèmes techniques",
+    "Esprit d'équipe",
+    "Partage de connaissances",
+    "Curiosité technique",
+    "Sens de la communication",
+    "Écoute"
+  ],
+  "specialCommitments": "Possibilités de travail en horaires décalés",
+  "title": "Un ou une Ingénieur d'études et développement senior (H/F)",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-20",
+  "workHours": "Possibilités de travail en horaires décalés",
+  "champs_open_data": 10,
+  "employeur_sigle": "UNC",
+  "collectivite": "Université de Nouvelle-Calédonie",
+  "direction": "UNIVERSITE DE NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Système d'information",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "systeme-d-information"
+}
