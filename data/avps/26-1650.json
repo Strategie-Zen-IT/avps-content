@@ -1,0 +1,174 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Emploi fonctionnel",
+    "direction": "AGENCE RURALE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 10,
+    "superieurHierarchique": "Secrétaire général du gouvernement",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Gouvernement de la Nouvelle-Calédonie",
+      "Provinces",
+      "Congrès de la Nouvelle-Calédonie",
+      "Autorité de la concurrence",
+      "Organisations professionnelles agricoles",
+      "Chambre d'agriculture et de la pêche",
+      "Organismes de recherche et de formation",
+      "Partenaires régionaux",
+      "État",
+      "Fonds européens"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Immédiatement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957714.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'Agence rurale, créée par délibération du Congrès n°316 du 14 juin 2018 en reprenant les compétences de l'ERPA et de l'APICAN, est dotée de missions de régulation des prix agricoles, de prévention et d'indemnisation des dommages agricoles, et de réalisation d'études pour le secteur. Dans un contexte d'évolutions institutionnelles et budgétaires, le directeur devra piloter la structure, proposer des réformes du système agricole calédonien et assurer la gestion opérationnelle, financière et humaine de l'établissement.",
+  "disambiguatingDescription": "Poste de direction générale au sein de l'établissement public Agence Rurale en Nouvelle-Calédonie.",
+  "identifier": "26-1650",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Directeur",
+  "owner": {
+    "@type": "Organization",
+    "name": "Agence rurale"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "leon.wamytan@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Formation supérieure de niveau ingénieur ou formation universitaire de niveau BAC + 5, de préférence en agronomie ou économie",
+      "Connaissance de la gestion comptable et financière applicable aux établissements publics",
+      "Expérience de la gestion des ressources humaines",
+      "Connaissance de l'organisation politique et administrative de la Nouvelle-Calédonie et de son environnement régional",
+      "Solides connaissances du secteur économique calédonien, de sa réglementation, et de ses évolutions structurelles"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "L'Agence rurale a été créée par délibération du Congrès n°316 du 14 juin 2018. L'Agence, en reprenant les compétences élargies de l'ERPA et de l'APICAN, s'est vue dotée de grandes missions de régulation, de prévention des dommages et d'accompagnement du secteur agricole.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Agence Rurale",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle avérée dans le domaine agricole et de l'économie. Expérience réussie d'au moins 5 ans dans l'encadrement d'une équipe de 10 agents ou plus.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Agence rurale"
+  },
+  "incentiveCompensation": null,
+  "industry": "Agriculture et mer",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Agence Rurale",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Agriculture et mer",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Directeur"
+  },
+  "responsibilities": [
+    "Suivre attentivement les discussions sur l'évolution du statut et des missions de l'Agence et en anticiper les incidences sur l'organisation et les financements",
+    "Être force de proposition auprès du gouvernement, des provinces et du congrès dans la conception et la conduite d'une réforme d'ensemble du système agricole calédonien",
+    "Contribuer à la définition d'une stratégie agricole de long terme visant le renforcement de l'autonomie alimentaire, la structuration des filières locales, l'installation et le renouvellement des générations d'exploitants",
+    "Recalibrer l'équipe et adapter l'organisation pour que l'Agence puisse mener l'ensemble de ses missions de façon optimale",
+    "Organiser des contrôles de terrain plus fréquents pour s'assurer de la bonne destination des fonds versés et développer l'évaluation de l'efficacité et de l'impact des dispositifs d'aide",
+    "Poursuivre l'harmonisation des pratiques dans le cadre de la mise en place du système de management de la qualité",
+    "Proposer des réformes de dispositifs et de nouvelles actions dans un contexte de transition agroécologique de l'agriculture calédonienne",
+    "Poursuivre les démarches de transition numérique de la gestion, du pilotage et de la régulation de l'agriculture calédonienne",
+    "Œuvrer à la mise en place de l'observatoire des prix et des marges avec les partenaires concernés",
+    "Collaborer activement aux travaux sur la transition alimentaire conduits par le gouvernement",
+    "Collaborer aux travaux de réforme du système assurantiel agricole et de gestion des risques agricoles",
+    "Développer les partenariats avec les organisations professionnelles agricoles, la chambre d'agriculture et de la pêche, les organismes de recherche et de formation et rechercher activement des cofinancements",
+    "Garantir une gestion rigoureuse et transparente des ressources de l'Agence et rendre compte régulièrement aux tutelles",
+    "Mettre en œuvre la politique définie par le conseil d'administration dans la gestion de l'Agence",
+    "Préparer le projet d'établissement, le budget et le compte administratif",
+    "Préparer et exécuter les délibérations du conseil d'administration",
+    "Assurer la gestion des personnels placés sous son autorité et les nommer à l'exception du directeur adjoint",
+    "Appliquer les décisions prises par le gouvernement en matière de commerce extérieur",
+    "Rendre compte annuellement au conseil d'administration de l'activité de l'Agence dans un rapport transmis au gouvernement et au congrès",
+    "Représenter l'Agence en justice et dans tous les actes de la vie de l'établissement sur habilitation ou délégation"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité rédactionnelle",
+    "Capacité d'adaptation, d'organisation et d'anticipation",
+    "Conduite et animation de réunions",
+    "Force de propositions et d'analyses",
+    "Capacité managériale",
+    "Sens du relationnel et du travail en équipe et avec des partenaires",
+    "Sens du service public",
+    "Facilité d'expression en public",
+    "Esprit d'initiative, curiosité, implication",
+    "Grande disponibilité",
+    "Discrétion"
+  ],
+  "specialCommitments": null,
+  "title": "Directeur",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-20",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "ARNC",
+  "collectivite": "Agence rurale",
+  "direction": "AGENCE RURALE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Pilotage",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "pilotage"
+}
