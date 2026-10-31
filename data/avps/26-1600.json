@@ -1,0 +1,170 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché / rédacteur",
+    "direction": "AGENCE DE DEVELOPPEMENT DE LA CULTURE KANAKE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur",
+    "placeOrganigramme": "Sous l'autorité directe du directeur",
+    "relationsFonctionnelles": [
+      "Secrétaire général",
+      "Autres services de l'établissement",
+      "Partenaires institutionnels",
+      "Autorités de tutelle"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Poste basé au Centre Culturel Tjibaou, à Nouméa. Participation à la vie culturelle et événementielle de l'établissement selon les besoins. Très grande disponibilité en fonction des besoins de service."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953010.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'ADCK-CCT, établissement public dédié à la valorisation de la culture kanak en Nouvelle-Calédonie, est implanté au sein du Centre Culturel Tjibaou, un site architectural emblématique conçu par l'architecte Renzo Piano. Avec un budget avoisinant 1 milliard de CFP et une quarantaine d'agents, l'établissement a pour missions la préservation et la promotion du patrimoine culturel kanak, le soutien à la création artistique, le développement des échanges culturels régionaux et internationaux, ainsi que la contribution à la vie culturelle locale. Dans un contexte de réorganisation interne, le/la titulaire du poste devra assurer la coordination du service administratif et financier tout en pilotant le système de management de la qualité (SMQ). Il/Elle contribuera à la bonne réalisation des projets culturels, à la gestion rigoureuse des ressources budgétaires, et à l'optimisation des procédures administratives, conformément au cadre réglementaire de la comptabilité publique M52.",
+  "disambiguatingDescription": "Chef de service administratif et financier au sein de l'ADCK-CCT, pilotant le système de management de la qualité et coordonnant les activités financières et administratives.",
+  "identifier": "26-1600",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de service",
+  "owner": {
+    "@type": "Organization",
+    "name": "Agence de développement de la culture kanake"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "41.45.41",
+    "email": "e.hnacipan@adck.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+2 à Bac+4/5",
+    "competencyRequired": [
+      "Formation de niveau bac+2 à bac 4/5 en administration publique, finance, comptabilité, gestion ou tout autre domaine pertinent",
+      "Excellente connaissance des règles de la comptabilité publique (M52) et de la réglementation applicable aux établissements publics (notamment en matière de passation de marchés publics) obligatoire",
+      "Maîtrise des outils bureautiques et de logiciels de gestion financière et administrative (Astre surfi, Suite google et Microsoft, Immonet, Docuware...)",
+      "La connaissance des démarches de management de la qualité et des normes associées serait un atout",
+      "Qualité rédactionnelle avérée : capacité à rédiger des notes, rapports, comptes rendus, documents budgétaires et administratifs, en veillant à la clarté, la précision et l'adaptation aux destinataires"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "L'ADCK-CCT est un établissement public dédié à la valorisation de la culture kanak en Nouvelle-Calédonie, implanté au sein du Centre Culturel Tjibaou.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "ADCK-CCT",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Expérience professionnelle significative en gestion administrative et financière acceptée en équivalence de diplôme.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Agence de développement de la culture kanake"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre Culturel Tjibaou",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue des Accords de Matignon",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Finances et budget",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "responsable financier"
+  },
+  "responsibilities": [
+    "Pilote et coordonne l'ensemble des activités financières et administratives de l'établissement (préparation, exécution et suivi du budget, comptabilité M52, contrôle de gestion, suivi des procédures administratives, contrôle interne et conformité)",
+    "Met en œuvre et assure la continuité du système de management de la qualité (SMQ) : définition, suivi et amélioration des processus internes, respect des normes et procédures qualité",
+    "Accompagne les projets de l'établissement, notamment en termes de planification, d'analyse financière et de contrôle budgétaire, pour garantir la conformité des actions avec les objectifs stratégiques",
+    "Assiste le Secrétaire général dans la prise de décision et la définition des orientations stratégiques en matière de gestion administrative et financière",
+    "Assure la suppléance des agents du service administratif et financier lorsque nécessaire",
+    "Propose et met en place des outils de suivi et de reporting afin de garantir la visibilité et l'efficacité de la gestion financière et administrative",
+    "Encadre et coordonne l'équipe administrative et financière, en veillant au développement des compétences, à la polyvalence des agents et à la qualité de la production",
+    "Conseille et accompagne les autres services dans la gestion administrative de leurs projets (préparation des dossiers, suivi des engagements, procédures de marchés publics, etc.)",
+    "Participe à l'élaboration et au pilotage des indicateurs de performance et de qualité, et veille à la mise en œuvre des plans d'action afférents",
+    "Participation à l'élaboration, suivi et exécution du budget de l'établissement (M52), contrôle de la régularité des opérations de dépenses et de recettes",
+    "Supervision des opérations comptables : facturation, paiement, recouvrement, rapprochements bancaires, suivi des engagements, etc.",
+    "Engagement, liquidation et titrage des subventions",
+    "Pilotage du système de management de la qualité (SMQ) : audit interne, animation des plans d'action d'amélioration continue, gestion documentaire",
+    "Coordination et harmonisation des procédures administratives : gestion du courrier, planification et organisation des réunions, archivage, suivi des contrats et conventions",
+    "Production de tableaux de bord et de bilans (financiers, administratifs, qualité) destinés à la Direction et aux partenaires institutionnels",
+    "Contribution active à l'optimisation des processus internes (automatisation de tâches, coordination inter-services, etc.)",
+    "Veille à la qualité des documents produits, qu'ils soient destinés à la direction, aux partenaires ou aux autorités de tutelle"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité à élaborer et à piloter un budget public (préparation, suivi, analyse) et à superviser des opérations comptables variées",
+    "Aptitude à coordonner et à animer une équipe pluridisciplinaire, à conduire le changement et à fédérer autour de projets transversaux",
+    "Capacité à mettre en place, suivre et améliorer un système de management de la qualité, ainsi qu'à déployer des indicateurs de performance",
+    "Maîtrise des techniques de communication écrite et orale pour piloter des réunions, réaliser des présentations et rédiger des documents administratifs et financiers de qualité",
+    "Sens de l'organisation",
+    "Rigueur",
+    "Aptitude à gérer les priorités dans un environnement en constante évolution",
+    "Esprit d'initiative",
+    "Proactivité",
+    "Force de proposition pour optimiser les processus administratifs et financiers",
+    "Qualités relationnelles développées",
+    "Facilité à travailler en équipe",
+    "Aptitude à interagir avec des interlocuteurs variés (internes et externes)",
+    "Discrétion",
+    "Confidentialité",
+    "Sens des responsabilités"
+  ],
+  "specialCommitments": null,
+  "title": "Chef de service",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-20",
+  "workHours": "Très grande disponibilité en fonction des besoins de service",
+  "champs_open_data": 9,
+  "employeur_sigle": "ADCK",
+  "collectivite": "Agence de développement de la culture kanake",
+  "direction": "AGENCE DE DEVELOPPEMENT DE LA CULTURE KANAKE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Finances et budget",
+  "famille_source": "respnc",
+  "famille_score": 0.934,
+  "dossier": "finances-et-budget"
+}
