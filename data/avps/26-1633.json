@@ -1,0 +1,201 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Service méthodes et ingénierie",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service méthodes et ingénierie",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Services techniques de la DTB",
+      "Equipes maintenance",
+      "Equipe biomédicale",
+      "Equipe sécurité"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Janvier 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953308.PDF"
+      }
+    ]
+  },
+  "alternateName": "Technicien(ne) Méthodes",
+  "description": "En tant que technicien(ne) Méthodes au sein de la Direction Technique et du Biomédical, vous jouez un rôle clé dans l'optimisation des outils et des processus de la DTB. Vous assurez le paramétrage, la configuration et l'administration de la GMAO, ainsi que la rédaction des documents qualité transversaux à la direction. Vos compétences en DAO vous permettent de maintenir à jour la base de plans et de schémas, en garantissant leur exploitabilité pour les équipes de la direction technique. Interface entre l'exploitation, les projets et la documentation, vous contribuez activement à l'amélioration continue des processus et des outils, tout en accompagnant les utilisateurs dans leur maîtrise des systèmes.",
+  "disambiguatingDescription": "Technicien méthode au sein du Service méthodes et ingénierie de la Direction technique et du biomédical du CHT Gaston Bourret.",
+  "identifier": "26-1633",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Technicien méthode",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.80.00 poste 8775",
+    "email": "fabienne.albert@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+2",
+    "competencyRequired": [
+      "Diplôme de niveau 5 dans un des domaines techniques du bâtiment ou de la maintenance",
+      "BTS Maintenance des Systèmes",
+      "BTS Assistance Technique d'Ingénieur",
+      "BTS Management économique de la Construction",
+      "Connaissance de base des principes de maintenance préventive et corrective",
+      "Connaissance des méthodes d'organisation et de suivi de l'activité maintenance",
+      "Notions dans la gestion et de la structuration des bases de données"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
+  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret de Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service méthodes et ingénierie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience de l'utilisation et de l'administration d'un logiciel de GMAO. Expérience dans la rédaction de procédures, modes opératoires et documents qualité.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "incentiveCompensation": "Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (Grille salariale du personnel technique)",
+  "industry": "Santé publique équipements de santé",
+  "jobBenefits": "Cadre de travail stimulant au sein d'une équipe investie et dynamique avec des interactions régulières entre métiers techniques et support. Poste évolutif.",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements",
+    "Patrimoine bâti"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Technicien méthode"
+  },
+  "responsibilities": [
+    "Assurer l'administration fonctionnelle de la GMAO de la Direction Technique et du Biomédical",
+    "Accompagner les utilisateurs dans l'exploitation de l'outil et contribuer à la valorisation des données nécessaires au pilotage de l'activité",
+    "Création et gestion des comptes utilisateurs et des droits d'accès",
+    "Configuration des indicateurs, des workflows et des champs spécifiques selon les besoins métiers",
+    "Extraction des données de maintenance pour produire des reportings sous Excel, Power BI, etc.",
+    "Mise en forme et analyse du niveau des données pour soutenir la prise de décision",
+    "Accompagnement des services techniques de la DTB dans l'intégration des plans de maintenance préventive au sein de la GMAO",
+    "Formation des équipes aux fonctionnalités de l'outil",
+    "Coordination avec les équipes maintenance, biomédicale et sécurité pour l'intégration des données dans la GMAO",
+    "Participation à la migration vers un nouvel outil CMAO (tests, recettes, formation)",
+    "Participer au développement et à l'amélioration continue du système documentaire de la Direction Technique et du Biomédical",
+    "Veiller à la cohérence des procédures internes et contribuer à la diffusion des bonnes pratiques au sein des équipes",
+    "Rédaction, révision et mise à jour des procédures internes de la DTB",
+    "Réalisation et animation des Retours d'Expérience (RETEX) pour les incidents techniques",
+    "Sensibilisation des équipes à la démarche qualité, accompagnement au déploiement des procédures et des bonnes pratiques, diffusion et explication des procédures et modes opératoires",
+    "Contribuer au maintien à jour de la documentation graphique et participer à la production des plans nécessaires aux activités de la DTB en appui au dessinateur",
+    "Réalisation de plans fonctionnels pour les besoins de la DTB et mise à jour de la base de plans fonctionnels",
+    "Participation à la campagne annuelle de visite des bureaux (recueil des données d'occupation) et gestion de la traçabilité des affectations des bureaux",
+    "Apporter un appui à l'ingénieur méthodes dans le cadre des études et projets portés par la Direction Technique et du Biomédical",
+    "Participation à la création ou mise à jour des guides d'utilisation (CMAO, DAO)",
+    "Participer à la conception d'outils numériques destinés à faciliter le suivi des activités, la collecte des informations et l'exploitation des données au sein de la DTB",
+    "Concevoir et maintenir des formulaires dématérialisés répondant aux besoins des différents services de la DTB et développer des applications simples sous la suite Microsoft 365",
+    "Réaliser et paramétrer des outils de suivi sous Excel (tableaux de bord, formulaires, bases de données, automatisations simples, indicateurs de pilotage)",
+    "Proposer et mettre en œuvre des solutions numériques visant à simplifier les processus internes et à améliorer l'efficacité opérationnelle des équipes"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité à analyser, structurer et exploiter des données techniques",
+    "Capacité à former et accompagner les utilisateurs",
+    "Capacité à mener des groupes de travail",
+    "Maîtrise des techniques de rédaction professionnelle",
+    "Bonne maîtrise d'AutoCad",
+    "Bonne maîtrise du Pack Office et des outils Microsoft 365",
+    "Excellente maîtrise d'Excel"
+  ],
+  "specialCommitments": null,
+  "title": "Technicien méthode",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-20",
+  "workHours": "Travail en horaires de journée",
+  "champs_open_data": 13,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Laboratoire",
+  "famille_source": "respnc",
+  "famille_score": 0.784,
+  "dossier": "laboratoire"
+}
