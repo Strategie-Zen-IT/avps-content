@@ -1,0 +1,158 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien",
+    "direction": "DES SYSTEMES D'INFORMATION",
+    "uniteOrganisationnelle": "centre de services",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du centre de services",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "centre de services",
+      "service ingénierie maintenance et production",
+      "service études et projets",
+      "cellule de la stratégie",
+      "pôle administratif et budgétaire"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "pour le recrutement sur titre : au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953278.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La Direction des Systèmes d’Information (DSI) est chargée de la gestion et de l’optimisation du système d’information de la Mairie et de ses établissements publics. Elle fixe et valide les grandes évolutions de l’informatique et de la collectivité, et anticipe les évolutions technologiques nécessaires. Enfin elle évalue, préconise les investissements et contrôle l’efficacité et la maîtrise des risques liées au système d’information.",
+  "disambiguatingDescription": "Chargé de support et services des systèmes d’information au sein du centre de services de la DSI de la Mairie de Nouméa.",
+  "identifier": "26-1620",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé de support et services des systèmes d'information",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Hôtel de ville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.07.36",
+    "email": "mairie.recrutement@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+2",
+    "competencyRequired": [
+      "Titulaire d’un diplôme de niveau 5 (BAC+2) minimum dans le domaine de l'informatique",
+      "Connaissance des bases en Téléphonie IP",
+      "Maîtriser la suite Google Workspace (Gmail, Calendar, Drive, Chat, Meet, Docs, Sheets, Slides) et les systèmes d'exploitation Windows client 10, des logiciels de base Bureautique (MS Office, Messagerie)",
+      "Avoir utilisé des outils de supervision des systèmes"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 10 ans",
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Mairie de Nouméa",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience dans le support informatique, la gestion des incidents de niveau 1 et la relation utilisateur.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de ville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé de support et services des systèmes d’information"
+  },
+  "responsibilities": [
+    "Surveiller et maintenir en condition opérationnelle les équipements informatiques physiques et logiques du centre de production, dans le cadre des normes, méthodes d'exploitation et de sécurité",
+    "Assurer l’exploitation et la maintenance des équipements du SI",
+    "Aider et accompagner les utilisateurs",
+    "Gérer des incidents d'exploitation",
+    "Installer, gérer et suivre les équipements informatiques",
+    "Comprendre et analyser une demande d’un client et s’assurer de son traitement de bout en bout",
+    "Pallier ponctuellement à l'absence de ressources au sein de l'équipe bureautique qui assure les dépannages informatiques sur site"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Assurer une hotline téléphonique et renseigner le ticket via un outil helpdesk",
+    "Analyser, diagnostiquer et traiter les incidents de niveau 1 par téléphone ou par télémaintenance",
+    "Qualifier les nouveaux besoins informatiques",
+    "Connaître et maîtriser les matériels informatiques de type bureautique (poste de travail, imprimante, tablettes, autres périphériques, etc.)",
+    "Coordonner la mise en œuvre de dispositifs informatiques lors de certains évènements",
+    "Rédiger des supports utilisateurs et des communications à destination des utilisateurs",
+    "Appliquer les règles de sécurité informatique et les consignes d'exploitation",
+    "Qualités relationnelles et rédactionnelles",
+    "Esprit d’analyse, résistance au stress et un sens du travail en équipe"
+  ],
+  "specialCommitments": null,
+  "title": "Chargé de support et services des systèmes d'information",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-20",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "MAIRIE-DE-NOUMEA",
+  "collectivite": "Mairie de Nouméa",
+  "direction": "DES SYSTEMES D'INFORMATION",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Ressources Humaines",
+  "famille_source": "respnc",
+  "famille_score": 0.818,
+  "dossier": "ressources-humaines"
+}
