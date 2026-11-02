@@ -18,7 +18,7 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Cadre d'emploi",
+        "name": "Cadre d'emploi / Domaine",
         "value": "Ingénieur 1er grade domaine de l'équipement"
       },
       {
@@ -30,7 +30,7 @@
   },
   "alternateName": null,
   "description": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes et de transport scolaire du secondaire sur le territoire du Grand Nouméa.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Poste de Data Ingénieur au sein du Syndicat Mixte des Transports Urbains du Grand Nouméa.",
   "identifier": "26-1529",
   "image": null,
   "mainEntityOfPage": null,
@@ -146,9 +146,9 @@
     "Assister les utilisateurs dans l'exploitation des outils métiers",
     "Organiser et animer des actions de formation",
     "Participer à la veille technologique et réglementaire",
-    "Etre force de proposition dans l'amélioration des outils et processus"
+    "Être force de proposition dans l'amélioration des outils et processus"
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
