@@ -8,15 +8,20 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Régisseur principal",
-      "Mandataires",
+      "Réseau Tanéo",
       "Magasins dépositaires",
-      "Trésorerie"
+      "Mandataires"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
         "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Modification de la date initialement prévue",
+        "value": "06/11/2026"
       },
       {
         "@type": "PropertyValue",
@@ -53,7 +58,7 @@
   "datePosted": "2026-10-16",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": null,
+    "credentialCategory": "Rédacteur / Attaché",
     "competencyRequired": [
       "Connaissance de la comptabilité publique exigée",
       "Connaissance du cadre réglementaire d'une régie",
@@ -80,7 +85,7 @@
     "url": "http://www.smtu.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Service public",
+  "industry": "Transports terrestres et maritimes",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": false,
@@ -139,7 +144,7 @@
     "Réactivité",
     "Probité"
   ],
-  "specialCommitments": "Assure les fonctions de régisseur principal en l'absence de ce dernier",
+  "specialCommitments": null,
   "title": "Régisseur Adjoint",
   "totalJobOpenings": 4,
   "validThrough": "2026-11-06",
