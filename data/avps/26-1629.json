@@ -1,0 +1,158 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif",
+    "direction": "SECRETARIAT GENERAL",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaire général",
+    "placeOrganigramme": "Placé sous l'autorité du secrétaire général",
+    "relationsFonctionnelles": [
+      "Secrétariat général",
+      "Secrétariat du maire"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Disponibilité, Polyvalence, Déplacements occasionnels"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957368.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La secrétaire de direction est le (la) collaborateur (trice) du secrétaire général. Il (elle) organise et coordonne l'accueil, l'information, la communication, la gestion, le suivi de dossiers et le classement.",
+  "disambiguatingDescription": "Secrétaire de direction placé sous l'autorité du secrétaire général pour assurer et coordonner les activités liées à la gestion administrative du secrétariat général et du secrétariat du maire.",
+  "identifier": "26-1629",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Secrétaire de Direction",
+  "owner": {
+    "@type": "Organization",
+    "name": "Commune de Lifou"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Mairie de Lifou",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "We",
+      "addressLocality": "Lifou",
+      "addressRegion": "Province des îles Loyauté",
+      "addressCountry": "NC",
+      "province": "province des îles Loyauté"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "79.89.80",
+    "email": "m-wazizi@mairie-lifou.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Adjoint administratif",
+    "competencyRequired": [
+      "Bonne connaissance du fonctionnement de la collectivité et du circuit administratif",
+      "Maîtrise des techniques du secrétariat et de bureautique",
+      "Maîtrise de l'orthographe",
+      "Technique de communication écrite et oral",
+      "Secrétariat et rédaction (prises de notes, rapidité, techniques de rédaction)"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs : au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Commune de Lifou",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Lifou"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "We-Lifou",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "We",
+      "addressLocality": "Lifou",
+      "addressRegion": "Province des îles Loyauté",
+      "addressCountry": "NC",
+      "province": "province des îles Loyauté",
+      "postalCode": "98820"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Secrétaire de Direction"
+  },
+  "responsibilities": [
+    "Accueil téléphonique et physique",
+    "Gestion de l'agenda, organisation des rendez-vous, réunions et déplacements",
+    "Saisie, rédaction et diffusion des notes, comptes-rendus et correspondances",
+    "Traitement de courrier : réception, enregistrement, diffusion et suivi des courriers aux services",
+    "Gestion des courriers électroniques",
+    "Participation à diverses réunions et rédactions des comptes-rendus",
+    "Classement, archivage papier et numérique des pièces comptables et administratives",
+    "Assistance au montage des dossiers de demande de subventions publiques et privées en collaboration avec la direction, et préparation des dossiers administratifs",
+    "Rédaction de procès-verbaux et comptes-rendus de commission et des conseils municipaux"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Appliquer et respecter les procédures",
+    "Gérer les priorités et hiérarchiser les urgences",
+    "Prendre des notes et mettre en forme tous type de documents (Arrêté, délibération, conventions, rapports...)",
+    "Suivre et planifier la gestion des ressources",
+    "Méthode, rigueur et sens de l'organisation",
+    "Bon relationnel et diplomatie",
+    "Sens du travail en équipe",
+    "Bonnes qualités humaines et relationnelles, notamment dans le cadre de l'activité d'accueil",
+    "Discrétion, sens de l'initiative et autonomie"
+  ],
+  "specialCommitments": null,
+  "title": "Secrétaire de Direction",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-20",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "COMMUNE-DE-LIFOU",
+  "collectivite": "Commune de Lifou",
+  "direction": "SECRETARIAT GENERAL",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.885,
+  "dossier": "administration-generale"
+}
