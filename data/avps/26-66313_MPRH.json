@@ -7,6 +7,7 @@
     "superieurHierarchique": "Directeur adjoint en charge du pôle entreprises et attractivité",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
+      "Acteurs institutionnels et économiques",
       "Cellule attractivité",
       "Office des Postes et Télécommunications de la Nouvelle-Calédonie",
       "Commission consultative des télécommunications"
@@ -19,8 +20,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Poste à pourvoir",
-        "value": "Immédiatement"
+        "name": "Modification de la date de clôture",
+        "value": "Modification de la date de clôture initialement prévue le 30/10/2026"
       },
       {
         "@type": "PropertyValue",
@@ -61,7 +62,7 @@
   },
   "alternateName": null,
   "description": "Le service de l'économie numérique, des filières d'avenir et de l'attractivité assure notamment:\n- le pilotage, l'évolution et la mise en œuvre des stratégies relatives à l'économie numérique, aux filières d'avenir et à l'attractivité du territoire, en lien avec les acteurs institutionnels et économiques;\n- la structuration et l'animation de la gouvernance relative à l'économie numérique, aux filières d'avenir et à l'attractivité, ainsi que la coordination des réseaux d'acteurs correspondants;\n- l'assistance et/ou la représentation de la Nouvelle-Calédonie au sein des instances en lien avec l'économie numérique, les filières d'avenir et l'attractivité;\n- la mise en place et la gestion de tout dispositif d'incitation ou d'accompagnement à la création, au soutien et au développement d'activités en lien avec l'économie numérique et les filières d'avenir, et favorisant l'innovation;\n- le soutien de la transformation numérique de l'économie, en favorisant notamment le développement des usages et des compétences numériques, et l'émergence des nouvelles technologies comme l'intelligence artificielle;\n- la définition et la mise en œuvre de tout dispositif favorisant l'attractivité du territoire ;\n- la promotion des actions économiques de la Nouvelle-Calédonie localement et à l'international, ainsi qu'en matière d'exportation ;\n- la participation à l'organisation et à la représentation de la Nouvelle-Calédonie lors d'événements, salons ou missions économiques locaux et internationaux, afin de promouvoir l'attractivité du territoire et soutenir le développement des exportations ;\n- la gestion du lieu d'attractivité, la station N ;\n- l'élaboration et l'application des réglementations et procédures relatives à l'économie numérique, les télécommunications et les filières d'avenir; \n- l'instruction des dossiers liés aux télécommunications et la poste, notamment les demandes de l'Office des Postes et Télécommunications de la Nouvelle-Calédonie, soumis au gouvernement ;\n- la gestion du spectre et des réseaux radioélectriques indépendants ;\n- le support technique du gouvernement de la Nouvelle-Calédonie dans le pilotage de la commission consultative des télécommunications.",
-  "disambiguatingDescription": "Chef du service de l'économie numérique, des filières d'avenir et de l'attractivité au sein de la direction des entreprises, de la consommation, de l'attractivité et des télécommunications.",
+  "disambiguatingDescription": null,
   "identifier": "26-66313/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -77,7 +78,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
+    "@type": "LandmarksOrHistoricalBuildings",
     "name": "Nouméa",
     "address": {
       "@type": "PostalAddress",
@@ -97,7 +98,7 @@
   "datePosted": "2026-10-12",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Ingénieur",
+    "credentialCategory": "Ingénieur 1er ou 2ème grade",
     "competencyRequired": [
       "Maîtrise des méthodes de gestion de projets",
       "Maîtrise des outils bureautiques, collaboratifs et décisionnels",
@@ -114,7 +115,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Nouvelle-Calédonie",
+    "name": "Service de l'économie numérique, des filières d'avenir et de l'attractivité",
     "url": null,
     "logo": null
   },
@@ -144,7 +145,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiatement",
+  "jobStartDate": null,
   "occupationalCategory": [
     "Système d'information",
     "Pilotage"
@@ -153,7 +154,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chef du service de l'économie numérique, des filières d'avenir et de l'attractivité"
+    "name": "Chef de projet du développement territorial, secteur de l’artisanat, de l’industrie, du commerce et des services"
   },
   "responsibilities": [
     "Sous l'autorité directe du directeur adjoint en charge du pôle entreprises et attractivité, le chef du service de l'économie numérique, des filières d'avenir et de l'attractivité:",
@@ -171,7 +172,7 @@
     "Promouvoir les actions du service",
     "Animer, encourager, encadrer, mobiliser et développer les compétences au sein du service."
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -191,9 +192,9 @@
   "specialCommitments": null,
   "title": "Chef du service de l'économie numérique, des filières d'avenir et de l'attractivité",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-30",
+  "validThrough": "2026-11-20",
   "workHours": null,
-  "champs_open_data": 28,
+  "champs_open_data": 25,
   "employeur_sigle": "NOUVELLE-CALEDONIE",
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS",
