@@ -13,8 +13,13 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Non précisé"
+        "name": "Cadre d'emploi",
+        "value": "Attaché d'administration"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Bureau d'affectation",
+        "value": "Bureau de la Préparation Budgétaire et du Patrimoine"
       },
       {
         "@type": "PropertyValue",
@@ -24,8 +29,8 @@
     ]
   },
   "alternateName": "Adjoint au chef du service des affaires budgétaires et responsable du bureau de la préparation budgétaire et du patrimoine",
-  "description": "Rattachée au pôle fonctionnel, la direction des finances de la province Sud (DFI) concourt à la préparation du budget de la province et au suivi de son exécution, dans le respect du cadre réglementaire et des autorisations données par l'assemblée. Elle assure la gestion de la dette et de la trésorerie, le contrôle des engagements, l'ordonnancement des dépenses, la prescription des recettes, le compte administratif et ses annexes en lien avec le compte de gestion de la trésorerie Sud.",
-  "disambiguatingDescription": "Poste d'adjoint au chef de service et responsable de bureau au sein de la direction des finances de la Province Sud.",
+  "description": "Rattachée au pôle fonctionnel, la direction des finances de la province Sud (DFI) concourt à la préparation du budget de la province et au suivi de son exécution, dans le respect du cadre réglementaire et des autorisations données par l’assemblée. Elle assure la gestion de la dette et de la trésorerie, le contrôle des engagements, l’ordonnancement des dépenses, la prescription des recettes, le compte administratif et ses annexes en lien avec le compte de gestion de la trésorerie Sud.",
+  "disambiguatingDescription": "Le poste est à pourvoir au sein du service des affaires budgétaires, composé du bureau de la Préparation Budgétaire et du Patrimoine (BPP) et du bureau des Opérations Contractualisées (BOC).",
   "identifier": "26-1398",
   "image": null,
   "mainEntityOfPage": null,
@@ -45,7 +50,7 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "20.32.76",
-    "email": "didier.avril@province-sud.nc"
+    "email": "drh.candidatures@province-sud.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-09-18",
@@ -55,17 +60,18 @@
     "competencyRequired": [
       "Maîtrise des techniques et outils de finances publiques des collectivités territoriales",
       "Maîtrise de la nomenclature M52 et des procédures réglementaires",
-      "Maîtrise des outils bureautiques Word et Excel notamment la gestion de bases de données avec tableaux croisés dynamiques",
+      "Maîtrise des outils bureautiques Word et Excel",
+      "Gestion de bases de données avec tableaux croisés dynamiques",
       "Maîtrise des applications informatiques métiers SURFI, SALVIA Financements, Patrimoine Comptabilité, SALSA, portail DGFIP"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La direction, composée d'une vingtaine de personnes, est structurée en deux services, le service des affaires budgétaires et le service de l'exécution budgétaire. La collectivité ne dispose pas de budget annexe.",
+  "employerOverview": "La direction, composée d’une vingtaine de personnes, est structurée en deux services, le service des affaires budgétaires et le service de l’exécution budgétaire. La collectivité ne dispose pas de budget annexe.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Bureau de la Préparation Budgétaire et du Patrimoine",
-    "url": null,
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
     "logo": null
   },
   "estimatedSalary": null,
@@ -112,26 +118,26 @@
     "Ajuster le cadre budgétaire sur SURFI et mettre à jour les bases",
     "Réaliser les suivis budgétaires infra-annuels, prospectifs et rétrospectifs",
     "Monter des bases de données pour des demandes de travaux spécifiques",
-    "Assurer le suivi comptable des immobilisations corporelles et incorporelles via l'outil PATRIMOINE Compta",
+    "Assurer le suivi comptable des immobilisations corporelles et incorporelles via l’outil PATRIMOINE Compta",
     "Assurer le suivi comptable des immobilisations financières",
-    "Assurer le suivi des emprunts garantis et analyser les nouvelles demandes de garantie",
-    "Assurer le suivi des programmes communaux et des autorisations de programme et d'engagement ainsi que les plans pluriannuels d'investissement et de fonctionnement",
-    "Consolider et actualiser les bases de suivi financier ainsi que la mise à jour d'états statistiques",
+    "Assurer le suivi des emprunts garantis et l’analyse des nouvelles demandes de garantie",
+    "Assurer le suivi des programmes communaux et des autorisations de programme et d’engagement ainsi que les plans pluriannuels d’investissement et de fonctionnement",
+    "Consolider et actualiser les bases de suivi financier ainsi que la mise à jour d’états statistiques",
     "Viser les actes à incidence financière",
     "Participer à la coordination des missions relevant du service des affaires budgétaires",
-    "Participer à l'évolution des techniques professionnelles ainsi qu'aux réunions et aux commissions relevant du service"
+    "Participer à l’évolution des techniques professionnelles ainsi qu’aux réunions et aux commissions relevant du service"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
     "Qualités relationnelles",
-    "Aptitude à l'animation d'une équipe",
-    "Capacité d'analyse et de synthèse",
+    "Aptitude à l’animation d’une équipe",
+    "Capacité d’analyse et de synthèse",
     "Réactivité",
     "Capacité d'anticipation",
     "Respect de la confidentialité des données",
-    "Esprit d'initiative",
+    "Esprit d’initiative",
     "Autonomie",
     "Rigueur",
     "Organisation",
