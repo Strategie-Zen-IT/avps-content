@@ -14,8 +14,13 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Soumis à des horaires atypiques, déplacements réguliers (sur et en dehors de la commune d'affectation), congés pris obligatoirement en période de vacances scolaires, obligation de logement à proximité de l'établissement."
+        "value": "Soumis à des horaires atypiques, déplacements réguliers (sur et en dehors de la commune d'affectation), périodes de congés pris obligatoirement en période de vacances scolaires, obligation de logement à proximité de l'établissement"
       },
       {
         "@type": "PropertyValue",
@@ -26,7 +31,7 @@
   },
   "alternateName": null,
   "description": "La DEFIJ est chargée d'appliquer les orientations politiques de la province Nord en matière d'enseignement, de formation et d'insertion. Placée sous l'autorité du directeur d'internat la personne retenue sera notamment chargée dans une démarche éthique et déontologique, de créer les conditions nécessaires pour que les personnes, familles et groupes qui rencontrent des difficultés aient les moyens d'être acteurs de leur développement et puissent renforcer leurs liens sociaux et les solidarités dans les lieux de vie en général.",
-  "disambiguatingDescription": "Educateur spécialisé en internat à Hienghène avec horaires atypiques et obligation de logement à proximité.",
+  "disambiguatingDescription": null,
   "identifier": "26-1420",
   "image": null,
   "mainEntityOfPage": null,
@@ -44,11 +49,11 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Area",
-    "name": "Province Nord",
+    "name": "Hôtel de la province Nord",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
-      "addressLocality": "Hienghène",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
       "province": "province Nord"
@@ -75,7 +80,7 @@
       "Capacité à faire émerger les valeurs et représentations partagées au sein d'un groupe projet"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
   "employerOverview": "La DEFIJ est chargée d'appliquer les orientations politiques de la province Nord en matière d'enseignement, de formation et d'insertion.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
@@ -93,7 +98,7 @@
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Service public",
+  "industry": "Action sociale",
   "jobBenefits": "Obligation de logement à proximité de l'établissement",
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -111,13 +116,12 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Dès que possible",
+  "jobStartDate": null,
   "occupationalCategory": [
-    "Action sociale",
-    "Education"
+    "Action sociale"
   ],
   "physicalRequirement": null,
-  "qualifications": "Diplôme d'Etat d'Educateur Spécialisé obligatoire, Permis de conduire B",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Educateur spécialisé"
@@ -138,7 +142,7 @@
     "La Réalisation du suivi socio-éducatif et d'écrit professionnel",
     "Le développement et animation de partenariats et réseaux",
     "La Veille sociale et juridique",
-    "Intervenir ponctuellement sur sollicitation de la DEFIJ au sein d'autres internats dans le cadre d'actions transversales"
+    "Dans le cadre d'actions transversales, l'agent retenu pourra intervenir ponctuellement sur sollicitation de la DEFIJ au sein d'autres internats"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
@@ -157,19 +161,19 @@
     "Sens de l'écoute et la communication",
     "Empathie",
     "Gestion des émotions",
-    "Sens du travail en équipe",
+    "Sens du travail en équipe (travail en réseau)",
     "Rigueur et organisation",
-    "Discrétion professionnelle",
+    "Discrétion professionnelle selon l'éthique et la déontologie du travail social",
     "Adaptation du vocabulaire en fonction du public",
     "Adaptabilité",
     "Autonomie",
     "Capacité d'observation et d'analyse",
     "Tolérance"
   ],
-  "specialCommitments": "Astreintes et horaires atypiques liés au fonctionnement de l'internat",
+  "specialCommitments": "Astreintes liées au fonctionnement de l'internat, horaires atypiques, obligation de logement à proximité",
   "title": "Educateur spécialisé à Hienghène",
   "totalJobOpenings": 1,
-  "validThrough": "2026-10-30",
+  "validThrough": "2026-11-13",
   "workHours": "Horaires atypiques",
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
