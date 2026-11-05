@@ -1,0 +1,146 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 1-Sans diplôme",
+    "direction": "DIRECTION DE L'ESPACE PUBLIC",
+    "uniteOrganisationnelle": "Section première intervention",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de section et ses adjoints",
+    "placeOrganigramme": "Sous l’autorité du secrétaire général adjoint en charge du pôle aménagement",
+    "relationsFonctionnelles": [
+      "Service exploitation de l'espace public",
+      "Section exploitation voirie",
+      "Section gestion voirie et déplacements",
+      "Section nettoiement de l'espace public"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Horaires décalés (6h-14h), astreintes éventuelles"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957426.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La ville de Nouméa recrute un ouvrier d'entretien - conducteur pour sa direction de l'espace public au sein du service exploitation de l'espace public. Sous la responsabilité du chef de section et de ses adjoints, l'ouvrier d'entretien réalise les travaux d'entretien, avec ou sans engins, qui lui sont demandés au sein de la section première intervention.",
+  "disambiguatingDescription": "Poste d'ouvrier d'entretien et conducteur d'engins de chantier pour l'entretien de la voirie et des réseaux à la mairie de Nouméa.",
+  "identifier": "26-1624",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Ouvrier d'entretien - conducteur",
+  "owner": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.07.39",
+    "email": "pierre.follenfant@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Maîtrise des règles d’hygiène et de sécurité",
+      "Bonnes connaissances en signalisation routière, signalétique, etc."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune.",
+  "employmentType": "TEMPORARY",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Mairie de Nouméa",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience sur un poste similaire serait appréciée. Avoir travaillé et manœuvré avec des engins spécialisés serait un atout.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Mairie de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre technique municipal",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements",
+    "Ateliers et véhicules"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Conduite d'engins légers ou spécialisés de chantier",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Ouvrier d’entretien - conducteur"
+  },
+  "responsibilities": [
+    "Effectuer des travaux de terrassement manuel ou mécanisé (fouilles, blindages, remblaiement, régalage de matériaux)",
+    "Exécuter le curage, l'entretien et le profilage des fossés, tranchées, et caniveaux",
+    "Réaliser la pose de réseaux VRD en tranchée (pose de TPC, lits de pose, guidage de la pente)",
+    "Assurer le transport, l'acheminement et le roulage des matériaux de chantier (déblais, remblais, gravats, enrobés, agrégats, tuyaux)",
+    "Travailler à pied d'œuvre aux côtés des engins de chantier (guidage des manœuvres, assistance au chauffeur, nettoyage des zones d'intervention)",
+    "Contrôler et vérifier la conformité des fonds de fouilles, des pentes et de l'implantation des réseaux",
+    "Assurer la signalisation, le balisage et le maintien en sécurité de la zone de chantier, en conformité avec les règles de circulation et de sécurité sur la voie publique",
+    "Contrôler le bon état de fonctionnement des engins de chantier, véhicules et outillages avant et après chaque utilisation (niveaux, organes de sécurité, état général)",
+    "Conduire et manœuvrer des engins légers ou spécialisés selon les besoins du chantier et dans le respect des consignes de sécurité",
+    "Charger, décharger et manipuler manuellement ou mécaniquement les produits, tuyaux et matériaux du chantier",
+    "Assurer la maintenance de premier niveau et le nettoyage régulier du matériel, des engins et des véhicules affectés"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Rigueur",
+    "Grand sens de l'organisation",
+    "Sens du service public",
+    "Travail en équipe",
+    "Conduite d'engins de chantier",
+    "Manutention manuelle"
+  ],
+  "specialCommitments": "Astreintes éventuelles",
+  "title": "Ouvrier d'entretien - conducteur",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-20",
+  "workHours": "Horaires décalés (6h-14h)",
+  "champs_open_data": 7,
+  "employeur_sigle": "MAIRIE-DE-NOUMEA",
+  "collectivite": "Mairie de Nouméa",
+  "direction": "DIRECTION DE L'ESPACE PUBLIC",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Ateliers et véhicules",
+  "famille_source": "respnc",
+  "famille_score": 0.828,
+  "dossier": "ateliers-et-vehicules"
+}
