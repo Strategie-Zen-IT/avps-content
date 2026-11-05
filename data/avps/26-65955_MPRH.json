@@ -8,11 +8,15 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Référents RH",
-      "Directions",
-      "Agents",
-      "Managers"
+      "Managers",
+      "Directions et agents de la collectivité"
     ],
     "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Corps ou Cadre d'emploi / Domaine alternatif",
+        "value": "Rédacteur"
+      },
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
@@ -111,13 +115,13 @@
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Service public",
-  "jobBenefits": "Informations salaire : https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
+  "industry": "Ressources Humaines",
+  "jobBenefits": "Informations salaire disponibles sur https://drhfpnc.gouv.nc/sites/default/files/atoms/files/cag.pdf",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Direction des ressources humaines et de la fonction publique de Nouvelle-Calédonie (DRHFPNC)",
+    "name": "DRHFPNC",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "18 avenue Paul Doumer, Centre-ville",
@@ -191,7 +195,7 @@
   "totalJobOpenings": 1,
   "validThrough": "2026-11-06",
   "workHours": null,
-  "champs_open_data": 27,
+  "champs_open_data": 24,
   "employeur_sigle": "DRHFPNC",
   "collectivite": "Nouvelle-Calédonie",
   "direction": "DIRECTION DES RESSOURCES HUMAINES ET DE LA FONCTION PUBLIQUE DE NOUVELLE-CALEDONIE",
