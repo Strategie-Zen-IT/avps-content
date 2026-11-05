@@ -1,0 +1,187 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Service d'imagerie médicale",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cadre supérieur de santé",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Usagers",
+      "Équipes médicales",
+      "Partenaires institutionnels",
+      "Service des urgences",
+      "Trésorerie",
+      "Service du contentieux"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Janvier 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957150.PDF"
+      }
+    ]
+  },
+  "alternateName": "Assistant(e) administrative en imagerie médicale",
+  "description": "Au sein du service d'imagerie médicale du Médipôle, l'assistant(e) médico-administratif(ve) joue un rôle essentiel dans l'accueil et l'accompagnement des patients. Véritable interface entre les usagers, les équipes médicales et les partenaires institutionnels, il/elle assure la gestion des rendez-vous, le suivi des dossiers médico-administratifs et la facturation, dans le respect de la confidentialité et de la qualité du service public hospitalier.",
+  "disambiguatingDescription": "Assistant(e) médico-administratif(ve) au sein du service d'imagerie médicale du Médipôle",
+  "identifier": "26-1631",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Assistant(e) médico-administratif en imagerie médicale",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.80.00",
+    "email": "anne.ledu@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-30",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Baccalauréat",
+    "competencyRequired": [
+      "Formation de niveau baccalauréat minimum, idéalement baccalauréat professionnel en secrétariat ou sciences médico-sociales",
+      "Connaissances médicales générales appréciées : terminologie, vocabulaire médical, types de patients et notions de pathologies",
+      "Connaissances des droits du patient, réglementation des soins"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Centre Hospitalier Territorial Gaston-Bourret de Nouvelle-Calédonie",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service d'imagerie médicale",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "incentiveCompensation": "Prime statutaire pour les fonctionnaires",
+  "industry": "Santé",
+  "jobBenefits": "Grilles indiciaires de la fonction publique de Nouvelle-Calédonie",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Koutio",
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Santé publique soins",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Assistant(e) médico-administratif en imagerie médicale"
+  },
+  "responsibilities": [
+    "Accueil physique des patients, publics et personnels médicaux se présentant au guichet",
+    "Accueil téléphonique : réception, identification et traitement de l'appel",
+    "Prise en gestion des rendez-vous",
+    "Recueil et vérification sur pièce des informations administratives",
+    "Vérification des couvertures sociales (contrôle sur écran CAFAT, aides médicales, relations téléphoniques)",
+    "Constitution des dossiers d'hospitalisation et de soins externes (pré admission et admission)",
+    "Frappe des courriers inhérents au service (comptes rendus opératoires)",
+    "Edition des bulletins d'hospitalisation",
+    "Demande et suivi des prises en charge",
+    "Récupération de l'information et des divers documents pour les hospitalisés via le service des urgences",
+    "Mise à jour des dossiers des patients venus consulter aux urgences",
+    "Vérification des situations journalières, enregistrement des sorties",
+    "Gestion de la circulation de l'information (transfert des dossiers, DPI)",
+    "Réception de courriers, classement, archivage, mise sous pli",
+    "Tenue des régies : encaissement des recettes, vérification des caisses",
+    "Relations avec la Trésorerie",
+    "Saisie des actes avec report de l'acte opératoire dans le dossier",
+    "Valorisation et facturation des dossiers",
+    "Saisie, traitement et classement du courrier dans les dossiers puis classement des dossiers prêts à être facturés",
+    "Participation à la gestion des contentieux (recueil et transmission des informations au contentieux)"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Rigueur",
+    "Sens de l'organisation",
+    "Méthode",
+    "Confidentialité",
+    "Respect du secret professionnel",
+    "Qualités relationnelles",
+    "Sens de l'écoute",
+    "Bonne communication orale et écrite",
+    "Goût du travail en équipe",
+    "Sens du service public"
+  ],
+  "specialCommitments": null,
+  "title": "Assistant(e) médico-administratif en imagerie médicale",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-20",
+  "workHours": "Horaires de travail en fonction du service",
+  "champs_open_data": 13,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.82,
+  "dossier": "administration-generale"
+}
