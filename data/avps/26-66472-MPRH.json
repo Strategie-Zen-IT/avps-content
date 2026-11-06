@@ -1,0 +1,217 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "DIRECTION DE L'INDUSTRIE, DES MINES ET DE L'ENERGIE",
+    "uniteOrganisationnelle": "Service de l'industrie",
+    "nbAgentsEncadres": 8,
+    "superieurHierarchique": "Chef du service de l'industrie",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Provinces",
+      "Etat",
+      "Nouvelle-Calédonie",
+      "Exploitants industriels",
+      "Administrations"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre (Ingénieur 1er et 2ème grade domaine de l'équipement)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements fréquents sur l'ensemble du territoire de la Nouvelle-Calédonie à prévoir. Ponctuellement, amplitudes horaires adaptées aux missions (contrôle à la journée sur un site éloigné par exemple)."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service de l'industrie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Olivier BOULAY - Chef du service de l'industrie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953814.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous l'autorité directe du chef du service de l'industrie, le/la chef(fe) de section pilote, coordonne et anime une équipe de 8 inspecteurs ICPE. Il/elle garantit la mise en œuvre homogène et efficace des contrôles réglementaires et veille à la qualité de l'instruction des dossiers. Il/elle contribue, par son action quotidienne d'accompagnement et de contrôle à créer une relation constructive, pragmatique et de confiance entre l'industrie et l'administration dans une perspective de consolidation du secteur et de développement industriel durable.\nIl/elle est inspecteur(trice) des installations classées pour la protection de l'environnement (ICPE)",
+  "disambiguatingDescription": "Chef(fe) de la section Environnement Industriel au sein du service de l'industrie de la DIMENC, chargé(e) du contrôle et de l'accompagnement de 1300 ICPE sur l'ensemble du territoire.",
+  "identifier": "26-66472-MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef(fe) de la section Environnement Industriel",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "77.40.79",
+    "email": "olivier.boulay@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-06",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'ingénieur",
+    "competencyRequired": [
+      "Diplôme d'ingénieur de l'industrie ou en prévention des risques industriels",
+      "Avantageusement, titulaire d'une habilitation/commissionnement « inspecteur des installations classées pour la protection de l'environnement »",
+      "Avoir une expérience significative sur un poste à responsabilité dans le domaine des installations classées pour la protection de l'environnement",
+      "Connaissance approfondie de la réglementation relative à l'environnement",
+      "Connaissance du territoire et du tissu industriel",
+      "Compétences managériales : encadrement d'équipes techniques"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Ingénieur 1er et 2ème grade domaine de\nl'équipement : au moins égale à 5 ans",
+  "employerOverview": "La DIMENC est une direction du gouvernement de la Nouvelle-Calédonie, au service de l'Etat, de la Nouvelle-Calédonie et des trois provinces. Au sein de la DIMENC, le service industrie assure des missions de contrôle et d'accompagnement des activités industrielles, mais aussi d'élaboration et d'actualisation de la réglementation et des politiques publiques, dans une perspective de développement industriel durable du territoire.\nLes missions du service industrie consistent à réglementer et contrôler les activités industrielles, notamment celles susceptibles d'avoir un impact sur l'environnement, les biens et les personnes : installations classées relatives aux déchets, ouvrages hydrauliques, explosifs, équipements sous pression, métrologie légale, radioprotection. En particulier, elle exerce des missions pour le compte :\n- des provinces : inspection des installations classées pour la protection de l'environnement (ICPE), instruction de dossiers et de plaintes, appui aux décideurs publics,\n- de l'Etat : contrôle des explosifs (importation, transport, stockage, mise en œuvre) et instruction des mouvements transfrontaliers de déchets dangereux,\n- de la Nouvelle-Calédonie : contrôle des ouvrages hydrauliques (barrages), des équipements sous pression, métrologie légale (balances commerciales, ponts bascules, bacs de stockage, volucompteurs, taximètres), radioprotection et secrétariat du fonds TAP (taxe anti-pollution).\nAu sein du service industrie, la section « Environnement industriel » est chargée du contrôle et de l'accompagnement de 1300 ICPE sur l'ensemble du territoire, dont plusieurs d'entre-elles représentent un enjeu",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Section Environnement industriel",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Avoir une expérience significative sur un poste à responsabilité dans le domaine des installations classées pour la protection de l'environnement",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Environnement",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Service de l'industrie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Environnement",
+    "Ingénierie industrielle minière et énergétique"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Avantageusement, titulaire d'une habilitation/commissionnement inspecteur des installations classées pour la protection de l'environnement",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Inspecteur des installations classées pour la protection de l'environnement (ICPE)"
+  },
+  "responsibilities": [
+    "Le/la chef(fe) de section est notamment chargé(e) des missions suivantes :",
+    "Inspecteur des installations classées pour la protection de l'environnement :",
+    "Instruire les dossiers ICPE",
+    "Inspecter les sites industriels",
+    "Participer à la gestion des crises en lien avec le cadre d'astreinte de la DIMENC.",
+    "Management et animation d'équipe :",
+    "Coordonner, répartir et planifier les activités et le portefeuille d'installations des inspecteurs de la section",
+    "Vérifier les rapports, projet d'arrêtés et actes administratifs produits par la section",
+    "Accompagner le développement des compétences des collaborateurs et assurer l'encadrement méthodologique et technique des inspecteurs",
+    "Participer à améliorer, simplifier et coordonner les processus d'inspection et d'instruction, dans une recherche constante d'efficience du service rendu et d'amélioration continue de l'activité de la section",
+    "Produire le reporting d'activité de la section et participer à la rédaction du rapport d'activités annuel en lien avec le chef de service.",
+    "Pilotage opérationnel :",
+    "Proposer le programme annuel d'inspection et veiller à son exécution ainsi qu'au suivi des indicateurs d'activité de la section",
+    "Apporter un appui technique et juridique sur les dossiers complexes ou à fort enjeu (installations à haut risque, situations de crises, pollutions, plaintes)",
+    "Développer et appliquer les procédures, en lien avec le chef de service et l'équipe, afin de développer l'efficience de la section.",
+    "Elaboration réglementaire et appui aux décisions publiques :",
+    "Contribuer à la modernisation et à la mise à jour des cadres réglementaires ICPE en lien avec les institutions",
+    "Apporter une expertise fine auprès de la direction, du chef de service et des décideurs publics.",
+    "Relations internes et externes :",
+    "Représenter la section lors des commissions, comités de suivi et réunion avec les exploitants industriels, les administrations",
+    "Maintenir une relation constructive, pragmatique et de confiance entre l'industrie et l'administration et entre le public et l'administration."
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Pilotage et animation d'équipe d'inspecteurs",
+    "Prise de décision et arbitrage",
+    "Connaissances techniques liées au secteur industriel",
+    "Connaissances approfondies des réglementations ICPE",
+    "Capacité à analyser des études de dangers et d'impact ICPE",
+    "Sens du service public",
+    "Rigueur et pragmatisme pour évaluer les risques et prendre en compte les enjeux",
+    "Réactivité et dynamisme",
+    "Qualité d'écoute et de dialogue, tant en interne qu'en externe",
+    "Bonne communication orale et écrite",
+    "Force de proposition",
+    "Sens du travail en équipe et esprit de corps",
+    "Méthode et organisation d'équipe",
+    "Esprit d'analyse et de synthèse",
+    "Respect du secret professionnel",
+    "Equilibre entre autonomie et reporting vers la chaîne hiérarchique"
+  ],
+  "specialCommitments": "Pour la réalisation de ces missions, des déplacements fréquents sur l'ensemble du territoire de la Nouvelle-Calédonie sont à prévoir.\nPonctuellement, pour les besoins du service, amplitudes horaires adaptées aux missions (contrôle à la journée sur un site éloigné par exemple).",
+  "title": "Chef(fe) de la section Environnement Industriel",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-27",
+  "workHours": "Amplitudes horaires adaptées aux missions",
+  "champs_open_data": 27,
+  "employeur_sigle": "DIMENC",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE L'INDUSTRIE, DES MINES ET DE L'ENERGIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Environnement",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "environnement"
+}
