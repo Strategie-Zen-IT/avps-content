@@ -1,0 +1,180 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "Section Applications et Pratiques Métiers (SAPM)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cheffe de section",
+    "placeOrganigramme": "N-3 (par rapport au directeur opérationnel)",
+    "relationsFonctionnelles": [
+      "DSI",
+      "Métiers"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 5 ans pour ingénieur 1er grade"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "susceptible d'être à pourvoir"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions de travail",
+        "value": "Semaine de travail du lundi au vendredi (exceptionnellement le samedi, en fonction du règlement intérieur). Déplacements ponctuels sur tout le territoire avec un véhicule de service."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955296.PDF"
+      }
+    ]
+  },
+  "alternateName": "AMOA - Product Owner",
+  "description": "L'AMOA - Product Owner est le garant de l'adéquation entre les besoins métiers, les systèmes d'information et la donnée. Interlocuteur privilégié de la DSI, il pilote les évolutions applicatives, accompagne les métiers dans leurs projets de transformation, assure l'administration fonctionnelle des applications et contribue à la valorisation des données pour améliorer la prise de décision et la performance des activités.",
+  "disambiguatingDescription": "Assistant à Maîtrise d'Ouvrage / Product Owner au sein de la Section Applications et Pratiques Métiers de l'OPT.",
+  "identifier": "26-1675",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "DPS - Assistant à Maîtrise d'Ouvrage / Product Owner",
+  "owner": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "url": "http://www.opt.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Direction OPT, Immeuble Le Waruna II",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 rue Montchovet, Port Plaisance",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.88.72",
+    "email": "DRH-candidature@opt.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-06",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Ingénieur 1er grade",
+    "competencyRequired": [
+      "Techniques de gestion de projets",
+      "Connaissance de l'organisation du fonctionnement et des processus de l'OPT",
+      "Réglementation postale et des domaines fonctionnels couverts",
+      "Processus métier du périmètre applicatif couvert",
+      "Connaissance des SI utilisés par les clients internes et externes"
+    ]
+  },
+  "eligibilityToWorkRequirement": ".",
+  "employerOverview": "Office des Postes et des Télécommunications de Nouvelle-Calédonie",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Section Applications et Pratiques Métiers (SAPM)",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Non spécifié",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "url": "http://www.opt.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Postes et télécommunications",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction OPT, Immeuble Le Waruna II",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 rue Montchovet, Port Plaisance",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Système d'information",
+    "Postes et télécommunications"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Administrateur d'application"
+  },
+  "responsibilities": [
+    "Recueillir, analyser et comprendre les besoins des utilisateurs et des parties prenantes",
+    "Traduire ces besoins en fonctionnalités claires et priorisées dans un carnet de commandes (backlog)",
+    "Définir les priorités en tenant compte des enjeux métiers, de la valeur ajoutée et des contraintes techniques",
+    "Maintenir et faire évoluer le backlog produit tout au long du projet",
+    "Organiser et planifier les évolutions du produit (sprints, versions, livraisons)",
+    "Valider ou refuser les livrables produits par l'équipe de développement",
+    "Faciliter la communication et la collaboration entre les différents acteurs du projet (utilisateurs, métiers, équipe technique)",
+    "Prendre en compte les retours des utilisateurs et les indicateurs de performance pour ajuster les priorités et améliorer le produit en continu",
+    "Garantir la qualité et la cohérence des données des SI",
+    "Participe au développement d'outils de reporting et d'aide à la décision",
+    "Assurer l'entraide auprès de ses collaborateurs afin de contribuer à une meilleure efficacité collective"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Accompagner un changement, un dispositif",
+    "Alerter sur une situation à risque",
+    "Analyser un besoin",
+    "Animer une réunion",
+    "Anticiper un risque, une évolution",
+    "Assurer une maîtrise d'ouvrage",
+    "Conduire un projet, une démarche",
+    "Gérer un budget",
+    "Maîtriser les délais",
+    "Curiosité intellectuelle",
+    "Esprit d'initiative",
+    "Aisance relationnelle",
+    "Avoir l'esprit d'équipe",
+    "Faculté d'adaptation",
+    "Réactivité",
+    "Sens de l'organisation"
+  ],
+  "specialCommitments": "Déplacements ponctuels sur tout le territoire avec un véhicule de service",
+  "title": "DPS - Assistant à Maîtrise d'Ouvrage / Product Owner",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-27",
+  "workHours": "Semaine de travail du lundi au vendredi (exceptionnellement le samedi)",
+  "champs_open_data": 9,
+  "employeur_sigle": "OPT",
+  "collectivite": "Office des postes et télécommunications",
+  "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Système d'information",
+  "famille_source": "respnc",
+  "famille_score": 0.987,
+  "dossier": "systeme-d-information"
+}
