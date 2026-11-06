@@ -1,0 +1,240 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur / technicien",
+    "direction": "DIRECTION DU NUMERIQUE ET DE LA MODERNISATION",
+    "uniteOrganisationnelle": "Section réseau et datacenter",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Service infrastructures",
+      "Section réseau et datacenter"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de la mission",
+        "value": "Un an, renouvelable"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Type de mission",
+        "value": "Mission ponctuelle immédiatement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service infrastructures"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Naiké DURAND"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955300.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La Direction du Numérique et de la Modernisation (DINUM) est chargée de définir et d'assurer la mise en œuvre de la politique de développement numérique du gouvernement de la Nouvelle-Calédonie en articulation avec la stratégie générale de la collectivité notamment en matière de transformation numérique de l'action publique, de simplification et de modernisation des services rendus grâce au numérique, de pilotage de la performance par le levier du numérique, de développement de l'économie numérique et de développement de l'innovation technologique. Elle vise également à développer des synergies avec les usagers internes, externes, et les entreprises. \n\nEn définissant en 2024 sa doctrine d'utilisation de l'informatique en nuage au sein de l'administration de la Nouvelle-Calédonie, le gouvernement entend poser un cadre serein et de confiance pour encourager le développement d'une nouvelle génération de services numériques de qualité,  tout en protégeant au mieux les données des entreprises et des habitants de la Nouvelle-Calédonie.\n\nAu-delà des technologies et des offres de services, c'est un changement de culture qui s'engage, afin que les équipes projets et les développeurs, mais aussi les utilisateurs, inscrivent les opportunités du cloud dans leurs pratiques professionnelles au quotidien.\n\nAu sein de la DINUM, c'est la section réseau et datacenter (SRD) du service des infrastructures numériques (SIN) qui évolue pour prendre en charge la mise en œuvre des outils IAAS, PAAS, CAAS de la collectivité, opérer le cloud interne et piloter le cloud externe dédié.\n\nL'administrateur datacenter assure l'administration, la gestion et le maintien en condition opérationnelle et de sécurité des réseaux, des infrastructures et du système de sauvegarde. Il contribue à leur évolution et à leur amélioration en fonction du schéma directeur.",
+  "disambiguatingDescription": "Administrateur Datacenter au sein de la section réseau et datacenter de la DINUM.",
+  "identifier": "26-65973/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Administrateur Datacenter",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "LandmarksOrHistoricalBuildings",
+    "name": "Direction du numérique et de la modernisation",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.58.88",
+    "email": "naike.durand@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-06",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Infrastructures Datacenter : serveurs, baies, alimentation, câblage et redondance.",
+      "Systèmes Linux.",
+      "Environnements de virtualisation, notamment VMware.",
+      "Solutions de stockage SAN.",
+      "Technologies Fibre Channel, iSCSI et FCoE.",
+      "Solutions de sauvegarde et de restauration.",
+      "Équipements réseau et de sécurité : Cisco, Nexus, Aruba, Palo Alto, Fortigate.",
+      "Réseaux TCP/IP et Ethernet.",
+      "VLAN, routage et interconnexions réseau.",
+      "Protocoles de routage : OSPF, BGP et EIGRP.",
+      "Haute disponibilité et redondance.",
+      "Sécurité des systèmes, réseaux et infrastructures Datacenter.",
+      "Solutions Wi-Fi.",
+      "Solutions de téléphonie sur IP.",
+      "Outils de supervision et de métrologie : Checkmk, Nagios, Cacti, Grafana.",
+      "Outils d'automatisation et d'Infrastructure as Code : Ansible, Terraform.",
+      "Langages de script : Bash, Python.",
+      "Principes et bonnes pratiques ITIL."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La Direction du Numérique et de la Modernisation (DINUM) est chargée de définir et d'assurer la mise en œuvre de la politique de développement numérique du gouvernement de la Nouvelle-Calédonie en articulation avec la stratégie générale de la collectivité notamment en matière de transformation numérique de l'action publique, de simplification et de modernisation des services rendus grâce au numérique, de pilotage de la performance par le levier du numérique, de développement de l'économie numérique et de développement de l'innovation technologique.",
+  "employmentType": "TEMPORARY",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service infrastructures",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Système d'information",
+  "jobBenefits": null,
+  "jobDuration": "1 an",
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction du numérique et de la modernisation",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa - Ouémo",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-11-01",
+  "occupationalCategory": [
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Administrateur réseau"
+  },
+  "responsibilities": [
+    "Maintenir les infrastructures Datacenter en condition opérationnelle.",
+    "Administrer les serveurs, la virtualisation, le stockage et les sauvegardes.",
+    "Surveiller les équipements et traiter les alertes et incidents.",
+    "Installer, remplacer et mettre en service les équipements.",
+    "Réaliser le câblage et le brassage en Datacenter.",
+    "Gérer les baies, l'alimentation et la connectivité des équipements.",
+    "Suivre le cycle de vie des matériels.",
+    "Tenir à jour les inventaires, plans, schémas et procédures.",
+    "Appliquer les règles de sécurité du Datacenter.",
+    "Participer aux choix et aux achats de matériels et de logiciels.",
+    "Participer aux projets d'évolution des infrastructures.",
+    "Automatiser les tâches d'administration et de déploiement.",
+    "Assurer le suivi technique avec les fournisseurs et prestataires.",
+    "Activité secondaire - Réseau :",
+    "Administrer et maintenir les équipements réseau.",
+    "Configurer les ports, VLAN, trunks et interconnexions.",
+    "Configurer le routage et les flux réseau.",
+    "Appliquer les règles de sécurité réseau.",
+    "Diagnostiquer et résoudre les problèmes de connectivité.",
+    "Superviser les équipements et analyser les anomalies.",
+    "Réaliser le brassage cuivre et fibre optique.",
+    "Participer aux projets d'évolution du réseau.",
+    "Maintenir les schémas et la documentation réseau.",
+    "Mettre en service les nouveaux équipements."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Administrer des infrastructures Datacenter.",
+    "Administrer des systèmes Linux.",
+    "Administrer des environnements de virtualisation.",
+    "Administrer des solutions de stockage SAN.",
+    "Exploiter des solutions de sauvegarde et de restauration.",
+    "Installer et mettre en service des équipements.",
+    "Réaliser du câblage et du brassage cuivre et fibre.",
+    "Administrer des équipements réseau.",
+    "Configurer des VLAN, du routage et des interconnexions.",
+    "Diagnostiquer et résoudre des incidents.",
+    "Utiliser des outils de supervision et de métrologie.",
+    "Analyser les performances des infrastructures.",
+    "Proposer des solutions techniques.",
+    "Participer à la conception et à l'évolution des infrastructures.",
+    "Conduire ou participer à des projets techniques.",
+    "Rédiger des procédures et des documents techniques.",
+    "Réaliser et maintenir des schémas d'infrastructure.",
+    "Automatiser des tâches avec des outils d'Infrastructure as Code.",
+    "Utiliser des scripts pour automatiser des tâches courantes.",
+    "Assurer une veille technologique.",
+    "Avoir l'esprit d'équipe",
+    "Être rigoureux",
+    "Être autonome",
+    "Sens de l'analyse",
+    "Sens de l'organisation",
+    "Réactivité",
+    "Faculté d'adaptation",
+    "Aptitude à l'écoute",
+    "Esprit de synthèse",
+    "Maîtrise de soi."
+  ],
+  "specialCommitments": null,
+  "title": "Administrateur Datacenter",
+  "totalJobOpenings": 3,
+  "validThrough": "2026-11-27",
+  "workHours": null,
+  "champs_open_data": 26,
+  "employeur_sigle": "DINUM",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DU NUMERIQUE ET DE LA MODERNISATION",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Système d'information",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "systeme-d-information"
+}
