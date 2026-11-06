@@ -1,0 +1,190 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
+    "uniteOrganisationnelle": "Service administration et support",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": "Positionné(e) en appui direct à la direction et au sein du Service Administration et Support",
+    "relationsFonctionnelles": [
+      "Direction",
+      "Services métiers",
+      "DAPM",
+      "Partenaires extérieurs"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "01/12/2026"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Oui"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service administration et support"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "MESTRE Marie-Laure"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957150.PDF"
+      }
+    ]
+  },
+  "alternateName": "Assistant(e) de direction et référent(e) support",
+  "description": "Positionné(e) en appui direct à la direction et au sein du Service Administration et Support, l'assistant(e) de direction et référent(e) support assure le secrétariat de la direction ainsi que la coordination et le suivi de la gestion administrative, logistique et documentaire de la DASS. Il/elle supervise le pôle accueil/courrier, garantit l'efficacité des circuits d'information et gère les dossiers confidentiels et institutionnels de l'équipe de direction.",
+  "disambiguatingDescription": "Assistant(e) de direction et référent(e) support au sein de la Direction des affaires sanitaires et sociales",
+  "identifier": "26-66672/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Assistant(e) de direction et référent(e) support",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.37.93",
+    "email": "marie-laure.mestre@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-06",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Rédacteur",
+    "competencyRequired": [
+      "Connaissance approfondie des institutions, de l'organisation et du fonctionnement de la collectivité de la Nouvelle-Calédonie.",
+      "Maîtrise des techniques de secrétariat de direction et des règles d'usage/protocole.",
+      "Maîtrise des procédures administratives, du circuit des actes collectifs et du droit administratif général.",
+      "Excellente maîtrise des outils bureautiques et applicatifs métiers (GSuite, CICA, Acte Manager, etc.).",
+      "Excellente maîtrise des techniques d'expression écrite et orale (rédaction administrative, synthèse)."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La Direction des Affaires Sanitaires et Sociales (DASS) de la Nouvelle-Calédonie est notamment chargée de :\n- Élaborer la réglementation et les recommandations en matière de santé, de prévention et de protection sociale, et en contrôler l'application ;\n- Élaborer les schémas d'organisation sanitaire et sociale ;\n- Mettre en œuvre et évaluer les politiques de santé publique et environnementale ;\n- Évaluer les programmes prioritaires de prévention de la santé.\n\nStructure de la DASS :\n- Service Administration et Support (SAS) : Chargé du pilotage et de la gestion des ressources humaines, de la comptabilité/budget, des moyens logistiques, de l'informatique et de la communication.\n- Quatre services métiers : Service de Santé Publique, Service de l'Offre et de la Qualité des Soins, Service de la Protection Sociale, Service du Handicap et de la Dépendance.\n- Délégué à la contractualisation et aux plans.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service administration et support",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "DASS",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-01",
+  "occupationalCategory": [
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Assistant administratif"
+  },
+  "responsibilities": [
+    "Assistance et Secrétariat de Direction :",
+    "Assurer le secrétariat du Directeur et de l'équipe de direction (gestion des agendas complexes, filtrage téléphonique, prise de rendez-vous, accueil des personnalités).",
+    "Traiter et suivre les courriers réservés, confidentiels, les notes d'information et les dossiers stratégiques de la direction.",
+    "Organiser les réunions de direction, conseils et instances statutaires (préparation des ordres du jour, rassemblement des dossiers de séance, rédaction des relevés de décisions et comptes rendus).",
+    "Rédiger des courriers administratifs, notes de synthèse, rapports et réponses officielles pour la direction.",
+    "Pilotage du pôle Administration, Courrier et Accueil :",
+    "Superviser la gestion et l'enregistrement du courrier entrant/sortant (CICA, Acte Manager) et valider le circuit de validation des actes et des décisions.",
+    "Superviser le pôle d'accueil physique et téléphonique de la DASS et la gestion des messageries fonctionnelles (dass.ag@gouv.nc et DASS@gouv.nc), avec traitement des demandes complexes de niveau 2.",
+    "Coordonner l'activité administrative transversale entre la Direction et les différents services métiers.",
+    "Appui logistique, gestion matérielle et documentaire :",
+    "Coordonner et planifier la gestion des biens mobiliers (inventaire, suivi des mouvements, réformes, procédures de destruction).",
+    "Superviser les demandes d'interventions et de travaux auprès de la DAPM, ainsi que le suivi de la flotte de véhicules.",
+    "Suivre l'organisation et le stock stratégique gouvernemental géré par la DASS.",
+    "Concevoir, piloter et appliquer le plan d'archivage (papier et numérique) de la direction conformément à la réglementation.",
+    "Élaborer, analyser et consolider les tableaux de bord et indicateurs d'activité pour l'aide à la décision."
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Organiser les activités de la direction, gérer les priorités et faire face aux urgences avec réactivité.",
+    "Rédiger avec aisance et rigueur tous types de documents administratifs (procès-verbaux, synthèses, courriers d'autorité).",
+    "Concevoir, mettre à jour et analyser des tableaux de bord de pilotage.",
+    "Faire le lien entre la Direction, les services internes et les partenaires extérieurs.",
+    "Anticiper les besoins et être force de proposition pour l'optimisation des méthodes de travail.",
+    "Discrétion professionnelle absolue et strict respect du secret professionnel.",
+    "Autonomie, rigueur, méthode et grand sens de l'organisation.",
+    "Aisance relationnelle, diplomatie et maîtrise de soi en situation de stress ou de conflit.",
+    "Sens développé du service public et du travail en équipe."
+  ],
+  "specialCommitments": null,
+  "title": "Assistant(e) de direction et référent(e) support",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-27",
+  "workHours": null,
+  "champs_open_data": 26,
+  "employeur_sigle": "DASS",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES AFFAIRES SANITAIRES ET SOCIALES",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "administration-generale"
+}
