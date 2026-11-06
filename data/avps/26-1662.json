@@ -1,0 +1,177 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "DSI – Service Développement et Maintenance",
+    "nbAgentsEncadres": 2,
+    "superieurHierarchique": "Chef du Service Développement Maintenance",
+    "placeOrganigramme": "N-4 (par rapport au Directeur général)",
+    "relationsFonctionnelles": [
+      "Directions et responsables métiers concernés",
+      "Partenaires et fournisseurs stratégiques",
+      "Fournisseur du progiciel bancaire SaaS"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fourniture ou mise à disposition de matériels, biens ou services",
+        "value": "Téléphone mobile de sécurité"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955302.PDF"
+      }
+    ]
+  },
+  "alternateName": "Chef de section SI Bancaire",
+  "description": "Au sein du service Développements & Maintenance de la DSI, le(la) chef(fe) de section SI Bancaire est responsable de la fourniture et de l'évolution du service SI Bancaire, en veillant à son adéquation avec les besoins de l'OPT-NC. Il pilote l'organisation, les ressources, les priorités et les moyens nécessaires à la qualité et à la continuité du service. Il assure la relation avec les métiers et les principaux fournisseurs et contribue à la définition de la trajectoire du service, en cohérence avec les orientations de la DSI.",
+  "disambiguatingDescription": "Chef de section SI Bancaire au sein du Service développement et maintenance de la DSI de l'Office des Postes et des Télécommunications.",
+  "identifier": "26-1662",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "DSI - Chef de section SI Bancaire - Service développement et maintenance",
+  "owner": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "url": "http://www.opt.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Immeuble COPERNIC",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "59 Rue Georges Clémenceau",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.76.00",
+    "email": "DRH-candidature@opt.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-06",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "BAC+3 minimum à dominante informatique souhaité",
+    "competencyRequired": [
+      "Connaissance des principes de fonctionnement d'un SI bancaire",
+      "Solutions cloud et SaaS",
+      "Connaissance du cycle de vie des applications (évolution, maintenance, obsolescence et décommissionnement)",
+      "Connaissance des processus de gestion des incidents et demandes de changements",
+      "Connaissance des principes de sécurité des SI",
+      "Gestion documentaire et de projets : Confluence, JIRA et SharePoint",
+      "Connaissance du métier bancaire appréciée"
+    ]
+  },
+  "eligibilityToWorkRequirement": ".",
+  "employerOverview": "L'Office des Postes et des Télécommunications de Nouvelle-Calédonie (OPT-NC) est l'établissement public en charge des services postaux et des télécommunications.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "DSI – Service Développement et Maintenance",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience dans une activité similaire et expérience en management d'équipe SI exigées.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "url": "http://www.opt.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Postes et télécommunications",
+  "jobBenefits": "Indemnité de chef de section",
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Immeuble COPERNIC",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "59 Rue Georges Clémenceau",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable de système applicatif"
+  },
+  "responsibilities": [
+    "Piloter la section SI Bancaire, en organisant l'activité, les priorités et les ressources nécessaires à la réalisation des missions",
+    "Garantir l'adéquation du SI Bancaire aux besoins de l'OPT-NC, en lien avec les directions et responsables métiers concernés",
+    "Définir et suivre les priorités du domaine SI Bancaire, en tenant compte des enjeux métiers, des contraintes techniques, des risques et des ressources disponibles",
+    "Piloter le portefeuille des évolutions et projets du SI Bancaire, en assurant leur cohérence avec les orientations de la DSI et les priorités de l'OPT-NC",
+    "Superviser la qualité et la continuité du service, en s'appuyant sur le Service Delivery Manager et les indicateurs de performance du SI Bancaire",
+    "Piloter la relation avec les partenaires et fournisseurs stratégiques, notamment le fournisseur du progiciel bancaire SaaS, en lien avec les équipes concernées de la DSI",
+    "Maîtriser les coûts et les engagements du domaine, en participant à la préparation budgétaire, au suivi des dépenses et au pilotage des prestations",
+    "Anticiper les évolutions du SI Bancaire, en identifiant les enjeux fonctionnels, techniques, réglementaires et organisationnels susceptibles d'impacter le domaine",
+    "Développer les compétences de la section, en accompagnant les collaborateurs dans leur évolution professionnelle et en veillant à l'adéquation des compétences aux besoins du SI",
+    "Contribuer à la gouvernance de la DSI, en apportant une vision du domaine SI Bancaire et en participant aux arbitrages, instances et démarches d'amélioration du système d'information"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Piloter la qualité de service d'un portefeuille d'applications",
+    "Manager et accompagner une équipe",
+    "Construire et analyser des tableaux de bord et reporting",
+    "Analyser les incidents et dysfonctionnements, identifier leurs causes et coordonner leur résolution",
+    "Organiser et suivre les activités de maintenance corrective et évolutive",
+    "Arbitrer et prioriser les demandes",
+    "Analyser les besoins métier",
+    "Evaluer leur valeur et leur coût",
+    "Présenter une synthèse d'activité et alerter sur les points de vigilance",
+    "Conseiller, proposer, challenger de nouveaux processus et solutions",
+    "Leadership",
+    "Savoir prendre des décisions et déléguer efficacement",
+    "Facultés de communications",
+    "Esprit d'équipe",
+    "Résilience",
+    "Rigueur",
+    "Respect de la confidentialité"
+  ],
+  "specialCommitments": null,
+  "title": "DSI - Chef de section SI Bancaire - Service développement et maintenance",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-27",
+  "workHours": "2 jours de télétravail possibles",
+  "champs_open_data": 9,
+  "employeur_sigle": "OPT",
+  "collectivite": "Office des postes et télécommunications",
+  "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Système d'information",
+  "famille_source": "respnc",
+  "famille_score": 0.843,
+  "dossier": "systeme-d-information"
+}
