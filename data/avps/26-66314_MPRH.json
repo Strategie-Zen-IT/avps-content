@@ -1,0 +1,203 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "Service de l'économie numérique, des filières d'avenir et de l'attractivité",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service de l'économie numérique, des filières d'avenir et de l'attractivité",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Cellule communication du gouvernement",
+      "Coordinateur de site de la Station N"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Contexte du poste",
+        "value": "La Station N constitue aujourd'hui un lieu fédérateur de 700 m² au cœur de l'écosystème numérique, entrepreneurial et innovant calédonien."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de la mission",
+        "value": "Mission ponctuelle à compter du 04 Janvier 2027 jusqu'au 31 Décembre 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "SERVICE DE L'ÉCONOMIE NUMÉRIQUE, DES FILIÈRES D'AVENIR ET DES"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Bruno FERRANDIS, Directeur adjoint en charge du pôle entreprises et attractivité"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953468.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Inaugurée en 2022, la Station N constitue aujourd'hui un lieu fédérateur de 700 m² au cœur de l'écosystème numérique, entrepreneurial et innovant calédonien. Conçue à l'origine comme la vitrine de la Tech et de l'innovation en Nouvelle-Calédonie, elle a permis de structurer une communauté d'acteurs, de faire émerger des projets et de donner de la visibilité aux savoir-faire calédoniens en matière de numérique.\n\nLes enjeux économiques de la Nouvelle-Calédonie (diversification économique, structuration des filières d'avenir, urgence de l'attractivité du territoire) ont naturellement conduit à élargir le positionnement de la Station N vers un outil collectif au service de la stratégie d'attractivité et de diversification économique de la Nouvelle-Calédonie, sans remettre en cause son ancrage numérique fondateur. Ses objectifs sont désormais les suivants :\n- Réunir les forces vives du territoire sur un site partagé, pour favoriser les synergies et soutenir le développement des filières d'avenir. À terme, l'objectif est d'y regrouper les clusters, la French Tech NC, le Centre Cyber NC, le Campus N et la future agence d'attractivité, sur un site plus grand ;\n- Animer l'écosystème entrepreneurial, numérique et des filières d'avenir, via des ateliers, formations, événements et partenariats ;\n- Faire émerger des projets et des champions calédoniens, en orientant les porteurs de projets vers les bons experts, dispositifs, financements et réseaux (RDV en ligne avec un acteur, futur annuaire d'experts et de dispositifs transverses aux filières) ;\n- Valoriser les savoir-faire, talents et compétences calédoniens, et ainsi porter l'expertise calédonienne à l'extérieur du territoire.\n\nMissions : rattaché(e) au service de l'économie numérique, des filières d'avenir et de l'attractivité de la DECAT, le(a) chargé(e) de communication et évènementiel contribue au rayonnement, à la visibilité et à l'attractivité de la Station N. Il(elle) conçoit et met en œuvre la stratégie de communication et la programmation  évènementielle de la Station N, en cohérence avec les orientations de la direction. Il(elle) contribue à fédérer et animer la communauté de la Station N, à valoriser ses résidents, partenaires, projets et initiatives et plus largement, à promouvoir l'écosystème entrepreneurial, numérique et les filières d'avenir de la Nouvelle-Calédonie. Par la conception de contenus et d'évènements attractifs et innovants, il(elle) participe au développement de l'image et de la notoriété de la Station N et à son positionnement comme lieu des savoir-faire, talents et initiatives calédoniens.",
+  "disambiguatingDescription": null,
+  "identifier": "26-66314/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé de communication et évènementiel de la Station N",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "23.22.50",
+    "email": "bruno.ferrandis@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-06",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Formation supérieure en communication, communication digitale, évènementiel ou domaine connexe",
+    "competencyRequired": [
+      "SAVOIR",
+      "Formation supérieure en communication, communication digitale, évènementiel ou domaine connexe",
+      "Bonne connaissance des stratégies et outils de communication, notamment numériques",
+      "Connaissance des techniques de communication évènementielle et de valorisation de projets",
+      "Connaissance des principes de gestion de projet",
+      "Compréhension des enjeux liés à l'économie numérique, à l'innovation, aux filières d'avenir et à l'attractivité des territoires",
+      "Connaissance de l'écosystème entrepreneurial, numérique et de l'innovation calédonien appréciée",
+      "Connaissance de l'organisation et du fonctionnement des institutions de la Nouvelle-Calédonie",
+      "Maîtrise des outils bureautiques, collaboratifs et des principaux outils de communication numérique",
+      "Excellentes capacités rédactionnelles",
+      "Parfaite maîtrise de l'anglais compte tenu de l'environnement du poste et des enjeux en matière d'attractivité."
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "TEMPORARY",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Station N",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Communication",
+  "jobBenefits": null,
+  "jobDuration": "12 mois",
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Station N",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-04",
+  "occupationalCategory": [
+    "Communication",
+    "Animation"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé de communication"
+  },
+  "responsibilities": [
+    "Activités principales:",
+    "Placé sous l'autorité du chef du service de l'économie numérique, des filières d'avenir et de l'attractivité, le(a) chargé(e) de communication de la Station N  a pour activités principales :",
+    "Conception et programmation évènementielle: imaginer de nouveaux formats d'évènements, établir le calendrier évènementiel, développer les partenariats et assurer le lien avec les intervenants, experts, partenaires techniques des évènements.",
+    "Supervision logistique et pilotage: superviser l'organisation matérielle des évènements, coordonner les prestataires externes, gérer les dépenses et opérations y afférant allouées à chaque évènement.",
+    "Communication et promotion multicanale: créer les supports de communication, animer les canaux de diffusion des informations afin de maximiser le taux de participation de chaque évènement (campagne d'e-mailing, réseaux sociaux, site de la DECAT) et en lien avec la cellule communication du gouvernement.",
+    "Mesure des actions mises en œuvre: concevoir et mesurer les indicateurs de performance liés à l'activité, analyser la satisfaction des participants aux évènements, proposer des axes d'amélioration et d'optimisation.",
+    "Activités secondaires:",
+    "Transmettre un reporting régulier au chef du service de l'économie numérique, des filières d'avenir et de l'attractivité.",
+    "Suppléer le coordinateur de site de la Station N pendant son absence."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "SAVOIR-FAIRE",
+    "Concevoir et mettre en œuvre une stratégie et un plan de communication",
+    "Concevoir, organiser et piloter un évènement de bout en bout",
+    "Elaborer une programmation évènementielle",
+    "Créer et adapter des contenus à différents supports, canaux et publics",
+    "Conduire des réunions multi partenariales",
+    "Gérer simultanément plusieurs projets",
+    "Savoir gérer priorités, échéances et imprévus",
+    "Mettre en place des modalités de suivi de résultats (indicateurs de performance, axes d'amélioration)",
+    "Rendre compte de manière synthétique et régulière.",
+    "COMPORTEMENT PROFESSIONNEL",
+    "Créativité et capacité à proposer des formats innovants",
+    "Excellent relationnel et sens de la communication",
+    "Capacité à fédérer et à travailler avec des interlocuteurs diversifiés",
+    "Esprit d'équipe et qualités d'écoute",
+    "Autonomie, initiative et force de proposition",
+    "Méthode, rigueur, organisation et capacité d'anticipation",
+    "Réactivité et capacité d'adaptation",
+    "Esprit d'analyse et de synthèse",
+    "Dynamisme et curiosité professionnelle",
+    "Sens de la performance et du service public",
+    "Discrétion professionnelle et respect de la confidentialité",
+    "Disponibilité, notamment en fonction des contraintes liées à l'organisation d'évènements."
+  ],
+  "specialCommitments": "Disponibilité, notamment en fonction des contraintes liées à l'organisation d'évènements",
+  "title": "Chargé de communication et évènementiel de la Station N",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-27",
+  "workHours": null,
+  "champs_open_data": 24,
+  "employeur_sigle": "NOUVELLE-CALEDONIE",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DES ENTREPRISES, DE LA CONSOMMATION, DE L'ATTRACTIVITE ET DES TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Communication",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "communication"
+}
