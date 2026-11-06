@@ -1,0 +1,181 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien",
+    "direction": "VILLE DU MONT-DORE",
+    "uniteOrganisationnelle": "Infrastructures",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service Infrastructures",
+    "placeOrganigramme": "Placé sous l’autorité du chef du service Infrastructures",
+    "relationsFonctionnelles": [
+      "Gestionnaires de réseaux publics",
+      "Entreprises",
+      "Administrés"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Travail à l'intérieur ou à l'extérieur par tous les temps, en toutes saisons, à pied ou motorisé. Port de vêtements de protection individuelle requis. Horaires irréguliers en fonction de l'organisation des chantiers, des aléas climatiques et des situations de crise. Renfort des équipes du personnel de la direction en tant que de besoin. Permis VL. Bonne condition physique. Intervenir en cas de besoin les week-ends et jours fériés. Astreintes nuits et week-ends possibles."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957662.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l’autorité du chef du service Infrastructures, le (la) chef(fe) de section voirie dirige, planifie et coordonne l’activité de la section et des travaux effectués par les entreprises et les concessionnaires.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1556",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef(fe) de section voirie",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Area",
+    "name": "Ville du Mont-Dore",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Mont-Dore",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "43.30.36",
+    "email": "daniel.contal@ville-montdore.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-10-23",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+2",
+    "competencyRequired": [
+      "Diplôme de niveau 5 (anciennement III) exigé dans le domaine des travaux publics et VRD",
+      "Maîtrise des techniques des différents corps de métiers des travaux publics (voirie et réseaux divers)",
+      "Bonnes connaissances sur la réglementation des marchés publics en Nouvelle-Calédonie",
+      "Compétence et expérience confirmées en maîtrise d’œuvre (conception et suivi de travaux) VRD",
+      "Connaissance des bases de la coordination SPS (Sécurité et Protection de la Santé)",
+      "Bonne connaissance de la commune",
+      "Connaissance des techniques d’entretien du patrimoine des chaussées, des revêtements routiers, des réseaux divers (assainissement, AEP, et mobilier urbain)",
+      "Maîtrise de la gestion du domaine public",
+      "Techniques rédactionnelles et maîtrise de l’orthographe"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service Infrastructures",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience souhaitée d’au moins cinq ans dans le domaine d’activité",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mont-Dore – La Coulée",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "La Coulée",
+      "addressLocality": "Mont-Dore",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98809"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements"
+  ],
+  "physicalRequirement": "Bonne condition physique",
+  "qualifications": "Permis VL",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chef d'équipe"
+  },
+  "responsibilities": [
+    "Assurer la maîtrise d’ouvrage et/ou la maîtrise d’œuvre d’opérations de voirie et de réseaux divers (VRD) pour les missions relevant de la Section",
+    "Entretenir et gérer le réseau de voies publiques (chaussée, revêtements, réseaux divers, etc.)",
+    "Élaborer le programme pluriannuel d’entretien des voies publiques",
+    "Gérer la signalisation verticale et horizontale des voies communales",
+    "Gérer les arrêtés de circulation et les autorisations de voirie pour les travaux sur réseaux publics",
+    "Programmer et piloter des missions confiées à la section : interventions au quotidien ou planifiées, patrouilles, bon fonctionnement des réseaux, signalisation",
+    "Rédiger des courriers aux gestionnaires de réseaux publics, aux entreprises et aux administrés pour les missions relevant de la section",
+    "Manager/encadrer une équipe",
+    "Établir les tableaux de bord et effectuer le reporting des travaux hebdomadaires réalisés en régie et confiés aux entreprises"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtriser la mise en œuvre des solutions de revêtements routiers",
+    "Manager une équipe d’ouvriers de production",
+    "Rechercher et définir les solutions techniques les plus appropriées",
+    "Concevoir et mettre en œuvre des procédures et méthodes de travail",
+    "Planifier les activités des équipes en fonction des priorités",
+    "Analyser les coûts : réaliser et présenter des bilans et des ratios sur les opérations suivies sous forme de tableaux de bord de production",
+    "Maîtriser les logiciels de bureautique (messagerie et agenda électronique, traitement de texte et tableur) et de planification",
+    "Planifier et organiser les tâches de production (notamment avec les outils mis à disposition)",
+    "Évaluer techniquement et financièrement des travaux relevant de son domaine d’activité",
+    "Contrôler des travaux et leur conformité avec les règles de l’art",
+    "Suivre l’exécution du budget pour les prestations d’entretiens et de travaux",
+    "Établir des états des lieux, des rapports, des comptes rendus, des bilans d’activité",
+    "Mettre à jour les bases de données du patrimoine",
+    "Gérer des situations de conflit",
+    "Grande autonomie",
+    "Dynamisme",
+    "Disponibilité",
+    "Esprit d’analyse et de synthèse",
+    "Sens du service public et du résultat",
+    "Bonne présentation",
+    "Discrétion et confidentialité",
+    "Bon sens relationnel",
+    "Aptitudes à travailler en équipe",
+    "Respect de la hiérarchie",
+    "Sens de la négociation",
+    "Veiller au respect des procédures",
+    "Savoir organiser son travail en fonction des évolutions des priorités et/ou des urgences"
+  ],
+  "specialCommitments": "Astreintes nuits et week-ends possibles",
+  "title": "Chef(fe) de section voirie",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-13",
+  "workHours": "Horaires irréguliers",
+  "champs_open_data": 9,
+  "employeur_sigle": "VILLE-DU-MONT-DORE",
+  "collectivite": "Ville du Mont-Dore",
+  "direction": "VILLE DU MONT-DORE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Incendie et secours",
+  "famille_source": "respnc",
+  "famille_score": 0.787,
+  "dossier": "incendie-et-secours"
+}
