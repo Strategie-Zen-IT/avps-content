@@ -1,0 +1,167 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif",
+    "direction": "CENTRE D'ACTION COMMUNALE DE NOUMEA",
+    "uniteOrganisationnelle": "Service Logistique Administratif et Financier",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur adjoint",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "SLAF",
+      "Direction",
+      "Conseil d'administration",
+      "Attachée de direction",
+      "Pôle budgétaire",
+      "Ville de Nouméa"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Pour le recrutement sur titre : pour le recrutement direct d'adjoint administratif : au moins égale à 10 ans."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957368.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le Centre Communal d'Action Sociale (CCAS) de la ville de Nouméa est un établissement public de la commune géré par un Conseil d'Administration. Il anime une action générale de prévention et de développement social dans la commune, en liaison étroite avec les institutions publiques et privées. Il comprend 3 services opérationnels (le service accompagnement individualisé, le service animation et actions collectives, le service famille et coéducation) et un service fonctionnel chargé de la gestion administrative, financière et logistique.",
+  "disambiguatingDescription": "Au sein du Service Logistique Administratif et Financier (SLAF) du CCAS, sous l'autorité hiérarchique du directeur adjoint, le secrétaire organise la réception, le traitement et la circulation de l'information du CCAS. Il exécute les actes administratifs courants. Il assure le suivi de l'ensemble de la logistique du CCAS.",
+  "identifier": "26-1680",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "1 secrétaire",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre d'action communale de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Mairie annexe Galliéni 1",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "20 rue Galliéni",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.07.86",
+    "email": "laure.dessault@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-06",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Maîtrise des procédures administratives de la collectivité",
+      "Maîtrise des techniques de secrétariat et de bureautique (Word, Excel, Google WorkSpace et Post-Office)",
+      "Technique de communication écrite et orale",
+      "Maîtrise du logiciel eConcept",
+      "Connaissance et respect des procédures en vigueur"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence au moins égale à 10 ans pour le recrutement direct d'adjoint administratif",
+  "employerOverview": "Le Centre Communal d'Action Sociale (CCAS) de la ville de Nouméa est un établissement public de la commune géré par un Conseil d'Administration. Il anime une action générale de prévention et de développement social dans la commune, en liaison étroite avec les institutions publiques et privées.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service Logistique Administratif et Financier",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre d'action communale de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie annexe Galliéni 1",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "20 rue Galliéni",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "secrétaire"
+  },
+  "responsibilities": [
+    "Réceptionner, traiter et diffuser les courriers et courriels (arrivée et départ) et les factures",
+    "Réaliser les travaux de secrétariat pour le SLAF et la direction (mise en forme de documents administratifs) et assurer la diffusion interne/externe",
+    "Instruire les demandes d'aides sociales (dont les aides aux vacances) et traiter les suites des commissions",
+    "Réceptionner les appels téléphoniques",
+    "Accueillir les partenaires, fournisseurs et/ou administrés",
+    "Contribuer au secrétariat des séances du conseil d'administration et de ses commissions (réserver les salles et rédiger les ordres de service, rédiger et envoyer les convocations aux administrateurs, préparer et envoyer les dossiers, tenir le cahier d'émargement et diffuser les comptes rendus,...)",
+    "Traiter les suites administratives des séances du conseil d'administration et de ses commissions, en lien avec l'attachée de direction (envoi des documents au contrôle de légalité, signature des conventions, affichage des délibérations, diffusion au pôle budgétaire, envoi à la Ville des délibérations pour affichage électronique,...)",
+    "Assurer le suivi administratif des actes",
+    "Trier, classer et archiver les documents",
+    "Gérer le parc automobile (entretien, révision, réparation)",
+    "Assurer le suivi du stock des fournitures du CCAS et passer les commandes (fournitures en bureautique, timbres, imprimés notamment)",
+    "Gérer le parc informatique et assurer le suivi du recensement du matériel",
+    "Assurer le suivi de la logistique générale des locaux du CCAS",
+    "Participer à la préparation du Plan Communal de Sauvegarde (demande de devis, mise à jour des contacts, ...)",
+    "Assurer la continuité de service au sein du service logistique administratif et financier (accueil, secrétariat)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Accueillir et orienter le public, les partenaires",
+    "Organiser et classer des documents et informations diverses",
+    "Rédiger et mettre en forme tous types de documents",
+    "Discrétion et respect de la confidentialité",
+    "Rigueur et sens de l'organisation",
+    "Sens des relations humaines",
+    "Travail en équipe",
+    "Disponibilité"
+  ],
+  "specialCommitments": null,
+  "title": "1 secrétaire",
+  "totalJobOpenings": 5,
+  "validThrough": "2026-11-27",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "CCAS-NOUMÉA",
+  "collectivite": "Centre d'action communale de Nouméa",
+  "direction": "CENTRE D'ACTION COMMUNALE DE NOUMEA",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.987,
+  "dossier": "administration-generale"
+}
