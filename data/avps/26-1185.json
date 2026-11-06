@@ -6,7 +6,10 @@
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef de bureau de proximité des soins",
     "placeOrganigramme": null,
-    "relationsFonctionnelles": [],
+    "relationsFonctionnelles": [
+      "Chef du Bureau de Proximité de Soins",
+      "Pôle Soins"
+    ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
@@ -16,7 +19,7 @@
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Ce poste est soumis à astreinte de nuit"
+        "value": "Ce poste est soumis à astreinte de nuit."
       },
       {
         "@type": "PropertyValue",
@@ -35,7 +38,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "https://www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -43,7 +46,18 @@
   "url": "https://www.province-nord.nc/avp",
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "AreaServed",
+    "name": "CMS de CANALA",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Canala",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
@@ -53,32 +67,32 @@
   "datePosted": "2026-08-07",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'état infirmier",
+    "credentialCategory": "Diplôme d'état infirmier exigé",
     "competencyRequired": [
-      "Diplôme d'état infirmier exigé",
+      "Diplôme d'état infirmier",
       "Expérience du travail en poste isolé",
       "Expérience des urgences"
     ]
   },
-  "eligibilityToWorkRequirement": null,
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale 5 ans",
   "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "PROVINCE NORD",
-    "url": "www.province-nord.nc",
+    "name": "CMS de CANALA",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience du travail en poste isolé et expérience des urgences exigées.",
+  "experienceRequirements": "Expérience du travail en poste isolé, Expérience des urgences",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique soins",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -108,10 +122,10 @@
   },
   "responsibilities": [
     "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
-    "Les actes curatifs (consultations, urgences, soins)",
-    "Les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
-    "Les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire...)",
-    "La téléconsultation (en l'absence de médecin en présentiel)",
+    "Prendre en charge les actes curatifs (consultations, urgences, soins)",
+    "Prendre en charge les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
+    "Prendre en charge les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
+    "Assurer la téléconsultation (en l'absence de médecin en présentiel)",
     "Assurer l'encadrement des stagiaires, notamment les étudiants infirmiers"
   ],
   "salaryCurrency": "XPF",
@@ -119,7 +133,8 @@
   "sensoryRequirement": null,
   "skills": [
     "Maîtrise des logiciels de bureautique (Excel et Word)",
-    "Disponibilité et rigueur",
+    "Disponibilité",
+    "Rigueur",
     "Respect de la confidentialité des informations et du secret médical",
     "Sens des responsabilités",
     "Goût des relations humaines",
