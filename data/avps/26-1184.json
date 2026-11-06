@@ -2,15 +2,16 @@
   "additionalType": {
     "corpsDomaine": "Chirurgien dentiste",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "CMS de TOUHO",
+    "uniteOrganisationnelle": "Bureau dentaire du Service des Métiers de Soins du Pôle Soins",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef(fe) de Bureau Dentaire, et directeur(-trice) adjoint(e) en charge du Pôle Soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Bureau dentaire du Service des Métiers de Soins du Pôle Soins",
       "CMS",
-      "Autres spécialistes et partenaires (médicaux, sociaux, associatifs, scolaire...)",
-      "Agence sanitaire et sociale"
+      "Spécialistes et partenaires médicaux",
+      "Sociaux",
+      "Associatifs",
+      "Scolaire"
     ],
     "informationsLibres": [
       {
@@ -20,13 +21,13 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Poste à pourvoir",
-        "value": "immédiatement"
+        "name": "Effectif de la direction",
+        "value": "La DASSPS compte 249 agents"
       },
       {
         "@type": "PropertyValue",
-        "name": "Contexte du service",
-        "value": "Le Bureau dentaire du Service des Métiers de Soins du Pôle Soins gère les chirurgiens-dentistes et les assistantes dentaires des centres médico-sociaux et compte 20 agents (1 chef de Bureau dentaire, 10 chirurgiens-dentistes, 9 assistants(es) dentaires)"
+        "name": "Effectif du bureau d'affectation",
+        "value": "Le Bureau dentaire compte 20 agents (1 chef de Bureau dentaire, 10 chirurgiens-dentistes, 9 assistants(es) dentaires)"
       },
       {
         "@type": "PropertyValue",
@@ -36,8 +37,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La DASSPS compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles, 8 services et 14 bureaux. Le poste consiste à effectuer les actes du champ professionnel du praticien dentaire en veillant à répondre à la mission de santé publique du poste, à appliquer la politique de santé publique de la province Nord et à mettre en œuvre ses programmes de dépistage, de prévention et de promotion de la santé bucco-dentaire.",
-  "disambiguatingDescription": null,
+  "description": "La DASSPS de la Province Nord recrute un Chirurgien-Dentiste pour le CMS de Touho. Le poste consiste à effectuer les actes du champ professionnel du praticien dentaire en veillant à répondre à la mission de santé publique du poste, notamment en appliquant la politique de santé publique de la province Nord et en mettant en œuvre ses programmes de dépistage, de prévention et de promotion de la santé bucco-dentaire.",
+  "disambiguatingDescription": "Poste de chirurgien-dentiste basé au CMS de Touho au sein de la DASSPS de la Province Nord.",
   "identifier": "26-1184",
   "image": null,
   "mainEntityOfPage": null,
@@ -45,26 +46,15 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "http://www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": "www.province-nord.nc",
+  "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Place",
-    "name": "CMS de TOUHO",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": null,
-      "addressLocality": "Touho",
-      "addressRegion": "Province Nord",
-      "addressCountry": "NC",
-      "province": "province Nord"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.72.30",
@@ -84,9 +74,9 @@
   "employerOverview": "La DASSPS compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "Organization",
-    "name": "Province Nord",
-    "url": "www.province-nord.nc",
+    "@type": "OrganizationalUnit",
+    "name": "CMS de Touho",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
@@ -95,7 +85,7 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "www.province-nord.nc"
+    "url": "http://www.province-nord.nc"
   },
   "incentiveCompensation": null,
   "industry": "Santé publique",
@@ -104,7 +94,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "CMS de TOUHO",
+    "name": "CMS de Touho",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -116,7 +106,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Santé publique soins"
   ],
@@ -128,7 +118,7 @@
   },
   "responsibilities": [
     "Réalisation des soins conservateurs et restaurateurs, extractions dentaires, acte de petite chirurgie et de parodontie, prothèse adjointe et conjointe",
-    "Gestion et le suivi des soins aux publics cible (RAA/CRC, diabétique, etc...)",
+    "Gestion et le suivi des soins aux publics cible (RAA/CRC, diabétique, etc.)",
     "Participation aux actions de dépistage et de prévention propres à la province Nord ou en partenariat avec d'autres organismes",
     "Entretien, le nettoyage et la désinfection du mobilier et de l'équipement professionnels",
     "Désinfection des instruments et leur stérilisation en autoclave",
@@ -136,7 +126,7 @@
     "Restitution de bilans d'activité et de tableaux de soins aux publics cible sur demande de la direction",
     "Enregistrement, la codification (selon la CIM 10) et la cotation des actes sur le logiciel de la province Nord",
     "Information des patients en matière d'hygiène bucco-dentaire et alimentaire et leur motivation aux gestes d'hygiène",
-    "Intervention sur site lors de certaines manifestations ou journées à thème (journées provinciales du diabète, journées d'informations en lien avec la santé bucco-dentaire, etc...)",
+    "Intervention sur site lors de certaines manifestations ou journées à thème",
     "Interventions de prévention ou d'information dans les écoles, collèges, lycées de proximité",
     "Réalisation des EAE de l'assistant(e) dentaire"
   ],
@@ -154,7 +144,7 @@
     "Goût des relations humaines et disponibilité",
     "Sens de l'organisation",
     "Esprit d'initiative, autonomie",
-    "Respect de la confidentialité des informations, du secret médical et des règles déontologiques de la profession"
+    "Respect de la confidentialité des informations, du secret médical et des règles déontologiques"
   ],
   "specialCommitments": null,
   "title": "Chirurgien-dentiste à Touho",
