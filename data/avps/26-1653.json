@@ -1,0 +1,209 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur du contrôle de la navigation aérien",
+    "direction": "DIRECTION DE L'AVIATION CIVILE",
+    "uniteOrganisationnelle": "Service de la navigation aérienne",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de subdivision Contrôle",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "CCI",
+      "Sub ET/QS",
+      "SNA-NC",
+      "BA186",
+      "Subdivision instruction",
+      "Subdivision Etudes et Qualité de service",
+      "MR Tontouta"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Corps ou Cadre d'emploi / Domaine",
+        "value": "Ingénieur du Contrôle de la Navigation Aérienne de l'Aviation Civile / Ingénieurs des Études et de l'Exploitation de l'Aviation Civile"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Certificat médical",
+        "value": "Certificat médical d'aptitude OM obligatoire"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Astreinte",
+        "value": "Peut participer à l'astreinte opérationnelle du SNA-NC (RPO)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction de l'aviation civile"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "179 rue Roger GERVOLINO - Magenta"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P.  H1 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "dac-nc-sa-bpers@aviation-civile.gouv.fr"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956622.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous l'autorité du chef de subdivision Contrôle, l'assistant de subdivision Contrôle en charge de la CA Tontouta encadre les ATCO de l'organisme de Tontouta et pilote le tableau de service.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1653",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Assistant de subdivision Contrôle",
+  "owner": {
+    "@type": "Organization",
+    "name": "Direction de l'aviation civile"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "35.24.01",
+    "email": "tangi.garnier@aviation-civile.gouv.fr"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-06",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaissance de la réglementation de la circulation aérienne",
+      "Connaissance du fonctionnement opérationnel d'un aéroport",
+      "Bonne connaissances des arrêtés qui régissent le métier de contrôleur aérien",
+      "Connaissance des espaces aériens de NC",
+      "Bon niveau en anglais"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de la navigation aérienne",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de l'aviation civile"
+  },
+  "incentiveCompensation": null,
+  "industry": "Aviation civile",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Tontouta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98890"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "immédiatement",
+  "occupationalCategory": [
+    "Aviation civile"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Certificat médical d'aptitude OM obligatoire",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable aviation civile"
+  },
+  "responsibilities": [
+    "Etablit le tableau de service des contrôleurs de Tontouta",
+    "Participe à la veille réglementaire, en collaboration avec le chef de subdivision Contrôle et le RSMI, dans son domaine de compétence",
+    "Etablit les consignes opérationnelles et veille à leur application",
+    "Centralise et diffuse les informations temps réel en coordination avec les entités concernées (CCI, Sub ET/QS, ...)",
+    "Assure le suivi et la mise à jour des manuels d'exploitation de l'organisme de Tontouta",
+    "Participe au suivi et à la mise à jour des LoA avec les organismes voisins, du SNA-NC ou étrangers",
+    "Participe au suivi et à la mise à jour des protocoles avec les autres entités de l'aéroport de Tontouta (CCI, BA186, ...)",
+    "S'assure du respect de la réglementation dans son domaine d'activité",
+    "Suit les projets CA et participe ou anime les GT associés",
+    "En coordination avec la subdivision instruction, suit la formation et la validité de la mention d'unité des contrôleurs",
+    "En coordination avec la subdivision Etudes et Qualité de service, participe au suivi QS",
+    "Participe aux suivis sécurité exploitation",
+    "Participe aux GSSE (groupes de suivi exploitation)",
+    "Participe aux CLS/E",
+    "S'assure du recueil et du traitement des constats dans son domaine",
+    "Suit les évènements de sécurité (eFNE) déclaré dans Safetycube",
+    "S'assure que les indicateurs sécurité/qualité pertinents pour son domaine sont renseigné",
+    "En coordination avec le chargé QS de la subdivision Etudes & QS, il s'assure de la mise en œuvre et du suivi des actions correctives et préventives et de la diffusion des REX",
+    "S'assure de l'application des procédures d'évaluation et d'atténuation des risques",
+    "Est l'interlocuteur de la MR Tontouta en ce qui concerne les mises en services de nouveaux systèmes ou les pannes impactant l'exploitation",
+    "Est l'interlocuteur identifié pour le suivi OLAFATCO des contrôleurs de Tontouta notamment, en ce qui concerne les heures de contrôles déclarées",
+    "Peut participer aux CFU ou commissions spéciales",
+    "Peut participer au CODIV Exploitation, sur demande du chef Subdivision Contrôle",
+    "Peut participer à l'astreinte opérationnelle du SNA-NC (RPO)",
+    "Participe au processus R1",
+    "Suit les processus R4 et M3",
+    "Participe à la mise en œuvre et le suivi des procédures du SMI dans son domaine de compétences",
+    "Participe à la veille règlementaire, en coordination avec le RSMI, dans son domaine d'activité",
+    "Participe à l'élaboration et au suivi du plan de formation des agents de la DAC-NC"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Encadrer et animer une équipe opérationnelle de contrôleurs aériens",
+    "Élaborer et suivre les tableaux de service",
+    "Rédiger et mettre à jour les procédures opérationnelles",
+    "Participer à l'analyse et au suivi des événements de sécurité",
+    "Conduire ou participer à des groupes de travail",
+    "Coordonner les actions avec les partenaires de la plateforme",
+    "Assurer la coordination avec les partenaires et usagers",
+    "Assurer le suivi réglementaire et documentaire",
+    "Travailler en coordination avec de multiples acteurs",
+    "Sens des responsabilités et de l'intérêt du service",
+    "Qualités relationnelles et sens du dialogue",
+    "Esprit d'équipe",
+    "Capacité de décision",
+    "Force de proposition",
+    "Rigueur et méthode dans le suivi des dossiers",
+    "Adaptabilité"
+  ],
+  "specialCommitments": null,
+  "title": "Assistant de subdivision Contrôle",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-27",
+  "workHours": null,
+  "champs_open_data": 11,
+  "employeur_sigle": "DAC",
+  "collectivite": "Direction de l'aviation civile",
+  "direction": "DIRECTION DE L'AVIATION CIVILE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Aviation civile",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "aviation-civile"
+}
