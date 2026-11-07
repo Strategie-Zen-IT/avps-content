@@ -92,7 +92,7 @@
   },
   "incentiveCompensation": null,
   "industry": "Postes et télécommunications",
-  "jobBenefits": "Indemnité de travaux insalubres ou dangereux",
+  "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -113,7 +113,7 @@
   "occupationalCategory": [
     "Postes et télécommunications"
   ],
-  "physicalRequirement": "Travaux en hauteur, travaux insalubres ou dangereux",
+  "physicalRequirement": null,
   "qualifications": "permis de conduire catégorie B et E, habilitation électrique B0, H0V et BR, permis CACES PEMP catégorie 1B",
   "relevantOccupation": {
     "@type": "Occupation",
@@ -148,11 +148,11 @@
     "Sens du service public",
     "Faculté d’adaptation"
   ],
-  "specialCommitments": "Astreintes et travail possible hors heures ouvrées",
+  "specialCommitments": null,
   "title": "DT - Agent technique - USD Canala",
   "totalJobOpenings": 5,
   "validThrough": "2026-11-27",
-  "workHours": "Travail possible hors heures ouvrées",
+  "workHours": "travail possible hors heures ouvrées",
   "champs_open_data": 8,
   "employeur_sigle": "OPT",
   "collectivite": "Office des postes et télécommunications",
