@@ -1,7 +1,7 @@
 {
   "additionalType": {
     "corpsDomaine": "Rédacteur / adjoint administratif",
-    "direction": "AGENCE DE DEVELOPPEMENT DE LA CULTURE KANAKE",
+    "direction": "Agence de développement de la culture kanak",
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Secrétaire général",
@@ -38,7 +38,7 @@
   "name": "Gestionnaire des ressources humaines",
   "owner": {
     "@type": "Organization",
-    "name": "Agence de développement de la culture kanake"
+    "name": "Agence de développement de la culture kanak"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -91,7 +91,7 @@
   "experienceRequirements": "Expérience avérée dans la gestion opérationnelle de la paie et dans l’utilisation d’un logiciel de paie.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Agence de développement de la culture kanake"
+    "name": "Agence de développement de la culture kanak"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -168,8 +168,8 @@
   "workHours": null,
   "champs_open_data": 9,
   "employeur_sigle": "ADCK",
-  "collectivite": "Agence de développement de la culture kanake",
-  "direction": "AGENCE DE DEVELOPPEMENT DE LA CULTURE KANAKE",
+  "collectivite": "Agence de développement de la culture kanak",
+  "direction": "Agence de développement de la culture kanak",
   "direction_source": "source",
   "employeur_source": "source",
   "famille_respnc": "Ressources Humaines",

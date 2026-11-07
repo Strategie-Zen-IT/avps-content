@@ -1,7 +1,7 @@
 {
   "additionalType": {
     "corpsDomaine": "Attaché / rédacteur",
-    "direction": "AGENCE DE DEVELOPPEMENT DE LA CULTURE KANAKE",
+    "direction": "Agence de développement de la culture kanak",
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Secrétaire général",
@@ -38,7 +38,7 @@
   "name": "Chef de service",
   "owner": {
     "@type": "Organization",
-    "name": "Agence de développement de la culture kanake"
+    "name": "Agence de développement de la culture kanak"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -96,7 +96,7 @@
   "experienceRequirements": "Expérience professionnelle significative en gestion administrative et financière.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Agence de développement de la culture kanake"
+    "name": "Agence de développement de la culture kanak"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -169,8 +169,8 @@
   "workHours": "Très grande disponibilité",
   "champs_open_data": 6,
   "employeur_sigle": "ADCK",
-  "collectivite": "Agence de développement de la culture kanake",
-  "direction": "AGENCE DE DEVELOPPEMENT DE LA CULTURE KANAKE",
+  "collectivite": "Agence de développement de la culture kanak",
+  "direction": "Agence de développement de la culture kanak",
   "direction_source": "source",
   "famille_respnc": "Finances et budget",
   "famille_source": "respnc",

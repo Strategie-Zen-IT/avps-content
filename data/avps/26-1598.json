@@ -1,7 +1,7 @@
 {
   "additionalType": {
     "corpsDomaine": "Technicien adjoint",
-    "direction": "AGENCE DE DEVELOPPEMENT DE LA CULTURE KANAKE",
+    "direction": "Agence de développement de la culture kanak",
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef de département des moyens techniques et de son adjoint",
@@ -38,7 +38,7 @@
   "name": "Technicien polyvalent",
   "owner": {
     "@type": "Organization",
-    "name": "Agence de développement de la culture kanake"
+    "name": "Agence de développement de la culture kanak"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -89,7 +89,7 @@
   "experienceRequirements": "Compétences avérées et polyvalentes dans les métiers du second-œuvre",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Agence de développement de la culture kanake"
+    "name": "Agence de développement de la culture kanak"
   },
   "incentiveCompensation": null,
   "industry": "Culture",
@@ -168,8 +168,8 @@
   "workHours": "Horaires modulables en fonction des obligations du service et des manifestations culturelles",
   "champs_open_data": 10,
   "employeur_sigle": "ADCK",
-  "collectivite": "Agence de développement de la culture kanake",
-  "direction": "AGENCE DE DEVELOPPEMENT DE LA CULTURE KANAKE",
+  "collectivite": "Agence de développement de la culture kanak",
+  "direction": "Agence de développement de la culture kanak",
   "direction_source": "source",
   "employeur_source": "source",
   "famille_respnc": "Patrimoine bâti",

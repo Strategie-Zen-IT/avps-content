@@ -1,7 +1,7 @@
 {
   "additionalType": {
     "corpsDomaine": "Agent du patrimoine",
-    "direction": "AGENCE DE DEVELOPPEMENT DE LA CULTURE KANAKE",
+    "direction": "Agence de développement de la culture kanak",
     "uniteOrganisationnelle": "Centre Culturel Tjibaou",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef de Département des Publics et du Développement Culturel (DPDC) et de son adjoint",
@@ -33,7 +33,7 @@
   "name": "Agent d'accueil et de médiation culturelle",
   "owner": {
     "@type": "Organization",
-    "name": "Agence de développement de la culture kanake"
+    "name": "Agence de développement de la culture kanak"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -75,7 +75,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Agence de développement de la culture kanake"
+    "name": "Agence de développement de la culture kanak"
   },
   "incentiveCompensation": null,
   "industry": "Culture",
@@ -152,8 +152,8 @@
   "workHours": "Travail le week-end et ponctuellement en soirée",
   "champs_open_data": 9,
   "employeur_sigle": "ADCK",
-  "collectivite": "Agence de développement de la culture kanake",
-  "direction": "AGENCE DE DEVELOPPEMENT DE LA CULTURE KANAKE",
+  "collectivite": "Agence de développement de la culture kanak",
+  "direction": "Agence de développement de la culture kanak",
   "direction_source": "source",
   "employeur_source": "source",
   "famille_respnc": "Culture",
