@@ -1,0 +1,181 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Aide-soignant",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Chirurgie polyvalente",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cadre supérieur de santé du CHT",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Infirmier",
+      "Personnel infirmier"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Statut particulier",
+        "value": "Statut particulier des personnels paramédicaux de la Nouvelle-Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Immédiatement et 1 susceptible d'être vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952026.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'aide-soignant dispense, en collaboration avec l'infirmier, des soins de prévention, de maintien, de relation et d'éducation à la santé, pour préserver et restaurer la continuité de la vie, le bien-être et l'autonomie de la personne au sein du service de chirurgie polyvalente.",
+  "disambiguatingDescription": "Recrutement de deux aides-soignants en chirurgie polyvalente au Centre Hospitalier Territorial.",
+  "identifier": "26-1685",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "2 Aide-soignant(e)s en chirurgie polyvalente",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.80.00",
+    "email": "francois.perraudeau@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-06",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'Etat d'Aide-soignant ou Certificat d'Aptitude à la Fonction d'Aide-soignant",
+    "competencyRequired": [
+      "Soins de premiers secours (AFGSU)",
+      "Gestes et postures - Manutention",
+      "Hygiène hospitalière",
+      "Bio-nettoyage et hygiène des locaux"
+    ]
+  },
+  "eligibilityToWorkRequirement": ".",
+  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret est l'établissement de santé de référence en Nouvelle-Calédonie, situé au Médipôle Koutio.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre Hospitalier Territorial",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience souhaitée en service similaire.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "incentiveCompensation": "Primes spécifiques (nuit, week-end...)",
+  "industry": "Santé",
+  "jobBenefits": "Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (Grille salariale de la santé de Nouvelle Calédonie)",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": "Gestes et postures - Manutention",
+  "qualifications": "Diplôme d'Etat d'Aide-soignant ou Certificat d'Aptitude à la Fonction d'Aide-soignant",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Aide-soignant"
+  },
+  "responsibilities": [
+    "Accueil des personnes (patient, usager, famille, etc.)",
+    "Réalisation des soins de confort et de bien-être",
+    "Observation et mesure des paramètres vitaux, dans son champ de compétence",
+    "Aide au personnel infirmier dans la réalisation des soins",
+    "Accompagnement du patient et / ou de son entourage",
+    "Observation de l'état de santé et du comportement relationnel et social du patient",
+    "Entretien de l'environnement immédiat du patient et réfection du lit",
+    "Réalisation des transmissions par oral et par écrit, pour maintenir la continuité des soins",
+    "Entretien du matériel de soins et approvisionnement des chariots",
+    "Observation du bon fonctionnement des appareillages et dispositifs médicaux",
+    "Participe aux rangements des différentes réserves",
+    "Participe à la gestion des situations d'urgence selon la procédure en vigueur dans le service",
+    "Accueil, information et formation des personnels nouvellement recrutés et des apprenants (élèves, stagiaires)"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Rigueur",
+    "Sens du relationnel",
+    "Travail en équipe",
+    "Adaptabilité"
+  ],
+  "specialCommitments": "Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)",
+  "title": "2 Aide-soignant(e)s en chirurgie polyvalente",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-27",
+  "workHours": "Horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)",
+  "champs_open_data": 13,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.976,
+  "dossier": "sante-publique-soins"
+}
