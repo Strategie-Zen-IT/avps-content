@@ -93,7 +93,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Maré",
+    "name": "Commune de Maré",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Tadine",

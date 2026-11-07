@@ -44,7 +44,7 @@
   "name": "Chef de service",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "url": "https://www.noumea.nc"
   },
   "potentialAction": null,
@@ -55,7 +55,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "16, rue du général Mangin",
@@ -96,7 +96,7 @@
   "experienceRequirements": "Expérience confirmée en direction de service et coordination d'équipes",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "url": "https://www.noumea.nc"
   },
   "incentiveCompensation": null,

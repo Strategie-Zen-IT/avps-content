@@ -48,7 +48,7 @@
   "name": "Responsable du service technique",
   "owner": {
     "@type": "Organization",
-    "name": "Commune de POUEMBOUT"
+    "name": "Commune de Pouembout"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -84,7 +84,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Commune de POUEMBOUT",
+    "name": "Commune de Pouembout",
     "url": null,
     "logo": null
   },
@@ -93,7 +93,7 @@
   "experienceRequirements": "Expérience professionnelle sur un poste similaire serait appréciée. Compétences et expérience en management.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Commune de POUEMBOUT"
+    "name": "Commune de Pouembout"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -102,7 +102,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Pouembout",
+    "name": "Commune de Pouembout",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "302, Avenue de Pouembout",
@@ -161,7 +161,7 @@
   "workHours": "Temps complet",
   "champs_open_data": 9,
   "employeur_sigle": "COMMUNE-DE-POUEMBOUT",
-  "collectivite": "Commune de POUEMBOUT",
+  "collectivite": "Commune de Pouembout",
   "direction": "",
   "direction_source": "absente",
   "employeur_source": "document",

@@ -37,7 +37,7 @@
   "name": "3 gardiens",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -76,7 +76,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -85,7 +85,7 @@
   "jobImmediateStart": null,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "16, rue du général Mangin",
@@ -137,7 +137,7 @@
   "workHours": "De jour comme de nuit",
   "champs_open_data": 8,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
-  "collectivite": "Mairie de Nouméa",
+  "collectivite": "Ville de Nouméa",
   "direction": "DIRECTION DE LA POLICE MUNICIPALE",
   "direction_source": "document",
   "employeur_source": "document",

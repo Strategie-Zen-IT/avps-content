@@ -37,7 +37,7 @@
   "name": "Chef de service études et projets",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -89,7 +89,7 @@
   "experienceRequirements": "Expérience souhaitée d'au minimum 3 ans sur un poste similaire d’encadrement ou de responsabilité de projets SI",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": "Système d'information",
@@ -157,7 +157,7 @@
   "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
-  "collectivite": "Mairie de Nouméa",
+  "collectivite": "Ville de Nouméa",
   "direction": "DES SYSTEMES D'INFORMATION",
   "direction_source": "document",
   "employeur_source": "document",

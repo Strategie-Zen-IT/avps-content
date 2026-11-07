@@ -33,7 +33,7 @@
   "name": "Référent planification et coordination",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -43,7 +43,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "16, rue du général Mangin",
@@ -84,7 +84,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -93,7 +93,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "16, rue du général Mangin",
@@ -140,7 +140,7 @@
   "workHours": null,
   "champs_open_data": 6,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
-  "collectivite": "Mairie de Nouméa",
+  "collectivite": "Ville de Nouméa",
   "direction": "SERVICE CONSTRUCTION ET EXPLOITATION DES BATIMENTS",
   "direction_source": "document",
   "employeur_source": "document",

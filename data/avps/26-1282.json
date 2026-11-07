@@ -1,7 +1,7 @@
 {
   "additionalType": {
     "corpsDomaine": "Adjoint administratif",
-    "direction": "COMMUNE DE POYA",
+    "direction": "Commune de Poya",
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Secrétaire Général",
@@ -44,7 +44,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Mairie de Poya",
+    "name": "Commune de Poya",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -91,7 +91,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Poya",
+    "name": "Commune de Poya",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -157,7 +157,7 @@
   "champs_open_data": 8,
   "employeur_sigle": "COMMUNE-DE-POYA",
   "collectivite": "Commune de Poya",
-  "direction": "COMMUNE DE POYA",
+  "direction": "Commune de Poya",
   "direction_source": "source",
   "famille_respnc": "Finances et budget",
   "famille_source": "respnc",

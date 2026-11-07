@@ -33,7 +33,7 @@
   "name": "1 instructeur patrimoine",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -41,7 +41,7 @@
   "url": null,
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "16, rue du général Mangin",
@@ -79,7 +79,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -88,7 +88,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "16, rue du général Mangin",

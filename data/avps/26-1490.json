@@ -31,7 +31,7 @@
   "name": "Chauffeur poids lourds polyvalent - service AEP",
   "owner": {
     "@type": "Organization",
-    "name": "Commune de POUM"
+    "name": "Commune de Poum"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -41,7 +41,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Schedule",
-    "name": "Mairie de POUM",
+    "name": "Commune de Poum",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Lotissement municipal - BP 05",
@@ -74,7 +74,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Commune de POUM",
+    "name": "Commune de Poum",
     "url": null,
     "logo": null
   },
@@ -83,7 +83,7 @@
   "experienceRequirements": "Expérience dans la conduite de poids lourds souhaitée, idéalement avec camion-citerne.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Commune de POUM"
+    "name": "Commune de Poum"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -92,7 +92,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de POUM",
+    "name": "Commune de Poum",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Lotissement municipal - BP 05",
@@ -147,7 +147,7 @@
   "workHours": "Horaires adaptables",
   "champs_open_data": 7,
   "employeur_sigle": "COMMUNE-DE-POUM",
-  "collectivite": "Commune de POUM",
+  "collectivite": "Commune de Poum",
   "direction": "SERVICES TECHNIQUES",
   "direction_source": "document",
   "employeur_source": "document",

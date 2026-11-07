@@ -86,7 +86,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Pouembout",
+    "name": "Commune de Pouembout",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "302, Avenue de Pouembout",

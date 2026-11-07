@@ -1,7 +1,7 @@
 {
   "additionalType": {
     "corpsDomaine": "Gradés de la Police Municipale",
-    "direction": "VILLE DU MONT-DORE",
+    "direction": "Ville du Mont-Dore",
     "uniteOrganisationnelle": "Service anti-délinquance des mineurs",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef de service",
@@ -44,7 +44,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Mairie du Mont-Dore",
+    "name": "Ville du Mont-Dore",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "4468 avenue des deux baies Boulari",
@@ -158,7 +158,7 @@
   "champs_open_data": 6,
   "employeur_sigle": "VILLE-DU-MONT-DORE",
   "collectivite": "Ville du Mont-Dore",
-  "direction": "VILLE DU MONT-DORE",
+  "direction": "Ville du Mont-Dore",
   "direction_source": "source",
   "famille_respnc": "Administration générale",
   "famille_source": "respnc",

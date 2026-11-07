@@ -34,7 +34,7 @@
   "name": "Ouvrier d'entretien - conducteur",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -63,7 +63,7 @@
   "employmentType": "TEMPORARY",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "url": null,
     "logo": null
   },
@@ -72,7 +72,7 @@
   "experienceRequirements": "Une expérience sur un poste similaire serait appréciée. Avoir travaillé et manœuvré avec des engins spécialisés serait un atout.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -135,7 +135,7 @@
   "workHours": "Horaires décalés (6h-14h)",
   "champs_open_data": 7,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
-  "collectivite": "Mairie de Nouméa",
+  "collectivite": "Ville de Nouméa",
   "direction": "DIRECTION DE L'ESPACE PUBLIC",
   "direction_source": "document",
   "employeur_source": "document",

@@ -83,7 +83,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Païta",
+    "name": "Ville de Païta",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "VU 12, route de la Mairie",

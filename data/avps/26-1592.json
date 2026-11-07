@@ -34,7 +34,7 @@
   "name": "Chef du service dialogue social et réglementation",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -63,7 +63,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "url": null,
     "logo": null
   },
@@ -72,7 +72,7 @@
   "experienceRequirements": "Expérience sur un poste d’encadrement souhaitée",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -81,7 +81,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "16, rue du général Mangin",
@@ -140,7 +140,7 @@
   "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
-  "collectivite": "Mairie de Nouméa",
+  "collectivite": "Ville de Nouméa",
   "direction": "DES RESSOURCES HUMAINES",
   "direction_source": "document",
   "employeur_source": "document",

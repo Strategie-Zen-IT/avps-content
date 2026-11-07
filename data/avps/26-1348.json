@@ -40,7 +40,7 @@
   "name": "Assistant(e) de direction/chargé(e) d'accueil à mi-temps",
   "owner": {
     "@type": "Organization",
-    "name": "MAIRIE DE FARINO"
+    "name": "Commune de Farino"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -50,7 +50,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Mairie de Farino",
+    "name": "Commune de Farino",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Place Paul Louis Mariotti",
@@ -82,14 +82,14 @@
   "employmentType": "PART_TIME",
   "employmentUnit": {
     "@type": "Organization",
-    "name": "MAIRIE DE FARINO"
+    "name": "Commune de Farino"
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
   "experienceRequirements": "Expérience significative dans un poste similaire appréciée",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "MAIRIE DE FARINO"
+    "name": "Commune de Farino"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -98,7 +98,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Farino",
+    "name": "Commune de Farino",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Place Paul Louis Mariotti",
@@ -158,7 +158,7 @@
   "workHours": "Horaires de travail flexibles, disponibilité les jours fériés et certains dimanches",
   "champs_open_data": 7,
   "employeur_sigle": "MAIRIE-DE-FARINO",
-  "collectivite": "MAIRIE DE FARINO",
+  "collectivite": "Commune de Farino",
   "direction": "SECRETARIAT GENERAL",
   "direction_source": "document",
   "employeur_source": "document",

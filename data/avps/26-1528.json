@@ -43,7 +43,7 @@
   "name": "Chef du service des animations et des actions communales",
   "owner": {
     "@type": "Organization",
-    "name": "MAIRIE DE VOH"
+    "name": "Commune de Voh"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -53,7 +53,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "MAIRIE DE VOH",
+    "name": "Commune de Voh",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -83,7 +83,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "MAIRIE DE VOH",
+    "name": "Commune de Voh",
     "url": null,
     "logo": null
   },
@@ -92,7 +92,7 @@
   "experienceRequirements": "Expérience significative en termes d'animation et de développement local",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "MAIRIE DE VOH"
+    "name": "Commune de Voh"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -101,7 +101,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "MAIRIE DE VOH",
+    "name": "Commune de Voh",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -177,7 +177,7 @@
   "workHours": "Horaires atypiques et travail possible en week-end",
   "champs_open_data": 7,
   "employeur_sigle": "MAIRIE-DE-VOH",
-  "collectivite": "MAIRIE DE VOH",
+  "collectivite": "Commune de Voh",
   "direction": "SERVICES ADMINISTRATIFS",
   "direction_source": "document",
   "employeur_source": "document",

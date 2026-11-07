@@ -35,7 +35,7 @@
   "name": "Chargé de support et services des systèmes d'information",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -77,7 +77,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "url": null,
     "logo": null
   },
@@ -86,7 +86,7 @@
   "experienceRequirements": "Expérience dans le support informatique, la gestion des incidents de niveau 1 et la relation utilisateur.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -147,7 +147,7 @@
   "workHours": null,
   "champs_open_data": 9,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
-  "collectivite": "Mairie de Nouméa",
+  "collectivite": "Ville de Nouméa",
   "direction": "DES SYSTEMES D'INFORMATION",
   "direction_source": "document",
   "employeur_source": "document",

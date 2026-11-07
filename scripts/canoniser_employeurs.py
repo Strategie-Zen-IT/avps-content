@@ -58,6 +58,33 @@ LIBELLES = {
         "Agence de développement de la culture kanak",
 }
 
+# ⚠️ RECOPIE de `COMMUNES_NC`, `_COMMUNES_VILLE` et `_COMMUNES_ARTICLE` (moteur).
+# « Ville de », « Mairie de » et « Commune de » désignent la même collectivité : seul le
+# nom qui suit compte. « Commune de X » est l'appellation juridique — c'est la commune qui
+# recrute, la mairie n'étant que son exécutif. On ne garde « Ville de X » que pour les
+# quatre communes qui se nomment ainsi.
+COMMUNES = [
+    "Bélep", "Boulouparis", "Bourail", "Canala", "Dumbéa", "Farino",
+    "Hienghène", "Houaïlou", "Île des Pins", "Kaala-Gomen", "Koné",
+    "Kouaoua", "Koumac", "La Foa", "Lifou", "Mont-Dore", "Maré",
+    "Moindou", "Nouméa", "Ouégoa", "Ouvéa", "Païta", "Poindimié",
+    "Ponérihouen", "Pouébo", "Pouembout", "Poum", "Poya", "Sarraméa",
+    "Thio", "Touho", "Voh", "Yaté",
+]
+COMMUNES_VILLE = {
+    "Nouméa": "Ville de Nouméa",
+    "Dumbéa": "Ville de Dumbéa",
+    "Païta": "Ville de Païta",
+    "Mont-Dore": "Ville du Mont-Dore",
+}
+COMMUNES_ARTICLE = {
+    "Ouvéa": "d'",
+    "Île des Pins": "de l'",
+}
+
+PREFIXE_COMMUNE = re.compile(r"^(?:ville|mairie|commune)\s+(.+)$")
+# Essayés TOUS : « La Foa » commence elle-même par un article.
+ARTICLES_COMMUNE = ("", "de la ", "de l ", "des ", "du ", "de ", "d ")
 # Les clés de front-matter qui portent un nom d'employeur.
 CLES_SIMPLES = ("collectivite", "direction")
 CLES_LISTES = ("collectivites", "directions", "tags")
@@ -71,8 +98,36 @@ def cle_casse(valeur: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", sans.lower()).strip()
 
 
+INDEX_COMMUNES = {
+    **{cle_casse(n): n for n in COMMUNES},
+    "le mont dore": "Mont-Dore",
+    "l ile des pins": "Île des Pins",
+    "iles belep": "Bélep",
+}
+
+
+def libelle_commune(commune: str) -> str:
+    if commune in COMMUNES_VILLE:
+        return COMMUNES_VILLE[commune]
+    return f"Commune {COMMUNES_ARTICLE.get(commune, 'de ')}{commune}"
+
+
 def canoniser(nom: str) -> str:
-    return LIBELLES.get(cle_casse(nom), nom)
+    cle = cle_casse(nom)
+    if cle in LIBELLES:
+        return LIBELLES[cle]
+    # ⚠️ Le motif exige un PRÉFIXE : « Centre d'action communale de Nouméa » ne matche
+    # pas, et c'est voulu — le CCAS est un établissement public autonome, pas la Ville.
+    trouve = PREFIXE_COMMUNE.match(cle)
+    if trouve:
+        reste = trouve.group(1)
+        for article in ARTICLES_COMMUNE:
+            if not reste.startswith(article):
+                continue
+            commune = INDEX_COMMUNES.get(cle_casse(reste[len(article):]))
+            if commune:
+                return libelle_commune(commune)
+    return nom
 
 
 # Les lettres qui peuvent porter un accent dans le texte réel, alors que la clé de la
@@ -116,9 +171,12 @@ def verifier_table_du_moteur() -> None:
     if not MOTEUR.exists():
         return
     source = MOTEUR.read_text(encoding="utf-8")
-    attendues = set(re.findall(r'"([^"]+)":\s*\n?\s*"([^"]+)"',
-                               source[source.index("_LIBELLES_EMPLOYEURS = {"):
-                                      source.index("def canoniser_employeur")]))
+    debut = source.index("_LIBELLES_EMPLOYEURS = {")
+    # Borné à l'accolade fermante de CETTE table : le bloc allait jusqu'à
+    # `canoniser_employeur` et captait au passage `_COMMUNES_ARTICLE`, d'où une
+    # divergence annoncée à tort.
+    bloc = source[debut:source.index("\n}", debut)]
+    attendues = set(re.findall(r'"([^"]+)":\s*\n?\s*"([^"]+)"', bloc))
     ici = set(LIBELLES.items())
     if attendues and attendues != ici:
         print("⚠️ La table diverge de celle du moteur :", file=sys.stderr)

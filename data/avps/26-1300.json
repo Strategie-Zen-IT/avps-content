@@ -1,7 +1,7 @@
 {
   "additionalType": {
     "corpsDomaine": "Rédacteur",
-    "direction": "VILLE DU MONT-DORE",
+    "direction": "Ville du Mont-Dore",
     "uniteOrganisationnelle": "Unité dédiée à la lutte contre la délinquance des mineurs",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Directeur de la sécurité",
@@ -87,7 +87,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie du Mont-Dore",
+    "name": "Ville du Mont-Dore",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "4468 avenue des deux baies Boulari",
@@ -153,7 +153,7 @@
   "champs_open_data": 6,
   "employeur_sigle": "VILLE-DU-MONT-DORE",
   "collectivite": "Ville du Mont-Dore",
-  "direction": "VILLE DU MONT-DORE",
+  "direction": "Ville du Mont-Dore",
   "direction_source": "source",
   "famille_respnc": "Ingénierie industrielle minière et énergétique",
   "famille_source": "respnc",

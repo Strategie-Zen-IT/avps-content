@@ -35,7 +35,7 @@
   "name": "Secrétaire comptable",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -92,7 +92,7 @@
   "experienceRequirements": "Une expérience significative sur un poste similaire serait souhaitée.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -159,7 +159,7 @@
   "workHours": null,
   "champs_open_data": 9,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
-  "collectivite": "Mairie de Nouméa",
+  "collectivite": "Ville de Nouméa",
   "direction": "",
   "direction_source": "absente",
   "employeur_source": "document",

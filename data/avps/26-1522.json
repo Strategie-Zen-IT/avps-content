@@ -39,7 +39,7 @@
   "name": "Travailleur social",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Dumbéa"
+    "name": "Ville de Dumbéa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -90,7 +90,7 @@
   "experienceRequirements": "Expérience professionnelle significative d’au moins 3 ans dans le domaine à défaut du diplôme requis.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Dumbéa"
+    "name": "Ville de Dumbéa"
   },
   "incentiveCompensation": null,
   "industry": "Action sociale",
@@ -159,7 +159,7 @@
   "workHours": "Horaires variables, week-end et horaires décalés possibles",
   "champs_open_data": 7,
   "employeur_sigle": "MAIRIE-DE-DUMBEA",
-  "collectivite": "Mairie de Dumbéa",
+  "collectivite": "Ville de Dumbéa",
   "direction": "DIRECTION DE LA VIE EDUCATIVE ET ASSOCIATIVE - DVEA",
   "direction_source": "document",
   "employeur_source": "document",

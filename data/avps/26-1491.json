@@ -39,7 +39,7 @@
   "name": "Responsable du service technique",
   "owner": {
     "@type": "Organization",
-    "name": "MAIRIE DE HIENGHÈNE"
+    "name": "Commune de Hienghène"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -49,7 +49,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Schedule",
-    "name": "Mairie de Hienghène",
+    "name": "Commune de Hienghène",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "BP 71",
@@ -90,7 +90,7 @@
   "experienceRequirements": "Une expérience significative d'un an minimum dans le domaine de responsabilité d'un service technique, en conduite de travaux, maintenance des infrastructures, gestion des équipements publics et encadrement d'équipe.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "MAIRIE DE HIENGHÈNE"
+    "name": "Commune de Hienghène"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -99,7 +99,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Hienghène",
+    "name": "Commune de Hienghène",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "BP 71",
@@ -186,7 +186,7 @@
   "workHours": null,
   "champs_open_data": 9,
   "employeur_sigle": "MAIRIE-DE-HIENGHENE",
-  "collectivite": "MAIRIE DE HIENGHÈNE",
+  "collectivite": "Commune de Hienghène",
   "direction": "SERVICE TECHNIQUE",
   "direction_source": "document",
   "employeur_source": "document",

@@ -38,7 +38,7 @@
   "name": "Juriste",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "url": "https://www.noumea.nc"
   },
   "potentialAction": null,
@@ -80,7 +80,7 @@
   "experienceRequirements": "Un diplôme de niveau 7 (BAC+5) serait particulièrement apprécié.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -138,7 +138,7 @@
   "workHours": null,
   "champs_open_data": 8,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
-  "collectivite": "Mairie de Nouméa",
+  "collectivite": "Ville de Nouméa",
   "direction": "DIRECTION JURIDIQUE ET DE LA COORDINATION ADMINISTRATIVE",
   "direction_source": "document",
   "employeur_source": "document",

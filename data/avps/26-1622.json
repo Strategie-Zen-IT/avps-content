@@ -36,7 +36,7 @@
   "name": "Educateur sportif",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -81,7 +81,7 @@
   "experienceRequirements": "Expérience professionnelle sur un poste similaire appréciée",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -90,7 +90,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "16, rue du général Mangin",
@@ -136,7 +136,7 @@
   "workHours": "Horaires variables (soirée, week-ends et jours fériés)",
   "champs_open_data": 9,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
-  "collectivite": "Mairie de Nouméa",
+  "collectivite": "Ville de Nouméa",
   "direction": "DIRECTION DE LA VIE CITOYENNE, EDUCATIVE ET SPORTIVE",
   "direction_source": "document",
   "employeur_source": "document",

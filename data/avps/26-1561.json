@@ -47,7 +47,7 @@
   "name": "Animateur socio-éducatif",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -79,7 +79,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "url": null,
     "logo": null
   },
@@ -88,7 +88,7 @@
   "experienceRequirements": "Expérience professionnelle sur un poste similaire appréciée",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -97,7 +97,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "16 rue du général Mangin",
@@ -155,7 +155,7 @@
   "workHours": "Horaires atypiques et régulièrement positionnés en fin de journée",
   "champs_open_data": 9,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
-  "collectivite": "Mairie de Nouméa",
+  "collectivite": "Ville de Nouméa",
   "direction": "DIRECTION DE LA POLITIQUE DE LA VILLE",
   "direction_source": "document",
   "employeur_source": "document",

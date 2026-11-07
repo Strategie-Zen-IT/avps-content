@@ -35,7 +35,7 @@
   "name": "Chargé d'accueil et régisseur principal",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -45,7 +45,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "AreaServed",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -90,7 +90,7 @@
   "experienceRequirements": "Expérience en comptabilité",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -99,7 +99,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -157,7 +157,7 @@
   "workHours": "Horaires atypiques (amplitude horaire variable, travail en soirée, week-end, jours fériés et chômés, pics d’activités ponctuels)",
   "champs_open_data": 9,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
-  "collectivite": "Mairie de Nouméa",
+  "collectivite": "Ville de Nouméa",
   "direction": "DIRECTION DE LA CULTURE, DU PATRIMOINE ET DU RAYONNEMENT",
   "direction_source": "document",
   "employeur_source": "document",

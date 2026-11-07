@@ -36,7 +36,7 @@
   "name": "Directeur(trice)",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Bourail"
+    "name": "Commune de Bourail"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -74,7 +74,7 @@
   "experienceRequirements": "Expérience au sein d'une collectivité publique souhaitée.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Bourail"
+    "name": "Commune de Bourail"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -83,7 +83,7 @@
   "jobImmediateStart": null,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Bourail",
+    "name": "Commune de Bourail",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -148,7 +148,7 @@
   "workHours": "Grande disponibilité requise (soirées, week-ends et jours fériés lors d'événements)",
   "champs_open_data": 7,
   "employeur_sigle": "MAIRIE-DE-BOURAIL",
-  "collectivite": "Mairie de Bourail",
+  "collectivite": "Commune de Bourail",
   "direction": "DIRECTION DE L'ACCOMPAGNEMENT DE L'ANIMATION ET DE LA CULTURE",
   "direction_source": "document",
   "employeur_source": "document",

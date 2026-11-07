@@ -50,7 +50,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "LandmarksOrHistoricalBuildings",
-    "name": "Mairie de Païta",
+    "name": "Ville de Païta",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -100,7 +100,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Païta",
+    "name": "Ville de Païta",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,

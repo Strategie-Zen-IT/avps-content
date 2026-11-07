@@ -87,7 +87,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie d'Ouvéa",
+    "name": "Commune d'Ouvéa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Tribu de Hwadrilla",

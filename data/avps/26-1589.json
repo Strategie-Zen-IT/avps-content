@@ -43,7 +43,7 @@
   "name": "Chef de centre de secours",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -53,7 +53,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Schedule",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "16, rue du général Mangin",
@@ -85,7 +85,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "url": null,
     "logo": null
   },
@@ -94,7 +94,7 @@
   "experienceRequirements": "Expérience en centre de secours souhaitée : fonction de chef de centre ou d'adjoint",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -163,7 +163,7 @@
   "workHours": "Son fonctionnement est organisé 24 heures sur 24 et 7 jours sur 7",
   "champs_open_data": 8,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
-  "collectivite": "Mairie de Nouméa",
+  "collectivite": "Ville de Nouméa",
   "direction": "DIRECTION DES SERVICES D'INCENDIE ET DE SECOURS",
   "direction_source": "document",
   "employeur_source": "document",

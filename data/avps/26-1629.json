@@ -42,7 +42,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Schedule",
-    "name": "Mairie de Lifou",
+    "name": "Commune de Lifou",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "We",

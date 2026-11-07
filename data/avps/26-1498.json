@@ -38,7 +38,7 @@
   "name": "Intervenant des opérations de secours",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "url": "https://www.noumea.nc"
   },
   "potentialAction": null,
@@ -71,7 +71,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "url": null,
     "logo": null
   },
@@ -80,7 +80,7 @@
   "experienceRequirements": "Détenir les unités de valeur « Formation initiale d'équipier SPP ».",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "url": "https://www.noumea.nc"
   },
   "incentiveCompensation": null,
@@ -139,7 +139,7 @@
   "workHours": "Horaires irréguliers (soirées, congés de fin de semaine, jours fériés) avec amplitude variable en fonction de l'organisation de l'activité opérationnelle",
   "champs_open_data": 9,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
-  "collectivite": "Mairie de Nouméa",
+  "collectivite": "Ville de Nouméa",
   "direction": "DES SERVICES D'INCENDIE ET DE SECOURS",
   "direction_source": "document",
   "employeur_source": "document",

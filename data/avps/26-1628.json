@@ -1,7 +1,7 @@
 {
   "additionalType": {
     "corpsDomaine": "ACDP-Grille rémunération 1-Sans diplôme",
-    "direction": "VILLE DU MONT-DORE",
+    "direction": "Ville du Mont-Dore",
     "uniteOrganisationnelle": "Service des affaires générales",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef de service des affaires générales",
@@ -139,7 +139,7 @@
   "champs_open_data": 9,
   "employeur_sigle": "VILLE-DU-MONT-DORE",
   "collectivite": "Ville du Mont-Dore",
-  "direction": "VILLE DU MONT-DORE",
+  "direction": "Ville du Mont-Dore",
   "direction_source": "source",
   "employeur_source": "source",
   "famille_respnc": "Entretien, surveillance et logistique",

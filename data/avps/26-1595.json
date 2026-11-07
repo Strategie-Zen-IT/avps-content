@@ -42,7 +42,7 @@
   "name": "Coordinatrice des activités périscolaires et de la veille éducative",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Bourail"
+    "name": "Commune de Bourail"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -52,7 +52,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Schedule",
-    "name": "Mairie de Bourail",
+    "name": "Commune de Bourail",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Rue Simone DREMON",
@@ -97,7 +97,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Bourail"
+    "name": "Commune de Bourail"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -190,7 +190,7 @@
   "workHours": "Horaires susceptibles d'être décalées par rapport au temps scolaire",
   "champs_open_data": 7,
   "employeur_sigle": "MAIRIE-DE-BOURAIL",
-  "collectivite": "Mairie de Bourail",
+  "collectivite": "Commune de Bourail",
   "direction": "CAISSE DES ECOLES DE BOURAIL",
   "direction_source": "document",
   "employeur_source": "document",

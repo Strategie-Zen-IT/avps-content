@@ -39,7 +39,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Mairie de Yaté",
+    "name": "Commune de Yaté",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "BP 4",

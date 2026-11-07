@@ -34,7 +34,7 @@
   "name": "Responsable financier",
   "owner": {
     "@type": "Organization",
-    "name": "MAIRIE DE VOH"
+    "name": "Commune de Voh"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -69,7 +69,7 @@
   "experienceRequirements": "5 ans d'expérience dans un poste similaire.",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "MAIRIE DE VOH"
+    "name": "Commune de Voh"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -78,7 +78,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Voh",
+    "name": "Commune de Voh",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -127,7 +127,7 @@
   "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "MAIRIE-DE-VOH",
-  "collectivite": "MAIRIE DE VOH",
+  "collectivite": "Commune de Voh",
   "direction": "SERVICES ADMINISTRATIFS",
   "direction_source": "document",
   "employeur_source": "document",

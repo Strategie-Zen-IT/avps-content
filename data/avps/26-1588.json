@@ -1,7 +1,7 @@
 {
   "additionalType": {
     "corpsDomaine": "ACDP-Grille rémunération 3-Diplôme niveau IV",
-    "direction": "VILLE DU MONT-DORE",
+    "direction": "Ville du Mont-Dore",
     "uniteOrganisationnelle": "Service anti-délinquance des mineurs (SAM)",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": null,
@@ -152,7 +152,7 @@
   "champs_open_data": 7,
   "employeur_sigle": "VILLE-DU-MONT-DORE",
   "collectivite": "Ville du Mont-Dore",
-  "direction": "VILLE DU MONT-DORE",
+  "direction": "Ville du Mont-Dore",
   "direction_source": "source",
   "employeur_source": "source",
   "famille_respnc": "Action sociale",

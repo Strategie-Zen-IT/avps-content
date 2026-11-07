@@ -39,7 +39,7 @@
   "name": "Référent de secteur",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -79,7 +79,7 @@
   "experienceRequirements": "Pratique de la méthode de conduite de projets transversaux et de management des projets complexes",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -88,7 +88,7 @@
   "jobImmediateStart": null,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "16, rue du général Mangin",
@@ -150,7 +150,7 @@
   "workHours": null,
   "champs_open_data": 8,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
-  "collectivite": "Mairie de Nouméa",
+  "collectivite": "Ville de Nouméa",
   "direction": "POLITIQUE DE LA VILLE",
   "direction_source": "document",
   "employeur_source": "document",

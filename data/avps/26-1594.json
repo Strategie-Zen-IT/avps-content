@@ -29,7 +29,7 @@
   "name": "Animateur scolaire",
   "owner": {
     "@type": "Organization",
-    "name": "Ville de BOURAIL"
+    "name": "Commune de Bourail"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -64,7 +64,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Ville de BOURAIL"
+    "name": "Commune de Bourail"
   },
   "incentiveCompensation": null,
   "industry": "Éducation",
@@ -128,7 +128,7 @@
   "workHours": "Temps partiel",
   "champs_open_data": 9,
   "employeur_sigle": "VILLE-DE-BOURAIL",
-  "collectivite": "Ville de BOURAIL",
+  "collectivite": "Commune de Bourail",
   "direction": "CAISSE DES ECOLES",
   "direction_source": "document",
   "employeur_source": "document",

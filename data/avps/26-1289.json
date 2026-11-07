@@ -38,7 +38,7 @@
   "name": "Conducteur d'opérations",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -82,7 +82,7 @@
   "experienceRequirements": "Capacité à concevoir et suivre un chantier de VRD, une expérience dans le domaine des VRD et en suivi de chantier est exigée",
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": null,

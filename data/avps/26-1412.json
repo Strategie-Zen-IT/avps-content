@@ -1,7 +1,7 @@
 {
   "additionalType": {
     "corpsDomaine": "Attaché",
-    "direction": "VILLE DU MONT-DORE",
+    "direction": "Ville du Mont-Dore",
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Secrétaire générale",
@@ -167,7 +167,7 @@
   "champs_open_data": 7,
   "employeur_sigle": "VILLE-DU-MONT-DORE",
   "collectivite": "Ville du Mont-Dore",
-  "direction": "VILLE DU MONT-DORE",
+  "direction": "Ville du Mont-Dore",
   "direction_source": "source",
   "employeur_source": "source",
   "famille_respnc": "Ingénierie industrielle minière et énergétique",

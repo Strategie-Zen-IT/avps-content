@@ -37,7 +37,7 @@
   "name": "Gardien",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "url": "https://www.ville-noumea.nc"
   },
   "potentialAction": null,
@@ -48,7 +48,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Schedule",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "16, rue du général Mangin",
@@ -79,7 +79,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "url": null,
     "logo": null
   },
@@ -88,7 +88,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa",
+    "name": "Ville de Nouméa",
     "url": "https://www.ville-noumea.nc"
   },
   "incentiveCompensation": null,
@@ -150,7 +150,7 @@
   "workHours": "De jour comme de nuit",
   "champs_open_data": 9,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
-  "collectivite": "Mairie de Nouméa",
+  "collectivite": "Ville de Nouméa",
   "direction": "DIRECTION DE LA POLICE MUNICIPALE",
   "direction_source": "document",
   "employeur_source": "document",

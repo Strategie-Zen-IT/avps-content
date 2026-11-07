@@ -45,7 +45,7 @@
   "name": "2 Secrétaires comptables",
   "owner": {
     "@type": "Organization",
-    "name": "Commune de l'Ile Des Pins"
+    "name": "Commune de l'Île des Pins"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -55,7 +55,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Place",
-    "name": "Mairie de l'Ile des Pins",
+    "name": "Commune de l'Île des Pins",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "BP 87",
@@ -95,7 +95,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Commune de l'Ile Des Pins"
+    "name": "Commune de l'Île des Pins"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -104,7 +104,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de l'Ile des Pins",
+    "name": "Commune de l'Île des Pins",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "BP 87",

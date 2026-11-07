@@ -39,7 +39,7 @@
   "name": "Agent d'exploitation et d'entretien",
   "owner": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -81,7 +81,7 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Mairie de Nouméa"
+    "name": "Ville de Nouméa"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
@@ -142,7 +142,7 @@
   "workHours": "Travail en soirée, certains week-ends et jours fériés",
   "champs_open_data": 7,
   "employeur_sigle": "MAIRIE-DE-NOUMEA",
-  "collectivite": "Mairie de Nouméa",
+  "collectivite": "Ville de Nouméa",
   "direction": "DIRECTION DE LA VIE CITOYENNE, EDUCATIVE ET SPORTIVE",
   "direction_source": "document",
   "employeur_source": "document",
