@@ -1,0 +1,157 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien adjoint",
+    "direction": "UNIVERSITE DE NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions particulières d'exercice",
+        "value": "Périmètre : résidences 30ch (J), pôle sports, département sciences et techniques, bâtiments Vectopole et SIGMA. Contraintes horaires liés au calendrier de gestion. Personnel logé par nécessité absolue de service. Astreinte 1 week-end/4. Téléphone portable professionnel."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Corps de recrutement",
+        "value": "Fonctionnaire État : adjoint technique de recherche et de formation / Fonctionnaire Territoriale : filière technique : technicien adjoint équipement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955518.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'Université de la Nouvelle-Calédonie recrute un ou une chargé(e) de maintenance et d'entretien au sein de la Direction de l'Equipement, de la Prévention, de l'Immobilier et de la Logistique, dans le cadre du remplacement d'un de ses agents techniques.",
+  "disambiguatingDescription": "Poste de chargé(e) de maintenance et d'entretien à l'Université de la Nouvelle-Calédonie, localisé à Nouméa.",
+  "identifier": "26-1696",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Un·e chargé(e) de maintenance et d'entretien",
+  "owner": {
+    "@type": "Organization",
+    "name": "Université de Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "recrutement@unc.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-06",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Méthodologie de la logistique (notion de base)",
+      "Réglementation en matière d'hygiène et de sécurité (notion de base)",
+      "Matériels d'alarme et de surveillance (notion de base)",
+      "Contraintes liées aux immeubles (notion de base)",
+      "Environnement et réseaux professionnels (notion de base)",
+      "Langue française (connaissance générale)"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "L'Université de la Nouvelle-Calédonie est un établissement pluridisciplinaire qui répond notamment aux besoins de formation et de recherche propres à la Nouvelle-Calédonie. Elle compte 250 personnels, 3 500 étudiants, 3 départements de formation, 1 IAE, 1 IUT, 1 INSPE, 1 CFA, 1 service de la formation continue, 3 unités de recherche, 2 UMR, 1 école doctorale, répartis sur deux campus dynamiques.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Université de la Nouvelle-Calédonie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Université de Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Education",
+  "jobBenefits": "Personnel logé par nécessité absolue de service",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Campus de Nouville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Entretien, surveillance et logistique",
+    "Patrimoine bâti"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Opérateur-trice en logistique - Technicien-ne en maintenance / exploitation du bâtiment"
+  },
+  "responsibilities": [
+    "Accueillir, orienter, renseigner le public, sur place ou par téléphone",
+    "Assurer la distribution, la collecte et l'expédition du courrier",
+    "Contrôler l'accès aux bâtiments, la circulation des personnes et le fonctionnement des installations techniques, spécialisées et sportives",
+    "Assurer l'ouverture et la fermeture des bâtiments",
+    "Organiser les magasins et tenir les stocks",
+    "Conduire des engins à moteur, en assurer l'entretien courant",
+    "Transporter personnes, courriers, documents",
+    "Effectuer des opérations de manutention et de transport de produits, de matériels",
+    "Assurer l'entretien des espaces verts de son périmètre",
+    "Apporter un soutien logistique aux enseignants",
+    "Gestion des alarmes et des moyens de surveillance",
+    "Effectuer des opérations courantes d'entretien, de maintenance préventive, d'installation et de dépannage de 1er niveau"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Assurer l'entretien courant des outils de l'environnement de travail",
+    "Mettre en œuvre les techniques de nettoyage",
+    "Appliquer les normes, procédures et règles",
+    "Utiliser les logiciels spécifiques à l'activité GMAO",
+    "Travailler en équipe",
+    "Savoir planifier et respecter des délais",
+    "Savoir utiliser les équipements de sécurité",
+    "Accueillir et prendre des messages",
+    "Maîtrise de soi",
+    "Sens de l'organisation",
+    "Capacité d'adaptation - gérer les imprévus",
+    "Réactivité"
+  ],
+  "specialCommitments": "Astreinte 1 week-end/4",
+  "title": "Un·e chargé(e) de maintenance et d'entretien",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-27",
+  "workHours": "Contraintes horaires liés au calendrier de gestion",
+  "champs_open_data": 9,
+  "employeur_sigle": "UNC",
+  "collectivite": "Université de Nouvelle-Calédonie",
+  "direction": "UNIVERSITE DE NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Système d'information",
+  "famille_source": "respnc",
+  "famille_score": 0.83,
+  "dossier": "systeme-d-information"
+}
