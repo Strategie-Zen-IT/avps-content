@@ -15,12 +15,7 @@
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
-        "value": "au moins égale à 5 ans pour le recrutement sur titre"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Cadre d'emploi / Domaine",
-        "value": "Attaché d'administration ou ingénieur 1er ou 2ème grade / Informatique ou Numérique"
+        "value": "au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
@@ -35,7 +30,7 @@
     ]
   },
   "alternateName": null,
-  "description": "La province Sud place l'usager au cœur de ses priorités et a pour ambition de mener une véritable stratégie client. Leader en matière d'e-administration sur le territoire, son objectif est de tendre vers une administration 100% numérique afin de moderniser, de simplifier et d'optimiser les procédures administratives et les démarches des usagers. La direction du système d'information et du numérique de la province Sud (DSIN) tient un rôle essentiel dans la transformation opérée par la collectivité, et est responsable de la politique de développement du numérique. Sa nouvelle ambition est de faire de la donnée un axe prioritaire, et d'intégrer l'intelligence artificielle dans ses outils pour améliorer la performance de ses services.",
+  "description": "La province Sud place l'usager au cœur de ses priorités et a pour ambition de mener une véritable stratégie client. Leader en matière d'e-administration sur le territoire, son objectif est de tendre vers une administration 100% numérique afin de moderniser, de simplifier et d'optimiser les procédures administratives et les démarches des usagers. La direction du système d'information et du numérique de la province Sud (DSIN) tient un rôle essentiel dans la transformation opérée par la collectivité, et est responsable de la politique de développement du numérique.",
   "disambiguatingDescription": "Nous recherchons un(e) UX/UI Designer confirmé(e) pour rejoindre notre équipe et pour contribuer activement à l’amélioration de nos services digitaux destinés aux usagers et aux agents.",
   "identifier": "26-1651",
   "image": null,
@@ -53,11 +48,11 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
+    "@type": "Schedule",
     "name": "Province Sud",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "6 route des artifices",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -67,13 +62,13 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "20.32.71",
-    "email": "laure.siret@province-sud.nc"
+    "email": "drh.candidatures@province-sud.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-11-06",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Attaché d'administration ou ingénieur",
+    "credentialCategory": "Attaché d'administration ou ingénieur 1er ou 2ème grade",
     "competencyRequired": [
       "Connaissance en méthodologies UX (design thinking, user journey, personas, tests utilisateurs)",
       "Bonnes pratiques UI (ergonomie, accessibilité, responsive design)",
@@ -83,7 +78,7 @@
     ]
   },
   "eligibilityToWorkRequirement": ".",
-  "employerOverview": "La DSIN est une direction d'une cinquantaine de personnes, regroupées dans 4 services : CDS (Centre De Services), SIL (Service des Infrastructure et de la Logistique), DEVOPS (Service des Développements et des Opérations), POP (Service de la Performance Opérationnelle). La direction est composée d'un directeur et d'une directrice adjointe.",
+  "employerOverview": "La DSIN est une direction d'une cinquantaine de personnes, regroupées dans 4 services : CDS (Centre De Services), SIL (Service des Infrastructure et de la Logistique), DEVOPS (Service des Développements et des Opérations), POP (Service de la Performance Opérationnelle).",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -136,7 +131,7 @@
     "Définir et de faire évoluer le Design System",
     "Conduire ou d'accompagner des tests utilisateurs pour valider et améliorer vos conceptions"
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
