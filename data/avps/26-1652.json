@@ -1,0 +1,185 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Techniciens supérieurs études et exploitation",
+    "direction": "DIRECTION DE L'AVIATION CIVILE",
+    "uniteOrganisationnelle": "Service de la navigation aérienne",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de la division Exploitation",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Division Exploitation",
+      "Adjoint au chef BRIA",
+      "Contrôleurs aériens",
+      "RPO",
+      "CODIV Exploitation"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction de l'aviation civile"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "179 rue Roger GERVOLINO - Magenta"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P.  H1 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "dac-nc-sa-bpers@aviation-civile.gouv.fr"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956622.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous l’autorité du chef de la division Exploitation, le chef BRIA assure l’encadrement du personnel BRIA, anime, oriente et coordonne l'activité du BRIA, et veille à l'adaptation des missions du BRIA.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1652",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef du bureau régional d'information et d'assistance au vol",
+  "owner": {
+    "@type": "Organization",
+    "name": "Direction de l'aviation civile"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.52.85",
+    "email": "sebastien.burger@aviation-civile.gouv.fr"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-06",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaître le processus d’élaboration et les règles de l’information aéronautique",
+      "Connaître la réglementation de la Circulation aérienne",
+      "Connaître le fonctionnement opérationnel d'un aéroport",
+      "Avoir une bonne connaissance des outils bureautiques",
+      "Avoir un bon niveau d’anglais"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de la navigation aérienne",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de l'aviation civile"
+  },
+  "incentiveCompensation": null,
+  "industry": "Aviation civile",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "TONTOUTA",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98890"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "immédiatement",
+  "occupationalCategory": [
+    "Aviation civile",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable aviation civile"
+  },
+  "responsibilities": [
+    "Assure l’encadrement du BRIA",
+    "Organise le tour de service opérationnels des agents",
+    "Veille à la bonne mise en œuvre des missions du BRIA en matière d'assistance aux vols (traitement FPL, RPL...)",
+    "Assure, en coordination avec son adjoint, la mise à jour du MANEX BRIA, des procédures, des protocoles et lettres d'accord dans le domaine des activités du BRIA",
+    "Veille au respect du rôle du BRIA dans la transmission de l'alerte",
+    "Veille à la mise à jour et à la diffusion de l'information aéronautique",
+    "Organise, en coordination avec l'adjoint, la formation initiale et continue des agents du BRIA",
+    "Assure le suivi de la formation de maintien des compétences des agents",
+    "Veille à l'adaptation des missions et des outils du BRIA",
+    "Participe à l'élaboration des statistiques de trafic",
+    "Participe au SMI et notamment aux revues de processus dans son domaine de compétences",
+    "Notifie les constats connus relatifs à la sécurité ou à la sûreté",
+    "Prend en compte les résultats des REX et participer aux commissions locales de sécurité si nécessaire",
+    "Veille au traitement des actions en cours en assurant le lien entre le service opérationnel, l'organisme, les intervenants",
+    "Participe à l'élaboration des fiches réflexes à destination des contrôleurs aériens ou des RPO dans le cadre des missions BRIA et SAR",
+    "Contribuer à l'amélioration du fonctionnement du SAR (formations, exercices, manuel...)",
+    "Participe au CODIV Exploitation",
+    "Peut effectuer des vacations opérationnelles d’agent BRIA",
+    "Participe aux processus R1/R3/R4/M3"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Encadrer et animer une équipe",
+    "Organiser les tours de service",
+    "Assurer le suivi des missions BRIA et SAR",
+    "Rédiger et mettre à jour les procédures opérationnelles",
+    "Superviser l'information aéronautique temporaire",
+    "Organiser et suivre la formation des agents",
+    "Participer à l'analyse des événements sécurité",
+    "Sens des responsabilités et de l'intérêt du service",
+    "Qualités relationnelles et sens du dialogue",
+    "Esprit d'équipe",
+    "Force de proposition",
+    "Rigueur et méthode dans le suivi des dossiers",
+    "Adaptabilité"
+  ],
+  "specialCommitments": null,
+  "title": "Chef du bureau régional d'information et d'assistance au vol",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-11-27",
+  "workHours": null,
+  "champs_open_data": 11,
+  "employeur_sigle": "DAC",
+  "collectivite": "Direction de l'aviation civile",
+  "direction": "DIRECTION DE L'AVIATION CIVILE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Aviation civile",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "aviation-civile"
+}
