@@ -1,0 +1,211 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Assistant socio-éducatif",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Dispositif classe pour l'inclusion scolaire (CLIS) à profil TSA",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service éducatif de proximité (SEP)",
+    "placeOrganigramme": "Sous l’autorité hiérarchique du chef du service éducatif de proximité (SEP) de la direction, et sous l’autorité fonctionnelle de la direction de l’école",
+    "relationsFonctionnelles": [
+      "Enseignants responsables de la classe",
+      "Auxiliaires de vie (AV)",
+      "Animatrices périscolaires",
+      "Familles",
+      "Partenaires intervenant auprès des élèves"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Rythme de travail",
+        "value": "Rythme scolaire"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée hebdomadaire",
+        "value": "39h"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Contraintes de poste",
+        "value": "Possibilité de sollicitations hors temps scolaire pour les réunions, les concertations, les temps d’organisation et les formations"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Déplacements",
+        "value": "Déplacements et interventions possibles au sein de toutes les écoles de la province Sud"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952226.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'éducateur spécialisé en milieu scolaire contribue à offrir aux élèves présentant des troubles du spectre de l'autisme (TSA) un environnement scolaire sécurisant, structuré et adapté à leurs besoins, favorisant leurs apprentissages, leur autonomie, leur communication, leur socialisation et leur inclusion dans la vie de l'école.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1679",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Educateur spécialisé en milieu scolaire",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "AdministrativeArea",
+    "name": "Province Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.49.74",
+    "email": "devi.minatchy@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-06",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d’Etat d’éducateur spécialisé (DEES) exigé",
+    "competencyRequired": [
+      "Connaissance des caractéristiques des TSA et de leurs conséquences possibles sur la communication, les interactions sociales, les apprentissages, les comportements et le traitement sensoriel",
+      "Connaissance des besoins spécifiques des élèves avec TSA et des principes de l’accompagnement éducatif individualisé"
+    ]
+  },
+  "eligibilityToWorkRequirement": ".",
+  "employerOverview": "Rattachée au pôle développement et épanouissement de la personne, la direction de l’éducation et de la réussite scolaire de la province Sud (DERES) a pour mission de garantir l’épanouissement de la jeunesse plurielle dans un environnement éducatif propice à la réussite quel que soit le niveau du système scolaire et de favoriser le bien-être de ses personnels.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Direction de l’Éducation et de la Réussite de la province Sud",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience auprès d’enfants présentant des TSA particulièrement souhaitée. Expérience dans le secteur médico-social, l’accompagnement du handicap ou le milieu scolaire inclusif constitue un atout.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Education",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-03-01",
+  "occupationalCategory": [
+    "Education",
+    "Action sociale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Être titulaire du permis B (exigé)",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Éducateur spécialisé"
+  },
+  "responsibilities": [
+    "Mettre en œuvre des actions éducatives adaptées aux besoins, aux compétences et au fonctionnement des élèves avec TSA",
+    "Contribuer au développement de l’autonomie dans les actes de la vie quotidienne, les déplacements, les interactions sociales et la vie collective",
+    "Favoriser la communication, l’expression des besoins, la compréhension des consignes et l’acquisition de comportements adaptés aux différents contextes scolaires",
+    "Prendre en compte les particularités sensorielles, les besoins de prévisibilité, les difficultés de communication et les éventuelles manifestations comportementales des élèves",
+    "Participer à la prévention et à la gestion des situations de tension ou de désorganisation, en privilégiant des réponses éducatives adaptées et individualisées",
+    "Accompagner les élèves lors des différents temps de la journée scolaire, notamment les transitions, les temps collectifs, les récréations et le temps méridien",
+    "Intervenir auprès de petits groupes d’élèves, en classe ou dans d’autres espaces de l’école, dans le cadre des projets définis par les enseignants",
+    "Participer à la préparation et à la mise en œuvre de projets éducatifs favorisant les apprentissages, l’autonomie et la socialisation",
+    "Accompagner les élèves lors des temps d’inclusion dans les classes ordinaires, selon les modalités définies par les enseignants",
+    "Contribuer à l’adaptation des modalités d’accompagnement afin de faciliter la participation des élèves aux activités scolaires et à la vie de l’école",
+    "Participer à l’observation des élèves et de partager ses analyses afin d’ajuster les réponses éducatives proposées",
+    "Travailler en étroite collaboration avec les enseignants, qui définissent les objectifs pédagogiques et les modalités d’intervention auprès des élèves",
+    "Apporter une expertise éducative, être force de proposition et contribuer à la réflexion collective, dans le respect des orientations définies par les enseignants",
+    "Coopérer quotidiennement avec les AV, en favorisant la cohérence des pratiques, la complémentarité des interventions et la continuité de l’accompagnement",
+    "Participer aux réunions de concertation, aux équipes éducatives et aux temps de coordination nécessaires au suivi des élèves",
+    "Contribuer à l’élaboration, à la mise en œuvre et à l’ajustement des projets individualisés et des projets collectifs, en lien avec les enseignants et les partenaires concernés",
+    "Participer à l’accompagnement des élèves sur le temps du midi, notamment lors du repas, des déplacements, des temps de repos et des activités proposées, en collaboration avec les AV",
+    "Favoriser l’autonomie, les interactions sociales et la participation des élèves à la vie collective durant ce temps, en collaboration avec les animatrices périscolaires",
+    "Veiller à la prise en compte de leurs besoins spécifiques, notamment sensoriels, communicationnels et organisationnels",
+    "Assurer la continuité des repères éducatifs entre les différents temps de la journée scolaire",
+    "Contribuer au développement d’une relation de confiance avec les familles, dans le respect de la place et des responsabilités de chacun",
+    "Participer aux échanges avec les familles, en lien avec les enseignants et selon les modalités définies par l’équipe",
+    "Transmettre les observations utiles à la compréhension des besoins et à l’évolution de l’accompagnement des élèves",
+    "Participer, en fonction des besoins, aux échanges avec les partenaires intervenant auprès des élèves, dans le cadre défini par l’équipe et dans le respect de la confidentialité",
+    "S’engager dans les formations proposées afin de développer et d’actualiser ses connaissances relatives aux TSA et aux pratiques éducatives adaptées",
+    "S’approprier les outils et les méthodes utilisés au sein de la classe, notamment ceux favorisant la communication, la structuration du temps et de l’espace, la prévisibilité et l’autonomie",
+    "Participer aux temps de concertation et aux réunions nécessaires au fonctionnement de la CLIS, y compris, lorsque cela est prévu et organisé, en dehors du temps scolaire",
+    "S’inscrire dans une démarche de réflexion sur les pratiques professionnelles et d’amélioration continue de l’accompagnement proposé aux élèves"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise ou capacité à s’approprier les outils et stratégies éducatives adaptés aux TSA : supports visuels, structuration de l’environnement, séquençage des activités, outils de communication alternative ou améliorée",
+    "Capacité à observer, à analyser les situations et à proposer des réponses éducatives adaptées",
+    "Capacité à accompagner des élèves individuellement ou en petits groupes et à intervenir dans différents contextes scolaires",
+    "Capacité à travailler en équipe pluridisciplinaire et à inscrire son action dans un cadre institutionnel défini",
+    "Aptitude à communiquer de manière professionnelle avec les familles et les partenaires",
+    "Engagement et implication dans le projet du dispositif CLIS et de l’école",
+    "Patience",
+    "Disponibilité",
+    "Stabilité émotionnelle",
+    "Capacité d’adaptation",
+    "Sens de l’observation",
+    "Capacité à prendre du recul sur les situations rencontrées",
+    "Esprit d’initiative",
+    "Créativité",
+    "Capacité à être force de proposition",
+    "Aptitude à travailler en équipe",
+    "Respect du cadre de fonctionnement",
+    "Discrétion professionnelle",
+    "Respect de la confidentialité",
+    "Volonté de se former et de faire évoluer ses pratiques"
+  ],
+  "specialCommitments": null,
+  "title": "Educateur spécialisé en milieu scolaire",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-11-27",
+  "workHours": "39h hebdomadaires",
+  "champs_open_data": 10,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Action sociale",
+  "famille_source": "respnc",
+  "famille_score": 0.984,
+  "dossier": "action-sociale"
+}
