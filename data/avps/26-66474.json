@@ -1,0 +1,201 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "DIRECTION DE L'INDUSTRIE, DES MINES ET DE L'ENERGIE",
+    "uniteOrganisationnelle": "Section Techniques Industrielles",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de la section Techniques industrielles",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Autorité de Sûreté Nucléaire",
+      "Institut de Radioprotection et de Sûreté Nucléaire",
+      "Douanes",
+      "Haut-Commissariat",
+      "Provinces",
+      "Autorités environnementales étrangères"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Ingénieur 1er et 2ème grade domaine de l'équipement : au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements fréquents sur l'ensemble du territoire de la Nouvelle-Calédonie. Utilisation de matériel spécifique de contrôle, horaires atypiques ponctuels, environnement à risques potentiels et risques de mise en cause de la responsabilité pénale individuelle."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "Service de l'industrie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Olivier BOULAY - Chef du service de l'industrie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953814.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous l'autorité directe du chef de la section « Techniques industrielles », l'inspecteur(trice) a pour mission d'assurer la bonne application des politiques publiques et de la réglementation en matière de prévention des risques radiologiques et environnementaux. Il/elle contribue, par son action quotidienne d'instruction et d'inspection sur le terrain, à garantir la sécurité sanitaire de la Nouvelle-Calédonie, tout en sécurisant la responsabilité juridique de l'État vis-à-vis de ses engagements internationaux (Convention de Bâle). Ce poste centralise les compétences pour agir en tant que référent administratif et technique sur ces deux thématiques à forts enjeux.",
+  "disambiguatingDescription": "Inspecteur de l'industrie et des mines chargé de la radioprotection et du transport transfrontalier de déchets",
+  "identifier": "26-66474",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Inspecteur de l'industrie et des mines chargé de la radioprotection et du transport transfrontalier de déchets",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Area",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.17.28",
+    "email": "olivier.boulay@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-06",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Diplôme scientifique de niveau BAC+5",
+      "Réglementations internationales (Convention de Bâle, sûreté nucléaire) et locales (ICPE, radioprotection).",
+      "Technologies et techniques industrielles en lien avec les déchets et les rayonnements.",
+      "Techniques d'inspection et d'audit sur site.",
+      "Bureautique et Anglais (indispensable pour les relations avec les exutoires internationaux)."
+    ]
+  },
+  "eligibilityToWorkRequirement": "Ingénieur 1er et 2ème grade domaine de\nl'équipement : au moins égale à 5 ans",
+  "employerOverview": "La Direction de l'Industrie, des Mines et de l'Énergie de la Nouvelle-Calédonie (DIMENC) est une administration\ncentrale et déconcentrée au service de la politique industrielle & énergétique, de la gestion des risques et de la\nconnaissance géologique de la Nouvelle-Calédonie. Elle applique, évalue et conçoit les politiques publiques dans\nses domaines de compétences dans la perspective de concilier le développement industriel durable du territoire\navec la protection des personnes et des biens et la préservation de l'environnement et des ressources. La\nDIMENC assure des missions pour le compte de l'État, du gouvernement de la Nouvelle-Calédonie, de la\nprovince Nord, de la province Sud, et de la province des îles Loyauté. Par son rôle de conseil et d'aide à la décision de ses cinq donneurs d'ordres, notamment concernant le marché mondial des ressources naturelles, la DIMENC contribue à préparer la Nouvelle-Calédonie à surmonter les mutations économiques, technologiques, climatiques et géopolitiques dans ses domaines de compétences.\n\nAu sein du service industrie de la DIMENC, la section «Techniques Industrielles» réglemente et contrôle (pour le compte de l'Etat, du gouvernement de la Nouvelle-Calédonie et des provinces) les activités industrielles susceptibles d'avoir un impact sur l'environnement, les biens et les personnes et spécifiquement celles nécessitant un haut niveau d'expertise : équipements sous pression, explosifs, ouvrages hydrauliques (barrages),  métrologie légale, radioprotection et transport transfrontalier de déchets.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de l'industrie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Diplôme scientifique de niveau BAC+5 requis",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "DIMENC - Service de l'industrie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-12-14",
+  "occupationalCategory": [
+    "Environnement",
+    "Ingénierie industrielle minière et énergétique",
+    "Prévention et sécurité"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Anglais indispensable pour les relations avec les exutoires internationaux",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Inspecteur des installations classées pour la protection de l'environnement (ICPE)"
+  },
+  "responsibilities": [
+    "Sous l'autorité du chef de section, l'inspecteur(trice) est particulièrement chargé(e) des activités suivantes :",
+    "Sur le volet Radioprotection :",
+    "Instruire et suivre les dossiers complexes liés aux équipements à rayonnements (importation, exportation mise en service et suivi périodique).",
+    "Assurer les contrôles et missions d'inspection sur le terrain.",
+    "Agir en qualité de référent technique et réglementaire dans le cadre de l'instruction, de l'expertise et du suivi des dossiers d'Installations Classées pour la Protection de l'Environnement (ICPE), assujetties aux rubriques 17XX des codes de l'environnement des provinces de la Nouvelle-Calédonie.",
+    "Garantir l'interface technique et institutionnelle avec l'Autorité de Sûreté Nucléaire (ASN) et l'Institut de Radioprotection et de Sûreté Nucléaire (IRSN), particulièrement pour l'élaboration et la pérennisation des conventions d'appui technique en cas de crise ou d'accident radiologique.",
+    "Sur le volet Transports Transfrontaliers de Déchets (TTD) :",
+    "Instruire les demandes d'exportation (dossiers de notification) exigées par la Convention de Bâle et OCDE, en contrôlant rigoureusement la complétude des garanties financières, des contrats de traitement et des assurances environnementales des exportateurs.",
+    "Programmer et réaliser des audits et contrôles sur site chez les préparateurs et exportateurs de déchets dangereux, pour s'assurer de la régularité de leurs installations au titre de la législation ICPE.",
+    "Procéder à l'inspection visuelle et documentaire des chargements avant la pose des scellés, en étroite collaboration avec les services des Douanes, afin de prévenir tout trafic illicite et d'éviter à l'État des obligations de rapatriement à ses frais.",
+    "Assurer une veille internationale sur les filières de traitement (Asie, Pacifique) et agir en tant que point de contact unique entre le Haut-Commissariat, les provinces, les douanes et les autorités environnementales étrangères.",
+    "Développer les outils de suivi, de contrôle et réglementaire sur le sujet."
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Appliquer la réglementation et les techniques de contrôle et d'inspection.",
+    "Évaluer des risques et prendre en compte les enjeux environnementaux et juridiques.",
+    "Communiquer oralement et par écrit.",
+    "Respect du secret professionnel.",
+    "Rigueur, autonomie et force de proposition.",
+    "Sens de l 'organisation",
+    "Esprit d'analyse et de synthèse.",
+    "Sens de la négociation et du travail en équipe (collaborations inter-services : douanes, haut-commissariat, ASN)"
+  ],
+  "specialCommitments": "Pour la réalisation de ces missions, des déplacements fréquents sur l'ensemble du territoire de la Nouvelle-Calédonie sont à prévoir. L'emploi implique l'utilisation de matériel spécifique de contrôle, des horaires atypiques ponctuels, un environnement à risques potentiels et des risques de mise en cause de la responsabilité pénale individuelle.",
+  "title": "Inspecteur de l'industrie et des mines chargé de la radioprotection et du transport transfrontalier de déchets",
+  "totalJobOpenings": 2,
+  "validThrough": "2026-11-27",
+  "workHours": "Horaires atypiques ponctuels",
+  "champs_open_data": 29,
+  "employeur_sigle": "DIMENC",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DE L'INDUSTRIE, DES MINES ET DE L'ENERGIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Environnement",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "environnement"
+}
