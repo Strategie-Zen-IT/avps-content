@@ -21,7 +21,7 @@
     ]
   },
   "alternateName": null,
-  "description": "DPS – Chargé de Contact Clientèle – Agence Mont Dore et ses annexes. Une opportunité dans un environnement stimulant et en constante évolution au sein de l'Office des Postes et des Télécommunications.",
+  "description": "Accueillir et conseiller les clients dans la découverte de l'ensemble des offres et services proposés par l'OPT-NC. Vendre les produits et services adaptés à leur besoin, contribuer à la satisfaction de nos clients.",
   "disambiguatingDescription": null,
   "identifier": "26-1664",
   "image": null,
@@ -29,7 +29,8 @@
   "name": "DPS - Chargé de Contact Clientèle - Agence Mont Dore et ses annexes",
   "owner": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications"
+    "name": "Office des postes et télécommunications",
+    "url": "www.opt.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -55,7 +56,7 @@
       "Outils de bureautique, applications informatiques et logiciels de guichet",
       "Techniques de gestes et postures",
       "Règles d'hygiène et sécurité",
-      "Utiliser les applications informatiques métier",
+      "Utiliser les applications informatiques 'métier'",
       "Manipuler du numéraire, tenir une caisse"
     ]
   },
@@ -65,7 +66,7 @@
   "employmentUnit": {
     "@type": "OrganizationalUnit",
     "name": "Office des Postes et des Télécommunications",
-    "url": null,
+    "url": "www.opt.nc",
     "logo": null
   },
   "estimatedSalary": null,
@@ -73,7 +74,8 @@
   "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
-    "name": "Office des postes et télécommunications"
+    "name": "Office des postes et télécommunications",
+    "url": "www.opt.nc"
   },
   "incentiveCompensation": null,
   "industry": "Postes et télécommunications",
@@ -105,8 +107,6 @@
     "name": "Chargé de contact clientèle"
   },
   "responsibilities": [
-    "Accueillir et conseiller les clients dans la découverte de l'ensemble des offres et services proposés par l'OPT-NC",
-    "Vendre les produits et services adaptés à leur besoin, contribuer à la satisfaction de nos clients",
     "Commercialiser les produits et services de l'OPT-NC, apporter du conseil, contribuer au meilleur accueil et à la satisfaction des clients",
     "Promouvoir les dispositifs de vente multi canal (téléphone, mail, formulaires en ligne ou guichet) et accompagner nos clients dans leur appropriation",
     "Orienter les clients vers des interlocuteurs dédiés en fonction de leurs besoins",
