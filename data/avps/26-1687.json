@@ -7,16 +7,16 @@
     "superieurHierarchique": "Cadre supérieur de santé du CHT",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
+      "SAMU",
+      "SMUR",
       "Médecins",
-      "SAMU/SMUR",
-      "Volet pédiatrique et gynécologique",
       "Étudiants et stagiaires"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Au moins égale à 5 ans"
+        "value": "au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
@@ -46,13 +46,13 @@
       {
         "@type": "PropertyValue",
         "name": "Fiche d'emploi générique RESPNC",
-        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952050.PDF"
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953386.PDF"
       }
     ]
   },
   "alternateName": null,
   "description": "Partie intégrante du plateau technique, le service des urgences assure une continuité des soins 24h/24 et une réactivité immédiate face aux situations critiques. Il comprend un volet adulte - SAMU/SMUR et un volet pédiatrique et gynécologique.",
-  "disambiguatingDescription": "L'infirmier(e) des urgences assure la prise en charge globale, rapide et sécurisée de tout patient adulte se présentant dans le service, quelle que soit la nature de l'urgence, en respectant les protocoles en vigueur et les priorités médicales.",
+  "disambiguatingDescription": "Recrutement de 4 infirmiers aux urgences pour le Centre Hospitalier Territorial au Médipôle Koutio.",
   "identifier": "26-1687",
   "image": null,
   "mainEntityOfPage": null,
@@ -68,7 +68,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
+    "@type": "AreaServed",
     "name": "Médipôle Koutio",
     "address": {
       "@type": "PostalAddress",
@@ -90,12 +90,12 @@
   "educationRequirements": {
     "credentialCategory": "Diplôme d'état d'infirmier",
     "competencyRequired": [
-      "Diplôme d'état d'infirmier / infirmier en soins généraux",
+      "Titulaire du diplôme d'état d'infirmier / infirmier en soins généraux",
       "Formation AFGSU niveau 2 à jour"
     ]
   },
   "eligibilityToWorkRequirement": ".",
-  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret est l'établissement public de santé de référence en Nouvelle-Calédonie.",
+  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret de Nouvelle-Calédonie gère le Médipôle de Koutio.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -111,8 +111,8 @@
     "name": "Centre hospitalier territorial \"Gaston Bourret\""
   },
   "incentiveCompensation": "Primes spécifiques (nuit, week-end...)",
-  "industry": "Santé",
-  "jobBenefits": "Reprise de l'ancienneté possible selon la réglementation en vigueur, grilles indiciaires de la fonction publique de Nouvelle-Calédonie",
+  "industry": "Santé publique soins",
+  "jobBenefits": "Reprise de l'ancienneté possible selon la réglementation en vigueur. Grilles indiciaires de la fonction publique de Nouvelle-Calédonie.",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -129,15 +129,15 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "Immédiatement",
   "occupationalCategory": [
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Diplôme d'état d'infirmier / infirmier en soins généraux, Formation AFGSU niveau 2",
+  "qualifications": "Formation AFGSU niveau 2 à jour",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Infirmier"
+    "name": "Infirmier en soins généraux"
   },
   "responsibilities": [
     "Réaliser des soins infirmiers afin de maintenir ou restaurer la santé du patient",
@@ -163,7 +163,7 @@
     "Gestion du stress",
     "Maîtrise de ses émotions"
   ],
-  "specialCommitments": null,
+  "specialCommitments": "Travail en horaires adaptés à l'activité du service (week-ends, nuit, jours fériés et chômé)",
   "title": "2 Infirmier(e)s aux urgences",
   "totalJobOpenings": 2,
   "validThrough": "2026-11-27",
@@ -174,8 +174,8 @@
   "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
   "direction_source": "source",
   "employeur_source": "source",
-  "famille_respnc": "Santé publique soins",
+  "famille_respnc": "Politique de santé publique",
   "famille_source": "respnc",
-  "famille_score": 0.792,
-  "dossier": "sante-publique-soins"
+  "famille_score": 0.855,
+  "dossier": "politique-de-sante-publique"
 }
