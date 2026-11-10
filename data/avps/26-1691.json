@@ -8,18 +8,11 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Patients",
-      "Publics",
-      "Personnels médicaux",
-      "Médecins",
-      "Ambulances",
+      "Professionnels de santé",
+      "Administration hospitalière",
       "Trésorerie"
     ],
     "informationsLibres": [
-      {
-        "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": null
-      },
       {
         "@type": "PropertyValue",
         "name": "Postes à pourvoir",
@@ -27,8 +20,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Détails de l'offre",
-        "value": "Les postes sont ouverts tant pour le pool que pour les consultations d'orthopédie et d'anesthésie. Les assistants médico-administratifs affectés au sein du pool interviennent dans l'ensemble des secrétariats pour pallier aux absences des agents titulaires."
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Sans objet"
       },
       {
         "@type": "PropertyValue",
@@ -57,9 +50,9 @@
       }
     ]
   },
-  "alternateName": "Assistant médico-administratif",
-  "description": "L'assistant médico-administratif assure le lien entre les patients, les professionnels de santé et l'administration hospitalière. Il/elle garantit la bonne gestion des informations médicales et administratives, tout en contribuant à la qualité de l'accueil et du suivi des patients.",
-  "disambiguatingDescription": "Postes ouverts pour le pool et les consultations d'orthopédie et d'anesthésie au Médipôle Koutio.",
+  "alternateName": null,
+  "description": "Les postes sont ouverts tant pour le pool que pour les consultations d'orthopédie et d'anesthésie. A noter que les assistants médico-administratifs affectés au sein du pool, interviennent dans l'ensemble des secrétariats pour pallier aux absences des agents titulaires.",
+  "disambiguatingDescription": null,
   "identifier": "26-1691",
   "image": null,
   "mainEntityOfPage": null,
@@ -86,12 +79,11 @@
   "educationRequirements": {
     "credentialCategory": "Baccalauréat",
     "competencyRequired": [
-      "Connaissance des droits des patients",
-      "Réglementation des soins"
+      "La connaissance des droits des patients et de la réglementation des soins"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "Centre Hospitalier Territorial Gaston-Bourret, Nouvelle-Calédonie.",
+  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret est l'établissement de santé de référence en Nouvelle-Calédonie, situé au Médipôle Koutio.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -116,7 +108,7 @@
     "name": "Médipôle Koutio",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Koutio",
+      "streetAddress": "Médipôle Koutio",
       "addressLocality": "Dumbéa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -131,7 +123,7 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Titulaire d'un diplôme ou titre de niveau 4 minimum (baccalauréat)",
+  "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Assistant médico-administratif"
