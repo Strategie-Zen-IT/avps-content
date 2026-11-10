@@ -16,23 +16,18 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Cadre d'emploi / Domaine",
-        "value": "Ingénieur 2ème grade - domaine informatique"
+        "name": "Durée de résidence exigée",
+        "value": "au moins égale à 5 ans pour le recrutement sur titre"
       },
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "au moins égale à 5 ans"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Poste à pourvoir",
+        "name": "Statut du poste",
         "value": "Susceptible d'être vacant"
       },
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Vous pouvez être ponctuellement contacté(e) en dehors des horaires administratifs en cas de défaillance des services."
+        "name": "Cadre d'emploi / Domaine",
+        "value": "Ingénieur 2ème grade - domaine informatique"
       },
       {
         "@type": "PropertyValue",
@@ -42,7 +37,7 @@
     ]
   },
   "alternateName": null,
-  "description": "La province Sud place l'usager au cœur de ses priorités et a pour ambition de mener une véritable stratégie client. Leader en matière d'e-administration sur le territoire, son objectif est de tendre vers une administration 100% numérique afin de moderniser, de simplifier et d'optimiser les procédures administratives et les démarches des usagers. La direction du système d'information et du numérique de la province Sud (DSIN) tient un rôle essentiel dans la transformation opérée par la collectivité, et est responsable de la politique de développement du numérique. Sa nouvelle ambition est de faire de la donnée un axe prioritaire, et d'intégrer l'intelligence artificielle dans ses outils pour améliorer la performance de ses services.",
+  "description": "La province Sud place l'usager au cœur de ses priorités et a pour ambition de mener une véritable stratégie client. Leader en matière d'e-administration sur le territoire, son objectif est de tendre vers une administration 100% numérique afin de moderniser, de simplifier et d'optimiser les procédures administratives et les démarches des usagers. La direction du système d'information et du numérique de la province Sud (DSIN) tient un rôle essentiel dans la transformation opérée par la collectivité, et est responsable de la politique de développement du numérique.",
   "disambiguatingDescription": "Chef de service du Centre de services au sein de la Direction du Système d'Information et du Numérique de la Province Sud.",
   "identifier": "26-1523",
   "image": null,
@@ -60,11 +55,11 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
+    "@type": "WorkLocationConnection",
     "name": "Province Sud",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "6 route des artifices",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -82,15 +77,15 @@
   "educationRequirements": {
     "credentialCategory": "Ingénieur",
     "competencyRequired": [
-      "Maîtrise des processus ITIL, une certification serait appréciée",
+      "Maîtrise des processus ITIL",
       "Connaissance des outils de gestion de tickets et des logiciels de monitoring (GLPI, JIRA, autre)",
       "Solides bases en systèmes d'information (réseaux, infrastructure, sécurité)",
       "Compréhension des enjeux et des contraintes des collectivités territoriales",
       "Notions en gestion de la continuité et de la sécurité informatique (PRA, PCA)"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
-  "employerOverview": "La DSIN est une direction d'une cinquantaine de personnes, regroupées dans 4 services : SIL (Service des Infrastructure et de la Logistique - 11 personnes), DEVOPS (Service des Développements et des Opérations - 14 personnes), POP (Service de la Performance Opérationnelle - 12 personnes), CDS (Centre De Services - 10 personnes). La direction est composée d'un directeur et d'une directrice adjointe.",
+  "eligibilityToWorkRequirement": "Durée de résidence au moins égale à 5 ans pour le recrutement sur titre",
+  "employerOverview": "La DSIN est une direction d'une cinquantaine de personnes, regroupées dans 4 services : SIL (Service des Infrastructure et de la Logistique), DEVOPS (Service des Développements et des Opérations), POP (Service de la Performance Opérationnelle), CDS (Centre De Services). Sa nouvelle ambition est de faire de la donnée un axe prioritaire, et d'intégrer l'intelligence artificielle dans ses outils pour améliorer la performance de ses services.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -108,15 +103,15 @@
   },
   "incentiveCompensation": null,
   "industry": "Système d'information",
-  "jobBenefits": null,
+  "jobBenefits": "Opportunités de formation continue et de développement professionnel",
   "jobDuration": null,
-  "jobImmediateStart": null,
+  "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Direction du Système d'Information et du Numérique",
+    "name": "Centre administratif de la province Sud",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "6 route des artifices",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -130,19 +125,19 @@
     "Système d'information"
   ],
   "physicalRequirement": null,
-  "qualifications": null,
+  "qualifications": "Certification ITIL appréciée",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Responsable production / exploitation / maintenance"
   },
   "responsibilities": [
     "Gérer le centre de services : superviser l'activité du centre de services (incidents, demandes de services, problèmes, changements), assurer le suivi des tickets et garantir le respect des engagements de qualité de service",
-    "Être responsable du catalogue de services et de la base de connaissances : garantir l'actualisation du catalogue de services et de la documentation en lien avec les autres services de la direction",
-    "Encadrer et de manager : animer et piloter une équipe de techniciens et de coordinateurs, organiser les plannings, accompagner les agents dans leur montée en compétences",
+    "Etre responsable du catalogue de services et de la base de connaissances : garantir l'actualisation du catalogue de services et de la documentation en lien avec les autres services de la direction",
+    "Encadrer et manager : animer et piloter une équipe de techniciens et de coordinateurs, organiser les plannings, accompagner les agents dans leur montée en compétences",
     "Améliorer en continu : mettre en place des indicateurs de performance, contrats d'engagement et SLA, analyser les tableaux de bord et identifier les axes d'amélioration pour optimiser l'efficacité des services",
     "Veiller à la relation utilisateurs : veiller à la satisfaction des utilisateurs internes et externes, traiter les escalades complexes, promouvoir une culture orientée services au sein de la direction, et veiller à la bonne information des utilisateurs sur les évolutions de services et dysfonctionnements",
-    "Former et accompagner : animer le réseau des correspondants informatiques et de suivre les formations dispensées par les membres de l'équipe auprès des utilisateurs",
-    "Être en veille technologique et de bonnes pratiques : assurer une veille sur les outils et méthodes liés à l'activité du centre de services (ITIL, gestion des incidents, etc.)"
+    "Former et accompagner : animer le réseau des correspondants informatiques et suivre les formations dispensées par les membres de l'équipe auprès des utilisateurs",
+    "Etre en veille technologique et de bonnes pratiques : assurer une veille sur les outils et méthodes liés à l'activité du centre de services (ITIL, gestion des incidents, etc.)"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
@@ -165,11 +160,11 @@
     "Force de propositions pour améliorer les processus en place",
     "Gestion du stress"
   ],
-  "specialCommitments": null,
+  "specialCommitments": "Vous pouvez être ponctuellement contacté(e) en dehors des horaires administratifs en cas de défaillance des services",
   "title": "Chef de service du centre de services",
   "totalJobOpenings": 1,
   "validThrough": "2026-11-13",
-  "workHours": null,
+  "workHours": "Horaires administratifs avec astreintes ponctuelles en cas de défaillance des services",
   "champs_open_data": 8,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
