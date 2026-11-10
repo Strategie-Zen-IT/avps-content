@@ -7,21 +7,30 @@
     "superieurHierarchique": "Chef de section",
     "placeOrganigramme": "N-4 (par rapport au Directeur général)",
     "relationsFonctionnelles": [
-      "Maîtres d'œuvre",
-      "Bureaux d'études",
-      "Entreprises externes",
-      "Services supports internes"
+      "Service immobilier",
+      "Section opérations immobilières 2",
+      "Direction des ressources humaines"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Conditions de travail",
-        "value": "Horaires de travail du lundi au vendredi en fonction du règlement intérieur du service. Possibilité de travailler les jours fériés et le week-end. Port obligatoire des équipements de protection individuelle (EPI). Déplacements fréquents sur l’ensemble du territoire."
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Vacant"
       },
       {
         "@type": "PropertyValue",
         "name": "Fourniture ou mise à disposition de matériels, biens ou services",
-        "value": "Utilisation du véhicule de service. Equipement de protection individuelle. Utilisation de matériels homologués. Tenue de travail."
+        "value": "Utilisation du véhicule de service, Équipement de protection individuelle, Utilisation de matériels homologués, Tenue de travail"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Régimes indemnitaires rattachés au poste de travail",
+        "value": null
       },
       {
         "@type": "PropertyValue",
@@ -30,9 +39,9 @@
       }
     ]
   },
-  "alternateName": "Conducteur d’opérations en bâtiment",
+  "alternateName": null,
   "description": "Représente ou assiste la maîtrise d'ouvrage sur les plans techniques, administratifs et financiers lors des phases de programmation, conception et réalisation de projets neufs ou de restructuration lourde du patrimoine bâti de l'OPT-NC. Suit la conception ou conçoit, fait réaliser par des entreprises, les travaux de construction, rénovation ou aménagement concernant le patrimoine bâti de l'OPT-NC.",
-  "disambiguatingDescription": "Chargé d’opérations bâtiment au sein du Service immobilier de l'OPT-NC.",
+  "disambiguatingDescription": null,
   "identifier": "26-1661",
   "image": null,
   "mainEntityOfPage": null,
@@ -58,7 +67,7 @@
   "datePosted": "2026-11-06",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Technicien",
+    "credentialCategory": "Technicien 1er grade domaine de l’équipement",
     "competencyRequired": [
       "Modes opératoires et procédures en vigueur au sein de l’établissement",
       "Règles de constructions dans le domaine du bâtiment",
@@ -103,7 +112,7 @@
     "name": "Immeuble Kling",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "15 rue Fernand FOREST - Ducos",
+      "streetAddress": "15 rue Fernand FOREST, Ducos",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -124,7 +133,7 @@
     "name": "Conducteur d’opérations en bâtiment"
   },
   "responsibilities": [
-    "Management des opérations, gestion en mode projet (indicateurs : couts, qualité, délais), présentation plénières des dossiers",
+    "Management des opérations, gestion en mode projet (indicateurs : coûts, qualité, délais), présentation plénières des dossiers",
     "Représentation du maître d'ouvrage et communication interne",
     "Pilotage du programme d'opérations et prise en compte des besoins des clients internes, des notions de coût global et de HQE/Environnemental",
     "Conduite d'opérations et rédaction de documents pour la passation de convention et/ou de marchés",
@@ -149,7 +158,7 @@
     "Faire appliquer les règles de conception des ouvrages, contrôler l'application des normes et techniques de mise en œuvre des matériaux et matériels",
     "Mettre en œuvre les techniques du mode projet",
     "Appliquer la réglementation, élaborer des marchés publics",
-    "Planifier et organiser les taches du projet",
+    "Planifier et organiser les tâches du projet",
     "Consulter les entreprises et autres prestataires et passer les commandes",
     "Prendre des décisions dans l'intérêt de l'OPT-NC",
     "Effectuer des études de coûts prévisionnelles",
@@ -177,7 +186,7 @@
   "title": "DMI - Chargé d'opérations bâtiment - Service immobilier",
   "totalJobOpenings": 5,
   "validThrough": "2026-11-27",
-  "workHours": "Horaires de travail du lundi au vendredi en fonction du règlement intérieur du service",
+  "workHours": "Horaires de travail du lundi au vendredi en fonction du règlement intérieur du service. Possibilité de travailler les jours fériés et le week-end. Déplacements fréquents sur l’ensemble du territoire.",
   "champs_open_data": 8,
   "employeur_sigle": "OPT",
   "collectivite": "Office des postes et télécommunications",
