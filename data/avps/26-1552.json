@@ -9,7 +9,7 @@
     "relationsFonctionnelles": [
       "Professionnels médicaux",
       "Professionnels paramédicaux",
-      "Professionnels éducatifs",
+      "Éducatifs intervenants auprès du public accueilli",
       "Établissements scolaires",
       "Acteurs sanitaires et sociaux du territoire"
     ],
@@ -21,18 +21,13 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Programme",
-        "value": "Prévention en addictologie"
-      },
-      {
-        "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Déplacements fréquents sur l'ensemble de la Nouvelle-Calédonie (principalement en province Nord). Véhicule de service mis à disposition."
+        "value": "Déplacements fréquents sur l'ensemble de la Nouvelle-Calédonie (principalement en province Nord) ; Véhicule de service mis à disposition"
       },
       {
         "@type": "PropertyValue",
         "name": "Dispositif pilote",
-        "value": "Intervention en point écoute sur deux demi-journées par semaine en collège et lycée auprès d'élèves de 6e et de seconde (80% agent DECLIC / 20% point écoute)"
+        "value": "Intervention en point écoute sur deux demi-journées par semaine en collège et lycée (80% agent DECLIC / 20% point écoute)"
       },
       {
         "@type": "PropertyValue",
@@ -42,8 +37,8 @@
     ]
   },
   "alternateName": null,
-  "description": "L'agence sanitaire et sociale de la Nouvelle-Calédonie, établissement public administratif, met en œuvre les programmes prioritaires de prévention et de promotion de la santé décidés par la Nouvelle-Calédonie. Dans le cadre du programme de prévention en addictologie, la consultation DECLIC offre gratuitement et anonymement aux jeunes consommateurs jusqu'à 25 ans et à leur entourage un bilan de leurs consommations, des conseils, une aide à l'arrêt ou une orientation. Le psychologue itinérant aura pour mission la mise en œuvre de ces consultations en province Nord au sein d'une équipe pluridisciplinaire et en transversalité.",
-  "disambiguatingDescription": "Poste de psychologue itinérant axé sur la prévention en addictologie (consultations DECLIC et points écoute scolaires) en zone province Nord.",
+  "description": "L'agence sanitaire et sociale de la Nouvelle-Calédonie recrute un psychologue itinérant pour la mise en œuvre des consultations DECLIC en province Nord au sein d'une équipe pluridisciplinaire et en transversalité. Le programme de prévention en addictologie propose des consultations gratuites et anonymes aux jeunes consommateurs et à leur entourage.",
+  "disambiguatingDescription": "Poste de psychologue itinérant basé en Zone province Nord, axé sur la prévention en addictologie et l'écoute des jeunes en milieu scolaire.",
   "identifier": "26-1552",
   "image": null,
   "mainEntityOfPage": null,
@@ -58,18 +53,7 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "Area",
-    "name": "Zone province Nord",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": null,
-      "addressLocality": "Koné",
-      "addressRegion": "Province Nord",
-      "addressCountry": "NC",
-      "province": "province Nord"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "25.52.17",
@@ -79,7 +63,7 @@
   "datePosted": "2026-10-16",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Master 2",
+    "credentialCategory": "Bac+5",
     "competencyRequired": [
       "DESS en psychologie ou master 2 mention psychologie",
       "Formation en addictologie et / ou expérience en addictologie souhaitable",
@@ -93,13 +77,13 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Agence sanitaire et sociale de la Nouvelle-Calédonie (ASSNC)",
+    "name": "Agence sanitaire et sociale de la Nouvelle-Calédonie",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience en addictologie, en éducation pour la santé, en thérapie systémique familiale ou en thérapies cognitives comportementales souhaitable.",
+  "experienceRequirements": "Expérience en addictologie, éducation pour la santé, thérapie systémique familiale ou thérapies cognitives comportementales souhaitable.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Agence sanitaire et sociale"
@@ -125,11 +109,11 @@
   "jobLocationType": null,
   "jobStartDate": "Immédiatement",
   "occupationalCategory": [
-    "Santé publique soins",
-    "Politique de santé publique"
+    "Politique de santé publique",
+    "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis B requis",
+  "qualifications": "Être titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Psychologue"
@@ -146,7 +130,7 @@
     "Contribution à des activités visant à la promotion du dispositif",
     "Participation à des sensibilisations de professionnels notamment sur la thématique",
     "Encadrement et tutorat des stagiaires",
-    "Intervention en point écoute au sein de certains établissements scolaires en collège et lycée auprès d'élèves de 6e et de seconde"
+    "Intervenir en point écoute sur deux demi-journées par semaine auprès d'élèves de collège et lycée"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
@@ -171,11 +155,11 @@
     "Discrétion",
     "Rigueur"
   ],
-  "specialCommitments": "Déplacements fréquents sur l'ensemble de la Nouvelle-Calédonie (principalement en province Nord)",
+  "specialCommitments": "Déplacements fréquents sur l'ensemble de la Nouvelle-Calédonie",
   "title": "Psychologue itinérant",
   "totalJobOpenings": 1,
-  "validThrough": "2026-11-06",
-  "workHours": "Temps plein (répartition de l'activité : 80% agent DECLIC / 20% point écoute pendant l'expérimentation)",
+  "validThrough": "2026-11-27",
+  "workHours": "Temps plein avec répartition d'activité 80% agent DECLIC et 20% point écoute",
   "champs_open_data": 7,
   "employeur_sigle": "ASS-NC",
   "collectivite": "Agence sanitaire et sociale",
