@@ -8,20 +8,21 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Patients",
-      "Professionnels de santé",
+      "Publics",
+      "Personnels médicaux",
       "Administration hospitalière",
       "Trésorerie"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Postes à pourvoir",
-        "value": "2 postes immédiatement, 1 poste au 1er décembre 2026, 1 poste au 1er janvier 2027"
+        "name": "Poste à pourvoir",
+        "value": "3 postes immédiatement, 1 poste au 1er décembre 2026, 1 poste au 1er janvier 2027"
       },
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Sans objet"
+        "value": null
       },
       {
         "@type": "PropertyValue",
@@ -50,9 +51,9 @@
       }
     ]
   },
-  "alternateName": null,
-  "description": "Les postes sont ouverts tant pour le pool que pour les consultations d'orthopédie et d'anesthésie. A noter que les assistants médico-administratifs affectés au sein du pool, interviennent dans l'ensemble des secrétariats pour pallier aux absences des agents titulaires.",
-  "disambiguatingDescription": null,
+  "alternateName": "Assistant médico-administratif Pool/Consultations",
+  "description": "L'assistant médico-administratif assure le lien entre les patients, les professionnels de santé et l'administration hospitalière. Il/elle garantit la bonne gestion des informations médicales et administratives, tout en contribuant à la qualité de l'accueil et du suivi des patients. Les postes sont ouverts tant pour le pool que pour les consultations d'orthopédie et d'anesthésie. Les assistants médico-administratifs affectés au sein du pool interviennent dans l'ensemble des secrétariats pour pallier aux absences des agents titulaires.",
+  "disambiguatingDescription": "Recrutement de 5 assistants médico-administratifs pour le pool et les consultations d'orthopédie et d'anesthésie au CHT.",
   "identifier": "26-1691",
   "image": null,
   "mainEntityOfPage": null,
@@ -71,7 +72,7 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "20.80.00",
-    "email": "nathalie.chevalier@cht.nc"
+    "email": "recrutement@cht.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-11-06",
@@ -83,7 +84,7 @@
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret est l'établissement de santé de référence en Nouvelle-Calédonie, situé au Médipôle Koutio.",
+  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret est l'établissement de santé de référence en Nouvelle-Calédonie, situé sur le site du Médipôle Koutio.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -102,7 +103,7 @@
   "industry": "Santé",
   "jobBenefits": "Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (cadre de l'administration générale)",
   "jobDuration": null,
-  "jobImmediateStart": false,
+  "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
     "name": "Médipôle Koutio",
@@ -119,11 +120,11 @@
   "jobLocationType": null,
   "jobStartDate": "2026-11-06",
   "occupationalCategory": [
-    "Administration générale",
-    "Santé publique soins"
+    "Santé publique soins",
+    "Administration générale"
   ],
   "physicalRequirement": null,
-  "qualifications": null,
+  "qualifications": "Titulaire d'un diplôme ou titre de niveau 4 minimum (baccalauréat)",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Assistant médico-administratif"
