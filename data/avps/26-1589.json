@@ -1,21 +1,20 @@
 {
   "additionalType": {
     "corpsDomaine": "Capitaine",
-    "direction": "DIRECTION DES SERVICES D'INCENDIE ET DE SECOURS",
-    "uniteOrganisationnelle": "Service des centres de secours",
+    "direction": "DES SERVICES D'INCENDIE ET DE SECOURS",
+    "uniteOrganisationnelle": "Des centres de secours",
     "nbAgentsEncadres": 96,
     "superieurHierarchique": "Chef du service des centres de secours",
     "placeOrganigramme": "Sous l'autorité directe du secrétaire général en charge du pôle sécurité, la direction des services d'incendie et de secours est composée de plusieurs unités opérationnelles",
     "relationsFonctionnelles": [
       "Secrétaire général en charge du pôle sécurité",
-      "Direction des services d'incendie et de secours",
-      "Service des centres de secours"
+      "Chef du service des centres de secours"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Assurer des astreintes de niveau chef de colonne et des astreintes de cadre de permanence de la ville de Nouméa."
+        "value": "Assurer des astreintes de niveau \"chef de colonne\" et des astreintes de cadre de permanence de la ville de Nouméa."
       },
       {
         "@type": "PropertyValue",
@@ -52,8 +51,8 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
-    "name": "Ville de Nouméa",
+    "@type": "Place",
+    "name": "Mairie de Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "16, rue du général Mangin",
@@ -85,7 +84,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Ville de Nouméa",
+    "name": "Centre de secours de Lucien Parent",
     "url": null,
     "logo": null
   },
@@ -100,10 +99,10 @@
   "industry": "Service public",
   "jobBenefits": null,
   "jobDuration": null,
-  "jobImmediateStart": null,
+  "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Centre de secours Lucien Parent",
+    "name": "Centre de secours de Lucien Parent",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -120,10 +119,10 @@
     "Incendie et secours"
   ],
   "physicalRequirement": null,
-  "qualifications": "Diplômes exigés : chef de colonne. Diplômes souhaités : FDF3, RCH3.",
+  "qualifications": "Diplômes exigés : chef de colonne ; Diplômes souhaités : FDF3, RCH3",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chef de centre de secours"
+    "name": "Chef de Centre Incendie Secours (CIS)"
   },
   "responsibilities": [
     "Faire respecter les règlements intérieurs de la Ville et de la direction",
@@ -146,25 +145,25 @@
   "skills": [
     "Technique de management",
     "Maîtrise des techniques rédactionnelles",
-    "Maîtrise des outils informatiques (START, AGATT)",
+    "Maîtrise des outils informatiques START et AGATT",
     "Autonomie",
     "Rigueur",
     "Esprit d'initiative",
     "Maîtrise de soi dans les situations de crise, d'urgence ou dangereuses",
-    "Grande disponibilité",
+    "Disponibilité",
     "Réactivité",
     "Sens aigu du service public",
     "Discipline"
   ],
-  "specialCommitments": "Assurer des astreintes de niveau chef de colonne et des astreintes de cadre de permanence de la ville de Nouméa.",
+  "specialCommitments": "Astreintes de niveau chef de colonne et astreintes de cadre de permanence de la ville de Nouméa",
   "title": "Chef de centre de secours",
   "totalJobOpenings": 1,
   "validThrough": "2026-11-13",
-  "workHours": "Son fonctionnement est organisé 24 heures sur 24 et 7 jours sur 7",
+  "workHours": "Fonctionnement organisé 24 heures sur 24 et 7 jours sur 7",
   "champs_open_data": 8,
-  "employeur_sigle": "MAIRIE-DE-NOUMEA",
+  "employeur_sigle": "VILLE-DE-NOUMEA",
   "collectivite": "Ville de Nouméa",
-  "direction": "DIRECTION DES SERVICES D'INCENDIE ET DE SECOURS",
+  "direction": "DES SERVICES D'INCENDIE ET DE SECOURS",
   "direction_source": "document",
   "employeur_source": "document",
   "famille_respnc": "Incendie et secours",
