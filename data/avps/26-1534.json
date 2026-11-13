@@ -10,7 +10,8 @@
       "Régisseur principal",
       "Réseau Tanéo",
       "Magasins dépositaires",
-      "Mandataires"
+      "Mandataires",
+      "Trésorerie"
     ],
     "informationsLibres": [
       {
@@ -20,8 +21,13 @@
       },
       {
         "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "1er décembre 2026"
+      },
+      {
+        "@type": "PropertyValue",
         "name": "Modification de la date initialement prévue",
-        "value": "06/11/2026"
+        "value": "20/11/2026"
       },
       {
         "@type": "PropertyValue",
@@ -58,7 +64,7 @@
   "datePosted": "2026-10-16",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Rédacteur / Attaché",
+    "credentialCategory": null,
     "competencyRequired": [
       "Connaissance de la comptabilité publique exigée",
       "Connaissance du cadre réglementaire d'une régie",
@@ -70,12 +76,7 @@
   "eligibilityToWorkRequirement": null,
   "employerOverview": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes et de transport scolaire du secondaire sur le territoire du Grand Nouméa.",
   "employmentType": "FULL_TIME",
-  "employmentUnit": {
-    "@type": "OrganizationalUnit",
-    "name": "Syndicat Mixte des Transports Urbains du Grand Nouméa - SMTU",
-    "url": "http://www.smtu.nc",
-    "logo": null
-  },
+  "employmentUnit": null,
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
   "experienceRequirements": null,
@@ -85,7 +86,7 @@
     "url": "http://www.smtu.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Transports terrestres et maritimes",
+  "industry": "Service public",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": false,
@@ -147,7 +148,7 @@
   "specialCommitments": null,
   "title": "Régisseur Adjoint",
   "totalJobOpenings": 4,
-  "validThrough": "2026-11-06",
+  "validThrough": "2026-11-20",
   "workHours": null,
   "champs_open_data": 9,
   "employeur_sigle": "SYNDICAT-MIXTE-DES-TRANSPORTS-URBAINS-DU-GRAND-NOUMEA-SMTU",
