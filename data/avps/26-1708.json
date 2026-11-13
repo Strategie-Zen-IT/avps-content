@@ -1,0 +1,157 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 2-Diplôme niveau V",
+    "direction": "SERVICE POPULATION ET SCOLAIRE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Maire et secrétaire général",
+    "placeOrganigramme": "Placée sous l’autorité du Maire et du secrétaire général",
+    "relationsFonctionnelles": [
+      "Maire",
+      "Secrétaire général",
+      "Chef de service au population",
+      "Élèves",
+      "Parents"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952090.PDF"
+      }
+    ]
+  },
+  "alternateName": "Surveillant / animateur des écoles",
+  "description": "La commune de Thio recrute un(e) surveillant(e) des écoles en contrat à durée déterminée. Placée sous l’autorité du Maire et du secrétaire général, la personne sera chargée de la surveillance et de l'animation des élèves.",
+  "disambiguatingDescription": "Recrutement de 2 surveillants scolaires en CDD pour la commune de Thio.",
+  "identifier": "26-1708",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "2 Surveillants scolaire",
+  "owner": {
+    "@type": "Organization",
+    "name": "Commune de Thio"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "44.80.10",
+    "email": "mairie@mairie-thio.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-13",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaître les règles d’accueil et d’hygiène",
+      "Connaître les gestes de premiers secours",
+      "Connaître les règles de fonctionnement de la cantine scolaire"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La commune de Thio recrute pour ses services scolaires.",
+  "employmentType": "TEMPORARY",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Thio"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": "Contrat à durée déterminée",
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de THIO",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue du Gouverneur Feuillet",
+      "addressLocality": "Thio",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98829"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-15",
+  "occupationalCategory": [
+    "Education",
+    "Animation"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Surveillant / animateur des écoles"
+  },
+  "responsibilities": [
+    "Prendre en charge et organiser des activités socio-éducatives pour les élèves du primaire et du collège public entre l’arrivée des bus et la rentrée des classes le matin et entre la fin des classes et le départ des bus scolaire en fin d’après-midi",
+    "Prendre en charge des élèves du primaire du public au moment de la pause déjeuner pour les conduire à la cantine scolaire",
+    "Surveiller et faire respecter les règles de la cantine aux demi-pensionnaires",
+    "Organiser des activités socio-éducatives pour les élèves du primaire notamment pendant la période de pause déjeuner en attendant la reprise des classes",
+    "Assurer la surveillance scolaire à la demande"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Adapter les interventions en fonction des publics, des niveaux et des capacités d’apprentissage dans le cadre fixé par la hiérarchie",
+    "Vérifier, ranger, nettoyer les matériels et équipements utilisés",
+    "Participer et/ou encadrer des activités",
+    "Rendre compte à la hiérarchie",
+    "Adopter une tenue et un vocabulaire convenables et adaptés",
+    "Savoir gérer les conflits",
+    "Participer à l’accompagnement de l’enfant dans l’apprentissage des règles de vie en collectivité (respect d’autrui, de l’environnement…)",
+    "Sensibiliser les enfants à l’équilibre et la curiosité alimentaire",
+    "Repérer les comportements à risque et réguler les conflits entre les enfants",
+    "Alerter les services compétents en cas d’accident",
+    "Renseigner les parents dans la limite des prérogatives",
+    "Sens du service public et respect des horaires de travail",
+    "Dynamisme et réactivité",
+    "Rigueur, ponctualité, assiduité",
+    "Sens de la discrétion et de la confidentialité",
+    "Sens du travail en équipe"
+  ],
+  "specialCommitments": null,
+  "title": "2 Surveillants scolaire",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-04",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "COMMUNE-DE-THIO",
+  "collectivite": "Commune de Thio",
+  "direction": "SERVICE POPULATION ET SCOLAIRE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Animation",
+  "famille_source": "respnc",
+  "famille_score": 0.957,
+  "dossier": "animation"
+}
