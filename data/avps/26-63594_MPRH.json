@@ -5,12 +5,11 @@
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
     "superieurHierarchique": null,
-    "placeOrganigramme": "Interface entre le niveau stratégique (direction) et opérationnel (établissements de santé)",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Professionnels de santé de ville du territoire",
-      "Acteurs et partenaires en termes de E santé",
-      "Observatoire de la santé",
       "DIM des établissements",
+      "Observatoire de la santé",
       "Professionnels médicaux de la direction"
     ],
     "informationsLibres": [
@@ -22,7 +21,7 @@
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale. Polyvalence des missions nécessitant une expertise médicale transversale. Rôle de conseil et d'expertise auprès des professionnels de santé. Contribution à la modernisation du système d'information de santé."
+        "value": "Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale. Polyvalence des missions nécessitant une expertise médicale transversale. Interface entre le niveau stratégique (direction) et opérationnel (établissements de santé). Rôle de conseil et d'expertise auprès des professionnels de santé. Contribution à la modernisation du système d'information de santé."
       },
       {
         "@type": "PropertyValue",
@@ -58,7 +57,7 @@
   },
   "alternateName": "Conseiller technique médical performance",
   "description": "Le conseiller technique est le référent médical pour le secteur performance de la direction. Dans un contexte de modernisation du système de santé calédonien et de déploiement de l'analyse de l'activité au niveau territorial, il joue un rôle pivot dans l'amélioration de la performance médicale et le déploiement des outils d'information médicale. A ce titre, il a pour missions de:\n- Piloter et copiloter des plans d'actions visant à la progression de dossiers prioritaires de la Nouvelle-Calédonie ou certains indicateurs des CPOM pour lesquels la valeur ajoutée médicale est nécessaire ;\n- Etre l'interlocuteur privilégié des professionnels de santé de ville du territoire, des acteurs et des partenaires en termes de E santé ;\n- Participer aux travaux de mise en place de l'Observatoire de la santé, et du déploiement de la feuille de route E santé en Nouvelle-Calédonie.",
-  "disambiguatingDescription": "Le conseiller technique est le référent médical pour le secteur performance de la direction. Dans un contexte de modernisation du système de santé calédonien et de déploiement de l'analyse de l'activité au niveau territorial, il joue un rôle pivot dans l'amélioration de la performance médicale et le déploiement des outils d'information médicale.",
+  "disambiguatingDescription": "Médecin / Conseiller technique médical performance au sein de la Direction des affaires sanitaires et sociales (DASS)",
   "identifier": "26-63594/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -118,8 +117,8 @@
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
-  "jobBenefits": "Informations salaire disponibles sur https://drhfpnc.gouv.nc/sites/default/files/atoms/files/sante_0.pdf",
+  "industry": "Santé publique",
+  "jobBenefits": "Informations salaire disponibles sur le site de la DRHFPNC",
   "jobDuration": null,
   "jobImmediateStart": false,
   "jobLocation": {
@@ -202,7 +201,7 @@
   "specialCommitments": "Les compétences de la Nouvelle-Calédonie en matière de réglementation de la santé amènent l'agent à exercer des missions relevant, en Hexagone, d'administration centrale, régionale et territoriale.\nPolyvalence des missions nécessitant une expertise médicale transversale.\nInterface entre le niveau stratégique (direction) et opérationnel (établissements de santé).\nRôle de conseil et d'expertise auprès des professionnels de santé.\nContribution à la modernisation du système d'information de santé.",
   "title": "Médecin /Conseiller technique médical performance",
   "totalJobOpenings": 3,
-  "validThrough": "2026-10-16",
+  "validThrough": "2026-11-13",
   "workHours": null,
   "champs_open_data": 27,
   "employeur_sigle": "DASS",
