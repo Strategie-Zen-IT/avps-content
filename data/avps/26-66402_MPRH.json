@@ -2,16 +2,25 @@
   "additionalType": {
     "corpsDomaine": "Rédacteur",
     "direction": "DIRECTION DES SERVICES FISCAUX",
-    "uniteOrganisationnelle": "Section comptabilité-guichet",
+    "uniteOrganisationnelle": "Service de la recette",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef du service de la recette",
     "placeOrganigramme": null,
-    "relationsFonctionnelles": [],
+    "relationsFonctionnelles": [
+      "Section comptabilité-guichet",
+      "Service de la recette",
+      "Direction des services fiscaux"
+    ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Poste à pourvoir",
         "value": "Susceptible d'être vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Modification de la date de clôture",
+        "value": "Initialement prévue le 13/11/2026"
       },
       {
         "@type": "PropertyValue",
@@ -52,7 +61,7 @@
   },
   "alternateName": null,
   "description": "Au sein du service de la recette, l'agent exerce par alternance des missions polyvalentes de guichet et de comptabilité, assure l'accueil physique et téléphonique des usagers et procède au traitement des demandes de remboursement de divers impôts.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Gestionnaire guichet-comptable au sein de la section comptabilité-guichet du service de la recette de la direction des services fiscaux.",
   "identifier": "26-66402/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -77,7 +86,7 @@
   "datePosted": "2026-10-19",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": null,
+    "credentialCategory": "Rédacteur",
     "competencyRequired": [
       "Connaissances de l'organisation des services administratifs",
       "Notions générales en matière de fiscalité et de droit civil",
@@ -89,7 +98,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Service de la recette",
+    "name": "Section comptabilité-guichet",
     "url": null,
     "logo": null
   },
@@ -107,7 +116,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Service de la recette",
+    "name": "Direction des services fiscaux",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
