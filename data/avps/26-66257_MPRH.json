@@ -7,14 +7,22 @@
     "superieurHierarchique": "Chef de service de la recette",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Direction des services fiscaux",
-      "Service de la recette"
+      "Service de la recette",
+      "Section guichet-comptabilité",
+      "Sections dédiées au recouvrement",
+      "Section enquêtes et poursuites",
+      "Cellule enregistrement"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Poste à pourvoir",
-        "value": "vacant à partir du 01/01/2027"
+        "value": "Vacant à partir du 01/01/2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Modification de la date de clôture",
+        "value": "Initialement prévue le 13/11/2026"
       },
       {
         "@type": "PropertyValue",
@@ -55,7 +63,7 @@
   },
   "alternateName": null,
   "description": "Au sein du service de la recette, le chef de section a en charge le management opérationnel de la section de recouvrement. Il gère les dossiers reliquataires et contrôle les états de saisie.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Le service de la recette a pour mission principale l'encaissement et le recouvrement des différents impôts, droits, redevances et taxes relevant de la responsabilité du receveur des services fiscaux.",
   "identifier": "26-66257/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -93,7 +101,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Nouvelle-Calédonie",
+    "name": "Service de la recette",
     "url": null,
     "logo": null
   },
@@ -105,7 +113,7 @@
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Service public",
+  "industry": "Fiscalité et Trésor / douanes / affaires économiques",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": false,
@@ -125,8 +133,7 @@
   "jobLocationType": null,
   "jobStartDate": "2027-01-01",
   "occupationalCategory": [
-    "Fiscalité et Trésor / douanes / affaires économiques",
-    "Finances et budget"
+    "Fiscalité et Trésor / douanes / affaires économiques"
   ],
   "physicalRequirement": null,
   "qualifications": null,
@@ -145,7 +152,7 @@
     "Remplacement au sein de la section recouvrement en cas d'absences",
     "Aide aux autres sections à l'occasion des grandes échéances."
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
