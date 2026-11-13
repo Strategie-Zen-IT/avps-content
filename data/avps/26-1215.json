@@ -2,17 +2,14 @@
   "additionalType": {
     "corpsDomaine": "Médecin de santé publique",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": null,
+    "uniteOrganisationnelle": "Pôle Soins",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Directrice adjointe",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins",
-      "Médecins",
-      "Sage-femmes",
-      "Assistantes sociales",
-      "Spécialistes vacataires",
-      "Psychothérapeutes"
+      "Bureau de Proximité de Soins (BPS)",
+      "Centres médico-sociaux de la Province Nord",
+      "CMS limitrophes"
     ],
     "informationsLibres": [
       {
@@ -23,7 +20,7 @@
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Poste soumis à astreinte."
+        "value": "Poste soumis à astreinte"
       },
       {
         "@type": "PropertyValue",
@@ -50,11 +47,22 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Hôtel de la province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
-    "email": "m.oudare@province-nord.nc"
+    "email": "drh-emplois@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-08-14",
@@ -68,9 +76,14 @@
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": null,
+  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
-  "employmentUnit": null,
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "PROVINCE NORD",
+    "url": "www.province-nord.nc",
+    "logo": null
+  },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
   "experienceRequirements": "Une expérience professionnelle sur un poste isolé serait appréciée et au contact de populations océaniennes.",
@@ -104,7 +117,7 @@
     "Politique de santé publique"
   ],
   "physicalRequirement": null,
-  "qualifications": "Être titulaire du permis de conduire B.",
+  "qualifications": "Être titulaire du permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Médecin"
@@ -122,7 +135,7 @@
     "Participation aux actions de formation et d'animation de sécurité civile",
     "Renfort aux CMS limitrophes essentiellement en cas de nécessité"
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -133,11 +146,11 @@
     "Capacité d'écoute",
     "Goût du travail en équipe"
   ],
-  "specialCommitments": "Poste soumis à astreinte.",
+  "specialCommitments": "Poste soumis à astreinte",
   "title": "2 Médecins itinérants et de téléconsultation",
   "totalJobOpenings": 2,
   "validThrough": "2026-11-13",
-  "workHours": null,
+  "workHours": "Astreintes",
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
