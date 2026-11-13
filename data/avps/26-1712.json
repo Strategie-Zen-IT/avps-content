@@ -1,0 +1,149 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien adjoint",
+    "direction": "COMMUNE DE YATE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaire générale",
+    "placeOrganigramme": "Sous l’autorité du Maire de la commune, la secrétaire générale et l’exécutif municipal",
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Permis B apprécié. Nombreux déplacements à l’intérieur du lieu d’intervention ou sur plusieurs lieux différents. Activité en présence des usagers (espaces publics, etc.) ou en dehors des heures d’ouverture et d’accueil de l’établissement. Port de vêtements professionnels adaptés. Manipulation de détergents et de déchets courants. Pénibilité physique : station debout prolongée."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953314.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L’agent d’entretien des locaux effectue, seul ou sous le contrôle d’un responsable, l’enchaînement des travaux nécessaires au nettoyage et à l’entretien de toutes les surfaces et locaux du patrimoine de la collectivité, d’un établissement d’enseignement.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1712",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Agent d'entretien des locaux et espaces vert",
+  "owner": {
+    "@type": "Organization",
+    "name": "Commune de Yaté"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Mairie de Yaté",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "BP 4",
+      "addressLocality": "Yaté",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "46.17.01",
+    "email": "s.g-yate@canl.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-13",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Gestes et postures de la manutention manuelle",
+      "Règles de sécurité et d’hygiène des locaux"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Yaté"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Commune de Yaté",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Yaté",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98834"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Propreté et gestion des déchets",
+    "Espaces verts"
+  ],
+  "physicalRequirement": "Pénibilité physique : station debout prolongée",
+  "qualifications": "Permis B apprécié",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Agent d’entretien des locaux"
+  },
+  "responsibilities": [
+    "Nettoyage des locaux administratifs, techniques et spécialisés (école, cantines, réfectoires, mairie, marché municipal, médiathèque et le bureau et partie commune du service technique)",
+    "Tri et évacuation des déchets courants",
+    "Contrôle de l’état de propreté des locaux",
+    "Entretien courant et rangement du matériel utilisé",
+    "Contrôle de l’approvisionnement en matériel et produits"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Appliquer des règles de sécurité et d’hygiène en vigueur",
+    "Organiser méthodiquement le travail en fonction du planning et des consignes",
+    "Disponibilité",
+    "Discrétion",
+    "Bon relationnel",
+    "Autonomie",
+    "Sens des responsabilités",
+    "Esprit d’analyse et de synthèse",
+    "Sens aigu de la discipline"
+  ],
+  "specialCommitments": null,
+  "title": "Agent d'entretien des locaux et espaces vert",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-04",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "COMMUNE-DE-YATE",
+  "collectivite": "Commune de Yaté",
+  "direction": "COMMUNE DE YATE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Entretien, surveillance et logistique",
+  "famille_source": "respnc",
+  "famille_score": 0.934,
+  "dossier": "entretien-surveillance-et-logistique"
+}
