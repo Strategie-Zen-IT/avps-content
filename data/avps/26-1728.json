@@ -1,0 +1,185 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Emploi fonctionnel",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 110,
+    "superieurHierarchique": "Secrétaire général",
+    "placeOrganigramme": "Sous l'autorité du secrétariat général",
+    "relationsFonctionnelles": [
+      "Secrétariat général",
+      "Exécutif provincial",
+      "Responsables des services, bureaux et antennes",
+      "Partenaires institutionnels, économiques, associatifs et scientifiques",
+      "Organismes extérieurs"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Budget annuel de la direction",
+        "value": "Environ 1,3 milliard de F CFP"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Organisation de la direction",
+        "value": "Neuf services et quatre antennes, organisés en trois pôles : ressources, développement local et services sectoriels"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953806.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La Direction du développement économique et de l'environnement (DDEE) accompagne la structuration et le développement de l'économie de la province Nord, tout en assurant la préservation et la valorisation de son environnement. Ses interventions couvrent la diversification économique, le développement local, la recherche, l'innovation, l'économie sociale et solidaire, l'attractivité du territoire, ainsi que les transitions écologique et alimentaire. En matière d'environnement, la direction intervient dans l'adaptation au changement climatique, la maîtrise des impacts des activités humaines, notamment minières, la gestion des déchets et la conservation de la biodiversité et du patrimoine naturel.",
+  "disambiguatingDescription": "Poste de direction stratégique, administrative, financière et opérationnelle de la DDEE de la Province Nord, encadrant environ 110 agents.",
+  "identifier": "26-1728",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Directeur - Développement économique et environnement",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "www.province-nord.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.71.00",
+    "email": "drh.emplois@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-13",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Formation supérieure",
+    "competencyRequired": [
+      "Formation supérieure en management de projets et approches",
+      "Maîtrise du contexte socio-économique de la province Nord",
+      "Maîtrise des enjeux environnementaux et économique de la province Nord, de la Nouvelle-Calédonie et au niveau régional",
+      "Maîtrise en évaluation des politiques publiques",
+      "Maîtrise des techniques de communication et d'animation",
+      "Méthodes et outils d'analyse et de diagnostic",
+      "Maîtrise des réalités socio-culturelles de la province Nord",
+      "Maîtrise des problématiques liées au développement local",
+      "Maîtrise des processus de décision de la province",
+      "Maîtrise des rouages administratifs et financiers",
+      "Maîtrise en gestion des ressources humaines",
+      "Maîtrise et pratique dans le montage, le suivi d'appels à projets"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La DDEE rassemble environ 110 agents aux compétences pluridisciplinaires, répartis sur l'ensemble du territoire provincial. Elle comprend neuf services et quatre antennes, organisés en trois pôles : ressources, développement local et services sectoriels. Elle mobilise des dispositifs et un réseau de partenaires dans les domaines de la recherche, du soutien à la production, de l'accompagnement des acteurs économiques et de la gestion de l'environnement.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Direction du Développement Economique et de l'Environnement (DDEE)",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "www.province-nord.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de la province Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "41 avenue Jimmy Welepane",
+      "addressLocality": "Koné",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98860"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Pilotage",
+    "Développement du territoire",
+    "Environnement"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé d'études d'impact environnemental"
+  },
+  "responsibilities": [
+    "Proposer et piloter la mise en œuvre des orientations provinciales en matière de développement économique et d'environnement",
+    "Assurer la direction stratégique, administrative, financière et opérationnelle de la DDEE",
+    "Veiller à la cohérence des interventions, à leur adaptation aux réalités territoriales et à l'évaluation de leurs résultats",
+    "Concilier développement et relance économique, préservation de l'environnement et qualité du service rendu",
+    "Conseiller l'exécutif provincial et le secrétariat général en apportant une expertise, des analyses et des propositions d'aide à la décision",
+    "Traduire les orientations politiques en objectifs opérationnels, plans d'action et projets hiérarchisés",
+    "Élaborer et faire vivre un projet de direction partagé",
+    "Anticiper les évolutions du territoire et proposer les adaptations nécessaires des dispositifs d'intervention",
+    "Animer l'équipe d'encadrement et coordonner l'action des services et des antennes",
+    "Favoriser la coopération entre métiers, la circulation de l'information et la transversalité des projets",
+    "Adapter l'organisation et l'affectation des moyens aux priorités de la collectivité",
+    "Accompagner les évolutions des missions et des pratiques professionnelles, développer les compétences et entretenir un dialogue de qualité avec les équipes",
+    "Préparer le budget de la direction, proposer les arbitrages et contrôler son exécution",
+    "Assurer la programmation pluriannuelle des interventions et optimiser l'utilisation des ressources",
+    "Veiller à la régularité administrative et financière des actes, procédures et dispositifs",
+    "Superviser le montage, le suivi et le pilotage des appels à projets",
+    "Coordonner le suivi des opérations relevant du contrat de développement État-province",
+    "Animer les relations avec les partenaires institutionnels, économiques, associatifs et scientifiques",
+    "Conduire les négociations et les concertations nécessaires à la réalisation des projets",
+    "Piloter et suivre les programmes de recherche développement en appui aux politiques provinciales",
+    "Assister les élus dans leurs missions de représentation auprès des organismes extérieurs",
+    "Définir des indicateurs de suivi, évaluer les résultats et les impacts des dispositifs d'intervention et proposer des mesures d'amélioration"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise de la délibération 424, 398, du cadre budgétaire M52, des outils de planification PPI/PPF - AP/AE et Programme",
+    "Compétences managériales avérées",
+    "Techniques de communication et d'animation",
+    "Outils et méthodes d'évaluation des politiques publiques",
+    "Techniques de négociation et de médiation",
+    "Capacité à manager",
+    "Rigueur et organisation",
+    "Qualités rédactionnelles",
+    "Esprit d'analyse et de synthèse",
+    "Sens de l'anticipation",
+    "Aptitudes à la négociation",
+    "Grande disponibilité",
+    "Capacité d'adaptation et réactivité",
+    "Esprit critique et capacité d'analyse",
+    "Qualités relationnelles et goût du travail en collaboration"
+  ],
+  "specialCommitments": null,
+  "title": "Directeur - Développement économique et environnement",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-04",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Environnement",
+  "famille_source": "respnc",
+  "famille_score": 0.805,
+  "dossier": "environnement"
+}
