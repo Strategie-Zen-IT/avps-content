@@ -1,0 +1,165 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Sergent / sapeur pompier",
+    "direction": "",
+    "uniteOrganisationnelle": "Centre d'incendie et de secours",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Maire de la commune, secrétaire générale, directeur du service technique",
+    "placeOrganigramme": "Sous l'autorité du Maire de la commune, la secrétaire générale, le directeur du service technique et l'exécutif municipal",
+    "relationsFonctionnelles": [
+      "Maire de la commune",
+      "Secrétaire générale",
+      "Directeur du service technique",
+      "Exécutif municipal",
+      "Interservices"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements fréquents. Contrainte du lieu de résidence durant le temps de service en travail posté. Aptitude physique et médicale définie réglementairement. Horaires irréguliers (soirées, congés de fin de semaine, jours fériés) en fonction de l'organisation des astreintes, de l'activité opérationnelle et des obligations de service public. Possession des unités de valeurs de formation de CIS. Possession au minimum du grade d'adjudant ou de sergent."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957656.PDF"
+      }
+    ]
+  },
+  "alternateName": "Chef de centre incendie et de secours",
+  "description": "Le chef de centre incendie et secours met en œuvre la politique communale d'incendie et de secours en déclinant les orientations stratégiques en plans d'actions opérationnels. Il gère les ressources, anime les équipes et veille au maintien opérationnel de l'ensemble des moyens d'intervention d'un centre de secours.",
+  "disambiguatingDescription": "Poste de Chef de centre incendie et de secours au sein de la Commune de Yaté.",
+  "identifier": "26-1713",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de centre incendie et de secours (CIS)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Commune de Yaté"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Area",
+    "name": "Yaté",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Yaté",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "46.17.01",
+    "email": "s.g-yate@canl.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-13",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Possession des unités de valeurs de formation de CIS",
+    "competencyRequired": [
+      "Textes réglementaires en matière d'incendie et de sécurité",
+      "Instances et processus de décision du CIS",
+      "Cadre juridique de la responsabilité civile et pénale",
+      "Réglementation hygiène, sécurité et formation",
+      "Techniques de management",
+      "Procédures administratives",
+      "Ensemble du potentiel du CIS"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Commune de Yaté",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Possession au minimum du grade d'adjudant ou de sergent",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Yaté"
+  },
+  "incentiveCompensation": null,
+  "industry": "Sécurité civile",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Yaté",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Yaté",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98834"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Incendie et secours"
+  ],
+  "physicalRequirement": "Aptitude physique et médicale définie réglementairement",
+  "qualifications": "Possession des unités de valeurs de formation de CIS, Possession au minimum du grade d'adjudant ou de sergent",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chef de Centre Incendie Secours (CIS)"
+  },
+  "responsibilities": [
+    "Assistance et conseil aux autorités de police administrative",
+    "Gestion administrative et financière",
+    "Participation à la préparation et à la gestion des crises",
+    "Garant de la finalité opérationnelle du service",
+    "Relations interservices"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Encadrer et animer une équipe",
+    "Mettre en place le Plan communal de sauvegarde",
+    "Élaborer des procédures et veiller à leur application",
+    "Proposer des améliorations pour le fonctionnement du CIS",
+    "Planifier et contrôler la réalisation des tâches à accomplir",
+    "Établir la permanence opérationnelle",
+    "Veiller à l'opérationnalité des locaux, du matériel et du personnel",
+    "Participer à l'analyse des risques et au contrôle des établissements recevant du public (ERP) et des établissements à risques",
+    "Établir des bilans et des rapports relatifs à l'activité de la garde",
+    "Bon relationnel",
+    "Autonomie",
+    "Sens des responsabilités",
+    "Disponibilité",
+    "Esprit d'analyse et de synthèse",
+    "Sens aigu de la discipline"
+  ],
+  "specialCommitments": "Astreintes et horaires irréguliers",
+  "title": "Chef de centre incendie et de secours (CIS)",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-04",
+  "workHours": "Horaires irréguliers (soirées, congés de fin de semaine, jours fériés) en fonction de l'organisation des astreintes",
+  "champs_open_data": 9,
+  "employeur_sigle": "COMMUNE-DE-YATE",
+  "collectivite": "Commune de Yaté",
+  "direction": "",
+  "direction_source": "absente",
+  "employeur_source": "document",
+  "famille_respnc": "Incendie et secours",
+  "famille_source": "respnc",
+  "famille_score": 0.969,
+  "dossier": "incendie-et-secours"
+}
