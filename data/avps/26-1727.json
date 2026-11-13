@@ -1,0 +1,167 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif",
+    "direction": "UNIVERSITE DE NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": "Bureau de la scolarité du département des Lettres, Langues et Sciences Humaines",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur des études et de la vie étudiante",
+    "placeOrganigramme": "Rattaché hiérarchiquement à la Direction des études et de la vie étudiante",
+    "relationsFonctionnelles": [
+      "Direction des études et de la vie étudiante",
+      "Département des Lettres, Langues et Sciences Humaines",
+      "Bureau d'Appui aux Scolarités et aux Enseignements"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 10 ans pour le recrutement sans concours des adjoints administratifs"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953284.PDF"
+      }
+    ]
+  },
+  "alternateName": "Gestionnaire au sein du bureau de scolarité d'un département de formation",
+  "description": "L'Université de la Nouvelle-Calédonie recrute un ou un gestionnaire au sein du bureau de scolarité du département des Lettres, Langues et Sciences Humaines. La personne recrutée sera rattachée hiérarchiquement à la Direction des études et de la vie étudiante.",
+  "disambiguatingDescription": "Poste d'adjoint administratif au sein du bureau de scolarité du département LLSH de l'Université de la Nouvelle-Calédonie.",
+  "identifier": "26-1727",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Gestionnaire au sein du bureau de scolarité d'un département de formation",
+  "owner": {
+    "@type": "Organization",
+    "name": "Université de Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Campus de Nouville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Campus de Nouville",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "recrutement@unc.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-13",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaître les logiciels de bureautique (Word, Excel...)"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs : au moins égale à 10 ans",
+  "employerOverview": "L'Université de la Nouvelle-Calédonie est un établissement pluridisciplinaire qui répond notamment aux besoins de formation et de recherche propres à la Nouvelle-Calédonie. Elle veille à accompagner efficacement les évolutions de la Nouvelle-Calédonie et à répondre à ses besoins spécifiques.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Université de la Nouvelle-Calédonie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience professionnelle dans le domaine serait appréciée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Université de Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Éducation",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Campus de Nouville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Campus de Nouville",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-11",
+  "occupationalCategory": [
+    "Administration générale",
+    "Education"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Gestionnaire de formation"
+  },
+  "responsibilities": [
+    "Accueillir, informer et orienter les étudiants",
+    "Réaliser des opérations de gestion courante en relation avec le domaine de la scolarité",
+    "Participer aux opérations de logistique du service, assister les personnels et les équipes",
+    "Aide au pilotage dans le suivi des heures d'enseignement",
+    "Classer et archiver les documents et informations",
+    "Assurer l'accueil des étudiants : informer, conseiller et orienter les étudiants",
+    "Assurer le suivi pédagogique des étudiants inscrits dans le département (inscriptions pédagogiques, courriers divers, résultats, jurys...)",
+    "Collecte, contrôle et saisie éventuelle des notes dans l'application",
+    "Gestion des résultats (élaboration et édition des procès-verbaux de résultats, édition des relevés de notes et attestations de réussite, transmission aux étudiants, etc.)",
+    "Participation à la saisie des charges d'enseignements des états de service des enseignants (heures statutaires et complémentaires) et le suivi administratif des recrutements des vacataires et missionnaires",
+    "Participation à la gestion des vacataires enseignants et des missionnaires (suivi administratif, recrutement)",
+    "Participation au suivi du budget du Département",
+    "Soutien administratif du Département"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Savoir travailler en autonomie et en équipe",
+    "Savoir rendre compte à sa hiérarchie",
+    "Savoir organiser son travail et faire preuve de rigueur",
+    "Savoir s'adapter, faire preuve de réactivité et de polyvalence",
+    "Savoir prendre des initiatives",
+    "S'inscrire dans une démarche d'amélioration continue",
+    "Capacité à se former rapidement sur des logiciels métiers",
+    "Autonomie dans la gestion quotidienne des responsabilités confiées",
+    "Savoir rendre compte",
+    "Capacité d'adaptation, réactivité",
+    "Capacité à communiquer",
+    "Qualités pédagogiques",
+    "Capacité à travailler en équipe",
+    "Esprit de synthèse",
+    "Gestion du stress en cas de conflit",
+    "Sens de l'organisation, anticipation"
+  ],
+  "specialCommitments": null,
+  "title": "Gestionnaire au sein du bureau de scolarité d'un département de formation",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-04",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "UNC",
+  "collectivite": "Université de Nouvelle-Calédonie",
+  "direction": "UNIVERSITE DE NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Ressources Humaines",
+  "famille_source": "respnc",
+  "famille_score": 0.87,
+  "dossier": "ressources-humaines"
+}
