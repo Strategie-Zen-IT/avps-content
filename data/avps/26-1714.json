@@ -1,0 +1,178 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif",
+    "direction": "COMMUNE DE YATE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaire général",
+    "placeOrganigramme": "Sous l'autorité du secrétaire général",
+    "relationsFonctionnelles": [
+      "Maire de la commune",
+      "Secrétaire générale",
+      "Exécutif municipal",
+      "Agents des différents services municipaux"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sans concours",
+        "value": "au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Bonne élocution et présentation, Rigueur et discrétion, Qualités relationnelles et rédactionnelles, Disponibilité, Sens du travail en équipe, Autonomie et sens de l'initiative, Sens de l'organisation et de la gestion du temps, Ponctualité et assiduité"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957154.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous l'autorité du secrétaire général, l'agent d'accueil assure l'accueil physique et téléphonique du public. Il réceptionne, identifie et oriente les demandes des administrés vers les services compétents de la commune. Il assure également le traitement des demandes administratives courantes, le suivi des dossiers et la liaison avec les agents des différents services municipaux.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1714",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Agent d'accueil",
+  "owner": {
+    "@type": "Organization",
+    "name": "Commune de Yaté"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Mairie de Yaté",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "BP 4",
+      "addressLocality": "Yaté",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "46.17.01",
+    "email": "s.g-yate@canl.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-13",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Adjoint administratif",
+    "competencyRequired": [
+      "Maîtrise de l'organisation et des procédures administratives de la collectivité",
+      "Connaissance de la Commune et des institutions",
+      "Maîtrise des techniques d'accueil et de conduite d'un entretien téléphonique",
+      "Connaissances du logiciel (nom du logiciel utilisé en mairie et de Word et Excel",
+      "Notions des domaines d'interventions des services techniques",
+      "Maîtrise des techniques de secrétariat et de bureautique",
+      "Savoir organiser son temps et travailler en équipe"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sans concours ses adjoints administratifs : au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Yaté"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Yaté",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "BP 4",
+      "addressLocality": "Yaté",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98834"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Utiliser le logiciel BFC pour la gestion de l'état civil en droit commun et en droit coutumier",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé d'accueil"
+  },
+  "responsibilities": [
+    "Accueillir, informer et renseigner le public",
+    "Réceptionner, traiter et orienter les appels téléphoniques et les courriers",
+    "Identifier les demandes et transmettre les informations aux services concernés",
+    "Prendre et transmettre les messages",
+    "Assurer les différentes tâches de secrétariat",
+    "Planifier les réunions selon les directives de la hiérarchie",
+    "Assurer le suivi et la mise à jour des tableaux de bord",
+    "Rendre compte régulièrement de son activité à sa hiérarchie",
+    "Assurer le lien entre les administrés et les différents services de la commune",
+    "Accueillir et renseigner les administrés concernant les demandes de passeports et de cartes nationales d'identité",
+    "Planifier les rendez-vous pour la constitution des dossiers de titres d'identité",
+    "Informer les usagers sur les pièces justificatives à fournir",
+    "Vérifier la complétude des dossiers avant leur prise en charge, selon les procédures en vigueur",
+    "Accueillir et traiter les demandes relatives aux actes d'état civil",
+    "Délivrer les copies et extraits d'actes de naissance, de mariage et de décès, dans le respect des règles de délivrance",
+    "Assurer le traitement des dossiers liés aux adoptions",
+    "Utiliser le logiciel BFC pour la gestion de l'état civil en droit commun et en droit coutumier",
+    "Assurer les opérations administratives relatives au recensement citoyen en vue de la Journée Défense et Citoyenneté (JDC)",
+    "Accueillir et renseigner les administrés sur les démarches d'inscription et de radiation des listes électorales",
+    "Participer au suivi des inscriptions et radiations des listes électorales",
+    "Délivrer les attestations et documents relatifs à la situation électorale des administrés"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Recevoir, identifier et orienter le public",
+    "Réaliser et appliquer les procédures et tableaux de bords",
+    "Rédiger et mettre en forme tous types de courrier et compte rendu de réunion",
+    "Organiser et classer des documents ou informations divers",
+    "Gérer les éventuelles situations conflictuelles",
+    "Bonne élocution et présentation",
+    "Rigueur et discrétion",
+    "Qualités relationnelles et rédactionnelles",
+    "Disponibilité",
+    "Sens du travail en équipe",
+    "Autonomie et sens de l'initiative",
+    "Sens de l'organisation et de la gestion du temps",
+    "Ponctualité et assiduité"
+  ],
+  "specialCommitments": null,
+  "title": "Agent d'accueil",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-04",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "COMMUNE-DE-YATE",
+  "collectivite": "Commune de Yaté",
+  "direction": "COMMUNE DE YATE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.865,
+  "dossier": "administration-generale"
+}
