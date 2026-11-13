@@ -1,0 +1,187 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+    "uniteOrganisationnelle": "Unité de soins médicaux rapprochés (USMR)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Aides-soignants",
+      "Agents de service hospitaliers",
+      "Équipe pluridisciplinaire"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Service",
+        "value": "Centre de gérontologie clinique"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952050.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'infirmier exerce au sein de l'unité de soins médicaux rapprochés (USMR) du centre de gérontologie clinique au Centre Hospitalier Spécialisé Albert Bousquet. Ses missions font référence à la réglementation relative à l'exercice et aux règles professionnelles de la profession d'infirmier en Nouvelle-Calédonie.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1726",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Infirmier(e) à l'unité de soins médicaux rapprochés",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "AreaServed",
+    "name": "Centre Hospitalier Spécialisé Albert Bousquet",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.36.38",
+    "email": "avp@chs.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-13",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'État d'Infirmier",
+    "competencyRequired": [
+      "Connaissances théoriques et maîtrise des pratiques professionnelles inhérentes à la prise en charge de la personne âgée",
+      "Connaissances gériatriques et des pathologies liées au vieillissement",
+      "Connaissances en soins palliatifs et accompagnement de fin de vie",
+      "Connaître la relation d'aide",
+      "Connaissance sur la manutention des patients et sur les différentes installations",
+      "Connaissance dans le suivi des plaies et leur cicatrisation",
+      "Maîtrise des outils informatiques (DPI, SIQWEB, GED)"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": "Le Centre Hospitalier Spécialisé Albert Bousquet est l'employeur de ce poste situé au sein du centre de gérontologie clinique.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Unité de soins médicaux rapprochés (USMR)",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Pratiques professionnelles inhérentes à la prise en charge de la personne âgée ou s'engager à se former dans ces domaines",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier spécialisé \"Albert Bousquet\""
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique soins",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre Hospitalier Spécialisé Albert Bousquet",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplôme d'État d'Infirmier",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "infirmier"
+  },
+  "responsibilities": [
+    "Assurer les soins infirmiers sur prescription ou dans le cadre du rôle propre infirmier, en lien avec les besoins somatiques, psychologiques et sociaux des patients âgés",
+    "Participer à l’accompagnement des patients en soins palliatifs et de leur famille",
+    "Assurer la continuité des soins et la traçabilité des actes dans le dossier patient informatisé",
+    "Participer à la réadaptation et au projet de soins individualisé avec l’équipe pluridisciplinaire",
+    "Evaluer l’état de santé du patient sur le plan clinique et repérer son degré d’autonomie et ses capacités cognitives",
+    "Effectuer l’accueil du patient et de son entourage en réalisant un recueil de données cliniques, administratives et en expliquant les soins",
+    "Etablir le projet de soin individualisé, planifier et coordonner les activités de soins avec l’équipe pluridisciplinaire",
+    "Surveiller l'évolution de l'état de santé des patients",
+    "Réalisation des soins techniques : pansements, injections, préparation et administration des traitements",
+    "Mettre en place des actions de prévention : douleurs, escarres, chutes",
+    "Informer et éduquer la personne et son entourage",
+    "Réaliser l'accompagnement de fin de vie et le soutien des familles",
+    "Gérer le dossier patient informatique et mettre à jour des transmissions ciblées : soins, les rendez-vous, les évaluations",
+    "Coordonner et organiser des consultations extérieures et des sorties",
+    "Encadrer et évaluer pédagogiquement des différents stagiaires conformément aux procédures en vigueur sur l'établissement",
+    "Participer à la démarche qualité et aux audits internes",
+    "Gestion des commandes pharmaceutiques hebdomadaires (piluliers, stock matériel)",
+    "Rangement de la salle de soin et réalisation des piluliers",
+    "Participation à l’inventaire des stupéfiants (hebdomadaire et quotidien)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtriser les transmissions ciblées",
+    "Travailler en équipe pluridisciplinaire",
+    "Collaborer efficacement avec les aides-soignants et les agents de service hospitaliers",
+    "Sens de l’organisation",
+    "Sens des responsabilités",
+    "Evaluer l'état de santé et le degré d'autonomie de la personne",
+    "Analyser et synthétiser les informations",
+    "Réaliser les soins en respectant les procédures et protocoles qualités",
+    "Créer une relation de confiance",
+    "Repérer une situation d'urgence et y agir par des actions adaptées",
+    "Planifier et organiser son temps",
+    "Eduquer et conseiller le patient et son entourage",
+    "Respecter le patient et son entourage",
+    "Respecter la confidentialité",
+    "Ecouter, analyser et répondre de façon adaptée",
+    "Prendre des initiatives",
+    "Rigueur",
+    "Adaptabilité",
+    "S'impliquer dans un travail de groupe",
+    "Respecter le règlement intérieur"
+  ],
+  "specialCommitments": null,
+  "title": "Infirmier(e) à l'unité de soins médicaux rapprochés",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-04",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "CHS",
+  "collectivite": "Centre hospitalier spécialisé \"Albert Bousquet\"",
+  "direction": "CENTRE HOSPITALIER SPECIALISE \"ALBERT BOUSQUET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.994,
+  "dossier": "sante-publique-soins"
+}
