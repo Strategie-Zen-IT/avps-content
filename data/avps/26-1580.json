@@ -2,19 +2,25 @@
   "additionalType": {
     "corpsDomaine": "Sage femme",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "Bureau Santé au Féminin",
+    "uniteOrganisationnelle": "Services des Métiers de Soins/Bureau Santé au Féminin",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef de Bureau Santé au Féminin et médecin chef",
-    "placeOrganigramme": null,
+    "placeOrganigramme": "Bureau Santé au Féminin de Service des Métiers de Soins faisant partie du Pôle Soins",
     "relationsFonctionnelles": [
       "Réseau périnatalité",
-      "Réseau social"
+      "Réseau social",
+      "Médecin et/ou obstétricien"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
         "value": "inférieure à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Néant"
       },
       {
         "@type": "PropertyValue",
@@ -53,6 +59,7 @@
   "educationRequirements": {
     "credentialCategory": "Diplôme d'état de sage-femme",
     "competencyRequired": [
+      "Être titulaire du diplôme d'état de sage-femme",
       "Compétences en échographie exigées"
     ]
   },
@@ -61,8 +68,8 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "PROVINCE NORD",
-    "url": "https://www.province-nord.nc",
+    "name": "Bureau Santé au Féminin",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
@@ -74,7 +81,7 @@
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -84,11 +91,11 @@
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
-      "addressLocality": "Koumac",
+      "addressLocality": "Kaala-Gomen",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
       "province": "province Nord",
-      "postalCode": "98850"
+      "postalCode": "98817"
     }
   },
   "jobLocationType": null,
@@ -105,22 +112,24 @@
   "responsibilities": [
     "Assurer les actes curatifs et préventifs de sage-femme",
     "Participer à l'application des programmes d'intervention et de promotion de la santé et à la permanence de soins",
-    "La mise en place des orientations politiques et administratives, en lien avec le réseau périnatalité",
-    "Le suivi des grossesses avec orientation vers le médecin et/ou l'obstétricien si pathologie",
-    "Le suivi gynécologique, la contraception, l'IVG, les dépistages (cancer du col, cancer du sein, IST)",
-    "Les activités de PMI (l'éducation et la promotion de la santé en matière d'allaitement, de vaccination, de développement psychomoteur, d'hygiène de vie et alimentaire du nourrisson de 0 à 2 ans etc...)",
-    "La liaison avec le réseau social (enfant sans danger, violence intra ou extra familiale etc...) et partenarial (réseau périnatalité)",
-    "Les actions de prévention (santé sexuelle en milieu scolaire et/ou santé communautaire)",
-    "L'évaluation et la restitution de l'activité (cotation et codification, bilan d'activité des actions de prévention)",
-    "Les enquêtes épidémiologiques",
-    "La gestion des urgences gynécologiques ou obstétricales de sage-femme (accouchements inopinés)"
+    "Mise en place des orientations politiques et administratives, en lien avec le réseau périnatalité",
+    "Suivi des grossesses avec orientation vers le médecin et/ou l'obstétricien si pathologie",
+    "Suivi gynécologique, la contraception, l'IVG, les dépistages (cancer du col, cancer du sein, IST)",
+    "Activités de PMI (l'éducation et la promotion de la santé en matière d'allaitement, de vaccination, de développement psychomoteur, d'hygiène de vie et alimentaire du nourrisson de 0 à 2 ans etc...)",
+    "Liaison avec le réseau social (enfant sans danger, violence intra ou extra familiale etc...) et partenarial (réseau périnatalité)",
+    "Actions de prévention (santé sexuelle en milieu scolaire et/ou santé communautaire)",
+    "Évaluation et la restitution de l'activité (cotation et codification, bilan d'activité des actions de prévention)",
+    "Enquêtes épidémiologiques",
+    "Gestion des urgences gynécologiques ou obstétricales de sage-femme (accouchements inopinés)"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Maîtrise de l'outil informatique, maîtrise des logiciels de bureautique Excel et Word",
-    "Disponibilité rigueur",
+    "Maîtrise de l'outil informatique",
+    "Maîtrise des logiciels de bureautique Excel et Word",
+    "Disponibilité",
+    "Rigueur",
     "Respect et confidentialité des informations et du secret médical",
     "Sens des responsabilités",
     "Goût des relations humaines",
