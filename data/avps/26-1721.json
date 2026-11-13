@@ -1,0 +1,163 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Cadre d'exploitation",
+    "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "Service Développement des compétences",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service développement des compétences",
+    "placeOrganigramme": "N-4 (par rapport au Directeur général)",
+    "relationsFonctionnelles": [
+      "Directions métiers",
+      "GEPP",
+      "Partenaires internes et externes",
+      "Acteurs socioéconomiques"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions de travail",
+        "value": "Selon le règlement intérieur du service"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fourniture ou mise à disposition de matériels, biens ou services",
+        "value": "sans objet"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Régimes indemnitaires rattachés au poste de travail",
+        "value": "sans objet"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953274.PDF"
+      }
+    ]
+  },
+  "alternateName": "DRH – Chargé (e) de développement des compétences - SDC",
+  "description": "Le chargé de développement des compétences qualifie les besoins de compétences en lien avec les directions métiers et la GEPP, et conçoit des dispositifs de développement des compétences des collaborateurs cohérents avec les besoins et le plan stratégique de l'OPT.",
+  "disambiguatingDescription": "Poste de chargé de développement des compétences au sein de la Direction des ressources humaines de l'Office des Postes et des Télécommunications.",
+  "identifier": "26-1721",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé(e) de développement des compétences - SDC",
+  "owner": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "url": "https://www.opt.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.81.19",
+    "email": "DRH-candidature@opt.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-13",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Organisation politique, et administrative de la Nouvelle-Calédonie, de son tissu économique et de son environnement (et plus spécifiquement celui de la formation professionnelle) régional et local",
+      "Règles en matière d'achat public"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Office des Postes et des Télécommunications",
+    "url": "https://www.opt.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "url": "https://www.opt.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Postes et télécommunications",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Ducos",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2 rue Paul Montchovet, Port Plaisance",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Ressources Humaines"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé de développement des compétences"
+  },
+  "responsibilities": [
+    "Analyser avec les référents métier les évolutions impactant les compétences (business, réglementation, technologies, contexte économique ...)",
+    "Piloter des projets de formation de l'identification du besoin jusqu'à l'évaluation finale du projet",
+    "Assurer l'ingénierie de formation adaptée à chaque projet",
+    "Sourcer et évaluer les formateurs en capacité de répondre au besoin défini dans la consultation",
+    "Assurer la promotion en interne des dispositifs de développement des compétences",
+    "Animer la relation avec les partenaires internes et externes, et les acteurs socioéconomiques",
+    "Mettre en oeuvre les opérations de gestion des formations (suivi stagiaires, organisation des plateaux techniques ...)",
+    "Participer à l'élaboration du plan de développement des compétences de l'OPT",
+    "Proposer et décliner des actions visant à améliorer la satisfaction des clients internes (commanditaires, managers, agents)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Méthodologie de conduite de projet et de pilotage d'un portefeuille de projets",
+    "Techniques d'animation de groupe (atelier d'intelligence collective par exemple)",
+    "Rédaction de cahier des charges et analyse des offres",
+    "Techniques de rédaction et de conception de supports (supports de présentation, note, rapport, bilans ...)",
+    "Capacités d'analyse et de synthèse",
+    "Capacité à animer un réseau d'acteurs internes et externes",
+    "Négociation",
+    "Lecture de données RH et mise en place d'indicateurs",
+    "Fortes capacités d'adaptation et de réactivité",
+    "Sens de l'organisation",
+    "Assertivité",
+    "Autonomie",
+    "Ouverture à l'innovation",
+    "Aisance à l'oral en individuel ou devant un groupe"
+  ],
+  "specialCommitments": null,
+  "title": "Chargé(e) de développement des compétences - SDC",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-04",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "OPT",
+  "collectivite": "Office des postes et télécommunications",
+  "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Ressources Humaines",
+  "famille_source": "respnc",
+  "famille_score": 0.833,
+  "dossier": "ressources-humaines"
+}
