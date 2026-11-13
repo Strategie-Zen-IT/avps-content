@@ -1,0 +1,172 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Infirmier en soins généraux",
+    "direction": "VICE-RECTORAT",
+    "uniteOrganisationnelle": "Collège Wani-Houaïlou",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Madame Marie LELEU, coordinatrice infirmière au vice-rectorat de la Nouvelle-Calédonie",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Membres de la communauté éducative"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste susceptible d'être vacant",
+        "value": "12 février 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Tout nouvel infirmier recruté doit être formé PSC1 ou s'engager par écrit à l'être dans l'année de son recrutement."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952046.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'infirmier(e), dans le cadre de son rôle relationnel, technique et éducatif, accueille tout élève qui le sollicite pour quelque motif que ce soit y compris d'ordre relationnel ou psychologique, dès lors qu'il y a une incidence sur sa santé ou sa scolarité.",
+  "disambiguatingDescription": "Poste d'infirmier(e) scolaire au Collège Wani-Houaïlou sous l'autorité du Vice-rectorat de la Nouvelle-Calédonie.",
+  "identifier": "26-1699",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Infirmier(e) scolaire au collège Wani-Houailou",
+  "owner": {
+    "@type": "Organization",
+    "name": "Vice-rectorat"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Collège Wani-Houaïlou",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Houaïlou",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.62.56",
+    "email": "marie.leleu@ac-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-13",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'État d'Infirmier",
+    "competencyRequired": [
+      "Soins d'urgence et hygiène hospitalière",
+      "Bonne connaissance des problématiques adolescentes",
+      "Connaissance de l'organisation de la santé en Nouvelle-Calédonie",
+      "Connaissances en actions de promotion et de prévention de la santé",
+      "Techniques d'écoute active et d'accompagnement",
+      "Maîtrise de l'outil informatique",
+      "Connaissance du système éducatif et du fonctionnement général d'un établissement"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": "Vice-rectorat de la Nouvelle-Calédonie - Direction générale des enseignements (DGE)",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Collège Wani-Houaïlou"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Vice-rectorat"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Collège Wani-Houaïlou",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Houaïlou",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98816"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-12",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B obligatoire, Formation PSC1 requise",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Personnels paramédicaux"
+  },
+  "responsibilities": [
+    "Ecouter et accompagner les élèves",
+    "Organiser les urgences et les soins et assurer un suivi infirmier de l'état de santé des élèves",
+    "Développer, en fonction des besoins repérés, une dynamique d'éducation à la santé",
+    "Participer, dans le cadre de sa mission éducative à la formation des jeunes, à l'amélioration de leur capacité à mettre en valeur leur propre santé par des choix de comportements libres et responsables devant les problèmes de santé publique et de société qui peuvent se poser",
+    "Favoriser la scolarisation des enfants et des adolescents atteints de troubles de la santé évoluant sur une longue période",
+    "Met en place des actions permettant d'améliorer la qualité de vie des élèves en matière d'hygiène, de sécurité et d'ergonomie",
+    "Intervenir si besoin auprès des enfants et des adolescents en danger",
+    "Exercer son activité en partenariat avec tous les membres de la communauté éducative",
+    "Favoriser les apprentissages, le projet personnel et la réussite scolaire de l'élève et veiller à son bien-être et à son épanouissement"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Conseiller et accompagner un public jeune",
+    "Faire passer un message",
+    "Identifier et analyser des situations d'urgence et apporter les solutions adaptées",
+    "Mettre en place des actions éducatives en lien avec le secteur de la santé",
+    "Travailler en partenariat",
+    "Rigueur et sens de l'organisation",
+    "Sens de la pédagogie",
+    "Qualités relationnelles avérées",
+    "Gestion du stress et maîtrise de soi",
+    "Sens du travail en équipe",
+    "Adaptabilité",
+    "Discrétion",
+    "Sens du service public",
+    "Disponibilité"
+  ],
+  "specialCommitments": null,
+  "title": "Infirmier(e) scolaire au collège Wani-Houailou",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-04",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "VR",
+  "collectivite": "Vice-rectorat",
+  "direction": "VICE-RECTORAT",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.811,
+  "dossier": "sante-publique-soins"
+}
