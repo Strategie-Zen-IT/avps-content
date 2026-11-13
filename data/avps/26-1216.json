@@ -4,7 +4,7 @@
     "direction": "PROVINCE NORD",
     "uniteOrganisationnelle": "CMS de BELEP",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Directeur(trice) adjoint(e) des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité",
+    "superieurHierarchique": "Directeur adjoint des Affaires Sanitaires et Sociales, de la Prévention et de la Solidarité",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins",
@@ -29,8 +29,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La personne retenue aura la charge de la continuité de l'offre de soin au sein du centre médico-social.",
-  "disambiguatingDescription": "Poste de médecin au CMS de Belep avec astreintes, sous l'autorité de la DASSPS de la Province Nord.",
+  "description": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
+  "disambiguatingDescription": "La personne retenue aura la charge de la continuité de l'offre de soin au sein du centre médico-social.",
   "identifier": "26-1216",
   "image": null,
   "mainEntityOfPage": null,
@@ -38,12 +38,12 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "http://www.province-nord.nc"
+    "url": "www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": null,
+  "url": "www.province-nord.nc",
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
@@ -61,7 +61,7 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "47.71.00",
-    "email": "m.oudare@province-nord.nc"
+    "email": "drh-emplois@province-nord.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-08-14",
@@ -75,12 +75,12 @@
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents. Les centres médico-sociaux sont gérés par le Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins.",
+  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "PROVINCE NORD",
-    "url": "http://www.province-nord.nc",
+    "name": "CMS de BELEP",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
@@ -89,7 +89,7 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "http://www.province-nord.nc"
+    "url": "www.province-nord.nc"
   },
   "incentiveCompensation": null,
   "industry": "Santé",
