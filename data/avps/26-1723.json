@@ -1,0 +1,170 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 2-Diplôme niveau V",
+    "direction": "DIRECTION DU DEVELOPPEMENT DURABLE ET DE LA PROXIMITE",
+    "uniteOrganisationnelle": "Service du Cadre de Vie",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef d'équipe",
+    "placeOrganigramme": "Sous l'autorité directe du chef d'équipe puis du chef de la cellule réseaux, routiers et transports",
+    "relationsFonctionnelles": [
+      "Service Équipements Publics",
+      "Service du Cadre de Vie",
+      "Cellule réseaux, routiers et transports"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emplois",
+        "value": "ACDP – Grille 2"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Statut du poste",
+        "value": "Susceptible d'être vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Mobilisation pour des interventions urgentes de mise en sécurité, ou en cas d'activation du Plan Communal de Sauvegarde (cyclones, intempéries, ...). Mobilisable les week-ends et jours fériés dans le cadre de ses missions, ou sur des plannings hebdomadaires de permanence en dehors des heures ouvrables. Renfort des autres équipes de la direction ou d'autres services de la Ville, notamment lors d'événements festifs. Participation aux inhumations (réalisation de la fosse). Assurer l'intérim de son chef d'équipe."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957428.PDF"
+      }
+    ]
+  },
+  "alternateName": "Chauffeur polyvalent poids lourds",
+  "description": "Deuxième commune de Nouvelle-Calédonie avec ses 36 000 habitants, DUMBEA s'affiche comme une ville d'avenir, dynamique, vivante, et multiculturelle dans laquelle il fait bon vivre. Sa richesse est de réunir à la fois un caractère très urbain au sud et plus rural au nord. Dans l'organigramme général des services de la Ville, la Direction du Développement Durable et de la Proximité (DDDP) regroupe, le service administratif et comptable, le service du cadre de vie, le service du développement durable, le service des équipements publics et le service de l'urbanisme. Les missions principales du Service du Cadre de Vie sont l'entretien des réseaux routiers, des espaces publics, de l'éclairage public et la veille sanitaire.",
+  "disambiguatingDescription": "Ouvrier polyvalent avec compétences requises chauffeur polyvalent poids lourds pour la Ville de Dumbéa.",
+  "identifier": "26-1723",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Ouvrier polyvalent avec compétences requises chauffeur polyvalent poids lourds",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Dumbéa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Mairie de Dumbéa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "66 avenue de la vallée",
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "41.40.06",
+    "email": "courrier@ville-dumbea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-13",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Permis et CACES spécifiques",
+    "competencyRequired": [
+      "Détenir permis B, C, E, CACES catégorie A et C1 à jour",
+      "Bonne connaissance de la ville de Dumbéa",
+      "Règles de sécurité et prévention",
+      "Notions de signalisation d'urgence sur voirie",
+      "Notions d'hygiène et d'environnement"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Deuxième commune de Nouvelle-Calédonie avec ses 36 000 habitants, DUMBEA s'affiche comme une ville d'avenir, dynamique, vivante, et multiculturelle.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service du Cadre de Vie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience dans le domaine d'entretien de la voirie et réseaux",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Dumbéa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Dumbéa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements",
+    "Ateliers et véhicules",
+    "Propreté et gestion des déchets"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B, C, E, CACES catégorie A et C1 à jour",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Conducteur de véhicules poids lourds"
+  },
+  "responsibilities": [
+    "Conduite d'une tractopelle, mini pelle ou d'un camion pour assurer le nettoiement régulier des ouvrages d'eaux pluviales (curage des fossés, radiers, buses et terrassements)",
+    "Conduite de camions PL (y compris camion grappin) pour participer à la propreté de la Ville par la collecte des déchets (déchets verts, dépôts sauvages, papiers) et la surveillance des décharges sauvages",
+    "Assurer le nettoyage des tags notamment sur le mobilier urbain (poubelles publiques, bancs publics, panneaux)",
+    "Assurer des réparations, confections et/ou remises en état des ouvrages et mobiliers urbains défectueux (regards, potelets, portails et poubelles)",
+    "Participer à la sécurisation en urgence des ouvrages ou équipements défectueux notamment par balisage des zones d'intervention",
+    "Veiller à l'entretien du matériel utilisé",
+    "Venir en renfort des autres services de la Direction du Développement Durable et de la Proximité en effectuant des travaux annexes (travaux en régie, manifestations organisées par la Ville, grosses interventions d'urgence)",
+    "Participe, en soutien à son chef d'équipe, au contrôle et suivi des travaux réalisés par des entreprises dans son domaine de compétences"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Etre apte et connaître la conduite d'engins de nettoyage (curage, terrassement), pelle rétro et camion grappin",
+    "Rendre compte à la hiérarchie des anomalies",
+    "Exécuter des techniques de manutention et d'entretien (peinture, maçonnerie, soudure)",
+    "Notions de mécanique",
+    "Respecter les usagers et les règles de sécurité et éviter les nuisances",
+    "Assiduité et rigueur professionnelle",
+    "Grande disponibilité et mobilité",
+    "Responsabilité dans la conduite des engins",
+    "Capacité d'adaptation et réactivité",
+    "Sens de l'organisation et du travail en équipe",
+    "Sens du service public"
+  ],
+  "specialCommitments": "Astreintes et interventions urgentes (week-ends, jours fériés, Plan Communal de Sauvegarde)",
+  "title": "Ouvrier polyvalent avec compétences requises chauffeur polyvalent poids lourds",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-04",
+  "workHours": "Horaires de travail avec permanences et week-ends possibles",
+  "champs_open_data": 8,
+  "employeur_sigle": "VILLE-DE-DUMBEA",
+  "collectivite": "Ville de Dumbéa",
+  "direction": "DIRECTION DU DEVELOPPEMENT DURABLE ET DE LA PROXIMITE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Ateliers et véhicules",
+  "famille_source": "respnc",
+  "famille_score": 0.832,
+  "dossier": "ateliers-et-vehicules"
+}
