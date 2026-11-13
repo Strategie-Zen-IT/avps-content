@@ -1,0 +1,167 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien",
+    "direction": "SERVICE TECHNIQUE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur du service technique",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Directeur des services techniques",
+      "Régie des eaux",
+      "Régie de recettes de la commune",
+      "Services de la province Nord"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "REORGANISATION INTERNE"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Basé dans les locaux de la commune"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953858.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sous l'autorité du Directeur du service technique, l'Assistant technique en infrastructure aura pour mission d'assurer le suivi et la coordination des chantiers d'entretien, de la voirie, des réseaux d'eau, des espaces verts, de l'environnement, de l'éclairage public et des infrastructures scolaires de la commune.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1722",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Assistant technique en infrastructure",
+  "owner": {
+    "@type": "Organization",
+    "name": "Commune de Houaïlou"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Mairie de Houaïlou",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Lot 22 village",
+      "addressLocality": "Houaïlou",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "42.52.20",
+    "email": "personnel2@mairie-houailou.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-13",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Formation dans le domaine de la voirie",
+    "competencyRequired": [
+      "Connaissances certaines en VRD",
+      "Connaissances dans le domaine de la voirie"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Plus de 5 ans d'expériences dans le domaine de la voirie",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Houaïlou"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Houaïlou",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Lot 22 village",
+      "addressLocality": "Houaïlou",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98816"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements",
+    "Espaces verts",
+    "Propreté et gestion des déchets"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis VL, PL souhaité",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Assistant technique en infrastructure"
+  },
+  "responsibilities": [
+    "Identifier et anticiper les contraintes / risques liés aux chantiers d'entretien de la commune",
+    "Aep - Programmation des ouvertures et fermetures des compteurs, prévision des extensions de réseaux en lien avec la régie des eaux, suivi de facturation (en lien avec la régie de recettes de la commune)",
+    "Espaces verts - contrôle et programmation de l'entretien aux espaces verts (écoles, terrain de sports, routes municipales sous la supervision du DST, salle de sport, captages)",
+    "Environnement, contrôle de la filière déchets",
+    "Coordination et demandes de l'habitat social (accueil des demandeurs et suivi de dossiers avec les services de la province Nord)",
+    "Suivi de l'éclairage public (programmation de l'installation et suivi)",
+    "Suivi des infrastructures scolaires publiques"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Expérience en gestion (matériel engins de chantier)",
+    "Maîtrise des outils bureautiques",
+    "Qualités rédactionnelles",
+    "Très bon relationnel",
+    "Sens du travail en équipe",
+    "Écoute et adaptabilité",
+    "Aptitude à l'encadrement",
+    "Gestion des conflits",
+    "Négociation",
+    "Sens de l'organisation",
+    "Méthode et esprit de synthèse",
+    "Capacité à rendre compte",
+    "Savoir prendre des initiatives",
+    "Respect des normes de sécurité"
+  ],
+  "specialCommitments": null,
+  "title": "Assistant technique en infrastructure",
+  "totalJobOpenings": 5,
+  "validThrough": "2026-12-04",
+  "workHours": null,
+  "champs_open_data": 8,
+  "employeur_sigle": "COMMUNE-DE-HOUAILOU",
+  "collectivite": "Commune de Houaïlou",
+  "direction": "SERVICE TECHNIQUE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Infrastructures, réseaux, eaux et assainissements",
+  "famille_source": "respnc",
+  "famille_score": 0.982,
+  "dossier": "infrastructures-reseaux-eaux-et-assainissements"
+}
