@@ -1,0 +1,169 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché / ingénieur",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Service de la stratégie et de la production",
+    "nbAgentsEncadres": 6,
+    "superieurHierarchique": "Directrice de l'emploi et du logement",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Partenaires de l'action sociale",
+      "Partenaires institutionnels et professionnels"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "ingénieur : au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "immédiatement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952148.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Au sein du pôle développement et épanouissement de la personne, la direction de l'emploi et du logement est chargée de la mise en œuvre de la politique publique en matière d’emploi, de logement et d’insertion de la province Sud.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1715",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de service de la stratégie et de la production",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.42.49",
+    "email": "marie.benzaglou@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-13",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Expertise en matière d'élaboration et d’évaluation de politiques publiques notamment dans le domaine de l’habitat et de la construction",
+      "Expertise en matière d’ingénierie financière et de planification des besoins",
+      "Expertise en matière d’organisation administrative des collectivités",
+      "Connaissances des réglementations techniques liées à l’activité du service (habitat, urbanisme, fiscalité, énergie, administratif, etc.)",
+      "Connaissances de l’ingénierie de l’aménagement et de la construction (planification, programmation, financement, etc.)"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience minimum de 5 ans en management d’équipe",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction de l'Emploi et du Logement",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Habitat et logement",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Titulaire du permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable habitat"
+  },
+  "responsibilities": [
+    "Proposer, mettre en œuvre et évaluer la stratégie provinciale en matière d’emploi, d’insertion et d’habitat",
+    "Contribuer à l’élaboration des orientations stratégiques de la direction et d'en assurer la déclinaison opérationnelle",
+    "Piloter les démarches d’analyse, d’études et d’évaluation nécessaires à l’adaptation des politiques publiques dans ces domaines",
+    "Piloter la mise en œuvre des dispositifs et des programmes relevant de son périmètre, notamment le programme pluriannuel d’habitat inscrit au contrat de développement",
+    "Contribuer au montage et au suivi des opérations d’aménagement, de construction ou de rénovation menées avec les partenaires concernés",
+    "Piloter ou contribuer aux projets transversaux de la direction impliquant son périmètre d’intervention",
+    "Encadrer, animer et structurer l’activité du service, composé de six agents",
+    "Veiller au développement des compétences, à la qualité du fonctionnement collectif et à la bonne organisation du service",
+    "Garantir la qualité administrative, juridique, technique et financière des dispositifs et des dossiers instruits par le service",
+    "Piloter la préparation et l’exécution budgétaire du service et d'anticiper les besoins financiers liés aux politiques conduites",
+    "Développer et animer les relations avec les partenaires institutionnels et professionnels",
+    "Apporter un appui stratégique à la direction, être force de proposition sur les évolutions des politiques publiques concernées",
+    "Représenter la province Sud dans les instances et les partenariats relevant de son champ d’intervention"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Organisation et animation de groupes de travail",
+    "Gestion de projets complexes",
+    "Accompagnement au changement",
+    "Définition et optimisation de procédures administratives",
+    "Maîtrise de la rédaction d’écrits et d'actes administratifs (délibérations, arrêtés, comptes rendus, rapports et notes de synthèse)",
+    "Maîtrise des outils informatiques et bureautiques",
+    "Création et suivi d’indicateurs",
+    "Pratique des textes réglementaires",
+    "Vision stratégique et capacité à décliner les orientations de la collectivité dans l’action du service",
+    "Capacité d’initiative et force de proposition",
+    "Aptitude à accompagner et conduire le changement",
+    "Qualités managériales et capacité à fédérer une équipe",
+    "Esprit d’analyse et de synthèse",
+    "Aisance rédactionnelle",
+    "Sens de l’organisation et capacité à prioriser",
+    "Qualités relationnelles et aptitude au travail partenarial",
+    "Rigueur et sens des responsabilités",
+    "Réactivité et disponibilité",
+    "Intérêt pour les politiques publiques de l’emploi, de l’insertion et de l’habitat"
+  ],
+  "specialCommitments": null,
+  "title": "Chef de service de la stratégie et de la production",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-04",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Habitat et logement",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "habitat-et-logement"
+}
