@@ -1,0 +1,177 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "DIRECTION DU TRAVAIL, DE L'EMPLOI ET DE LA FORMATION PROFESSIONNELLE",
+    "uniteOrganisationnelle": "Service Réseau Information Insertion Formation et Emploi - Observatoire de la Formation, de l'Emploi",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cheffe de projet Campus N",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Référents alternance et stages du consortium",
+      "Université",
+      "Vice-Rectorat",
+      "CCI",
+      "FIAF"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Contexte du projet",
+        "value": "Projet Campus N soutenu par l'État dans le cadre de l'Appel à Manifestation d'Intérêt Compétences et Métiers d'Avenir de France 2030"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service recruteur",
+        "value": "SERVICE RESEAU INFORMATION INSERTION FORMATION ET EMPLOI - OBSERVATOIRE DE LA FORMATION, DE L'EMPLOI"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interlocuteur",
+        "value": "Amandine Combe"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953284.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Sélectionné dans le cadre de l'Appel à Manifestation d'Intérêt « Compétences et Métiers d'Avenir » (AMI CMA) de France 2030, le projet Campus N est soutenu par l'État et bénéficie d'un soutien de la Caisse des Dépôts. Chef de file, le gouvernement de la Nouvelle-Calédonie pilote ce dispositif stratégique porté par un consortium réunissant l'Université, le Vice-Rectorat, la CCI et le FIAF. Son ambition centrale est de développer et structurer l'offre de formation numérique afin de répondre aux besoins en compétences et en emplois du territoire. \n\nLe projet s'articule autour de trois axes stratégiques :\n1- Accompagner l'évolution de l'offre de formation pour répondre aux besoins en compétences de la Nouvelle-Calédonie ; \n2- Développer une offre de service mutualisée ; \n3- Renforcer l'attractivité des métiers et des filières du numérique.\n\nÀ l'issue de la première année, le recrutement d'un coordinateur mutualisé est prévu pour animer les services partagés (future plateforme de stages et projet de plateforme LMS commune), décharger les référents administratifs et sécuriser les parcours des apprenants devant intégrer des stages ou une alternance.",
+  "disambiguatingDescription": "Mission ponctuelle d'un an pour la coordination opérationnelle des stages et alternances du Campus N.",
+  "identifier": "26-66533/MPRH",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Coordinateur de stages pour le Campus N",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.92.76",
+    "email": "amandine.combe@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-13",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaissance des dispositifs de formation et de l'emploi en Nouvelle-Calédonie",
+      "Compréhension des enjeux et des métiers du numérique (cybersécurité, IA, etc.)",
+      "Réglementation locale des stages et de l'alternance/apprentissage",
+      "Connaissance des outils d'apprentissage en ligne (LMS, MOOC,...)"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Le gouvernement de la Nouvelle-Calédonie pilote le dispositif Campus N, porté par un consortium réunissant l'Université, le Vice-Rectorat, la CCI et le FIAF, visant à structurer l'offre de formation numérique.",
+  "employmentType": "TEMPORARY",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience requise en planification et coordination de calendriers complexes, rédaction de fiches descriptives et supports pédagogiques, animation de réseaux et relations partenariales, ainsi qu'en suivi administratif et reporting.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": "1 an",
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "DTEFP",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "B.P M2",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Education",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Gestionnaire de formation"
+  },
+  "responsibilities": [
+    "Sous l'autorité de la cheffe de projet Campus N, et en lien étroit avec les référents alternance et stages du consortium, le coordinateur facilite le placement des apprenants en stage et coordonne la mutualisation des outils :",
+    "Mission principale : Coordination opérationnelle des stages et alternances",
+    "Standardisation : Rédiger des fiches de synthèse simplifiant les attendus pédagogiques par niveau et diplôme (BTS, Licences, TP) pour faciliter leur compréhension par le monde professionnel.",
+    "Alimentation de la plateforme : Alimenter le futur portail partagé de stages et d'alternance et y centraliser les offres.",
+    "Relation avec les établissements : Faciliter le lien entre les établissements, les enseignants et les professionnels.",
+    "Régulation des calendriers : Établir et actualiser un calendrier des stages pour lisser les périodes d'immersion, éviter les chevauchements et optimiser les placements.",
+    "Développement des projets tutorés : Prospecter des projets tutorés au bénéfice du consortium.",
+    "Volet complémentaire : Ingénierie et promotion de la mobilité étudiante",
+    "Accompagnement individuel : Informer, conseiller et accompagner les candidats.",
+    "Prospection d'accueil : Identifier et structurer un réseau de partenaires d'accueil à l'international, plus précisément dans la zone Pacifique via Erasmus.",
+    "Volet transversal : Mutualisation des plateaux techniques et de l'environnement LMS",
+    "Gestion des plannings physiques : Coordonner l'accès et l'utilisation opérationnelle des équipements technologiques partagés.",
+    "Support fonctionnel LMS : Participer au suivi fonctionnel et assurer l'assistance utilisateur dans le cadre du projet d'espace e-learning partagé du Campus N."
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Planification et coordination de calendriers complexes (multi-acteurs)",
+    "Rédaction de fiches descriptives simplifiées et de supports pédagogiques",
+    "Animation de réseaux et relations partenariales (lycées, entreprises, institutions)",
+    "Suivi administratif, reporting et gestion de tableaux de bord.",
+    "Sens du relationnel, de la diplomatie et de l'écoute",
+    "Rigueur, sens de l'organisation, méthode et réactivité",
+    "Autonomie, esprit d'initiative et aptitude au travail collaboratif."
+  ],
+  "specialCommitments": null,
+  "title": "Coordinateur de stages pour le Campus N",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-04",
+  "workHours": null,
+  "champs_open_data": 24,
+  "employeur_sigle": "DTEFP",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "DIRECTION DU TRAVAIL, DE L'EMPLOI ET DE LA FORMATION PROFESSIONNELLE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Ressources Humaines",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "ressources-humaines"
+}
