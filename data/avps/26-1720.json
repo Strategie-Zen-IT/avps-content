@@ -1,0 +1,172 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Contrôleur",
+    "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "Direction de la poste et des services de proximité (DPS) - Service Supports métiers - Section Appui métiers",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de section SI, logistique et transports",
+    "placeOrganigramme": "N-2 (par rapport au directeur opérationnel)",
+    "relationsFonctionnelles": [
+      "Communes de la Nouvelle Calédonie",
+      "Equipes techniques",
+      "Centres et agences",
+      "DDI"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions de travail",
+        "value": "Déplacements sur l’ensemble du territoire"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fourniture ou mise à disposition de matériels, biens ou services",
+        "value": "Téléphone mobile de service"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956396.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le/la Chargé(e) d'études distribution et adressage est chargé(e) d'analyser et d'optimiser les opérations liées à la distribution postale, sur l'ensemble de la Nouvelle Calédonie. Il/elle assure également un appui technique en matière d'adressage auprès des communes de la Nouvelle Calédonie.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1720",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé(e) d'études distribution et adressage",
+  "owner": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "url": "www.opt.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.81.37",
+    "email": "DRH-candidature@opt.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-13",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Organisation et fonctionnement de l’OPT-NC",
+      "Domaine postal (réglementation) et de ses processus métiers",
+      "SIG de l’OPT-NC : ESRI",
+      "Techniques de communication et d’information",
+      "Maîtrise de l'outil informatique",
+      "Capacités à travailler en équipe"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Office des Postes et des Télécommunications",
+    "url": "www.opt.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications",
+    "url": "www.opt.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Postes et télécommunications",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Bourail",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Bourail",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98870"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Postes et télécommunications"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B + A1 / A2 (2 roues)",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé(e) d'études opérationnelles postales"
+  },
+  "responsibilities": [
+    "Collecter et analyser les données relatives aux volumes de courrier et de colis à distribuer",
+    "Élaborer des modèles prévisionnels de charges en tenant compte des variations saisonnières et des évolutions du marché",
+    "Identifier les besoins en ressources humaines et matérielles pour assurer une distribution efficace",
+    "Proposer des ajustements organisationnels pour optimiser les opérations de distribution en fonction des charges prévues",
+    "Gérer et mettre à jour le système d'information géographique postal",
+    "Veiller à l'exactitude et à l'intégrité des données géographiques utilisées dans les processus de distribution",
+    "Collaborer avec les équipes techniques pour résoudre les problèmes liés au système et assurer sa disponibilité permanente",
+    "Proposer des améliorations du système d'information géographique pour optimiser les itinéraires de distribution",
+    "Suivre les évolutions technologiques et réglementaires dans le domaine de la distribution postale",
+    "Analyser l'impact de ces évolutions sur les processus de distribution et proposer des ajustements nécessaires",
+    "Coordonner la mise en œuvre de nouvelles méthodes de travail et des outils technologiques pour améliorer l'efficacité de la distribution",
+    "Former le personnel aux nouvelles procédures et veiller à leur adoption",
+    "Apporter un soutien technique aux centres et agences",
+    "Travailler en collaboration avec les communes à l'amélioration de l'adressage (dénomination et numérotation des voies)",
+    "Rendre compte de l'activité couverte sur tous les volets de son périmètre via des indicateurs, les analyser, proposer à sa hiérarchie des enseignements et recommandations si besoin et assurer un suivi des correctifs mis en place",
+    "Élaborer en collaboration avec le chef de section et la DDI, une planification annuelle des missions à couvrir pour l'année en cours",
+    "S'inscrire dans une démarche d'amélioration continue en identifiant les opportunités d'optimisation"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Appliquer les règles d’hygiène et sécurité en vigueur",
+    "Communiquer efficacement à l’oral et à l’écrit avec des interlocuteurs variés",
+    "Négocier avec des institutions publiques et des entreprises privées",
+    "Renseigner et conseiller les clients",
+    "Identifier et anticiper les problèmes",
+    "Analyser des plans de charges et organiser le travail en conséquence",
+    "Qualités relationnelles",
+    "Diplomatie",
+    "Autonomie",
+    "Capacité d’initiative",
+    "Aptitude au changement",
+    "Disponibilité",
+    "Sens de l’anticipation",
+    "Esprit d’analyse",
+    "Sens de l’organisation",
+    "Rigueur"
+  ],
+  "specialCommitments": null,
+  "title": "Chargé(e) d'études distribution et adressage",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-04",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "OPT",
+  "collectivite": "Office des postes et télécommunications",
+  "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Aviation civile",
+  "famille_source": "respnc",
+  "famille_score": 0.805,
+  "dossier": "aviation-civile"
+}
