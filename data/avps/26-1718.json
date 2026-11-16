@@ -11,8 +11,8 @@
       "Direction des affaires juridiques et institutionnelles",
       "Direction du système d'information et du numérique",
       "Direction de l'aménagement, de l'équipement et des moyens",
-      "Exécutif",
-      "Autres pôles"
+      "Cabinet de l'Exécutif",
+      "Autres pôles du Secrétariat Général"
     ],
     "informationsLibres": [
       {
@@ -33,8 +33,8 @@
     ]
   },
   "alternateName": null,
-  "description": "Dans le cadre d'une nouvelle organisation, la province Sud recherche son/sa futur(e) secrétaire général(e) adjoint(e) en charge du pôle fonctionnel/support. L'agent retenu sera chargé de l'animation et de la coordination administrative du pôle fonctionnel, qui regroupe les directions chargées des finances, des affaires juridiques et institutionnelles, du système d'information et du numérique, de l'aménagement, de l'équipement et des moyens.",
-  "disambiguatingDescription": "Recrutement dans le cadre des emplois fonctionnels de Confidentialité DRH pour le poste de Secrétaire général adjoint en charge du pôle fonctionnel/support.",
+  "description": "Collectivité majeure en Nouvelle-Calédonie, la province Sud est engagée dans un programme de reconstruction et de relance économique, de transformation de son action et de maîtrise de ses finances. Elle fait également de la qualité de la vie au travail une priorité. Dans le cadre d'une nouvelle organisation, la province Sud recherche son/sa futur(e) secrétaire général(e) adjoint(e) en charge du pôle fonctionnel/support.",
+  "disambiguatingDescription": "Secrétaire général adjoint en charge du pôle fonctionnel/support de la province Sud.",
   "identifier": "26-1718",
   "image": null,
   "mainEntityOfPage": null,
@@ -54,22 +54,17 @@
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "20.31.96",
-    "email": "christophe.bergery@province-sud.nc"
+    "email": "drh.candidatures@province-sud.nc"
   },
   "baseSalary": null,
   "datePosted": "2026-11-13",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Formation supérieure",
+    "credentialCategory": "Formation supérieure (droit public, administration publique, finances, management public ou équivalent)",
     "competencyRequired": [
-      "Droit public",
-      "Administration publique",
-      "Finances",
-      "Management public",
+      "Expérience sur un poste similaire ou à enjeux très forts",
       "Très bonne connaissance du contexte institutionnel et des collectivités publiques",
-      "Maîtrise du cadre juridique et financier de l'action publique",
-      "Finances publiques",
-      "Commande publique",
+      "Maîtrise du cadre juridique et financier de l'action publique (finances publiques, commande publique, droit public)",
       "Connaissance des enjeux du numérique, de l'aménagement et de la gestion des moyens"
     ]
   },
@@ -84,7 +79,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience sur un poste similaire ou à enjeux très forts",
+  "experienceRequirements": "Expérience sur un poste similaire ou à enjeux très forts exigée.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
@@ -100,7 +95,7 @@
     "name": "Secrétariat Général",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "6 route des artifices",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -113,8 +108,7 @@
   "occupationalCategory": [
     "Administration générale",
     "Pilotage",
-    "Finances et budget",
-    "Ingénierie juridique"
+    "Finances et budget"
   ],
   "physicalRequirement": null,
   "qualifications": null,
@@ -123,6 +117,8 @@
     "name": "Secrétaire"
   },
   "responsibilities": [
+    "Animer et coordonner administrativement le pôle fonctionnel regroupant les finances, les affaires juridiques, le système d'information et l'aménagement",
+    "Piloter les projets transversaux dans son domaine de compétence et veiller à la mise en œuvre des orientations prioritaires de l'Exécutif",
     "Piloter, animer et coordonner l'action des directions du pôle, et veiller à la cohérence de leurs projets et de leurs moyens",
     "Traduire les orientations de l'exécutif en objectifs opérationnels, plans d'actions et feuilles de route",
     "Suivre l'activité des directions, évaluer leurs résultats et en rendre compte",
@@ -150,7 +146,7 @@
   "title": "Secrétaire général adjoint",
   "totalJobOpenings": 1,
   "validThrough": "2026-12-04",
-  "workHours": null,
+  "workHours": "Disponibilité requise en fonction des exigences institutionnelles",
   "champs_open_data": 8,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
