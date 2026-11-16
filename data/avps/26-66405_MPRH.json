@@ -4,11 +4,10 @@
     "direction": "DIRECTION DU NUMERIQUE ET DE LA MODERNISATION",
     "uniteOrganisationnelle": "Section réseau et datacenter (SRD)",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef de section Système et Base de Données",
+    "superieurHierarchique": null,
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Service des infrastructures numériques (SIN)",
-      "Gouvernement de la Nouvelle-Calédonie (GNC)"
+      "Service des infrastructures numériques (SIN)"
     ],
     "informationsLibres": [
       {
@@ -58,9 +57,9 @@
       }
     ]
   },
-  "alternateName": "Administrateur systèmes et réseaux",
+  "alternateName": null,
   "description": "- Administration des composants système Linux d'infrastructures et des applications métiers ;\n- Maintenir et faire évoluer l'architecture des socles techniques et des plateformes des services metiers ;\n- Maintenir la configuration, la fiabilité, la surveillance des services dans une approche DevOps.",
-  "disambiguatingDescription": "Recrutement d'un administrateur réseaux au sein de la DINUM en Nouvelle-Calédonie.",
+  "disambiguatingDescription": null,
   "identifier": "26-66405/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -80,7 +79,7 @@
     "name": "DINUM - Ouemo",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Ouemo",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -113,20 +112,20 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Service infrastructures",
+    "name": "Section réseau et datacenter (SRD)",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience requise selon le cadre d'emploi d'intégration (Ingénieur ou Technicien).",
+  "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Système d'information",
-  "jobBenefits": "Informations de grille salariale disponibles sur le site de la DRHFPNC.",
+  "industry": "Service public",
+  "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -134,7 +133,7 @@
     "name": "DINUM - Ouemo",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Ouemo",
+      "streetAddress": null,
       "addressLocality": "DINUM - Ouemo",
       "addressRegion": "Province Sud",
       "addressCountry": "NC"
@@ -164,7 +163,7 @@
     "Être le  référent technique sur certains projets transverses.",
     "Participation et gestion de projets."
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -184,7 +183,7 @@
   "title": "Administrateur Réseaux",
   "totalJobOpenings": 1,
   "validThrough": "2026-12-04",
-  "workHours": "Plage d'horaires étendus possible",
+  "workHours": "Poste susceptible d'avoir une plage d'horaires étendus",
   "champs_open_data": 27,
   "employeur_sigle": "DINUM",
   "collectivite": "Nouvelle-Calédonie",
