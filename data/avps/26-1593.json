@@ -2,26 +2,23 @@
   "additionalType": {
     "corpsDomaine": "Éducateur des APS",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "Centre aquatique provincial de Pouembout",
+    "uniteOrganisationnelle": "Service des sports",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Responsable du centre aquatique provincial de Pouembout",
-    "placeOrganigramme": "Sous l'autorité directe du responsable du centre aquatique provincial de Pouembout ou en cas d'absence de ce dernier sous l'autorité du chef du service animation des équipements",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Service animation des équipements",
-      "Groupes scolaires",
-      "Associations",
-      "Public"
+      "Direction de la Jeunesse et des Sports de la Nouvelle-Calédonie"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Travail en horaires atypiques, week-end, jours fériés, soirées, vacances. Être déclaré comme éducateur sportif et avoir sa carte professionnelle délivrée par la Direction de la Jeunesse et des Sports de la Nouvelle-Calédonie en cours de validité (ou à obtenir avant la prise de poste)."
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
       },
       {
         "@type": "PropertyValue",
-        "name": "Gestion du centre",
-        "value": "Centre actuellement en gestion directe, mais susceptible de passer en gestion externalisée."
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "travail en horaires atypiques ; travail week-end, jours fériés, soirées, vacances ; être déclaré comme éducateur sportif et avoir sa carte professionnelle délivrée par la Direction de la Jeunesse et des Sports de la Nouvelle-Calédonie en cours de validité (ou à obtenir avant la prise de poste)"
       },
       {
         "@type": "PropertyValue",
@@ -31,8 +28,8 @@
     ]
   },
   "alternateName": null,
-  "description": "Placée sous l'autorité directe du responsable du centre aquatique provincial de Pouembout, la personne participera à la mise en œuvre de la politique d'animation sportive, assurera l'accueil, l'encadrement des publics et la sécurité des bassins.",
-  "disambiguatingDescription": "Poste de Maître-nageur sauveteur basé à Pouembout au sein de la Direction du Développement de l'Humain et des Identités.",
+  "description": "Placée sous l'autorité directe du responsable du centre aquatique provincial de Pouembout ou en cas d'absence de ce dernier sous l'autorité du chef du service animation des équipements (Centre actuellement en gestion directe, mais susceptible de passer en gestion externalisée), la personne participera à la mise en œuvre de la politique d'animation sportive.",
+  "disambiguatingDescription": "Maître-nageur sauveteur à Pouembout pour la Province Nord",
   "identifier": "26-1593",
   "image": null,
   "mainEntityOfPage": null,
@@ -58,11 +55,11 @@
   "datePosted": "2026-10-23",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Brevet d'Etat d'Educateur Sportif des Activités de la Natation (B.E.E.S.A.N) ou BPJEPS AAN",
+    "credentialCategory": "Brevet d'Etat d'Educateur Sportif des Activités de la Natation (B.E.E.S.A.N) ; BPJEPS AAN ou plus",
     "competencyRequired": [
-      "Titulaire au minimum du Brevet d'Etat d'Educateur Sportif des Activités de la Natation (B.E.E.S.A.N) ou BPJEPS AAN ou plus",
-      "Certificat d'Aptitude à Exercer la Profession (C.A.E.P) de Maître-Nageur Sauveteur (M.N.S) à jour",
-      "Diplôme nager forme santé serait un plus"
+      "Brevet d'Etat d'Educateur Sportif des Activités de la Natation (B.E.E.S.A.N) ; BPJEPS AAN ou plus",
+      "Certificat d'Aptitude à Exercer la Profession (C.A.E.P) de Maître-Nageur Sauveteur (M.N.S)",
+      "Diplôme nager forme santé"
     ]
   },
   "eligibilityToWorkRequirement": null,
@@ -75,15 +72,15 @@
     "logo": null
   },
   "estimatedSalary": null,
-  "experienceInPlaceOfEducation": false,
-  "experienceRequirements": "Expérience professionnelle sur un poste similaire et expérience déjà acquise en province Nord appréciées. Expérience confirmée à encadrer des activités aquagym et aqua-bike.",
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle sur un poste similaire et avoir déjà travaillé en province Nord seraient appréciés. Expérience confirmée à encadrer des activités aquagym et aqua-bike.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Sport et loisirs",
+  "industry": "Service public",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -101,7 +98,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiatement",
+  "jobStartDate": null,
   "occupationalCategory": [
     "Animation",
     "Espaces verts"
@@ -113,40 +110,40 @@
     "name": "Animateur Educateur d'équipements sportifs"
   },
   "responsibilities": [
-    "Accueil et encadrement des groupes scolaires et associatifs",
-    "Accueil et encadrement du public",
-    "Sécurité des publics et surveillance des bassins",
-    "Application du règlement intérieur et du Plan d'organisation de la surveillance et des secours (POSS)",
-    "Participation au contrôle de la qualité des eaux de baignade",
-    "Mise en œuvre des activités aquatiques et des cours proposés par le centre",
-    "Mise en œuvre d'actions de sensibilisation d'hygiène et de sécurité auprès des écoles et des associations",
-    "Participation aux journées spécifiques d'animation",
-    "Participation à l'élaboration des projets d'établissements",
-    "Participation à des formations directement liées à son poste"
+    "l'accueil et l'encadrement des groupes scolaires et associatifs",
+    "l'accueil et l'encadrement du public",
+    "la sécurité des publics, la surveillance des bassins",
+    "l'application du règlement intérieur et du Plan d'organisation de la surveillance et des secours (POSS)",
+    "la participation au contrôle de la qualité des eaux de baignade",
+    "la mise en œuvre des activités aquatiques et des cours proposés par le centre",
+    "la mise en œuvre d'actions de sensibilisation d'hygiène et de sécurité auprès des écoles et des associations",
+    "la participation aux journées spécifiques d'animation",
+    "la participation à l'élaboration des projets d'établissements",
+    "la participation à des formations directement liées à son poste"
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Respecter les règles de sécurité",
-    "Capacité de l'analyse de l'urgence",
-    "Adapter les interventions en fonction des publics, des niveaux et des capacités d'apprentissage",
-    "Repérer les comportements à risques, dialoguer et réguler les conflits",
-    "Appliquer et faire appliquer la réglementation en vigueur",
-    "Pratiquer une ou plusieurs disciplines sportives",
-    "Bon contact relationnel avec tous types de publics",
-    "Respect de l'autorité et de la hiérarchie",
-    "Respect des horaires et des plannings",
-    "Sens aigu de la discipline et du service public",
-    "Autonomie, grande disponibilité et polyvalence",
-    "Esprit d'initiative et travail en équipe",
-    "Rigueur, sérieux et discrétion"
+    "respecter les règles de sécurité",
+    "capacité de l'analyse de l'urgence",
+    "adapter les interventions en fonction des publics, des niveaux et des capacités d'apprentissage",
+    "repérer les comportements à risques, dialoguer et réguler les conflits (à son niveau)",
+    "appliquer et faire appliquer la réglementation en vigueur",
+    "pratiquer une ou plusieurs disciplines sportives",
+    "bon contact relationnel avec tous types de publics (enfants, adolescents, adultes)",
+    "respect de l'autorité et de la hiérarchie indispensable",
+    "respect des horaires et des plannings",
+    "sens aigu de la discipline et du service public",
+    "autonomie, grande disponibilité et polyvalence demandées",
+    "esprit d'initiative et travail en équipe",
+    "rigueur, sérieux et discrétion exigée"
   ],
-  "specialCommitments": "Astreintes et horaires atypiques liés aux ouvertures du centre aquatique",
+  "specialCommitments": "Travail week-end, jours fériés, soirées, vacances",
   "title": "Maître-nageur sauveteur - Pouembout",
   "totalJobOpenings": 1,
-  "validThrough": "2026-11-13",
-  "workHours": "Horaires atypiques, week-end, jours fériés, soirées, vacances",
+  "validThrough": "2026-11-20",
+  "workHours": "Horaires atypiques",
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
   "collectivite": "Province Nord",
