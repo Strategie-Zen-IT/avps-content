@@ -7,11 +7,14 @@
     "superieurHierarchique": "Directeur des Services Techniques",
     "placeOrganigramme": "Sous l’autorité de la direction des services techniques et en lien avec le secrétariat général",
     "relationsFonctionnelles": [
+      "Direction des services techniques",
       "Secrétariat général",
+      "Chargés d’opérations",
+      "Agent chargé des travaux dans les écoles",
       "Services municipaux",
-      "Élus",
-      "Partenaires extérieurs",
-      "Prestataires"
+      "Partenaires",
+      "Prestataires",
+      "Élus"
     ],
     "informationsLibres": [
       {
@@ -33,7 +36,7 @@
   },
   "alternateName": null,
   "description": "Sous l’autorité de la direction des services techniques et en lien avec le secrétariat général, le responsable du service Constructions publiques pilote et coordonne l’ensemble des activités du service. Il met en œuvre les orientations de la collectivité en matière de construction et d’entretien du patrimoine bâtis communaux. Il assure la programmation, la conduite et le suivi des opérations d’investissement, veille à la maintenance des équipements communaux et garantit la bonne organisation des moyens humains, matériels et logistiques mis à disposition du service. Il encadre et accompagne les agents placés sous sa responsabilité, notamment les chargés d’opérations ainsi que l’agent chargé des travaux dans les écoles. Il veille à l’optimisation des ressources, au respect des budgets, des délais et de la qualité des prestations, ainsi qu’à la sécurité des agents, des usagers et des équipements communaux.",
-  "disambiguatingDescription": "Chef du service des constructions publiques à la Ville de Païta",
+  "disambiguatingDescription": null,
   "identifier": "26-1617",
   "image": null,
   "mainEntityOfPage": null,
@@ -49,11 +52,11 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "LandmarksOrHistoricalBuildings",
-    "name": "Ville de Païta",
+    "@type": "Place",
+    "name": "Mairie de Païta",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "Rue Francis ROSSI",
       "addressLocality": "Païta",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -69,7 +72,7 @@
   "datePosted": "2026-10-30",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Bac+3 à Bac+5",
+    "credentialCategory": "Bac+3, idéalement Bac+5",
     "competencyRequired": [
       "Formation en bâtiment, génie civil, travaux publics ou domaine technique équivalent",
       "Connaissances en conduite d’opérations, entretien du patrimoine bâti et sécurité des équipements",
@@ -82,28 +85,26 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Service des constructions publiques",
-    "url": null,
-    "logo": null
+    "name": "Service des constructions publiques"
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience confirmée dans le domaine du bâtiment, des travaux publics et du management d'équipe.",
+  "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Ville de Païta"
   },
   "incentiveCompensation": null,
   "industry": "Service public",
-  "jobBenefits": "Participation aux astreintes de nuit et de weekend (une semaine sur cinq)",
+  "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Ville de Païta",
+    "name": "Mairie de Païta",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "Rue Francis ROSSI",
       "addressLocality": "Païta",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -112,10 +113,10 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiat",
+  "jobStartDate": null,
   "occupationalCategory": [
-    "Infrastructures, réseaux, eaux et assainissements",
-    "Patrimoine bâti"
+    "Patrimoine bâti",
+    "Infrastructures, réseaux, eaux et assainissements"
   ],
   "physicalRequirement": null,
   "qualifications": "Permis B obligatoire",
@@ -145,7 +146,7 @@
     "Programmer les interventions et gérer les priorités",
     "Préparer et suivre les marchés publics et contrôler les prestations",
     "Élaborer et suivre un budget et des outils de planification",
-    "Encadre des équipes et coordonner les interventions en régie et des prestataires extérieurs",
+    "Encadrer des équipes et coordonner les interventions en régie et des prestataires extérieurs",
     "Maîtriser les outils bureautiques et de suivi d’activité",
     "Aptitudes au management et à la mobilisation des équipes",
     "Rigueur, organisation et sens des responsabilités",
