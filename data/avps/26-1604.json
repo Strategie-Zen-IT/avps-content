@@ -12,13 +12,12 @@
       "Assistantes sociales",
       "Diététicienne",
       "Orthophoniste",
-      "Spécialistes vacataires",
-      "Acteurs locaux (administrations, associations, particuliers)"
+      "Spécialistes vacataires"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
         "value": "inférieure à 3 ans"
       },
       {
@@ -34,8 +33,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des UPASS, des centres médico-sociaux et des autres sites excentrés. Au sein du pôle santé et territoires de la DPASS, notamment au sein de l'unité provinciale d'action sanitaire et sociale de Bourail (UPASS), le médecin généraliste retenu travaillera au sein d'une équipe pluridisciplinaire attachée à la synergie médico-sociale et aux démarches continues d'amélioration de la qualité et de l'évaluation des pratiques professionnelles.",
-  "disambiguatingDescription": null,
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et répondre aux difficultés sociales. Au sein de l'UPASS de Bourail, le médecin généraliste retenu travaillera au sein d'une équipe pluridisciplinaire attachée à la synergie médico-sociale.",
+  "disambiguatingDescription": "Poste de médecin généraliste à l'UPASS de Bourail, impliquant de la médecine curative et préventive au sein d'une équipe pluridisciplinaire.",
   "identifier": "26-1604",
   "image": null,
   "mainEntityOfPage": null,
@@ -74,13 +73,17 @@
   "educationRequirements": {
     "credentialCategory": "Diplôme de médecine",
     "competencyRequired": [
-      "Titulaire d'un diplôme de médecine, de spécialiste en médecine générale ou en médecine d'urgence",
-      "Titulaire d'un diplôme d'épidémiologie et/ou de santé publique",
-      "Connaissances de la charte d'Ottawa"
+      "Diplôme de médecine, de spécialiste en médecine générale ou en médecine d'urgence",
+      "Diplôme d'épidémiologie et/ou de santé publique",
+      "Connaissances de la charte d'Ottawa",
+      "Connaissances en obstétrique",
+      "Connaissances en pédiatrie",
+      "Connaissances en santé publique (PMI, médecine scolaire, contraception-IVG dépistage et traitement des IST, etc.)",
+      "Notions du logiciel de gestion des données médicales (ASCLEPIOS)"
     ]
   },
   "eligibilityToWorkRequirement": ".",
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -127,11 +130,11 @@
     "name": "Médecin du travail"
   },
   "responsibilities": [
-    "assurer la médecine curative, y compris les urgences avec des périodes d'astreintes",
-    "assurer la médecine préventive, notamment l'activité de protection maternelle et infantile, la médecine scolaire et la contraception",
-    "participer et, le cas échéant, de mener des programmes de santé publique et des projets impliquant plusieurs partenaires",
-    "proposer des actions de prévention en lien avec les pathologies prédominantes et les problématiques de santé publique rencontrées",
-    "formuler des propositions d'actions visant à améliorer la prise en charge des patients"
+    "Assurer la médecine curative, y compris les urgences avec des périodes d'astreintes",
+    "Assurer la médecine préventive, notamment l'activité de protection maternelle et infantile, la médecine scolaire et la contraception",
+    "Participer et, le cas échéant, de mener des programmes de santé publique et des projets impliquant plusieurs partenaires",
+    "Proposer des actions de prévention en lien avec les pathologies prédominantes et les problématiques de santé publique rencontrées",
+    "Formuler des propositions d'actions visant à améliorer la prise en charge des patients"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
@@ -140,10 +143,6 @@
     "Gestion des urgences",
     "Gestion des programmes de prévention et de promotion de la santé au sens de la charte d'Ottawa",
     "Capacité à mener des projets de santé communautaire",
-    "Connaissances en obstétrique",
-    "Connaissances en pédiatrie",
-    "Connaissances en santé publique (PMI, médecine scolaire, contraception-IVG dépistage et traitement des IST, etc.)",
-    "Notions du logiciel de gestion des données médicales (ASCLEPIOS)",
     "Réelles capacités relationnelles et d'accueil",
     "Grande motivation professionnelle",
     "Envie d'entreprendre et d'innover",
@@ -153,7 +152,7 @@
     "Force de propositions",
     "Ouverture d'esprit"
   ],
-  "specialCommitments": "Astreintes, horaires de semaine, de nuit et de week-end pour assurer la continuité des soins",
+  "specialCommitments": "Astreintes, horaires de semaine, de nuit et de week-end pour assurer la continuité des soins.",
   "title": "Médecin à l'UPASS de Bourail",
   "totalJobOpenings": 1,
   "validThrough": "2026-11-20",
