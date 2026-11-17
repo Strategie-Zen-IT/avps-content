@@ -7,12 +7,6 @@
     "superieurHierarchique": "Responsable de l'UPASS de Bourail",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Médecin",
-      "Infirmières",
-      "Assistantes sociales",
-      "Diététicienne",
-      "Orthophoniste",
-      "Spécialistes vacataires",
       "Acteurs du secteur social et éducatif de la zone",
       "UPASS de La Foa"
     ],
@@ -24,8 +18,18 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Le poste nécessite une autonomie et une capacité d'adaptation. L'attention des candidats est attirée sur le fait que ce poste nécessite un bon niveau en termes d'urgences médicales. Il est spécifié également que les horaires pour permettre la continuité des soins sont de semaine, de nuit et de weekend. Des interventions ponctuelles à l'UPASS de La Foa sont susceptibles d'être demandées dans le cadre de la collaboration entre UPASS de la zone La Foa/Bourail."
+        "name": "Astreintes",
+        "value": "Prise en charge des urgences notamment lors des périodes d'astreintes"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Horaires",
+        "value": "Horaires pour permettre la continuité des soins de semaine, de nuit et de weekend"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Interventions ponctuelles",
+        "value": "Interventions ponctuelles à l'UPASS de La Foa susceptibles d'être demandées"
       },
       {
         "@type": "PropertyValue",
@@ -35,8 +39,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'actions sanitaire et sociale (UPASS), des centres médico-sociaux et des autres sites excentrés. Au sein du pôle santé et territoires de la DPASS, notamment au sein de l'UPASS de Bourail, le médecin généraliste retenu travaillera au sein d'une équipe pluridisciplinaire attachée à la synergie médico-sociale et aux démarches continues d'amélioration de la qualité et de l'évaluation des pratiques professionnelles.",
-  "disambiguatingDescription": "Poste de médecin généraliste à l'UPASS de Bourail avec interventions ponctuelles à La Foa, axé sur la médecine curative, préventive, les urgences et la santé publique.",
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et répondre aux difficultés sociales. Au sein du pôle santé et territoires, le médecin généraliste retenu travaillera au sein d'une équipe pluridisciplinaire à l'UPASS de Bourail.",
+  "disambiguatingDescription": "Poste de médecin généraliste à l'UPASS de Bourail avec interventions ponctuelles à La Foa, nécessitant d'assurer la médecine curative, préventive et les urgences.",
   "identifier": "26-1605",
   "image": null,
   "mainEntityOfPage": null,
@@ -52,18 +56,7 @@
   "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "AreaServed",
-    "name": "UPASS de Bourail",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": null,
-      "addressLocality": "Bourail",
-      "addressRegion": "Province Sud",
-      "addressCountry": "NC",
-      "province": "province Sud"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "20.46.59",
@@ -73,15 +66,19 @@
   "datePosted": "2026-10-30",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme de médecin",
+    "credentialCategory": "Diplôme de médecin ou de spécialiste en médecine générale ou en médecine d'urgence",
     "competencyRequired": [
-      "Diplôme de médecin ou de spécialiste en médecine générale ou en médecine d'urgence",
-      "Diplôme d'épidémiologie et/ou de santé publique",
-      "Connaissances de la charte d'Ottawa"
+      "Titulaire d'un diplôme de médecin ou de spécialiste en médecine générale ou en médecine d'urgence",
+      "Titulaire d'un diplôme d'épidémiologie et/ou de santé publique",
+      "Connaissances de la charte d'Ottawa",
+      "Connaissances en obstétrique",
+      "Connaissances en pédiatrie",
+      "Connaissances en santé publique (protection maternelle et infantile, médecine scolaire, contraception-IVG dépistage et traitement des IST, etc.)",
+      "Notions du logiciel de gestion de données médicales (ASCLEPIOS)"
     ]
   },
   "eligibilityToWorkRequirement": ".",
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'actions sanitaire et sociale (UPASS), des centres médico-sociaux et des autres sites excentrés.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -91,7 +88,7 @@
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Une capacité d'aide médicale urgente ou une expérience en poste isolé serait utile.",
+  "experienceRequirements": "Un bon niveau en termes d'urgences médicales est nécessaire. Une capacité d'aide médicale urgente ou une expérience en poste isolé serait utile.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
@@ -134,17 +131,13 @@
     "Participer aux actions de santé publique provinciales et de la Nouvelle-Calédonie (éducation sanitaire, programmes de vaccinations, promotion de la santé, etc.) et travailler en partenariat pour mettre en œuvre les projets",
     "Émettre des propositions sur la prise en charge efficiente des patients accueillis"
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
     "Gestion des urgences",
     "Gestion de programmes de prévention et de promotion de la santé au sens de la charte d'Ottawa",
     "Capacité à mener des projets de santé communautaire",
-    "Connaissances en obstétrique",
-    "Connaissances en pédiatrie",
-    "Connaissances en santé publique (protection maternelle et infantile, médecine scolaire, contraception-IVG dépistage et traitement des IST, etc.)",
-    "Notions du logiciel de gestion de données médicales (ASCLEPIOS)",
     "Posséder de réelles capacités relationnelles et d'accueil",
     "Posséder une grande motivation professionnelle",
     "Posséder l'envie d'entreprendre et d'innover",
@@ -154,7 +147,7 @@
     "Être ouvert d'esprit",
     "Travailler en équipe et en synergie médico-sociale"
   ],
-  "specialCommitments": "Astreintes, horaires de semaine, de nuit et de weekend pour permettre la continuité des soins",
+  "specialCommitments": "Astreintes et horaires de nuit et de week-end pour assurer la continuité des soins. Interventions ponctuelles à l'UPASS de La Foa.",
   "title": "Médecin à l'UPASS de Bourail",
   "totalJobOpenings": 1,
   "validThrough": "2026-11-20",
