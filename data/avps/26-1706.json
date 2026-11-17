@@ -2,19 +2,18 @@
   "additionalType": {
     "corpsDomaine": "Infirmier en soins généraux",
     "direction": "VICE-RECTORAT",
-    "uniteOrganisationnelle": "Lycée Antoine Kéla - Poindimié",
+    "uniteOrganisationnelle": "Lycée Antoine Kéla",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": null,
+    "superieurHierarchique": "Madame Marie LELEU, coordinatrice infirmière au vice-rectorat de la Nouvelle-Calédonie",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Membres de la communauté éducative",
-      "Secteur de la santé"
+      "Membres de la communauté éducative"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "au moins égale à 5 ans"
+        "value": "Au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
@@ -34,8 +33,8 @@
     ]
   },
   "alternateName": null,
-  "description": "L'infirmier(e), dans le cadre de son rôle relationnel, technique et éducatif, accueille tout élève qui le sollicite pour quelque motif que ce soit y compris d'ordre relationnel ou psychologique, dès lors qu'il y a une incidence sur sa santé ou sa scolarité.",
-  "disambiguatingDescription": null,
+  "description": "L'infirmier(e) scolaire, dans le cadre de son rôle relationnel, technique et éducatif, accueille tout élève qui le sollicite pour quelque motif que ce soit y compris d'ordre relationnel ou psychologique, dès lors qu'il y a une incidence sur sa santé ou sa scolarité.",
+  "disambiguatingDescription": "Poste d'infirmier(e) scolaire au Lycée Antoine Kéla à Poindimié, avec astreinte et logement de fonction.",
   "identifier": "26-1706",
   "image": null,
   "mainEntityOfPage": null,
@@ -71,7 +70,7 @@
   "datePosted": "2026-11-13",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'Etat d'infirmier",
+    "credentialCategory": "Diplôme d'Etat d'Infirmier",
     "competencyRequired": [
       "Soins d'urgence et hygiène hospitalière",
       "Bonne connaissance des problématiques adolescentes",
@@ -83,10 +82,10 @@
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
-  "employerOverview": null,
+  "employerOverview": "Vice-rectorat de la Nouvelle-Calédonie - Direction générale des enseignements (DGE)",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
-    "@type": "OrganizationalUnit",
+    "@type": "Organization",
     "name": "Lycée Antoine Kéla - Poindimié",
     "url": null,
     "logo": null
@@ -99,7 +98,7 @@
     "name": "Vice-rectorat"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique soins",
+  "industry": "Santé publique",
   "jobBenefits": "Poste logé car astreinte.",
   "jobDuration": null,
   "jobImmediateStart": false,
@@ -157,7 +156,7 @@
     "Sens du service public",
     "Disponibilité"
   ],
-  "specialCommitments": "Astreintes (poste logé)",
+  "specialCommitments": "Astreintes de nuit (poste logé)",
   "title": "Infirmier(e) scolaire au lycée Antoine Kéla - Poindimié",
   "totalJobOpenings": 4,
   "validThrough": "2027-02-12",
