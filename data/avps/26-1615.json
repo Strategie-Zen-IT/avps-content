@@ -7,11 +7,9 @@
     "superieurHierarchique": "Responsable de l'UPASS de Thio",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Pôle santé et territoires de la DPASS",
-      "Équipe pluridisciplinaire de l'UPASS de Thio",
-      "Administrations",
-      "Associations",
-      "Particuliers"
+      "Pôle santé et territoires",
+      "Équipe pluridisciplinaire de l'UPASS",
+      "Partenaires des programmes de santé publique"
     ],
     "informationsLibres": [
       {
@@ -32,8 +30,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) rattachée au pôle développement et épanouissement de la personne, exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'actions sanitaire et sociale (UPASS), des centres médico-sociaux et des autres sites excentrés. Au sein du pôle santé et territoires de la DPASS, notamment au sein de l'UPASS de Thio, le médecin généraliste retenu travaillera au sein d'une équipe pluridisciplinaire, attachée à la synergie médico-sociale et aux démarches continues d'amélioration de la qualité et de l'évaluation des pratiques professionnelles.",
-  "disambiguatingDescription": null,
+  "description": "Au sein du pôle santé et territoires de la DPASS, notamment au sein de l'UPASS de Thio, le médecin généraliste retenu travaillera au sein d'une équipe pluridisciplinaire, attachée à la synergie médico-sociale et aux démarches continues d'amélioration de la qualité et de l'évaluation des pratiques professionnelles.",
+  "disambiguatingDescription": "Poste de médecin généraliste à l'UPASS de Thio, rattaché à la Direction Provinciale de l'Action Sanitaire et Sociale de la Province Sud.",
   "identifier": "26-1615",
   "image": null,
   "mainEntityOfPage": null,
@@ -75,14 +73,11 @@
       "Titulaire d'un diplôme de médecin ou de spécialiste en médecine générale",
       "Titulaire d'un diplôme d'épidémiologie et/ou de santé publique",
       "Connaissances de la charte d'Ottawa",
-      "Connaissances en obstétrique",
-      "Connaissances en pédiatrie",
-      "Connaissances en santé publique (protection maternelle et infantile, médecine scolaire, contraception-IVG dépistage et traitement des IST, etc.)",
-      "Notions du logiciel de gestion de données médicales (ASCLEPIOS)"
+      "Titulaire du permis de conduire B et d'un véhicule"
     ]
   },
-  "eligibilityToWorkRequirement": null,
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) rattachée au pôle développement et épanouissement de la personne, exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'actions sanitaire et sociale (UPASS), des centres médico-sociaux et des autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre inférieure à 3 ans",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) rattachée au pôle développement et épanouissement de la personne, exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'actions sanitaire et sociale (UPASS), des centres médico-sociaux et des autres sites excentrés.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -99,7 +94,7 @@
     "url": "https://www.province-sud.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -123,7 +118,7 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Titulaire du permis de conduire B et d'un véhicule",
+  "qualifications": "Permis de conduire B et véhicule personnel",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Médecin du travail"
@@ -141,6 +136,10 @@
     "Gérer des urgences",
     "Gérer des programmes de prévention et de promotion de la santé au sens de la charte d'Ottawa",
     "Mener des projets de santé communautaire",
+    "Avoir des connaissances en obstétrique",
+    "Avoir des connaissances en pédiatrie",
+    "Avoir des connaissances en santé publique (protection maternelle et infantile, médecine scolaire, contraception-IVG dépistage et traitement des IST, etc.)",
+    "Avoir des notions du logiciel de gestion de données médicales (ASCLEPIOS)",
     "Posséder de réelles capacités relationnelles et d'accueil",
     "Posséder une grande motivation professionnelle",
     "Posséder l'envie d'entreprendre et d'innover",
@@ -150,11 +149,11 @@
     "Être ouvert d'esprit",
     "Travailler en équipe et en synergie médico-sociale"
   ],
-  "specialCommitments": "Astreintes, horaires de semaine, de nuit et de weekend pour assurer la continuité des soins.",
+  "specialCommitments": "Astreintes (urgences, nuits et weekends)",
   "title": "Médecin à l'UPASS de Thio",
   "totalJobOpenings": 1,
   "validThrough": "2026-11-20",
-  "workHours": "Horaires pour permettre la continuité des soins de semaine, de nuit et de weekend",
+  "workHours": "Horaires de semaine, de nuit et de weekend pour assurer la continuité des soins",
   "champs_open_data": 7,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
