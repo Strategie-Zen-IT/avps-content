@@ -4,10 +4,11 @@
     "direction": "DIRECTION DES SERVICES TECHNIQUES",
     "uniteOrganisationnelle": "Service des constructions publiques",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef du service des constructions publiques",
-    "placeOrganigramme": "Sous l'autorité du chef du service constructions publiques et en lien avec le directeur des services techniques",
+    "superieurHierarchique": "Chef du service constructions publiques",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Services de la commune",
+      "Directeur des services techniques",
+      "Différents services de la commune",
       "Architectes",
       "Bureaux d'études",
       "Entreprises",
@@ -31,9 +32,9 @@
       }
     ]
   },
-  "alternateName": "Conducteur d'opérations en constructions publiques",
+  "alternateName": null,
   "description": "Sous l'autorité du chef du service constructions publiques et en lien avec le directeur des services techniques, le chargé d'opérations assure la préparation, la conduite et le suivi technique, administratif et financier des opérations de construction, de réhabilitation et d'aménagement des équipements communaux. Il participe à la définition des besoins, à la programmation des travaux et à l'élaboration des dossiers de consultation des entreprises et des prestataires de maîtrise d'œuvre. Il assure le suivi des études et des chantiers, veille au respect des coûts, des délais, de la qualité des réalisations et des exigences réglementaires, jusqu'à la réception des travaux et à la clôture des opérations. Il coordonne les différents intervenants, assure le suivi des marchés et rend compte de l'avancement des opérations à sa hiérarchie, en proposant les mesures nécessaires à leur bonne réalisation.",
-  "disambiguatingDescription": "Chargé d'opérations de construction pour la Ville de Païta, assurant la conduite technique, administrative et financière des projets de construction et de réhabilitation.",
+  "disambiguatingDescription": null,
   "identifier": "26-1618",
   "image": null,
   "mainEntityOfPage": null,
@@ -49,8 +50,8 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "AreaServed",
-    "name": "Ville de Païta",
+    "@type": "Place",
+    "name": "Mairie de Païta",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -80,7 +81,7 @@
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement direct : au moins égale à 5 ans",
-  "employerOverview": "La Ville de Païta recrute un chargé d'opérations de construction pour son service des constructions publiques au sein de la direction des services techniques.",
+  "employerOverview": null,
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -96,16 +97,16 @@
     "name": "Ville de Païta"
   },
   "incentiveCompensation": null,
-  "industry": "Travaux publics",
-  "jobBenefits": "Participation aux astreintes de nuit et de weekend (une semaine sur cinq)",
+  "industry": "Service public",
+  "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Ville de Païta",
+    "name": "Mairie de Païta",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "rue Francis ROSSI",
       "addressLocality": "Païta",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -114,16 +115,16 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiat",
+  "jobStartDate": null,
   "occupationalCategory": [
-    "Infrastructures, réseaux, eaux et assainissements",
-    "Patrimoine bâti"
+    "Patrimoine bâti",
+    "Infrastructures, réseaux, eaux et assainissements"
   ],
   "physicalRequirement": null,
   "qualifications": "Titulaire du permis B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "chargé d’opération de construction"
+    "name": "chargé d'opération de construction"
   },
   "responsibilities": [
     "Assurer un rôle de conducteur d'opérations en constructions publiques, avec pour mission principale une assistance générale à maîtrise d'ouvrage",
@@ -132,15 +133,14 @@
     "Élaborer le programme d'opérations, analyser et suivre des études et des travaux",
     "Fonctionner comme chef de projet autonome depuis la phase de programmation jusqu'à la phase de solde administratif après réception"
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
     "Travail en mode projet",
     "Outils informatisés de gestion et de planification des projets",
     "Organisation et animation des groupes de travail et des équipes projets",
-    "Pilotage des études, des analyses techniques et financières des dossiers d'études",
-    "Conception, rédaction et interprétation des cahiers des charges des marchés",
+    "Pilotage des études, des analyses techniques et financières des dossiers d'études Conception, rédaction et interprétation des cahiers des charges notamment administratifs des marchés",
     "Élaboration des appels d'offres",
     "Qualités rédactionnelles (comptes rendus, rapports, synthèses)",
     "Organisation",
@@ -153,7 +153,7 @@
     "Qualités relationnelles",
     "Capacité à rendre compte"
   ],
-  "specialCommitments": "Astreintes de nuit et de weekend (une semaine sur cinq)",
+  "specialCommitments": "Participation aux astreintes de nuit et de weekend (une semaine sur cinq)",
   "title": "Chargé d'opérations de construction",
   "totalJobOpenings": 1,
   "validThrough": "2026-11-20",
@@ -166,6 +166,6 @@
   "employeur_source": "document",
   "famille_respnc": "Patrimoine bâti",
   "famille_source": "respnc",
-  "famille_score": 0.887,
+  "famille_score": 0.89,
   "dossier": "patrimoine-bati"
 }
