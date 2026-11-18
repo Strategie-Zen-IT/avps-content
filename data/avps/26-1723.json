@@ -51,7 +51,7 @@
   "url": null,
   "applicantLocationRequirements": {
     "@type": "Schedule",
-    "name": "Mairie de Dumbéa",
+    "name": "Ville de Dumbéa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "66 avenue de la vallée",

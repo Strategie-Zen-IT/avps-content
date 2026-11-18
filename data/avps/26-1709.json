@@ -48,7 +48,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Schedule",
-    "name": "Mairie de THIO",
+    "name": "Commune de Thio",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Rue du Gouverneur Feuillet",
@@ -80,7 +80,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Mairie de THIO",
+    "name": "Commune de Thio",
     "url": null,
     "logo": null
   },
@@ -98,7 +98,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de THIO",
+    "name": "Commune de Thio",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Rue du Gouverneur Feuillet",

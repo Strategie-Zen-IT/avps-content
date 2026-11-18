@@ -1,7 +1,7 @@
 {
   "additionalType": {
     "corpsDomaine": "Technicien adjoint",
-    "direction": "COMMUNE DE YATE",
+    "direction": "Commune de Yaté",
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Secrétaire générale",
@@ -44,7 +44,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Schedule",
-    "name": "Mairie de Yaté",
+    "name": "Commune de Yaté",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "BP 4",
@@ -139,7 +139,7 @@
   "champs_open_data": 9,
   "employeur_sigle": "COMMUNE-DE-YATE",
   "collectivite": "Commune de Yaté",
-  "direction": "COMMUNE DE YATE",
+  "direction": "Commune de Yaté",
   "direction_source": "document",
   "employeur_source": "document",
   "famille_respnc": "Entretien, surveillance et logistique",

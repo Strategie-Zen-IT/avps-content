@@ -54,7 +54,7 @@
   "@type": "JobPosting",
   "applicantLocationRequirements": {
     "@type": "Schedule",
-    "name": "Mairie de Houaïlou",
+    "name": "Commune de Houaïlou",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Lot 22 village",
@@ -97,7 +97,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Mairie de Houaïlou",
+    "name": "Commune de Houaïlou",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Lot 22 village",

@@ -159,10 +159,29 @@ def motif_tolerant(cle: str) -> re.Pattern:
 MOTIFS = [(motif_tolerant(cle), propre) for cle, propre in LIBELLES.items()]
 
 
+# ⚠️ RECOPIE de `_ORTHOGRAPHE_NC` (moteur). Porte sur le MOT, où qu'il apparaisse :
+# titre, description, mission, compétence. « Kanak » est invariable en genre et en
+# nombre — « la culture kanak », « les coutumes kanak ». La casse est conservée :
+# « Kanak » désigne le peuple et garde sa majuscule, l'adjectif reste en minuscule.
+ORTHOGRAPHE = (
+    (re.compile(r"\bkanake(?:s)?\b", re.IGNORECASE), "kanak"),
+)
+
+
+def _respecter_casse(trouve: str, propre: str) -> str:
+    if trouve.isupper():
+        return propre.upper()
+    if trouve[:1].isupper():
+        return propre[:1].upper() + propre[1:]
+    return propre
+
+
 def canoniser_texte(texte: str) -> str:
-    """Réécrit les libellés rencontrés en toutes lettres dans un texte libre."""
+    """Réécrit les libellés rencontrés en toutes lettres, et corrige l'orthographe."""
     for motif, propre in MOTIFS:
         texte = motif.sub(propre, texte)
+    for motif, propre in ORTHOGRAPHE:
+        texte = motif.sub(lambda m, p=propre: _respecter_casse(m.group(0), p), texte)
     return texte
 
 
@@ -268,7 +287,7 @@ def main() -> int:
         restants = []
         for f in [*md, *js]:
             texte = f.read_text(encoding="utf-8")
-            if any(motif.search(texte) for motif, _ in MOTIFS):
+            if any(motif.search(texte) for motif, _ in (*MOTIFS, *ORTHOGRAPHE)):
                 restants.append(f)
         print(f"🔎 {len(restants)} fichier(s) portent encore un libellé à corriger.")
         for f in restants[:20]:
