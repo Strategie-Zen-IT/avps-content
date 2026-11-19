@@ -5,20 +5,15 @@
     "uniteOrganisationnelle": "Service municipal des sports",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef de la section animations sportives",
-    "placeOrganigramme": null,
+    "placeOrganigramme": "Sous l'autorité du chef de la section animations sportives",
     "relationsFonctionnelles": [
       "Partenaires et intervenants du secteur socio-sportif et éducatif"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Poste à pourvoir",
-        "value": "Mars 2027"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": null
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "L'agent retenu sera amené à travailler en soirée, certains week-ends et jours fériés. L'agent pourra également, en cas de besoin et sur ordre de la hiérarchie, venir en renfort des autres personnels du service."
       },
       {
         "@type": "PropertyValue",
@@ -29,7 +24,7 @@
   },
   "alternateName": null,
   "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune. Placée sous l'autorité du secrétaire général adjoint en charge du pôle vie locale, la direction de la vie citoyenne, éducative et sportive a pour mission générale de développer une offre de services en adéquation avec les besoins des citoyens sur tous les instants de leur vie, de renforcer l'accessibilité et la proximité du service public et de proposer des actions citoyennes, éducatives et sportives.",
-  "disambiguatingDescription": "Sous l'autorité du chef de la section animations sportives, l'éducateur sportif est chargé de gérer, d'encadrer et d'animer les activités sportives dans les quartiers de la Ville.",
+  "disambiguatingDescription": "Au sein de la direction, le service municipal des sports est composé de 2 sections : piscines et animations sportives. Il est notamment chargé de pérenniser et développer les dispositifs d'insertion par le sport comme vecteur d'intégration sociale.",
   "identifier": "26-1622",
   "image": null,
   "mainEntityOfPage": null,
@@ -54,10 +49,10 @@
   "datePosted": "2026-10-30",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "BPJEPS Activités Physiques pour Tous ou équivalent",
+    "credentialCategory": "BPJEPS Activités Physiques pour Tous",
     "competencyRequired": [
       "BPJEPS Activités Physiques pour Tous (sports collectifs ou activités nautiques) ou équivalent",
-      "Carte professionnelle de Nouvelle-Calédonie conformément à la loi de pays 2023-7 du 10/07/2023",
+      "Titulaire de la carte professionnelle de Nouvelle-Calédonie conformément à la loi de pays 2023-7 du 10/07/2023",
       "BPJEPS Activités Gymniques de la Forme et de la Force (AGFF) (mentions C et D) apprécié",
       "Techniques et pédagogie des activités physiques et sportives",
       "Caractéristiques et spécificités des différents publics",
@@ -90,7 +85,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Ville de Nouméa",
+    "name": "Mairie de Nouméa",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "16, rue du général Mangin",
@@ -104,7 +99,8 @@
   "jobLocationType": null,
   "jobStartDate": "2027-03-01",
   "occupationalCategory": [
-    "Animation"
+    "Animation",
+    "Education"
   ],
   "physicalRequirement": null,
   "qualifications": "Permis B exigé",
@@ -113,6 +109,7 @@
     "name": "Éducateur sportif"
   },
   "responsibilities": [
+    "Gérer, encadrer et animer les activités sportives dans les quartiers de la Ville",
     "Concevoir et mettre en place des projets d'animations sportives sur les quartiers ou autres lieux de proximité",
     "Préparer, animer et réaliser le bilan des séances pratiques d'animations sportives",
     "Assurer le contrôle et l'encadrement technique du personnel vacataire pour la mise en œuvre des séances d'animation",
@@ -122,20 +119,26 @@
     "Suivre et entretenir le matériel pédagogique",
     "Participer à la mise en œuvre des manifestations menées par le service"
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Appliquer et faire appliquer la réglementation en vigueur",
-    "Gérer, encadrer et animer les activités sportives"
+    "Concevoir",
+    "Animer",
+    "Encadrer",
+    "Contrôler",
+    "Communiquer",
+    "Évaluer",
+    "Organiser",
+    "Appliquer et faire appliquer la réglementation en vigueur"
   ],
-  "specialCommitments": "L'agent retenu sera amené à travailler en soirée, certains week-ends et jours fériés. L'agent pourra également, en cas de besoin et sur ordre de la hiérarchie, venir en renfort des autres personnels du service.",
+  "specialCommitments": "Astreintes et horaires décalés possibles en soirée, week-ends et jours fériés",
   "title": "Educateur sportif",
   "totalJobOpenings": 4,
   "validThrough": "2026-11-20",
-  "workHours": "Horaires variables (soirée, week-ends et jours fériés)",
+  "workHours": "Horaires de soirée, week-ends et jours fériés possibles",
   "champs_open_data": 9,
-  "employeur_sigle": "MAIRIE-DE-NOUMEA",
+  "employeur_sigle": "VILLE-DE-NOUMEA",
   "collectivite": "Ville de Nouméa",
   "direction": "DIRECTION DE LA VIE CITOYENNE, EDUCATIVE ET SPORTIVE",
   "direction_source": "document",
