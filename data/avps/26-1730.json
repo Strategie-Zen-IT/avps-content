@@ -1,0 +1,187 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Cellule des aires protégées",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service SGAP",
+    "placeOrganigramme": "Rattaché au pôle transition écologique",
+    "relationsFonctionnelles": [
+      "DAEM",
+      "DDET",
+      "DCO",
+      "Service de prévention de proximité et d’accompagnement technique de la DDDT"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi / Domaine",
+        "value": "Ingénieur 2ème grade / Economie rurale"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Statut du poste",
+        "value": "Susceptible d'être vacant"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements sur l'ensemble de la province Sud"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953820.PDF"
+      }
+    ]
+  },
+  "alternateName": "Responsable de la gestion des espaces naturels",
+  "description": "Rattaché au pôle transition écologique, la direction du développement durable des territoires de la province Sud (DDDT) est chargée de contribuer à la mise en œuvre des politiques publiques en matière de développement des territoires (notamment économique et d'aménagement) en assurant la transition écologique, la protection et la valorisation des patrimoines naturels et des espaces agricoles.",
+  "disambiguatingDescription": "Gestionnaire d'aires protégées au sein de la cellule des aires protégées de la province Sud.",
+  "identifier": "26-1730",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Gestionnaire d'aires protégées",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "AreaServed",
+    "name": "Province Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6 route des artifices",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.34.43",
+    "email": "drh.candidatures@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-20",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Ingénieur",
+    "competencyRequired": [
+      "Expertise reconnue en écologie, en gestion de l'environnement et en démarche participative et/ou intelligence collective",
+      "Connaissances en milieu terrestre et marin néo-calédonien, de leurs menaces et des enjeux de développement durable, notamment concernant la faune, la flore, les écosystèmes et la réglementation en vigueur (code de l'environnement, loi de pays, etc.)",
+      "Connaissances du contexte local et du contexte coutumier",
+      "Maîtrise de l'outil informatique en relation avec les missions du poste"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
+  "employerOverview": "La direction du développement durable des territoires de la province Sud (DDDT) est chargée de contribuer à la mise en œuvre des politiques publiques en matière de développement des territoires en assurant la transition écologique, la protection et la valorisation des patrimoines naturels et des espaces agricoles.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de gestion des aires protégées (SGAP)",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expertise reconnue en écologie, en gestion de l'environnement et en démarche participative",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Environnement",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Direction du Développement Durable des Territoires",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6 route des artifices",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Environnement",
+    "Développement du territoire"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Titulaire du permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable de la gestion des espaces naturels"
+  },
+  "responsibilities": [
+    "Piloter, coordonner et assurer la mise en œuvre de la gestion des territoires protégés sous sa responsabilité se trouvant sur les communes de la côte ouest allant de Boulouparis à Poya dont notamment le parc provincial de la Zone Côtière Ouest (ZCO) inscrit au patrimoine mondial de l'UNESCO",
+    "Suivre l'évaluation écologique de l'état du site inscrit (ZCO)",
+    "Piloter la mise en œuvre des plans de gestion et leur mise à jour",
+    "Piloter des études spécifiques pour la mise en place et l'adaptation de la gestion des sites",
+    "Assurer une bonne transversalité avec les autres gestionnaires d'aires protégées et une bonne coordination avec la personne en charge du suivi et de l'entretien des aménagements",
+    "Assurer une relation avec les directions provinciales partenaires (DAEM, DDET, DCO, etc.) pour une meilleure intégration de la composante environnementale dans le développement économique et social de la côte Ouest",
+    "Adapter un niveau de gouvernance approprié sur les aires protégées en fonction du réseau d'acteurs actifs et de nos partenaires (associations, comités de gestion...)",
+    "Gérer le montage technique de dossiers de subventions (acteurs économiques, touristiques, scientifiques, société civile, etc.)",
+    "Interagir avec le service de prévention de proximité et d'accompagnement technique de la DDDT pour un partage des retours terrains et une bonne connaissance des besoins de contrôles du secteur concerné",
+    "Maintenir ou d'améliorer le niveau d'expertise nécessaire à ses fonctions via le suivi juridique, scientifique et technique de la conservation et de la restauration écologique",
+    "Contribuer à l'instruction des demandes de dérogation prévues au code de l'environnement relatives aux aires protégées, ainsi que leur suivi et le respect effectif des prescriptions fixées",
+    "Participer à la réalisation d'outils de communication et de sensibilisation en lien avec ses missions",
+    "Participer aux différentes animations/ évènements proposées par le service et/ou la direction et/ou partenaires, possiblement en dehors des horaires de travail"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Animer/piloter des groupes de travail et réunions",
+    "Gérer un projet",
+    "Gérer les urgences et hiérarchiser le traitement des demandes",
+    "Respecter les délais",
+    "Analyser les requêtes et apporter les réponses attendues",
+    "Avoir des qualités rédactionnelles",
+    "Alignement à la hiérarchie",
+    "Écoute et négociation",
+    "Aptitude à anticiper et à organiser",
+    "Disponibilité",
+    "Dynamisme",
+    "Déontologie",
+    "Confidentialité",
+    "Bienveillance",
+    "Capacité à travailler en équipe"
+  ],
+  "specialCommitments": "Déplacements sur l'ensemble de la province Sud",
+  "title": "Gestionnaire d'aires protégées",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-11",
+  "workHours": "Possiblement en dehors des horaires de travail pour certaines animations",
+  "champs_open_data": 8,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Environnement",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "environnement"
+}
