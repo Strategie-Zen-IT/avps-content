@@ -5,7 +5,7 @@
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Responsable du service systèmes",
-    "placeOrganigramme": "Placée sous l'autorité du responsable du service systèmes",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Prestataires",
       "Éditeurs de solutions"
@@ -14,12 +14,7 @@
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Au moins égale à 5 ans"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Cadre d'emploi / Domaine",
-        "value": "Ingénieur 1er grade domaine de l'équipement"
+        "value": "au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
@@ -30,7 +25,7 @@
   },
   "alternateName": null,
   "description": "Le SMTU a pour objet l'organisation, la gestion et l'exploitation des services publics réguliers de transports en commun routiers, ferrés et maritimes et de transport scolaire du secondaire sur le territoire du Grand Nouméa.",
-  "disambiguatingDescription": "Poste de Data Ingénieur au sein du Syndicat Mixte des Transports Urbains du Grand Nouméa.",
+  "disambiguatingDescription": null,
   "identifier": "26-1529",
   "image": null,
   "mainEntityOfPage": null,
@@ -43,11 +38,11 @@
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": "http://www.smtu.nc",
+  "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
+    "@type": "Place",
     "name": "SMTU",
     "address": {
       "@type": "PostalAddress",
@@ -172,7 +167,7 @@
   "specialCommitments": null,
   "title": "Data ingénieur",
   "totalJobOpenings": 4,
-  "validThrough": "2026-11-06",
+  "validThrough": "2026-11-27",
   "workHours": null,
   "champs_open_data": 9,
   "employeur_sigle": "SYNDICAT-MIXTE-DES-TRANSPORTS-URBAINS-DU-GRAND-NOUMEA-SMTU",
