@@ -1,0 +1,143 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "DIRECTION DE L'URBANISME",
+    "uniteOrganisationnelle": "Service du domaine et de l'immobilier",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service du domaine et de l'immobilier et de son adjoint",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Services municipaux",
+      "Personnes publiques",
+      "Personnes privées"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953284.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune. Placée sous l’autorité du secrétaire général adjoint en charge du pôle aménagement, la direction de l’urbanisme a pour vocation de proposer une vision du développement durable du territoire, accompagnée de ses déclinaisons stratégiques, réglementaires, foncières et opérationnelles. Par ailleurs, elle doit étudier tout moyen permettant la mise en œuvre des orientations définies et évaluer le niveau d’atteinte des résultats ainsi que la cohérence des actions menées. Le service du domaine et de l’immobilier est chargé de la maîtrise du patrimoine municipal, et notamment de l’instruction des cessions, des acquisitions, des échanges fonciers, des servitudes et des mises à disposition. Il assure également les actions de régularisation et la surveillance du foncier, la défense des intérêts patrimoniaux de la Ville et le conseil auprès des autres services. Dans ce cadre, il assure la tenue de sa régie de recettes selon les actes émis de mise à disposition du patrimoine immobilier de la ville de Nouméa.",
+  "disambiguatingDescription": "Sous l'autorité du chef du service du domaine et de l'immobilier et de son adjoint, l'agent retenu sera appelé à collaborer à la gestion du domaine communal en apportant une expertise juridique et à appliquer la politique de la Ville en matière de stratégie immobilière et foncière.",
+  "identifier": "26-1744",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "1 Instructeur domanial",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "23.22.44",
+    "email": "marin.courme@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-20",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+2",
+    "competencyRequired": [
+      "Diplôme de niveau 4 minimum (bac), éventuellement de niveau 5 (bac +2)",
+      "Diplôme dans le domaine du droit, de l'aménagement ou de l'urbanisme",
+      "Notions juridiques, notamment en droit civil, foncier et administratif",
+      "Notions en droit de l'urbanisme",
+      "Pratique des systèmes d'information géographique"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service du domaine et de l'immobilier",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Annexe Ferry",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Annexe Ferry",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Topographie et foncier",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Instructeur domanial"
+  },
+  "responsibilities": [
+    "Traiter dans leur totalité, y compris en se déplaçant sur le terrain, les dossiers fonciers de cession, d'acquisition, d'échange, d'empiètement, de servitude ou de mise à disposition en relation avec les autres services municipaux, et/ou avec des personnes publiques ou privées",
+    "Participer à la protection du domaine municipal conjointement avec d'autres agents du service et d'autres services communaux",
+    "Instruire et mettre en œuvre des procédures sur les dossiers de mise à disposition du foncier communal (instruction administrative et suivi des locations, visites de terrain, etc.)",
+    "Rédiger des correspondances, notes et actes administratifs (délibérations, arrêtés, conventions, actes authentiques, etc.)",
+    "Assister, aider et renseigner les services de la Ville et les usagers en matière foncière",
+    "Instruire des dossiers (vérifications administratives, contrôle, relance, traitement, préparation des actes juridiques pour notification)"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Rigueur",
+    "Méthode",
+    "Capacités rédactionnelles",
+    "Capacités relationnelles",
+    "Sens du travail en équipe",
+    "Sens du service public"
+  ],
+  "specialCommitments": null,
+  "title": "1 Instructeur domanial",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-11",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "VILLE-DE-NOUMEA",
+  "collectivite": "Ville de Nouméa",
+  "direction": "DIRECTION DE L'URBANISME",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Ressources Humaines",
+  "famille_source": "respnc",
+  "famille_score": 0.794,
+  "dossier": "ressources-humaines"
+}
