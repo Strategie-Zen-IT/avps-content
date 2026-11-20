@@ -1,0 +1,182 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché / cadre socio-éducatif",
+    "direction": "SECRETARIAT GENERAL",
+    "uniteOrganisationnelle": "Mission d'Ingénierie Sociale et Urbaine (MISU)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Secrétaire général",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Secrétariat fédéral",
+      "Cabinet du maire",
+      "Services de la commune",
+      "Conseil Local de Sécurité et de Prévention de la Délinquance (CLSPD)",
+      "Comités Consultatifs de la commune"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Grande disponibilité"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Régime indemnitaire",
+        "value": "Régime indemnitaire de 48 points d'INM"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957366.PDF"
+      }
+    ]
+  },
+  "alternateName": "Responsable de la MISU",
+  "description": "Sous la responsabilité du secrétaire général, l'agent retenu anime la Mission d'Ingénierie Sociale et Urbaine (MISU) qui constitue une structure opérationnelle d'ingénierie et d'appui à la conduite de projets. Dans ce cadre, son responsable est chargé d'assurer la mise en œuvre technique et la cohérence opérationnelle des politiques publiques communales validées par l'exécutif. Il veille à la bonne coordination des projets mis en œuvre par les services de la commune et constitue un appui à la conduite des projets. Le responsable de la MISU assure également la coordination administrative et opérationnelle des instances du Conseil Local de Sécurité et de Prévention de la Délinquance (CLSPD) et des Comités Consultatifs de la commune, en lien permanent avec le secrétariat fédéral et le cabinet du maire.",
+  "disambiguatingDescription": "Responsable de la Mission d'Ingénierie Sociale Et Urbaine (MISU) - catégorie A au sein de la Mairie de Païta.",
+  "identifier": "26-1729",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Responsable de la mission d'ingenierie sociale et Urbaine (MISU)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Païta"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Mairie de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12 route de la Mairie",
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "35.21.11",
+    "email": "recrutement@ville-paita.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-20",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Catégorie A",
+    "competencyRequired": [
+      "Connaissance dans l'élaboration et la gestion des politiques publiques notamment en matière de prévention de la délinquance et de la sécurité",
+      "Fonctionnement des institutions en Nouvelle-Calédonie (Justice, forces de l'ordre, État, collectivités), des associations et des organismes sociaux",
+      "Maîtrise du cadre juridique et réglementaire calédonien en lien avec le fonctionnement des communes",
+      "Force de proposition et d'aide à la décision",
+      "Maîtrise des outils et logiciels de bureautique",
+      "Maîtrise des techniques et outils de communication",
+      "Expérience avérée en gestion de projets"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre pour le cadre socio-éducatif : au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Mairie de Païta",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience avérée en gestion de projets",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Païta"
+  },
+  "incentiveCompensation": "Régime indemnitaire de 48 points d'INM",
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Païta",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12 route de la Mairie",
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98890"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Administration générale",
+    "Développement du territoire",
+    "Prévention et sécurité"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "responsable administratif"
+  },
+  "responsibilities": [
+    "Accompagner les élus dans la définition, la structuration et le suivi des projets stratégiques de la commune",
+    "Favoriser l'articulation des politiques publiques entre les différents services et coordonner les projets transversaux",
+    "Assurer une mission d'ingénierie territoriale accompagnant la commune dans son développement",
+    "Rechercher et suivre des dispositifs de financement des projets communaux",
+    "Assurer le suivi et l'évaluation des politiques publiques",
+    "Participer à la coordination de la programmation annuelle et pluriannuelle des besoins en matière de politiques publiques communales",
+    "Accompagner les services dans la définition et la formalisation de leurs besoins",
+    "Contribuer à l'élaboration des marchés publics participant à la réalisation des projets structurants pour la commune",
+    "Assurer un appui méthodologique aux services",
+    "Elaborer des outils de suivi, de pilotage et d'évaluation",
+    "Assurer la coordination administrative des instances du CLSPD",
+    "Contribuer à l'actualisation et au suivi du diagnostic local de sécurité, à la réalisation de documents stratégiques et de plans d'actions en matière de sécurité et de prévention de la délinquance",
+    "Assurer l'animation et la coordination des partenariats et acteurs concourant aux politiques communales de prévention et de tranquillité publique",
+    "Contribuer aux projets transversaux en matière de prévention de la délinquance, de la récidive, de la médiation sociale, de l'éducation, de l'emploi, de la santé, du lien social et de l'amélioration du cadre de vie",
+    "Assurer une veille juridique dans les domaines précités",
+    "Elaborer des outils de suivi, de pilotage et d'évaluation pour le CLSPD",
+    "Contribuer à la mise en œuvre d'actions d'informations, de sensibilisations et de communication en matière de politique de prévention",
+    "Assurer l'organisation matérielle et administrative des réunions des comités consultatifs de la commune",
+    "Assurer la fluidité des transmissions techniques opérationnelles entre les comités, le Cabinet du maire, le secrétariat général et les services communaux et faciliter la circulation d'information entre eux",
+    "Accompagner le développement de la participation citoyenne et les démarches de concertation portées par la commune"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité d'analyse et de synthèse",
+    "Conduite de projets et animation de réseaux",
+    "Analyse de données",
+    "Rédaction de diagnostics, bilans, plans d'action, fiches de suivi",
+    "Prise d'initiative et réactivité",
+    "Elaboration de budget et recherche de financement",
+    "Capacité de travail en équipe pluridisciplinaire",
+    "Autonomie et sens de l'organisation",
+    "Qualités relationnelles et diplomatie",
+    "Discrétion professionnelle et confidentialité"
+  ],
+  "specialCommitments": "Grande disponibilité",
+  "title": "Responsable de la mission d'ingenierie sociale et Urbaine (MISU)",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-11",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "VILLE-DE-PAITA",
+  "collectivite": "Ville de Païta",
+  "direction": "SECRETARIAT GENERAL",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.953,
+  "dossier": "administration-generale"
+}
