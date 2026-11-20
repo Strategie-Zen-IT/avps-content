@@ -1,0 +1,156 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Agent du patrimoine",
+    "direction": "DIRECTION DE LA CULTURE, DU PATRIMOINE ET DU RAYONNEMENT",
+    "uniteOrganisationnelle": "Pôle Administratif et Budgétaire",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable du PAB",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Coordinateurs administratifs",
+      "Services opérationnels de la DCPR",
+      "Partenaires institutionnels et associatifs"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Participation de manière ponctuelle à l'organisation d'actions culturelles et aux animations de la direction. Amplitude horaire variable du lundi au samedi. Permis B exigé."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953310.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune. Placée sous l'autorité du secrétaire général adjoint en charge du pôle vie locale, la Direction de la Culture, du Patrimoine et du Rayonnement (DCPR) est composée de trois services opérationnels et de deux services supports. Le PAB assure la gestion et le suivi administratif et budgétaire, ainsi que le suivi administratif des personnels de la DCPR. Sa particularité est qu'il assure également le suivi logistique et l'accueil mutualisé des structures culturelles.",
+  "disambiguatingDescription": "Recrutement d'un agent d'accueil et de surveillance du patrimoine pour la Mairie de Nouméa au sein de la Direction de la culture, du patrimoine et du rayonnement.",
+  "identifier": "26-1743",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "1 Agent d'accueil et de surveillance du patrimoine",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "24.49.29",
+    "email": "marie.komon@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-20",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Maîtrise des techniques de réception et d'accueil",
+      "Maîtrise de l'anglais souhaitée et connaissances d'autres langues étrangères appréciées (japonais, etc.)",
+      "Connaissance des activités culturelles de la Ville",
+      "Bonne connaissance des outils de bureautique",
+      "Manipulation de fonds et de valeurs",
+      "Techniques de communication écrite et orale",
+      "Recevoir, identifier et orienter les publics",
+      "Gérer les situations conflictuelles",
+      "Anticiper les situations et prévenir les risques liés à la fréquentation d'un Établissement Recevant du Public (ERP)"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Pôle Administratif et Budgétaire",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Culture",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B exigé, PSC1 apprécié",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Agent de gardiennage et de surveillance"
+  },
+  "responsibilities": [
+    "Assurer l'accueil téléphonique et physique des publics, des prestataires ou des agents municipaux",
+    "Renseigner et orienter les usagers",
+    "Participer à la tenue des plannings de réservation de salles en lien avec les coordinateurs administratifs",
+    "Veiller à l'état de propreté des locaux, les entretenir et proposer des améliorations",
+    "Vérifier le bon fonctionnement des outils mis à disposition des publics (lumières, multimédias, etc.)",
+    "Surveiller les salles et le public en direct (rondes régulières) et via les caméras",
+    "Vérifier le fonctionnement des différents dispositifs de sécurité",
+    "Assurer l'ouverture et la fermeture des structures",
+    "Assurer les accueils de façon autonome et notamment lors des permanences des week-ends et jours fériés",
+    "Réceptionner et enregistrer les courriers",
+    "Prendre connaissance des messages et les traiter",
+    "Diffuser de la documentation",
+    "Remonter l'information à sa hiérarchie en communiquant toutes anomalies ou demandes spécifiques",
+    "Gérer une régie de recettes (encaissement de billets d'entrée)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Accueil physique et téléphonique",
+    "Orientation du public",
+    "Surveillance et sécurité",
+    "Entretien des locaux",
+    "Gestion de régie de recettes",
+    "Gestion des situations conflictuelles",
+    "Bureautique"
+  ],
+  "specialCommitments": "Permanences des week-ends et jours fériés",
+  "title": "1 Agent d'accueil et de surveillance du patrimoine",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-11",
+  "workHours": "Amplitude horaire variable du lundi au samedi",
+  "champs_open_data": 9,
+  "employeur_sigle": "VILLE-DE-NOUMEA",
+  "collectivite": "Ville de Nouméa",
+  "direction": "DIRECTION DE LA CULTURE, DU PATRIMOINE ET DU RAYONNEMENT",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Entretien, surveillance et logistique",
+  "famille_source": "respnc",
+  "famille_score": 0.821,
+  "dossier": "entretien-surveillance-et-logistique"
+}
