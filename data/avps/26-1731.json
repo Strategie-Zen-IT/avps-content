@@ -1,0 +1,188 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien",
+    "direction": "PROVINCE DES ILES LOYAUTE",
+    "uniteOrganisationnelle": "Service de l'agriculture, de l'économie bleue et de l'alimentation",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service de l'agriculture, de l'économie bleue et de l'alimentation",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Chambres consulaires",
+      "Chambre d'agriculture",
+      "ASA",
+      "Autres directions et services provinciaux"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Réorganisation interne",
+        "value": "Oui"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction de l'administration générale de la province des îles Loyauté, service des RH"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Hôtel de la province des îles Loyauté à Wé - Lifou"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP 50 - 98820 WE LIFOU"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "dag-recrutement@loyalty.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956344.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'agent est placé sous la responsabilité du chef du service de l'agriculture, de l'économie bleue et de l'alimentation. Il travaille au sein d'une équipe de plusieurs personnes.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1731",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Technicien(ne) production végétale",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province des îles Loyauté",
+    "url": "http://www.province-iles.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "http://www.province-iles.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Hôtel de la province des îles Loyauté",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Wé",
+      "addressLocality": "Lifou",
+      "addressRegion": "Province des îles Loyauté",
+      "addressCountry": "NC",
+      "province": "province des îles Loyauté"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "45.51.71",
+    "email": "sec-dde@loyalty.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-20",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac",
+    "competencyRequired": [
+      "Connaissance du milieu loyaltiens",
+      "Connaissance des textes en vigueur relatifs au Code de Développement de la Province des îles Loyauté",
+      "Connaissance générale en agriculture",
+      "Connaissance des organismes financiers de la Nouvelle-Calédonie",
+      "Capacités relationnelles et rédactionnelles",
+      "Respect des règles liées au poste (confidentialité des informations ...)",
+      "Diplôme bac dans le domaine concerné"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province des îles Loyauté",
+    "url": "http://www.province-iles.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province des îles Loyauté",
+    "url": "http://www.province-iles.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Lifou",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Lifou",
+      "addressRegion": "Province des îles Loyauté",
+      "addressCountry": "NC",
+      "province": "province des îles Loyauté",
+      "postalCode": "98820"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Agriculture et mer"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Être titulaire du permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Technicien (ne) production végétale"
+  },
+  "responsibilities": [
+    "Montage et instruction technico-économique des dossiers relevant du secteur des Productions végétales",
+    "Conseil, accompagnement, suivi et appui technique auprès des agriculteurs",
+    "Accompagnement des partenaires techniques de la province des îles Loyauté dans le secteur de l'agriculture",
+    "Accueillir, orienter, informer et aider les promoteurs dans la constitution de leurs Dossiers",
+    "Enregistrer toutes les demandes d'aides",
+    "Instruire chaque dossier en faisant une analyse technico-économique du projet présenté (marché, concurrence, création d'emplois...)",
+    "Rédiger les notes et les rapports relatifs à chaque projet présenté",
+    "Rédiger et suivre les conventions de partenariat",
+    "Assurer le contrôle des aides octroyées et le suivi des projets",
+    "Assurer le suivi technique des agriculteurs prioritairement les filières fruits",
+    "Animer les filières et accompagner les groupements professionnels"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Capacité d'écoute et de travail en équipe",
+    "Avoir un esprit d'initiative",
+    "Disponibilité",
+    "Discrétion professionnel",
+    "Rigueur",
+    "Sens de l'organisation"
+  ],
+  "specialCommitments": null,
+  "title": "Technicien(ne) production végétale",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-11",
+  "workHours": null,
+  "champs_open_data": 11,
+  "employeur_sigle": "PIL",
+  "collectivite": "Province des îles Loyauté",
+  "direction": "PROVINCE DES ILES LOYAUTE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Agriculture et mer",
+  "famille_source": "respnc",
+  "famille_score": 0.889,
+  "dossier": "agriculture-et-mer"
+}
