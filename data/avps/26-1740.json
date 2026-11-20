@@ -1,0 +1,184 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Consultations et pool",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cadre supérieur de santé du CHT",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Responsables médicaux",
+      "Responsables paramédicaux",
+      "Responsables administratifs"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "immédiatement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952046.PDF"
+      }
+    ]
+  },
+  "alternateName": "Manager coordinateur des assistants médico-administratifs (AMA)",
+  "description": "Le manager coordinateur des assistants médico-administratifs (AMA) organise, coordonne et supervise les équipes AMA des consultations et du pool. Il garantit la qualité, la continuité et l'efficience des prestations médico-administratives dans le respect de la réglementation, du secret professionnel et des procédures institutionnelles. En lien avec les responsables médicaux, paramédicaux et administratifs, il contribue à l’amélioration du parcours administratif du patient, à la qualité de l’accueil et aux projets institutionnels.",
+  "disambiguatingDescription": "Poste de manager coordinateur des assistants médico-administratifs au sein de la Direction de la coordination des soins du CHT.",
+  "identifier": "26-1740",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Manager coordinateur-trice des assistants médico-administratifs (AMA)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.80.00",
+    "email": "recrutement@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-20",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Master en management ou équivalent",
+    "competencyRequired": [
+      "Principes de management, de gestion des ressources humaines, de qualité et de gestion des risques",
+      "Organisation d’un établissement hospitalier et du système sanitaire et social de la Nouvelle-Calédonie",
+      "Fonctionnement des secrétariats médico-administratifs",
+      "Réglementation, secret professionnel, protection des données de santé et droits des usagers",
+      "Protection sociale en Nouvelle-Calédonie (CAFAT, RUAMM, aide médicale, mutuelles) et principes de facturation",
+      "Admission, dossier administratif et identitovigilance du patient",
+      "Outils bureautiques (Outlook, Word, Excel, PowerPoint) et logiciels métier"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret est l'établissement de santé de référence en Nouvelle-Calédonie, situé au Médipôle Koutio.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre Hospitalier Territorial",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience significative en management exigée. Expérience en milieu hospitalier souhaitée. Expérience dans le domaine médico-administratif souhaitée. Formation ou expérience en conduite de projet appréciée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "incentiveCompensation": "Prime statutaire pour les fonctionnaires",
+  "industry": "Santé",
+  "jobBenefits": "Grilles indiciaires de la fonction publique de Nouvelle-Calédonie (Grille salariale CAG)",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Santé publique soins",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Directeur des soins et des activités paramédicales"
+  },
+  "responsibilities": [
+    "Encadrer, fédérer et accompagner les équipes AMA ; favoriser la polyvalence, la coopération et la qualité de vie au travail",
+    "Organiser et répartir les ressources selon l’activité et les moyens alloués",
+    "Participer au recrutement, assurer l’intégration, réaliser les évaluations et accompagner le développement des compétences",
+    "Identifier les besoins en formation et décliner le plan de formation du secteur",
+    "Prévenir et gérer les situations conflictuelles",
+    "Organiser, planifier et coordonner les activités médico-administratives avec les équipes médicales et paramédicales, en assurant la continuité de fonctionnement",
+    "Adapter les organisations à l’activité et aux besoins des services",
+    "Formaliser et harmoniser les procédures et pratiques professionnelles",
+    "Identifier les dysfonctionnements, mettre en œuvre les actions correctives et participer au paramétrage et à l’évolution des outils métier",
+    "Veiller à la qualité et à la sécurité de la prise en charge médico-administrative et garantir le respect des procédures, des règles professionnelles et de la confidentialité",
+    "Suivre l’activité à partir d’indicateurs et de tableaux de bord",
+    "Analyser les événements indésirables du secteur, suivre les plans d’action et participer aux démarches qualité",
+    "Conseiller la Direction et la ligne hiérarchique dans son domaine d’expertise et assurer le reporting de l’activité",
+    "Contribuer aux projets de service et institutionnels, piloter ou participer à des projets d’amélioration des organisations médico-administratives",
+    "Accompagner les équipes dans les évolutions organisationnelles et le changement",
+    "Participer à la définition et à la mise en œuvre de la politique d’accueil médico-administratif de l’établissement",
+    "Développer la coordination entre secteurs médicaux, paramédicaux et administratifs et participer aux actions transversales de la Direction de la coordination des soins"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Manager, fédérer, accompagner une équipe et accompagner le changement",
+    "Organiser et planifier les activités et les ressources ; analyser une charge de travail et adapter les moyens",
+    "Communiquer, négocier et gérer les conflits ; travailler en transversalité",
+    "Conduire des réunions et des projets ; élaborer et suivre des indicateurs et plans d’action",
+    "Rédiger des procédures, bilans et documents professionnels",
+    "Leadership, capacité à fédérer, sens de l’organisation et des responsabilités",
+    "Rigueur, autonomie, réactivité et adaptabilité",
+    "Écoute, diplomatie, disponibilité et sens du travail en équipe",
+    "Discrétion professionnelle ; respect de l’éthique, du secret professionnel et du devoir de réserve"
+  ],
+  "specialCommitments": null,
+  "title": "Manager coordinateur-trice des assistants médico-administratifs (AMA)",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-11",
+  "workHours": "39 heures hebdomadaires",
+  "champs_open_data": 11,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.795,
+  "dossier": "sante-publique-soins"
+}
