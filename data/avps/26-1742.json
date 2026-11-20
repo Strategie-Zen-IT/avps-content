@@ -1,0 +1,166 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif",
+    "direction": "DIRECTION DE LA VIE CITOYENNE, EDUCATIVE ET SPORTIVE",
+    "uniteOrganisationnelle": "Service de la vie citoyenne",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service et son adjoint",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Service coordination administrative et financière",
+      "Service de la vie éducative",
+      "Service municipal des sports",
+      "Autres services de la mairie"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs",
+        "value": "Au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions particulières d'exercice",
+        "value": "Travail en bureau et guichet d'accueil à l'Hôtel de Ville. Déplacements réguliers à domicile pour des prestations (CNI, certifications diverses, mariages in extremis, etc.). Horaires fixes avec amplitude variable, en fonction des horaires d'ouverture au public. L'agent sera amené à travailler en soirée, certains week-ends et jours fériés pour les différentes manifestations organisées par le service (cérémonie des naissances, Toussaint, élections, etc.) et les autres services de la mairie."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955394.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune. Placée sous l'autorité du secrétaire général adjoint en charge du pôle vie locale, la direction de la vie citoyenne, éducative et sportive a pour mission générale de développer une offre de services en adéquation avec les besoins des citoyens sur tous les instants de leur vie, de renforcer l'accessibilité et la proximité du service public et de proposer des actions citoyennes, éducatives et sportives.",
+  "disambiguatingDescription": "Suivre et gérer les dossiers liés à l'état civil, aux élections et aux prestations administratives au sein du service de la vie citoyenne de la ville de Nouméa.",
+  "identifier": "26-1742",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "1 Agent gestionnaire polyvalent",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Hôtel de Ville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.31.15",
+    "email": "mathieu.galea@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-20",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Maîtrise des techniques de réception et d'accueil physique et téléphonique",
+      "Maîtrise des activités et organisation du service ou de la collectivité",
+      "Connaissances de la réglementation de l'état civil, des élections et des prestations administratives (notamment en matière de titres d'identité)",
+      "Connaissances de base en bureautique et informatique",
+      "Contrôle de la fiabilité et des éléments d'un dossier",
+      "Gestion d'éventuelles situations conflictuelles"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs : au moins égale à 10 ans",
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la commune.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de la vie citoyenne",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de Ville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Administration générale",
+    "Population et affaires funéraires"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Ouvrier polyvalent"
+  },
+  "responsibilities": [
+    "Réceptionner les déclarations et établir les actes d'état civil",
+    "Établir les dossiers de mariage et assister les élus lors des célébrations",
+    "Assurer la tenue administrative des registres d'état civil",
+    "Établir les formalités administratives",
+    "Enregistrer les demandes de titres (passeport et carte nationale d'identité)",
+    "Instruire les inscriptions sur les listes électorales",
+    "Assurer l'accueil physique et téléphonique du public, l'informer et l'orienter",
+    "Gérer de l'information, classer et archiver des documents"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Réceptionner",
+    "Accueillir",
+    "Informer",
+    "Orienter",
+    "Enregistrer",
+    "Instruire",
+    "Classer",
+    "Archiver",
+    "Gérer les conflits"
+  ],
+  "specialCommitments": "Astreintes et travail en soirée, week-ends et jours fériés lors de manifestations ou élections",
+  "title": "1 Agent gestionnaire polyvalent",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-11",
+  "workHours": "Horaires fixes avec amplitude variable",
+  "champs_open_data": 9,
+  "employeur_sigle": "VILLE-DE-NOUMEA",
+  "collectivite": "Ville de Nouméa",
+  "direction": "DIRECTION DE LA VIE CITOYENNE, EDUCATIVE ET SPORTIVE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Patrimoine bâti",
+  "famille_source": "respnc",
+  "famille_score": 0.76,
+  "dossier": "patrimoine-bati"
+}
