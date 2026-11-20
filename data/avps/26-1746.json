@@ -1,0 +1,160 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint d'éducation",
+    "direction": "VICE-RECTORAT",
+    "uniteOrganisationnelle": "Collège Gabriel Païta – Païta Nord",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Madame Florence COINTEPAS, cheffe de la division des personnels de l'administration et de l'encadrement",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste susceptible d'être vacant",
+        "value": "1er février 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952086.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'adjoint d'éducation est chargé de l'organisation et de l'animation de la vie scolaire et de la surveillance éducative dans les internats, les établissements secondaires et les centres relevant des établissements de formation professionnelle.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1746",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Adjoint d'éducation au collège Gabriel Païta Nord",
+  "owner": {
+    "@type": "Organization",
+    "name": "Vice-rectorat"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "LandmarksOrHistoricalBuildings",
+    "name": "Collège Gabriel Païta – Païta Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "ce.dpae@ac-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-20",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Catégorie B",
+    "competencyRequired": [
+      "Fonctionnement d'un établissement du second degré",
+      "Objectifs et projets éducatifs de l'établissement",
+      "Notions de psychologie des élèves",
+      "Techniques de communication"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Collège Gabriel Païta – Païta Nord",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Vice-rectorat"
+  },
+  "incentiveCompensation": null,
+  "industry": "Education",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Collège Gabriel Païta – Païta Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98890"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Education"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Personnels d'éducation et de surveillance"
+  },
+  "responsibilities": [
+    "Le suivi administratif de la vie scolaire : gestion des absences, contrôle des effectifs, des autorisations de sortie, de l'assiduité",
+    "La surveillance et sécurité des élèves et de leurs mouvements dans le réfectoire, le dortoir et la cour et lors d'activités périscolaires hors de l'établissement d'exercice ou associé",
+    "Le contrôle et suivi du travail scolaire",
+    "L'éducation et la participation transversale au projet d'établissement avec une priorité de préoccupation pour la réussite scolaire",
+    "L'implication dans les animations socioculturelles, sportives et dans les sorties à caractère pédagogique ou éducatif"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Porter attention aux élèves",
+    "Élaborer un projet éducatif et mettre en œuvre des activités d'animation",
+    "Prendre la responsabilité d'études prévues ou imprévues",
+    "Respecter les procédures d'organisation interne et collective du travail",
+    "Animer des groupes",
+    "Sens de l'écoute",
+    "Goût du travail en équipe",
+    "Calme et pondération",
+    "Faire preuve de vigilance",
+    "Sens de l'initiative",
+    "Qualités relationnelles",
+    "Impartialité",
+    "Confidentialité",
+    "Disponibilité"
+  ],
+  "specialCommitments": null,
+  "title": "Adjoint d'éducation au collège Gabriel Païta Nord",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-11",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "VR",
+  "collectivite": "Vice-rectorat",
+  "direction": "VICE-RECTORAT",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Animation",
+  "famille_source": "respnc",
+  "famille_score": 0.859,
+  "dossier": "animation"
+}
