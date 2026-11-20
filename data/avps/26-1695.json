@@ -7,8 +7,7 @@
     "superieurHierarchique": "Directeur des études et de la vie étudiante",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Chargé de mission TREC",
-      "Commission de la formation et de la vie universitaire"
+      "Chargé de mission TREC"
     ],
     "informationsLibres": [
       {
@@ -18,8 +17,8 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Catégorie",
-        "value": "Catégorie B"
+        "name": "Modalités d'accueil en séjour des agents fonctionnaires État dans les Universités du Pacifique",
+        "value": "Séjour de 2 ans renouvelable une fois, indexation à 1,73 de la rémunération, perception d'indemnités d'éloignement, perception d'indemnités de frais de changement de résidence, remboursement partiel de loyer, octroi d'un congé administratif de 2 mois désindexé"
       },
       {
         "@type": "PropertyValue",
@@ -28,7 +27,7 @@
       }
     ]
   },
-  "alternateName": "Gestionnaire de l'offre de formation",
+  "alternateName": null,
   "description": "L'Université de la Nouvelle-Calédonie est un établissement pluridisciplinaire qui répond notamment aux besoins de formation et de recherche propres à la Nouvelle-Calédonie. La personne recrutée intégrera le Pôle Appui aux Scolarités et aux Enseignements (PASE) et sera rattachée hiérarchiquement au Directeur des études et de la vie étudiante (DEVE). La ou le gestionnaire de l'offre de formation aura pour mission de mettre en œuvre les campagnes d'admission des étudiants, d'effectuer la transposition des décisions dans le système d'information de la scolarité et d'assurer la préparation et le suivi de la Commission de la formation et de la vie universitaire (CFVU).",
   "disambiguatingDescription": "Gestionnaire de l'offre de formation au sein de la Direction des études et de la vie étudiante de l'Université de la Nouvelle-Calédonie.",
   "identifier": "26-1695",
@@ -55,7 +54,7 @@
   "datePosted": "2026-11-06",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": null,
+    "credentialCategory": "Catégorie B",
     "competencyRequired": [
       "Connaître le fonctionnement d'un établissement d'enseignement supérieur",
       "Connaître l'offre de formation",
@@ -67,7 +66,7 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Université de la Nouvelle-Calédonie",
+    "name": "Pôle Appui aux Scolarités et aux Enseignements",
     "url": null,
     "logo": null
   },
@@ -78,17 +77,17 @@
     "@type": "Organization",
     "name": "Université de Nouvelle-Calédonie"
   },
-  "incentiveCompensation": null,
-  "industry": "Education",
-  "jobBenefits": null,
-  "jobDuration": "1 an renouvelable",
+  "incentiveCompensation": "Indexation à 1,73 de la rémunération, des primes et indemnités pour les fonctionnaires d'État.",
+  "industry": "Éducation",
+  "jobBenefits": "Séjour de 2 ans renouvelable une fois, indemnités d'éloignement, indemnités de frais de changement de résidence, remboursement partiel de loyer, congé administratif de 2 mois désindexé.",
+  "jobDuration": "1 an renouvelable pour les contractuels",
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
     "name": "Campus de Nouville",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Campus de Nouville",
+      "streetAddress": "Nouville",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -99,14 +98,14 @@
   "jobLocationType": null,
   "jobStartDate": "2027-01-15",
   "occupationalCategory": [
-    "Administration générale",
-    "Education"
+    "Education",
+    "Administration générale"
   ],
   "physicalRequirement": null,
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Gestionnaire de l'offre de formation"
+    "name": "Gestionnaire de formation"
   },
   "responsibilities": [
     "Assurer la transposition des décisions dans les applications de scolarité et contribuer à la modernisation des services rendus à l'étudiant",
@@ -124,7 +123,7 @@
     "Analyser, paramétrer et produire des données dans le cadre d'un projet décisionnel de l'université",
     "Coordination et gestion administrative des comités pédagogiques en lien avec le chargé de mission TREC"
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -156,6 +155,6 @@
   "employeur_source": "source",
   "famille_respnc": "Ressources Humaines",
   "famille_source": "respnc",
-  "famille_score": 0.939,
+  "famille_score": 0.901,
   "dossier": "ressources-humaines"
 }
