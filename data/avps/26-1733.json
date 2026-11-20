@@ -1,0 +1,169 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Espace culturel de Déva",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur du centre des activités de Poé et de l'espace culturel de Déva",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Médiateur culturel",
+      "SEM MWE ARA",
+      "Groupe hôtelier",
+      "Pôle protection et valorisation des patrimoines",
+      "Pôle développement humain"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Travail certains week-ends et jours fériés. Travail en intérieur et extérieur. Horaires atypiques fréquents selon les nécessités du service (amplitude variable, pics d'activité)."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Habilitation",
+        "value": "Habilité en tant que régisseur de recettes afin d'assurer l'encaissement des recettes liées aux prestations payantes et aux produits dérivés proposés au sein de l'ECD."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952096.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de la culture, de la jeunesse et des sports de la province Sud (DCJS) développe et valorise les richesses patrimoniales et artistiques de la province Sud. Elle agit en matière de patrimoine, de création et de diffusion artistique et d'accès à la culture en favorisant son rayonnement sur l'ensemble de la province Sud. Elle favorise et soutient également le développement des pratiques socio-éducatives et sportives en province Sud. La DCJS compte parmi ses infrastructures l'espace culturel de Déva à Bourail. L'espace culturel de Déva est un établissement culturel à vocation patrimoniale, artistique et éducative.",
+  "disambiguatingDescription": "L'espace culturel de Déva est un établissement culturel à vocation patrimoniale, artistique et éducative. Ce site constitue une plateforme hybride, alliant témoignage historique et création contemporaine, destinée à accueillir et à intéresser l'ensemble des publics.",
+  "identifier": "26-1733",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé(e) d'actions culturelles",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.52.22",
+    "email": "cyril.huet@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-20",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme en médiation/valorisation/gestion culturelle",
+    "competencyRequired": [
+      "Bonnes connaissances des réglementations et de l'environnement appliqués à l'organisation d'activités socio-éducatives, sportives ou culturelles",
+      "Bonnes connaissances du milieu associatif et institutionnel calédonien",
+      "Bonnes connaissances en réglementation des établissements recevant du public (ERP)",
+      "Bonne maîtrise des outils informatiques (Word, Excel, Powerpoint, etc.)",
+      "Connaissances de la comptabilité publique, des principes de comptabilité de base et tenue de caisse et du cadre réglementaire et procédures liées aux régies de recettes"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La direction de la culture, de la jeunesse et des sports de la province Sud (DCJS) développe et valorise les richesses patrimoniales et artistiques de la province Sud. Elle agit en matière de patrimoine, de création et de diffusion artistique et d'accès à la culture en favorisant son rayonnement sur l'ensemble de la province Sud.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Espace culturel de Déva",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience avérée dans la gestion de structure accueillant du public",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Culture",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Espace culturel de Déva",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Domaine de Déva",
+      "addressLocality": "Bourail",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98870"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Culture",
+    "Animation"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Titulaire du permis B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé d'actions culturelles"
+  },
+  "responsibilities": [
+    "Participer à la définition d'un projet artistique et culturel, à son élaboration et à sa mise en œuvre",
+    "Programmer l'activité patrimoniale et artistique de l'établissement",
+    "Créer et animer des expositions",
+    "Créer et développer des expositions virtuelles",
+    "Superviser la gestion de la sécurité de spectacle ou de l'événement",
+    "Coordonner le travail des prestataires de service intervenant à l'ECD",
+    "Animer et développer des partenariats autour de projet avec les acteurs du domaine de Déva (SEM MWE ARA, groupe hôtelier...) et l'ensemble des acteurs de la région",
+    "Assurer la promotion de l'établissement auprès des partenaires pour l'organisation d'activités autour de la jeunesse, des sports, de la culture et du bien-être",
+    "Assurer le suivi administratif des animations (inscriptions, gestion de l'agenda, statistiques, rapports, etc.)",
+    "Travailler en binôme avec le médiateur culturel",
+    "Assurer la mise en œuvre de la feuille de route stratégique de la province Sud",
+    "Assurer l'encaissement des recettes liées aux prestations payantes et aux produits dérivés proposés au sein de l'ECD"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Analyse des besoins et des caractéristiques des différents publics",
+    "Adaptation des animations et de la communication aux différents publics",
+    "Planification des actions et du suivi des tableaux de bord",
+    "Analyse et exploitation des résultats des actions (statistiques)",
+    "Gestion du budget dédié",
+    "Gestion des études et des recherches à visée éducative",
+    "Conception des documents et des outils de médiation",
+    "Maîtrise de l'anglais",
+    "Maîtrise des techniques et des outils de communication",
+    "Capacités à travailler en équipe",
+    "Planification de l'utilisation des ressources et des équipements",
+    "Sens du service public",
+    "Grande disponibilité",
+    "Très bonnes qualités relationnelles",
+    "Prise d'initiatives",
+    "Confidentialité",
+    "Force de propositions"
+  ],
+  "specialCommitments": "Travail certains week-ends et jours fériés, horaires atypiques fréquents",
+  "title": "Chargé(e) d'actions culturelles",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-11",
+  "workHours": "Horaires atypiques fréquents selon les nécessités du service (amplitude variable, pics d'activité)",
+  "champs_open_data": 7,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Culture",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "culture"
+}
