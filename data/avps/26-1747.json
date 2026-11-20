@@ -1,0 +1,174 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur / adjoint administratif",
+    "direction": "VICE-RECTORAT",
+    "uniteOrganisationnelle": "Collège Paï Kaleone à Hienghène",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Directeur de l'établissement",
+    "placeOrganigramme": "Membre de l'équipe de direction du collège",
+    "relationsFonctionnelles": [
+      "Chef d'établissement",
+      "Equipes non enseignantes",
+      "Province Nord",
+      "Collectivité de rattachement"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Ce poste impose d'être opérationnel dès la prise de fonction et nécessite un niveau de technicité et de polyvalence ainsi qu'une grande disponibilité. Ce poste est logé."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Pour les adjoints administratifs : au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957150.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "En sa qualité d'adjoint-gestionnaire, l'agent retenu est membre de l'équipe de direction du collège. A ce titre il seconde le directeur de l'établissement dans le domaine de la gestion matérielle (sécurité, entretien, maintenance) administrative et budgétaire du collège. Il propose une organisation des services administratifs et techniques qu'il dirige pour garantir aux élèves les meilleures conditions matérielles de réussite.",
+  "disambiguatingDescription": "Adjoint-gestionnaire logé au Collège Paï Kaleone à Hienghène, sous l'autorité de la Direction générale des enseignements.",
+  "identifier": "26-1747",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Adjoint-gestionnaire au collège Paï Kaleone à Hienghène",
+  "owner": {
+    "@type": "Organization",
+    "name": "Vice-rectorat"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Vice-rectorat de la Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Hienghène",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "42.83.70",
+    "email": "ce.9830522a@ac-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-20",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Expérience d'adjoint-gestionnaire d'établissement public d'enseignement ou poste similaire",
+    "competencyRequired": [
+      "Connaissances les principes généraux de la comptabilité publique",
+      "Connaissances des différentes procédures administratives des collèges et des lycées (EPENC)",
+      "Connaissances des logiciels de gestion et de comptabilité des établissements d'enseignement notamment Op@le",
+      "Connaissance de la réglementation de l'organisation économique et financière des établissements d'enseignement",
+      "Connaissance des instances et des procédures de contrôle",
+      "Connaissances des règles de la restauration collective",
+      "Connaissances sur le statut et de la gestion des personnels des établissements"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence au moins égale à 10 ans pour les adjoints administratifs",
+  "employerOverview": "Le collège est un établissement public d'enseignement de la Nouvelle-Calédonie (EPENC) de 1ère catégorie (21 M FCFP). En 2026, il scolarise 169 élèves de la 6ème à la 3ème dont 39 demi-pensionnaires et 130 internes gérés par la Province Nord.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Collège Paï Kaleone à Hienghène",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Expérience d'adjoint-gestionnaire d'établissement public d'enseignement ou avoir occupé un poste similaire. Ce poste peut convenir à des adjoints administratifs avec une expérience avérée en service de gestion dans un établissement public d'enseignement de la Nouvelle-Calédonie (EPENC).",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Vice-rectorat"
+  },
+  "incentiveCompensation": null,
+  "industry": "Education",
+  "jobBenefits": "Poste logé",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Collège Paï Kaleone",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Hienghène",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98815"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Administration générale",
+    "Education",
+    "Finances et budget"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Connaissances des logiciels de gestion et de comptabilité notamment Op@le",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Gestionnaire administratif"
+  },
+  "responsibilities": [
+    "Assure le fonctionnement matériel du collège Paï Kaleone",
+    "Elabore la préparation du projet de budget et les décisions budgétaires modificatives, les marchés et les conventions ou contrats concernant l'activité de l'établissement par délégation du chef d'établissement",
+    "Organise les procédures d'achat, le contrôle de l'exécution des travaux et des prestations de service, l'enregistrement des biens immobilisés à l'inventaire général",
+    "Assure le suivi du pilotage budgétaire par la production des documents d'analyse et de synthèse budgétaire ainsi que la préparation du rapport annuel de gestion",
+    "Conseille le chef d'établissement, peut recevoir délégations et participe au pilotage et à la gestion administrative des projets pédagogiques de l'établissement",
+    "Contribue à l'élaboration de l'ordre du jour des conseils d'administration de l'établissement, s'assure de la mise en forme des actes soumis à la délibération et les transmet aux autorités de tutelle",
+    "Encadre, anime et mobilise les équipes non enseignantes sous l'autorité du chef d'établissement",
+    "Organise le travail des personnels non enseignants, élabore les descriptifs des postes en lien avec le directeur ainsi que les propositions d'évaluation et de besoins en formation",
+    "Participe à la sécurisation des locaux et des personnes en tenant à jour les registres et les documents relatifs à l'hygiène et à la sécurité",
+    "Organise périodiquement des exercices d'évacuation et propose toutes mesures de formation des personnels techniques",
+    "Propose et dirige les travaux d'entretien courant des locaux et assure en concertation avec la collectivité de rattachement le suivi des opérations de travaux et maintenance"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Elaborer et suivre un budget en M9.6",
+    "Conduire un processus d'achat",
+    "Connaître les outils informatiques appliqués à la gestion financière des EPENC",
+    "Capacité de conseil et d'aide à la décision",
+    "Encadrer et animer une équipe",
+    "Dresser un bilan d'activité et faire des propositions d'amélioration",
+    "Rigueur, fiabilité et sens de l'organisation",
+    "Sens de l'initiative et de la réactivité",
+    "Esprit d'analyse, de synthèse et de résolution des problèmes",
+    "Qualités relationnelles et sens du travail en équipe",
+    "Discrétion, humilité",
+    "Sens du service public"
+  ],
+  "specialCommitments": "Grande disponibilité requise",
+  "title": "Adjoint-gestionnaire au collège Paï Kaleone à Hienghène",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-11",
+  "workHours": "Grande disponibilité",
+  "champs_open_data": 9,
+  "employeur_sigle": "VR",
+  "collectivite": "Vice-rectorat",
+  "direction": "VICE-RECTORAT",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.885,
+  "dossier": "administration-generale"
+}
