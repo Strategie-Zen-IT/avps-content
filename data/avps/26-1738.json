@@ -1,0 +1,185 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Service des finances",
+    "nbAgentsEncadres": 3,
+    "superieurHierarchique": "Chef de service des finances",
+    "placeOrganigramme": "Adjoint au chef de service",
+    "relationsFonctionnelles": [
+      "Services et directions fonctionnelles",
+      "Direction générale",
+      "Contrôleurs de gestion / ingénieur BI"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions de travail",
+        "value": "Travail en journée"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Avantages",
+        "value": "Prime statutaire pour les fonctionnaires, Grilles indiciaires de la fonction publique de Nouvelle-Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957712.PDF"
+      }
+    ]
+  },
+  "alternateName": "Chef de service adjoint",
+  "description": "Le responsable du contrôle de gestion est placé sous l'autorité du chef de service des finances de la direction des affaires financières et de l'informatique (DAFI). Il concourt au pilotage médico-économique de l'établissement. Il conçoit et met en œuvre les méthodes et outils de gestion permettant de garantir l'utilisation efficiente des ressources et l'exercice, par le management, des fonctions de pilotage et de contrôle. Il conseille les décideurs au regard du développement des activités. En qualité d'adjoint, il seconde le chef de service dans l'animation, l'organisation et l'encadrement du service des finances, et assure la continuité de la fonction en son absence. Il constitue le relais managérial et technique entre la direction et l'équipe du contrôle de gestion.",
+  "disambiguatingDescription": "Responsable du contrôle de gestion et chef de service adjoint au sein du Centre Hospitalier Territorial.",
+  "identifier": "26-1738",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Responsable du contrôle de gestion - Chef de service adjoint",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.86.02",
+    "email": "isabelle.jouet@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-20",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Licence",
+    "competencyRequired": [
+      "Comptabilité publique hospitalière (M21)",
+      "Comptabilité analytique",
+      "Finances publiques",
+      "Réglementation budgétaire hospitalière (EPRD, PGFP)",
+      "Conduite de projet",
+      "Systèmes d'information décisionnels",
+      "Organisation et fonctionnement d'un établissement de santé"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre Hospitalier Territorial",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Niveau 6 minimum (Licence) en contrôle de gestion, finances, comptabilité, un niveau 7 (Master) en contrôle de gestion et pilotage des établissements de santé serait apprécié.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "incentiveCompensation": "Prime statutaire pour les fonctionnaires",
+  "industry": "Santé",
+  "jobBenefits": "Grilles indiciaires de la fonction publique de Nouvelle-Calédonie",
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Finances et budget",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Contrôleur de gestion"
+  },
+  "responsibilities": [
+    "Encadrer, animer et accompagner les contrôleurs de gestion / ingénieur BI : manager l'équipe, organisation (planning, recrutement, formation), répartition du travail, appui technique, montée en compétences et maintien d'un climat de travail positif",
+    "Participer à l'organisation de l'équipe, à la définition des objectifs et à la planification des travaux",
+    "Contribuer à l'évaluation professionnelle (EAE) des agents, en lien avec le chef de service",
+    "Assurer la continuité de la fonction et représenter le contrôle de gestion auprès des directions et partenaires en l'absence du chef de service",
+    "Piloter ou co-piloter des projets transversaux (déploiement d'outils décisionnels, harmonisation des procédures, contrôle interne, projets de performance)",
+    "Animer le dialogue de gestion avec les services et directions fonctionnelles, et les accompagner dans le pilotage médico-économique de leur activité. Produire les analyses nécessaires à l'arbitrage de la direction générale",
+    "Concevoir, produire et faire évoluer les tableaux de bord de suivi de l'activité, des recettes et des dépenses",
+    "Préparer, animer et assurer le suivi des dialogues de gestion avec les services",
+    "Réaliser des études médico-économiques à visée opérationnelle et stratégique (création, extension ou transformation d'activité)",
+    "Rédiger des études, notes de synthèse et rapports d'alerte à partir de l'analyse des résultats de gestion",
+    "Élaborer et exploiter la comptabilité analytique hospitalière conformément aux référentiels en vigueur (guide de comptabilité analytique, retraitement comptable, ...)",
+    "Élaborer et analyser le compte de résultat analytique par service et par activité",
+    "Fiabiliser, retraiter et mettre à disposition les données médico-économiques, garantir la qualité et la cohérence des données sources",
+    "Contribuer à la démarche de certification des comptes et au contrôle interne comptable et financier",
+    "Participer à l'élaboration et au suivi de l'EPRD, du PGFP et des décisions modificatives",
+    "Suivre la programmation et l'exécution budgétaire ; alerter sur les écarts et proposer des mesures correctrices",
+    "Répondre aux demandes institutionnelles (statistiques d'activité, rapports annuels, étude ponctuelle, ...)",
+    "Contribuer aux enquêtes nationales, benchmarks et travaux de reporting inter-établissements"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des logiciels métiers (TIARHE, CPAGE...)",
+    "Maîtrise avancée des outils bureautiques et BI (Excel, TCD, PowerBI, IA...)",
+    "Capacité d'encadrement",
+    "Sens du collectif et esprit d'équipe",
+    "Analyser des données et des tableaux de bord",
+    "Justifier les résultats de son domaine",
+    "Concevoir, rédiger et mettre en forme des notes, rapports et communications",
+    "Analyser et traduire un besoin utilisateur en études de faisabilité, solutions et outils",
+    "Auditer une situation, un système ou une organisation dans son domaine de compétence"
+  ],
+  "specialCommitments": null,
+  "title": "Responsable du contrôle de gestion - Chef de service adjoint",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-11",
+  "workHours": "Travail en journée",
+  "champs_open_data": 11,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Pilotage",
+  "famille_source": "respnc",
+  "famille_score": 0.872,
+  "dossier": "pilotage"
+}
