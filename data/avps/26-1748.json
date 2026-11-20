@@ -1,0 +1,163 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "VICE-RECTORAT",
+    "uniteOrganisationnelle": "Lycée professionnel Augustin Ty - TOUHO",
+    "nbAgentsEncadres": 2,
+    "superieurHierarchique": "Directeur de l'établissement",
+    "placeOrganigramme": "Membre de l'équipe de direction",
+    "relationsFonctionnelles": [
+      "Chef d'établissement",
+      "Conseil d'administration",
+      "Autorités de tutelle",
+      "Collectivité de rattachement"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Logement",
+        "value": "Ce poste est logé."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Calendrier scolaire",
+        "value": "Le calendrier scolaire impose d'être opérationnel dès la prise de fonction et nécessite un niveau de technicité avéré ainsi qu'une grande disponibilité."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957150.PDF"
+      }
+    ]
+  },
+  "alternateName": "Adjoint-gestionnaire",
+  "description": "En sa qualité d'adjoint-gestionnaire, l'agent retenu est membre de l'équipe de direction du lycée professionnel Augustin Ty - Touho. A ce titre il seconde le directeur de l'établissement dans le domaine de la gestion matérielle (sécurité, entretien, maintenance) administrative et budgétaire du collège. Il propose une organisation des services administratifs et techniques qu'il dirige pour garantir aux élèves les meilleures conditions matérielles de réussite.",
+  "disambiguatingDescription": "Adjoint-gestionnaire dans un établissement public d'enseignement de la Nouvelle-Calédonie",
+  "identifier": "26-1748",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Adjoint-gestionnaire au Lycée professionnel Augustin Ty à Touho",
+  "owner": {
+    "@type": "Organization",
+    "name": "Vice-rectorat"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.61.21",
+    "email": "ce.dpae@ac-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-20",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Catégorie A",
+    "competencyRequired": [
+      "Expérience d'adjoint-gestionnaire d'établissement public d'enseignement ou avoir occupé un poste similaire",
+      "Connaissances les principes généraux de la comptabilité publique",
+      "Connaissances des différentes procédures administratives des collèges et des lycées (EPENC)",
+      "Connaissances des logiciels de gestion et de comptabilité des établissements d'enseignement notamment Op@ale",
+      "Connaissance de la réglementation de l'organisation économique et financière des établissements d'enseignement",
+      "Connaissance des instances et des procédures de contrôle",
+      "Connaissances des règles de la restauration collective",
+      "Connaissances sur le statut et de la gestion des personnels des établissements"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "Le lycée professionnel est un établissement public d'enseignement de la Nouvelle-Calédonie (EPENC) de 3ème catégorie (144 M FCFP – 1,2 M € en 2025). En 2026, il scolarise 383 élèves dont 67 demi-pensionnaires et 311 internes. Le lycée propose des pôles de formation variés, du CAP au Bac Pro.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Lycée professionnel Augustin Ty - TOUHO",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience d'adjoint-gestionnaire d'établissement public d'enseignement ou avoir occupé un poste similaire.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Vice-rectorat"
+  },
+  "incentiveCompensation": null,
+  "industry": "Education",
+  "jobBenefits": "Poste logé",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Lycée professionnel Augustin Ty",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Lycée professionnel Augustin Ty",
+      "addressLocality": "Touho",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98831"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2026-02-01",
+  "occupationalCategory": [
+    "Administration générale",
+    "Education",
+    "Finances et budget"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Gestionnaire administratif"
+  },
+  "responsibilities": [
+    "Assure le fonctionnement matériel du Lycée Augustin Ty",
+    "Elabore la préparation du projet de budget et les décisions budgétaires modificatives, les marchés et les conventions ou contrats concernant l'activité de l'établissement",
+    "Organise les procédures d'achat, le contrôle de l'exécution des travaux et des prestations de service, l'enregistrement des biens immobilisés à l'inventaire",
+    "Assure le suivi du pilotage budgétaire par la production des documents d'analyse et de synthèse budgétaire ainsi que la préparation du rapport annuel de gestion de l'établissement, l'archivage des documents administratifs et financiers",
+    "Conseille le chef d'établissement, reçoit des délégations et participe au pilotage et à la gestion administrative des projets pédagogiques de l'établissement",
+    "Contribue à l'élaboration de l'ordre du jour des conseils d'administration de l'établissement, s'assure de la mise en forme des actes soumis à la délibération des membres du conseil d'administration et les transmet aux autorités de tutelle",
+    "Participe à la sécurisation des locaux et des personnes en tenant à jour les registres et les documents relatifs à l'hygiène et à la sécurité, en organisant périodiquement des exercices d'évacuation et en proposant toutes mesures de formation des personnels techniques",
+    "Propose et dirige les travaux d'entretien courant des locaux et assure en concertation avec la collectivité de rattachement le suivi des opérations de travaux et maintenance",
+    "Organise le service de restauration, contrôle les procédures d'approvisionnements et de stockage, encadre la préparation et la distribution des repas dans le respect des règles d'hygiène et de diététique",
+    "Constate les sommes dues par les familles pour la demi-pension, édite et distribue les factures aux familles"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Elaborer et suivre un budget en M9.6",
+    "Conduire un processus d'achat",
+    "Connaître les outils informatiques appliqués à la gestion financière des EPENC",
+    "Capacité de conseil et d'aide à la décision",
+    "Encadrer et animer une équipe",
+    "Dresser un bilan d'activité et faire des propositions d'amélioration",
+    "Rigueur, fiabilité et sens de l'organisation",
+    "Sens de l'initiative et de la réactivité",
+    "Esprit d'analyse, de synthèse et de résolution des problèmes",
+    "Qualités relationnelles et sens du travail en équipe",
+    "Discrétion, humilité",
+    "Sens du service public"
+  ],
+  "specialCommitments": "Astreintes liées à la sécurité et au fonctionnement de l'établissement",
+  "title": "Adjoint-gestionnaire au Lycée professionnel Augustin Ty à Touho",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-11",
+  "workHours": "Grande disponibilité requise",
+  "champs_open_data": 9,
+  "employeur_sigle": "VR",
+  "collectivite": "Vice-rectorat",
+  "direction": "VICE-RECTORAT",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.885,
+  "dossier": "administration-generale"
+}
