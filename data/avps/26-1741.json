@@ -1,0 +1,181 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Sage femme",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Service gynéco-obstétrique",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Sage-femme cadre supérieure",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Les directeurs adjoints de la coordination des soins, des ressources humaines, et des services techniques",
+      "Les chefs de service et médecins des différents services du secteur Mère-Enfant : gynéco-obstétrique, pédiatrie et néonatalogie",
+      "Les cadres de santé et cadres sages-femmes du secteur Mère- Enfant",
+      "L'ensemble des cadres et des responsables des services de l'établissement",
+      "Les équipes pédagogiques des différents instituts de formation",
+      "Les partenaires conventionnels, les associations, les réseaux de soins, les autres établissements de santé, le secteur libéral et privé, la PMI"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "inférieur à 3 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952074.PDF"
+      }
+    ]
+  },
+  "alternateName": "Coordinatrice-teur sage-femme",
+  "description": "Cadre sage-femme d'une unité du service gynéco-obstétrique. Le cadre sage-femme organise et coordonne l'activité du service de gynéco-obstétrique, comprenant le bloc obstétrical, les grossesses à haut risque, les suites de couches et les consultations. Il veille à la qualité et à la sécurité de la prise en charge des femmes et des nouveau-nés, tout en assurant une gestion efficace des ressources. Il exerce ses missions en étroite collaboration avec les cadres du secteur Mère-Enfant, sous la responsabilité de la sage-femme cadre supérieure.",
+  "disambiguatingDescription": "Cadre sage-femme d'une unité du service gynéco-obstétrique au Centre Hospitalier Territorial.",
+  "identifier": "26-1741",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "1 Cadre sage-femme (coordinatrice-teur sage-femme)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.80.00 poste 8316",
+    "email": "celine.meriadec@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-20",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Master 2",
+    "competencyRequired": [
+      "Animation d'équipe",
+      "Communication et relation d'aide",
+      "Management et pédagogie",
+      "Législation du travail et des règles institutionnelles",
+      "Droit de la fonction publique territoriale et droit des patients",
+      "Stratégie et organisation du travail",
+      "Conduite de projet et conduite du changement",
+      "Connaissances informatiques : outils bureautiques, dossier patient informatisé",
+      "Connaissances en gynéco-obstétrique, en néonatologie, en pédiatrie, en AMP et en orthogénie",
+      "Connaissances en santé publique"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre Hospitalier Territorial",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Au moins 3 ans d'expérience en management pour les titulaires d'un Diplôme d'Etat Sage-femme (années de faisant fonction prises en compte)",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Titulaire d'un Master 2 Périnatalité Management et Pédagogie ou d'un Master en Management des organisations sanitaires et sociales ou d'un certificat de cadre sage-femme, ou d'une licence en management des services de santé, ou d'un Diplôme d'Etat Sage-femme",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Cadre sage-femme"
+  },
+  "responsibilities": [
+    "Organiser, piloter et coordonner avec les équipes médicales : l'activité de l'unité qui lui est affecté, le circuit patient, l'accueil et la prise en charge spécifique des patients, couples et familles, la gestion des moyens techniques et logistiques (gestion des stocks, commande pharmacie et matériel, suivi de la maintenance)",
+    "Manager et accompagner une équipe pluridisciplinaire (paramédicale, administrative et sage-femme): animer et fédérer l'équipe en adéquation avec l'activité, accueillir et participer à l'encadrement pédagogique des étudiants",
+    "Piloter les projets : projet de la maternité labellisée Maternys, projet d'amélioration de l'offre de soin des suivis, projet d'optimisation des organisations et des soins au sein du plateau des consultations, projets transversaux et institutionnels",
+    "Gérer la qualité des soins : développer une homogénéisation des pratiques, veiller à l'efficacité et à la qualité des prestations en soins, développer et optimiser le parcours patient, assurer le suivi de la qualité et de la sécurité des activités spécifiques dans l'unité d'affectation (respect des règles d'hygiène, de sécurité et de confidentialité, gestion des risques, élaboration de protocoles et procédures, participation aux audits/RETEX/RMM)",
+    "Participer au suivi médico-économique du secteur : suivi des indicateurs d'activité et d'épidémiologie en santé publique",
+    "Assurer le maintien du lien en interne (dans l'unité, au sein du secteur mère-enfant et dans l'institution), et en extrahospitalier (avec les partenaires, le secteur libéral, la PMI, les réseaux de soins) : maintenir une relation avec les patients et leurs familles, établir des relations de travail avec l'ensemble des acteurs hospitaliers et extrahospitaliers, assurer la communication et la coordination, participer aux réunions et groupes de travail institutionnels et extrahospitaliers",
+    "Management et évaluation des compétences du personnel du secteur",
+    "Gestion des effectifs avec la Direction des Ressources Humaines",
+    "Participation à la réalisation et la mise en oeuvre d'un plan de formation pour le personnel du secteur",
+    "Participation à la continuité de l'encadrement en rigueur sur l'institution (soir et week-end), travail en binôme pour organiser ses absences"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Animer, fédérer et motiver une équipe pluri-disciplinaire",
+    "Piloter une dynamique de progrès continu et de développement des compétences au sein de son équipe",
+    "Prendre des décisions à bon escient pour une qualité de service, efficience des organisations et travail en équipe",
+    "Elaborer des fiches de poste",
+    "Concevoir, formaliser et adapter des procédures/protocoles dans son domaine de compétences",
+    "Fixer des objectifs, mesurer des résultats et évaluer les performances collectives et individuelles",
+    "Concevoir, évaluer et piloter des projets et des actions innovantes",
+    "Traduire une stratégie d'établissement en plan d'actions sur le terrain et en réseau dans le respect des règles de déontologie",
+    "Disponibilité, adaptabilité, esprit d'initiative et d'analyse",
+    "Ecoute, empathie, sens relationnel et de la communication",
+    "Dynamisme, rigueur, méthode et organisation",
+    "Sens du travail en équipe",
+    "Sens de la responsabilité et conscience professionnelle"
+  ],
+  "specialCommitments": "Participation à la continuité de l'encadrement en rigueur sur l'institution (soir et week-end)",
+  "title": "1 Cadre sage-femme (coordinatrice-teur sage-femme)",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-11",
+  "workHours": "Travail en soirée et week-end possible pour la continuité de l'encadrement",
+  "champs_open_data": 11,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.872,
+  "dossier": "sante-publique-soins"
+}
