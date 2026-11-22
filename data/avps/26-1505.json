@@ -14,7 +14,7 @@
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
-        "value": "Au moins égale à 5 ans pour le recrutement sur titre pour les infirmier(e) en soins généraux"
+        "value": "Pour les infirmier(e) en soins généraux : au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
@@ -29,8 +29,8 @@
     ]
   },
   "alternateName": null,
-  "description": "L'infirmier(ère) itinérant(e), rattaché(e) au service des ressources humaines et des moyens (SRHM), est amené(e) à intervenir dans toutes les unités provinciales d'action sanitaire et sociale (UPASS) et les CMS, en particulier sur les zones de Thio, Bourail, La Foa, Yaté et l'Île des Pins, au sein d'équipes pluridisciplinaires (médecins, sages-femmes, assistantes sociales, spécialistes vacataires, psychothérapeutes, etc.). Il/Elle pourra être amenée occasionnellement à travailler sur Nouméa.",
-  "disambiguatingDescription": null,
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "disambiguatingDescription": "L'infirmier(ère) itinérant(e), rattaché(e) au service des ressources humaines et des moyens (SRHM), est amené(e) à intervenir dans toutes les unités provinciales d'action sanitaire et sociale (UPASS) et les CMS, en particulier sur les zones de Thio, Bourail, La Foa, Yaté et l'Île des Pins, au sein d'équipes pluridisciplinaires.",
   "identifier": "26-1505",
   "image": null,
   "mainEntityOfPage": null,
@@ -46,7 +46,18 @@
   "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "AreaServed",
+    "name": "Province Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Bourail",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "20.44.76",
@@ -62,8 +73,8 @@
       "Connaissances en prévention et en promotion de la santé (charte d'Ottawa)"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans pour les infirmiers en soins généraux",
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans pour les infirmier(e) en soins généraux",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -80,13 +91,13 @@
     "url": "https://www.province-sud.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique",
   "jobBenefits": "Lors des remplacements en brousse, un logement provincial sera mis à disposition.",
   "jobDuration": null,
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Centre médico-social de Bourail",
+    "name": "Bourail",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -116,7 +127,7 @@
     "Prendre en charge des patients admis en observation",
     "Réaliser le suivi de la pharmacie et du matériel"
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -138,7 +149,7 @@
   "specialCommitments": "Astreintes de nuit et de week-end selon les plannings établis par roulements. Déplacements fréquents en province Sud.",
   "title": "Infirmier(e) itinérant(e)",
   "totalJobOpenings": 4,
-  "validThrough": "2026-11-06",
+  "validThrough": "2026-12-04",
   "workHours": "Astreintes de nuit et de week-end",
   "champs_open_data": 9,
   "employeur_sigle": "PVS",
