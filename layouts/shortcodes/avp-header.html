@@ -67,7 +67,11 @@
     </div>
     <div class="avp-facts__item">
       <dt>Candidatures jusqu'au</dt>
-      <dd>{{ $p.Params.date_cloture | default "non précisé" }}</dd>
+      <dd>{{ $p.Params.date_cloture | default "non précisé" }}
+        {{- /* Avis prolongé : la source a reporté la date limite (le moteur garde la
+               première date dans `date_cloture_initiale`). Le dire évite qu'un candidat
+               qui a noté l'ancienne date croie l'offre close. */ -}}
+        {{- with $p.Params.date_cloture_initiale }} <span class="badge badge-warning" title="Date limite reportée, initialement le {{ . }}">Prolongée</span>{{ end }}</dd>
     </div>
     <div class="avp-facts__item">
       <dt>Lieu de travail</dt>

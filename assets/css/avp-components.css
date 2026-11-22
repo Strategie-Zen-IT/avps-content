@@ -1838,3 +1838,13 @@ article .R-taxonomy.tags a.term-link {
 @media (min-width: 48rem) {
   .avp-app-banniere { display: none; }
 }
+
+/* --- Avis prolongé : la date limite a été reportée par l'employeur ----------------
+   Le badge « Prolongée » réutilise .badge-warning ; cette ligne détaille la date
+   d'origine sous l'échéance du bloc Candidater. */
+.avp-apply__prolongee {
+  display: block;
+  margin-top: 0.3rem;
+  font-size: 0.85em;
+  opacity: 0.85;
+}

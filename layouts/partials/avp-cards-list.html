@@ -22,6 +22,7 @@
       <div class="avp-card__top">
         {{- with $fam }}<span class="avp-card__famille">{{ . }}</span>{{ end }}
         <span class="avp-urgency-badge" data-cloture="{{ .Params.date_cloture }}"></span>
+        {{- with .Params.date_cloture_initiale }}<span class="badge badge-warning" title="Date limite reportée, initialement le {{ . }}">Prolongée</span>{{ end }}
       </div>
 
       <h3 class="avp-card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>

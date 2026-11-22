@@ -31,6 +31,7 @@
       "province"     (index (.Params.provinces | default slice) 0 | default "")
       "corps"        (.Params.corps_grade | default "")
       "cloture"      (.Params.date_cloture | default "")
+      "cloture_initiale" (.Params.date_cloture_initiale | default "")
       "dispo"        (.Params.disponibilite | default "")
       "metier"       (.Params.metier_ref_nom | default "")
       "resume"       (.Params.summary | default "")

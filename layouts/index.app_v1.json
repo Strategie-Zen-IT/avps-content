@@ -97,6 +97,7 @@
         "publiee"      $publiee
         "modifiee"     $modifiee
         "cloture"      (.Params.date_cloture | default "")
+      "cloture_initiale" (.Params.date_cloture_initiale | default "")
         "dispo"        (.Params.disponibilite | default "")
         "lat"          (cond (eq $lat false) nil $lat)
         "lon"          (cond (eq $lon false) nil $lon)

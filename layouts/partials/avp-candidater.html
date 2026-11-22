@@ -27,6 +27,9 @@
       {{- with $p.Params.date_cloture }}
         Candidatures jusqu'au <strong>{{ . }}</strong>
         <span class="avp-urgency-badge" data-cloture="{{ . }}"></span>
+        {{- with $p.Params.date_cloture_initiale }}
+        <span class="avp-apply__prolongee">Date limite reportée par l'employeur, initialement le {{ . }}.</span>
+        {{- end }}
       {{- else }}Date limite non précisée sur l'avis.{{ end }}
     </p>
 
