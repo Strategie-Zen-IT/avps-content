@@ -15,7 +15,7 @@
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Au moins égale à 10 ans"
+        "value": "au moins égale à 10 ans"
       },
       {
         "@type": "PropertyValue",
@@ -44,11 +44,11 @@
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": "http://www.province-nord.nc",
+  "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
+    "@type": "AreaServed",
     "name": "Koumac",
     "address": {
       "@type": "PostalAddress",
@@ -70,17 +70,17 @@
   "educationRequirements": {
     "credentialCategory": "Capacité en orthophonie",
     "competencyRequired": [
-      "Connaissance de la réglementation relative à la protection sociale et des professions sanitaires",
-      "Connaissance des réalités locales"
+      "connaissance de la réglementation relative à la protection sociale et des professions sanitaires",
+      "connaissance des réalités locales"
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 10 ans.",
-  "employerOverview": "La DASSPS comprend une direction, des services centraux et décentralisés regroupés en quatre (4) pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux.",
+  "employerOverview": null,
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Centre Mère Enfant",
-    "url": null,
+    "name": "Province-Nord",
+    "url": "http://www.province-nord.nc",
     "logo": null
   },
   "estimatedSalary": null,
@@ -131,19 +131,19 @@
     "La formation des professionnels de santé des centres médico-sociaux œuvrant dans le domaine de la PMI",
     "La mise en place de prévention précoce en orthophonie"
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Maîtrise des logiciels de bureautique (Excel et Word)",
-    "Aptitude au travail interdisciplinaire en particulier en liaison avec les enseignants du secteur et les praticiens des centres médico-sociaux et de l'antenne décentralisée du centre hospitalier spécialisé",
-    "Qualités relationnelles",
-    "Esprit d'initiative et disponibilité"
+    "maîtrise des logiciels de bureautique (Excel et Word)",
+    "aptitude au travail interdisciplinaire en particulier en liaison avec les enseignants du secteur et les praticiens des centres médico-sociaux et de l'antenne décentralisée du centre hospitalier spécialisé",
+    "qualités relationnelles",
+    "esprit d'initiative et disponibilité"
   ],
   "specialCommitments": "Missions sur un secteur étendu : communes de la Côte Ouest",
   "title": "Orthophoniste (Koumac)",
   "totalJobOpenings": 1,
-  "validThrough": "2026-11-20",
+  "validThrough": "2026-11-27",
   "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
