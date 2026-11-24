@@ -7,18 +7,18 @@
     "superieurHierarchique": "Chef de bureau de proximité des soins",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Chef du Bureau de Proximité de Soins (BPS) du Pôle Soins",
-      "Médecin"
+      "Chef du Bureau de Proximité de Soins",
+      "Pôle Soins"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "au moins égale 5 ans"
+        "value": "Au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
-        "name": "Astreintes",
+        "name": "Caractéristiques particulières de l'emploi",
         "value": "Ce poste est soumis à astreinte de nuit"
       },
       {
@@ -47,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
+    "@type": "Place",
     "name": "CMS de POUEBO",
     "address": {
       "@type": "PostalAddress",
@@ -67,7 +67,7 @@
   "datePosted": "2026-08-07",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'état infirmier",
+    "credentialCategory": "Diplôme d'état",
     "competencyRequired": [
       "Diplôme d'état infirmier exigé",
       "Expérience du travail en poste isolé",
@@ -75,24 +75,24 @@
     ]
   },
   "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale 5 ans",
-  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles (administration générale, Solidarité, Prévention et promotion de la santé, Soins), 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
+  "employerOverview": "La Direction des Affaires sanitaires, sociales, de la Prévention et de la Solidarité est organisée en 4 pôles, 8 services et 14 bureaux. La DASSPS comprend 249 agents.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "PROVINCE NORD",
-    "url": "https://www.province-nord.nc",
+    "name": "CMS de POUEBO",
+    "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience du travail en poste isolé, Expérience des urgences",
+  "experienceRequirements": "Expérience du travail en poste isolé et expérience des urgences exigées.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
     "url": "https://www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -122,9 +122,9 @@
   },
   "responsibilities": [
     "Assurer sa fonction en conformité avec les textes régissant la profession et les protocoles organisationnels spécifiques définis institutionnellement et en équipe",
-    "Réaliser les actes curatifs (consultations, urgences, soins)",
-    "Réaliser les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
-    "Réaliser les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
+    "Prendre en charge les actes curatifs (consultations, urgences, soins)",
+    "Prendre en charge les actes préventifs (vaccinations, dépistages, PMI, santé scolaire, médecine du travail, suivi des maladies chroniques...)",
+    "Prendre en charge les actes éducatifs (hygiène de vie, éducation thérapeutique des patients chroniques, santé scolaire…)",
     "Assurer la téléconsultation (en l'absence de médecin en présentiel)",
     "Assurer l'encadrement des stagiaires, notamment les étudiants infirmiers"
   ],
@@ -133,7 +133,8 @@
   "sensoryRequirement": null,
   "skills": [
     "Maîtrise des logiciels de bureautique (Excel et Word)",
-    "Disponibilité et rigueur",
+    "Disponibilité",
+    "Rigueur",
     "Respect de la confidentialité des informations et du secret médical",
     "Sens des responsabilités",
     "Goût des relations humaines",
@@ -144,7 +145,7 @@
   "specialCommitments": "Astreinte de nuit",
   "title": "2 Infimier(e)s en soins généraux à Pouebo",
   "totalJobOpenings": 2,
-  "validThrough": "2026-11-06",
+  "validThrough": "2026-12-04",
   "workHours": "Astreinte de nuit",
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
