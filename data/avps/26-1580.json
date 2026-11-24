@@ -2,20 +2,21 @@
   "additionalType": {
     "corpsDomaine": "Sage femme",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "Services des Métiers de Soins/Bureau Santé au Féminin",
+    "uniteOrganisationnelle": "Bureau Santé au Féminin",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef de Bureau Santé au Féminin et médecin chef",
-    "placeOrganigramme": "Bureau Santé au Féminin de Service des Métiers de Soins faisant partie du Pôle Soins",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Réseau périnatalité",
       "Réseau social",
-      "Médecin et/ou obstétricien"
+      "Médecins",
+      "Obstétriciens"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "inférieure à 3 ans"
+        "value": "Inférieure à 3 ans"
       },
       {
         "@type": "PropertyValue",
@@ -30,7 +31,7 @@
     ]
   },
   "alternateName": null,
-  "description": "La DASSPS compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (administration générale, solidarité, prévention et promotion de la santé, soins), 8 services et 14 bureaux. Le Bureau Santé au Féminin de Service des Métiers de Soins faisant partie du Pôle Soins compte 7 agents (1 chef de bureau, 6 sages-femmes).",
+  "description": "Placée sous l'autorité du chef de Bureau Santé au Féminin et du médecin chef, dans le cadre d’une polyvalence de secteur et au sein d’une équipe pluridisciplinaire, la personne retenue devra assurer les actes curatifs et préventifs de sage-femme, participer à l’application des programmes d’intervention et de promotion de la santé et à la permanence de soins.",
   "disambiguatingDescription": null,
   "identifier": "26-1580",
   "image": null,
@@ -59,17 +60,16 @@
   "educationRequirements": {
     "credentialCategory": "Diplôme d'état de sage-femme",
     "competencyRequired": [
-      "Être titulaire du diplôme d'état de sage-femme",
-      "Compétences en échographie exigées"
+      "Compétences en échographie"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La DASSPS compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (administration générale, solidarité, prévention et promotion de la santé, soins), 8 services et 14 bureaux.",
+  "employerOverview": "La DASSPS compte 249 agents. Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (administration générale, solidarité, prévention et promotion de la santé, soins), 8 services et 14 bureaux. Le Bureau Santé au Féminin de Service des Métiers de Soins faisant partie du Pôle Soins compte 7 agents (1 chef de bureau, 6 sages-femmes).",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Bureau Santé au Féminin",
-    "url": null,
+    "name": "PROVINCE NORD",
+    "url": "https://www.province-nord.nc",
     "logo": null
   },
   "estimatedSalary": null,
@@ -104,14 +104,12 @@
     "Santé publique soins"
   ],
   "physicalRequirement": null,
-  "qualifications": "Être titulaire du permis de conduire B",
+  "qualifications": "Permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Sage-femme"
   },
   "responsibilities": [
-    "Assurer les actes curatifs et préventifs de sage-femme",
-    "Participer à l'application des programmes d'intervention et de promotion de la santé et à la permanence de soins",
     "Mise en place des orientations politiques et administratives, en lien avec le réseau périnatalité",
     "Suivi des grossesses avec orientation vers le médecin et/ou l'obstétricien si pathologie",
     "Suivi gynécologique, la contraception, l'IVG, les dépistages (cancer du col, cancer du sein, IST)",
@@ -140,7 +138,7 @@
   "specialCommitments": "Permanence de soins",
   "title": "Sage-femme",
   "totalJobOpenings": 1,
-  "validThrough": "2026-11-13",
+  "validThrough": "2026-12-04",
   "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
