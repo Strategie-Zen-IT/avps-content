@@ -2,27 +2,22 @@
   "additionalType": {
     "corpsDomaine": "Assistant socio-éducatif",
     "direction": "PROVINCE NORD",
-    "uniteOrganisationnelle": "Service de l'Action Sociale (SAS) du Pôle Solidarité",
+    "uniteOrganisationnelle": "Service de l’Action Sociale (SAS)",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef de service",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Magistrats",
       "Service de l'aide sociale à l'enfance",
       "Service de l'action sociale",
+      "Magistrats",
       "Institutions",
-      "Services et associations œuvrant dans le domaine social et de la protection de l'enfance"
+      "Services et associations œuvrant dans le domaine social et de la protection de l’enfance"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
         "value": null
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Date de clôture initiale",
-        "value": "16/10/2026"
       },
       {
         "@type": "PropertyValue",
@@ -59,14 +54,13 @@
   "datePosted": "2026-09-04",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme d'Etat d'assistant de service social",
+    "credentialCategory": "Diplôme d’Etat d’assistant de service social",
     "competencyRequired": [
-      "diplôme d'Etat d'assistant de service social (obligatoire)",
       "connaissance des réalités locales"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "Par délibération n° 68/89 du 29 décembre 1989, l’Assemblée de la province Nord a créé la Direction Provinciale des Affaires Sanitaires et Sociales de la Province Nord. Depuis le 1er mars 2023, par délibération n° 2023-03/APN du 27 janvier 2023, cette direction est dénommée, Direction des Affaires Sanitaires et Sociale, de la Prévention et de la Solidarité (DASSPS). Elle comprend une direction, des services centraux et décentralisés regroupés en quatre pôles. Le Service de l’Action Sociale (SAS) du Pôle Solidarité compte 14 agents (1 chef de service, 13 assistantes sociales).",
+  "employerOverview": "Par délibération n° 68/89 du 29 décembre 1989, l’Assemblée de la province Nord a créé la Direction Provinciale des Affaires Sanitaires et Sociales de la Province Nord. Depuis le 1er mars 2023, par délibération n° 2023-03/APN du 27 janvier 2023, cette direction est dénommée, Direction des Affaires Sanitaires et Sociale, de la Prévention et de la Solidarité (DASSPS). Elle comprend une direction, des services centraux et décentralisés regroupés en quatre (4) pôles. Le Service de l’Action Sociale (SAS) du Pôle Solidarité compte 14 agents (1 chef de service, 13 assistantes sociales)",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -101,7 +95,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiatement",
+  "jobStartDate": null,
   "occupationalCategory": [
     "Action sociale"
   ],
@@ -140,7 +134,7 @@
   "specialCommitments": null,
   "title": "Assistant(e) social(e) de secteur - Ponérihouen",
   "totalJobOpenings": 1,
-  "validThrough": "2026-11-06",
+  "validThrough": "2026-12-04",
   "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
