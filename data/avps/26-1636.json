@@ -15,7 +15,7 @@
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
-        "value": "Au moins égale à 10 ans."
+        "value": "Au moins égale à 10 ans"
       },
       {
         "@type": "PropertyValue",
@@ -31,7 +31,7 @@
   },
   "alternateName": null,
   "description": "La DASSPS comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux.",
-  "disambiguatingDescription": "Poste d'orthophoniste basé à Poindimié, rattaché à la Direction des affaires sanitaires et sociales, de la prévention et de la solidarité.",
+  "disambiguatingDescription": null,
   "identifier": "26-1636",
   "image": null,
   "mainEntityOfPage": null,
@@ -39,21 +39,21 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "http://www.province-nord.nc"
+    "url": "www.province-nord.nc"
   },
   "potentialAction": null,
   "sameAs": null,
   "subjectOf": null,
-  "url": "http://www.province-nord.nc",
+  "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Schedule",
-    "name": "Hôtel de la province Nord",
+    "@type": "Place",
+    "name": "Province-Nord",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "41 avenue Jimmy Welepane",
-      "addressLocality": "Koné",
+      "streetAddress": null,
+      "addressLocality": "Poindimié",
       "addressRegion": "Province Nord",
       "addressCountry": "NC",
       "province": "province Nord"
@@ -70,30 +70,29 @@
   "educationRequirements": {
     "credentialCategory": "Capacité en orthophonie",
     "competencyRequired": [
-      "Être titulaire d'une capacité en orthophonie",
       "Connaissance de la réglementation relative à la protection sociale et des professions sanitaires",
       "Connaissance des réalités locales"
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans.",
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 10 ans.",
   "employerOverview": "La DASSPS comprend une direction, des services centraux et décentralisés regroupés en quatre pôles (Administration Générale, Solidarité, Prévention et Promotion de la Santé, Soins), 8 services et 14 bureaux.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Province-Nord",
+    "name": "Centre Mère Enfant",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Non spécifié",
+  "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Nord",
-    "url": "http://www.province-nord.nc"
+    "url": "www.province-nord.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique soins",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
@@ -144,7 +143,7 @@
   "specialCommitments": "Missions sur un secteur étendu : communes de la Côte Est",
   "title": "Orthophoniste (Poindimié)",
   "totalJobOpenings": 1,
-  "validThrough": "2026-11-20",
+  "validThrough": "2026-12-04",
   "workHours": null,
   "champs_open_data": 7,
   "employeur_sigle": "PVN",
