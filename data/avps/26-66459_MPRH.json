@@ -8,7 +8,7 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Service de l'eau de la DAVAR",
-      "Office Français de la Biodiversité (OFB) en Nouvelle-Calédonie",
+      "Office Français de la Biodiversité (OFB)",
       "Service technique d'assistance aux communes (STAC)",
       "Société Industrielle des Eaux du Mont-Dore (SIEM)"
     ],
@@ -16,12 +16,17 @@
       {
         "@type": "PropertyValue",
         "name": "Type de mission",
-        "value": "Mission ponctuelle de remplacement d'un agent placé en position de disponibilité pour convenances personnelles pour une durée de 1 an"
+        "value": "Mission ponctuelle de remplacement d'un agent placé en position de disponibilité pour convenances personnelles"
       },
       {
         "@type": "PropertyValue",
-        "name": "Missions de terrain",
-        "value": "Des missions de terrain sont à prévoir sur l'ensemble du territoire de la Nouvelle-Calédonie."
+        "name": "Durée de la mission",
+        "value": "1 an"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Déplacements",
+        "value": "Des missions de terrain sont à prévoir sur l'ensemble du territoire de la Nouvelle-Calédonie"
       },
       {
         "@type": "PropertyValue",
@@ -62,7 +67,7 @@
   },
   "alternateName": null,
   "description": "Placé(e) sous l'autorité du chef du bureau santé environnement, le/la chargé(e) d'études aura pour mission principale d'analyser les risques sanitaires pour la santé humaine, puis de proposer, mettre en œuvre, suivre et évaluer des programmes d'action, de contrôle, de prévention et de protection en matière de santé environnementale concernant notamment les eaux de consommation humaine (eaux du robinet et eaux conditionnées). \n\nL'ensemble de ces missions s'inscrit pleinement dans une approche transversale « One Health » (Une seule santé), à l'interface entre santé humaine, environnement et préservation des ressources en eau. \n\nDans le cadre de ses fonctions, le/la chargé(e) d'études sera amené(e) à rédiger des notes, rapports, courriers divers et à contribuer à l'élaboration de textes réglementaires en partenariat avec les autres directions du gouvernement de la Nouvelle-Calédonie. Il/Elle participera à la structuration et à la mise à jour des bases de données du bureau. Des missions de terrain sont à prévoir sur l'ensemble du territoire de la Nouvelle-Calédonie.",
-  "disambiguatingDescription": "Remplacement temporaire d'un an d'un chargé d'études spécialisé dans la gestion des risques sanitaires liés aux eaux de consommation humaine.",
+  "disambiguatingDescription": "Remplacement d'un agent en disponibilité pour convenances personnelles pour une durée de 1 an sur le domaine des eaux de consommation humaine.",
   "identifier": "26-66459/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -124,7 +129,7 @@
     "name": "Direction des affaires sanitaires et sociales (DASS)",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "B.P M2",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -142,7 +147,7 @@
   "qualifications": null,
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Chargé d'études en santé environnementale - eaux de consommation humaine"
+    "name": "Chargé d'études d'impact environnemental"
   },
   "responsibilities": [
     "Activités principales",
