@@ -8,12 +8,14 @@
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Agents de la DINUM",
-      "Directions métiers"
+      "Directions métiers",
+      "Partenaires locaux ou nationaux",
+      "Prestataires d'intégration des briques collaboratives"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée du contrat",
+        "name": "Durée de la mission",
         "value": "Un an, renouvelable"
       },
       {
@@ -115,7 +117,7 @@
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Système d'information",
+  "industry": "Service public",
   "jobBenefits": null,
   "jobDuration": "1 an",
   "jobImmediateStart": true,
@@ -124,7 +126,7 @@
     "name": "Direction du numérique et de la modernisation",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "B.P M2",
+      "streetAddress": null,
       "addressLocality": "Nouméa - Ouémo",
       "addressRegion": "Province Sud",
       "addressCountry": "NC"
