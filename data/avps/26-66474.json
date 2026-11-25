@@ -2,13 +2,13 @@
   "additionalType": {
     "corpsDomaine": "Ingénieur",
     "direction": "DIRECTION DE L'INDUSTRIE, DES MINES ET DE L'ENERGIE",
-    "uniteOrganisationnelle": "Section Techniques Industrielles",
+    "uniteOrganisationnelle": "Service de l'industrie",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Chef de la section Techniques industrielles",
-    "placeOrganigramme": null,
+    "placeOrganigramme": "Sous l'autorité directe du chef de la section Techniques industrielles",
     "relationsFonctionnelles": [
-      "Autorité de Sûreté Nucléaire",
-      "Institut de Radioprotection et de Sûreté Nucléaire",
+      "Autorité de Sûreté Nucléaire (ASN)",
+      "Institut de Radioprotection et de Sûreté Nucléaire (IRSN)",
       "Douanes",
       "Haut-Commissariat",
       "Provinces",
@@ -18,12 +18,12 @@
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
-        "value": "Ingénieur 1er et 2ème grade domaine de l'équipement : au moins égale à 5 ans"
+        "value": "Au moins égale à 5 ans pour le recrutement sur titre"
       },
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Déplacements fréquents sur l'ensemble du territoire de la Nouvelle-Calédonie. Utilisation de matériel spécifique de contrôle, horaires atypiques ponctuels, environnement à risques potentiels et risques de mise en cause de la responsabilité pénale individuelle."
+        "value": "Déplacements fréquents sur l'ensemble du territoire de la Nouvelle-Calédonie, utilisation de matériel spécifique de contrôle, horaires atypiques ponctuels, environnement à risques potentiels et risques de mise en cause de la responsabilité pénale individuelle."
       },
       {
         "@type": "PropertyValue",
@@ -64,7 +64,7 @@
   },
   "alternateName": null,
   "description": "Sous l'autorité directe du chef de la section « Techniques industrielles », l'inspecteur(trice) a pour mission d'assurer la bonne application des politiques publiques et de la réglementation en matière de prévention des risques radiologiques et environnementaux. Il/elle contribue, par son action quotidienne d'instruction et d'inspection sur le terrain, à garantir la sécurité sanitaire de la Nouvelle-Calédonie, tout en sécurisant la responsabilité juridique de l'État vis-à-vis de ses engagements internationaux (Convention de Bâle). Ce poste centralise les compétences pour agir en tant que référent administratif et technique sur ces deux thématiques à forts enjeux.",
-  "disambiguatingDescription": "Inspecteur de l'industrie et des mines chargé de la radioprotection et du transport transfrontalier de déchets",
+  "disambiguatingDescription": null,
   "identifier": "26-66474",
   "image": null,
   "mainEntityOfPage": null,
@@ -80,7 +80,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Area",
+    "@type": "AreaServed",
     "name": "Nouméa",
     "address": {
       "@type": "PostalAddress",
@@ -114,13 +114,13 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Service de l'industrie",
+    "name": "Section Techniques Industrielles",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Diplôme scientifique de niveau BAC+5 requis",
+  "experienceRequirements": null,
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Nouvelle-Calédonie"
@@ -132,7 +132,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "DIMENC - Service de l'industrie",
+    "name": "DIMENC",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
