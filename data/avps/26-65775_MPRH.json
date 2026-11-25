@@ -4,7 +4,7 @@
     "direction": "DIRECTION DES RESSOURCES HUMAINES ET DE LA FONCTION PUBLIQUE DE NOUVELLE-CALEDONIE",
     "uniteOrganisationnelle": "Service gestion des carrières des fonctionnaires",
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": "Chef de section",
+    "superieurHierarchique": null,
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Employeurs publics"
@@ -86,7 +86,7 @@
       "Politique de la collectivité en matière RH."
     ]
   },
-  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre",
+  "eligibilityToWorkRequirement": null,
   "employerOverview": "Le service gestion des carrières des fonctionnaires est organisé en quatre sections :\n1° section gestion carrières 1 ;\n2° section gestion carrières 2 ;\n3° section gestion carrières 3 ;\n4° section gestion des commissions administratives paritaires\nIl est chargé de mettre en œuvre les dispositifs statutaires relatifs à la carrière des fonctionnaires de Nouvelle-Calédonie.\nIl est à ce titre, plus particulièrement chargé des missions suivantes :\n1° la préparation des actes et décisions qui concourent à la gestion, tant individuelle que collective, de la carrière\ndes agents relevant des fonctions publiques de Nouvelle-Calédonie, sous réserve des compétences attribuées\npar la réglementation aux autorités de nomination autres que le président du gouvernement de Nouvelle-Calédonie ou de celles confiées en gestion par convention à la Nouvelle-Calédonie ;\n2° la gestion des commissions administratives paritaires y compris lorsqu'elles se réunissent en formation\ndisciplinaire ;\n3° l'animation du réseau des employeurs publics et l'assistance à ces mêmes employeurs dans les matières\nrelevant des attributions du service.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
@@ -109,10 +109,10 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Nouméa",
+    "name": "DRHFPNC",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "18 avenue Paul Doumer",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -144,7 +144,7 @@
     "Partage des compétences entre sections",
     "Formation des nouveaux agents de la section aux méthodes de travail, au SIRH, en collaboration avec le chef de section."
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
