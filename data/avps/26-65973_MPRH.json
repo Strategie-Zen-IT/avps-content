@@ -2,13 +2,13 @@
   "additionalType": {
     "corpsDomaine": "Ingénieur / technicien",
     "direction": "DIRECTION DU NUMERIQUE ET DE LA MODERNISATION",
-    "uniteOrganisationnelle": "Section réseau et datacenter",
+    "uniteOrganisationnelle": "Section réseau et datacenter (SRD)",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": null,
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Service infrastructures",
-      "Section réseau et datacenter"
+      "Service des infrastructures numériques (SIN)"
     ],
     "informationsLibres": [
       {
@@ -60,7 +60,7 @@
   },
   "alternateName": null,
   "description": "La Direction du Numérique et de la Modernisation (DINUM) est chargée de définir et d'assurer la mise en œuvre de la politique de développement numérique du gouvernement de la Nouvelle-Calédonie en articulation avec la stratégie générale de la collectivité notamment en matière de transformation numérique de l'action publique, de simplification et de modernisation des services rendus grâce au numérique, de pilotage de la performance par le levier du numérique, de développement de l'économie numérique et de développement de l'innovation technologique. Elle vise également à développer des synergies avec les usagers internes, externes, et les entreprises. \n\nEn définissant en 2024 sa doctrine d'utilisation de l'informatique en nuage au sein de l'administration de la Nouvelle-Calédonie, le gouvernement entend poser un cadre serein et de confiance pour encourager le développement d'une nouvelle génération de services numériques de qualité,  tout en protégeant au mieux les données des entreprises et des habitants de la Nouvelle-Calédonie.\n\nAu-delà des technologies et des offres de services, c'est un changement de culture qui s'engage, afin que les équipes projets et les développeurs, mais aussi les utilisateurs, inscrivent les opportunités du cloud dans leurs pratiques professionnelles au quotidien.\n\nAu sein de la DINUM, c'est la section réseau et datacenter (SRD) du service des infrastructures numériques (SIN) qui évolue pour prendre en charge la mise en œuvre des outils IAAS, PAAS, CAAS de la collectivité, opérer le cloud interne et piloter le cloud externe dédié.\n\nL'administrateur datacenter assure l'administration, la gestion et le maintien en condition opérationnelle et de sécurité des réseaux, des infrastructures et du système de sauvegarde. Il contribue à leur évolution et à leur amélioration en fonction du schéma directeur.",
-  "disambiguatingDescription": "Administrateur Datacenter au sein de la section réseau et datacenter de la DINUM.",
+  "disambiguatingDescription": null,
   "identifier": "26-65973/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -75,18 +75,7 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": {
-    "@type": "LandmarksOrHistoricalBuildings",
-    "name": "Direction du numérique et de la modernisation",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": null,
-      "addressLocality": "Nouméa",
-      "addressRegion": "Province Sud",
-      "addressCountry": "NC",
-      "province": "province Sud"
-    }
-  },
+  "applicantLocationRequirements": null,
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "27.58.88",
@@ -123,7 +112,7 @@
   "employmentType": "TEMPORARY",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Service infrastructures",
+    "name": "Nouvelle-Calédonie",
     "url": null,
     "logo": null
   },
@@ -135,16 +124,16 @@
     "name": "Nouvelle-Calédonie"
   },
   "incentiveCompensation": null,
-  "industry": "Système d'information",
+  "industry": "Service public",
   "jobBenefits": null,
   "jobDuration": "1 an",
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Direction du numérique et de la modernisation",
+    "name": "Direction du numérique et de la modernisation (DINUM)",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "B.P M2",
       "addressLocality": "Nouméa - Ouémo",
       "addressRegion": "Province Sud",
       "addressCountry": "NC"
