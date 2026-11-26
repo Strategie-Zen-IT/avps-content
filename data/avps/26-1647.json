@@ -15,13 +15,13 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Cadre d'emploi alternatif",
-        "value": "Professeur des écoles ou instituteur"
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements possibles sur l'ensemble de la province Sud."
       },
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Déplacements possibles sur l'ensemble de la province Sud."
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
       },
       {
         "@type": "PropertyValue",
@@ -30,9 +30,9 @@
       }
     ]
   },
-  "alternateName": null,
+  "alternateName": "Chef de service éducatif de proximité",
   "description": "Rattachée au pôle développement et épanouissement de la personne, la direction de l’éducation et de la réussite de la province Sud (DERES) a pour mission de garantir l’épanouissement de la jeunesse plurielle dans un environnement éducatif, propice à la réussite quel que soit le niveau du système scolaire et de favoriser le bien-être de ses personnels.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "Le service éducatif de proximité est chargé principalement des inscriptions scolaires, de la gestion prévisionnelle des effectifs, de l'organisation des écoles primaires publiques, du pilotage des actions éducatives, du soutien aux écoles, et de la scolarisation des élèves à besoins éducatifs particuliers.",
   "identifier": "26-1647",
   "image": null,
   "mainEntityOfPage": null,
@@ -87,16 +87,16 @@
     "url": "https://www.province-sud.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Education",
+  "industry": "Éducation",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Direction de l’Éducation et de la Réussite",
+    "name": "Province Sud",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "6 route des artifices",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -105,7 +105,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiatement",
+  "jobStartDate": null,
   "occupationalCategory": [
     "Education",
     "Administration générale"
@@ -117,20 +117,20 @@
     "name": "Responsable administratif"
   },
   "responsibilities": [
-    "Piloter le service éducatif de proximité et de coordonner l’activité des agents placés sous sa responsabilité",
+    "Piloter le service éducatif de proximité et coordonner l’activité des agents placés sous sa responsabilité",
     "Veiller à la bonne réalisation de l’ensemble des actions éducatives de la collectivité et d'en évaluer les résultats",
     "Participer à la préparation de la carte scolaire, en lien avec le chargé de mission proximité ainsi que l'ensemble des partenaires",
     "Piloter la scolarisation des élèves, y compris des élèves à besoins particuliers",
     "Piloter la coordination des d'accompagnement des élèves à besoins éducatif particuliers (BEP) ou en situation d'handicap (SH)",
     "Veiller à la qualité, notamment administrative et financière, de l’exhaustivité des documents issus du service",
-    "Accompagner les directeurs d'école dans l'exercice de leurs fonctions",
+    "D'accompagner les directeurs d'école dans l'exercice de leurs fonctions",
     "Veiller à la bonne relation avec les familles",
-    "Organiser et de structurer l'accompagnement des familles, notamment celles accueillant des enfants BEP ou SH",
-    "S’informer des évolutions en matière de politique éducative en Nouvelle-Calédonie et hors de la Nouvelle-Calédonie",
-    "Être force de propositions pour améliorer l’efficience du service",
-    "Contribuer à la mise à jour et au développement des outils de gestions Educasud",
-    "Mettre en œuvre la transversalité entre le SEP et les autres acteurs de la direction, de la collectivité et les partenaires institutionnels",
-    "Rendre compte de l’activité du service, d'évaluer (suivi des indicateurs et tableaux de bord) et d'en valoriser les actions",
+    "D'organiser et de structurer l'accompagnement des familles, notamment celles accueillant des enfants BEP ou SH",
+    "De s’informer des évolutions en matière de politique éducative en Nouvelle-Calédonie et hors de la Nouvelle-Calédonie",
+    "D'être force de propositions pour améliorer l’efficience du service",
+    "De contribuer à la mise à jour et au développement des outils de gestions Educasud",
+    "De mettre en œuvre la transversalité entre le SEP et les autres acteurs de la direction, de la collectivité et les partenaires institutionnels",
+    "De rendre compte de l’activité du service, d'évaluer (suivi des indicateurs et tableaux de bord) et d'en valoriser les actions",
     "Représenter la direction devant les institutions partenaires et/ou les usagers"
   ],
   "salaryCurrency": null,
