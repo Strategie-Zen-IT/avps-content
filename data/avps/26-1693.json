@@ -17,7 +17,7 @@
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée",
-        "value": "pour ingénieur 2ème grade domaine informatique ou numérique : au moins égale à 5 ans"
+        "value": "Pour ingénieur 2ème grade domaine informatique ou numérique : au moins égale à 5 ans"
       },
       {
         "@type": "PropertyValue",
@@ -33,7 +33,7 @@
   },
   "alternateName": null,
   "description": "La province Sud place l'usager au cœur de ses priorités et a pour ambition de mener une véritable stratégie client. Leader en matière d'e-administration sur le territoire, son objectif est de tendre vers une administration 100% numérique afin de moderniser, de simplifier et d'optimiser les procédures administratives et les démarches des usagers. La direction du système d'information et du numérique de la province Sud (DSIN) tient un rôle essentiel dans la transformation opérée par la collectivité, et est responsable de la politique de développement du numérique. Sa nouvelle ambition est de faire de la donnée un axe prioritaire, et d'intégrer l'intelligence artificielle dans ses outils pour améliorer la performance de ses services.",
-  "disambiguatingDescription": null,
+  "disambiguatingDescription": "En qualité de chef projet Data, vous jouerez un rôle clé dans la mise en œuvre de la stratégie d’innovation de la collectivité dans sa gestion et son exploitation des données (DATA).",
   "identifier": "26-1693",
   "image": null,
   "mainEntityOfPage": null,
@@ -50,11 +50,11 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "AreaServed",
+    "@type": "Place",
     "name": "Province Sud",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "6 route des artifices",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -70,7 +70,7 @@
   "datePosted": "2026-11-06",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Ingénieur 2ème grade ou ingénieur 3ème grade",
+    "credentialCategory": "Ingénieur",
     "competencyRequired": [
       "Compréhension des enjeux et des opportunités liés à la transformation numérique des services publics",
       "Excellentes connaissances des principes de gestion des données, des méthodologies d'analyse et des outils de business intelligence",
@@ -103,7 +103,7 @@
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Nouméa",
+    "name": "Direction du Système d'Information et du Numérique",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
