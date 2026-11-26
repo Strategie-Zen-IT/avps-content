@@ -4,7 +4,7 @@
     "direction": "PROVINCE SUD",
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
-    "superieurHierarchique": null,
+    "superieurHierarchique": "Chef de service POP",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "Le chef de service POP",
@@ -22,7 +22,7 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Cadre d'emploi / Domaine",
+        "name": "Cadre d'emploi",
         "value": "Ingénieur 1er grade ou ingénieur 2ème grade / Informatique ou Numérique"
       },
       {
@@ -33,8 +33,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La province Sud place l'usager au coeur de ses priorités et a pour ambition de mener une véritable stratégie client. Leader en matière d'e-administration sur le territoire, son objectif est de tendre vers une administration 100% numérique afin de moderniser, de simplifier et d'optimiser les procédures administratives et les démarches des usagers. La direction du système d'information et du numérique de la province Sud (DSIN) tient un rôle essentiel dans la transformation opérée par la collectivité, et est responsable de la politique de développement du numérique. Sa nouvelle ambition est de faire de la donnée un axe prioritaire, et d'intégrer l'intelligence artificielle dans ses outils pour améliorer la performance de ses services.",
-  "disambiguatingDescription": null,
+  "description": "La province Sud place l'usager au cœur de ses priorités et a pour ambition de mener une véritable stratégie client. Leader en matière d'e-administration sur le territoire, son objectif est de tendre vers une administration 100% numérique afin de moderniser, de simplifier et d'optimiser les procédures administratives et les démarches des usagers. La direction du système d'information et du numérique de la province Sud (DSIN) tient un rôle essentiel dans la transformation opérée par la collectivité, et est responsable de la politique de développement du numérique.",
+  "disambiguatingDescription": "Product Manager au sein de la Direction du Système d'Information et du Numérique de la Province Sud.",
   "identifier": "26-1648",
   "image": null,
   "mainEntityOfPage": null,
@@ -42,7 +42,7 @@
   "owner": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc"
+    "url": "http://www.province-sud.nc"
   },
   "potentialAction": null,
   "sameAs": null,
@@ -51,11 +51,11 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "Place",
+    "@type": "AreaServed",
     "name": "Province Sud",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "6 route des artifices",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -82,7 +82,7 @@
     ]
   },
   "eligibilityToWorkRequirement": ".",
-  "employerOverview": "La province Sud place l'usager au coeur de ses priorités et a pour ambition de mener une véritable stratégie client. Leader en matière d'e-administration sur le territoire, son objectif est de tendre vers une administration 100% numérique afin de moderniser, de simplifier et d'optimiser les procédures administratives et les démarches des usagers.",
+  "employerOverview": "La province Sud place l'usager au cœur de ses priorités et a pour ambition de mener une véritable stratégie client. Leader en matière d'e-administration sur le territoire, son objectif est de tendre vers une administration 100% numérique afin de moderniser, de simplifier et d'optimiser les procédures administratives et les démarches des usagers.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
@@ -96,11 +96,11 @@
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
-    "url": "https://www.province-sud.nc"
+    "url": "http://www.province-sud.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Système d'information",
-  "jobBenefits": null,
+  "industry": "Service public",
+  "jobBenefits": "Bénéficier d'opportunités de formation continue et de développement professionnel",
   "jobDuration": null,
   "jobImmediateStart": true,
   "jobLocation": {
@@ -108,7 +108,7 @@
     "name": "Direction du Système d'Information et du Numérique",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "6 route des artifices",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -130,15 +130,15 @@
   "responsibilities": [
     "Définir la feuille de route des produits numériques en accord avec les objectifs de la DSIN et les besoins des utilisateurs",
     "Collaborer avec les équipes techniques et fonctionnelles pour assurer la livraison des produits dans les délais et les budgets impartis",
-    "Analyser les besoins des utilisateurs et de traduire ces exigences en spécifications fonctionnelles et techniques",
-    "Evaluer et de prioriser les demandes de fonctionnalités, les améliorations et les corrections",
-    "Suivre la performance des produits et de proposer des optimisations basées sur les retours utilisateurs et les indicateurs clés de performance",
+    "Analyser les besoins des utilisateurs et traduire ces exigences en spécifications fonctionnelles et techniques",
+    "Évaluer et de prioriser les demandes de fonctionnalités, les améliorations et les corrections",
+    "Suivre la performance des produits et proposer des optimisations basées sur les retours utilisateurs et les indicateurs clés de performance",
     "Gérer le cycle de vie des produits, de la conception à la mise en production et au support",
-    "Rédiger la documentation fonctionnelle et de contribuer à la mise à jour de la base de connaissances",
+    "Rédiger la documentation fonctionnelle et contribuer à la mise à jour de la base de connaissances",
     "Participer aux paramétrages, à la gestion et à l'exploitation des données en phase d'exploitation",
     "Analyser et de prioriser les tickets de support, en assurant leur résolution dans les délais convenus, ou en faisant le lien avec l'équipe technique pour leur résolution"
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
