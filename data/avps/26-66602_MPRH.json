@@ -7,17 +7,22 @@
     "superieurHierarchique": "Chef de pôle référentiel de la construction de la Nouvelle-Calédonie",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Secrétaire général",
-      "Directions du gouvernement de la Nouvelle-Calédonie",
+      "Gouvernement de la Nouvelle-Calédonie",
+      "Directions du gouvernement",
       "Établissements publics",
-      "Comités Techniques d'Evaluation",
-      "Acteurs de la construction"
+      "Acteurs de la construction",
+      "Professionnels du secteur"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
         "name": "Durée de résidence exigée pour le recrutement sur titre",
         "value": "Ingénieur 2e grade domaine équipement : au moins égale à 5 ans."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Modification de la date de clôture",
+        "value": "Modification de la date de clôture initialement prévue le 27/11/2026"
       },
       {
         "@type": "PropertyValue",
@@ -53,7 +58,7 @@
   },
   "alternateName": null,
   "description": "Les missions du pôle « référentiel de la construction de la Nouvelle-Calédonie ont pour finalité d'œuvrer pour la qualité des constructions et la pérennité des ouvrages afin d'améliorer la sécurité des calédoniens et la protection juridique des professionnels du secteur.\n\nLe travail du pôle s'appuie sur l'animation et l'instruction des travaux de(s) comité(s) et de commissions techniques qui sont chargés d'étudier et de mettre en œuvre les préconisations afférentes au référentiel de la construction sur les thématiques du périmètre d'interventions supra.\n\nSous l'autorité du chef de pôle \"référentiel de la construction de la Nouvelle-Calédonie\", le chargé d'études exercera dans les champs de mission suivants :\n- Normes applicables & normes calédoniennes (y compris la réglementation) ;\n- Agrément des matériaux et procédés constructifs ;\n- Agrément des laboratoires d'essais ; \n- Système d'assurance décennale de la construction ; \n- Qualification des acteurs de la construction ; \n- Agrément des contrôleurs techniques et des experts en assurance construction ;\n- Performance de la construction & prévention de la sinistralité (y compris la performance énergétique).",
-  "disambiguatingDescription": "Chargé de projet pour le référentiel de la construction de la Nouvelle-Calédonie au sein de la DAPM.",
+  "disambiguatingDescription": "Chargé de projet pour le pôle référentiel de la construction de la Nouvelle-Calédonie au sein de la DAPM.",
   "identifier": "26-66602/MPRH",
   "image": null,
   "mainEntityOfPage": null,
@@ -68,7 +73,18 @@
   "url": null,
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "29.61.14",
@@ -115,7 +131,7 @@
     "name": "DAPM",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": null,
+      "streetAddress": "18 avenue Paul Doumer - Centre-ville",
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -124,13 +140,13 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": "Immédiatement",
+  "jobStartDate": null,
   "occupationalCategory": [
-    "Patrimoine bâti",
-    "Infrastructures, réseaux, eaux et assainissements"
+    "Infrastructures, réseaux, eaux et assainissements",
+    "Patrimoine bâti"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis B obligatoire.",
+  "qualifications": "Permis B obligatoire",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Ingénieur d'études en bâtiment"
