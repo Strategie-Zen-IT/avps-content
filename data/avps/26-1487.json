@@ -2,19 +2,15 @@
   "additionalType": {
     "corpsDomaine": "Médecin de santé publique",
     "direction": "PROVINCE SUD",
-    "uniteOrganisationnelle": "Unité provinciale d'action sanitaire et sociale (UPASS) de Nouméa",
+    "uniteOrganisationnelle": "Unité provinciale d’action sanitaire et sociale (UPASS) de Nouméa",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Responsable de l'UPASS de Nouméa",
-    "placeOrganigramme": "Sous l'autorité du responsable de l'UPASS de Nouméa",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Service de protection de l'enfance (SPE)",
+      "Service de protection de l’enfance (SPE)",
       "Commissions de reconnaissance du handicap pour les enfants de 0 à 6 ans (CEJH)",
       "CSF",
-      "DPASS",
-      "CMP",
-      "ISA",
-      "UMJP",
-      "Services sociaux"
+      "DPASS"
     ],
     "informationsLibres": [
       {
@@ -25,7 +21,7 @@
       {
         "@type": "PropertyValue",
         "name": "Caractéristiques particulières de l'emploi",
-        "value": "Le poste nécessite autonomie, capacité d'adaptation et prise d'initiatives en concertation avec l'équipe. De nombreux déplacements sur l'ensemble de la province Sud pour la réalisation des missions de santé scolaire sont à prévoir, notamment dans le grand Nouméa, ainsi qu'à Yaté et à l'île des Pins. Hors calendrier scolaire, l'agent pourra être amené à contribuer à d'autres missions de santé publique (CMS)."
+        "value": "Le poste nécessite autonomie, capacité d’adaptation et prise d’initiatives en concertation avec l’équipe. De nombreux déplacements sur l'ensemble de la province Sud pour la réalisation des missions de santé scolaire sont à prévoir, notamment dans le grand Nouméa, ainsi qu'à Yaté et à l'île des Pins. Hors calendrier scolaire, l'agent pourra être amené à contribuer à d'autres missions de santé publique (CMS)."
       },
       {
         "@type": "PropertyValue",
@@ -35,8 +31,8 @@
     ]
   },
   "alternateName": null,
-  "description": "Rattachée au pôle développement et épanouissement de la personne de la province Sud, la direction de l'action sanitaire et sociale (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein de ses services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS) et de ses centres médico-sociaux (CMS) et de ses autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
-  "disambiguatingDescription": "Médecin au centre médico-scolaire rattaché à l'UPASS de Nouméa pour assurer le suivi médico-social des enfants de l'enseignement du premier degré et de 6e.",
+  "description": "Rattachée au pôle développement et épanouissement de la personne de la province Sud, la direction de l’action sanitaire et sociale (DPASS) exerce son action sur l’ensemble du territoire provincial, au sein de ses services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS) et de ses centres médico-sociaux (CMS) et de ses autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS, répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "disambiguatingDescription": "Médecin au centre médico-scolaire au sein de l'UPASS de Nouméa",
   "identifier": "26-1487",
   "image": null,
   "mainEntityOfPage": null,
@@ -67,36 +63,36 @@
       "Titulaire d'un diplôme de médecin",
       "Connaissances de la population néo-calédonienne",
       "Connaissances sur les troubles du développement au sens large type DYS - TDAH",
-      "Concepts de la promotion de la santé au sens de la Charte d'Ottawa",
+      "Concepts de la promotion de la santé au sens de la Charte d’Ottawa",
       "Capacités à prendre en charge avec efficacité et bienveillance un public en situation de vulnérabilité",
-      "Capacités à travailler dans le cadre du réseau en Nouvelle-Calédonie, CMP, ISA, UMJP et des services sociaux et des services de la protection de l'enfance"
+      "Capacités à travailler dans le cadre du réseau en Nouvelle-Calédonie, CMP, ISA, UMJP et des services sociaux et des services de la protection de l’enfance"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La direction de l'action sanitaire et sociale (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein de ses services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS) et de ses centres médico-sociaux (CMS) et de ses autres sites excentrés.",
+  "employerOverview": "La direction de l’action sanitaire et sociale (DPASS) exerce son action sur l’ensemble du territoire provincial, au sein de ses services centraux, de ses unités provinciales d'action sanitaire et sociale (UPASS) et de ses centres médico-sociaux (CMS) et de ses autres sites excentrés.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "Centre de médecine scolaire de Montravel",
+    "name": "Centre de médecine scolaire de l'UPASS de Nouméa",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Expérience en protection maternelle et infantile. Expérience dans le domaine de la protection de l'enfance.",
+  "experienceRequirements": "Expérience en protection maternelle et infantile. Expérience dans le domaine de la protection de l’enfance.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
     "url": "https://www.province-sud.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": false,
   "jobLocation": {
     "@type": "Place",
-    "name": "Centre de médecine scolaire de Montravel",
+    "name": "Centre de médecine scolaire",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Montravel",
@@ -125,19 +121,16 @@
     "Accompagner les familles pour la prise en charge des problématiques de santé repérées, dépistées",
     "Participer à la connaissance et à l'évaluation de l'état de santé des jeunes calédoniens",
     "Assurer la vaccination des enfants de l'enseignement du premier degré public et privé dans le cadre de la médecine préventive et curative",
-    "Participer au dépistage et à la surveillance des mineurs en danger",
-    "Faire des signalements en relation avec le service de protection de l'enfance (SPE) pouvant mener soit à une enquête d'évaluation sociale, soit à une mesure d'accompagnement administrative ou judiciaire, soit à un placement",
-    "Siéger aux commissions de reconnaissance du handicap pour les enfants de 0 à 6 ans (CEJH)",
-    "Participer aux équipes éducatives et valider les PAI (projet d'accueil individisé de l'enfant)",
-    "Participer aux différentes actions et projets de santé communautaire en lien avec le CSF et la DPASS"
+    "Participer au dépistage et à la surveillance des mineurs en danger, effectuer des signalements en relation avec le service de protection de l'enfance (SPE)",
+    "Siéger aux commissions de reconnaissance du handicap pour les enfants de 0 à 6 ans (CEJH), participer aux équipes éducatives et valider les PAI (projet d'accueil individualisé de l'enfant)",
+    "Participer aux différentes actions et projets de santé communautaire en lien avec le CSF, et la DPASS"
   ],
   "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
-    "Autonomie",
-    "Capacité d'adaptation",
-    "Prise d'initiatives",
+    "Expérience en protection maternelle et infantile",
+    "Expérience dans le domaine de la protection de l’enfance",
     "Sens de l'écoute",
     "Empathie",
     "Patience",
@@ -147,7 +140,7 @@
     "Capacités à répondre aux demandes institutionnelles et aux demandes du responsable de service",
     "Disponibilité"
   ],
-  "specialCommitments": "Déplacements possibles à prévoir",
+  "specialCommitments": "Déplacements possibles à prévoir sur l'ensemble de la province Sud (grand Nouméa, Yaté, île des Pins)",
   "title": "Médecin au centre médico-scolaire DPASS",
   "totalJobOpenings": 4,
   "validThrough": "2026-11-27",
