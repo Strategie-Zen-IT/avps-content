@@ -5,10 +5,9 @@
     "uniteOrganisationnelle": "UPASS de Yaté",
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Directrice adjointe de l'action sanitaire et sociale de la province Sud",
-    "placeOrganigramme": "Sous l'autorité de la directrice adjointe de l'action sanitaire et sociale de la province Sud et en lien direct avec le responsable de l'UPASS de Yaté",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "Responsable de l'UPASS de Yaté",
-      "Équipe pluridisciplinaire"
+      "Responsable de l'UPASS de Yaté"
     ],
     "informationsLibres": [
       {
@@ -29,7 +28,7 @@
     ]
   },
   "alternateName": null,
-  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'actions sanitaire et sociale (UPASS) et des centres médico-sociaux (CMS) et des autres sites excentrés. Le médecin généraliste retenu travaillera au sein d'une équipe pluridisciplinaire attachée à la synergie médico-sociale et aux démarches continues d'amélioration de la qualité et de l'évaluation des pratiques professionnelles.",
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'actions sanitaire et sociale (UPASS) et des centres médico-sociaux (CMS) et des autres sites excentrés. Grâce à ce maillage territorial, les services de la DPASS répartis en 4 pôles fonctionnels, contribuent dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales. Le médecin généraliste retenu travaillera au sein d'une équipe pluridisciplinaire attachée à la synergie médico-sociale et aux démarches continues d'amélioration de la qualité et de l'évaluation des pratiques professionnelles.",
   "disambiguatingDescription": null,
   "identifier": "26-1486",
   "image": null,
@@ -56,24 +55,20 @@
   "datePosted": "2026-10-09",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme de médecine",
+    "credentialCategory": "Diplôme de médecin",
     "competencyRequired": [
-      "Titulaire d'un diplôme de médecine, de spécialiste en médecine générale ou en médecine d'urgence",
-      "Titulaire d'un diplôme d'épidémiologie et/ou de santé publique",
-      "Connaissances de la charte d'Ottawa",
-      "Connaissances en obstétrique",
-      "Connaissances en pédiatrie",
-      "Connaissances en santé publique (PMI, médecine scolaire, contraception-IVG dépistage et traitement des IST, etc.)",
-      "Notions du logiciel de gestion des données médicales (ASCLEPIOS)"
+      "Diplôme de médecin, de spécialiste en médecine générale ou en médecine d'urgence",
+      "Diplôme d'épidémiologie et/ou de santé publique",
+      "Connaissances de la charte d'Ottawa"
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins et à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "employerOverview": null,
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "UPASS de Yaté",
-    "url": null,
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
     "logo": null
   },
   "estimatedSalary": null,
@@ -105,8 +100,8 @@
   "jobLocationType": null,
   "jobStartDate": "2027-03-01",
   "occupationalCategory": [
-    "Santé publique soins",
-    "Politique de santé publique"
+    "Politique de santé publique",
+    "Santé publique soins"
   ],
   "physicalRequirement": null,
   "qualifications": "Titulaire du permis de conduire B et d'un véhicule",
@@ -128,6 +123,10 @@
     "Gestion des urgences",
     "Gestion des programmes de prévention et de promotion de la santé au sens de la charte d'Ottawa",
     "Capacité à mener des projets de santé communautaire",
+    "Connaissances en obstétrique",
+    "Connaissances en pédiatrie",
+    "Connaissances en santé publique (PMI, médecine scolaire, contraception-IVG dépistage et traitement des IST, etc.)",
+    "Notions du logiciel de gestion des données médicales (ASCLEPIOS)",
     "Capacités d'adaptation et de souplesse",
     "Réelles capacités relationnelles et d'accueil",
     "Grande motivation",
@@ -136,11 +135,11 @@
     "Ouverture d'esprit",
     "Bonne écoute"
   ],
-  "specialCommitments": "Astreintes, horaires de semaine, de nuit et de week-end pour assurer la continuité des soins",
+  "specialCommitments": "Astreintes, horaires de semaine, de nuit et de week-end",
   "title": "Médecin à l'UPASS de Yaté",
   "totalJobOpenings": 4,
   "validThrough": "2026-11-27",
-  "workHours": "Horaires de semaine, de nuit et de week-end",
+  "workHours": "Horaires pour permettre la continuité des soins de semaine, de nuit et de week-end",
   "champs_open_data": 9,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
