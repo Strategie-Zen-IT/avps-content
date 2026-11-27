@@ -1,0 +1,153 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 2-Diplôme niveau V",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": "Brigade de surveillance provinciale",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chargé de sécurité",
+    "placeOrganigramme": "Sous la gestion directe du chargé de sécurité",
+    "relationsFonctionnelles": [
+      "Superviseurs de terrain",
+      "Rondiers",
+      "Agents de gardiennage et de surveillance"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Horaires flexibles : possibilités de travailler à différents moments de la journée et de la nuit. Travail en extérieur : évoluer dans un environnement varié, loin d'un bureau traditionnel. Bonne condition physique et capacité à travailler en horaires décalés."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957662.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "AVP lancé dans le cadre d'une réorganisation interne. La province Sud a connu de violentes exactions qui ont impacté de nombreux bâtiments publics dont plusieurs relèvent de la province Sud. De plus, la province Sud est compétente en matière de développement économique et veille à permettre la reprise économique suite à ces mêmes exactions. Jouant un rôle crucial dans l'organisation de la mission de détection des risques et la prévention des incidents, le responsable de bureau, rattaché au secrétariat général de la province Sud, et au sein de la brigade de surveillance provinciale, travaillera sous la gestion directe du chargé de sécurité et aura sous sa responsabilité des superviseurs de terrain et des rondiers. Il est chargé de faire le lien opérationnel et organisationnel entre les équipes sur le terrain et le travail administratif en journée et de participer à la structuration et l'organisation du service.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1755",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Responsable du bureau de la surveillance des sites provinciaux",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.31.90",
+    "email": "william.brevi@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-27",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Certificat de formation en sécurité ou qualification similaire recommandé",
+    "competencyRequired": [
+      "Formation aux gestes de premier secours et aux techniques de prévention des risques souhaitée",
+      "Avoir des notions en self-défense"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience dans la surveillance, la sécurité ou un poste similaire appréciée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Secrétariat Général",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6 route des artifices",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Prévention et sécurité"
+  ],
+  "physicalRequirement": "Bonne condition physique",
+  "qualifications": "Permis B exigé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chef d'équipe - responsable d'unité règlementairement constituée"
+  },
+  "responsibilities": [
+    "Assurer la gestion des plannings",
+    "Effectuer le suivi des indicateurs mensuels (nombre de rond effectuée, nombre de kilomètres parcourus, nombre d'anomalies relevées...)",
+    "Organiser le suivi et le ravitaillement du matériel fourni aux agents de gardiennage et de surveillance",
+    "Assurer la recherche et le suivi de produits nouveaux, la veille technique et les consultations pour l'obtention de devis",
+    "Rédiger les feuilles de rondes sur les sites provinciaux",
+    "Réaliser les entretiens annuels d'échanges (EAE) des agents de gardiennage et de surveillance",
+    "Participer au processus de recrutement des agents de gardiennage et de surveillance",
+    "Garantir la gestion et la vérification des rondes effectuées (sites, distances)",
+    "Apporter un support opérationnel durant sa présence terrain sur les alertes"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise des procédures de sécurité",
+    "Capacité à animer et à coordonner une équipe",
+    "Capacité à gérer les situations d'urgence et les incidents, pouvant engendrer une pression importante",
+    "Capacité à rendre compte",
+    "Savoir analyser rapidement une situation, donner les bonnes indications et intervenir en sécurité",
+    "Rigueur",
+    "Sens de l'observation",
+    "Réactivité et sens du contact",
+    "Qualités relationnelles",
+    "Qualités rédactionnelles",
+    "Sens du travail en équipe",
+    "Sens de la communication",
+    "Disponibilité",
+    "Leadership",
+    "Discrétion et devoir de réserve"
+  ],
+  "specialCommitments": null,
+  "title": "Responsable du bureau de la surveillance des sites provinciaux",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-18",
+  "workHours": "Horaires flexibles et décalés (journée et nuit)",
+  "champs_open_data": 7,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Incendie et secours",
+  "famille_source": "respnc",
+  "famille_score": 0.821,
+  "dossier": "incendie-et-secours"
+}
