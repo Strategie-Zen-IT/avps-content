@@ -1,0 +1,164 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "POLITIQUE DE LA VILLE",
+    "uniteOrganisationnelle": "Service du développement de la proximité",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef du service du développement de la proximité",
+    "placeOrganigramme": "Sous l'autorité du chef de service",
+    "relationsFonctionnelles": [
+      "Services opérationnels",
+      "Habitants",
+      "Partenaires",
+      "Services municipaux",
+      "Institutions"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Février 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Sans objet"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955536.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Placée sous l'autorité du secrétaire général adjoint en charge du pôle vie locale, la direction politique de la Ville a pour mission principale de répondre aux ambitions fixées par l'Exécutif municipal avec une Ville solidaire et à l'écoute des quartiers et de la population. Au sein de cette direction, le service du développement de la proximité est composé de 7 agents. Il est chargé notamment de renforcer le lien social entre les habitants, de structurer et développer la démocratie participative, et d'améliorer la vie et les relations dans et entre les quartiers.",
+  "disambiguatingDescription": "Référent de secteur au sein du service du développement de la proximité de la direction politique de la Ville de Nouméa.",
+  "identifier": "26-1777",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Référent de secteur",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.07.02",
+    "email": "loic.broquart@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-27",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+3",
+    "competencyRequired": [
+      "Connaissance dans les domaines du développement social urbain, d'aménagement de développement durable",
+      "Connaissance des enjeux territoriaux de la Ville et de l'agglomération",
+      "Bonnes connaissances des collectivités territoriales, du monde associatif et des institutionnels extérieurs",
+      "Pratique de la méthode de conduite de projets transversaux et de management complexes",
+      "Connaissances juridiques, administratives et financières"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La ville de Nouméa et ses 1 500 collaborateurs sont engagés quotidiennement au service des 86 000 Nouméens. Ils œuvrent au développement de la Ville avec plus de 200 équipements et services en lien avec les nombreux domaines de compétence dévolus à la Commune.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service du développement de la proximité",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience souhaitée en conduite de projets transversaux et management complexe, ainsi qu'en développement social urbain.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Ville de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16 rue du général Mangin",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Développement du territoire",
+    "Action sociale",
+    "Animation"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Animateur territorial, secteur de l’artisanat, de l’industrie, du commerce et des services"
+  },
+  "responsibilities": [
+    "Diagnostiquer les territoires en observant, échangeant et identifiant les problématiques",
+    "Apporter de la plus-value analytique et synthétique via une vision globale et transversale",
+    "Relayer les attentes et propositions des habitants et partenaires auprès des services municipaux et autres organismes",
+    "Favoriser l'aide à la décision en alertant et en émettant des propositions et des préconisations",
+    "S'appuyer sur la démocratie participative",
+    "Favoriser et enrichir le lien social avec les habitants et placer l'habitant au cœur des politiques publiques",
+    "Comprendre les enjeux des quartiers",
+    "Impulser, faciliter, coordonner et évaluer la mise en œuvre d'actions et de projets avec les habitants et les services",
+    "Faciliter la médiation entre les services, les institutions et les habitants",
+    "Organiser la réponse de la Collectivité",
+    "Aider à l'appropriation des politiques publiques",
+    "Structurer, organiser et animer des instances de participation dont les conseils des quartiers",
+    "Organiser la mise en vie du développement social et urbain",
+    "Impulser, piloter, coordonner des projets en faisant partie intégrante des équipes projets pluridisciplinaires",
+    "Réguler, évaluer et s'assurer du déroulement cohérent et concerté des actions",
+    "Elaborer un dispositif d'échange et d'accompagnement d'un réseau d'acteurs, animer un réseau d'acteurs socioprofessionnels et associatifs à l'échelle d'un secteur",
+    "Identifier, rencontrer un réseau d'acteurs à l'échelle d'un secteur",
+    "Construire une culture commune de communication et de partage d'informations"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Fédérer des compétences pour atteindre des objectifs",
+    "Conduire des entretiens et des réunions de travail",
+    "Préparer la prise de décision du supérieur hiérarchique",
+    "Rédiger des notes synthétiques, des avis et des rapports sur l'activité",
+    "Gérer les charges de travail en situation tendue",
+    "Informer et rendre compte périodiquement à la hiérarchie",
+    "Maîtriser les techniques de communication, d'animation et la prise de parole en public"
+  ],
+  "specialCommitments": null,
+  "title": "Référent de secteur",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-18",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "VILLE-DE-NOUMEA",
+  "collectivite": "Ville de Nouméa",
+  "direction": "POLITIQUE DE LA VILLE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Développement du territoire",
+  "famille_source": "respnc",
+  "famille_score": 0.721,
+  "dossier": "developpement-du-territoire"
+}
