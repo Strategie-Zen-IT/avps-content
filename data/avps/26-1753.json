@@ -1,0 +1,179 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur des études et de l'exploitation",
+    "direction": "DIRECTION DE L'AVIATION CIVILE",
+    "uniteOrganisationnelle": "Service de la sécurité de l'aviation civile",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de service de la sécurité de l'aviation civile",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "DGAC",
+      "Nouvelle-Calédonie",
+      "DSAC"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Permanence de Direction",
+        "value": "Astreintes"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction de l'aviation civile"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "179 rue Roger GERVOLINO - Magenta"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P.  H1 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "dac-nc-sa-bpers@aviation-civile.gouv.fr"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956394.PDF"
+      }
+    ]
+  },
+  "alternateName": "Chef de la division Transport aérien",
+  "description": "L'Adjoint au Chef du service de la sécurité de l'aviation civile / Chef de la division Transport aérien est responsable de la mise en œuvre des actions de certification, du contrôle et de surveillance technique des exploitants aériens, du personnel navigant et des organismes de formation des personnels navigants ainsi que l'approbation des procédures de départ, d'approche et d'attente aux instruments en Nouvelle-Calédonie. Seconde le chef de service dans l'ensemble des missions du SSAC pour le compte de la DGAC ou de la Nouvelle-Calédonie. Assure ses intérims. Peut assurer le pilotage de dossiers ou projets spécifiques relevant du service ou de projets transverses pour le compte de la DAC-NC.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1753",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Adjoint au chef de service de la sécurité de l'aviation civile",
+  "owner": {
+    "@type": "Organization",
+    "name": "Direction de l'aviation civile"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "79.28.21",
+    "email": "loic.robin@aviation-civile.gouv.fr"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-27",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Maîtrise du domaine réglementaire national et international",
+      "Maîtrise des procédures de délivrance des autorisations administratives",
+      "Connaissance de l'exploitation des opérateurs surveillés",
+      "Bonne connaissance de l'anglais technique écrit et parlé",
+      "Réglementation du transport aérien dans le champ concerné",
+      "Droit du domaine concerné",
+      "Connaissance des techniques d'inspection et d'audit des opérateurs aériens et pratiques des référentiels utilisés"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de la sécurité de l'aviation civile",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience acquise dans le domaine de compétence du poste en DSAC/IR ou EC. Détention préalable d'une licence de surveillance avec qualification dans le domaine OPS-TAS souhaitée. Expérience du pilotage recommandée.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de l'aviation civile"
+  },
+  "incentiveCompensation": null,
+  "industry": "Aviation civile",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Service de la sécurité de l'aviation civile",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-09-01",
+  "occupationalCategory": [
+    "Aviation civile"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Licence de surveillance avec qualification dans le domaine OPS-TAS souhaitée",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Assistant technique Navigation Aérienne et sécurité"
+  },
+  "responsibilities": [
+    "Encadre, gère et anime la division transport aérien",
+    "Impulse et ou met en œuvre les orientations dans le domaine de la surveillance du transport aérien",
+    "Assure la responsabilité de la certification et de la surveillance des compagnies aériennes en vertu des règlements en vigueur dans le domaine des opérations aériennes",
+    "Coordonne l'instruction des dossiers de délivrance des certificats de transporteur aérien et des autorisations associées",
+    "Assure et coordonne l'activité de contrôles techniques d'exploitation sur les aéronefs français et étrangers",
+    "Supervise l'instruction des questionnaires techniques des compagnies non communautaires",
+    "Assure l'encadrement de la surveillance des organismes de formation de personnels navigants",
+    "Supervise, avec son équipe, l'organisation des examens aéronautiques, les opérations sur les licences et qualification du personnel navigant ainsi que le traitement des infractions du personnel navigant",
+    "Est responsable de la coordination de la surveillance des activités d'aviation générale (dont ULM et manifestations aériennes), de travail aérien (exploitants locaux et étrangers) et de l'exploitation d'aéronefs télépilotés",
+    "Assure la responsabilité de l'approbation des procédures de départ, d'approche et d'attente aux instruments",
+    "Contribue à la boucle PSE (évènements, axes du plan stratégique d'amélioration de la sécurité) et réalise des actions d'accompagnement des opérateurs",
+    "Assure une contribution technique à l'élaboration règlementaire relative aux compétences transférées à la Nouvelle-Calédonie dans son périmètre d'activité",
+    "Assure la coordination avec les directions techniques correspondantes de la DSAC de l'ensemble des activités métier relatives à la division transport aérien",
+    "Contribue à la coordination des enquêteurs de première information de la DAC-NC",
+    "Participe à la permanence de Direction (astreintes)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Expérience acquise dans le domaine de compétence du poste en DSAC/IR ou EC",
+    "Détention préalable d'une licence de surveillance avec qualification dans le domaine OPS-TAS souhaitée",
+    "Expérience du pilotage recommandée",
+    "Avoir un bon sens relationnel (management et relations externes)",
+    "Capacité de communication et de travail en équipe",
+    "Sens des responsabilités",
+    "Sens de l'organisation, méthodique"
+  ],
+  "specialCommitments": "Astreintes (permanence de Direction)",
+  "title": "Adjoint au chef de service de la sécurité de l'aviation civile",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-18",
+  "workHours": "Astreintes",
+  "champs_open_data": 13,
+  "employeur_sigle": "DAC",
+  "collectivite": "Direction de l'aviation civile",
+  "direction": "DIRECTION DE L'AVIATION CIVILE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Aviation civile",
+  "famille_source": "respnc",
+  "famille_score": 0.829,
+  "dossier": "aviation-civile"
+}
