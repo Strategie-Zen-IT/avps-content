@@ -1,0 +1,197 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Cadre de santé",
+    "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+    "uniteOrganisationnelle": "Service de transport patient interne",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Nathalie PFAU-CHEVALIER Cadre supérieur de santé",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Encadrement médical",
+      "Services supports"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Poste à pourvoir",
+        "value": "Février 2027"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "Direction des Ressources Humaines / Cellule recrutement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Direction des Ressources Humaines - Cellule recrutement - Médipôle Koutio"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "BP J5-98849 - Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "kelly.miloud@cht.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952036.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le service de transport patient interne a pour mission principale le transport des patients ainsi que les prélèvements au sein de CHT, en assurant sécurité, coordination, hygiène et continuité des soins 24h/24.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1782",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "1 Cadre santé - transport interne des patients",
+  "owner": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "AreaServed",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.80.00",
+    "email": "recrutement@cht.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-27",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme d'état de cadre de santé",
+    "competencyRequired": [
+      "Formation AFGSU niveau 2 à jour",
+      "Réglementation en vigueur et guide de gestion du temps de travail",
+      "Indicateurs institutionnels et spécifiques au service de soins"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
+  "employerOverview": "Le Centre Hospitalier Territorial Gaston-Bourret de Nouvelle-Calédonie comprend notamment le Médipôle Koutio.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre Hospitalier Territorial",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle en secteur hospitalier exigée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Centre hospitalier territorial \"Gaston Bourret\""
+  },
+  "incentiveCompensation": "Reprise de l'ancienneté possible selon la réglementation en vigueur. Grilles indiciaires de la fonction publique de Nouvelle-Calédonie.",
+  "industry": "Santé publique",
+  "jobBenefits": "Prise en charge du billet aller uniquement",
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Médipôle Koutio",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Dumbéa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98835"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Santé publique soins"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Diplôme d'état de cadre de santé, Formation AFGSU niveau 2",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Cadre de santé"
+  },
+  "responsibilities": [
+    "Participe au niveau de l'institution à l'élaboration du projet de soin dans le cadre de la prise en charge du patient et le décline au sein de son service en collaboration avec l'encadrement médical",
+    "Evalue le projet de soin sur la base d'indicateurs institutionnels et spécifiques au service",
+    "Veille en permanence à la qualité et à la sécurité des soins, à l'application des bonnes pratiques et des procédures institutionnelles et au respect de la réglementation",
+    "En cas d'événement indésirable, il alerte l'institution dans le cadre des vigilances, met en oeuvre un plan d'action adapté et en assure le suivi",
+    "Gère les ressources humaines qualitativement et quantitativement sur la base de la réglementation en vigueur et du guide de gestion du temps de travail de l'établissement",
+    "Assure une juste répartition des effectifs en fonction de la charge de travail et dans le cadre des moyens alloués au service",
+    "Evalue les professionnels sur la base des fiches de poste et les accompagne dans l'actualisation et l'évolution de leurs compétences",
+    "Adapte les équipements aux besoins du service, est garant de leur bon usage et de leur fonctionnement, en collaboration avec les services supports",
+    "Veille à une bonne utilisation des locaux, à leur entretien et à leur maintenance",
+    "Alerte les services concernés en cas de dysfonctionnements",
+    "Fédère et anime son équipe autour du projet de service et du projet d'établissement en collaboration avec le corps médical",
+    "Promeut et valorise les compétences dans le cadre des projets professionnels collectifs et individuels",
+    "Décline annuellement le plan de formation du service",
+    "Participe à la démarche de certification engagée par l'établissement"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Positionnement",
+    "Négociation",
+    "Prise de décision",
+    "Gestion des conflits",
+    "Communication",
+    "Écoute",
+    "Gestion du temps",
+    "Capacité à s'organiser",
+    "Capacité à fédérer",
+    "Capacité à évaluer",
+    "Capacité à promouvoir le changement",
+    "Capacité à s'adapter",
+    "Capacité à évoluer",
+    "Rigueur",
+    "Sens de l'organisation",
+    "Travail en équipe pluridisciplinaire",
+    "Relationnel",
+    "Discrétion professionnelle",
+    "Gestion du stress",
+    "Maîtrise de ses émotions"
+  ],
+  "specialCommitments": "Continuité des soins 24h/24",
+  "title": "1 Cadre santé - transport interne des patients",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-18",
+  "workHours": "Continuité des soins 24h/24",
+  "champs_open_data": 13,
+  "employeur_sigle": "CHT",
+  "collectivite": "Centre hospitalier territorial \"Gaston Bourret\"",
+  "direction": "CENTRE HOSPITALIER TERRITORIAL \"GASTON BOURRET\"",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "sante-publique-soins"
+}
