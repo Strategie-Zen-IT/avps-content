@@ -1,0 +1,164 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien",
+    "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+    "uniteOrganisationnelle": "Centre d’Exploitation des Réseaux Télécom (CERT)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de la cellule FH",
+    "placeOrganigramme": "N - 4 (par rapport au directeur opérationnel)",
+    "relationsFonctionnelles": [],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Habilitations et permis requis",
+        "value": "Permis B, Habilitation électrique BR"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions de travail",
+        "value": "Astreintes hors heures ouvrées, Travaux insalubres ou dangereux, Horaires spéciaux (travail hors heures ouvrées), Déplacement principalement sur Nouméa et périphérie, parfois sur l’ensemble de la NC, Travaux en hauteur"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fourniture ou mise à disposition de matériels",
+        "value": "Equipements de protection individuels (EPI), Habillement, Téléphone mobile d’exploitation"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Régimes indemnitaires rattachés au poste",
+        "value": "Indemnité pour travaux insalubres ou dangereux (6 points INM), Indemnité ponctuelle pour travaux sur pylône de plus de 10 mètres"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956104.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Garantir la meilleure continuité de service au client final par l'exploitation, la supervision et la maintenance des équipements et des infrastructures de transmissions et de diffusion",
+  "disambiguatingDescription": null,
+  "identifier": "26-1769",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Technicien cellule FH - CERT",
+  "owner": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "41.35.35",
+    "email": "DRH-candidature@opt.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-27",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Bonne connaissance des équipements de transmission numérique et multiplex",
+      "Bonnes connaissances des réseaux de télécommunication et IP",
+      "Bonnes connaissances de l'énergie (basse tension et courant continu)",
+      "Exploiter les systèmes d’exploitation Windows, Unix, Linux et les outils bureautiques",
+      "Connaître et utiliser les systèmes d’information de l‘OPT-NC",
+      "Organisation de l’OPT",
+      "Bonne connaissance de la langue anglaise"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Centre d’Exploitation des Réseaux Télécom (CERT)"
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Office des postes et télécommunications"
+  },
+  "incentiveCompensation": null,
+  "industry": "Postes et télécommunications",
+  "jobBenefits": "Indemnité pour travaux insalubres ou dangereux (6 points INM), Indemnité ponctuelle pour travaux sur pylône de plus de 10 mètres",
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Centre d’Exploitation des Réseaux Télécom (CERT)",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "205 rue Jacques IEKAWE PK5",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Postes et télécommunications",
+    "Système d'information"
+  ],
+  "physicalRequirement": "Travaux en hauteur, Travaux insalubres ou dangereux",
+  "qualifications": "Permis B, Habilitation électrique BR",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Technicien d’exploitation des réseaux et services des télécommunications"
+  },
+  "responsibilities": [
+    "Exploiter, maintenir et déployer les équipements de transport et de diffusion (FH, VHF, FM, RRI et SAT, toute nouvelle technologie de transport de voix et de données), garantir les meilleurs efforts en vue de réduire les durées d'indisponibilité",
+    "Réaliser les travaux neufs : installation, mise en service, mise à niveau des équipements",
+    "Contrôler au premier niveau les infrastructures (balisage et état des pylônes, climatisation des stations, état général des sites…) et transmettre ces informations au responsable de la cellule",
+    "Assurer périodiquement l'astreinte pour les services relevant des domaines du Centre",
+    "Garantir la conformité des opérations réalisées aux guides, procédures et directives de pratiques internes",
+    "Rendre compte de l'activité, l'analyser et proposer toutes sources d'amélioration",
+    "Assurer une entre-aide avec les autres équipes en cas de nécessité ou de situation de crise",
+    "Assurer l'intérim du chef de cellule en cas de nécessité",
+    "Veiller au respect des attendus décrits dans les référentiels de fonction de l'OPT (Agents)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Diagnostiquer une anomalie",
+    "Analyser une information, une donnée, une situation, un dispositif",
+    "Travailler en équipe",
+    "Rendre compte",
+    "Alerter sur une situation à risque",
+    "Être rigoureux",
+    "Esprit d’initiative et de synthèse",
+    "Être autonome",
+    "Aisance relationnelle",
+    "Avoir l'esprit d'équipe",
+    "Capacité à communiquer",
+    "Sens du service public",
+    "Faculté d’adaptation"
+  ],
+  "specialCommitments": "Astreintes hors heures ouvrées",
+  "title": "Technicien cellule FH - CERT",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-18",
+  "workHours": "Horaires spéciaux (travail hors heures ouvrées)",
+  "champs_open_data": 7,
+  "employeur_sigle": "OPT",
+  "collectivite": "Office des postes et télécommunications",
+  "direction": "OFFICE DES POSTES ET TELECOMMUNICATIONS",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Postes et télécommunications",
+  "famille_source": "respnc",
+  "famille_score": 0.944,
+  "dossier": "postes-et-telecommunications"
+}
