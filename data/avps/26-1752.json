@@ -1,0 +1,196 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "DIRECTION DE L'AVIATION CIVILE",
+    "uniteOrganisationnelle": "Service de l'ingénierie",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chef de bureau",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Nouvelle-Calédonie (DAC)",
+      "Etat (DGAC - SEAC Wallis et Futuna - BA 186)",
+      "Provinces",
+      "Territoire de Wallis-et-Futuna"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements sur les aérodromes de la Nouvelle-Calédonie (Nouméa-Magenta, Lifou et Koné) ou le cas échéant, sur les aérodromes des trois provinces, la plate-forme de Tontouta (aéroport et base aérienne), et celles de Wallis et Futuna; Suivi ponctuel de travaux de nuit; Horaires atypiques en cas de mission sur les aérodromes; Travail de nuit possible"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Habilitations à acquérir",
+        "value": "Titre d'accès TCA, Habilitation radio et conduite sur l'aire de mouvement"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction de l'aviation civile"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "179 rue Roger GERVOLINO - Magenta"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P.  H1 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "dac-nc-sa-bpers@aviation-civile.gouv.fr"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12956396.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Le plan de charge du bureau des infrastructures aéronautiques annuel comprend une vingtaine d'opérations d'investissement pour des montants variant de quelques millions de FCFP à plus d'1 milliard de FCFP ainsi que la gestion de l'entretien des 3 aérodromes de la Nouvelle-Calédonie pour un montant d'environ 20 millions de FCFP.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1752",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé d'opérations infrastructures aéronautiques",
+  "owner": {
+    "@type": "Organization",
+    "name": "Direction de l'aviation civile"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "AreaServed",
+    "name": "Direction de l'aviation civile",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "179 rue Roger GERVOLINO - Magenta",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "26.52.31",
+    "email": "chloe.magnier@aviation-civile.gouv.fr"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-27",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Ingénieur 2ème grade /Equipement",
+    "competencyRequired": [
+      "Technique dans le domaine des infrastructures (normes, réglementation, ...)",
+      "Marchés publics (mode de passation et suivi des contrats)",
+      "Aménagements aéroportuaires",
+      "Connaissance en SIG ou équivalent",
+      "Maîtrise de l'anglais souhaitable"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égale à 5 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de l'ingénierie",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Direction de l'aviation civile"
+  },
+  "incentiveCompensation": null,
+  "industry": "Aviation civile",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Service de l'ingénierie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Aviation civile",
+    "Infrastructures, réseaux, eaux et assainissements"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B obligatoire",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé d'études ou d'opérations d'infrastructures aéronautiques"
+  },
+  "responsibilities": [
+    "Assurer la maîtrise d'œuvre études et le suivi de travaux d'opérations d'infrastructures sur les aérodromes de la Nouvelle-Calédonie, des provinces, de Tontouta et de Wallis et Futuna",
+    "Maîtrise d'œuvre études et travaux, ou conduite d'opération d'infrastructures aéroportuaires : aménagement ou extension de chaussées aéronautiques, balisage de pistes, projets liés à la sûreté aéronautique et aux servitudes aéronautiques, construction ou rénovation de bâtiments sur les aérodromes de Nouvelle-Calédonie et de Wallis-et-Futuna",
+    "Réalisation ou pilotage des études de projets techniques",
+    "Préparation des consultations d'entreprises ou d'appels d'offres",
+    "Suivi technique, administratif et financier des chantiers",
+    "Contrôle des infrastructures aéroportuaires : évaluation de la portance, mesure des caractéristiques intrinsèques de frottement, détermination de l'indice de service",
+    "Assister / suppléer en cas de besoin les autres chargés d'opération",
+    "Participer à la démarche de certification qualité du service",
+    "Signaler les évènements liés à la sécurité en remplissant la fiche de notification d'événement (FNE) et en la transmettant au responsable du système de gestion de la sécurité (RSGS)",
+    "Réaliser les évaluations d'impact sur la sécurité aéroportuaire (EISA) qui incombent au SI",
+    "Participer au SGS en lien avec le RSGS"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": "Titre d'accès TCA",
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise d'œuvre études et travaux",
+    "Organiser et suivre une opération dans le respect des objectifs, délais et budgets",
+    "Maîtriser un logiciel de dessin assisté par ordinateur (Autocad) et de conception d'infrastructures (Mensura)",
+    "Maîtriser Word, Excel et Gantt",
+    "Etablir les comptes rendus et reporting liés aux opérations",
+    "Utiliser et renseigner un SIG (Arc Map, Arc Gis Pro)",
+    "Utiliser la station totale de topo",
+    "Travail en équipe",
+    "Autonomie et sens de l'initiative",
+    "Rigueur et intégrité",
+    "Bienveillance et écoute",
+    "Disponibilité"
+  ],
+  "specialCommitments": "Suivi ponctuel de travaux de nuit, horaires atypiques en cas de mission sur les aérodromes",
+  "title": "Chargé d'opérations infrastructures aéronautiques",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-18",
+  "workHours": "Horaires atypiques, travail de nuit possible",
+  "champs_open_data": 11,
+  "employeur_sigle": "DAC",
+  "collectivite": "Direction de l'aviation civile",
+  "direction": "DIRECTION DE L'AVIATION CIVILE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Aviation civile",
+  "famille_source": "respnc",
+  "famille_score": 0.999,
+  "dossier": "aviation-civile"
+}
