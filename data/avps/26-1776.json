@@ -1,0 +1,175 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Technicien",
+    "direction": "SERVICE TECHNIQUE",
+    "uniteOrganisationnelle": "Pôle technique",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Maire et Secrétaire Générale",
+    "placeOrganigramme": "Placé sous l'autorité du Maire et de la Secrétaire Générale",
+    "relationsFonctionnelles": [
+      "Maire",
+      "Secrétaire Générale",
+      "Élus",
+      "Direction"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Disponibilité",
+        "value": "Disponibilité ponctuelle en soirée, week-end ou jours fériés en fonction des nécessités de service et des manifestations communales"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Déplacements",
+        "value": "Déplacements réguliers sur le territoire communal"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953866.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l'autorité du Maire et de la Secrétaire Générale, le responsable du pôle technique et des opérations communales a une fonction stratégique. Il assure la coordination des activités techniques de la commune, le pilotage du patrimoine communal, le suivi des travaux et investissements ainsi que l'organisation des moyens techniques nécessaires aux manifestations communales.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1776",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Responsable du pôle technique et des opérations communales",
+  "owner": {
+    "@type": "Organization",
+    "name": "Commune de Koumac"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Mairie de Koumac",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Avenue Émile FROUIN",
+      "addressLocality": "Koumac",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "i.morelli@mairie-koumac.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-27",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Formation supérieure à dominante technique (BTP, génie civil, infrastructures, maintenance ou équivalent)",
+    "competencyRequired": [
+      "Fonctionnement des collectivités locales",
+      "Gestion technique du patrimoine communal",
+      "Travaux publics, bâtiments et voirie"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Mairie de Koumac",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience souhaitée dans l'encadrement d'équipes et la gestion d'activités techniques",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Commune de Koumac"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Mairie de Koumac",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Avenue Émile FROUIN",
+      "addressLocality": "Koumac",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98850"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements",
+    "Patrimoine bâti",
+    "Ateliers et véhicules"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B exigé",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable d'opérations en infrastructures"
+  },
+  "responsibilities": [
+    "Encadrer, organiser et coordonner les équipes du pôle technique",
+    "Planifier et superviser les interventions techniques communales",
+    "Assurer l'entretien et la valorisation du patrimoine communal (bâtiments, voirie, espaces publics, espaces verts, parc matériel)",
+    "Piloter les opérations de travaux et d'investissement",
+    "Participer à la préparation et au suivi budgétaire du pôle",
+    "Contribuer aux procédures de commande publique et au suivi des marchés",
+    "Participer au montage et au suivi des dossiers de subventions",
+    "Conseiller les élus et la direction sur les questions techniques",
+    "Organiser et coordonner les moyens techniques des manifestations communales",
+    "Veiller au respect des règles d'hygiène, de sécurité et de prévention des risques",
+    "Garantir le suivi et la gestion des contrôles réglementaires",
+    "Assurer la mise en place, la réalisation et le maintien ou la remise en état des installations selon les normes et règles en vigueur",
+    "Garantir la sécurité, la prévention et la conformité réglementaire : prévention des risques professionnels, respect des normes et suivi des obligations réglementaires"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Manager des équipes",
+    "Piloter des projets et des opérations techniques",
+    "Planifier et coordonner des activités",
+    "Elaborer des tableaux de bord et rendre compte de l'activité",
+    "Leadership",
+    "Sens de l'organisation",
+    "Capacité d'anticipation et de prise de décision",
+    "Rigueur administrative et budgétaire",
+    "Réactivité et disponibilité",
+    "Sens du service public"
+  ],
+  "specialCommitments": "Disponibilité ponctuelle en soirée, week-end ou jours fériés",
+  "title": "Responsable du pôle technique et des opérations communales",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-18",
+  "workHours": "Disponibilité ponctuelle en soirée, week-end ou jours fériés",
+  "champs_open_data": 7,
+  "employeur_sigle": "COMMUNE-DE-KOUMAC",
+  "collectivite": "Commune de Koumac",
+  "direction": "SERVICE TECHNIQUE",
+  "direction_source": "document",
+  "employeur_source": "document",
+  "famille_respnc": "Infrastructures, réseaux, eaux et assainissements",
+  "famille_source": "respnc",
+  "famille_score": 0.795,
+  "dossier": "infrastructures-reseaux-eaux-et-assainissements"
+}
