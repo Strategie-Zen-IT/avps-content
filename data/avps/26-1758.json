@@ -1,0 +1,143 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Rédacteur",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable technique audiovisuel",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "DFI",
+      "DAJI",
+      "DAEM"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": null
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957152.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Dans un monde où l'image tient une place de plus en plus importante, la province Sud souhaite renforcer sa capacité de production audiovisuelle de sa webTV. Dans ce cadre, elle recherche un assistant de production. Le titulaire est le point d'entrée des invités et des demandes adressées au service. Il prépare en amont tout ce qui n'est pas technique : invités, conducteurs, logistique, autorisations. Il produit les documents administratifs que le service doit fournir aux autres directions, pour que la rédaction et la technique se concentrent sur l'antenne.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1758",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Assistant de production",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.31.96",
+    "email": "christophe.bergery@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-27",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Aucun diplôme imposé",
+    "competencyRequired": [
+      "Connaissances de l'organisation de la province : assemblée, bureau, exécutif, cabinet, directions",
+      "Connaissances du paysage institutionnel, économique, associatif et coutumier calédonien",
+      "Rédaction administrative",
+      "Connaissances des bases de finance publique et de la commande publique",
+      "Connaissances du droit à l'image et protection des données personnelles (fichier des invités)",
+      "Connaissances du fonctionnement d'une émission : conducteur, synthés, minutage",
+      "Bonne connaissance du milieu institutionnel calédonien et de ses usages"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": null,
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": true,
+  "experienceRequirements": "Expérience de 2 à 3 ans minimum en production audiovisuelle, événementiel, communication ou secrétariat de direction ; la pratique du métier prime sur le diplôme",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Communication",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B souhaité",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Assistant de direction"
+  },
+  "responsibilities": [
+    "Programmer et préparer les invités",
+    "Accueillir les invités le jour de l'émission",
+    "Préparer les émissions",
+    "Assurer des tâches de secrétariat",
+    "Préparer les documents destinés aux directions de la province (DFI, DAJI, DAEM notamment)",
+    "Tenir le guichet des demandes des directions (événements, interviews)"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Connaître la bureautique avancée (traitement de texte, tableur), outils collaboratifs et de planning",
+    "Posséder une excellente maîtrise de l'orthographe et de la syntaxe",
+    "Conduire plusieurs émissions en parallèle et anticiper les imprévus",
+    "Tenir à jour un fichier de contacts fiable",
+    "Sens de l'accueil, diplomatie et sens du protocole",
+    "Calme sous pression, réactivité, rigueur",
+    "Discrétion et neutralité : accès aux agendas des élus et à des informations non publiques"
+  ],
+  "specialCommitments": null,
+  "title": "Assistant de production",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-18",
+  "workHours": "Horaires calés sur les enregistrements : début tôt le matin en cas de matinale, soirées ponctuelles",
+  "champs_open_data": 7,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Administration générale",
+  "famille_source": "respnc",
+  "famille_score": 0.873,
+  "dossier": "administration-generale"
+}
