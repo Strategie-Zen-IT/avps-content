@@ -1,0 +1,158 @@
+{
+  "additionalType": {
+    "corpsDomaine": "ACDP-Grille rémunération 1-Sans diplôme",
+    "direction": "CAISSE DES ECOLES DE NOUMEA",
+    "uniteOrganisationnelle": "Service de Coordination des Actions Périscolaires",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Référent école périscolaire ou coordonnateur périscolaire",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Responsable d'office",
+      "Surveillants animateurs périscolaires",
+      "Direction de l'école"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "L'agent d'office peut exercer son activité sur l'ensemble des écoles publiques de la commune. Sa présence est requise sur le temps périscolaire et principalement pendant les périodes scolaires. Il travaille à temps partiel par contrat intermittent et est rémunéré à l'heure."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Grille de rémunération",
+        "value": "Grille de rémunération 1"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12954576.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La Caisse des écoles est un établissement public de la ville de Nouméa. Sa mission consiste à faciliter la fréquentation scolaire en proposant des services périscolaires tels que la cantine et la garderie dans les 41 écoles publiques de Nouméa. L'agent d'office fait partie du Service de Coordination des Actions Périscolaires (SCAP) dont la mission est de favoriser l'épanouissement de l'enfant et garantir sa sécurité sur le temps périscolaire.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1765",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "3 Agents d'office",
+  "owner": {
+    "@type": "Organization",
+    "name": "Caisse des écoles de Nouméa"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "27.07.85",
+    "email": "recrutement.caissedesecoles@ville-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-27",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "connaître les procédures d'hygiène",
+      "connaître les besoins nutritionnels des convives",
+      "connaître le fonctionnement, le rôle de la collectivité"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": "La Caisse des écoles est un établissement public de la ville de Nouméa. Sa mission consiste à faciliter la fréquentation scolaire en proposant des services périscolaires tels que la cantine et la garderie dans les 41 écoles publiques de Nouméa.",
+  "employmentType": "PART_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Service de Coordination des Actions Périscolaires",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Caisse des écoles de Nouméa"
+  },
+  "incentiveCompensation": null,
+  "industry": "Restauration collective / hôtellerie",
+  "jobBenefits": "Rémunéré à l'heure",
+  "jobDuration": "Contrat intermittent",
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Les écoles publiques de la Ville de Nouméa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Restauration collective / hôtellerie",
+    "Animation"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Agent d'office"
+  },
+  "responsibilities": [
+    "Participer aux activités liées à la réception, au contrôle, à la mise en place, à la délivrance des repas, ainsi qu'à l'entretien de la cantine",
+    "Collaborer avec le responsable d'office pour l'ensemble des tâches",
+    "Participer à la relève des températures (réfrigérateurs, denrées)",
+    "Participer au contrôle des livraisons des denrées et de la vaisselle",
+    "Participer au renseignement des fiches suiveuses",
+    "Signaler toute anomalie",
+    "Informer la Caisse des écoles des ajustements de commande à réaliser",
+    "Participer à la mise en place de la cantine",
+    "Participer à l'organisation du déroulement des services et se concerter avec les surveillants animateurs périscolaires",
+    "Accueillir les enfants avec bienveillance, participer au climat convivial dans la cantine et faciliter la prise de repas des enfants",
+    "Participer au nettoyage de la cantine et ses abords",
+    "Travailler en partenariat avec la direction de l'école",
+    "Veiller à la sécurité physique et morale de l'enfant",
+    "Participer aux réunions éducatives pour avoir connaissance des PAI et des conduites à tenir"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "savoir rendre compte de son action et signaler les difficultés rencontrées",
+    "appliquer les consignes et procédures données",
+    "savoir prendre des initiatives",
+    "favoriser la cohésion d'équipe",
+    "faire preuve de bon sens",
+    "ponctualité et assiduité",
+    "respect de la confidentialité et discrétion",
+    "tenue correcte et propre",
+    "à l'écoute et disponible pour l'enfant",
+    "travail en équipe, qualités relationnelles"
+  ],
+  "specialCommitments": null,
+  "title": "3 Agents d'office",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-18",
+  "workHours": "Temps partiel",
+  "champs_open_data": 8,
+  "employeur_sigle": "CDE NOUMÉA",
+  "collectivite": "Caisse des écoles de Nouméa",
+  "direction": "CAISSE DES ECOLES DE NOUMEA",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Restauration collective / hôtellerie",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "restauration-collective-hotellerie"
+}
