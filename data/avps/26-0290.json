@@ -30,7 +30,7 @@
   },
   "alternateName": null,
   "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des UPASS, des centres médico-sociaux et des autres sites excentrés. Au sein du pôle santé et territoires de la DPASS, notamment au sein de l'unité provinciale d'actions sanitaire et sociale de La Foa (UPASS), le médecin généraliste retenu travaillera au sein d'une équipe pluridisciplinaire (médecin, infirmières, assistantes sociales, diététicienne, orthophoniste, spécialistes vacataires, etc.), attachée à la synergie médico-sociale et aux démarches continues d'amélioration de la qualité et de l'évaluation des pratiques professionnelles.",
-  "disambiguatingDescription": "Médecin généraliste à l'UPASS de La Foa assurant la médecine curative, préventive et la prise en charge des urgences.",
+  "disambiguatingDescription": "Médecin généraliste à l'UPASS de La Foa assurant la médecine curative et préventive, la prise en charge des urgences et participant aux actions de santé publique.",
   "identifier": "26-0290",
   "image": null,
   "mainEntityOfPage": null,
@@ -46,7 +46,18 @@
   "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "UPASS de La Foa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "La Foa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "20.44.71",
@@ -60,11 +71,7 @@
     "competencyRequired": [
       "Titulaire d'un diplôme de médecin ou de spécialiste en médecine générale ou en médecine d'urgence",
       "Titulaire d'un diplôme d'épidémiologie et/ou de santé publique",
-      "Connaissances de la charte d'Ottawa",
-      "Connaissances en obstétrique",
-      "Connaissances en pédiatrie",
-      "Connaissances en santé publique (protection maternelle et infantile, médecine scolaire, contraception-IVG dépistage et traitement des IST, etc.)",
-      "Notions du logiciel de gestion des données médicales (ASCLEPIOS)"
+      "Connaissances de la charte d'Ottawa"
     ]
   },
   "eligibilityToWorkRequirement": null,
@@ -72,20 +79,20 @@
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "CMS de La Foa",
+    "name": "Unité provinciale d'actions sanitaire et sociale de La Foa (UPASS)",
     "url": null,
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Une capacité d'aide médicale urgente ou bien une expérience en poste isolé serait utile.",
+  "experienceRequirements": "Une expérience en poste isolé serait utile.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
     "url": "https://www.province-sud.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": false,
@@ -109,7 +116,7 @@
     "Politique de santé publique"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis de conduire B et possession d'un véhicule",
+  "qualifications": "Titulaire du permis de conduire B et d'un véhicule",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Médecin du travail"
@@ -121,13 +128,17 @@
     "Participer aux actions de santé publique provinciales et de la Nouvelle-Calédonie (éducation sanitaire, programmes de vaccinations, promotion de la santé, etc.) et travailler en partenariat pour mettre en œuvre les projets",
     "Émettre des propositions sur la prise en charge efficiente des patients accueillis"
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
     "Gestion des urgences",
     "Gestion de programmes de prévention",
     "Capacité à mener des projets de santé communautaire",
+    "Connaissances en obstétrique",
+    "Connaissances en pédiatrie",
+    "Connaissances en santé publique (protection maternelle et infantile, médecine scolaire, contraception-IVG dépistage et traitement des IST, etc.)",
+    "Notions du logiciel de gestion des données médicales (ASCLEPIOS)",
     "Réelles capacités relationnelles et d'accueil",
     "Grande motivation",
     "Envie d'entreprendre et d'innover",
@@ -138,7 +149,7 @@
     "Capacité d'adaptation",
     "Force de propositions"
   ],
-  "specialCommitments": "Astreintes de semaine, de nuit et de week-end",
+  "specialCommitments": "Astreintes, horaires de semaine, de nuit et de week-end, interventions ponctuelles à l'UPASS de Bourail",
   "title": "Médecin à l'UPASS de La Foa",
   "totalJobOpenings": 1,
   "validThrough": "2026-11-27",
