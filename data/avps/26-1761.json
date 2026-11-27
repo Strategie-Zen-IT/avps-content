@@ -1,0 +1,180 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "IAC – EQUIPE SOLVEG",
+    "uniteOrganisationnelle": "Centre IRD (Nouméa)",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Chercheur en Écologie Microbienne Moléculaire",
+    "placeOrganigramme": "Sous l'autorité du chercheur en Écologie Microbienne Moléculaire de l'équipe SolVeg",
+    "relationsFonctionnelles": [
+      "Membres de l'équipe SolVeg",
+      "Partenaires du Centre IRD",
+      "Fournisseurs et administration de l'établissement",
+      "Étudiants, stagiaires et collaborateurs extérieurs"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Grade",
+        "value": "1er grade / économie rural"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953858.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L’Institut agronomique néo-Calédonien est un établissement public original en Nouvelle-Calédonie. Ses missions sont de mener des recherches finalisées en appui au développement rural du pays, centrées autour des enjeux d'agriculture durable, d'environnement exceptionnel à préserver, et de transformation du monde rural.",
+  "disambiguatingDescription": "L’ingénieur(e) du 1er grade appuie les recherches du responsable des travaux sur les interactions plantes-sols-microorganismes au sein de l’équipe SolVeg de l’IAC basé sur le centre IRD.",
+  "identifier": "26-1761",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Assistant ingénieur",
+  "owner": {
+    "@type": "Organization",
+    "name": "Institut agronomique calédonien"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Place",
+    "name": "Institut Agronomique néo-Calédonien",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "RT1 Port-Laguerre",
+      "addressLocality": "Païta",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "43.74.15",
+    "email": "larissa.lagikula@iac.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-27",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme exigé en microbiologie et biologie moléculaire",
+    "competencyRequired": [
+      "Maîtrises théoriques et techniques de microbiologie et de biologie moléculaire",
+      "Maîtrise des outils de bureautique",
+      "Maîtrise d’outils statistiques",
+      "Lecture d’articles scientifiques et de protocoles en anglais",
+      "Logiciels de bureautique",
+      "Maîtrise des outils informatiques courants"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 10 ans",
+  "employerOverview": "L’IAC emploie 66 agents permanents (titulaires de la fonction publique, et agents contractuels de droit public à durée indéterminée) et environ 30 agents temporaires (agents contractuels de droit public à durée déterminée, VSC, doctorants, stagiaires). Son budget annuel moyen est de 650 millions FCFP dont 75% de masse salariale.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Équipe SolVeg",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience souhaitée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Institut agronomique calédonien"
+  },
+  "incentiveCompensation": null,
+  "industry": "Agriculture et mer",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "IRD (Nouméa)",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Anse Vata",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Agriculture et mer",
+    "Laboratoire"
+  ],
+  "physicalRequirement": "Aptitudes à travailler sur le terrain",
+  "qualifications": "Permis B indispensable",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "assistant(e) ingénieur(e)"
+  },
+  "responsibilities": [
+    "Organiser, planifier et coordonner les activités expérimentales en laboratoire de microbiologie et de biologie moléculaire, en fonction des objectifs et des programmes de recherche de l'équipe",
+    "Concevoir, adapter, mettre en œuvre et actualiser les protocoles expérimentaux relatifs à la caractérisation moléculaire des microorganismes du sol : extraction des acides nucléiques (ADN et ARN), PCR, qPCR, séquençage Sanger et haut débit",
+    "Réaliser et superviser les manipulations de microbiologie, notamment l'isolement et le repiquage de souches de champignons",
+    "Participer à l'organisation des campagnes de prospection, à la mise en place des dispositifs expérimentaux et à la collecte des échantillons sur le terrain",
+    "Organiser le conditionnement, la conservation et la traçabilité des échantillons destinés aux expérimentations",
+    "Contribuer à l'analyse, à l'interprétation et à la valorisation des données scientifiques en vue de publications et de rapports d'études, notamment par l'analyse des chromatogrammes d'ADN et les reconstructions phylogénétiques",
+    "Assurer le suivi et la gestion des bases de données et des collections biologiques (banque de sols, fungarium et souchothèque)",
+    "Organiser le suivi technique et la maintenance de premier niveau des équipements de l'IAC positionnés au sein de la Plateforme du Vivant, en lien avec les fournisseurs et l'administration de l'établissement",
+    "Planifier les besoins en consommables, matériels et équipements nécessaires aux activités expérimentales, assurer le suivi des stocks, des commandes et des approvisionnements",
+    "Coordonner et accompagner techniquement les étudiants, stagiaires et collaborateurs extérieurs intervenant dans le cadre des activités de recherche",
+    "Veiller à l'application des règles d'éthique, d'hygiène et de sécurité ainsi qu'au respect des bonnes pratiques de laboratoire",
+    "Participer à la mise en œuvre et au suivi de la démarche qualité du laboratoire",
+    "Participer à la formation et à la transmission des compétences techniques auprès des étudiants, stagiaires et collaborateurs",
+    "Coordination possible du site IAC sur le Centre IRD (gestion des moyens communs, centralisation des commandes, relations avec les partenaires pour les questions relatives à la vie sur le Centre…)",
+    "Participer à la conduite et au suivi d'études scientifiques particulières en lien avec les programmes de recherche de l'équipe",
+    "Contribuer à la rédaction de rapports scientifiques et techniques ainsi qu'à la valorisation des résultats de recherche",
+    "Assurer une veille scientifique et technologique sur les évolutions des techniques de microbiologie et de biologie moléculaire",
+    "Proposer des améliorations des méthodes, protocoles et procédures de travail afin d'optimiser les activités expérimentales et le fonctionnement du laboratoire"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Aptitudes à travailler sur le terrain",
+    "Connaissance des règles d’hygiène et de sécurité et des règles de bonnes pratiques de laboratoire",
+    "Sens des priorités, de l’initiative et de la communication",
+    "Capacités rédactionnelles et d’expression orale",
+    "Maîtrise de l’anglais lu et parlé",
+    "Bon relationnel",
+    "Sens de l’organisation",
+    "Ponctualité",
+    "Rigueur",
+    "Discrétion",
+    "Travail en équipe",
+    "Autonomie",
+    "Pédagogie"
+  ],
+  "specialCommitments": null,
+  "title": "Assistant ingénieur",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-18",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "INSTITUT-AGRONOMIQUE-CALEDONIEN",
+  "collectivite": "Institut agronomique calédonien",
+  "direction": "IAC – EQUIPE SOLVEG",
+  "direction_source": "document",
+  "employeur_source": "source",
+  "famille_respnc": "Infrastructures, réseaux, eaux et assainissements",
+  "famille_source": "respnc",
+  "famille_score": 0.835,
+  "dossier": "infrastructures-reseaux-eaux-et-assainissements"
+}
