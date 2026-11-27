@@ -1,0 +1,193 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur / ingénieur",
+    "direction": "PROVINCE SUD",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Directions fonctionnelles",
+      "Directions métiers",
+      "Commission Nationale de l'Informatique et des Libertés (CNIL)"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Cadre d'emploi / Domaine",
+        "value": "Ingénieur 2ème grade / Informatique ou Numérique"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "au moins égale à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955512.PDF"
+      }
+    ]
+  },
+  "alternateName": "RSSI-DPD",
+  "description": "Rattaché au secrétariat général, et en étroite collaboration avec l'ensemble des directions fonctionnelles et métiers, le référent protection des données et sécurité du système d'information (RSSI-DPD) sera, en toute indépendance, chargé de piloter et de coordonner les actions nécessaires à la mise en conformité de la province Sud à la loi Informatique et Liberté n° 2018-493 (RGPD) et sera également responsable de la définition et de la mise en œuvre de la politique de sécurité du système d'information de l'administration provinciale, rôle essentiel au sein de la collectivité.",
+  "disambiguatingDescription": "Référent protection des données et sécurité du système d'information au Secrétariat Général de la Province Sud",
+  "identifier": "26-1757",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Référent protection des données et sécurité du système d'information",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "AreaServed",
+    "name": "Province Sud",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "20.31.81",
+    "email": "drh.candidatures@province-sud.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-27",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Ingénieur",
+    "competencyRequired": [
+      "Bonne connaissance du fonctionnement des collectivites locales",
+      "Maîtrise des outils et techniques de gestion des risques",
+      "Connaissances solides en gestion de projet et en méthodologies associées (Agile, etc.)",
+      "Maîtrise de la législation en matière de protection des données personnelles",
+      "Maîtrise en matière de systèmes d'information et de sécurité informatique"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre au moins égale à 5 ans",
+  "employerOverview": "Administration provinciale de la Province Sud en Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Secrétariat Général",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Une expérience professionnelle dans des missions transverses ou d'animation de réseau serait appréciée",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Secrétariat Général",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6 route des artifices",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Immédiatement",
+  "occupationalCategory": [
+    "Système d'information"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Responsable de la sécurité des systèmes d'information"
+  },
+  "responsibilities": [
+    "Informer et conseiller la Présidence de la province Sud, responsable du traitement et les agents provinciaux qui utilisent les traitements sur les obligations qui leur incombent en vertu de la réglementation applicable en matière de protection des données",
+    "Informer et alerter le responsable de traitement de tout risque encouru en cas de non-respect de ses recommandations dont l'impact ferait courir un risque à la province Sud",
+    "Mener ou piloter les actions de formation ou de sensibilisation des personnels de la province Sud en matière de protection des données à caractère personnel",
+    "Recevoir et instruire, en concertation avec les directions concernées, les réclamations des personnes concernées par les traitements et souhaitant exercer leurs droits",
+    "Constituer le point d'entrée privilégié de la Commission Nationale de l'Informatique et des Libertés (CNIL) avec laquelle il communique en toute indépendance sur les questions relatives aux traitements mis en œuvre par la province Sud",
+    "Évaluer les risques associés à la mise en œuvre des traitements provinciaux en concertation avec les directions concernées, notamment dans le cadre d'analyses d'impact relatives à la protection des données",
+    "Piloter ou assurer la réalisation d'audits de conformité",
+    "Contrôler le respect de la réglementation en matière de protection des données",
+    "Établir les règles internes en matière de protection des données à caractère personnel",
+    "Établir et de maintenir une documentation relative aux traitements de données de la province Sud et de tenir le registre des traitements",
+    "Définir et appliquer la politique de sécurité des systèmes d'information",
+    "Réaliser des audits de sécurité et des tests de vulnérabilité pour identifier et corriger les failles",
+    "Assurer la conformité aux normes et réglementations (NIS2, RGPD, etc.)",
+    "Mettre en place des procédures de prévention et de gestion des incidents de sécurité",
+    "Concevoir, planifier et coordonner des projets stratégiques, tels que la cartographie des risques",
+    "Évaluer et anticiper les risques liés aux projets, en proposant des solutions adaptées",
+    "Contribuer à la rédaction de procédures et de politiques internes",
+    "Concevoir les outils et les procédures nécessaires à la conduite de ses missions",
+    "Rédiger les procédures destinées à assurer le respect des législations en vigueur",
+    "Établir des relations avec des partenaires externes pour renforcer la sécurité et les bonnes pratiques",
+    "Former et sensibiliser les équipes aux bonnes pratiques en matière de protection des données et de sécurité informatique",
+    "Fournir un soutien technique et stratégique aux équipes impliquées dans les projets transversaux",
+    "Organiser la veille juridique, technique et sociétale",
+    "Réaliser et communiquer chaque année un rapport au responsable de traitement"
+  ],
+  "salaryCurrency": "XPF",
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Maîtrise de la gestion de projets",
+    "Réalisation et/ou pilotage d'audits",
+    "Rédaction et diffusion de procédures",
+    "Conception et/ou réalisation d'actions de sensibilisation ou de formation",
+    "Compétences en gestion du changement et en accompagnement des équipes",
+    "Conception d'outils de suivi",
+    "Formulation de conseils et de préconisations",
+    "Capacité d'analyse et esprit critique",
+    "Evaluation et gestion du risque",
+    "Excellent sens de la communication",
+    "Forte éthique professionnelle et confidentialité",
+    "Objectivité",
+    "Probité, rigueur et méthode",
+    "Sens de l'organisation",
+    "Prise d'initiative",
+    "Forte autonomie",
+    "Qualités relationnelles",
+    "Sens de la pédagogie",
+    "Sens de l'écoute",
+    "Confidentialité et discrétion",
+    "Pragmatisme sur la résolution de problèmes"
+  ],
+  "specialCommitments": null,
+  "title": "Référent protection des données et sécurité du système d'information",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-18",
+  "workHours": null,
+  "champs_open_data": 7,
+  "employeur_sigle": "PVS",
+  "collectivite": "Province Sud",
+  "direction": "PROVINCE SUD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Système d'information",
+  "famille_source": "respnc",
+  "famille_score": 0.969,
+  "dossier": "systeme-d-information"
+}
