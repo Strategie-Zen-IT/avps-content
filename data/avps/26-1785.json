@@ -1,0 +1,184 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Ingénieur",
+    "direction": "PROVINCE NORD",
+    "uniteOrganisationnelle": "Subdivision de Canala",
+    "nbAgentsEncadres": 21,
+    "superieurHierarchique": "Directrice de l'Aménagement et du Foncier",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Chefs des autres subdivisions",
+      "Service Infrastructures",
+      "Communes",
+      "Entreprises",
+      "Partenaires",
+      "Concessionnaires de réseaux",
+      "Usagers"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
+        "value": "Au moins égal à 5 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements fréquents sur le territoire de la province Nord ; disponibilité en cas de gestion de situations d'urgence (intempéries, catastrophes naturelles, incidents sur les infrastructures, etc.)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12957660.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Dans un contexte d'évolution des politiques publiques, d'accélération des projets d'investissement et d'exigence croissante en matière de qualité du service public et de transparence de la commande publique, la Direction de l'Aménagement et du Foncier (DAF) pilote les projets structurants de la province Nord. Elle conçoit, met en œuvre et assure le suivi des politiques publiques en matière d'aménagement du territoire, de patrimoine immobilier, d'infrastructures, d'habitat, de foncier, de mobilité, de transports ainsi que d'infrastructures portuaires et aéroportuaires.",
+  "disambiguatingDescription": "Le chef de subdivision assure l'encadrement de l'ensemble des équipes, coordonne l'activité des deux secteurs et veille à la mise en œuvre des orientations de la direction sur son territoire d'intervention.",
+  "identifier": "26-1785",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chef de subdivision",
+  "owner": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": "https://www.province-nord.nc/avp",
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "47.72.00",
+    "email": "drh.emplois@province-nord.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-27",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Diplôme d'ingénieur ou formation de niveau Bac+5 dans le domaine des travaux publics, du génie civil ou des infrastructures",
+      "Fonctionnement des collectivités publiques",
+      "Maîtrise d'ouvrage publique",
+      "Réglementation des marchés publics",
+      "Techniques de conduite d'opérations",
+      "Réglementation applicable aux domaines d'intervention de la DAF",
+      "Réglementation applicable aux régimes fonciers publics, privé et coutumier",
+      "Règles budgétaires et financières",
+      "Management d'équipes"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sur titre : au moins égal à 5 ans",
+  "employerOverview": "La DAF intervient en qualité de maître d'ouvrage sur des opérations d'investissement structurantes, assure l'exploitation et la maintenance du patrimoine provincial et accompagne les communes, les partenaires institutionnels et les usagers dans la réalisation des projets de développement du territoire. Forte d'environ 150 agents, répartis entre les services centraux basés à Koné et trois subdivisions provinciales, la DAF pilote près de la moitié du programme pluriannuel d'investissement de la collectivité.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Subdivision de Canala",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience en management d'équipes et conduite d'opérations d'infrastructures ou de travaux publics.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Province Nord",
+    "url": "https://www.province-nord.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": true,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Subdivision de Canala",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Canala",
+      "addressRegion": "Province Nord",
+      "addressCountry": "NC",
+      "province": "province Nord",
+      "postalCode": "98813"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "Dès que possible",
+  "occupationalCategory": [
+    "Infrastructures, réseaux, eaux et assainissements",
+    "Pilotage"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis de conduire B",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chef de groupe"
+  },
+  "responsibilities": [
+    "Organiser et coordonner l'activité de la subdivision",
+    "Encadrer, accompagner et évaluer les équipes",
+    "Développer les compétences des agents",
+    "Garantir la santé et la sécurité au travail",
+    "Conduire les changements d'organisation",
+    "Programmer, piloter et suivre les opérations de maintenance et d'investissement, notamment dans le domaine des infrastructures routières",
+    "Assurer le suivi technique, administratif et financier des opérations confiées à la subdivision",
+    "Veiller au respect des délais, des coûts et de la qualité des réalisations",
+    "Participer à la définition des priorités d'intervention",
+    "Préparer et suivre le budget de la subdivision",
+    "Participer à l'élaboration des programmes annuels de travaux",
+    "Assurer le suivi des marchés publics et des contrats",
+    "Contribuer à la préparation des dossiers soumis aux instances décisionnelles",
+    "Représenter la DAF auprès des communes, des concessionnaires de réseaux et autres partenaires et acteurs locaux",
+    "Participer aux réunions techniques et institutionnelles",
+    "Assurer la qualité du service rendu aux usagers",
+    "Apporter une expertise technique à la direction",
+    "Contribuer à l'élaboration des orientations stratégiques de la DAF",
+    "Proposer des améliorations organisationnelles et techniques"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Piloter des projets complexes",
+    "Piloter des missions de maîtrise d'œuvre et de conduite d'opérations",
+    "Arbitrer et prioriser",
+    "Conduire des réunions",
+    "Rédiger des notes et rapports d'aide à la décision",
+    "Conduire le changement",
+    "Animer des équipes pluridisciplinaires",
+    "Leadership",
+    "Autonomie",
+    "Sens de l'organisation",
+    "Sens du service public",
+    "Capacité d'écoute",
+    "Esprit d'analyse et de synthèse",
+    "Sens des responsabilités",
+    "Réactivité",
+    "Aptitude à décider",
+    "Capacité à fédérer",
+    "Diplomatie",
+    "Exemplarité"
+  ],
+  "specialCommitments": "Disponibilité en cas de gestion de situations d'urgence",
+  "title": "Chef de subdivision",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-18",
+  "workHours": "Temps plein avec déplacements fréquents",
+  "champs_open_data": 7,
+  "employeur_sigle": "PVN",
+  "collectivite": "Province Nord",
+  "direction": "PROVINCE NORD",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Incendie et secours",
+  "famille_source": "respnc",
+  "famille_score": 0.808,
+  "dossier": "incendie-et-secours"
+}
