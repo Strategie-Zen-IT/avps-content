@@ -1,0 +1,190 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Attaché",
+    "direction": "SECRETARIAT GENERAL DU GOUVERNEMENT DE LA NOUVELLE-CALEDONIE",
+    "uniteOrganisationnelle": "Cellule de l'Habitat et de l'Urbanisme",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Responsable de cellule",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "élus locaux",
+      "citoyens",
+      "travailleurs sociaux",
+      "institutions administratives",
+      "opérateurs immobiliers publics et privés"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Conditions générales",
+        "value": "Travail en bureau, avec possibilités de déplacements. Horaires variables en fonction des obligations de service public. Pics d'activité liés à des programmes particuliers."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Facteurs de pénibilité",
+        "value": "Disponibilité et adaptabilité aux usagers avec risques de tensions dans la relation avec le public"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Service RH de la collectivité",
+        "value": "la direction des ressources humaines et de la fonction publique de Nouvelle Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse de dépôt du dossier",
+        "value": "Bureaux 106 et 107 - Section recrutement - DRHFPNC - Centre administratif Jacques Iékawé - 1er étage - 18 avenue Paul Doumer - Centre-ville de Nouméa"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adresse postale",
+        "value": "B.P M2 - 98849 Nouméa cedex"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Courriel de la collectivité",
+        "value": "drhfpnc.recrutement@gouv.nc"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953462.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "L'activité de cet emploi s'exerce au sein de la cellule de l'habitat et de l'urbanisme. Elle conduit à être en relation avec différents interlocuteurs. La cellule de l'habitat et de l'urbanisme est chargée de poursuivre des actions en matière d'habitat et d'urbanisme et de contribuer aux initiatives publiques ou privées visant à réformer la politique générale du logement, de l'habitat et de l'urbanisme, améliorer la qualité de l'habitat pour un cadre de vie urbain adapté aux populations, et assister les familles en difficulté dans leurs démarches administratives pour trouver un logement.",
+  "disambiguatingDescription": "Chargé d'études juridiques au sein de la Cellule de l'Habitat et de l'Urbanisme du Secrétariat général du gouvernement de la Nouvelle-Calédonie.",
+  "identifier": "26-1762",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé d'études juridiques de la Cellule de l'Habitat et de l'Urbanisme",
+  "owner": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "url": "http://www.gouv.nc"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.10.40",
+    "email": "steven.meriadec@gouv.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-27",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Bac+5",
+    "competencyRequired": [
+      "Formation supérieure en droit de l’urbanisme (niveau master 2)",
+      "Bonne connaissance de la réglementation urbaine calédonienne",
+      "Connaissance de l'organisation administrative et institutionnelle de la Nouvelle-Calédonie"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Cellule de l'Habitat et de l'Urbanisme",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": null,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Nouvelle-Calédonie",
+    "url": "http://www.gouv.nc"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": null,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Secrétariat général du gouvernement de la Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Ingénierie juridique",
+    "Urbanisme",
+    "Habitat et logement"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Chargé d'études juridiques"
+  },
+  "responsibilities": [
+    "participer à l'exercice de la compétence normative relative au droit de l’urbanisme mise en perspective avec le droit de l’immobilier",
+    "Conduire les études partenariales relatives aux évolutions réglementaires portées par la cellule",
+    "Participer aux réflexions pour identifier les passerelles entre les systèmes de droit coutumier et de droit commun en matière d’aménagement du territoire",
+    "Représenter la cellule en restant dans le cadre de sa délégation",
+    "Créer et animer la commission de conciliation",
+    "Constituer des équipes projets avec les ressources internes des directions supports",
+    "Animer les partenariats publics privés des acteurs locaux de l'habitat",
+    "Assurer la conduite de projet des dossiers règlementaires",
+    "Rédiger des avis sur les projets de lois, de délibérations et d’arrêtés",
+    "Réaliser des études juridiques à l'attention du gouvernement de la NC, dans le domaine de l’urbanisme, l’habitat et le logement",
+    "Collaborer aux travaux menés avec les services, les institutions, les organisations représentant les professionnels et usagers du droit de l’urbanisme",
+    "Participer à la mission générale de veille juridique de la cellule",
+    "Promotion de l'action publique et mise en œuvre d'outils de communication",
+    "Organisation de l'information des usagers"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Appréhender dans sa globalité les enjeux de la réglementation comme outil d’aménagement territorial",
+    "Maîtriser les raisonnements, l'analyse et la rédaction juridiques",
+    "Rechercher les informations juridiques pertinentes",
+    "Travailler en partenariat",
+    "Maîtriser les outils bureautiques en ligne",
+    "Capitaliser et animer les échanges sur les projets",
+    "Organiser des dispositifs de concertation et de participation",
+    "Suivre des contrats de coopération et des conventions",
+    "Gérer la commande publique",
+    "rigueur et organisation",
+    "esprit d'analyse et de synthèse",
+    "autonomie",
+    "sens de la négociation, du consensus et des relations humaines",
+    "force de proposition",
+    "sens du travail en équipe et en réseau",
+    "grande disponibilité",
+    "sens de l'écoute et du dialogue"
+  ],
+  "specialCommitments": null,
+  "title": "Chargé d'études juridiques de la Cellule de l'Habitat et de l'Urbanisme",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-18",
+  "workHours": "Horaires variables en fonction des obligations de service public",
+  "champs_open_data": 12,
+  "employeur_sigle": "SGGNC",
+  "collectivite": "Nouvelle-Calédonie",
+  "direction": "SECRETARIAT GENERAL DU GOUVERNEMENT DE LA NOUVELLE-CALEDONIE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Ingénierie juridique",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "ingenierie-juridique"
+}
