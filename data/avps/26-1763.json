@@ -1,0 +1,152 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif",
+    "direction": "VILLE DU MONT-DORE",
+    "uniteOrganisationnelle": "Service de l’état-civil et des élections",
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Cheffe de service de l’état-civil et des élections",
+    "placeOrganigramme": "Placé sous l’autorité de la cheffe de service de l’état-civil et des élections",
+    "relationsFonctionnelles": [
+      "Service de l’état-civil et des élections"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement",
+        "value": "Sans concours des adjoints administratifs : au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l’emploi",
+        "value": "Port obligatoire d’une tenue de travail et d’un badge d’identification fournis par la Ville, Respect des dispositions prévues par la Charte de l’Accueil, Respect strict de la confidentialité des informations traitées, Amplitude horaire variable en fonction des pics d’activité du service, Polyvalence requise, Travail éventuel les jours fériés, chômés et les week-ends, Déplacements ponctuels"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12954776.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "Placé sous l’autorité de la cheffe de service de l’état-civil et des élections, l’agent retenu aura pour missions de traiter et de constituer l’ensemble des actes d’état-civil (naissance, mariage, décès…), d’assurer le suivi administratif des listes électorales ainsi que les missions dévolues au service.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1763",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Chargé d'accueil - agent de l'état civil et des élections",
+  "owner": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "43.70.00",
+    "email": "nathalie.jean@ville-montdore.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-27",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": "Diplôme de niveau 3 (anciennement V) minimum",
+    "competencyRequired": [
+      "Procédures administratives relatives aux actes d’état civil",
+      "Techniques rédactionnelles",
+      "Bonnes connaissances du Code civil, du Code électoral et des institutions de la Nouvelle-Calédonie",
+      "Maîtrise des techniques de communication",
+      "Connaissances de la procédure de traitement des demandes de passeports et de cartes d’identité"
+    ]
+  },
+  "eligibilityToWorkRequirement": null,
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience sur un poste similaire souhaitée ou au sein d’un service communal.",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Ville du Mont-Dore"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Hôtel de Ville de Boulari",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "4468 avenue des deux baies Boulari",
+      "addressLocality": "Mont-Dore",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98809"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-01-01",
+  "occupationalCategory": [
+    "Administration générale",
+    "Population et affaires funéraires"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Gestionnaire d’état civil"
+  },
+  "responsibilities": [
+    "Accueil et renseignement du public",
+    "Instruction, constitution et délivrance de l’ensemble des actes d’état civil et titres sécurisés conformément à la réglementation en vigueur",
+    "Tenue administrative des registres",
+    "Participation au suivi des listes électorales",
+    "Suivi administratif des opérations funéraires et des cimetières communaux",
+    "Suivi du recensement citoyen",
+    "Participation à l’organisation de cérémonies et célébrations liées au secteur d’activité"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Recevoir et renseigner des familles ou des prestataires",
+    "Appliquer des procédures administratives",
+    "Maîtriser l’outil informatique (word, excel,…), docuware et les logiciels métiers spécifiques au service",
+    "Contrôler la fiabilité et les éléments d’un dossier",
+    "Sens aigu de la discipline et du service public",
+    "Respect de l’autorité et de la hiérarchie",
+    "Aptitude à travailler en flux tendu",
+    "Esprit d’initiative, d’organisation et d’anticipation",
+    "Sens du travail en équipe",
+    "Sens du contact",
+    "Disponibilité, rigueur et discrétion exigées"
+  ],
+  "specialCommitments": null,
+  "title": "Chargé d'accueil - agent de l'état civil et des élections",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-18",
+  "workHours": "Amplitude horaire variable en fonction des pics d’activité du service, travail éventuel les jours fériés, chômés et les week-ends",
+  "champs_open_data": 9,
+  "employeur_sigle": "VILLE-DU-MONT-DORE",
+  "collectivite": "Ville du Mont-Dore",
+  "direction": "VILLE DU MONT-DORE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Population et affaires funéraires",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "population-et-affaires-funeraires"
+}
