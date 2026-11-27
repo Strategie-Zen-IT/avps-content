@@ -1,0 +1,161 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif",
+    "direction": "AGENCE SANITAIRE ET SOCIALE",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": null,
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Chirurgiens-dentistes",
+      "Cabinets de radiologie"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée",
+        "value": "Au moins égale à 10 ans pour le recrutement sans concours des adjoints administratifs"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Caractéristiques particulières de l'emploi",
+        "value": "Déplacements sur l'ensemble de la Nouvelle-Calédonie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Répartition du temps de travail",
+        "value": "Affecté à 70% au programme santé orale et à 30% au programme cancers féminins"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12952030.PDF"
+      }
+    ]
+  },
+  "alternateName": "Assistant dentaire – assistant administratif",
+  "description": "L'agence sanitaire et sociale de la Nouvelle-Calédonie, établissement public administratif, a pour objet de faciliter la garantie du droit à la santé pour tous. Elle met en œuvre les programmes prioritaires de prévention et de promotion de la santé décidés par la Nouvelle-Calédonie. L'assistant dentaire – assistant administratif sera affecté dans 2 programmes de l'agence : à 70% au programme santé orale et à 30% au programme cancers féminins.",
+  "disambiguatingDescription": "Poste d'assistant dentaire et d'assistant administratif à temps plein au sein de l'Agence sanitaire et sociale de la Nouvelle-Calédonie.",
+  "identifier": "26-1778",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "Assistant(e) dentaire - assistant(e) administratif(ve)",
+  "owner": {
+    "@type": "Organization",
+    "name": "Agence sanitaire et sociale"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": null,
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": "25.07.68",
+    "email": "recrutement@ass.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-27",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Capacités d'adaptation, flexibilité sur les plannings en fonction des priorités des programmes",
+      "Connaissances des spécificités culturelles néo-calédoniennes"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs : au moins égale à 10 ans",
+  "employerOverview": "L'agence sanitaire et sociale de la Nouvelle-Calédonie, établissement public administratif, a pour objet de faciliter la garantie du droit à la santé pour tous. Elle met en œuvre les programmes prioritaires de prévention et de promotion de la santé décidés par la Nouvelle-Calédonie.",
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Agence sanitaire et sociale de la Nouvelle-Calédonie (ASSNC)",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Qualification ou expérience en tant qu'assistante dentaire ou dans le milieu de la santé, Connaissance ou expérience des interventions en milieu scolaire",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Agence sanitaire et sociale"
+  },
+  "incentiveCompensation": null,
+  "industry": "Santé publique",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Agence sanitaire et sociale de la Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du Général Gallieni – 3ème étage, Centre-ville",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": null,
+  "occupationalCategory": [
+    "Santé publique soins",
+    "Administration générale"
+  ],
+  "physicalRequirement": null,
+  "qualifications": "Permis B indispensable",
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "assistant dentaire – agent administratif"
+  },
+  "responsibilities": [
+    "Assister les chirurgiens-dentistes au fauteuil lors des soins de scellement",
+    "Assister les chirurgiens-dentistes dans leurs missions d'éducation et de prévention buccodentaire",
+    "Gérer les stocks de matériel et de produits dentaires nécessaires à la réalisation de la mission",
+    "Entretenir le cabinet dentaire mobile et le matériel suivant les règles élémentaires d'hygiène",
+    "Saisir les données médicales recueillies au cours de la mission dans une base de données prévue à cet effet",
+    "Participation aux actions de sensibilisation",
+    "Archivage et tri du courrier",
+    "Le renfort administratif (secrétariat, classement, archivage) dans l'ensemble des programmes et services administratifs de l'agence qui le nécessiteraient",
+    "La préparation des dossiers de mammographie pour la seconde lecture, et préparation du retour des dossiers aux cabinets de radiologie",
+    "La saisie de données médicales dans la base de données 4D Prévidata (résultats du dépistage du col de l'utérus et du dépistage du cancer du sein, courriers non distribués)",
+    "Contribuer à l'organisation des missions des programmes concernés, dans le cadre d'un travail transversal et en équipe",
+    "Respecter les procédures de la fonction publique"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Qualification ou expérience en tant qu'assistante dentaire ou dans le milieu de la santé",
+    "Connaissance ou expérience des interventions en milieu scolaire",
+    "Utilisation des règles et protocoles d'hygiène lors de soins dentaires",
+    "Maîtrise de l'outil informatique (logiciels courants de bureautique)",
+    "Bon relationnel avec le public et notamment les enfants",
+    "Sens du service public",
+    "Communication en équipe",
+    "Respect de la hiérarchie",
+    "Rigueur",
+    "Capacités d'autonomie et d'organisation",
+    "Esprit d'équipe",
+    "Respect du secret médical et de la confidentialité"
+  ],
+  "specialCommitments": "Déplacements sur l'ensemble de la Nouvelle-Calédonie",
+  "title": "Assistant(e) dentaire - assistant(e) administratif(ve)",
+  "totalJobOpenings": 1,
+  "validThrough": "2026-12-18",
+  "workHours": "Temps plein",
+  "champs_open_data": 8,
+  "employeur_sigle": "ASS-NC",
+  "collectivite": "Agence sanitaire et sociale",
+  "direction": "AGENCE SANITAIRE ET SOCIALE",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Santé publique soins",
+  "famille_source": "respnc",
+  "famille_score": 0.924,
+  "dossier": "sante-publique-soins"
+}
