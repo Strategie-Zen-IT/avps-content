@@ -13,7 +13,7 @@
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
         "value": "inférieure à 3 ans"
       },
       {
@@ -24,8 +24,8 @@
     ]
   },
   "alternateName": null,
-  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des UPASS, des centres médico-sociaux (CMS) et des autres sites excentrés. Le médecin retenu sera rattaché à l'UPASS de Nouméa et travaillera au sein des équipes pluridisciplinaires des CMS de la province Sud (médecins, sage-femme, infirmiers, psychologue, secrétaire) attachées à la synergie médico-sociale et aux démarches continues d'amélioration de la qualité et des pratiques professionnelles.",
-  "disambiguatingDescription": "Médecin gynécologue à l'UPASS de Nouméa et pour les CMS de la province Sud",
+  "description": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales. Le médecin retenu sera rattaché à l'UPASS de Nouméa et travaillera au sein des équipes pluridisciplinaires des CMS de la province Sud.",
+  "disambiguatingDescription": null,
   "identifier": "26-1481",
   "image": null,
   "mainEntityOfPage": null,
@@ -42,7 +42,7 @@
   "@context": "https://schema.org",
   "@type": "JobPosting",
   "applicantLocationRequirements": {
-    "@type": "AreaServed",
+    "@type": "Place",
     "name": "UPASS de Nouméa",
     "address": {
       "@type": "PostalAddress",
@@ -70,24 +70,24 @@
     ]
   },
   "eligibilityToWorkRequirement": null,
-  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) contribue dans une dynamique de synergie médico-sociale à offrir des prestations de santé publique, à mener des actions de prévention et de promotion de la santé, à permettre l'accès aux soins, à répondre aux difficultés sociales, à soutenir et à accompagner les établissements médico-sociaux, et à prendre en charge les difficultés intrafamiliales.",
+  "employerOverview": "La direction de l'action sanitaire et sociale de la province Sud (DPASS) est rattachée au pôle développement et épanouissement de la personne et exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des UPASS, des centres médico-sociaux (CMS) et des autres sites excentrés.",
   "employmentType": "FULL_TIME",
   "employmentUnit": {
     "@type": "OrganizationalUnit",
-    "name": "UPASS de Nouméa",
-    "url": null,
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
     "logo": null
   },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Maîtrise des pratiques gynécologiques, Expérience en échographie gynéco-obstétricale, Expérience en planning familial indispensable",
+  "experienceRequirements": "Expérience en échographie gynéco-obstétricale et expérience en planning familial indispensable.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
     "url": "https://www.province-sud.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé",
+  "industry": "Santé publique",
   "jobBenefits": null,
   "jobDuration": null,
   "jobImmediateStart": false,
@@ -124,7 +124,7 @@
   "skills": [
     "Maîtrise des pratiques gynécologiques",
     "Expérience en échographie gynéco-obstétricale",
-    "Expérience en planning familial",
+    "Expérience en planning familial indispensable",
     "Sens de l'écoute et au non-jugement",
     "Très fortes capacités d'intégration dans différentes équipes",
     "Capacités à adapter sa communication en fonction des publics rencontrés",
@@ -134,7 +134,7 @@
   "specialCommitments": "Déplacements fréquents dans l'ensemble des CMS de la province Sud",
   "title": "Médecin gynécologue à l'UPASS de Nouméa et pour les CMS de la province Sud",
   "totalJobOpenings": 4,
-  "validThrough": "2026-10-30",
+  "validThrough": "2026-11-27",
   "workHours": null,
   "champs_open_data": 9,
   "employeur_sigle": "PVS",
