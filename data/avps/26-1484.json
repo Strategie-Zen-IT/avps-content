@@ -7,35 +7,34 @@
     "superieurHierarchique": "Directrice adjointe de la DPASS",
     "placeOrganigramme": null,
     "relationsFonctionnelles": [
-      "CMS de la province Sud",
-      "UPASS",
-      "CMS de La Foa",
-      "CMS de Bourail",
-      "CMS de Thio",
-      "CMS de Yaté",
-      "CMS de l'Île des Pins"
+      "Médecins",
+      "Sages-femmes",
+      "Assistantes sociales",
+      "Orthophonistes",
+      "Spécialistes vacataires",
+      "Psychothérapeutes"
     ],
     "informationsLibres": [
       {
         "@type": "PropertyValue",
-        "name": "Durée de résidence exigée",
+        "name": "Durée de résidence exigée pour le recrutement sur titre",
         "value": "inférieure à 3 ans"
       },
       {
         "@type": "PropertyValue",
-        "name": "Caractéristiques particulières de l'emploi",
-        "value": "Une attention particulière est portée à la santé communautaire, à la prévention et à la promotion de la santé, étant rappelé que le poste nécessite un bon niveau en termes d'urgences médicales. Ce poste demande des déplacements fréquents en province Sud. Les agents sont soumis à des astreintes de nuit et de week-end selon les plannings établis par roulements. Lors des remplacements en brousse, un logement provincial sera mis à disposition."
+        "name": "Logement",
+        "value": "Lors des remplacements en brousse, un logement provincial sera mis à disposition."
       },
       {
         "@type": "PropertyValue",
         "name": "Fiche d'emploi générique RESPNC",
-        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12955534.PDF"
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953390.PDF"
       }
     ]
   },
   "alternateName": null,
   "description": "Le poste de médecin itinérant permet de garantir la continuité de l'activité médicale sur toutes les structures de la province Sud et présente l'intérêt de la diversité. Le médecin ayant vocation à intervenir dans les équipes pluridisciplinaires aura pour missions des activités de médecine curative et préventive.",
-  "disambiguatingDescription": "Poste de médecin itinérant au sein de la Direction Provinciale de l'Action Sanitaire et Sociale de la Province Sud, basé à Nouméa avec de fréquents déplacements.",
+  "disambiguatingDescription": "Poste de médecin itinérant assurant des remplacements et des activités de médecine curative et préventive en province Sud.",
   "identifier": "26-1484",
   "image": null,
   "mainEntityOfPage": null,
@@ -51,7 +50,18 @@
   "url": "https://www.province-sud.nc/avpweb/app/avis-vacance-de-poste",
   "@context": "https://schema.org",
   "@type": "JobPosting",
-  "applicantLocationRequirements": null,
+  "applicantLocationRequirements": {
+    "@type": "WorkLocationConnection",
+    "name": "Hôtel de province",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "6 route des artifices",
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
   "applicationContact": {
     "@type": "ContactPoint",
     "telephone": "75.26.97",
@@ -61,7 +71,7 @@
   "datePosted": "2026-10-09",
   "directApply": false,
   "educationRequirements": {
-    "credentialCategory": "Diplôme de médecin",
+    "credentialCategory": "Diplôme de médecin ou de spécialiste",
     "competencyRequired": [
       "Titulaire d'un diplôme de médecin ou de spécialiste en médecine générale ou d'urgence",
       "Titulaire d'un diplôme d'épidémiologie et/ou de santé publique",
@@ -71,17 +81,22 @@
   "eligibilityToWorkRequirement": null,
   "employerOverview": "Rattachée au pôle développement et épanouissement de la personne, la direction de l'action sanitaire et sociale de la province Sud (DPASS) exerce son action sur l'ensemble du territoire provincial, au sein des services centraux, des unités provinciales d'action sanitaire et sociale (UPASS), des centres médico-sociaux (CMS) et des autres sites excentrés.",
   "employmentType": "FULL_TIME",
-  "employmentUnit": null,
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Province Sud",
+    "url": "https://www.province-sud.nc",
+    "logo": null
+  },
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": null,
-  "experienceRequirements": "Une capacité d'aide médicale urgente ou une expérience en poste isolé serait utile.",
+  "experienceRequirements": "Une expérience en poste isolé serait utile.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
     "url": "https://www.province-sud.nc"
   },
   "incentiveCompensation": null,
-  "industry": "Santé publique",
+  "industry": "Santé",
   "jobBenefits": "Lors des remplacements en brousse, un logement provincial sera mis à disposition.",
   "jobDuration": null,
   "jobImmediateStart": false,
@@ -101,24 +116,24 @@
   "jobLocationType": null,
   "jobStartDate": "2027-05-01",
   "occupationalCategory": [
-    "Politique de santé publique",
-    "Santé publique soins"
+    "Santé publique soins",
+    "Politique de santé publique"
   ],
   "physicalRequirement": null,
   "qualifications": "Titulaire du permis de conduire B",
   "relevantOccupation": {
     "@type": "Occupation",
-    "name": "Médecin du travail"
+    "name": "Médecin"
   },
   "responsibilities": [
     "Assurer les remplacements des médecins dans les CMS de la province Sud, en particulier ceux situés en brousse et qui assurent les urgences médicales 24h/24 (La Foa, Bourail, Thio, Yaté, Île des Pins)",
     "Assurer la médecine curative, y compris les urgences avec des périodes d'astreintes",
     "Assurer la médecine préventive, notamment l'activité de protection maternelle et infantile, la médecine scolaire et la contraception",
-    "Participer et, le cas échéant, de mener des programmes de santé publique et des projets impliquant plusieurs partenaires",
+    "Participer et, le cas échéant, mener des programmes de santé publique et des projets impliquant plusieurs partenaires",
     "Proposer des actions de prévention en lien avec les pathologies prédominantes et les problématiques de santé publique rencontrées",
     "Formuler des propositions d'actions visant à améliorer la prise en charge des patients"
   ],
-  "salaryCurrency": null,
+  "salaryCurrency": "XPF",
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
@@ -149,8 +164,8 @@
   "direction": "PROVINCE SUD",
   "direction_source": "source",
   "employeur_source": "source",
-  "famille_respnc": "Travail",
+  "famille_respnc": "Politique de santé publique",
   "famille_source": "respnc",
-  "famille_score": 0.743,
-  "dossier": "travail"
+  "famille_score": 0.869,
+  "dossier": "politique-de-sante-publique"
 }
