@@ -1,0 +1,163 @@
+{
+  "additionalType": {
+    "corpsDomaine": "Adjoint administratif",
+    "direction": "VICE-RECTORAT",
+    "uniteOrganisationnelle": null,
+    "nbAgentsEncadres": 0,
+    "superieurHierarchique": "Adjointe au chef de division et le chef de bureau",
+    "placeOrganigramme": null,
+    "relationsFonctionnelles": [
+      "Enseignants",
+      "Documentalistes",
+      "CPE",
+      "PsyEN"
+    ],
+    "informationsLibres": [
+      {
+        "@type": "PropertyValue",
+        "name": "Durée de résidence exigée pour le recrutement",
+        "value": "Sans concours des adjoints administratifs : au moins égale à 10 ans"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fiche d'emploi générique RESPNC",
+        "value": "https://drhfpnc.gouv.nc/sites/default/files/atoms/files/12953282.PDF"
+      }
+    ]
+  },
+  "alternateName": null,
+  "description": "La division des personnels enseignants est chargée, pour les enseignants, les documentalistes, les CPE et les PsyEN, de la gestion administrative individuelle et collective et de la rémunération des fonctionnaires de l'État et de Nouvelle-Calédonie ainsi que des agents non titulaires. Le gestionnaire ressources humaines assure, dans le cadre de l'organisation décidée par l'adjointe au chef de division et le chef de bureau, la gestion de la carrière et de la rémunération des personnels enseignants et d'orientation de l'enseignement public relevant de son périmètre.",
+  "disambiguatingDescription": null,
+  "identifier": "26-1767",
+  "image": null,
+  "mainEntityOfPage": null,
+  "name": "2 Gestionnaires ressources humaines de l'enseignement public",
+  "owner": {
+    "@type": "Organization",
+    "name": "Vice-rectorat"
+  },
+  "potentialAction": null,
+  "sameAs": null,
+  "subjectOf": null,
+  "url": null,
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "applicantLocationRequirements": {
+    "@type": "Schedule",
+    "name": "Vice-rectorat de la Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud"
+    }
+  },
+  "applicationContact": {
+    "@type": "ContactPoint",
+    "telephone": null,
+    "email": "ce.dpae@ac-noumea.nc"
+  },
+  "baseSalary": null,
+  "datePosted": "2026-11-27",
+  "directApply": false,
+  "educationRequirements": {
+    "credentialCategory": null,
+    "competencyRequired": [
+      "Connaissances générales des statuts de la fonction publique métropolitaine et de Nouvelle-Calédonie",
+      "Connaissance des règles de gestion selon les statuts et fonctions",
+      "Connaissance du système éducatif en Nouvelle-Calédonie",
+      "Maîtrise de l'organisation et des procédures de paye",
+      "Maîtrise de l'application Tiarhé"
+    ]
+  },
+  "eligibilityToWorkRequirement": "Durée de résidence exigée pour le recrutement sans concours des adjoints administratifs : au moins égale à 10 ans",
+  "employerOverview": null,
+  "employmentType": "FULL_TIME",
+  "employmentUnit": {
+    "@type": "OrganizationalUnit",
+    "name": "Division des personnels enseignants",
+    "url": null,
+    "logo": null
+  },
+  "estimatedSalary": null,
+  "experienceInPlaceOfEducation": null,
+  "experienceRequirements": "Expérience professionnelle souhaitée dans la gestion du personnel",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Vice-rectorat"
+  },
+  "incentiveCompensation": null,
+  "industry": "Service public",
+  "jobBenefits": null,
+  "jobDuration": null,
+  "jobImmediateStart": false,
+  "jobLocation": {
+    "@type": "Place",
+    "name": "Vice-rectorat de la Nouvelle-Calédonie",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": null,
+      "addressLocality": "Nouméa",
+      "addressRegion": "Province Sud",
+      "addressCountry": "NC",
+      "province": "province Sud",
+      "postalCode": "98800"
+    }
+  },
+  "jobLocationType": null,
+  "jobStartDate": "2027-02-01",
+  "occupationalCategory": [
+    "Ressources Humaines"
+  ],
+  "physicalRequirement": null,
+  "qualifications": null,
+  "relevantOccupation": {
+    "@type": "Occupation",
+    "name": "Gestionnaire administratif des ressources humaines"
+  },
+  "responsibilities": [
+    "Préparer et rédiger les actes de gestion relatifs à la carrière des personnels enseignants (reconstitution de la carrière, états de services, positions, cessation d'activité...)",
+    "Constituer, gérer, vérifier et suivre les dossiers des agents sur les diverses absences (maladie ordinaire, longue maladie, longue durée, mi-temps thérapeutique, autorisation d'absences et autres), expertise médicale, comité médical, conseil de santé...",
+    "Saisir et gérer les dossiers des personnels dans la base de données nationales propre au service (EPP)",
+    "Tenir à jour divers tableaux de bord de suivi",
+    "Saisir dans l'application paye Tiarhé l'ensemble des éléments de la paye en application des règles financières, statutaires, juridiques et sociales et mandater les rémunérations et les cotisations mensuellement",
+    "Mandater et contrôler les pièces justificatives",
+    "Contrôler le fichier mensuel des écarts de paye",
+    "Contrôler et assurer la fiabilité des données des bordereaux d'intégration des absences dans Tiarhé",
+    "Gérer le recouvrement des indus, le paiement des payes manuelles et le remboursement des frais liés à l'accident du travail",
+    "Editer les courriers de notification et indu dans Chorus",
+    "Archiver toute pièce justificative financière dans le dossier de l'agent",
+    "Renseigner et contrôler la fiabilité de la base de données Tiarhé",
+    "Établir des attestations sur demande des agents",
+    "Traiter les courriers, dossiers et documents dans le domaine d'activité (enregistrement, tri, diffusion, archivage...)",
+    "Assurer l'accueil physique et téléphonique des personnels",
+    "Participer à la mise en œuvre des opérations de gestion collective et des modifications impactant les opérations du service des moyens"
+  ],
+  "salaryCurrency": null,
+  "securityClearanceRequirement": null,
+  "sensoryRequirement": null,
+  "skills": [
+    "Expérience professionnelle souhaitée dans la gestion du personnel",
+    "Appétence pour les outils informatiques et logiciel métier",
+    "Compétence en rédaction administrative",
+    "Avoir le sens des responsabilités et respecter les règles de confidentialité",
+    "Avoir le sens de l'organisation et le sens du travail en équipe"
+  ],
+  "specialCommitments": null,
+  "title": "2 Gestionnaires ressources humaines de l'enseignement public",
+  "totalJobOpenings": 4,
+  "validThrough": "2026-12-18",
+  "workHours": null,
+  "champs_open_data": 9,
+  "employeur_sigle": "VR",
+  "collectivite": "Vice-rectorat",
+  "direction": "VICE-RECTORAT",
+  "direction_source": "source",
+  "employeur_source": "source",
+  "famille_respnc": "Ressources Humaines",
+  "famille_source": "respnc",
+  "famille_score": 1.0,
+  "dossier": "ressources-humaines"
+}
