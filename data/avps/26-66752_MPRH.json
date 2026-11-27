@@ -9,8 +9,7 @@
     "relationsFonctionnelles": [
       "Magistrats",
       "Services de la direction",
-      "Partenaires institutionnels",
-      "Partenaires associatifs"
+      "Partenaires institutionnels et associatifs"
     ],
     "informationsLibres": [
       {
@@ -115,7 +114,7 @@
     "name": "Etablissement de placement éducatif - foyer d'action éducative de Nouville",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Nouville",
+      "streetAddress": null,
       "addressLocality": "Nouméa",
       "addressRegion": "Province Sud",
       "addressCountry": "NC",
@@ -129,7 +128,7 @@
     "Action sociale"
   ],
   "physicalRequirement": null,
-  "qualifications": "Permis de conduire B",
+  "qualifications": "Permis B",
   "relevantOccupation": {
     "@type": "Occupation",
     "name": "Responsable socio éducatif"
@@ -147,7 +146,7 @@
     "En l'absence du chef de service, il assure, par délégation, la continuité du fonctionnement du service ainsi que la continuité de l'accompagnement éducatif et pédagogique des mineurs suivis",
     "Il contribue à l'accueil et à l'intégration des nouveaux professionnels en organisant leur accompagnement, notamment par la mise en place de périodes de tuilage, un soutien dans la prise en charge des premières mesures et des temps réguliers d'échange et de suivi."
   ],
-  "salaryCurrency": "XPF",
+  "salaryCurrency": null,
   "securityClearanceRequirement": null,
   "sensoryRequirement": null,
   "skills": [
