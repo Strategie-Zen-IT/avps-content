@@ -5,7 +5,7 @@
     "uniteOrganisationnelle": null,
     "nbAgentsEncadres": 0,
     "superieurHierarchique": "Responsable technique audiovisuel",
-    "placeOrganigramme": "Sous l'autorité du responsable technique audiovisuel",
+    "placeOrganigramme": null,
     "relationsFonctionnelles": [
       "DFI",
       "DAJI",
@@ -25,7 +25,7 @@
     ]
   },
   "alternateName": null,
-  "description": "Dans un monde où l’image tient une place de plus en plus importante, la province Sud souhaite renforcer sa capacité de production audiovisuelle de sa webTV. Dans ce cadre, elle recherche un assistant de production. Le titulaire est le point d'entrée des invités et des demandes adressées au service. Il prépare en amont tout ce qui n'est pas technique : invités, conducteurs, logistique, autorisations. Il produit les documents administratifs que le service doit fournir aux autres directions, pour que la rédaction et la technique se concentrent sur l'antenne.",
+  "description": "Dans le cadre du renforcement de sa capacité de production audiovisuelle de sa webTV, la province Sud recherche un assistant de production. Le titulaire est le point d'entrée des invités et des demandes adressées au service. Il prépare en amont tout ce qui n'est pas technique : invités, conducteurs, logistique, autorisations. Il produit les documents administratifs que le service doit fournir aux autres directions, pour que la rédaction et la technique se concentrent sur l'antenne.",
   "disambiguatingDescription": null,
   "identifier": "26-1749",
   "image": null,
@@ -69,7 +69,7 @@
   "employmentUnit": null,
   "estimatedSalary": null,
   "experienceInPlaceOfEducation": true,
-  "experienceRequirements": "Expérience (critère déterminant) de 2 à 3 ans minimum en production audiovisuelle, événementiel, communication ou secrétariat de direction ; la pratique du métier prime sur le diplôme",
+  "experienceRequirements": "Expérience de 2 à 3 ans minimum en production audiovisuelle, événementiel, communication ou secrétariat de direction ; la pratique du métier prime sur le diplôme.",
   "hiringOrganization": {
     "@type": "Organization",
     "name": "Province Sud",
@@ -82,7 +82,7 @@
   "jobImmediateStart": true,
   "jobLocation": {
     "@type": "Place",
-    "name": "Nouméa",
+    "name": "Secrétariat Général",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": null,
@@ -94,7 +94,7 @@
     }
   },
   "jobLocationType": null,
-  "jobStartDate": null,
+  "jobStartDate": "immédiatement",
   "occupationalCategory": [
     "Communication",
     "Administration générale"
@@ -118,18 +118,18 @@
   "sensoryRequirement": null,
   "skills": [
     "Connaître la bureautique avancée (traitement de texte, tableur), outils collaboratifs et de planning",
-    "Posséder une excellente maîtrise de l’orthographe et de la syntaxe",
+    "Posséder une excellente maîtrise de l'orthographe et de la syntaxe",
     "Conduire plusieurs émissions en parallèle et anticiper les imprévus",
     "Tenir à jour un fichier de contacts fiable",
     "Sens de l'accueil, diplomatie et sens du protocole",
     "Calme sous pression, réactivité, rigueur",
     "Discrétion et neutralité : accès aux agendas des élus et à des informations non publiques"
   ],
-  "specialCommitments": null,
+  "specialCommitments": "Horaires calés sur les enregistrements (matinales, soirées), déplacements ponctuels sur les tournages",
   "title": "Assistant de production",
   "totalJobOpenings": 1,
   "validThrough": "2026-12-11",
-  "workHours": "Horaires calés sur les enregistrements (début tôt le matin en cas de matinale, soirées ponctuelles)",
+  "workHours": "Horaires calés sur les enregistrements",
   "champs_open_data": 7,
   "employeur_sigle": "PVS",
   "collectivite": "Province Sud",
